@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-19 19:17:03 UTC`
+📆 Last Updated: `2023-03-19 20:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CokeMoveไปกับPPKRIT](http://twitter.com/search?q=%23CokeMove%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9aPPKRIT) | N/A |
-| 2 | [#ATLAS_TH](http://twitter.com/search?q=%23ATLAS_TH) | N/A |
-| 3 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 4 | [#Perth22ndBirthday](http://twitter.com/search?q=%23Perth22ndBirthday) | N/A |
-| 5 | [#GMMTVหยุดเอาเปรียบผู้บริโภค](http://twitter.com/search?q=%23GMMTV%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%82%e0%b8%a0%e0%b8%84) | N/A |
+| 1 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
+| 2 | [#ALevel66](http://twitter.com/search?q=%23ALevel66) | N/A |
+| 3 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
+| 4 | [#KCON2023THAILAND](http://twitter.com/search?q=%23KCON2023THAILAND) | N/A |
+| 5 | [#BAMBAMKCON2023TH_D2](http://twitter.com/search?q=%23BAMBAMKCON2023TH_D2) | N/A |
 | 6 | [HBD PERTH](http://twitter.com/search?q=HBD+PERTH) | N/A |
-| 7 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 8 | [BOBBY - Cherry Blossom MV](http://twitter.com/search?q=BOBBY+-+Cherry+Blossom+MV) | N/A |
-| 9 | [Hard Carry](http://twitter.com/search?q=Hard+Carry) | N/A |
-| 10 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 11 | [#FutureEP1](http://twitter.com/search?q=%23FutureEP1) | N/A |
-| 12 | [#นางสาวไทย2566](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a22566) | N/A |
-| 13 | [#BAMBAMKCON2023TH_D2](http://twitter.com/search?q=%23BAMBAMKCON2023TH_D2) | N/A |
-| 14 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 15 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 16 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 17 | [#KDPPE](http://twitter.com/search?q=%23KDPPE) | N/A |
-| 18 | [#PerthTanapon](http://twitter.com/search?q=%23PerthTanapon) | N/A |
-| 19 | [#YOUNGJAExKCON2023THAILAND](http://twitter.com/search?q=%23YOUNGJAExKCON2023THAILAND) | N/A |
-| 20 | [#แบนsensebook](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99sensebook) | N/A |
-| 21 | [#JeffLiveOnSaturnBKK](http://twitter.com/search?q=%23JeffLiveOnSaturnBKK) | N/A |
-| 22 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
-| 23 | [#JisooDebutMarch31](http://twitter.com/search?q=%23JisooDebutMarch31) | N/A |
-| 24 | [#9MCOTxปรมาจารย์ลัทธิมารEP20](http://twitter.com/search?q=%239MCOTx%e0%b8%9b%e0%b8%a3%e0%b8%a1%e0%b8%b2%e0%b8%88%e0%b8%b2%e0%b8%a3%e0%b8%a2%e0%b9%8c%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a1%e0%b8%b2%e0%b8%a3EP20) | N/A |
-| 25 | [#17thBUNNY_HAN_YUJIN](http://twitter.com/search?q=%2317thBUNNY_HAN_YUJIN) | N/A |
-| 26 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 27 | [#HAPEACH_YUJIN_DAY](http://twitter.com/search?q=%23HAPEACH_YUJIN_DAY) | N/A |
-| 28 | [#GOT7FOREVER](http://twitter.com/search?q=%23GOT7FOREVER) | N/A |
-| 29 | [#안냐쎄요_한유진생일임니다](http://twitter.com/search?q=%23%ec%95%88%eb%83%90%ec%8e%84%ec%9a%94_%ed%95%9c%ec%9c%a0%ec%a7%84%ec%83%9d%ec%9d%bc%ec%9e%84%eb%8b%88%eb%8b%a4) | N/A |
-| 30 | [#ซีเซียม137](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b5%e0%b9%80%e0%b8%8b%e0%b8%b5%e0%b8%a2%e0%b8%a1137) | N/A |
-| 31 | [#AboutDamnTimeinbkk](http://twitter.com/search?q=%23AboutDamnTimeinbkk) | N/A |
-| 32 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 33 | [#NCT127_질주](http://twitter.com/search?q=%23NCT127_%ec%a7%88%ec%a3%bc) | N/A |
-| 34 | [#17thAungpaoBD](http://twitter.com/search?q=%2317thAungpaoBD) | N/A |
-| 35 | [#เภตรานฤมิตตอน๒](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a0%e0%b8%95%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%a4%e0%b8%a1%e0%b8%b4%e0%b8%95%e0%b8%95%e0%b8%ad%e0%b8%99%e0%b9%92) | N/A |
-| 36 | [#20aungpao](http://twitter.com/search?q=%2320aungpao) | N/A |
-| 37 | [#HOLLYWOODGAMENIGHTTHAILAND](http://twitter.com/search?q=%23HOLLYWOODGAMENIGHTTHAILAND) | N/A |
-| 38 | [#UMGSeriesEP2](http://twitter.com/search?q=%23UMGSeriesEP2) | N/A |
-| 39 | [#WITHUTxATLAS](http://twitter.com/search?q=%23WITHUTxATLAS) | N/A |
-| 40 | [#ดัชมิลล์GOODDYxMIXXIW](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%a5%e0%b9%8cGOODDYxMIXXIW) | N/A |
-| 41 | [#SUGA_AgustD_TOUR_in_Bangkok](http://twitter.com/search?q=%23SUGA_AgustD_TOUR_in_Bangkok) | N/A |
-| 42 | [#สวรรค์ประทานพร](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%97%e0%b8%b2%e0%b8%99%e0%b8%9e%e0%b8%a3) | N/A |
-| 43 | [#ITZY](http://twitter.com/search?q=%23ITZY) | N/A |
-| 44 | [#ลางสังหรณ์](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b8%87%e0%b8%ab%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 7 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 8 | [Hard Carry](http://twitter.com/search?q=Hard+Carry) | N/A |
+| 9 | [trinity in kk town](http://twitter.com/search?q=trinity+in+kk+town) | N/A |
+| 10 | [JAM X THAILANDPOST](http://twitter.com/search?q=JAM+X+THAILANDPOST) | N/A |
+| 11 | [tenlee sam bai dee bor](http://twitter.com/search?q=tenlee+sam+bai+dee+bor) | N/A |
+| 12 | [laneige welcome home](http://twitter.com/search?q=laneige+welcome+home) | N/A |
+| 13 | [MON PETRA](http://twitter.com/search?q=MON+PETRA) | N/A |
+| 14 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 15 | [Bright in Japan](http://twitter.com/search?q=Bright+in+Japan) | N/A |
+| 16 | [2 Baddies MV Road to 100 M](http://twitter.com/search?q=2+Baddies+MV+Road+to+100+M) | N/A |
+| 17 | [Win x Japan](http://twitter.com/search?q=Win+x+Japan) | N/A |
+| 18 | [Errr Day](http://twitter.com/search?q=Errr+Day) | N/A |
+| 19 | [Vlog](http://twitter.com/search?q=Vlog) | Vlog is short for video blog and it refers to a type of blog that consists of videos. It is a form of online media where people can share their thoughts, opinions, and experiences through video content. Vlogs are typically posted on social media platforms such as YouTube, Instagram, and TikTok. |
+| 20 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
+| 21 | [#นางสาวไทย2566](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a22566) | N/A |
+| 22 | [#bearbearyxcharlotte](http://twitter.com/search?q=%23bearbearyxcharlotte) | N/A |
+| 23 | [#Perth22ndBirthday](http://twitter.com/search?q=%23Perth22ndBirthday) | N/A |
+| 24 | [#CokeMoveไปกับPPKRIT](http://twitter.com/search?q=%23CokeMove%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9aPPKRIT) | N/A |
+| 25 | [#CutiePieBloomingInOSAKA](http://twitter.com/search?q=%23CutiePieBloomingInOSAKA) | N/A |
+| 26 | [#thaitanium23rdxengfa](http://twitter.com/search?q=%23thaitanium23rdxengfa) | N/A |
+| 27 | [#GMMTVหยุดเอาเปรียบผู้บริโภค](http://twitter.com/search?q=%23GMMTV%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%82%e0%b8%a0%e0%b8%84) | N/A |
+| 28 | [#FutureEP1](http://twitter.com/search?q=%23FutureEP1) | N/A |
+| 29 | [#ดัชมิลล์GOODDYxMIXXIW](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%a5%e0%b9%8cGOODDYxMIXXIW) | N/A |
+| 30 | [#MAYCONCERT2023](http://twitter.com/search?q=%23MAYCONCERT2023) | N/A |
+| 31 | [#ภาคินัย](http://twitter.com/search?q=%23%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b8%b4%e0%b8%99%e0%b8%b1%e0%b8%a2) | N/A |
+| 32 | [#โดทูเดอะแจทูเดอะจอง](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b9%81%e0%b8%88%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%88%e0%b8%ad%e0%b8%87) | N/A |
+| 33 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
+| 34 | [#chompuathitafinalshowfobi2023](http://twitter.com/search?q=%23chompuathitafinalshowfobi2023) | N/A |
+| 35 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 36 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 37 | [#แบนsensebook](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99sensebook) | N/A |
+| 38 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 39 | [#laneigexnnj](http://twitter.com/search?q=%23laneigexnnj) | N/A |
+| 40 | [#อิงฟ้าXregensmartcity](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2Xregensmartcity) | N/A |
+| 41 | [#dek66](http://twitter.com/search?q=%23dek66) | #dek66 is a hashtag used on social media to refer to the 66th episode of the Japanese anime series, Demon Slayer. The hashtag is used to discuss the episode and share fan reactions. |
+| 42 | [#ถวายระฆังกับโอห์มไง](http://twitter.com/search?q=%23%e0%b8%96%e0%b8%a7%e0%b8%b2%e0%b8%a2%e0%b8%a3%e0%b8%b0%e0%b8%86%e0%b8%b1%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%82%e0%b8%ad%e0%b8%ab%e0%b9%8c%e0%b8%a1%e0%b9%84%e0%b8%87) | N/A |
+| 43 | [#PerthTanapon](http://twitter.com/search?q=%23PerthTanapon) | N/A |
+| 44 | [#ShootingStarinJapanD2](http://twitter.com/search?q=%23ShootingStarinJapanD2) | N/A |
+| 45 | [#KDPPE](http://twitter.com/search?q=%23KDPPE) | N/A |
+| 46 | [#702sportsday](http://twitter.com/search?q=%23702sportsday) | N/A |
+| 47 | [#ศึก12ราศีxหยิ่นวอร์EP2](http://twitter.com/search?q=%23%e0%b8%a8%e0%b8%b6%e0%b8%8112%e0%b8%a3%e0%b8%b2%e0%b8%a8%e0%b8%b5x%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8cEP2) | N/A |
+| 48 | [#BedFriendEP5](http://twitter.com/search?q=%23BedFriendEP5) | N/A |
+| 49 | [#WITHUTxATLAS](http://twitter.com/search?q=%23WITHUTxATLAS) | N/A |
+| 50 | [#9MCOTxปรมาจารย์ลัทธิมารEP20](http://twitter.com/search?q=%239MCOTx%e0%b8%9b%e0%b8%a3%e0%b8%a1%e0%b8%b2%e0%b8%88%e0%b8%b2%e0%b8%a3%e0%b8%a2%e0%b9%8c%e0%b8%a5%e0%b8%b1%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b8%a1%e0%b8%b2%e0%b8%a3EP20) | N/A |
 
 
 

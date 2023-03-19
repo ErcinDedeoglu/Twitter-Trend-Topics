@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-19 19:16:47 UTC`
+📆 Last Updated: `2023-03-19 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 2 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
-| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 6 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 7 | [#LGBTQIASpringiscoming](http://twitter.com/search?q=%23LGBTQIASpringiscoming) | N/A |
-| 8 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 9 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 10 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 11 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 14 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
-| 15 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 16 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
-| 17 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 18 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
-| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 20 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 21 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
-| 24 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 25 | [Toko Ekambi](http://twitter.com/search?q=Toko+Ekambi) | Toko Ekambi is a traditional African dance originating from the Ivory Coast. It is a fast-paced, energetic dance that involves clapping, stomping, and singing. The name "Toko Ekambi" translates to "dance of joy" in English. |
-| 26 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 27 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 28 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 29 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 30 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 31 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 32 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
-| 33 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 34 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
-| 35 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 36 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 37 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 38 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 39 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 40 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
-| 41 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 42 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 43 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 44 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Stade Rennais](http://twitter.com/search?q=Stade+Rennais) | N/A |
-| 47 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 1 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
+| 2 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
+| 3 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 4 | [#SDROM](http://twitter.com/search?q=%23SDROM) | N/A |
+| 5 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 6 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 9 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 10 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 11 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 12 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
+| 13 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 14 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 15 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 19 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 20 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 21 | [Nasser](http://twitter.com/search?q=Nasser) | N/A |
+| 22 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 23 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
+| 24 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 27 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 28 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Adèle](http://twitter.com/search?q=Ad%c3%a8le) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 33 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 34 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 35 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 36 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 37 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 38 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 39 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 40 | [Amine](http://twitter.com/search?q=Amine) | N/A |
+| 41 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 42 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 43 | [Toko Ekambi](http://twitter.com/search?q=Toko+Ekambi) | Toko Ekambi is a traditional African dance originating from the Ivory Coast. It is a fast-paced, energetic dance that involves clapping, stomping, and singing. The name "Toko Ekambi" translates to "dance of joy" in English. |
+| 44 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 45 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
+| 46 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 47 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
 | 48 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 50 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
 
 
 

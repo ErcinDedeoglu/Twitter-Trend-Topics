@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-19 19:17:23 UTC`
+📆 Last Updated: `2023-03-19 20:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
-| 3 | [Granato](http://twitter.com/search?q=Granato) | N/A |
-| 4 | [Jost](http://twitter.com/search?q=Jost) | N/A |
-| 5 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 7 | [#UnitedNYCHalf](http://twitter.com/search?q=%23UnitedNYCHalf) | N/A |
-| 8 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 9 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 10 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 1 | [Granato](http://twitter.com/search?q=Granato) | N/A |
+| 2 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 3 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 4 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
+| 5 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 6 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 7 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 8 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
+| 9 | [#UnitedNYCHalf](http://twitter.com/search?q=%23UnitedNYCHalf) | N/A |
+| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 11 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
 | 12 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 13 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 13 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 14 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
-| 15 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 16 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 17 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 21 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 22 | [#ProjectFear](http://twitter.com/search?q=%23ProjectFear) | N/A |
-| 23 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 25 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 26 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 27 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 28 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 30 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 31 | [GO BIG BLUE](http://twitter.com/search?q=GO+BIG+BLUE) | N/A |
-| 32 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 34 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
-| 35 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 36 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 37 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
-| 38 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 39 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
-| 40 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 41 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 42 | [Sean Miller](http://twitter.com/search?q=Sean+Miller) | N/A |
-| 43 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 44 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 45 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 46 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
-| 47 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
-| 48 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 50 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 15 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 16 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 17 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 18 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 19 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 22 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 23 | [#ProjectFear](http://twitter.com/search?q=%23ProjectFear) | N/A |
+| 24 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 25 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 27 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
+| 28 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 29 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 30 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 31 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 32 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 33 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 34 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
+| 35 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 36 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
+| 37 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 38 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 39 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 40 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 41 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 42 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 43 | [Ware](http://twitter.com/search?q=Ware) | N/A |
+| 44 | [Congrats Jay](http://twitter.com/search?q=Congrats+Jay) | N/A |
+| 45 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 46 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
+| 47 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
+| 48 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 49 | [DJ Stewart](http://twitter.com/search?q=DJ+Stewart) | N/A |
+| 50 | [Tomlin](http://twitter.com/search?q=Tomlin) | Tomlin is a surname of English origin. It is derived from the Old English personal name Toma, which means "twin". The name can also be found in Scotland and Ireland. |
 
 
 

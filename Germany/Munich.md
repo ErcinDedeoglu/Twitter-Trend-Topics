@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-19 19:16:49 UTC`
+📆 Last Updated: `2023-03-19 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
-| 2 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 4 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
-| 5 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 6 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
-| 7 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 10 | [#3Worte1Account](http://twitter.com/search?q=%233Worte1Account) | N/A |
+| 1 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
+| 2 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
+| 3 | [#polizeiruf110](http://twitter.com/search?q=%23polizeiruf110) | N/A |
+| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [#M05SCF](http://twitter.com/search?q=%23M05SCF) | N/A |
+| 6 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 7 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 8 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 11 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 12 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 13 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 14 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 15 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 17 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 18 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 19 | [Tabellenführer](http://twitter.com/search?q=Tabellenf%c3%bchrer) | N/A |
-| 20 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 21 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 22 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 23 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 24 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
-| 25 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 26 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 27 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 28 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 29 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 35 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 36 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 37 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
-| 38 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 12 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 13 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 14 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 15 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 16 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 17 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 18 | [Tabellenführer](http://twitter.com/search?q=Tabellenf%c3%bchrer) | N/A |
+| 19 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 20 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 21 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 22 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 23 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 24 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 25 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 26 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 27 | [Rennen](http://twitter.com/search?q=Rennen) | N/A |
+| 28 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 29 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 30 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 33 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 34 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 36 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
+| 37 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 38 | [Spieltag](http://twitter.com/search?q=Spieltag) | N/A |
 | 39 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
 | 40 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
-| 41 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 42 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 43 | [Partie](http://twitter.com/search?q=Partie) | N/A |
-| 44 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
-| 45 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 46 | [#M05SCF](http://twitter.com/search?q=%23M05SCF) | N/A |
+| 41 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 42 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 43 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
+| 44 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 45 | [#kitchenimpossible](http://twitter.com/search?q=%23kitchenimpossible) | N/A |
+| 46 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 47 | [#berlindirekt](http://twitter.com/search?q=%23berlindirekt) | N/A |
-| 48 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
-| 49 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 48 | [#3Worte1Account](http://twitter.com/search?q=%233Worte1Account) | N/A |
+| 49 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
 | 50 | [#Formel1](http://twitter.com/search?q=%23Formel1) | N/A |
 
 

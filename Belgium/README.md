@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-19 19:17:28 UTC`
+📆 Last Updated: `2023-03-19 20:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
 | 2 | [#OHLAND](http://twitter.com/search?q=%23OHLAND) | N/A |
-| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 4 | [#7dag](http://twitter.com/search?q=%237dag) | N/A |
-| 5 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 6 | [#ANTCHA](http://twitter.com/search?q=%23ANTCHA) | N/A |
-| 7 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 11 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
+| 4 | [#gnteup](http://twitter.com/search?q=%23gnteup) | N/A |
+| 5 | [Matteo Simoni](http://twitter.com/search?q=Matteo+Simoni) | N/A |
+| 6 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 7 | [#USGKVM](http://twitter.com/search?q=%23USGKVM) | N/A |
+| 8 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 9 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 10 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 12 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 13 | [Ricca](http://twitter.com/search?q=Ricca) | N/A |
-| 14 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 15 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 16 | [Louvain](http://twitter.com/search?q=Louvain) | N/A |
-| 17 | [Yari](http://twitter.com/search?q=Yari) | N/A |
-| 18 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 22 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 24 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 25 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Malines](http://twitter.com/search?q=Malines) | N/A |
-| 28 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 29 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 30 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 31 | [Guy Verhofstadt](http://twitter.com/search?q=Guy+Verhofstadt) | N/A |
-| 32 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
-| 33 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Bodart](http://twitter.com/search?q=Bodart) | N/A |
-| 36 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 37 | [Perica](http://twitter.com/search?q=Perica) | N/A |
-| 38 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 39 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 40 | [Beke](http://twitter.com/search?q=Beke) | N/A |
-| 41 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 14 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 16 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 17 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 18 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 20 | [Yari](http://twitter.com/search?q=Yari) | N/A |
+| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 22 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 23 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 24 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
+| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 27 | [Louvain](http://twitter.com/search?q=Louvain) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 30 | [OESO](http://twitter.com/search?q=OESO) | N/A |
+| 31 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 32 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 33 | [Ganna](http://twitter.com/search?q=Ganna) | N/A |
+| 34 | [Guy Verhofstadt](http://twitter.com/search?q=Guy+Verhofstadt) | N/A |
+| 35 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 36 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 37 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 39 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 40 | [Bodart](http://twitter.com/search?q=Bodart) | N/A |
+| 41 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
 | 42 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 43 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 44 | [Meunier](http://twitter.com/search?q=Meunier) | N/A |
-| 45 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 46 | [Frank Vandenbroucke](http://twitter.com/search?q=Frank+Vandenbroucke) | N/A |
-| 47 | [Alexander De Croo](http://twitter.com/search?q=Alexander+De+Croo) | N/A |
-| 48 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 49 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 44 | [Perica](http://twitter.com/search?q=Perica) | N/A |
+| 45 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 46 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 47 | [alexander de croo](http://twitter.com/search?q=alexander+de+croo) | N/A |
+| 48 | [Zulte](http://twitter.com/search?q=Zulte) | N/A |
+| 49 | [Frank Vandenbroucke](http://twitter.com/search?q=Frank+Vandenbroucke) | N/A |
+| 50 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
 
 
 

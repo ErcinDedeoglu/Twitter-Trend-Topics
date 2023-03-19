@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-19 19:16:37 UTC`
+📆 Last Updated: `2023-03-19 20:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 3 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 4 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 5 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 6 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 7 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 8 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 9 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
-| 10 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 1 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 2 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 3 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 5 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 6 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 7 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 8 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 9 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 10 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
 | 11 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 12 | [Himno Nacional Mexicano](http://twitter.com/search?q=Himno+Nacional+Mexicano) | N/A |
-| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 14 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 16 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 17 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 18 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 19 | [ORGULLO MEXICANO](http://twitter.com/search?q=ORGULLO+MEXICANO) | N/A |
-| 20 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 21 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 12 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 13 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 14 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 15 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 16 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 17 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 18 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 19 | [Himno Nacional Mexicano](http://twitter.com/search?q=Himno+Nacional+Mexicano) | N/A |
+| 20 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 21 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
 | 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 25 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 26 | [Mario Molina](http://twitter.com/search?q=Mario+Molina) | N/A |
-| 27 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 29 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 31 | [Jorge Sánchez](http://twitter.com/search?q=Jorge+S%c3%a1nchez) | N/A |
-| 32 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 33 | [Cande](http://twitter.com/search?q=Cande) | N/A |
-| 34 | [Eredivisie](http://twitter.com/search?q=Eredivisie) | N/A |
-| 35 | [Walter](http://twitter.com/search?q=Walter) | N/A |
-| 36 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
-| 37 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 38 | [Edson](http://twitter.com/search?q=Edson) | N/A |
-| 39 | [Jaime Sabines](http://twitter.com/search?q=Jaime+Sabines) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 42 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 43 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 44 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 45 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 46 | [#F1DriveroftheDay](http://twitter.com/search?q=%23F1DriveroftheDay) | N/A |
+| 23 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 25 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 26 | [ORGULLO MEXICANO](http://twitter.com/search?q=ORGULLO+MEXICANO) | N/A |
+| 27 | [Walter Gassire](http://twitter.com/search?q=Walter+Gassire) | N/A |
+| 28 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 29 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 31 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 32 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 33 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 34 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 35 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
+| 36 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 37 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 38 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 39 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
+| 40 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 41 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 42 | [Mario Molina](http://twitter.com/search?q=Mario+Molina) | N/A |
+| 43 | [Cande](http://twitter.com/search?q=Cande) | N/A |
+| 44 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 45 | [#Pumas](http://twitter.com/search?q=%23Pumas) | N/A |
+| 46 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
 | 47 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 48 | [#NeverGiveUp](http://twitter.com/search?q=%23NeverGiveUp) | N/A |
-| 49 | [#JeddahGP](http://twitter.com/search?q=%23JeddahGP) | N/A |
-| 50 | [#JisooDebutMarch31](http://twitter.com/search?q=%23JisooDebutMarch31) | N/A |
+| 48 | [#F1DriveroftheDay](http://twitter.com/search?q=%23F1DriveroftheDay) | N/A |
+| 49 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 50 | [#DiaDelHombre](http://twitter.com/search?q=%23DiaDelHombre) | N/A |
 
 
 

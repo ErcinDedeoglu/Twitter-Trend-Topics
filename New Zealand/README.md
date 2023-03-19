@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-19 19:17:33 UTC`
+📆 Last Updated: `2023-03-19 20:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for New Zealand
 | 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 5 | [#bluvcru](http://twitter.com/search?q=%23bluvcru) | N/A |
-| 6 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
-| 7 | [Orewa](http://twitter.com/search?q=Orewa) | N/A |
-| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 9 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 10 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 5 | [#BLUvCRU](http://twitter.com/search?q=%23BLUvCRU) | N/A |
+| 6 | [Orewa](http://twitter.com/search?q=Orewa) | N/A |
+| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 8 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 9 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 10 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
 | 11 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 12 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 15 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 16 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 17 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 18 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
-| 19 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 12 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 13 | [Sports Center](http://twitter.com/search?q=Sports+Center) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 16 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 17 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 18 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 19 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |
 | 20 | [Julian Batchelor](http://twitter.com/search?q=Julian+Batchelor) | N/A |
 | 21 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 22 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 23 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
-| 26 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 27 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
-| 28 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 29 | [kellie-jay keen-minshull](http://twitter.com/search?q=kellie-jay+keen-minshull) | N/A |
-| 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 31 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 32 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 33 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 34 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 35 | [Co-governance](http://twitter.com/search?q=Co-governance) | N/A |
-| 36 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 38 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 39 | [Te Tiriti](http://twitter.com/search?q=Te+Tiriti) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 42 | [kawerau](http://twitter.com/search?q=kawerau) | N/A |
-| 43 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 44 | [marae](http://twitter.com/search?q=marae) | N/A |
-| 45 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 46 | [lyttelton](http://twitter.com/search?q=lyttelton) | N/A |
-| 47 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 48 | [National and ACT](http://twitter.com/search?q=National+and+ACT) | N/A |
-| 49 | [super rugby](http://twitter.com/search?q=super+rugby) | N/A |
-| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 25 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
+| 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 27 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 28 | [Rare](http://twitter.com/search?q=Rare) | N/A |
+| 29 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 30 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 31 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
+| 32 | [Co-governance](http://twitter.com/search?q=Co-governance) | N/A |
+| 33 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 34 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 35 | [Te Tiriti](http://twitter.com/search?q=Te+Tiriti) | N/A |
+| 36 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 37 | [National and Act](http://twitter.com/search?q=National+and+Act) | N/A |
+| 38 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
+| 39 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 40 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
+| 41 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 42 | [lyttelton](http://twitter.com/search?q=lyttelton) | N/A |
+| 43 | [marae](http://twitter.com/search?q=marae) | N/A |
+| 44 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 45 | [Democracy NZ](http://twitter.com/search?q=Democracy+NZ) | N/A |
+| 46 | [super rugby](http://twitter.com/search?q=super+rugby) | N/A |
+| 47 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 48 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
+| 49 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 
 
 
