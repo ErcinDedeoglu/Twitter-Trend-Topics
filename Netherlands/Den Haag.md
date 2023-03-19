@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-19 20:17:19 UTC`
+📆 Last Updated: `2023-03-19 21:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 3 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
-| 4 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 5 | [#tweaz](http://twitter.com/search?q=%23tweaz) | N/A |
-| 6 | [#vitpsv](http://twitter.com/search?q=%23vitpsv) | N/A |
-| 7 | [#miljoenenjacht](http://twitter.com/search?q=%23miljoenenjacht) | N/A |
+| 1 | [#tweaz](http://twitter.com/search?q=%23tweaz) | N/A |
+| 2 | [#miljoenenjacht](http://twitter.com/search?q=%23miljoenenjacht) | N/A |
+| 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 4 | [#langsdenieuwezijderoute](http://twitter.com/search?q=%23langsdenieuwezijderoute) | N/A |
+| 5 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 6 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 7 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
 | 8 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
 | 9 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 10 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 | 11 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 13 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 14 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 15 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
-| 16 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 17 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 20 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 21 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 22 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 23 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 24 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 25 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 26 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 27 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 28 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 29 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
-| 30 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 32 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 15 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 16 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 17 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 18 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 19 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 20 | [Makkelie](http://twitter.com/search?q=Makkelie) | Makkelie is a Dutch surname. It is derived from the Dutch word makkelijk, which means "easy" or "simple". |
+| 21 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 22 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 23 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 24 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 25 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 26 | [Coolsingel](http://twitter.com/search?q=Coolsingel) | N/A |
+| 27 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 28 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 29 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 30 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 31 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 32 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
 | 33 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 34 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
-| 37 | [#MaxVerstappen](http://twitter.com/search?q=%23MaxVerstappen) | N/A |
-| 38 | [#Arcadia](http://twitter.com/search?q=%23Arcadia) | N/A |
-| 39 | [#viaplay](http://twitter.com/search?q=%23viaplay) | N/A |
-| 40 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 41 | [#exccam](http://twitter.com/search?q=%23exccam) | N/A |
-| 42 | [#ESPN](http://twitter.com/search?q=%23ESPN) | N/A |
-| 43 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 44 | [#klassieker](http://twitter.com/search?q=%23klassieker) | N/A |
+| 34 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 35 | [#demol](http://twitter.com/search?q=%23demol) | N/A |
+| 36 | [#Arcadia](http://twitter.com/search?q=%23Arcadia) | N/A |
+| 37 | [#vitpsv](http://twitter.com/search?q=%23vitpsv) | N/A |
+| 38 | [#humberto](http://twitter.com/search?q=%23humberto) | N/A |
+| 39 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 40 | [#MaxVerstappen](http://twitter.com/search?q=%23MaxVerstappen) | N/A |
+| 41 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 42 | [#FCTwente](http://twitter.com/search?q=%23FCTwente) | N/A |
+| 43 | [#viaplay](http://twitter.com/search?q=%23viaplay) | N/A |
+| 44 | [#exccam](http://twitter.com/search?q=%23exccam) | N/A |
 | 45 | [#fcgroningen](http://twitter.com/search?q=%23fcgroningen) | N/A |
 
 

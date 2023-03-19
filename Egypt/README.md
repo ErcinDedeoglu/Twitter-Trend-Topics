@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-19 20:18:04 UTC`
+📆 Last Updated: `2023-03-19 21:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Egypt
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#افتحوا_استاد_القاهره](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%aa%d8%ad%d9%88%d8%a7_%d8%a7%d8%b3%d8%aa%d8%a7%d8%af_%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 1 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 2 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 3 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 4 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 5 | [#انقذ_الزمالك_يا_وزير](http://twitter.com/search?q=%23%d8%a7%d9%86%d9%82%d8%b0_%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83_%d9%8a%d8%a7_%d9%88%d8%b2%d9%8a%d8%b1) | N/A |
-| 6 | [#ياوزير_حل_مجلس_مرتضي](http://twitter.com/search?q=%23%d9%8a%d8%a7%d9%88%d8%b2%d9%8a%d8%b1_%d8%ad%d9%84_%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
-| 7 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 8 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
-| 9 | [#_كرتون](http://twitter.com/search?q=%23_%d9%83%d8%b1%d8%aa%d9%88%d9%86) | N/A |
-| 10 | [#الاعفاء_الضريبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b9%d9%81%d8%a7%d8%a1_%d8%a7%d9%84%d8%b6%d8%b1%d9%8a%d8%a8%d9%8a) | N/A |
-| 11 | [السعه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 12 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 13 | [استاد القاهره](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 3 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 4 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 5 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 6 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 7 | [#افتحوا_استاد_القاهره](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%aa%d8%ad%d9%88%d8%a7_%d8%a7%d8%b3%d8%aa%d8%a7%d8%af_%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 8 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 9 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 10 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 11 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 12 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 13 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
 | 14 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 15 | [لبنى محمود](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d9%89+%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
-| 16 | [مومن سليمان](http://twitter.com/search?q=%d9%85%d9%88%d9%85%d9%86+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
-| 17 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 18 | [طارق مصطفي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d9%85%d8%b5%d8%b7%d9%81%d9%8a) | N/A |
-| 19 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 20 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 21 | [كاس الرابطه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d9%87) | N/A |
-| 22 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 23 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 24 | [الترم الغلط](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ba%d9%84%d8%b7) | N/A |
-| 25 | [محمد نجيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d8%ac%d9%8a%d8%a8) | N/A |
-| 26 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 27 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
-| 28 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 29 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 30 | [محمد مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 31 | [خالد جلال](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
-| 32 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 33 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 34 | [علي الدخل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d8%ae%d9%84) | N/A |
-| 35 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 36 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 37 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
-| 38 | [عدلي منصور](http://twitter.com/search?q=%d8%b9%d8%af%d9%84%d9%8a+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 39 | [أسامة نبيه](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9+%d9%86%d8%a8%d9%8a%d9%87) | N/A |
-| 40 | [كاس الاتحاد الانجليزي](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 41 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
-| 42 | [ابو عشرين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 43 | [الجيب اليمين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86) | N/A |
-| 44 | [المحكمه الدستوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 45 | [رييس مدني منتخب](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%af%d9%86%d9%8a+%d9%85%d9%86%d8%aa%d8%ae%d8%a8) | N/A |
-| 46 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
-| 47 | [رمضان مبارك](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 48 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [19 مارس 2023](http://twitter.com/search?q=19+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 50 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
+| 15 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 16 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 17 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 18 | [#انقذ_الزمالك_يا_وزير](http://twitter.com/search?q=%23%d8%a7%d9%86%d9%82%d8%b0_%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83_%d9%8a%d8%a7_%d9%88%d8%b2%d9%8a%d8%b1) | N/A |
+| 19 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 20 | [شتيجن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ac%d9%86) | N/A |
+| 21 | [#ياوزير_حل_مجلس_مرتضي](http://twitter.com/search?q=%23%d9%8a%d8%a7%d9%88%d8%b2%d9%8a%d8%b1_%d8%ad%d9%84_%d9%85%d8%ac%d9%84%d8%b3_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
+| 22 | [#_كرتون](http://twitter.com/search?q=%23_%d9%83%d8%b1%d8%aa%d9%88%d9%86) | N/A |
+| 23 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 24 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
+| 25 | [السعه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
+| 26 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
+| 27 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 28 | [مومن سليمان](http://twitter.com/search?q=%d9%85%d9%88%d9%85%d9%86+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | N/A |
+| 29 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 30 | [استاد القاهره](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 31 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 32 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 33 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 34 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
+| 35 | [طارق مصطفي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d9%85%d8%b5%d8%b7%d9%81%d9%8a) | N/A |
+| 36 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 37 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 38 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
+| 39 | [كاس الرابطه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d9%87) | N/A |
+| 40 | [الترم الغلط](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d9%85+%d8%a7%d9%84%d8%ba%d9%84%d8%b7) | N/A |
+| 41 | [محمد مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 42 | [محمد نجيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%86%d8%ac%d9%8a%d8%a8) | N/A |
+| 43 | [خالد جلال](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
+| 44 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
+| 45 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
+| 46 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 47 | [علي الدخل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d8%ae%d9%84) | N/A |
+| 48 | [أسامة نبيه](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9+%d9%86%d8%a8%d9%8a%d9%87) | N/A |
+| 49 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 50 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-03-19 20:17:49 UTC`
+📆 Last Updated: `2023-03-19 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
-| 2 | [#TürkFutbolundaLaleDevri](http://twitter.com/search?q=%23T%c3%bcrkFutbolundaLaleDevri) | N/A |
-| 3 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
+| 1 | [#TürkFutbolundaLaleDevri](http://twitter.com/search?q=%23T%c3%bcrkFutbolundaLaleDevri) | N/A |
+| 2 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
+| 3 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
 | 4 | [#FenereOperasyonVAR](http://twitter.com/search?q=%23FenereOperasyonVAR) | N/A |
-| 5 | [#AsistanHekimineSahipÇık](http://twitter.com/search?q=%23AsistanHekimineSahip%c3%87%c4%b1k) | N/A |
+| 5 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
 | 6 | [#KabinedenMülakatsız100Bin](http://twitter.com/search?q=%23KabinedenM%c3%bclakats%c4%b1z100Bin) | N/A |
 | 7 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 8 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
-| 9 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
-| 10 | [DiplomaDenklik Geleceğimiz](http://twitter.com/search?q=DiplomaDenklik+Gelece%c4%9fimiz) | N/A |
-| 11 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 12 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
-| 13 | [Kabineden Ziraate15Bin](http://twitter.com/search?q=Kabineden+Ziraate15Bin) | N/A |
-| 14 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 15 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
-| 16 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 17 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 18 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 19 | [BAŞKAN ERDOĞAN DİYECEKSİNİZ](http://twitter.com/search?q=BA%c5%9eKAN+ERDO%c4%9eAN+D%c4%b0YECEKS%c4%b0N%c4%b0Z) | N/A |
-| 20 | [TaseronunHakkı KabinedeSaklı](http://twitter.com/search?q=TaseronunHakk%c4%b1+KabinedeSakl%c4%b1) | N/A |
-| 21 | [ADAY OLMA](http://twitter.com/search?q=ADAY+OLMA) | N/A |
-| 22 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 24 | [Hedef 1](http://twitter.com/search?q=Hedef+1) | N/A |
-| 25 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 26 | [ReisTaşeron KadroBekliyor](http://twitter.com/search?q=ReisTa%c5%9feron+KadroBekliyor) | N/A |
-| 27 | [Recep İvedik](http://twitter.com/search?q=Recep+%c4%b0vedik) | N/A |
-| 28 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 29 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
-| 30 | [Şampiyon Galatasaray](http://twitter.com/search?q=%c5%9eampiyon+Galatasaray) | N/A |
-| 31 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 32 | [Mustafa Zenbilci](http://twitter.com/search?q=Mustafa+Zenbilci) | N/A |
-| 33 | [ÇekeHapis CezasıKalksın](http://twitter.com/search?q=%c3%87ekeHapis+Cezas%c4%b1Kalks%c4%b1n) | N/A |
-| 34 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 35 | [Ahmet Zenbilci](http://twitter.com/search?q=Ahmet+Zenbilci) | N/A |
-| 36 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
-| 37 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 38 | [Cigli](http://twitter.com/search?q=Cigli) | N/A |
-| 39 | [HALK TV KAPATILSIN](http://twitter.com/search?q=HALK+TV+KAPATILSIN) | N/A |
-| 40 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 41 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
-| 42 | [HepYanındayız OzanYakın](http://twitter.com/search?q=HepYan%c4%b1nday%c4%b1z+OzanYak%c4%b1n) | N/A |
-| 43 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
-| 44 | [Ağlayın](http://twitter.com/search?q=A%c4%9flay%c4%b1n) | N/A |
-| 45 | [Verilmeyen](http://twitter.com/search?q=Verilmeyen) | N/A |
-| 46 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 47 | [İsmail Yüksek](http://twitter.com/search?q=%c4%b0smail+Y%c3%bcksek) | N/A |
-| 48 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
-| 49 | [Portekizce](http://twitter.com/search?q=Portekizce) | N/A |
-| 50 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 9 | [Kabineden Ziraate15Bin](http://twitter.com/search?q=Kabineden+Ziraate15Bin) | N/A |
+| 10 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
+| 11 | [DiplomaDenklik Geleceğimiz](http://twitter.com/search?q=DiplomaDenklik+Gelece%c4%9fimiz) | N/A |
+| 12 | [BAŞKAN ERDOĞAN DİYECEKSİNİZ](http://twitter.com/search?q=BA%c5%9eKAN+ERDO%c4%9eAN+D%c4%b0YECEKS%c4%b0N%c4%b0Z) | N/A |
+| 13 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 15 | [ADAY OLMA](http://twitter.com/search?q=ADAY+OLMA) | N/A |
+| 16 | [Çınar](http://twitter.com/search?q=%c3%87%c4%b1nar) | N/A |
+| 17 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
+| 18 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
+| 19 | [Ofsaytımsı](http://twitter.com/search?q=Ofsayt%c4%b1ms%c4%b1) | Ofsaytımsı is a Turkish phrase that translates to "I'm sorry" in English. It is used as an apology or expression of regret. |
+| 20 | [ŞAMPİYON CİMBOM YAZDIRACAĞIZ](http://twitter.com/search?q=%c5%9eAMP%c4%b0YON+C%c4%b0MBOM+YAZDIRACA%c4%9eIZ) | N/A |
+| 21 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
+| 22 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 23 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
+| 24 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
+| 25 | [TaseronunHakkı KabinedeSaklı](http://twitter.com/search?q=TaseronunHakk%c4%b1+KabinedeSakl%c4%b1) | N/A |
+| 26 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 27 | [Sahada](http://twitter.com/search?q=Sahada) | N/A |
+| 28 | [ReisTaşeron KadroBekliyor](http://twitter.com/search?q=ReisTa%c5%9feron+KadroBekliyor) | N/A |
+| 29 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 30 | [Ahmet Zenbilci](http://twitter.com/search?q=Ahmet+Zenbilci) | N/A |
+| 31 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 32 | [Sivas](http://twitter.com/search?q=Sivas) | Sivas is a city in Turkey. It is the capital of Sivas Province and has a population of around 300,000 people. The name Sivas is derived from the ancient city of Sebaste, which was founded by the Hittites in the 13th century BC. In English, Sivas means "the city of lions". |
+| 33 | [Cigli](http://twitter.com/search?q=Cigli) | N/A |
+| 34 | [Mustafa Zenbilci](http://twitter.com/search?q=Mustafa+Zenbilci) | N/A |
+| 35 | [Recep İvedik](http://twitter.com/search?q=Recep+%c4%b0vedik) | N/A |
+| 36 | [Hedef 1](http://twitter.com/search?q=Hedef+1) | N/A |
+| 37 | [HALK TV KAPATILSIN](http://twitter.com/search?q=HALK+TV+KAPATILSIN) | N/A |
+| 38 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
+| 39 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Ağlayın](http://twitter.com/search?q=A%c4%9flay%c4%b1n) | N/A |
+| 42 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
+| 43 | [ÇekeHapis CezasıKalksın](http://twitter.com/search?q=%c3%87ekeHapis+Cezas%c4%b1Kalks%c4%b1n) | N/A |
+| 44 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 45 | [HepYanındayız OzanYakın](http://twitter.com/search?q=HepYan%c4%b1nday%c4%b1z+OzanYak%c4%b1n) | N/A |
+| 46 | [TBMM Plan](http://twitter.com/search?q=TBMM+Plan) | N/A |
+| 47 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 48 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
+| 49 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 50 | [Ceylin](http://twitter.com/search?q=Ceylin) | Ceylin is a Turkish female name derived from the Persian word for “moonlight”. In English, it can be translated to mean “moonlight” or “radiant light”. |
 
 
 

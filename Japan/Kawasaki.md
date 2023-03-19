@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-19 20:17:27 UTC`
+📆 Last Updated: `2023-03-19 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [レッドブル](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%83%96%e3%83%ab) | N/A |
-| 2 | [#GIFT_tokyodome](http://twitter.com/search?q=%23GIFT_tokyodome) | N/A |
-| 3 | [#銀魂後祭り](http://twitter.com/search?q=%23%e9%8a%80%e9%ad%82%e5%be%8c%e7%a5%ad%e3%82%8a) | N/A |
-| 4 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
+| 1 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
+| 2 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
+| 3 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
+| 4 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 5 | [アロンソ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%b3%e3%82%bd) | N/A |
-| 6 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 7 | [#日向坂で会いましょう](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%82%e3%81%a7%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86) | #日向坂で会いましょう is a Japanese phrase that translates to "Let's meet at Hinatazaka". It is a reference to the popular Japanese idol group Hinatazaka46. |
-| 8 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
-| 9 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
-| 10 | [アニメ化](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | アニメ化 (anime-ka) is a Japanese term that means "animation adaptation". It refers to the process of adapting a story or concept into an animated series or film. |
-| 11 | [レース中](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b9%e4%b8%ad) | N/A |
-| 12 | [角田くん](http://twitter.com/search?q=%e8%a7%92%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
-| 13 | [ウィリアン](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%a2%e3%83%b3) | ウィリアン (Wirian) is a Japanese term for a person who is not interested in or does not participate in social activities. It is derived from the English word "willful" and can be translated as "willfully aloof". |
-| 14 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 15 | [マグヌッセン](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%8c%e3%83%83%e3%82%bb%e3%83%b3) | N/A |
-| 16 | [フェルスタッペン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%83%9a%e3%83%b3) | N/A |
-| 17 | [ファステスト](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b9%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 18 | [にぶちゃんセンター](http://twitter.com/search?q=%e3%81%ab%e3%81%b6%e3%81%a1%e3%82%83%e3%82%93%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 19 | [ミトロヴィッチ](http://twitter.com/search?q=%e3%83%9f%e3%83%88%e3%83%ad%e3%83%b4%e3%82%a3%e3%83%83%e3%83%81) | N/A |
-| 20 | [ザビッツァー](http://twitter.com/search?q=%e3%82%b6%e3%83%93%e3%83%83%e3%83%84%e3%82%a1%e3%83%bc) | ザビッツァー is a Japanese term for a type of snack food made from wheat flour, sugar, and other ingredients. It is similar to a biscuit or cookie, but has a unique texture and flavor. In English, it is sometimes referred to as "Zabitsa". |
-| 21 | [ストロール](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
-| 22 | [メルセデス](http://twitter.com/search?q=%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9) | N/A |
-| 23 | [ジェシーミュージカル](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
-| 24 | [ラッセル](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%bb%e3%83%ab) | N/A |
-| 25 | [ビートルジュース](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
-| 26 | [リアジャッキ](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%82%b8%e3%83%a3%e3%83%83%e3%82%ad) | N/A |
-| 27 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 28 | [アルファタウリ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a1%e3%82%bf%e3%82%a6%e3%83%aa) | N/A |
-| 29 | [松井先生](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e5%85%88%e7%94%9f) | N/A |
-| 30 | [ミトロビッチ](http://twitter.com/search?q=%e3%83%9f%e3%83%88%e3%83%ad%e3%83%93%e3%83%83%e3%83%81) | N/A |
-| 31 | [ヒョンジン](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
-| 32 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
-| 33 | [第423回](http://twitter.com/search?q=%e7%ac%ac423%e5%9b%9e) | N/A |
-| 34 | [ハミルトン](http://twitter.com/search?q=%e3%83%8f%e3%83%9f%e3%83%ab%e3%83%88%e3%83%b3) | N/A |
-| 35 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
-| 36 | [ペレス優勝](http://twitter.com/search?q=%e3%83%9a%e3%83%ac%e3%82%b9%e5%84%aa%e5%8b%9d) | N/A |
-| 37 | [マクラーレン](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%a9%e3%83%bc%e3%83%ac%e3%83%b3) | N/A |
-| 38 | [レース後](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b9%e5%be%8c) | N/A |
-| 39 | [スイス政府](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%b9%e6%94%bf%e5%ba%9c) | N/A |
-| 40 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [フォーメーション](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 42 | [マックス](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 43 | [アルボン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%9c%e3%83%b3) | N/A |
-| 44 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
-| 45 | [ライザのアトリエ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b6%e3%81%ae%e3%82%a2%e3%83%88%e3%83%aa%e3%82%a8) | N/A |
-| 46 | [表彰式後](http://twitter.com/search?q=%e8%a1%a8%e5%bd%b0%e5%bc%8f%e5%be%8c) | N/A |
-| 47 | [ペナ消化](http://twitter.com/search?q=%e3%83%9a%e3%83%8a%e6%b6%88%e5%8c%96) | N/A |
-| 48 | [メキシコ国歌](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3%e5%9b%bd%e6%ad%8c) | N/A |
-| 49 | [シャニマス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%9e%e3%82%b9) | シャニマス is a Japanese rhythm game and social simulation mobile game developed by Cygames. The game's title is a portmanteau of the words "Shall We Dance?" and "Idolmaster". In English, it can be translated to mean "Shall We Dance Idolmaster". |
+| 6 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 7 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 8 | [#日向坂で会いましょう](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%82%e3%81%a7%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86) | #日向坂で会いましょう is a Japanese phrase that translates to "Let's meet at Hinatazaka". It is a reference to the popular Japanese idol group Hinatazaka46. |
+| 9 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
+| 10 | [コスティッチ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
+| 11 | [ベンゼマ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%82%bc%e3%83%9e) | N/A |
+| 12 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
+| 13 | [アニメ化](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | アニメ化 (anime-ka) is a Japanese term that means "animation adaptation". It refers to the process of adapting a story or concept into an animated series or film. |
+| 14 | [ビートルジュース](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%88%e3%83%ab%e3%82%b8%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
+| 15 | [#HappyHyunjinDay](http://twitter.com/search?q=%23HappyHyunjinDay) | N/A |
+| 16 | [#Onechoice](http://twitter.com/search?q=%23Onechoice) | N/A |
+| 17 | [レース中](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b9%e4%b8%ad) | N/A |
+| 18 | [角田くん](http://twitter.com/search?q=%e8%a7%92%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
+| 19 | [クルトワ](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%83%88%e3%83%af) | N/A |
+| 20 | [ジェシーミュージカル](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
+| 21 | [カマヴィンガ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%ac) | N/A |
+| 22 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
+| 23 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
+| 24 | [ウィリアン](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%a2%e3%83%b3) | ウィリアン (Wirian) is a Japanese term for a person who is not interested in or does not participate in social activities. It is derived from the English word "willful" and can be translated as "willfully aloof". |
+| 25 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
+| 26 | [フェルスタッペン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%83%e3%83%9a%e3%83%b3) | N/A |
+| 27 | [にぶちゃんセンター](http://twitter.com/search?q=%e3%81%ab%e3%81%b6%e3%81%a1%e3%82%83%e3%82%93%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 28 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
+| 29 | [マグヌッセン](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%8c%e3%83%83%e3%82%bb%e3%83%b3) | N/A |
+| 30 | [ファステスト](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b9%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 31 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
+| 32 | [ミトロヴィッチ](http://twitter.com/search?q=%e3%83%9f%e3%83%88%e3%83%ad%e3%83%b4%e3%82%a3%e3%83%83%e3%83%81) | N/A |
+| 33 | [ストロール](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc%e3%83%ab) | N/A |
+| 34 | [レヴァンドフスキ](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%89%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
+| 35 | [カルバハル](http://twitter.com/search?q=%e3%82%ab%e3%83%ab%e3%83%90%e3%83%8f%e3%83%ab) | N/A |
+| 36 | [スイス政府](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%82%b9%e6%94%bf%e5%ba%9c) | N/A |
+| 37 | [第423回](http://twitter.com/search?q=%e7%ac%ac423%e5%9b%9e) | N/A |
+| 38 | [ヒョンジン](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
+| 39 | [ザビッツァー](http://twitter.com/search?q=%e3%82%b6%e3%83%93%e3%83%83%e3%83%84%e3%82%a1%e3%83%bc) | ザビッツァー is a Japanese term for a type of snack food made from wheat flour, sugar, and other ingredients. It is similar to a biscuit or cookie, but has a unique texture and flavor. In English, it is sometimes referred to as "Zabitsa". |
+| 40 | [リアジャッキ](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%82%b8%e3%83%a3%e3%83%83%e3%82%ad) | N/A |
+| 41 | [ガッティ](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3) | N/A |
+| 42 | [上手の若君](http://twitter.com/search?q=%e4%b8%8a%e6%89%8b%e3%81%ae%e8%8b%a5%e5%90%9b) | N/A |
+| 43 | [松井先生](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e5%85%88%e7%94%9f) | N/A |
+| 44 | [アルファタウリ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a1%e3%82%bf%e3%82%a6%e3%83%aa) | N/A |
+| 45 | [ラッセル](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%bb%e3%83%ab) | N/A |
+| 46 | [ミトロビッチ](http://twitter.com/search?q=%e3%83%9f%e3%83%88%e3%83%ad%e3%83%93%e3%83%83%e3%83%81) | N/A |
+| 47 | [メルセデス](http://twitter.com/search?q=%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9) | N/A |
+| 48 | [カンプノウ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%97%e3%83%8e%e3%82%a6) | N/A |
+| 49 | [ファジョーリ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%aa) | N/A |
 
 
 

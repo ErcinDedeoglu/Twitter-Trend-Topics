@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-03-19 20:17:02 UTC`
+📆 Last Updated: `2023-03-19 21:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 3 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 4 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 5 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 6 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
-| 7 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
-| 8 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 9 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 10 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 11 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 12 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
-| 13 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 14 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 15 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 16 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 17 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 18 | [Himno Nacional Mexicano](http://twitter.com/search?q=Himno+Nacional+Mexicano) | N/A |
-| 19 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 20 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 21 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 22 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 23 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 25 | [ORGULLO MEXICANO](http://twitter.com/search?q=ORGULLO+MEXICANO) | N/A |
-| 26 | [Walter Gassire](http://twitter.com/search?q=Walter+Gassire) | N/A |
-| 27 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 28 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 29 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 31 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 32 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 34 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 35 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 36 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 38 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 39 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 40 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 41 | [Mario Molina](http://twitter.com/search?q=Mario+Molina) | N/A |
-| 42 | [Cande](http://twitter.com/search?q=Cande) | N/A |
-| 43 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 44 | [#Pumas](http://twitter.com/search?q=%23Pumas) | N/A |
-| 45 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
-| 46 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 47 | [#F1DriveroftheDay](http://twitter.com/search?q=%23F1DriveroftheDay) | N/A |
-| 48 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 49 | [#DiaDelHombre](http://twitter.com/search?q=%23DiaDelHombre) | N/A |
+| 5 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 6 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 9 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 10 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 16 | [#F12023](http://twitter.com/search?q=%23F12023) | N/A |
+| 17 | [#DiaDelHombre](http://twitter.com/search?q=%23DiaDelHombre) | N/A |
+| 18 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 19 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 21 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 24 | [Chequito](http://twitter.com/search?q=Chequito) | N/A |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 27 | [Pioneta](http://twitter.com/search?q=Pioneta) | N/A |
+| 28 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 29 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 30 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 31 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 32 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 33 | [Himno Nacional Mexicano](http://twitter.com/search?q=Himno+Nacional+Mexicano) | N/A |
+| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 35 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
+| 36 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 37 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 38 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 39 | [Walter Gassire](http://twitter.com/search?q=Walter+Gassire) | N/A |
+| 40 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 41 | [ORGULLO MEXICANO](http://twitter.com/search?q=ORGULLO+MEXICANO) | N/A |
+| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 43 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 44 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 45 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 46 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 47 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 48 | [Cande](http://twitter.com/search?q=Cande) | N/A |
+| 49 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
 
 
 

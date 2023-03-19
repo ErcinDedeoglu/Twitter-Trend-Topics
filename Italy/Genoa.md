@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-19 20:17:18 UTC`
+📆 Last Updated: `2023-03-19 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
-| 2 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
-| 3 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 5 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 6 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 7 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 8 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 9 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 12 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 13 | [Binotto](http://twitter.com/search?q=Binotto) | N/A |
-| 14 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 15 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
-| 16 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 17 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 18 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
-| 19 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 21 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 22 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
-| 23 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 24 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 25 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 26 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 28 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 29 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
-| 30 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
-| 31 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 32 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 33 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 36 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 37 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
-| 38 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 39 | [Campionato](http://twitter.com/search?q=Campionato) | N/A |
-| 40 | [Catania](http://twitter.com/search?q=Catania) | N/A |
-| 41 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 42 | [#DerbyDellaCapitale](http://twitter.com/search?q=%23DerbyDellaCapitale) | N/A |
-| 43 | [#ctcf](http://twitter.com/search?q=%23ctcf) | N/A |
-| 44 | [#Annunziata](http://twitter.com/search?q=%23Annunziata) | N/A |
-| 45 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
-| 46 | [#GPArabiaSaudita](http://twitter.com/search?q=%23GPArabiaSaudita) | N/A |
-| 47 | [#laPerenneTentazione](http://twitter.com/search?q=%23laPerenneTentazione) | N/A |
-| 48 | [#FUORITAVASSI](http://twitter.com/search?q=%23FUORITAVASSI) | N/A |
-| 49 | [#TorinoNapoli](http://twitter.com/search?q=%23TorinoNapoli) | N/A |
+| 1 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
+| 2 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 3 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
+| 4 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 5 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 6 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
+| 7 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 8 | [#Kostic](http://twitter.com/search?q=%23Kostic) | N/A |
+| 9 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
+| 10 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 11 | [Soule](http://twitter.com/search?q=Soule) | N/A |
+| 12 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 14 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 15 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 16 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 17 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 18 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 19 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 20 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 21 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 22 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 23 | [Evidente](http://twitter.com/search?q=Evidente) | N/A |
+| 24 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
+| 25 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 26 | [Il VAR](http://twitter.com/search?q=Il+VAR) | N/A |
+| 27 | [Binotto](http://twitter.com/search?q=Binotto) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
+| 30 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 31 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 32 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 33 | [La Roma](http://twitter.com/search?q=La+Roma) | N/A |
+| 34 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 37 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 38 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 39 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 40 | [FORZA RAGAZZI](http://twitter.com/search?q=FORZA+RAGAZZI) | N/A |
+| 41 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 42 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 43 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 44 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 45 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 46 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 47 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 48 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 49 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 
 
 

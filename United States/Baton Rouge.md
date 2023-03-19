@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-03-19 20:17:51 UTC`
+📆 Last Updated: `2023-03-19 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
+| 1 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 | 2 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 3 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 5 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 6 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 8 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 9 | [#ProjectFear](http://twitter.com/search?q=%23ProjectFear) | N/A |
-| 10 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 11 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 13 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 14 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 15 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
-| 16 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 17 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 18 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 19 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 22 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
-| 23 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
-| 24 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 25 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 26 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 27 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 28 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 29 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 30 | [Ware](http://twitter.com/search?q=Ware) | N/A |
-| 31 | [Congrats Jay](http://twitter.com/search?q=Congrats+Jay) | N/A |
-| 32 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 33 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
+| 3 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 4 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 5 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 6 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 7 | [#KVQ4](http://twitter.com/search?q=%23KVQ4) | N/A |
+| 8 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 10 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 11 | [Suge](http://twitter.com/search?q=Suge) | N/A |
+| 12 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 13 | [Shooney](http://twitter.com/search?q=Shooney) | N/A |
+| 14 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
+| 15 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
+| 16 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 17 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
+| 18 | [#Break4Busch](http://twitter.com/search?q=%23Break4Busch) | N/A |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 23 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
+| 24 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 25 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 27 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 28 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
+| 29 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 32 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 33 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
 | 34 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
-| 35 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 36 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 37 | [DJ Stewart](http://twitter.com/search?q=DJ+Stewart) | N/A |
-| 38 | [Tomlin](http://twitter.com/search?q=Tomlin) | Tomlin is a surname of English origin. It is derived from the Old English personal name Toma, which means "twin". The name can also be found in Scotland and Ireland. |
-| 39 | [GO BIG BLUE](http://twitter.com/search?q=GO+BIG+BLUE) | N/A |
-| 40 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
-| 41 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 42 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
-| 43 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
-| 44 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 45 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 46 | [Greenway](http://twitter.com/search?q=Greenway) | N/A |
-| 47 | [Marisol Malaret](http://twitter.com/search?q=Marisol+Malaret) | N/A |
-| 48 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 35 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 36 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 38 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 39 | [Livingston](http://twitter.com/search?q=Livingston) | N/A |
+| 40 | [Dumba](http://twitter.com/search?q=Dumba) | N/A |
+| 41 | [Diamond Battles](http://twitter.com/search?q=Diamond+Battles) | N/A |
+| 42 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 43 | [Congrats Jay](http://twitter.com/search?q=Congrats+Jay) | N/A |
+| 44 | [Schenk](http://twitter.com/search?q=Schenk) | N/A |
+| 45 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 46 | [Ware](http://twitter.com/search?q=Ware) | N/A |
+| 47 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 48 | [Gabbie Marshall](http://twitter.com/search?q=Gabbie+Marshall) | N/A |
 
 
 

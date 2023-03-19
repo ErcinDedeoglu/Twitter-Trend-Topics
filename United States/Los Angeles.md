@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-19 20:17:55 UTC`
+📆 Last Updated: `2023-03-19 21:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LAMarathon](http://twitter.com/search?q=%23LAMarathon) | N/A |
-| 2 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 4 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 5 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 6 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 7 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 8 | [#Disneyland](http://twitter.com/search?q=%23Disneyland) | N/A |
-| 9 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
-| 10 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 11 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 12 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 13 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 1 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 2 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 3 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 4 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 5 | [#LAMarathon](http://twitter.com/search?q=%23LAMarathon) | N/A |
+| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 7 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 8 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 9 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 10 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 12 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 13 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 14 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 15 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 16 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
 | 17 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 20 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 21 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
-| 22 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 23 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 24 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 27 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
-| 28 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 29 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
-| 30 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 31 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 32 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 33 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 34 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 35 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 36 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 37 | [Ware](http://twitter.com/search?q=Ware) | N/A |
-| 38 | [Congrats Jay](http://twitter.com/search?q=Congrats+Jay) | N/A |
-| 39 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 40 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
-| 41 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
-| 42 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 43 | [DJ Stewart](http://twitter.com/search?q=DJ+Stewart) | N/A |
-| 44 | [Tomlin](http://twitter.com/search?q=Tomlin) | Tomlin is a surname of English origin. It is derived from the Old English personal name Toma, which means "twin". The name can also be found in Scotland and Ireland. |
-| 45 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 46 | [GO BIG BLUE](http://twitter.com/search?q=GO+BIG+BLUE) | N/A |
-| 47 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
-| 48 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 49 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
-| 50 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
+| 18 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 21 | [Suge](http://twitter.com/search?q=Suge) | N/A |
+| 22 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 23 | [Shooney](http://twitter.com/search?q=Shooney) | N/A |
+| 24 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
+| 25 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
+| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 27 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 28 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 31 | [Tshiebwe](http://twitter.com/search?q=Tshiebwe) | N/A |
+| 32 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 33 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 34 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 35 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 36 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
+| 37 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 40 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 41 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 42 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
+| 43 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 44 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 46 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 47 | [Livingston](http://twitter.com/search?q=Livingston) | N/A |
+| 48 | [Dumba](http://twitter.com/search?q=Dumba) | N/A |
+| 49 | [Diamond Battles](http://twitter.com/search?q=Diamond+Battles) | N/A |
+| 50 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
 
 
 
