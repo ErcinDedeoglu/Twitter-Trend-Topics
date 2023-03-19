@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-19 21:16:41 UTC`
+📆 Last Updated: `2023-03-19 22:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#العامله_هربت](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d9%87_%d9%87%d8%b1%d8%a8%d8%aa) | N/A |
-| 2 | [#بهاج](http://twitter.com/search?q=%23%d8%a8%d9%87%d8%a7%d8%ac) | N/A |
+| 1 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 2 | [#العامله_هربت](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%84%d9%87_%d9%87%d8%b1%d8%a8%d8%aa) | N/A |
 | 3 | [احمد عيد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d9%8a%d8%af) | N/A |
-| 4 | [علي ميسي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 5 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 6 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 4 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
+| 5 | [والفتح](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
+| 6 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
 | 7 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 8 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 9 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 10 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 11 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 12 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
-| 13 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 14 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 15 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 16 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 17 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 18 | [توقيت الهدف](http://twitter.com/search?q=%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
-| 19 | [#سميه_الناصر](http://twitter.com/search?q=%23%d8%b3%d9%85%d9%8a%d9%87_%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 20 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 21 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 22 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 23 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
-| 24 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 25 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
-| 26 | [بن مالك](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 27 | [لمدريد](http://twitter.com/search?q=%d9%84%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 28 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
-| 29 | [قول التعادل](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 30 | [كارلو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
-| 31 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 32 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 33 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 34 | [الهدف الغبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ba%d8%a8%d9%8a) | N/A |
-| 35 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 36 | [قول الاول](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 37 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 38 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
-| 39 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 40 | [ديربي ايطاليا](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 41 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 42 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 43 | [نهار رمضان](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 44 | [ديمبلي](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a8%d9%84%d9%8a) | N/A |
-| 45 | [فوز مدريد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 46 | [فتح المطاعم](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b9%d9%85) | N/A |
-| 47 | [ابو الدنيا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 48 | [نيف السيد](http://twitter.com/search?q=%d9%86%d9%8a%d9%81+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 49 | [ديربي روما](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%b1%d9%88%d9%85%d8%a7) | N/A |
-| 50 | [السعوديه الكبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 8 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 9 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 10 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 11 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 12 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 13 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 14 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 15 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 16 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 17 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 18 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 19 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 20 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 21 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 22 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 23 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
+| 24 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 25 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 26 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 27 | [#نيف_بيقولكم_شي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a8%d9%8a%d9%82%d9%88%d9%84%d9%83%d9%85_%d8%b4%d9%8a) | N/A |
+| 28 | [توقيت الهدف](http://twitter.com/search?q=%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 29 | [هات الدوري](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 30 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
+| 31 | [فرانك](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83) | N/A |
+| 32 | [قول كيسي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%83%d9%8a%d8%b3%d9%8a) | N/A |
+| 33 | [الليغا](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%ba%d8%a7) | N/A |
+| 34 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 35 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 36 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 37 | [فوز العاده](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 38 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 39 | [كارلو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
+| 40 | [بن مالك](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%a7%d9%84%d9%83) | N/A |
+| 41 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 42 | [فورزا يوفي](http://twitter.com/search?q=%d9%81%d9%88%d8%b1%d8%b2%d8%a7+%d9%8a%d9%88%d9%81%d9%8a) | N/A |
+| 43 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 44 | [رودريغو](http://twitter.com/search?q=%d8%b1%d9%88%d8%af%d8%b1%d9%8a%d8%ba%d9%88) | N/A |
+| 45 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 46 | [قول التعادل](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 47 | [صغير العاصمه](http://twitter.com/search?q=%d8%b5%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
+| 48 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
+| 49 | [ابو حصه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b5%d9%87) | N/A |
+| 50 | [اليغري](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%ba%d8%b1%d9%8a) | N/A |
 
 
 

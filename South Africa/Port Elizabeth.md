@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-19 21:16:40 UTC`
+📆 Last Updated: `2023-03-19 22:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 2 | [#sizokthola](http://twitter.com/search?q=%23sizokthola) | N/A |
-| 3 | [#isencaneLengane](http://twitter.com/search?q=%23isencaneLengane) | N/A |
-| 4 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 5 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 6 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 7 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
-| 8 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 3 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 4 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 5 | [#sizokthola](http://twitter.com/search?q=%23sizokthola) | N/A |
+| 6 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 8 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 | 9 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
-| 10 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
-| 11 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
-| 12 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 13 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 14 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 17 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 18 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
-| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 24 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 25 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 27 | [Sunrisers](http://twitter.com/search?q=Sunrisers) | N/A |
-| 28 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 29 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 30 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 32 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 33 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 34 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 35 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 36 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 37 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 10 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 11 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
+| 12 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
+| 15 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 17 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 18 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
+| 19 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 20 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 21 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 23 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 24 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
+| 25 | [Sunrisers](http://twitter.com/search?q=Sunrisers) | N/A |
+| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 27 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 30 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 31 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 32 | [Blaq](http://twitter.com/search?q=Blaq) | N/A |
+| 33 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
+| 34 | [Tbangers](http://twitter.com/search?q=Tbangers) | N/A |
+| 35 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 36 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 37 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
 | 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 40 | [Tbangers](http://twitter.com/search?q=Tbangers) | N/A |
-| 41 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 42 | [Blaq](http://twitter.com/search?q=Blaq) | N/A |
+| 39 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 40 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 41 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 43 | [THABANG THE GAMER](http://twitter.com/search?q=THABANG+THE+GAMER) | N/A |
-| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 46 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 48 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 49 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 44 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 45 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 47 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 48 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 49 | [KHOSI WILL BE VICTORIOUS](http://twitter.com/search?q=KHOSI+WILL+BE+VICTORIOUS) | N/A |
 
 
 

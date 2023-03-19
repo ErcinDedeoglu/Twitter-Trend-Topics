@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-19 21:17:01 UTC`
+📆 Last Updated: `2023-03-19 22:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 2 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 3 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 4 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 5 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 6 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 8 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 9 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 10 | [Aisha Binani](http://twitter.com/search?q=Aisha+Binani) | N/A |
-| 11 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 12 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
-| 13 | [Chimaroke Nnamani](http://twitter.com/search?q=Chimaroke+Nnamani) | N/A |
-| 14 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 15 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
-| 16 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 17 | [Governor in Nigeria](http://twitter.com/search?q=Governor+in+Nigeria) | N/A |
-| 18 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 19 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 20 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
-| 21 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
-| 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 23 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
-| 24 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 25 | [First Gentleman](http://twitter.com/search?q=First+Gentleman) | N/A |
-| 26 | [Shining](http://twitter.com/search?q=Shining) | N/A |
-| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 28 | [Madam Governor](http://twitter.com/search?q=Madam+Governor) | N/A |
-| 29 | [Mama Taraba](http://twitter.com/search?q=Mama+Taraba) | N/A |
-| 30 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 31 | [Kforce](http://twitter.com/search?q=Kforce) | N/A |
-| 32 | [Her Excellency](http://twitter.com/search?q=Her+Excellency) | N/A |
-| 33 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 34 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 36 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 39 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 40 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 41 | [Bottom 4](http://twitter.com/search?q=Bottom+4) | N/A |
-| 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 43 | [Fufore](http://twitter.com/search?q=Fufore) | N/A |
-| 44 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 45 | [Shippers](http://twitter.com/search?q=Shippers) | N/A |
-| 46 | [Enugu East](http://twitter.com/search?q=Enugu+East) | N/A |
-| 47 | [First Man](http://twitter.com/search?q=First+Man) | N/A |
-| 48 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 49 | [#INECElectionResult](http://twitter.com/search?q=%23INECElectionResult) | N/A |
-| 50 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 2 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 3 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 4 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 5 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 6 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 8 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 10 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 11 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 12 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 14 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 15 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 17 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 18 | [Chimaroke Nnamani](http://twitter.com/search?q=Chimaroke+Nnamani) | N/A |
+| 19 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 20 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 21 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 23 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 24 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 28 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 29 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 30 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 31 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 32 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 33 | [Kforce](http://twitter.com/search?q=Kforce) | N/A |
+| 34 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 35 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 36 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 37 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 38 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 39 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
+| 40 | [First Gentleman](http://twitter.com/search?q=First+Gentleman) | N/A |
+| 41 | [#BBTitians](http://twitter.com/search?q=%23BBTitians) | N/A |
+| 42 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 43 | [Madam Governor](http://twitter.com/search?q=Madam+Governor) | N/A |
+| 44 | [Governor in Nigeria](http://twitter.com/search?q=Governor+in+Nigeria) | N/A |
+| 45 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 46 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
+| 47 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 48 | [Mama Taraba](http://twitter.com/search?q=Mama+Taraba) | N/A |
+| 49 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 50 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
 
 
 

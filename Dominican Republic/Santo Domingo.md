@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-19 21:16:15 UTC`
+📆 Last Updated: `2023-03-19 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [Operación Calamar](http://twitter.com/search?q=Operaci%c3%b3n+Calamar) | N/A |
 | 2 | [#ElCambioSigue](http://twitter.com/search?q=%23ElCambioSigue) | N/A |
-| 3 | [Gonzalo Castillo](http://twitter.com/search?q=Gonzalo+Castillo) | N/A |
-| 4 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
+| 3 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
+| 4 | [Gonzalo Castillo](http://twitter.com/search?q=Gonzalo+Castillo) | N/A |
 | 5 | [José Ramón Peralta](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Peralta) | N/A |
 | 6 | [#MarchaMujeresFP](http://twitter.com/search?q=%23MarchaMujeresFP) | N/A |
 | 7 | [#YoCreoEnAbinader](http://twitter.com/search?q=%23YoCreoEnAbinader) | N/A |
 | 8 | [Ángel Lockward](http://twitter.com/search?q=%c3%81ngel+Lockward) | N/A |
 | 9 | [#EnLaMesaYaNoHayNa](http://twitter.com/search?q=%23EnLaMesaYaNoHayNa) | N/A |
 | 10 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 11 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 12 | [#LaNeveraVacia](http://twitter.com/search?q=%23LaNeveraVacia) | N/A |
-| 13 | [Azua](http://twitter.com/search?q=Azua) | N/A |
-| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 15 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 16 | [PEPCA](http://twitter.com/search?q=PEPCA) | N/A |
-| 17 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Abraham Almonte](http://twitter.com/search?q=Abraham+Almonte) | N/A |
-| 21 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
-| 22 | [Procuraduría](http://twitter.com/search?q=Procuradur%c3%ada) | N/A |
+| 13 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 14 | [Azua](http://twitter.com/search?q=Azua) | N/A |
+| 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 16 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 18 | [PEPCA](http://twitter.com/search?q=PEPCA) | N/A |
+| 19 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 20 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 22 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
 | 23 | [Batalla del 19](http://twitter.com/search?q=Batalla+del+19) | N/A |
-| 24 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
-| 25 | [Pedro Santana](http://twitter.com/search?q=Pedro+Santana) | N/A |
-| 26 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 27 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
-| 28 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 29 | [Fulcar](http://twitter.com/search?q=Fulcar) | N/A |
-| 30 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 31 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
-| 32 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 33 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
-| 34 | [Circo](http://twitter.com/search?q=Circo) | N/A |
-| 35 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 36 | [Lake](http://twitter.com/search?q=Lake) | N/A |
-| 37 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 38 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
-| 39 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 40 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 41 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 42 | [Ito Bisonó](http://twitter.com/search?q=Ito+Bison%c3%b3) | N/A |
-| 43 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
-| 44 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 24 | [Procuraduría](http://twitter.com/search?q=Procuradur%c3%ada) | N/A |
+| 25 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
+| 26 | [Pedro Santana](http://twitter.com/search?q=Pedro+Santana) | N/A |
+| 27 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 28 | [Vamos Venezuela](http://twitter.com/search?q=Vamos+Venezuela) | N/A |
+| 29 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
+| 30 | [Fulcar](http://twitter.com/search?q=Fulcar) | N/A |
+| 31 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 32 | [Circo](http://twitter.com/search?q=Circo) | N/A |
+| 33 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 34 | [Lake](http://twitter.com/search?q=Lake) | N/A |
+| 35 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 36 | [Ito Bisonó](http://twitter.com/search?q=Ito+Bison%c3%b3) | N/A |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 38 | [Abraham Almonte](http://twitter.com/search?q=Abraham+Almonte) | N/A |
+| 39 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 40 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 41 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
+| 42 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
+| 43 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
+| 44 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 45 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 46 | [Leones](http://twitter.com/search?q=Leones) | N/A |
+| 46 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
 | 47 | [Jorge Blanco](http://twitter.com/search?q=Jorge+Blanco) | N/A |
-| 48 | [Parque Enriquillo](http://twitter.com/search?q=Parque+Enriquillo) | N/A |
-| 49 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 50 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
+| 48 | [Leones](http://twitter.com/search?q=Leones) | N/A |
+| 49 | [Parque Enriquillo](http://twitter.com/search?q=Parque+Enriquillo) | N/A |
+| 50 | [Susana](http://twitter.com/search?q=Susana) | N/A |
 
 
 

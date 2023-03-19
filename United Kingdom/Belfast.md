@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-19 21:16:14 UTC`
+📆 Last Updated: `2023-03-19 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 2 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 3 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
-| 4 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
-| 5 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
-| 6 | [#wildflowerhour](http://twitter.com/search?q=%23wildflowerhour) | N/A |
-| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 10 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 11 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 12 | [David Schwimmer](http://twitter.com/search?q=David+Schwimmer) | N/A |
-| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 14 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 15 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 16 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 17 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 19 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
-| 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 21 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 22 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [Jesy](http://twitter.com/search?q=Jesy) | N/A |
-| 25 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
-| 26 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 29 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 30 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 31 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 32 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 33 | [Bumping](http://twitter.com/search?q=Bumping) | N/A |
-| 34 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 35 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 36 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 37 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
-| 38 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 39 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
-| 40 | [Eurozone](http://twitter.com/search?q=Eurozone) | N/A |
-| 41 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 42 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 43 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 45 | [Sister Act](http://twitter.com/search?q=Sister+Act) | N/A |
-| 46 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
-| 47 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 48 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 49 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 1 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 2 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 3 | [#loveislandreunion](http://twitter.com/search?q=%23loveislandreunion) | N/A |
+| 4 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 5 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 6 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 7 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 9 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
+| 10 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
+| 11 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 12 | [Ramona](http://twitter.com/search?q=Ramona) | N/A |
+| 13 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 14 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 16 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 17 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 18 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 19 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 20 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 21 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 22 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 24 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 25 | [Shaq and Tanya](http://twitter.com/search?q=Shaq+and+Tanya) | N/A |
+| 26 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 27 | [David Schwimmer](http://twitter.com/search?q=David+Schwimmer) | N/A |
+| 28 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 29 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 30 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 31 | [Sophie Corcoran](http://twitter.com/search?q=Sophie+Corcoran) | N/A |
+| 32 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 35 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 38 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 39 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 40 | [Jesy](http://twitter.com/search?q=Jesy) | N/A |
+| 41 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 42 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 43 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 44 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 45 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 47 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 48 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 49 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 
 
 
