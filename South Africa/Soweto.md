@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-03-19 13:19:44 UTC`
+📆 Last Updated: `2023-03-19 14:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 4 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 5 | [party with khosi](http://twitter.com/search?q=party+with+khosi) | N/A |
-| 6 | [#HuntersRefreshes](http://twitter.com/search?q=%23HuntersRefreshes) | N/A |
-| 7 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 8 | [#giganathi](http://twitter.com/search?q=%23giganathi) | N/A |
+| 6 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 7 | [#giganathi](http://twitter.com/search?q=%23giganathi) | N/A |
+| 8 | [#HuntersRefreshes](http://twitter.com/search?q=%23HuntersRefreshes) | N/A |
 | 9 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 10 | [#MashTunMix](http://twitter.com/search?q=%23MashTunMix) | N/A |
-| 11 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 12 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 13 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
-| 14 | [nelisa x strictlysoul](http://twitter.com/search?q=nelisa+x+strictlysoul) | N/A |
-| 15 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 16 | [Cloete Murray](http://twitter.com/search?q=Cloete+Murray) | N/A |
-| 17 | [Bosasa](http://twitter.com/search?q=Bosasa) | N/A |
-| 18 | [kwinika](http://twitter.com/search?q=kwinika) | N/A |
-| 19 | [Bonang](http://twitter.com/search?q=Bonang) | N/A |
-| 20 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 21 | [Maxhosa](http://twitter.com/search?q=Maxhosa) | N/A |
-| 22 | [Bavuma](http://twitter.com/search?q=Bavuma) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 25 | [groove with tsatsii](http://twitter.com/search?q=groove+with+tsatsii) | N/A |
-| 26 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 27 | [Herman](http://twitter.com/search?q=Herman) | N/A |
-| 28 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
-| 29 | [SuperSport United](http://twitter.com/search?q=SuperSport+United) | N/A |
-| 30 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
-| 31 | [THABANG THE GAMER](http://twitter.com/search?q=THABANG+THE+GAMER) | N/A |
-| 32 | [THABANG IS GRATEFUL AFRICA](http://twitter.com/search?q=THABANG+IS+GRATEFUL+AFRICA) | N/A |
-| 33 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 34 | [Kuli](http://twitter.com/search?q=Kuli) | N/A |
-| 35 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
-| 36 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 10 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
+| 11 | [#McCafeMotivationalMonday](http://twitter.com/search?q=%23McCafeMotivationalMonday) | N/A |
+| 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 13 | [nelisa x strictlysoul](http://twitter.com/search?q=nelisa+x+strictlysoul) | N/A |
+| 14 | [Bosasa](http://twitter.com/search?q=Bosasa) | N/A |
+| 15 | [Cloete Murray](http://twitter.com/search?q=Cloete+Murray) | N/A |
+| 16 | [bonang](http://twitter.com/search?q=bonang) | N/A |
+| 17 | [Herman](http://twitter.com/search?q=Herman) | N/A |
+| 18 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 19 | [Bavuma](http://twitter.com/search?q=Bavuma) | N/A |
+| 20 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 21 | [Kwinika](http://twitter.com/search?q=Kwinika) | N/A |
+| 22 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 23 | [groove with tsatsii](http://twitter.com/search?q=groove+with+tsatsii) | N/A |
+| 24 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 25 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 27 | [SuperSport United](http://twitter.com/search?q=SuperSport+United) | N/A |
+| 28 | [WE LOVE YOU JUICY JAY](http://twitter.com/search?q=WE+LOVE+YOU+JUICY+JAY) | N/A |
+| 29 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
+| 30 | [THABANG THE GAMER](http://twitter.com/search?q=THABANG+THE+GAMER) | N/A |
+| 31 | [Maritzburg](http://twitter.com/search?q=Maritzburg) | N/A |
+| 32 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
+| 33 | [THABANG IS GRATEFUL AFRICA](http://twitter.com/search?q=THABANG+IS+GRATEFUL+AFRICA) | N/A |
+| 34 | [NELISA ONCE SAID](http://twitter.com/search?q=NELISA+ONCE+SAID) | N/A |
+| 35 | [Kuli](http://twitter.com/search?q=Kuli) | N/A |
+| 36 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 37 | [THABANG TO THE FINALS](http://twitter.com/search?q=THABANG+TO+THE+FINALS) | N/A |
-| 38 | [NELISA ONCE SAID](http://twitter.com/search?q=NELISA+ONCE+SAID) | N/A |
-| 39 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 40 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 38 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 40 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
 | 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 44 | [rock with ipeleng](http://twitter.com/search?q=rock+with+ipeleng) | N/A |
+| 42 | [Maxhosa](http://twitter.com/search?q=Maxhosa) | N/A |
+| 43 | [rock with ipeleng](http://twitter.com/search?q=rock+with+ipeleng) | N/A |
+| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 45 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 46 | [blue aiva the party rocker](http://twitter.com/search?q=blue+aiva+the+party+rocker) | N/A |
 | 47 | [RULANATION](http://twitter.com/search?q=RULANATION) | N/A |
-| 48 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 49 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
-| 50 | [Wydad](http://twitter.com/search?q=Wydad) | Wydad is a Moroccan football club based in Casablanca. The name Wydad means "love" or "affection" in Arabic. |
+| 48 | [The ICC](http://twitter.com/search?q=The+ICC) | N/A |
+| 49 | [Duduzane](http://twitter.com/search?q=Duduzane) | N/A |
+| 50 | [TBANGERS PIN FOR THABANG](http://twitter.com/search?q=TBANGERS+PIN+FOR+THABANG) | N/A |
 
 
 

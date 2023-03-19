@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-19 13:19:26 UTC`
+📆 Last Updated: `2023-03-19 14:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 4 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 7 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
-| 8 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 9 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 10 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 11 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 12 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 13 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 14 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 15 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 16 | [Natoo](http://twitter.com/search?q=Natoo) | N/A |
-| 17 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 18 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 19 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 20 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
-| 21 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 22 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
-| 23 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 24 | [Frédérique](http://twitter.com/search?q=Fr%c3%a9d%c3%a9rique) | N/A |
-| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 26 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 27 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 28 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 29 | [Le 19](http://twitter.com/search?q=Le+19) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 32 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 33 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 34 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 35 | [Ranking of Kings](http://twitter.com/search?q=Ranking+of+Kings) | N/A |
-| 36 | [VETTORI](http://twitter.com/search?q=VETTORI) | N/A |
-| 37 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
-| 38 | [Chiellini](http://twitter.com/search?q=Chiellini) | N/A |
-| 39 | [Chimaev](http://twitter.com/search?q=Chimaev) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
-| 42 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 43 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 44 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 45 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 46 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 49 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 50 | [Les 28%](http://twitter.com/search?q=Les+28%25) | N/A |
+| 1 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 2 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
+| 3 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 4 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 5 | [#LeGrandJury](http://twitter.com/search?q=%23LeGrandJury) | N/A |
+| 6 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
+| 7 | [#RCSAAJA](http://twitter.com/search?q=%23RCSAAJA) | N/A |
+| 8 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 9 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 10 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 11 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
+| 12 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 13 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
+| 14 | [Le 19](http://twitter.com/search?q=Le+19) | N/A |
+| 15 | [Marioupol](http://twitter.com/search?q=Marioupol) | N/A |
+| 16 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 17 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 19 | [Fillon](http://twitter.com/search?q=Fillon) | N/A |
+| 20 | [Clasico](http://twitter.com/search?q=Clasico) | N/A |
+| 21 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
+| 22 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 23 | [Salamé](http://twitter.com/search?q=Salam%c3%a9) | N/A |
+| 24 | [Sainté](http://twitter.com/search?q=Saint%c3%a9) | N/A |
+| 25 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 26 | [La Pologne](http://twitter.com/search?q=La+Pologne) | N/A |
+| 27 | [Philippot](http://twitter.com/search?q=Philippot) | N/A |
+| 28 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 29 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 30 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 31 | [#19mars](http://twitter.com/search?q=%2319mars) | N/A |
+| 32 | [#Ciotti](http://twitter.com/search?q=%23Ciotti) | N/A |
+| 33 | [#EnSelleAvecZEturf](http://twitter.com/search?q=%23EnSelleAvecZEturf) | N/A |
+| 34 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
+| 35 | [#FaisTaPrièreDansUnTitre](http://twitter.com/search?q=%23FaisTaPri%c3%a8reDansUnTitre) | N/A |
+| 36 | [#Melenchon](http://twitter.com/search?q=%23Melenchon) | N/A |
+| 37 | [#freebetPMU](http://twitter.com/search?q=%23freebetPMU) | N/A |
+| 38 | [#SDROM](http://twitter.com/search?q=%23SDROM) | N/A |
+| 39 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
+| 40 | [#Algérie](http://twitter.com/search?q=%23Alg%c3%a9rie) | N/A |
+| 41 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 42 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
+| 43 | [#Ligue1UberEats](http://twitter.com/search?q=%23Ligue1UberEats) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-19 13:20:03 UTC`
+📆 Last Updated: `2023-03-19 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Pressestunde](http://twitter.com/search?q=%23Pressestunde) | N/A |
-| 2 | [#karner](http://twitter.com/search?q=%23karner) | N/A |
-| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 3 | [#karner](http://twitter.com/search?q=%23karner) | N/A |
 | 4 | [#dudw](http://twitter.com/search?q=%23dudw) | N/A |
-| 5 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 5 | [#FAKSCR](http://twitter.com/search?q=%23FAKSCR) | N/A |
 | 6 | [Niederösterreich](http://twitter.com/search?q=Nieder%c3%b6sterreich) | N/A |
-| 7 | [#FAKSCR](http://twitter.com/search?q=%23FAKSCR) | N/A |
-| 8 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 9 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 10 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 11 | [#Sobotka](http://twitter.com/search?q=%23Sobotka) | N/A |
-| 12 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 13 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 14 | [Friedhöfe](http://twitter.com/search?q=Friedh%c3%b6fe) | N/A |
-| 15 | [Darknet](http://twitter.com/search?q=Darknet) | N/A |
-| 16 | [Udo Landbauer](http://twitter.com/search?q=Udo+Landbauer) | N/A |
-| 17 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
-| 18 | [Speisen](http://twitter.com/search?q=Speisen) | N/A |
-| 19 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 20 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
+| 7 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 8 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 9 | [Darknet](http://twitter.com/search?q=Darknet) | N/A |
+| 10 | [Speisen](http://twitter.com/search?q=Speisen) | N/A |
+| 11 | [Küche](http://twitter.com/search?q=K%c3%bcche) | N/A |
+| 12 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 13 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
+| 14 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 15 | [Friedhöfe](http://twitter.com/search?q=Friedh%c3%b6fe) | N/A |
+| 16 | [Eiernockerl](http://twitter.com/search?q=Eiernockerl) | N/A |
+| 17 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 18 | [Amtsmissbrauch](http://twitter.com/search?q=Amtsmissbrauch) | N/A |
+| 19 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
+| 20 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
 | 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 22 | [Amtsmissbrauch](http://twitter.com/search?q=Amtsmissbrauch) | N/A |
-| 23 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
-| 24 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 25 | [Küche](http://twitter.com/search?q=K%c3%bcche) | N/A |
-| 26 | [Neos](http://twitter.com/search?q=Neos) | N/A |
-| 27 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
-| 28 | [Landesregierung](http://twitter.com/search?q=Landesregierung) | N/A |
-| 29 | [Wirt](http://twitter.com/search?q=Wirt) | N/A |
-| 30 | [Chlor](http://twitter.com/search?q=Chlor) | N/A |
-| 31 | [Arbeitsübereinkommen](http://twitter.com/search?q=Arbeits%c3%bcbereinkommen) | N/A |
-| 32 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
-| 33 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 34 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
-| 35 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
-| 36 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
-| 37 | [Kommentaren](http://twitter.com/search?q=Kommentaren) | N/A |
-| 38 | [hitlergruß](http://twitter.com/search?q=hitlergru%c3%9f) | N/A |
-| 39 | [Förderung](http://twitter.com/search?q=F%c3%b6rderung) | N/A |
-| 40 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 41 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 42 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
-| 43 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 44 | [Gasthaus](http://twitter.com/search?q=Gasthaus) | N/A |
-| 45 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 46 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 47 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 48 | [Gendern](http://twitter.com/search?q=Gendern) | N/A |
-| 49 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
-| 50 | [Klimaglück](http://twitter.com/search?q=Klimagl%c3%bcck) | N/A |
+| 22 | [Pakt](http://twitter.com/search?q=Pakt) | N/A |
+| 23 | [Landesregierung](http://twitter.com/search?q=Landesregierung) | N/A |
+| 24 | [Arbeitsübereinkommen](http://twitter.com/search?q=Arbeits%c3%bcbereinkommen) | N/A |
+| 25 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 26 | [Chlor](http://twitter.com/search?q=Chlor) | N/A |
+| 27 | [Zaun](http://twitter.com/search?q=Zaun) | N/A |
+| 28 | [hitlergruß](http://twitter.com/search?q=hitlergru%c3%9f) | N/A |
+| 29 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 30 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
+| 31 | [Udo Landbauer](http://twitter.com/search?q=Udo+Landbauer) | N/A |
+| 32 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 33 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 34 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 35 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 36 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [St. Pölten](http://twitter.com/search?q=St.+P%c3%b6lten) | N/A |
+| 39 | [Prämie](http://twitter.com/search?q=Pr%c3%a4mie) | N/A |
+| 40 | [regierungsprogramm](http://twitter.com/search?q=regierungsprogramm) | N/A |
+| 41 | [Steiermark](http://twitter.com/search?q=Steiermark) | N/A |
+| 42 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 43 | [Strafgerichtshof](http://twitter.com/search?q=Strafgerichtshof) | N/A |
+| 44 | [Schüssel](http://twitter.com/search?q=Sch%c3%bcssel) | N/A |
+| 45 | [machterhalt](http://twitter.com/search?q=machterhalt) | N/A |
+| 46 | [Feindbild](http://twitter.com/search?q=Feindbild) | N/A |
+| 47 | [Neos](http://twitter.com/search?q=Neos) | N/A |
+| 48 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
+| 49 | [VfGH](http://twitter.com/search?q=VfGH) | N/A |
+| 50 | [Gasthaus](http://twitter.com/search?q=Gasthaus) | N/A |
 
 
 

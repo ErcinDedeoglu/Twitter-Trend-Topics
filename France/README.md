@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-19 13:20:05 UTC`
+📆 Last Updated: `2023-03-19 14:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 4 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 7 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
-| 8 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 9 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 10 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 11 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 12 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 13 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 14 | [VETTORI](http://twitter.com/search?q=VETTORI) | N/A |
-| 15 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 16 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 17 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 18 | [Natoo](http://twitter.com/search?q=Natoo) | N/A |
-| 19 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 20 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 21 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 22 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
-| 23 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 24 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 26 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 27 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 28 | [Les 28%](http://twitter.com/search?q=Les+28%25) | N/A |
-| 29 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 30 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
-| 31 | [Le 19](http://twitter.com/search?q=Le+19) | N/A |
-| 32 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 33 | [L'enlèvement](http://twitter.com/search?q=L%27enl%c3%a8vement) | N/A |
-| 34 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 35 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 36 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 37 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 38 | [Chimaev](http://twitter.com/search?q=Chimaev) | N/A |
-| 39 | [Ranking of Kings](http://twitter.com/search?q=Ranking+of+Kings) | N/A |
-| 40 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 41 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 42 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 43 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 44 | [Poggio](http://twitter.com/search?q=Poggio) | N/A |
-| 45 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 46 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 47 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 1 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 2 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
+| 3 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 4 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 5 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 6 | [#RCSAAJA](http://twitter.com/search?q=%23RCSAAJA) | N/A |
+| 7 | [#LeGrandJury](http://twitter.com/search?q=%23LeGrandJury) | N/A |
+| 8 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
+| 9 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 10 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 11 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 12 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
+| 13 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
+| 14 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 15 | [Marioupol](http://twitter.com/search?q=Marioupol) | N/A |
+| 16 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 17 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 19 | [Fillon](http://twitter.com/search?q=Fillon) | N/A |
+| 20 | [Clasico](http://twitter.com/search?q=Clasico) | N/A |
+| 21 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
+| 22 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 23 | [Salamé](http://twitter.com/search?q=Salam%c3%a9) | N/A |
+| 24 | [Philippot](http://twitter.com/search?q=Philippot) | N/A |
+| 25 | [Sainté](http://twitter.com/search?q=Saint%c3%a9) | N/A |
+| 26 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 27 | [La Pologne](http://twitter.com/search?q=La+Pologne) | N/A |
+| 28 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 29 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 30 | [#19mars](http://twitter.com/search?q=%2319mars) | N/A |
+| 31 | [#Ciotti](http://twitter.com/search?q=%23Ciotti) | N/A |
+| 32 | [#EnSelleAvecZEturf](http://twitter.com/search?q=%23EnSelleAvecZEturf) | N/A |
+| 33 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
+| 34 | [#FaisTaPrièreDansUnTitre](http://twitter.com/search?q=%23FaisTaPri%c3%a8reDansUnTitre) | N/A |
+| 35 | [#freebetPMU](http://twitter.com/search?q=%23freebetPMU) | N/A |
+| 36 | [#Melenchon](http://twitter.com/search?q=%23Melenchon) | N/A |
+| 37 | [#SDROM](http://twitter.com/search?q=%23SDROM) | N/A |
+| 38 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
+| 39 | [#Algérie](http://twitter.com/search?q=%23Alg%c3%a9rie) | N/A |
+| 40 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 41 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
+| 42 | [#Ligue1UberEats](http://twitter.com/search?q=%23Ligue1UberEats) | N/A |
 
 
 

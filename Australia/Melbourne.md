@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-19 13:19:34 UTC`
+📆 Last Updated: `2023-03-19 14:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 2 | [Victorian](http://twitter.com/search?q=Victorian) | N/A |
-| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 4 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 5 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 6 | [Mitch Marsh](http://twitter.com/search?q=Mitch+Marsh) | N/A |
-| 7 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 8 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 10 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 11 | [#MCRSYDNEY](http://twitter.com/search?q=%23MCRSYDNEY) | N/A |
-| 12 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
-| 13 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 14 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 15 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
-| 16 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 17 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
-| 18 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 19 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
-| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 21 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 2 | [#aflgiantscrows](http://twitter.com/search?q=%23aflgiantscrows) | N/A |
+| 3 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
+| 4 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
+| 5 | [#AFLSaintsFreo](http://twitter.com/search?q=%23AFLSaintsFreo) | N/A |
+| 6 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 7 | [Mitch Marsh](http://twitter.com/search?q=Mitch+Marsh) | N/A |
+| 8 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 9 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 10 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 11 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 12 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 13 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 14 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
+| 17 | [Ross Lyon](http://twitter.com/search?q=Ross+Lyon) | N/A |
+| 18 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 19 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 20 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 21 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
 | 22 | [Wakeham](http://twitter.com/search?q=Wakeham) | N/A |
-| 23 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 24 | [Ross Lyon](http://twitter.com/search?q=Ross+Lyon) | N/A |
-| 25 | [Laird](http://twitter.com/search?q=Laird) | N/A |
-| 26 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 27 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
-| 28 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 29 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 30 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 31 | [Walla](http://twitter.com/search?q=Walla) | N/A |
-| 32 | [Bombers](http://twitter.com/search?q=Bombers) | N/A |
-| 33 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 34 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 35 | [nazism](http://twitter.com/search?q=nazism) | N/A |
-| 36 | [St Kilda](http://twitter.com/search?q=St+Kilda) | N/A |
-| 37 | [The Nazis](http://twitter.com/search?q=The+Nazis) | N/A |
-| 38 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 39 | [#MACvMCY](http://twitter.com/search?q=%23MACvMCY) | N/A |
-| 40 | [#NRLRaidersSharks](http://twitter.com/search?q=%23NRLRaidersSharks) | N/A |
-| 41 | [#AustralianIdol](http://twitter.com/search?q=%23AustralianIdol) | N/A |
-| 42 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 43 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
-| 44 | [#AFLHawksDons](http://twitter.com/search?q=%23AFLHawksDons) | N/A |
-| 45 | [#springst](http://twitter.com/search?q=%23springst) | N/A |
-| 46 | [#godons](http://twitter.com/search?q=%23godons) | N/A |
+| 23 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 24 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 25 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
+| 26 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 27 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
+| 28 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 29 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 30 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 31 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 32 | [Tippa](http://twitter.com/search?q=Tippa) | N/A |
+| 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 34 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 35 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
+| 36 | [Laird](http://twitter.com/search?q=Laird) | N/A |
+| 37 | [Walla](http://twitter.com/search?q=Walla) | N/A |
+| 38 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 40 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 41 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
+| 42 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 43 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 44 | [Victoria Police](http://twitter.com/search?q=Victoria+Police) | N/A |
+| 45 | [douehi](http://twitter.com/search?q=douehi) | N/A |
+| 46 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 47 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 48 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 49 | [Rachele](http://twitter.com/search?q=Rachele) | N/A |
+| 50 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-19 13:20:05 UTC`
+📆 Last Updated: `2023-03-19 14:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ireland
 | 3 | [#GrandSlam](http://twitter.com/search?q=%23GrandSlam) | N/A |
 | 4 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 5 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 6 | [England](http://twitter.com/search?q=England) | N/A |
-| 7 | [England](http://twitter.com/search?q=England) | N/A |
-| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 6 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 8 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
 | 9 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
 | 10 | [Mammies](http://twitter.com/search?q=Mammies) | N/A |
-| 11 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 12 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 13 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 14 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 15 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 16 | [Owen Farrell](http://twitter.com/search?q=Owen+Farrell) | N/A |
+| 11 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 12 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 13 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 14 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 15 | [Owen Farrell](http://twitter.com/search?q=Owen+Farrell) | N/A |
+| 16 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
 | 17 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 18 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 19 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 20 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 21 | [RIP Lance Reddick](http://twitter.com/search?q=RIP+Lance+Reddick) | N/A |
-| 22 | [Sheehan](http://twitter.com/search?q=Sheehan) | N/A |
-| 23 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 24 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 25 | [Mammy](http://twitter.com/search?q=Mammy) | N/A |
-| 26 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 27 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 18 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 19 | [SHEEHAN](http://twitter.com/search?q=SHEEHAN) | N/A |
+| 20 | [Mammy](http://twitter.com/search?q=Mammy) | N/A |
+| 21 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 22 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 23 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 24 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
+| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 27 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
 | 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 29 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 30 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 31 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 30 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 31 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 | 32 | [Meath](http://twitter.com/search?q=Meath) | N/A |
-| 33 | [gardner](http://twitter.com/search?q=gardner) | N/A |
-| 34 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 35 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 36 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 37 | [david clifford](http://twitter.com/search?q=david+clifford) | N/A |
-| 38 | [Eamon Ryan](http://twitter.com/search?q=Eamon+Ryan) | N/A |
-| 39 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 41 | [Sunday Times](http://twitter.com/search?q=Sunday+Times) | N/A |
-| 42 | [Justin Gaethje](http://twitter.com/search?q=Justin+Gaethje) | N/A |
-| 43 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
-| 44 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 45 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
-| 46 | [navan](http://twitter.com/search?q=navan) | N/A |
-| 47 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 33 | [Wexford](http://twitter.com/search?q=Wexford) | N/A |
+| 34 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 35 | [david clifford](http://twitter.com/search?q=david+clifford) | N/A |
+| 36 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
+| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 38 | [Sunday Times](http://twitter.com/search?q=Sunday+Times) | N/A |
+| 39 | [Justin Gaethje](http://twitter.com/search?q=Justin+Gaethje) | N/A |
+| 40 | [Gunnar Nelson](http://twitter.com/search?q=Gunnar+Nelson) | N/A |
+| 41 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 42 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 43 | [Sally Rooney](http://twitter.com/search?q=Sally+Rooney) | N/A |
+| 44 | [navan](http://twitter.com/search?q=navan) | N/A |
+| 45 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 46 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 47 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 48 | [Cliffs of Moher](http://twitter.com/search?q=Cliffs+of+Moher) | N/A |
-| 49 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 50 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 49 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 50 | [Lansdowne Road](http://twitter.com/search?q=Lansdowne+Road) | N/A |
 
 
 
