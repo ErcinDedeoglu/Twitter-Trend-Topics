@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-19 16:16:53 UTC`
+📆 Last Updated: `2023-03-19 17:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
-| 2 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
-| 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 4 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
+| 1 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 2 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
+| 3 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
+| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
 | 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
+| 6 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
 | 7 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 9 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
-| 10 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 11 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
+| 8 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 9 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 10 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
+| 11 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 | 12 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 13 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 16 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 17 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 18 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 19 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 20 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 21 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 22 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 23 | [St. Pauli](http://twitter.com/search?q=St.+Pauli) | N/A |
-| 24 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 25 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 26 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 27 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 28 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 13 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 14 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 17 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 20 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 21 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 22 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 23 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 24 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 25 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
+| 26 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 27 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 28 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
 | 29 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 30 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 31 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 32 | [PostDocs](http://twitter.com/search?q=PostDocs) | N/A |
-| 33 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 36 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 37 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 30 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 31 | [kriegsverbrecher](http://twitter.com/search?q=kriegsverbrecher) | N/A |
+| 32 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 33 | [Unis](http://twitter.com/search?q=Unis) | N/A |
+| 34 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
+| 35 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
+| 36 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 37 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
 | 38 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 39 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 40 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 41 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 42 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 43 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
-| 44 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 45 | [selke](http://twitter.com/search?q=selke) | N/A |
-| 46 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 47 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 48 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 49 | [wahlrecht](http://twitter.com/search?q=wahlrecht) | N/A |
-| 50 | [großspender](http://twitter.com/search?q=gro%c3%9fspender) | N/A |
+| 39 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
+| 40 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 41 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 42 | [Professur](http://twitter.com/search?q=Professur) | N/A |
+| 43 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 44 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 45 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 46 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
+| 47 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
+| 48 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
+| 49 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 50 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
 
 
 

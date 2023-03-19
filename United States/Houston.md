@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-19 16:17:19 UTC`
+📆 Last Updated: `2023-03-19 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 2 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
-| 3 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 4 | [The Texans](http://twitter.com/search?q=The+Texans) | N/A |
-| 5 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
-| 6 | [Hopkins](http://twitter.com/search?q=Hopkins) | Hopkins is a surname of English origin. It is derived from the given name Hob, which is a diminutive form of Robert. The name Hopkins means "son of Hob". |
-| 7 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 8 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 9 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 10 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 11 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 12 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 13 | [Trumps](http://twitter.com/search?q=Trumps) | N/A |
-| 14 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 1 | [The Texans](http://twitter.com/search?q=The+Texans) | N/A |
+| 2 | [Hopkins](http://twitter.com/search?q=Hopkins) | Hopkins is a surname of English origin. It is derived from the given name Hob, which is a diminutive form of Robert. The name Hopkins means "son of Hob". |
+| 3 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 4 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 5 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 6 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 7 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 8 | [Trumps](http://twitter.com/search?q=Trumps) | N/A |
+| 9 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 10 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 11 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 12 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 13 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 14 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 15 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 18 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 21 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 22 | [Jen Psaki](http://twitter.com/search?q=Jen+Psaki) | N/A |
+| 23 | [Martin Brundle](http://twitter.com/search?q=Martin+Brundle) | N/A |
+| 24 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 25 | [Dexter](http://twitter.com/search?q=Dexter) | N/A |
+| 26 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 28 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 29 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 30 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
+| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 32 | [Hankins](http://twitter.com/search?q=Hankins) | N/A |
+| 33 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 34 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 35 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 36 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 37 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 38 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 39 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 40 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 41 | [Profar](http://twitter.com/search?q=Profar) | N/A |
+| 42 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 43 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 44 | [Colby Jones](http://twitter.com/search?q=Colby+Jones) | N/A |
+| 45 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 46 | [Jost](http://twitter.com/search?q=Jost) | N/A |
+| 47 | [Amari](http://twitter.com/search?q=Amari) | N/A |
+| 48 | [Ceedee](http://twitter.com/search?q=Ceedee) | N/A |
+| 49 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 50 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
 
 
 

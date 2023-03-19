@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-19 16:16:50 UTC`
+📆 Last Updated: `2023-03-19 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RCHŁKS](http://twitter.com/search?q=%23RCH%c5%81KS) | N/A |
-| 2 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
-| 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 4 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 5 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 6 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 7 | [Sebastian Szymański](http://twitter.com/search?q=Sebastian+Szyma%c5%84ski) | N/A |
-| 8 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 9 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
-| 10 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 11 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
-| 12 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 13 | [Feyenoordu](http://twitter.com/search?q=Feyenoordu) | N/A |
-| 14 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 15 | [Fannemela](http://twitter.com/search?q=Fannemela) | N/A |
-| 16 | [szmyt](http://twitter.com/search?q=szmyt) | N/A |
-| 17 | [Najman](http://twitter.com/search?q=Najman) | N/A |
-| 18 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 19 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 20 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 21 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 22 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 23 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 24 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
-| 25 | [Dera](http://twitter.com/search?q=Dera) | N/A |
-| 26 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 27 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 28 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
-| 29 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 30 | [Ema Klinec](http://twitter.com/search?q=Ema+Klinec) | N/A |
-| 31 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 32 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 33 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 34 | [Hadze](http://twitter.com/search?q=Hadze) | N/A |
-| 35 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 36 | [Andersa](http://twitter.com/search?q=Andersa) | N/A |
-| 37 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 38 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 39 | [ŁKSu](http://twitter.com/search?q=%c5%81KSu) | N/A |
-| 40 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
-| 41 | [Michalkiewicz](http://twitter.com/search?q=Michalkiewicz) | N/A |
-| 42 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 43 | [Bytomiu](http://twitter.com/search?q=Bytomiu) | N/A |
-| 44 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 45 | [TikToku](http://twitter.com/search?q=TikToku) | N/A |
-| 46 | [Kowalczyka](http://twitter.com/search?q=Kowalczyka) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 49 | [labryga](http://twitter.com/search?q=labryga) | N/A |
-| 50 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
+| 1 | [#highleague6](http://twitter.com/search?q=%23highleague6) | N/A |
+| 2 | [#WIDLPO](http://twitter.com/search?q=%23WIDLPO) | N/A |
+| 3 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 4 | [#RCHŁKS](http://twitter.com/search?q=%23RCH%c5%81KS) | N/A |
+| 5 | [#WARLGD](http://twitter.com/search?q=%23WARLGD) | N/A |
+| 6 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
+| 7 | [Feddek](http://twitter.com/search?q=Feddek) | N/A |
+| 8 | [Sebastian Szymański](http://twitter.com/search?q=Sebastian+Szyma%c5%84ski) | N/A |
+| 9 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 10 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
+| 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 12 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 13 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 14 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 15 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 16 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 17 | [Jakub Kiwior](http://twitter.com/search?q=Jakub+Kiwior) | Jakub Kiwior is a Polish surname. In English, it translates to "Kiwior of Jacob". |
+| 18 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 19 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 20 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
+| 21 | [Najman](http://twitter.com/search?q=Najman) | N/A |
+| 22 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 23 | [Stefan Kraft](http://twitter.com/search?q=Stefan+Kraft) | N/A |
+| 24 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 25 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 26 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Fannemela](http://twitter.com/search?q=Fannemela) | N/A |
+| 29 | [Raw Air](http://twitter.com/search?q=Raw+Air) | N/A |
+| 30 | [Dera](http://twitter.com/search?q=Dera) | N/A |
+| 31 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 32 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 33 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
+| 34 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 35 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 36 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 37 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
+| 38 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 39 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 40 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 41 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 42 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 43 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 44 | [ŁKSu](http://twitter.com/search?q=%c5%81KSu) | N/A |
+| 45 | [Kamila](http://twitter.com/search?q=Kamila) | N/A |
+| 46 | [andersa](http://twitter.com/search?q=andersa) | N/A |
+| 47 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 48 | [daro lew](http://twitter.com/search?q=daro+lew) | N/A |
+| 49 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 50 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
 
 
 

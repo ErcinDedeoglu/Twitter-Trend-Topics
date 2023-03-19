@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-19 16:17:15 UTC`
+📆 Last Updated: `2023-03-19 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KabinedenMülakatsız100Bin](http://twitter.com/search?q=%23KabinedenM%c3%bclakats%c4%b1z100Bin) | N/A |
-| 2 | [#BakanSözVerdiPDRNormVakti](http://twitter.com/search?q=%23BakanS%c3%b6zVerdiPDRNormVakti) | N/A |
-| 3 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 4 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 5 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
-| 6 | [Deprem Kabinleri](http://twitter.com/search?q=Deprem+Kabinleri) | N/A |
-| 7 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 8 | [Fil Ali](http://twitter.com/search?q=Fil+Ali) | N/A |
-| 9 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 10 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 11 | [Cigli](http://twitter.com/search?q=Cigli) | N/A |
-| 12 | [HALK TV KAPATILSIN](http://twitter.com/search?q=HALK+TV+KAPATILSIN) | N/A |
-| 13 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
-| 14 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
-| 15 | [NetÖzel DilBar](http://twitter.com/search?q=Net%c3%96zel+DilBar) | N/A |
-| 16 | [Alanyaspor - Fenerbahçe](http://twitter.com/search?q=Alanyaspor+-+Fenerbah%c3%a7e) | N/A |
-| 17 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
-| 18 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
-| 19 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 20 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 21 | [Volkan Babacan](http://twitter.com/search?q=Volkan+Babacan) | N/A |
-| 22 | [TBMM Plan](http://twitter.com/search?q=TBMM+Plan) | N/A |
-| 23 | [Seyyar Sandık](http://twitter.com/search?q=Seyyar+Sand%c4%b1k) | N/A |
-| 24 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
-| 25 | [Bor Karbür Üretim Tesisi](http://twitter.com/search?q=Bor+Karb%c3%bcr+%c3%9cretim+Tesisi) | N/A |
-| 26 | [Psikolojik Danışman](http://twitter.com/search?q=Psikolojik+Dan%c4%b1%c5%9fman) | N/A |
-| 27 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
-| 28 | [Balıkesir'in Bandırma](http://twitter.com/search?q=Bal%c4%b1kesir%27in+Band%c4%b1rma) | N/A |
-| 29 | [Fatih Karagümrük](http://twitter.com/search?q=Fatih+Karag%c3%bcmr%c3%bck) | N/A |
-| 30 | [Cevherden Mücevhere](http://twitter.com/search?q=Cevherden+M%c3%bccevhere) | N/A |
-| 31 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
-| 32 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
-| 33 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
-| 34 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 1 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
+| 2 | [#AsistanHekimineSahipÇık](http://twitter.com/search?q=%23AsistanHekimineSahip%c3%87%c4%b1k) | N/A |
+| 3 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
+| 4 | [#KabinedenMülakatsız100Bin](http://twitter.com/search?q=%23KabinedenM%c3%bclakats%c4%b1z100Bin) | N/A |
+| 5 | [GSBtayiniOlumluAçıkla](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1kla) | N/A |
+| 6 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 7 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 8 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 9 | [#isiasemsaldavaolacak](http://twitter.com/search?q=%23isiasemsaldavaolacak) | N/A |
+| 10 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 11 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
+| 12 | [Alanyaspor - Fenerbahçe](http://twitter.com/search?q=Alanyaspor+-+Fenerbah%c3%a7e) | N/A |
+| 13 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
+| 14 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 16 | [Deprem Kabinleri](http://twitter.com/search?q=Deprem+Kabinleri) | N/A |
+| 17 | [Lale](http://twitter.com/search?q=Lale) | N/A |
+| 18 | [Fil Ali](http://twitter.com/search?q=Fil+Ali) | N/A |
+| 19 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
+| 20 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
+| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 22 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 23 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 24 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 25 | [Yediğimiz](http://twitter.com/search?q=Yedi%c4%9fimiz) | N/A |
+| 26 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
+| 27 | [HALK TV KAPATILSIN](http://twitter.com/search?q=HALK+TV+KAPATILSIN) | N/A |
+| 28 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 29 | [Cigli](http://twitter.com/search?q=Cigli) | N/A |
+| 30 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 31 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
+| 32 | [ADAY OLMA](http://twitter.com/search?q=ADAY+OLMA) | N/A |
+| 33 | [BAŞKAN ERDOĞAN DİYECEKSİNİZ](http://twitter.com/search?q=BA%c5%9eKAN+ERDO%c4%9eAN+D%c4%b0YECEKS%c4%b0N%c4%b0Z) | N/A |
+| 34 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
 | 35 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 36 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 37 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
-| 38 | [Muharreminceye Aşığız](http://twitter.com/search?q=Muharreminceye+A%c5%9f%c4%b1%c4%9f%c4%b1z) | N/A |
-| 39 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
-| 40 | [ADAY OLMA](http://twitter.com/search?q=ADAY+OLMA) | N/A |
-| 41 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 42 | [Altan Tan](http://twitter.com/search?q=Altan+Tan) | N/A |
-| 43 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
-| 44 | [Bayılırım](http://twitter.com/search?q=Bay%c4%b1l%c4%b1r%c4%b1m) | N/A |
-| 45 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
-| 46 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 36 | [Volkan Babacan](http://twitter.com/search?q=Volkan+Babacan) | N/A |
+| 37 | [NetÖzel DilBar](http://twitter.com/search?q=Net%c3%96zel+DilBar) | N/A |
+| 38 | [Takımı](http://twitter.com/search?q=Tak%c4%b1m%c4%b1) | Takımı is a Turkish word that means "team". It is used to refer to a group of people who work together to achieve a common goal. |
+| 39 | [Çekin](http://twitter.com/search?q=%c3%87ekin) | N/A |
+| 40 | [Pozisyon](http://twitter.com/search?q=Pozisyon) | N/A |
+| 41 | [Verilmeyen](http://twitter.com/search?q=Verilmeyen) | N/A |
+| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 43 | [Seyyar Sandık](http://twitter.com/search?q=Seyyar+Sand%c4%b1k) | N/A |
+| 44 | [Joao Pedro](http://twitter.com/search?q=Joao+Pedro) | N/A |
+| 45 | [Psikolojik Danışman](http://twitter.com/search?q=Psikolojik+Dan%c4%b1%c5%9fman) | N/A |
+| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 47 | [Kirmizi](http://twitter.com/search?q=Kirmizi) | N/A |
+| 48 | [TBMM Plan](http://twitter.com/search?q=TBMM+Plan) | N/A |
+| 49 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
 
 
 

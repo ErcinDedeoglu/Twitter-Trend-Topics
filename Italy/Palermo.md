@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-19 16:16:54 UTC`
+📆 Last Updated: `2023-03-19 17:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,50 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [#TorinoNapoli](http://twitter.com/search?q=%23TorinoNapoli) | N/A |
-| 3 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 4 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
-| 5 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 6 | [Roccella](http://twitter.com/search?q=Roccella) | N/A |
-| 7 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 8 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 9 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
+| 1 | [#TorinoNapoli](http://twitter.com/search?q=%23TorinoNapoli) | N/A |
+| 2 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
+| 3 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
+| 4 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 5 | [Roccella](http://twitter.com/search?q=Roccella) | N/A |
+| 6 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 7 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 8 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
+| 9 | [Juric](http://twitter.com/search?q=Juric) | N/A |
 | 10 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 11 | [Juric](http://twitter.com/search?q=Juric) | N/A |
+| 11 | [Serie B](http://twitter.com/search?q=Serie+B) | N/A |
 | 12 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 13 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 14 | [Rampelli](http://twitter.com/search?q=Rampelli) | N/A |
-| 15 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 16 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 13 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 14 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 15 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 16 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
 | 17 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 18 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
-| 19 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 20 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
-| 21 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 22 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 23 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
-| 24 | [#FiorentinaLecce](http://twitter.com/search?q=%23FiorentinaLecce) | N/A |
-| 25 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 26 | [#Annunziata](http://twitter.com/search?q=%23Annunziata) | N/A |
-| 27 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
-| 28 | [#Catanzaro](http://twitter.com/search?q=%23Catanzaro) | N/A |
-| 29 | [#festadelpapà](http://twitter.com/search?q=%23festadelpap%c3%a0) | N/A |
-| 30 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
-| 31 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 32 | [#SampdoriaVerona](http://twitter.com/search?q=%23SampdoriaVerona) | N/A |
-| 33 | [#DerbyDellaCapitale](http://twitter.com/search?q=%23DerbyDellaCapitale) | N/A |
-| 34 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
-| 35 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
-| 36 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
-| 37 | [#LGBT](http://twitter.com/search?q=%23LGBT) | N/A |
-| 38 | [#SerieB](http://twitter.com/search?q=%23SerieB) | N/A |
+| 18 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 19 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 20 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
+| 21 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
+| 22 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 23 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
+| 24 | [#Annunziata](http://twitter.com/search?q=%23Annunziata) | N/A |
+| 25 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 26 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 27 | [#FiorentinaLecce](http://twitter.com/search?q=%23FiorentinaLecce) | N/A |
+| 28 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 29 | [#Catanzaro](http://twitter.com/search?q=%23Catanzaro) | N/A |
+| 30 | [#DerbyDellaCapitale](http://twitter.com/search?q=%23DerbyDellaCapitale) | N/A |
+| 31 | [#festadelpapà](http://twitter.com/search?q=%23festadelpap%c3%a0) | N/A |
+| 32 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 33 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
+| 34 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
+| 35 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
+| 36 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
+| 37 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 38 | [#Rampelli](http://twitter.com/search?q=%23Rampelli) | N/A |
 | 39 | [#famigliearcobaleno](http://twitter.com/search?q=%23famigliearcobaleno) | N/A |
-| 40 | [#SerieATIM](http://twitter.com/search?q=%23SerieATIM) | N/A |
-| 41 | [#Pascale](http://twitter.com/search?q=%23Pascale) | N/A |
-| 42 | [#fathersday](http://twitter.com/search?q=%23fathersday) | N/A |
-| 43 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 40 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
+| 41 | [#badenzzzers](http://twitter.com/search?q=%23badenzzzers) | N/A |
+| 42 | [#LGBT](http://twitter.com/search?q=%23LGBT) | N/A |
+| 43 | [#SerieATIM](http://twitter.com/search?q=%23SerieATIM) | N/A |
+| 44 | [#Pascale](http://twitter.com/search?q=%23Pascale) | N/A |
 
 
 

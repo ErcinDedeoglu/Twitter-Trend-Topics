@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-19 16:16:55 UTC`
+📆 Last Updated: `2023-03-19 17:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 2 | [Pulido](http://twitter.com/search?q=Pulido) | N/A |
-| 3 | [Zapater](http://twitter.com/search?q=Zapater) | N/A |
-| 4 | [#HuescaRealZaragoza](http://twitter.com/search?q=%23HuescaRealZaragoza) | N/A |
-| 5 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 6 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 7 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 8 | [#KingsLeagueJ11](http://twitter.com/search?q=%23KingsLeagueJ11) | N/A |
-| 9 | [#DiaDelPadre](http://twitter.com/search?q=%23DiaDelPadre) | N/A |
-| 10 | [pezzella](http://twitter.com/search?q=pezzella) | N/A |
-| 11 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
-| 12 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
-| 13 | [Rubiales](http://twitter.com/search?q=Rubiales) | N/A |
-| 14 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 15 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 16 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 17 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 18 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 19 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 20 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 21 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 22 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 23 | [Motril](http://twitter.com/search?q=Motril) | N/A |
-| 24 | [Alcoraz](http://twitter.com/search?q=Alcoraz) | N/A |
-| 25 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 26 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 27 | [Posición Alonso](http://twitter.com/search?q=Posici%c3%b3n+Alonso) | N/A |
-| 28 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 29 | [Posición Pérez](http://twitter.com/search?q=Posici%c3%b3n+P%c3%a9rez) | N/A |
-| 30 | [Posición Sainz](http://twitter.com/search?q=Posici%c3%b3n+Sainz) | N/A |
-| 31 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 32 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 33 | [Churros](http://twitter.com/search?q=Churros) | N/A |
-| 34 | [Panda](http://twitter.com/search?q=Panda) | N/A |
-| 35 | [Father's Day](http://twitter.com/search?q=Father%27s+Day) | N/A |
-| 36 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
-| 37 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 38 | [Julio Iglesias](http://twitter.com/search?q=Julio+Iglesias) | N/A |
-| 39 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 40 | [Amancio Ortega](http://twitter.com/search?q=Amancio+Ortega) | N/A |
-| 41 | [Pepes](http://twitter.com/search?q=Pepes) | N/A |
-| 42 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 43 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 44 | [Antonio Maestre](http://twitter.com/search?q=Antonio+Maestre) | N/A |
-| 45 | [Felicidades Papá](http://twitter.com/search?q=Felicidades+Pap%c3%a1) | N/A |
-| 46 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 47 | [Partidazo](http://twitter.com/search?q=Partidazo) | N/A |
-| 48 | [Papás](http://twitter.com/search?q=Pap%c3%a1s) | N/A |
-| 49 | [Santo](http://twitter.com/search?q=Santo) | N/A |
-| 50 | [muchas felicidades](http://twitter.com/search?q=muchas+felicidades) | N/A |
+| 2 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 3 | [Pulido](http://twitter.com/search?q=Pulido) | N/A |
+| 4 | [Zapater](http://twitter.com/search?q=Zapater) | N/A |
+| 5 | [#HuescaRealZaragoza](http://twitter.com/search?q=%23HuescaRealZaragoza) | N/A |
+| 6 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 7 | [#RealSociedadElche](http://twitter.com/search?q=%23RealSociedadElche) | N/A |
+| 8 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 9 | [#KingsLeagueJ11](http://twitter.com/search?q=%23KingsLeagueJ11) | N/A |
+| 10 | [Vamos Nano](http://twitter.com/search?q=Vamos+Nano) | N/A |
+| 11 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 12 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 13 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 14 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 15 | [Obeng](http://twitter.com/search?q=Obeng) | N/A |
+| 16 | [RFEF](http://twitter.com/search?q=RFEF) | N/A |
+| 17 | [Gerard Moreno](http://twitter.com/search?q=Gerard+Moreno) | Gerard Moreno is a Spanish professional footballer who plays as a striker for Villarreal CF in La Liga. He is known for his ability to score goals and create chances for his teammates. In English, the name Gerard Moreno means "brave guardian". |
+| 18 | [Rubiales](http://twitter.com/search?q=Rubiales) | N/A |
+| 19 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 20 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 21 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
+| 22 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
+| 23 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 24 | [Aihen](http://twitter.com/search?q=Aihen) | N/A |
+| 25 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 26 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 27 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
+| 28 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 29 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 30 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 31 | [Gorosabel](http://twitter.com/search?q=Gorosabel) | N/A |
+| 32 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 33 | [Alcoraz](http://twitter.com/search?q=Alcoraz) | N/A |
+| 34 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 35 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 36 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 37 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 38 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 39 | [Geri](http://twitter.com/search?q=Geri) | N/A |
+| 40 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 41 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
+| 42 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 43 | [Churros](http://twitter.com/search?q=Churros) | N/A |
+| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 45 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 46 | [Father's Day](http://twitter.com/search?q=Father%27s+Day) | N/A |
+| 47 | [Cómo 33](http://twitter.com/search?q=C%c3%b3mo+33) | N/A |
+| 48 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 49 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 50 | [Panda](http://twitter.com/search?q=Panda) | N/A |
 
 
 
