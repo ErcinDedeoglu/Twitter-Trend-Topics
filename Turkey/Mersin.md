@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-19 14:17:09 UTC`
+📆 Last Updated: `2023-03-19 15:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Karbür Üretim Tesisi](http://twitter.com/search?q=Karb%c3%bcr+%c3%9cretim+Tesisi) | N/A |
-| 2 | [RangeSelf OtoYıkama](http://twitter.com/search?q=RangeSelf+OtoY%c4%b1kama) | N/A |
-| 3 | [#Newroz2023](http://twitter.com/search?q=%23Newroz2023) | N/A |
-| 4 | [#KabinedenMülakatsız100Bin](http://twitter.com/search?q=%23KabinedenM%c3%bclakats%c4%b1z100Bin) | N/A |
-| 5 | [#WeStandWithTürkiye](http://twitter.com/search?q=%23WeStandWithT%c3%bcrkiye) | N/A |
-| 6 | [Sezainin Dolarları](http://twitter.com/search?q=Sezainin+Dolarlar%c4%b1) | N/A |
+| 1 | [#KabinedenMülakatsız100Bin](http://twitter.com/search?q=%23KabinedenM%c3%bclakats%c4%b1z100Bin) | N/A |
+| 2 | [#BakanSözVerdiPDRNormVakti](http://twitter.com/search?q=%23BakanS%c3%b6zVerdiPDRNormVakti) | N/A |
+| 3 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 4 | [#Newroz2023](http://twitter.com/search?q=%23Newroz2023) | N/A |
+| 5 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 6 | [Volkan Babacan](http://twitter.com/search?q=Volkan+Babacan) | N/A |
 | 7 | [Cigli](http://twitter.com/search?q=Cigli) | N/A |
 | 8 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
-| 9 | [TBMM Plan](http://twitter.com/search?q=TBMM+Plan) | N/A |
-| 10 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 9 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
+| 10 | [Seyyar Sandık](http://twitter.com/search?q=Seyyar+Sand%c4%b1k) | N/A |
 | 11 | [HALK TV KAPATILSIN](http://twitter.com/search?q=HALK+TV+KAPATILSIN) | N/A |
-| 12 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
-| 13 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
-| 14 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 15 | [Feyza Altun](http://twitter.com/search?q=Feyza+Altun) | N/A |
-| 16 | [Direğini](http://twitter.com/search?q=Dire%c4%9fini) | N/A |
-| 17 | [Alanyaspor - Fenerbahçe](http://twitter.com/search?q=Alanyaspor+-+Fenerbah%c3%a7e) | N/A |
-| 18 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
-| 19 | [Bayrakla](http://twitter.com/search?q=Bayrakla) | N/A |
-| 20 | [Talimat](http://twitter.com/search?q=Talimat) | N/A |
-| 21 | [Problemli](http://twitter.com/search?q=Problemli) | N/A |
-| 22 | [işkence](http://twitter.com/search?q=i%c5%9fkence) | N/A |
-| 23 | [Tel Rıfat](http://twitter.com/search?q=Tel+R%c4%b1fat) | N/A |
-| 24 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
-| 25 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 26 | [Hodan](http://twitter.com/search?q=Hodan) | N/A |
-| 27 | [Kastamonu](http://twitter.com/search?q=Kastamonu) | N/A |
-| 28 | [Fransızca](http://twitter.com/search?q=Frans%c4%b1zca) | N/A |
-| 29 | [Murat Gezici](http://twitter.com/search?q=Murat+Gezici) | N/A |
-| 30 | [Samandağ](http://twitter.com/search?q=Samanda%c4%9f) | N/A |
-| 31 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
-| 32 | [hep birlikte başaririz](http://twitter.com/search?q=hep+birlikte+ba%c5%9faririz) | N/A |
-| 33 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 34 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
-| 35 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
-| 36 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 37 | [#EYTKadıköydeTekSes](http://twitter.com/search?q=%23EYTKad%c4%b1k%c3%b6ydeTekSes) | N/A |
-| 38 | [#KızKulesi](http://twitter.com/search?q=%23K%c4%b1zKulesi) | N/A |
-| 39 | [#StajyerÇırakMeclisiBekliyor](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakMeclisiBekliyor) | N/A |
-| 40 | [#SeninleyizTürkiye](http://twitter.com/search?q=%23SeninleyizT%c3%bcrkiye) | N/A |
-| 41 | [#CevherdenMücevhere](http://twitter.com/search?q=%23CevherdenM%c3%bccevhere) | N/A |
-| 42 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
-| 43 | [#DünyaBu](http://twitter.com/search?q=%23D%c3%bcnyaBu) | N/A |
-| 44 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
-| 45 | [#DünyaBeşiktaşlılarGünü](http://twitter.com/search?q=%23D%c3%bcnyaBe%c5%9fikta%c5%9fl%c4%b1larG%c3%bcn%c3%bc) | N/A |
-| 46 | [#2000lerKadıköyde](http://twitter.com/search?q=%232000lerKad%c4%b1k%c3%b6yde) | N/A |
-| 47 | [#ErdoğanYenidenKazanacak](http://twitter.com/search?q=%23Erdo%c4%9fanYenidenKazanacak) | N/A |
-| 48 | [#Kabinedeunikarari](http://twitter.com/search?q=%23Kabinedeunikarari) | N/A |
+| 12 | [Bor Karbür Üretim Tesisi](http://twitter.com/search?q=Bor+Karb%c3%bcr+%c3%9cretim+Tesisi) | N/A |
+| 13 | [Alanyaspor - Fenerbahçe](http://twitter.com/search?q=Alanyaspor+-+Fenerbah%c3%a7e) | N/A |
+| 14 | [TBMM Plan](http://twitter.com/search?q=TBMM+Plan) | N/A |
+| 15 | [Ülkü Ocakları](http://twitter.com/search?q=%c3%9clk%c3%bc+Ocaklar%c4%b1) | N/A |
+| 16 | [Fatih Karagümrük](http://twitter.com/search?q=Fatih+Karag%c3%bcmr%c3%bck) | N/A |
+| 17 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 18 | [Atakan](http://twitter.com/search?q=Atakan) | Atakan is a Turkish name, derived from the Turkish word atak, which means "bold" or "brave". In English, Atakan can be translated to mean "bold" or "brave". |
+| 19 | [Balıkesir'in Bandırma](http://twitter.com/search?q=Bal%c4%b1kesir%27in+Band%c4%b1rma) | N/A |
+| 20 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
+| 21 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 22 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
+| 23 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 24 | [Direğini](http://twitter.com/search?q=Dire%c4%9fini) | N/A |
+| 25 | [Gezi](http://twitter.com/search?q=Gezi) | N/A |
+| 26 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 27 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
+| 28 | [Bayrak](http://twitter.com/search?q=Bayrak) | N/A |
+| 29 | [Terörist](http://twitter.com/search?q=Ter%c3%b6rist) | N/A |
+| 30 | [Zekeriya](http://twitter.com/search?q=Zekeriya) | N/A |
+| 31 | [Fransızca](http://twitter.com/search?q=Frans%c4%b1zca) | N/A |
+| 32 | [Feyza Altun](http://twitter.com/search?q=Feyza+Altun) | N/A |
+| 33 | [Kastamonu](http://twitter.com/search?q=Kastamonu) | N/A |
+| 34 | [Samandağ](http://twitter.com/search?q=Samanda%c4%9f) | N/A |
+| 35 | [Selahattin](http://twitter.com/search?q=Selahattin) | N/A |
+| 36 | [Yasin Börü](http://twitter.com/search?q=Yasin+B%c3%b6r%c3%bc) | N/A |
+| 37 | [#KızKulesi](http://twitter.com/search?q=%23K%c4%b1zKulesi) | N/A |
+| 38 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 39 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 40 | [#Ankaragücü](http://twitter.com/search?q=%23Ankarag%c3%bcc%c3%bc) | N/A |
+| 41 | [#EYTKadıköydeTekSes](http://twitter.com/search?q=%23EYTKad%c4%b1k%c3%b6ydeTekSes) | N/A |
+| 42 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
+| 43 | [#Kabineunidenyana](http://twitter.com/search?q=%23Kabineunidenyana) | N/A |
+| 44 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 45 | [#WeStandWithTürkiye](http://twitter.com/search?q=%23WeStandWithT%c3%bcrkiye) | N/A |
+| 46 | [#CevherdenMücevhere](http://twitter.com/search?q=%23CevherdenM%c3%bccevhere) | N/A |
+| 47 | [#StajyerÇırakMeclisiBekliyor](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakMeclisiBekliyor) | N/A |
+| 48 | [#SVSvAG](http://twitter.com/search?q=%23SVSvAG) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-19 14:17:22 UTC`
+📆 Last Updated: `2023-03-19 15:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 3 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
-| 4 | [#svsfcsp](http://twitter.com/search?q=%23svsfcsp) | N/A |
-| 5 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
-| 6 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 7 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 8 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 9 | [Schaub](http://twitter.com/search?q=Schaub) | N/A |
-| 10 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 11 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 12 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 13 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 14 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 15 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 16 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 17 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 19 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 21 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 22 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 23 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 24 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 25 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 26 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
-| 27 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 28 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
-| 29 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 30 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
-| 31 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 32 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 33 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 34 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 35 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 36 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
-| 37 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 38 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 39 | [SELKE](http://twitter.com/search?q=SELKE) | N/A |
-| 40 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 41 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 42 | [INSA](http://twitter.com/search?q=INSA) | N/A |
-| 43 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 44 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 45 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 46 | [St. Pauli](http://twitter.com/search?q=St.+Pauli) | N/A |
-| 47 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 48 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 49 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 50 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 1 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
+| 2 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
+| 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 4 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 5 | [#svsfcsp](http://twitter.com/search?q=%23svsfcsp) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 9 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 10 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 11 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
+| 12 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 13 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 14 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 15 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 16 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 17 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 18 | [Schaub](http://twitter.com/search?q=Schaub) | N/A |
+| 19 | [St. Pauli](http://twitter.com/search?q=St.+Pauli) | N/A |
+| 20 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
+| 21 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 22 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 23 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 24 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 25 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 26 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 27 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
+| 28 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 29 | [Unis](http://twitter.com/search?q=Unis) | N/A |
+| 30 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 31 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 32 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 33 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 34 | [Professur](http://twitter.com/search?q=Professur) | N/A |
+| 35 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 36 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
+| 37 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 38 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 39 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
+| 40 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 41 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 42 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 43 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 44 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [selke](http://twitter.com/search?q=selke) | N/A |
+| 47 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 48 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 49 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
+| 50 | [großspender](http://twitter.com/search?q=gro%c3%9fspender) | N/A |
 
 
 

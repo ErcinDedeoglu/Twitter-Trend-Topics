@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-19 14:16:32 UTC`
+📆 Last Updated: `2023-03-19 15:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 2 | [Tommy Doyle](http://twitter.com/search?q=Tommy+Doyle) | N/A |
-| 3 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 4 | [#SHUBBR](http://twitter.com/search?q=%23SHUBBR) | N/A |
-| 5 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 6 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 7 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 9 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 10 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 11 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
-| 12 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
-| 13 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 14 | [Tyler Morton](http://twitter.com/search?q=Tyler+Morton) | N/A |
-| 15 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
-| 16 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
-| 17 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 18 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 19 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 20 | [Dowden](http://twitter.com/search?q=Dowden) | N/A |
-| 21 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 22 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
-| 23 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 24 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
-| 25 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 26 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 27 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 28 | [My Mum](http://twitter.com/search?q=My+Mum) | N/A |
-| 29 | [Mike Russell](http://twitter.com/search?q=Mike+Russell) | N/A |
-| 30 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 31 | [Lewes](http://twitter.com/search?q=Lewes) | N/A |
-| 32 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 33 | [Mummy](http://twitter.com/search?q=Mummy) | N/A |
-| 34 | [lisa nandy](http://twitter.com/search?q=lisa+nandy) | N/A |
-| 35 | [Sul y Mamau Hapus](http://twitter.com/search?q=Sul+y+Mamau+Hapus) | N/A |
-| 36 | [Ed Davey](http://twitter.com/search?q=Ed+Davey) | N/A |
-| 37 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 38 | [Sue Ellen](http://twitter.com/search?q=Sue+Ellen) | N/A |
-| 39 | [Toni](http://twitter.com/search?q=Toni) | N/A |
-| 40 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 41 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 42 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 43 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 44 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 45 | [Electoral Commission](http://twitter.com/search?q=Electoral+Commission) | N/A |
-| 46 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 47 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 48 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 49 | [Adama](http://twitter.com/search?q=Adama) | N/A |
-| 50 | [Keenan](http://twitter.com/search?q=Keenan) | N/A |
+| 1 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 2 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 4 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 5 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 6 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 7 | [Tommy Doyle](http://twitter.com/search?q=Tommy+Doyle) | N/A |
+| 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 10 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 11 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 12 | [#SHUBBR](http://twitter.com/search?q=%23SHUBBR) | N/A |
+| 13 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 14 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
+| 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 16 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 17 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
+| 18 | [Tyler Morton](http://twitter.com/search?q=Tyler+Morton) | N/A |
+| 19 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
+| 20 | [Benny Blanco](http://twitter.com/search?q=Benny+Blanco) | N/A |
+| 21 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 22 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 23 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
+| 24 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 25 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 26 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 27 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 28 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 29 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 30 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 31 | [McBurnie](http://twitter.com/search?q=McBurnie) | N/A |
+| 32 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 33 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
+| 34 | [Wilf](http://twitter.com/search?q=Wilf) | Wilf is a slang term used to refer to a friend or close acquaintance. It is derived from the phrase "willing friend" and is often used as an affectionate nickname. |
+| 35 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 36 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
+| 37 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
+| 38 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
+| 39 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 40 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 41 | [Lewes](http://twitter.com/search?q=Lewes) | N/A |
+| 42 | [Andersen](http://twitter.com/search?q=Andersen) | N/A |
+| 43 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 44 | [Dowden](http://twitter.com/search?q=Dowden) | N/A |
+| 45 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 46 | [Micky](http://twitter.com/search?q=Micky) | N/A |
+| 47 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 48 | [Lisa Nandy](http://twitter.com/search?q=Lisa+Nandy) | N/A |
+| 49 | [My Mum](http://twitter.com/search?q=My+Mum) | N/A |
+| 50 | [Mike Russell](http://twitter.com/search?q=Mike+Russell) | N/A |
 
 
 

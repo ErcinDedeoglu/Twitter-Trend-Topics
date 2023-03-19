@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-19 14:16:51 UTC`
+📆 Last Updated: `2023-03-19 15:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [suka duka uni unaa](http://twitter.com/search?q=suka+duka+uni+unaa) | N/A |
-| 2 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 3 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 4 | [PKB KAHIJI JABAR NGAHIJI](http://twitter.com/search?q=PKB+KAHIJI+JABAR+NGAHIJI) | N/A |
-| 5 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
-| 6 | [Unaa Evos](http://twitter.com/search?q=Unaa+Evos) | N/A |
-| 7 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
-| 8 | [prabowo presidennya](http://twitter.com/search?q=prabowo+presidennya) | N/A |
-| 9 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
-| 10 | [Sangcok](http://twitter.com/search?q=Sangcok) | N/A |
-| 11 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 12 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 13 | [YukGabung Kerenin Indonesia](http://twitter.com/search?q=YukGabung+Kerenin+Indonesia) | N/A |
-| 14 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
-| 15 | [BESOK SENIN](http://twitter.com/search?q=BESOK+SENIN) | N/A |
-| 16 | [Serunya MilenialGenZ Prabowo](http://twitter.com/search?q=Serunya+MilenialGenZ+Prabowo) | N/A |
-| 17 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 18 | [Hoshi](http://twitter.com/search?q=Hoshi) | N/A |
-| 19 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 20 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 21 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 22 | [All Indonesian Final](http://twitter.com/search?q=All+Indonesian+Final) | All Indonesian Final is a term used to describe a tournament or competition in which only Indonesian players are allowed to participate. It is typically used in the context of sports such as badminton, football, and volleyball. The phrase can also be used to refer to any event or competition that is limited to Indonesian participants. |
-| 23 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 24 | [Relis](http://twitter.com/search?q=Relis) | N/A |
-| 25 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 26 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 27 | [hapsun](http://twitter.com/search?q=hapsun) | N/A |
-| 28 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 29 | [Nagita](http://twitter.com/search?q=Nagita) | N/A |
-| 30 | [Piscok](http://twitter.com/search?q=Piscok) | N/A |
-| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 32 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 33 | [kelas 6](http://twitter.com/search?q=kelas+6) | N/A |
-| 34 | [mrt haji nawi](http://twitter.com/search?q=mrt+haji+nawi) | N/A |
-| 35 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 36 | [Tandatangani Petisi](http://twitter.com/search?q=Tandatangani+Petisi) | N/A |
-| 37 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
-| 38 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 39 | [JJUNIJJUN IS FOREVER](http://twitter.com/search?q=JJUNIJJUN+IS+FOREVER) | N/A |
-| 40 | [MC JJUNIJJUN DAY](http://twitter.com/search?q=MC+JJUNIJJUN+DAY) | MC JJUNIJJUN DAY is an annual event held in South Korea to celebrate the birthday of the popular K-pop artist MC JJUNIJJUN. The event is usually held on August 7th and includes a variety of activities such as fan meetings, special performances, and giveaways. The name of the event is derived from the artist's stage name, which is a combination of his real name (Jun) and his nickname (JJUNI). In English, MC JJUNIJJUN DAY translates to "MC JJUNIJJUN's Birthday Celebration". |
-| 41 | [Siwei](http://twitter.com/search?q=Siwei) | N/A |
-| 42 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
-| 43 | [hidan](http://twitter.com/search?q=hidan) | N/A |
-| 44 | [Frisian](http://twitter.com/search?q=Frisian) | N/A |
+| 1 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 2 | [Babah](http://twitter.com/search?q=Babah) | N/A |
+| 3 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
+| 4 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 5 | [All England](http://twitter.com/search?q=All+England) | N/A |
+| 6 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 7 | [Lavani](http://twitter.com/search?q=Lavani) | N/A |
+| 8 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
+| 9 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
+| 10 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
+| 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 12 | [marnie](http://twitter.com/search?q=marnie) | N/A |
+| 13 | [Proliga](http://twitter.com/search?q=Proliga) | N/A |
+| 14 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 15 | [Spirited Away](http://twitter.com/search?q=Spirited+Away) | N/A |
+| 16 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 17 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
+| 18 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 19 | [Hendra](http://twitter.com/search?q=Hendra) | N/A |
+| 20 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 21 | [Transmart](http://twitter.com/search?q=Transmart) | N/A |
+| 22 | [Siwei](http://twitter.com/search?q=Siwei) | N/A |
+| 23 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
+| 24 | [Telur](http://twitter.com/search?q=Telur) | N/A |
+| 25 | [Rover](http://twitter.com/search?q=Rover) | N/A |
+| 26 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 27 | [Sate](http://twitter.com/search?q=Sate) | N/A |
+| 28 | [Lapor](http://twitter.com/search?q=Lapor) | N/A |
+| 29 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 30 | [Closingan](http://twitter.com/search?q=Closingan) | N/A |
+| 31 | [Selingkuh](http://twitter.com/search?q=Selingkuh) | N/A |
+| 32 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 33 | [#JisooDebutMarch31](http://twitter.com/search?q=%23JisooDebutMarch31) | N/A |
+| 34 | [#HAPEACH_YUJIN_DAY](http://twitter.com/search?q=%23HAPEACH_YUJIN_DAY) | N/A |
+| 35 | [#안냐쎄요_한유진생일임니다](http://twitter.com/search?q=%23%ec%95%88%eb%83%90%ec%8e%84%ec%9a%94_%ed%95%9c%ec%9c%a0%ec%a7%84%ec%83%9d%ec%9d%bc%ec%9e%84%eb%8b%88%eb%8b%a4) | N/A |
+| 36 | [#GalaxyAwesomeCube](http://twitter.com/search?q=%23GalaxyAwesomeCube) | N/A |
+| 37 | [#AwesomePerformance](http://twitter.com/search?q=%23AwesomePerformance) | N/A |
+| 38 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 39 | [#KawaiRuka21Birthday](http://twitter.com/search?q=%23KawaiRuka21Birthday) | N/A |
+| 40 | [#우리_힙합_맏내_루카_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ed%9e%99%ed%95%a9_%eb%a7%8f%eb%82%b4_%eb%a3%a8%ec%b9%b4_%eb%8d%b0%ec%9d%b4) | N/A |
+| 41 | [#お誕生日おめ河井瑠花](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e6%b2%b3%e4%ba%95%e7%91%a0%e8%8a%b1) | N/A |
+| 42 | [#MySchoolPresidentOnStageD2](http://twitter.com/search?q=%23MySchoolPresidentOnStageD2) | N/A |
+| 43 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 44 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 45 | [#DISCOVERYOURPEARLSPECTIVE](http://twitter.com/search?q=%23DISCOVERYOURPEARLSPECTIVE) | N/A |
 
 
 

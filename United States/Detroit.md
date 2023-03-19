@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-19 14:17:13 UTC`
+📆 Last Updated: `2023-03-19 15:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 2 | [#GoBlue](http://twitter.com/search?q=%23GoBlue) | N/A |
-| 3 | [#dctid](http://twitter.com/search?q=%23dctid) | N/A |
-| 4 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 6 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 7 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 8 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 9 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 10 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 11 | [Amari Cooper](http://twitter.com/search?q=Amari+Cooper) | N/A |
-| 12 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 13 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 14 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 15 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 16 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 17 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 18 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 19 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 20 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 21 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 22 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 24 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 25 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 26 | [Hololive](http://twitter.com/search?q=Hololive) | N/A |
-| 27 | [Herbig](http://twitter.com/search?q=Herbig) | N/A |
-| 28 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 29 | [Betty White](http://twitter.com/search?q=Betty+White) | N/A |
-| 30 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 31 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 32 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 33 | [Iraq War](http://twitter.com/search?q=Iraq+War) | N/A |
-| 34 | [HELL YEA](http://twitter.com/search?q=HELL+YEA) | N/A |
-| 35 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
-| 36 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 37 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 38 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 39 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 40 | [Biggs](http://twitter.com/search?q=Biggs) | Biggs is a slang term used to refer to someone who is strong, tough, or powerful. It can also be used to describe someone who is cool or impressive. |
-| 41 | [Stephen King](http://twitter.com/search?q=Stephen+King) | N/A |
-| 42 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 43 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 44 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 1 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 2 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
+| 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 4 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 5 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 6 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [Tunsil](http://twitter.com/search?q=Tunsil) | N/A |
+| 11 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 12 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 13 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 14 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 15 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 16 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 17 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 18 | [Amari Cooper](http://twitter.com/search?q=Amari+Cooper) | N/A |
+| 19 | [Andrew Thomas](http://twitter.com/search?q=Andrew+Thomas) | Andrew Thomas is a masculine given name of English origin. It is derived from the Greek name Andreas, which means "manly" or "strong". |
+| 20 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 21 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 22 | [Profar](http://twitter.com/search?q=Profar) | N/A |
+| 23 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 24 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 25 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 26 | [Saint Joseph](http://twitter.com/search?q=Saint+Joseph) | N/A |
+| 27 | [Sympathy](http://twitter.com/search?q=Sympathy) | N/A |
+| 28 | [Hankins](http://twitter.com/search?q=Hankins) | N/A |
+| 29 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 30 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
+| 31 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 32 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 33 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 34 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
+| 35 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 36 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 37 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 38 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 39 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 40 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 41 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 42 | [Tolbert](http://twitter.com/search?q=Tolbert) | N/A |
+| 43 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
+| 44 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
+| 45 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 46 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 47 | [leds](http://twitter.com/search?q=leds) | N/A |
+| 48 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
 
 
 

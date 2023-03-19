@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-03-19 14:17:02 UTC`
+📆 Last Updated: `2023-03-19 15:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#النصر_ابها](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d8%a8%d9%87%d8%a7) | N/A |
-| 2 | [#الاتحاد_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 3 | [#ختام_البزنس](http://twitter.com/search?q=%23%d8%ae%d8%aa%d8%a7%d9%85_%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3) | N/A |
-| 4 | [#الهلال_الاتفاق](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82) | #الهلال_الاتفاق is an Arabic hashtag that translates to "The Crescent Agreement" in English. It is used to refer to a peace agreement between the Yemeni government and the Houthi rebels, which was signed in Stockholm, Sweden in 2018. |
-| 5 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
-| 6 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
-| 7 | [كمال الدولي](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 8 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 9 | [كوستا](http://twitter.com/search?q=%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | كوستا (Kosta) is a common Arabic name, derived from the Greek name Constantine. It means "steadfast" or "constant" in English. |
-| 10 | [عبدالفتاح ادم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d8%af%d9%85) | عبدالفتاح ادم is an Arabic name which translates to "Abdul Fattah Adam" in English. It is composed of two parts: "Abdul Fattah" which means "servant of the opener" and "Adam" which is the name of the first man created by God in Islamic tradition. |
-| 11 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
-| 12 | [هولدينغ](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d8%af%d9%8a%d9%86%d8%ba) | هولدينغ (Holding) is a term used in business and finance to refer to the ownership of a company or asset. It is the act of owning or controlling a certain percentage of the total shares of a company or asset. In English, it can be translated as "holding" or "ownership". |
-| 13 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 14 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 15 | [الدفع الرباعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b9%d9%8a) | N/A |
-| 16 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 17 | [احمد المبارك](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 18 | [روما بارك](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 19 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 20 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 21 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 22 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 23 | [الاسبوع الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 24 | [ملعب الجامعه](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 25 | [بدر رافع](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%b1%d8%a7%d9%81%d8%b9) | N/A |
-| 26 | [بنك ساب](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b3%d8%a7%d8%a8) | N/A |
-| 27 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 28 | [قول سالم](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 29 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 30 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 31 | [نبي الثالث](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 32 | [للنصر](http://twitter.com/search?q=%d9%84%d9%84%d9%86%d8%b5%d8%b1) | للنصر is an Arabic phrase that translates to "for victory" in English. It is often used as a rallying cry or slogan for a cause or movement. |
-| 33 | [مراد باتنا](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d8%af+%d8%a8%d8%a7%d8%aa%d9%86%d8%a7) | "مراد باتنا" is an Arabic phrase that translates to "we wish". It is often used as a way of expressing hope or good wishes. |
-| 34 | [قول الدون](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%86) | N/A |
-| 35 | [قول الثاني](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 36 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
-| 37 | [فتح المطاعم](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b9%d9%85) | N/A |
-| 38 | [ملعب الركزه](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d8%b1%d9%83%d8%b2%d9%87) | N/A |
-| 39 | [اليوم الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 40 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
-| 41 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 42 | [زلاتان](http://twitter.com/search?q=%d8%b2%d9%84%d8%a7%d8%aa%d8%a7%d9%86) | N/A |
-| 43 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 44 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 45 | [الاختبارات المعياريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 46 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 47 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 48 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
-| 49 | [سعيد المولد](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | سعيد المولد is an Arabic phrase that translates to "Happy Birthday" in English. It is a common phrase used to wish someone a happy birthday. |
-| 50 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
+| 1 | [#لرفع_هشتاقك_ترند_θ55ちち899θ3](http://twitter.com/search?q=%23%d9%84%d8%b1%d9%81%d8%b9_%d9%87%d8%b4%d8%aa%d8%a7%d9%82%d9%83_%d8%aa%d8%b1%d9%86%d8%af_%ce%b855%e3%81%a1%e3%81%a1899%ce%b83) | N/A |
+| 2 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 3 | [بن وايت](http://twitter.com/search?q=%d8%a8%d9%86+%d9%88%d8%a7%d9%8a%d8%aa) | N/A |
+| 4 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 5 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 6 | [#مسابقه_مفتاح_لبن](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d9%85%d9%81%d8%aa%d8%a7%d8%ad_%d9%84%d8%a8%d9%86) | N/A |
+| 7 | [ساكا الثاني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%83%d8%a7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 8 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 9 | [زاها](http://twitter.com/search?q=%d8%b2%d8%a7%d9%87%d8%a7) | N/A |
+| 10 | [هولدينغ](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d8%af%d9%8a%d9%86%d8%ba) | هولدينغ (Holding) is a term used in business and finance to refer to the ownership of a company or asset. It is the act of owning or controlling a certain percentage of the total shares of a company or asset. In English, it can be translated as "holding" or "ownership". |
+| 11 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
+| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 13 | [بليهي بارك](http://twitter.com/search?q=%d8%a8%d9%84%d9%8a%d9%87%d9%8a+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 14 | [روما بارك](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 15 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 16 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [اليوم الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 18 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 19 | [مجلس الامه](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 20 | [الاسبوع الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 21 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 22 | [سعيد المولد](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d9%84%d8%af) | سعيد المولد is an Arabic phrase that translates to "Happy Birthday" in English. It is a common phrase used to wish someone a happy birthday. |
+| 23 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
+| 24 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [#ارسنال](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
+| 26 | [#مسابقه_الملك_سلمان_لحفظ_القران](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d9%84%d8%ad%d9%81%d8%b8_%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 27 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 28 | [#زد_رصيدك55](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8355) | N/A |
+| 29 | [#مرزوق_الغانم](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b2%d9%88%d9%82_%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 30 | [#حافلات_الرياض](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%81%d9%84%d8%a7%d8%aa_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 31 | [#_تغريد](http://twitter.com/search?q=%23_%d8%aa%d8%ba%d8%b1%d9%8a%d8%af) | N/A |
+| 32 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 33 | [#بشار_الاسد](http://twitter.com/search?q=%23%d8%a8%d8%b4%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 34 | [#راقت_لي](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%82%d8%aa_%d9%84%d9%8a) | N/A |
+| 35 | [#شداد_عبدالمحين_الراجحي](http://twitter.com/search?q=%23%d8%b4%d8%af%d8%a7%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 36 | [#افتحوا_استاد_القاهره](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%aa%d8%ad%d9%88%d8%a7_%d8%a7%d8%b3%d8%aa%d8%a7%d8%af_%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 37 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 38 | [#المحكمه_الدستوريه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87_%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 39 | [#كريستيانو_رونالدو](http://twitter.com/search?q=%23%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88_%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
+| 40 | [#اليوم_الخليجي_للموهبه_والابداع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a_%d9%84%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9) | N/A |
+| 41 | [#اسبوع_الموهبه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87) | N/A |
+| 42 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
+| 43 | [#الصراصير_الالكترونيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d8%b1%d8%a7%d8%b5%d9%8a%d8%b1_%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
 
 
 

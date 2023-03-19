@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-19 14:17:07 UTC`
+📆 Last Updated: `2023-03-19 15:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [बिहार पुलिस](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 2 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
-| 3 | [#StartAdipurushPromotions](http://twitter.com/search?q=%23StartAdipurushPromotions) | N/A |
+| 2 | [#StartAdipurushPromotions](http://twitter.com/search?q=%23StartAdipurushPromotions) | N/A |
+| 3 | [#RamCharanBirthdayCDP](http://twitter.com/search?q=%23RamCharanBirthdayCDP) | N/A |
 | 4 | [Wake Up OM RAUT](http://twitter.com/search?q=Wake+Up+OM+RAUT) | N/A |
-| 5 | [#RamCharanBirthdayCDP](http://twitter.com/search?q=%23RamCharanBirthdayCDP) | N/A |
-| 6 | [#UpYogi6Years](http://twitter.com/search?q=%23UpYogi6Years) | N/A |
-| 7 | [NATION REJECTS FARHAD IN HP3](http://twitter.com/search?q=NATION+REJECTS+FARHAD+IN+HP3) | N/A |
-| 8 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 9 | [GEETA ADHYAAY BY SHLOVIJ](http://twitter.com/search?q=GEETA+ADHYAAY+BY+SHLOVIJ) | N/A |
-| 10 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
+| 5 | [NATION REJECTS FARHAD IN HP3](http://twitter.com/search?q=NATION+REJECTS+FARHAD+IN+HP3) | N/A |
+| 6 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 7 | [#INDvsAUS](http://twitter.com/search?q=%23INDvsAUS) | N/A |
+| 8 | [#realmeC55](http://twitter.com/search?q=%23realmeC55) | N/A |
+| 9 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 10 | [Auther Awards](http://twitter.com/search?q=Auther+Awards) | N/A |
 | 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 12 | [FOCUS ON AKSHARA TRAUMA](http://twitter.com/search?q=FOCUS+ON+AKSHARA+TRAUMA) | N/A |
+| 12 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 13 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 14 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
-| 15 | [India by 10](http://twitter.com/search?q=India+by+10) | N/A |
-| 16 | [Mitch Marsh](http://twitter.com/search?q=Mitch+Marsh) | N/A |
-| 17 | [JAI CHARAN](http://twitter.com/search?q=JAI+CHARAN) | N/A |
-| 18 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 19 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 20 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 21 | [Justice4 Sushant Singh Rajput](http://twitter.com/search?q=Justice4+Sushant+Singh+Rajput) | Justice4 Sushant Singh Rajput is a hashtag used by supporters of the late actor Sushant Singh Rajput to demand justice for his death. The phrase is used to call for an investigation into the circumstances surrounding his death and to seek accountability from those responsible. In English, it means "seeking justice for Sushant Singh Rajput". |
-| 22 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
-| 23 | [3 YRS OF BHULA DUNGA](http://twitter.com/search?q=3+YRS+OF+BHULA+DUNGA) | N/A |
-| 24 | [2nd ODI](http://twitter.com/search?q=2nd+ODI) | N/A |
+| 14 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 15 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 16 | [BHOLAA ON 30MARCH](http://twitter.com/search?q=BHOLAA+ON+30MARCH) | N/A |
+| 17 | [GEETA ADHYAAY BY SHLOVIJ](http://twitter.com/search?q=GEETA+ADHYAAY+BY+SHLOVIJ) | N/A |
+| 18 | [FOCUS ON AKSHARA TRAUMA](http://twitter.com/search?q=FOCUS+ON+AKSHARA+TRAUMA) | N/A |
+| 19 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 20 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 21 | [महान आत्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%86%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 22 | [India by 10](http://twitter.com/search?q=India+by+10) | N/A |
+| 23 | [Mitch Marsh](http://twitter.com/search?q=Mitch+Marsh) | N/A |
+| 24 | [JAI CHARAN](http://twitter.com/search?q=JAI+CHARAN) | N/A |
 | 25 | [बिहार सरकार](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [RAB RAKHA SHIVRIT](http://twitter.com/search?q=RAB+RAKHA+SHIVRIT) | N/A |
-| 27 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 28 | [CRED](http://twitter.com/search?q=CRED) | N/A |
-| 29 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
-| 30 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 31 | [STYLE ICON PRIYANKA](http://twitter.com/search?q=STYLE+ICON+PRIYANKA) | N/A |
-| 32 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 33 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 34 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
-| 35 | [ऊर्जा मंत्री](http://twitter.com/search?q=%e0%a4%8a%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 36 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
-| 37 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
-| 38 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 39 | [Annamalai](http://twitter.com/search?q=Annamalai) | N/A |
-| 40 | [त्रिपुरारी तिवारी](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 41 | [श्री परशुराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 42 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
-| 43 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 44 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 45 | [Teleprompter](http://twitter.com/search?q=Teleprompter) | N/A |
-| 46 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 47 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
-| 48 | [#MitchellStarc](http://twitter.com/search?q=%23MitchellStarc) | N/A |
-| 49 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 50 | [#EntertainmentKaChampion](http://twitter.com/search?q=%23EntertainmentKaChampion) | N/A |
+| 26 | [Justice4 Sushant Singh Rajput](http://twitter.com/search?q=Justice4+Sushant+Singh+Rajput) | Justice4 Sushant Singh Rajput is a hashtag used by supporters of the late actor Sushant Singh Rajput to demand justice for his death. The phrase is used to call for an investigation into the circumstances surrounding his death and to seek accountability from those responsible. In English, it means "seeking justice for Sushant Singh Rajput". |
+| 27 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 28 | [3 YRS OF BHULA DUNGA](http://twitter.com/search?q=3+YRS+OF+BHULA+DUNGA) | N/A |
+| 29 | [2nd ODI](http://twitter.com/search?q=2nd+ODI) | N/A |
+| 30 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 31 | [श्री परशुराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 32 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 33 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 34 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 35 | [Cred](http://twitter.com/search?q=Cred) | N/A |
+| 36 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
+| 37 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 38 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 39 | [त्रिपुरारी तिवारी](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 40 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
+| 41 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
+| 42 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 43 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 44 | [शक्ति केंद्र](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 45 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 46 | [#IndiaNeedsGovtBanks](http://twitter.com/search?q=%23IndiaNeedsGovtBanks) | N/A |
+| 47 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 48 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 49 | [#ManishKashyap](http://twitter.com/search?q=%23ManishKashyap) | N/A |
+| 50 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
 
 
 

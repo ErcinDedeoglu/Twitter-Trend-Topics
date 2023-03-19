@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-19 14:16:46 UTC`
+📆 Last Updated: `2023-03-19 15:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 2 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
-| 3 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 4 | [#BVBKOE](http://twitter.com/search?q=%23BVBKOE) | N/A |
-| 5 | [#svsfcsp](http://twitter.com/search?q=%23svsfcsp) | N/A |
-| 6 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 7 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 8 | [Schaub](http://twitter.com/search?q=Schaub) | N/A |
-| 9 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 10 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 11 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 12 | [Malle](http://twitter.com/search?q=Malle) | N/A |
-| 13 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
-| 14 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 15 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 16 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 17 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 19 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
-| 20 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
-| 21 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
-| 22 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
-| 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 24 | [samstag abend](http://twitter.com/search?q=samstag+abend) | N/A |
-| 25 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
-| 26 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
-| 27 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 28 | [st. pauli](http://twitter.com/search?q=st.+pauli) | N/A |
-| 29 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
-| 30 | [Novellierung](http://twitter.com/search?q=Novellierung) | N/A |
-| 31 | [Professur](http://twitter.com/search?q=Professur) | N/A |
-| 32 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
-| 33 | [Kirmes](http://twitter.com/search?q=Kirmes) | N/A |
-| 34 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 35 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 36 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
-| 37 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 38 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
-| 39 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 40 | [SELKE](http://twitter.com/search?q=SELKE) | N/A |
-| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [#EBSH96](http://twitter.com/search?q=%23EBSH96) | N/A |
+| 2 | [#schwiegertochtergesucht](http://twitter.com/search?q=%23schwiegertochtergesucht) | N/A |
+| 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 4 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 6 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 8 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 9 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 10 | [Zieler](http://twitter.com/search?q=Zieler) | N/A |
+| 11 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 12 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 13 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 14 | [Malle](http://twitter.com/search?q=Malle) | N/A |
+| 15 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 16 | [Bush](http://twitter.com/search?q=Bush) | N/A |
+| 17 | [Schaub](http://twitter.com/search?q=Schaub) | N/A |
+| 18 | [Gerichtshof](http://twitter.com/search?q=Gerichtshof) | N/A |
+| 19 | [St. Pauli](http://twitter.com/search?q=St.+Pauli) | N/A |
+| 20 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 21 | [Sandhausen](http://twitter.com/search?q=Sandhausen) | N/A |
+| 22 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 23 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 24 | [Witwe](http://twitter.com/search?q=Witwe) | N/A |
+| 25 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 26 | ['Zaungeschichten'](http://twitter.com/search?q=%27Zaungeschichten%27) | N/A |
+| 27 | [Postdocs](http://twitter.com/search?q=Postdocs) | N/A |
+| 28 | [Unis](http://twitter.com/search?q=Unis) | N/A |
+| 29 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 30 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 31 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 32 | [Verhaftung](http://twitter.com/search?q=Verhaftung) | N/A |
+| 33 | [Professur](http://twitter.com/search?q=Professur) | N/A |
+| 34 | [Wahlrecht](http://twitter.com/search?q=Wahlrecht) | N/A |
+| 35 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 36 | [Promotion](http://twitter.com/search?q=Promotion) | N/A |
+| 37 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 38 | [Dauerstellen](http://twitter.com/search?q=Dauerstellen) | N/A |
+| 39 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 40 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 41 | [Michael Ballweg](http://twitter.com/search?q=Michael+Ballweg) | N/A |
 | 42 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 43 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 44 | [INSA](http://twitter.com/search?q=INSA) | N/A |
-| 45 | [Unis](http://twitter.com/search?q=Unis) | N/A |
-| 46 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 43 | [Wehrle](http://twitter.com/search?q=Wehrle) | N/A |
+| 44 | [Mittelbau](http://twitter.com/search?q=Mittelbau) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [selke](http://twitter.com/search?q=selke) | N/A |
 | 47 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 48 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 49 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 48 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 49 | [Klarnamen](http://twitter.com/search?q=Klarnamen) | N/A |
 
 
 

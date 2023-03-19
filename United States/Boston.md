@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-19 14:17:12 UTC`
+📆 Last Updated: `2023-03-19 15:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
 | 2 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 3 | [Mazzulla](http://twitter.com/search?q=Mazzulla) | N/A |
+| 3 | [Joe Mazzulla](http://twitter.com/search?q=Joe+Mazzulla) | N/A |
 | 4 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
 | 5 | [The Celtics](http://twitter.com/search?q=The+Celtics) | The Celtics is a professional basketball team based in Boston, Massachusetts. The team is part of the Atlantic Division of the Eastern Conference in the National Basketball Association (NBA). The Celtics are one of the most successful and storied franchises in NBA history, having won 17 championships since their founding in 1946. |
 | 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 7 | [#NERevs](http://twitter.com/search?q=%23NERevs) | N/A |
 | 8 | [Cooks](http://twitter.com/search?q=Cooks) | N/A |
-| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 10 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 11 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 13 | [Amari Cooper](http://twitter.com/search?q=Amari+Cooper) | N/A |
-| 14 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 15 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
-| 16 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 17 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 18 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
-| 19 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 20 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 21 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
-| 22 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 23 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 24 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 25 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 26 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 27 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
-| 28 | [Hololive](http://twitter.com/search?q=Hololive) | N/A |
-| 29 | [Herbig](http://twitter.com/search?q=Herbig) | N/A |
-| 30 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 31 | [Betty White](http://twitter.com/search?q=Betty+White) | N/A |
-| 32 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 33 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 34 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 35 | [Iraq War](http://twitter.com/search?q=Iraq+War) | N/A |
-| 36 | [HELL YEA](http://twitter.com/search?q=HELL+YEA) | N/A |
-| 37 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
-| 38 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 39 | [Reba](http://twitter.com/search?q=Reba) | N/A |
-| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 41 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 42 | [Biggs](http://twitter.com/search?q=Biggs) | Biggs is a slang term used to refer to someone who is strong, tough, or powerful. It can also be used to describe someone who is cool or impressive. |
-| 43 | [Stephen King](http://twitter.com/search?q=Stephen+King) | N/A |
-| 44 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 45 | [STATE OF GRACE](http://twitter.com/search?q=STATE+OF+GRACE) | N/A |
-| 46 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 47 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 48 | [John Brown](http://twitter.com/search?q=John+Brown) | John Brown is an English phrase that refers to a person who is brave and determined. It is often used as a metaphor for someone who stands up for what they believe in, even in the face of adversity. |
-| 49 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 9 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 10 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 11 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 14 | [Laremy Tunsil](http://twitter.com/search?q=Laremy+Tunsil) | N/A |
+| 15 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 16 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 17 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 18 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 19 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 20 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 21 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 22 | [Amari Cooper](http://twitter.com/search?q=Amari+Cooper) | N/A |
+| 23 | [Andrew Thomas](http://twitter.com/search?q=Andrew+Thomas) | Andrew Thomas is a masculine given name of English origin. It is derived from the Greek name Andreas, which means "manly" or "strong". |
+| 24 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 25 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 26 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 27 | [Profar](http://twitter.com/search?q=Profar) | N/A |
+| 28 | [Daily Quordle 419](http://twitter.com/search?q=Daily+Quordle+419) | N/A |
+| 29 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 30 | [Saint Joseph](http://twitter.com/search?q=Saint+Joseph) | N/A |
+| 31 | [Sympathy](http://twitter.com/search?q=Sympathy) | N/A |
+| 32 | [Hankins](http://twitter.com/search?q=Hankins) | N/A |
+| 33 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
+| 34 | [Bored Ape Yacht Club](http://twitter.com/search?q=Bored+Ape+Yacht+Club) | N/A |
+| 35 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 36 | [Bojangles](http://twitter.com/search?q=Bojangles) | N/A |
+| 37 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 38 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
+| 39 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 40 | [Sununu](http://twitter.com/search?q=Sununu) | N/A |
+| 41 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 42 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 43 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 44 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 45 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 46 | [Tolbert](http://twitter.com/search?q=Tolbert) | N/A |
+| 47 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
+| 48 | [Seumalo](http://twitter.com/search?q=Seumalo) | N/A |
+| 49 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
 
 
 

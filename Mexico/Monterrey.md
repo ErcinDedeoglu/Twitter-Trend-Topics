@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-19 14:16:36 UTC`
+📆 Last Updated: `2023-03-19 15:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
 | 2 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
-| 7 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 8 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 10 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 11 | [#ClasicoNacional](http://twitter.com/search?q=%23ClasicoNacional) | N/A |
-| 12 | [#ExpropiaciónPetrolera](http://twitter.com/search?q=%23Expropiaci%c3%b3nPetrolera) | N/A |
-| 13 | [Edson Álvarez](http://twitter.com/search?q=Edson+%c3%81lvarez) | N/A |
-| 14 | [#AcarreoDelBienestar](http://twitter.com/search?q=%23AcarreoDelBienestar) | N/A |
+| 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 4 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 5 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 6 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 7 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 8 | [Edson Álvarez](http://twitter.com/search?q=Edson+%c3%81lvarez) | N/A |
+| 9 | [#LaPatriaSeDefiende](http://twitter.com/search?q=%23LaPatriaSeDefiende) | N/A |
+| 10 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 13 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 14 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
 | 15 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 16 | [Cisneros](http://twitter.com/search?q=Cisneros) | N/A |
-| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 18 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 19 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 20 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 21 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 22 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 23 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
-| 24 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 25 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 26 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 27 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 28 | [Norma Lizbeth](http://twitter.com/search?q=Norma+Lizbeth) | N/A |
-| 29 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 30 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 31 | [Pole](http://twitter.com/search?q=Pole) | N/A |
-| 32 | [ANDRADA](http://twitter.com/search?q=ANDRADA) | N/A |
-| 33 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 34 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 35 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 36 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 37 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 38 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
-| 39 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 40 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 41 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 42 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
-| 43 | [skabeche day](http://twitter.com/search?q=skabeche+day) | N/A |
-| 44 | [Guanajuato](http://twitter.com/search?q=Guanajuato) | N/A |
-| 45 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 46 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 47 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 48 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 49 | [Iván Morales](http://twitter.com/search?q=Iv%c3%a1n+Morales) | N/A |
-| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [#ClasicoNacional](http://twitter.com/search?q=%23ClasicoNacional) | N/A |
+| 17 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 18 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 19 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 20 | [cisneros](http://twitter.com/search?q=cisneros) | N/A |
+| 21 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
+| 22 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 24 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 25 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 26 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 27 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 28 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 29 | [Lázaro Cárdenas](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas) | N/A |
+| 30 | [Akron](http://twitter.com/search?q=Akron) | N/A |
+| 31 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 32 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 33 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
+| 34 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 35 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 36 | [Pole](http://twitter.com/search?q=Pole) | N/A |
+| 37 | [Norma Lizbeth](http://twitter.com/search?q=Norma+Lizbeth) | N/A |
+| 38 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
+| 39 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 40 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 41 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 42 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 43 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 44 | [Carlos Payán](http://twitter.com/search?q=Carlos+Pay%c3%a1n) | N/A |
+| 45 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 46 | [skabeche day](http://twitter.com/search?q=skabeche+day) | N/A |
+| 47 | [LOTTI](http://twitter.com/search?q=LOTTI) | N/A |
+| 48 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
+| 49 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
+| 50 | [carneiro](http://twitter.com/search?q=carneiro) | N/A |
 
 
 

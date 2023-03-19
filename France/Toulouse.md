@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-19 14:16:45 UTC`
+📆 Last Updated: `2023-03-19 15:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 2 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 3 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 5 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 6 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 7 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
-| 8 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 9 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 10 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 11 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 4 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 5 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 6 | [#RCSAAJA](http://twitter.com/search?q=%23RCSAAJA) | N/A |
+| 7 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 8 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 9 | [Joyca](http://twitter.com/search?q=Joyca) | N/A |
+| 10 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 11 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
 | 12 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 13 | [Maripan](http://twitter.com/search?q=Maripan) | N/A |
-| 14 | [Gaethje](http://twitter.com/search?q=Gaethje) | N/A |
-| 15 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 16 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 17 | [Vettori](http://twitter.com/search?q=Vettori) | N/A |
-| 18 | [Fiziev](http://twitter.com/search?q=Fiziev) | N/A |
-| 19 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 20 | [Joyca](http://twitter.com/search?q=Joyca) | N/A |
-| 21 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 22 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 23 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 24 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 25 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 26 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 27 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 28 | [Mokaev](http://twitter.com/search?q=Mokaev) | N/A |
-| 29 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 30 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 31 | [Le 19](http://twitter.com/search?q=Le+19) | N/A |
-| 32 | [Les 28%](http://twitter.com/search?q=Les+28%25) | N/A |
-| 33 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 34 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 35 | [L'enlèvement](http://twitter.com/search?q=L%27enl%c3%a8vement) | N/A |
-| 36 | [Natoo](http://twitter.com/search?q=Natoo) | N/A |
-| 37 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 38 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 39 | [Tessa Worley](http://twitter.com/search?q=Tessa+Worley) | N/A |
-| 40 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 41 | [Chimaev](http://twitter.com/search?q=Chimaev) | N/A |
-| 42 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 43 | [Frédérique](http://twitter.com/search?q=Fr%c3%a9d%c3%a9rique) | N/A |
-| 44 | [Lance Reddick](http://twitter.com/search?q=Lance+Reddick) | Lance Reddick is an American actor and musician. He is best known for his roles as Cedric Daniels in The Wire, Charon in the John Wick film series, and Matthew Abaddon in Lost. He has also appeared in films such as White House Down, The Guest, and Fantastic Four. |
-| 45 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 46 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 47 | [Pitu](http://twitter.com/search?q=Pitu) | N/A |
-| 48 | [Bayrou](http://twitter.com/search?q=Bayrou) | N/A |
-| 49 | [Commune](http://twitter.com/search?q=Commune) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
+| 14 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 15 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 16 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 17 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 18 | [Marioupol](http://twitter.com/search?q=Marioupol) | N/A |
+| 19 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 20 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 21 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 22 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 23 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 24 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 25 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 26 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
+| 27 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 28 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 29 | [Fillon](http://twitter.com/search?q=Fillon) | N/A |
+| 30 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 31 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 32 | [#OGCNFCL](http://twitter.com/search?q=%23OGCNFCL) | N/A |
+| 33 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
+| 34 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
+| 35 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 36 | [#ESTACSB29](http://twitter.com/search?q=%23ESTACSB29) | N/A |
+| 37 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 38 | [#MHSCCF63](http://twitter.com/search?q=%23MHSCCF63) | N/A |
+| 39 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 40 | [#19mars](http://twitter.com/search?q=%2319mars) | N/A |
+| 41 | [#TeamAJA](http://twitter.com/search?q=%23TeamAJA) | N/A |
+| 42 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
+| 43 | [#legrandjury](http://twitter.com/search?q=%23legrandjury) | N/A |
+| 44 | [#Algérie](http://twitter.com/search?q=%23Alg%c3%a9rie) | N/A |
+| 45 | [#Ligue1UberEats](http://twitter.com/search?q=%23Ligue1UberEats) | N/A |
+| 46 | [#Melenchon](http://twitter.com/search?q=%23Melenchon) | N/A |
+| 47 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
+| 48 | [#SDROM](http://twitter.com/search?q=%23SDROM) | N/A |
 
 
 

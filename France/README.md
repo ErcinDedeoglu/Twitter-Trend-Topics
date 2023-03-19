@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-19 14:17:22 UTC`
+📆 Last Updated: `2023-03-19 15:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,52 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 2 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
-| 3 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 4 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 5 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
-| 6 | [#RCSAAJA](http://twitter.com/search?q=%23RCSAAJA) | N/A |
-| 7 | [#LeGrandJury](http://twitter.com/search?q=%23LeGrandJury) | N/A |
-| 8 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 9 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 10 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 11 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
-| 12 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
-| 13 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 14 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 15 | [Marioupol](http://twitter.com/search?q=Marioupol) | N/A |
-| 16 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 17 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 19 | [Fillon](http://twitter.com/search?q=Fillon) | N/A |
-| 20 | [Clasico](http://twitter.com/search?q=Clasico) | N/A |
-| 21 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 22 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 23 | [Salamé](http://twitter.com/search?q=Salam%c3%a9) | N/A |
-| 24 | [Philippot](http://twitter.com/search?q=Philippot) | N/A |
-| 25 | [Sainté](http://twitter.com/search?q=Saint%c3%a9) | N/A |
-| 26 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 27 | [La Pologne](http://twitter.com/search?q=La+Pologne) | N/A |
-| 28 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 29 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 30 | [#19mars](http://twitter.com/search?q=%2319mars) | N/A |
-| 31 | [#Ciotti](http://twitter.com/search?q=%23Ciotti) | N/A |
-| 32 | [#EnSelleAvecZEturf](http://twitter.com/search?q=%23EnSelleAvecZEturf) | N/A |
-| 33 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
-| 34 | [#FaisTaPrièreDansUnTitre](http://twitter.com/search?q=%23FaisTaPri%c3%a8reDansUnTitre) | N/A |
-| 35 | [#freebetPMU](http://twitter.com/search?q=%23freebetPMU) | N/A |
-| 36 | [#Melenchon](http://twitter.com/search?q=%23Melenchon) | N/A |
-| 37 | [#SDROM](http://twitter.com/search?q=%23SDROM) | N/A |
-| 38 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
-| 39 | [#Algérie](http://twitter.com/search?q=%23Alg%c3%a9rie) | N/A |
-| 40 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
-| 41 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
-| 42 | [#Ligue1UberEats](http://twitter.com/search?q=%23Ligue1UberEats) | N/A |
+| 1 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 2 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 4 | [#RCSAAJA](http://twitter.com/search?q=%23RCSAAJA) | N/A |
+| 5 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
+| 6 | [#OGCNFCL](http://twitter.com/search?q=%23OGCNFCL) | N/A |
+| 7 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 8 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 9 | [Joyca](http://twitter.com/search?q=Joyca) | N/A |
+| 10 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
+| 11 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 12 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 13 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 14 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
+| 15 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 16 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 17 | [Marioupol](http://twitter.com/search?q=Marioupol) | N/A |
+| 18 | [Bruel](http://twitter.com/search?q=Bruel) | N/A |
+| 19 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 20 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 21 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 22 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 23 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 24 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 25 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 26 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
+| 27 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 28 | [Fillon](http://twitter.com/search?q=Fillon) | N/A |
+| 29 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 30 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 31 | [#ACAASM](http://twitter.com/search?q=%23ACAASM) | N/A |
+| 32 | [#ESTACSB29](http://twitter.com/search?q=%23ESTACSB29) | N/A |
+| 33 | [#lequipebiathlon](http://twitter.com/search?q=%23lequipebiathlon) | N/A |
+| 34 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 35 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 36 | [#MHSCCF63](http://twitter.com/search?q=%23MHSCCF63) | N/A |
+| 37 | [#PSGSRFC](http://twitter.com/search?q=%23PSGSRFC) | N/A |
+| 38 | [#19mars](http://twitter.com/search?q=%2319mars) | N/A |
+| 39 | [#TeamAJA](http://twitter.com/search?q=%23TeamAJA) | N/A |
+| 40 | [#legrandjury](http://twitter.com/search?q=%23legrandjury) | N/A |
+| 41 | [#Algérie](http://twitter.com/search?q=%23Alg%c3%a9rie) | N/A |
+| 42 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
+| 43 | [#ligue1ubereats](http://twitter.com/search?q=%23ligue1ubereats) | N/A |
+| 44 | [#Melenchon](http://twitter.com/search?q=%23Melenchon) | N/A |
+| 45 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
+| 46 | [#SDROM](http://twitter.com/search?q=%23SDROM) | N/A |
 
 
 
