@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-20 08:19:14 UTC`
+📆 Last Updated: `2023-03-20 09:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,17 +19,17 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 4 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 5 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 6 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 8 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 9 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 10 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
-| 11 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 12 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 13 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 15 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 5 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 6 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 7 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 8 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 10 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 11 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 12 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 13 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 14 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 15 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 16 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
 | 17 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
 | 18 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
@@ -44,8 +44,8 @@ This is top 50 for [Canada](</Canada>)
 | 27 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 28 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
 | 29 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 31 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 30 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 32 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 33 | [St. Patrick](http://twitter.com/search?q=St.+Patrick) | N/A |
 | 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Canada](</Canada>)
 | 37 | [Usman](http://twitter.com/search?q=Usman) | N/A |
 | 38 | [Brook Lopez](http://twitter.com/search?q=Brook+Lopez) | Brook Lopez is the name of an American professional basketball player who currently plays for the Milwaukee Bucks of the National Basketball Association (NBA). He was drafted 10th overall by the Nets in the 2008 NBA Draft. |
 | 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [Bure](http://twitter.com/search?q=Bure) | N/A |
-| 41 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 42 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 43 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 44 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 45 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 47 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 48 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 49 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 50 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 41 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 43 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 45 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 46 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 47 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 48 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 49 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 50 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 
 
 

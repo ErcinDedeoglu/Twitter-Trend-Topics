@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-20 08:19:34 UTC`
+📆 Last Updated: `2023-03-20 09:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,46 +21,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
 | 5 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
 | 6 | [#TarhibRamadhanPerindo](http://twitter.com/search?q=%23TarhibRamadhanPerindo) | N/A |
-| 7 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 8 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
+| 7 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
+| 8 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
 | 9 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
-| 10 | [WOHD](http://twitter.com/search?q=WOHD) | N/A |
-| 11 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 10 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 11 | [WOHD](http://twitter.com/search?q=WOHD) | N/A |
 | 12 | [Solusi Bersama](http://twitter.com/search?q=Solusi+Bersama) | N/A |
 | 13 | [Garnier Salicylic BHA](http://twitter.com/search?q=Garnier+Salicylic+BHA) | N/A |
-| 14 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 15 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 14 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 15 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
 | 16 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
-| 17 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 18 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
-| 19 | [Sragen](http://twitter.com/search?q=Sragen) | N/A |
-| 20 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
-| 21 | [Ancol](http://twitter.com/search?q=Ancol) | N/A |
-| 22 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 23 | [Pemalang](http://twitter.com/search?q=Pemalang) | N/A |
-| 24 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
-| 25 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 26 | [Kecelakaan](http://twitter.com/search?q=Kecelakaan) | N/A |
-| 27 | [Desa Menghijaukan Dunia](http://twitter.com/search?q=Desa+Menghijaukan+Dunia) | N/A |
-| 28 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
-| 29 | [Riau](http://twitter.com/search?q=Riau) | N/A |
-| 30 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 31 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
-| 32 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 33 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 34 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 35 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
-| 36 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 37 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
-| 38 | [#KonsultasiGigiSekarang](http://twitter.com/search?q=%23KonsultasiGigiSekarang) | N/A |
-| 39 | [#SarasehanAsprov](http://twitter.com/search?q=%23SarasehanAsprov) | N/A |
-| 40 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
-| 41 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
+| 17 | [Sragen](http://twitter.com/search?q=Sragen) | N/A |
+| 18 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 19 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
+| 20 | [Pemalang](http://twitter.com/search?q=Pemalang) | N/A |
+| 21 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 22 | [Riau](http://twitter.com/search?q=Riau) | N/A |
+| 23 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
+| 24 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
+| 25 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
+| 26 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 27 | [Ancol](http://twitter.com/search?q=Ancol) | N/A |
+| 28 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 29 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 30 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
+| 31 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 32 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
+| 33 | [#KonsultasiGigiSekarang](http://twitter.com/search?q=%23KonsultasiGigiSekarang) | N/A |
+| 34 | [#SarasehanAsprov](http://twitter.com/search?q=%23SarasehanAsprov) | N/A |
+| 35 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
+| 36 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
+| 37 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 38 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 39 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
+| 40 | [#EXPÉRGO_OutToday](http://twitter.com/search?q=%23EXP%c3%89RGO_OutToday) | N/A |
+| 41 | [#KemenkumhamRI](http://twitter.com/search?q=%23KemenkumhamRI) | N/A |
 | 42 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
-| 43 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
-| 44 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
-| 45 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
-| 46 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 43 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
+| 44 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
+| 45 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
 
 
 

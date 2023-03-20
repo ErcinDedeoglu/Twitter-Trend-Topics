@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-20 08:19:44 UTC`
+📆 Last Updated: `2023-03-20 09:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,44 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 2 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 3 | [#datemyfamily](http://twitter.com/search?q=%23datemyfamily) | N/A |
-| 4 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 5 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 6 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 7 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
-| 8 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 9 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 10 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 11 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 12 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 13 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 14 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 3 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
+| 4 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 5 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 6 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 7 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 8 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
+| 9 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
+| 10 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
+| 11 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
+| 12 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 13 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 14 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
 | 15 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 17 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
-| 18 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
-| 19 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 20 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
-| 21 | [FNB Virtual Card](http://twitter.com/search?q=FNB+Virtual+Card) | N/A |
-| 22 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 23 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
-| 24 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 25 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
-| 26 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 27 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 28 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 29 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 31 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 32 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 33 | [Failed](http://twitter.com/search?q=Failed) | N/A |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Dali](http://twitter.com/search?q=Dali) | N/A |
-| 37 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
-| 38 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 39 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
-| 40 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
-| 41 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
-| 42 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 43 | [THABANG THE GAMER](http://twitter.com/search?q=THABANG+THE+GAMER) | N/A |
-| 44 | [THABANG IS GRATEFUL AFRICA](http://twitter.com/search?q=THABANG+IS+GRATEFUL+AFRICA) | N/A |
-| 45 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 46 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 47 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 48 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 49 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 50 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 16 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 17 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 18 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 19 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 20 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 21 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 22 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 23 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 24 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
+| 25 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 26 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
+| 27 | [eNCA](http://twitter.com/search?q=eNCA) | N/A |
+| 28 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
+| 29 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
+| 30 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 31 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 32 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 33 | [Marete](http://twitter.com/search?q=Marete) | N/A |
+| 34 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 35 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 36 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 37 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
+| 38 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 39 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
+| 40 | [#RamaphosaMustGo](http://twitter.com/search?q=%23RamaphosaMustGo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-20 08:19:55 UTC`
+📆 Last Updated: `2023-03-20 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 2 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 3 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 4 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 5 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 3 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 5 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 | 6 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 7 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 8 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 9 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 10 | [#Wordle639](http://twitter.com/search?q=%23Wordle639) | N/A |
-| 11 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 12 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 13 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 14 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 15 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 16 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 17 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
-| 18 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 7 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 8 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 9 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 10 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 11 | [#Wordle639](http://twitter.com/search?q=%23Wordle639) | N/A |
+| 12 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 13 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 14 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 15 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 16 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 17 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 18 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
 | 19 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 20 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 22 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 23 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 24 | [Tony Bradley](http://twitter.com/search?q=Tony+Bradley) | N/A |
-| 25 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 26 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 27 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
-| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 29 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 30 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 31 | [Damion Baugh](http://twitter.com/search?q=Damion+Baugh) | N/A |
-| 32 | [Cameron Brink](http://twitter.com/search?q=Cameron+Brink) | N/A |
-| 33 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 34 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 35 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 36 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 37 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 38 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 39 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 40 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 41 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 42 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 43 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 44 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
-| 45 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 46 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 47 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 48 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
-| 49 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 50 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 20 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 21 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 22 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
+| 23 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
+| 24 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 25 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 26 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
+| 27 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 28 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 29 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 30 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 31 | [#shindanmaker](http://twitter.com/search?q=%23shindanmaker) | N/A |
+| 32 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 33 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 34 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
+| 35 | [Brink](http://twitter.com/search?q=Brink) | N/A |
+| 36 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 37 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
+| 38 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 39 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 40 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 41 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
+| 42 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 43 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 44 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 45 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 47 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
+| 48 | [Woodson](http://twitter.com/search?q=Woodson) | N/A |
+| 49 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 50 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
 
 
 

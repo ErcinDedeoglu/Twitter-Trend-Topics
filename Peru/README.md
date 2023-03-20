@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-20 08:20:06 UTC`
+📆 Last Updated: `2023-03-20 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Peru
 | 1 | [Miguez](http://twitter.com/search?q=Miguez) | N/A |
 | 2 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
 | 3 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 4 | [Huancayo](http://twitter.com/search?q=Huancayo) | N/A |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 4 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 5 | [Huancayo](http://twitter.com/search?q=Huancayo) | N/A |
 | 6 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
 | 7 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
 | 8 | [Grau](http://twitter.com/search?q=Grau) | N/A |
@@ -35,13 +35,13 @@ This is top 50 for Peru
 | 18 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
 | 19 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 20 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
-| 21 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 24 | [Vilchez](http://twitter.com/search?q=Vilchez) | N/A |
-| 25 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 27 | [#NoJodan](http://twitter.com/search?q=%23NoJodan) | N/A |
+| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 22 | [Vilchez](http://twitter.com/search?q=Vilchez) | N/A |
+| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 26 | [#NoJodan](http://twitter.com/search?q=%23NoJodan) | N/A |
+| 27 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 28 | [fuerza cholito](http://twitter.com/search?q=fuerza+cholito) | N/A |
 | 29 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
 | 30 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
@@ -55,16 +55,16 @@ This is top 50 for Peru
 | 38 | [URRUTI](http://twitter.com/search?q=URRUTI) | N/A |
 | 39 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 40 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 41 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 42 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 43 | [Punta Hermosa](http://twitter.com/search?q=Punta+Hermosa) | N/A |
-| 44 | [Haro](http://twitter.com/search?q=Haro) | N/A |
-| 45 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 46 | [ureña](http://twitter.com/search?q=ure%c3%b1a) | N/A |
-| 47 | [Loyola](http://twitter.com/search?q=Loyola) | N/A |
-| 48 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 49 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 50 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [Punta Hermosa](http://twitter.com/search?q=Punta+Hermosa) | N/A |
+| 43 | [Haro](http://twitter.com/search?q=Haro) | N/A |
+| 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 45 | [ureña](http://twitter.com/search?q=ure%c3%b1a) | N/A |
+| 46 | [Loyola](http://twitter.com/search?q=Loyola) | N/A |
+| 47 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 48 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 49 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 50 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
 
 
 

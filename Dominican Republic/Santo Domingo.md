@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-20 08:19:19 UTC`
+📆 Last Updated: `2023-03-20 09:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,19 +24,19 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 7 | [#yocreoenabinader](http://twitter.com/search?q=%23yocreoenabinader) | N/A |
 | 8 | [#enlamesayanohayna](http://twitter.com/search?q=%23enlamesayanohayna) | N/A |
 | 9 | [#laneveravacia](http://twitter.com/search?q=%23laneveravacia) | N/A |
-| 10 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 11 | [ángel lockward](http://twitter.com/search?q=%c3%a1ngel+lockward) | N/A |
-| 12 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 13 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 14 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 10 | [ángel lockward](http://twitter.com/search?q=%c3%a1ngel+lockward) | N/A |
+| 11 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 12 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 14 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 15 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 16 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 17 | [Azua](http://twitter.com/search?q=Azua) | N/A |
+| 16 | [penco](http://twitter.com/search?q=penco) | N/A |
+| 17 | [azua](http://twitter.com/search?q=azua) | N/A |
 | 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 19 | [batalla del 19](http://twitter.com/search?q=batalla+del+19) | N/A |
-| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 21 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
-| 22 | [PEPCA](http://twitter.com/search?q=PEPCA) | N/A |
+| 20 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
+| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 22 | [pepca](http://twitter.com/search?q=pepca) | N/A |
 | 23 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
 | 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 25 | [Procuraduría](http://twitter.com/search?q=Procuradur%c3%ada) | N/A |
@@ -52,18 +52,18 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 35 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 36 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
 | 37 | [Jorge Blanco](http://twitter.com/search?q=Jorge+Blanco) | N/A |
-| 38 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
-| 39 | [MIMILO](http://twitter.com/search?q=MIMILO) | N/A |
-| 40 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 41 | [junior lake](http://twitter.com/search?q=junior+lake) | N/A |
-| 42 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 43 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 44 | [Susana](http://twitter.com/search?q=Susana) | N/A |
-| 45 | [Circo](http://twitter.com/search?q=Circo) | N/A |
-| 46 | [Vete](http://twitter.com/search?q=Vete) | N/A |
-| 47 | [abraham almonte](http://twitter.com/search?q=abraham+almonte) | N/A |
-| 48 | [la cumbre](http://twitter.com/search?q=la+cumbre) | N/A |
-| 49 | [este 24 y 25](http://twitter.com/search?q=este+24+y+25) | N/A |
+| 38 | [MIMILO](http://twitter.com/search?q=MIMILO) | N/A |
+| 39 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 40 | [junior lake](http://twitter.com/search?q=junior+lake) | N/A |
+| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 42 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 43 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 44 | [Circo](http://twitter.com/search?q=Circo) | N/A |
+| 45 | [Vete](http://twitter.com/search?q=Vete) | N/A |
+| 46 | [abraham almonte](http://twitter.com/search?q=abraham+almonte) | N/A |
+| 47 | [la cumbre](http://twitter.com/search?q=la+cumbre) | N/A |
+| 48 | [este 24 y 25](http://twitter.com/search?q=este+24+y+25) | N/A |
+| 49 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
 | 50 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
 
 

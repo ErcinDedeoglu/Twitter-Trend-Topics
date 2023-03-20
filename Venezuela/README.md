@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-20 08:20:08 UTC`
+📆 Last Updated: `2023-03-20 09:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,26 +15,26 @@ This is top 50 for Venezuela
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#19mar](http://twitter.com/search?q=%2319mar) | N/A |
-| 2 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 1 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 2 | [#19Mar](http://twitter.com/search?q=%2319Mar) | N/A |
 | 3 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
 | 4 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 5 | [#ManoDuraContraLosCorruptos](http://twitter.com/search?q=%23ManoDuraContraLosCorruptos) | N/A |
 | 6 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
 | 7 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 8 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
-| 9 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 10 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 13 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 8 | [#20Mar](http://twitter.com/search?q=%2320Mar) | N/A |
+| 9 | [Omar López](http://twitter.com/search?q=Omar+L%c3%b3pez) | N/A |
+| 10 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 11 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 14 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
 | 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 16 | [#guerracontralacorrupción](http://twitter.com/search?q=%23guerracontralacorrupci%c3%b3n) | N/A |
-| 17 | [elorza](http://twitter.com/search?q=elorza) | N/A |
+| 16 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 17 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
 | 18 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 19 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 20 | [El Aissami](http://twitter.com/search?q=El+Aissami) | N/A |
+| 19 | [El Aissami](http://twitter.com/search?q=El+Aissami) | N/A |
+| 20 | [Elorza](http://twitter.com/search?q=Elorza) | N/A |
 | 21 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 22 | [Sunacrip](http://twitter.com/search?q=Sunacrip) | N/A |
 | 23 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |

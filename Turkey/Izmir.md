@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-03-20 08:19:52 UTC`
+📆 Last Updated: `2023-03-20 09:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 2 | [#ALYvFB](http://twitter.com/search?q=%23ALYvFB) | N/A |
-| 3 | [#KabinedenMülakatsız100Bin](http://twitter.com/search?q=%23KabinedenM%c3%bclakats%c4%b1z100Bin) | N/A |
-| 4 | [Mete Kalkavan](http://twitter.com/search?q=Mete+Kalkavan) | Mete Kalkavan is a Turkish phrase that translates to "the brave sailor". It is often used as a term of endearment for someone who is brave and courageous. |
+| 1 | [Kirli Buluşma](http://twitter.com/search?q=Kirli+Bulu%c5%9fma) | N/A |
+| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 3 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
+| 4 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
 | 5 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 6 | [#AsistanHekimineSahipÇık](http://twitter.com/search?q=%23AsistanHekimineSahip%c3%87%c4%b1k) | N/A |
-| 7 | [popigram açıldı](http://twitter.com/search?q=popigram+a%c3%a7%c4%b1ld%c4%b1) | N/A |
-| 8 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 9 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 10 | [gsbtayiniolumluaçıkla](http://twitter.com/search?q=gsbtayiniolumlua%c3%a7%c4%b1kla) | N/A |
-| 11 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
-| 12 | [cigli](http://twitter.com/search?q=cigli) | N/A |
-| 13 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 14 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 15 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
-| 16 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 17 | [depremşartlı yapıkayıt](http://twitter.com/search?q=deprem%c5%9fartl%c4%b1+yap%c4%b1kay%c4%b1t) | N/A |
-| 18 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 19 | [Kırmızı](http://twitter.com/search?q=K%c4%b1rm%c4%b1z%c4%b1) | Kırmızı is the Turkish word for "red". |
-| 20 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 21 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 22 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
-| 23 | [deprem kabinleri](http://twitter.com/search?q=deprem+kabinleri) | N/A |
-| 24 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
-| 25 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
-| 26 | [DiplomaDenklik Geleceğimiz](http://twitter.com/search?q=DiplomaDenklik+Gelece%c4%9fimiz) | N/A |
-| 27 | [Fatma Tekdal](http://twitter.com/search?q=Fatma+Tekdal) | N/A |
-| 28 | [HALK TV KAPATILSIN](http://twitter.com/search?q=HALK+TV+KAPATILSIN) | N/A |
-| 29 | [Ayhan Gönüllü](http://twitter.com/search?q=Ayhan+G%c3%b6n%c3%bcll%c3%bc) | N/A |
-| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 31 | [Türk Bayrağı](http://twitter.com/search?q=T%c3%bcrk+Bayra%c4%9f%c4%b1) | N/A |
-| 32 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
-| 33 | [ertuğrul altun23](http://twitter.com/search?q=ertu%c4%9frul+altun23) | N/A |
-| 34 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 35 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 36 | [BAŞKAN ERDOĞAN DİYECEKSİNİZ](http://twitter.com/search?q=BA%c5%9eKAN+ERDO%c4%9eAN+D%c4%b0YECEKS%c4%b0N%c4%b0Z) | N/A |
-| 37 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 38 | [ADAY OLMA](http://twitter.com/search?q=ADAY+OLMA) | N/A |
-| 39 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 40 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 41 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 42 | [Ersun](http://twitter.com/search?q=Ersun) | N/A |
-| 43 | [İlk Evim Arsa](http://twitter.com/search?q=%c4%b0lk+Evim+Arsa) | N/A |
-| 44 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 45 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 46 | [Recep İvedik](http://twitter.com/search?q=Recep+%c4%b0vedik) | N/A |
-| 47 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 48 | [TBMM Plan](http://twitter.com/search?q=TBMM+Plan) | N/A |
-| 49 | [TOBB Haftalık Ekonomi Bülteni](http://twitter.com/search?q=TOBB+Haftal%c4%b1k+Ekonomi+B%c3%bclteni) | N/A |
-| 50 | [Fil Ali](http://twitter.com/search?q=Fil+Ali) | N/A |
+| 6 | [#BizMağduriyetİstemiyoruz](http://twitter.com/search?q=%23BizMa%c4%9fduriyet%c4%b0stemiyoruz) | N/A |
+| 7 | [#HalkGörüyor](http://twitter.com/search?q=%23HalkG%c3%b6r%c3%bcyor) | N/A |
+| 8 | [#MilletİktidarOluyor](http://twitter.com/search?q=%23Millet%c4%b0ktidarOluyor) | N/A |
+| 9 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 10 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 11 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 12 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
+| 13 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 15 | [Ayhan Gönüllü](http://twitter.com/search?q=Ayhan+G%c3%b6n%c3%bcll%c3%bc) | N/A |
+| 16 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 17 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 18 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 19 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
+| 20 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 21 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
+| 22 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 23 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
+| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 25 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
+| 26 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
+| 27 | [#zamgeldi](http://twitter.com/search?q=%23zamgeldi) | N/A |
+| 28 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 29 | [#yoruldum](http://twitter.com/search?q=%23yoruldum) | N/A |
+| 30 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 31 | [#güldürgüldürshow](http://twitter.com/search?q=%23g%c3%bcld%c3%bcrg%c3%bcld%c3%bcrshow) | N/A |
+| 32 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
+| 33 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
+| 34 | [#20Mart](http://twitter.com/search?q=%2320Mart) | N/A |
+| 35 | [#seçim2023](http://twitter.com/search?q=%23se%c3%a7im2023) | N/A |
+| 36 | [#yökegitimekulakver](http://twitter.com/search?q=%23y%c3%b6kegitimekulakver) | N/A |
+| 37 | [#selincigerci](http://twitter.com/search?q=%23selincigerci) | N/A |
+| 38 | [#EnBüyükHayalim](http://twitter.com/search?q=%23EnB%c3%bcy%c3%bckHayalim) | N/A |
+| 39 | [#FenereOperasyonVAR](http://twitter.com/search?q=%23FenereOperasyonVAR) | N/A |
+| 40 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
+| 41 | [#Kabinedeunikarari](http://twitter.com/search?q=%23Kabinedeunikarari) | N/A |
+| 42 | [#SabahNamazı](http://twitter.com/search?q=%23SabahNamaz%c4%b1) | N/A |
+| 43 | [#Kabineunidenyana](http://twitter.com/search?q=%23Kabineunidenyana) | N/A |
+| 44 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 45 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-20 08:20:06 UTC`
+📆 Last Updated: `2023-03-20 09:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,7 +63,7 @@ This is top 50 for Panama
 | 46 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 | 47 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
 | 48 | [YO SOY](http://twitter.com/search?q=YO+SOY) | N/A |
-| 49 | [Torrejitas](http://twitter.com/search?q=Torrejitas) | N/A |
+| 49 | [torrejitas](http://twitter.com/search?q=torrejitas) | N/A |
 | 50 | [Obviamente](http://twitter.com/search?q=Obviamente) | N/A |
 
 

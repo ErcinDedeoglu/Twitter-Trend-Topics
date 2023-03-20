@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-03-20 08:19:51 UTC`
+📆 Last Updated: `2023-03-20 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [India](</India>)
 | 2 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
 | 3 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
 | 4 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 5 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
-| 6 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 5 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 6 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
 | 7 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
-| 8 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
-| 9 | [The Vial](http://twitter.com/search?q=The+Vial) | N/A |
-| 10 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
-| 11 | [सत्याग्रह आंदोलन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
-| 12 | [High Commission](http://twitter.com/search?q=High+Commission) | N/A |
-| 13 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
-| 14 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
-| 15 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 16 | [Flag](http://twitter.com/search?q=Flag) | N/A |
-| 17 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 18 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
-| 19 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 20 | [Ab Anyay Ka Ant Ho](http://twitter.com/search?q=Ab+Anyay+Ka+Ant+Ho) | N/A |
-| 21 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 22 | [Saints Call For Justice](http://twitter.com/search?q=Saints+Call+For+Justice) | N/A |
-| 23 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 24 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 25 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 26 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
-| 27 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
-| 28 | [Warm](http://twitter.com/search?q=Warm) | N/A |
+| 8 | [The Vial](http://twitter.com/search?q=The+Vial) | N/A |
+| 9 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
+| 10 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
+| 11 | [Indian High Commission](http://twitter.com/search?q=Indian+High+Commission) | N/A |
+| 12 | [सत्याग्रह आंदोलन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 13 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
+| 14 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
+| 15 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
+| 16 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
+| 17 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 18 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 19 | [Flag](http://twitter.com/search?q=Flag) | N/A |
+| 20 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
+| 21 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 22 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
+| 23 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 24 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 25 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 26 | [Warm](http://twitter.com/search?q=Warm) | N/A |
+| 27 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
+| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 29 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 30 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
-| 31 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 32 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 30 | [Ab Anyay Ka Ant Ho](http://twitter.com/search?q=Ab+Anyay+Ka+Ant+Ho) | N/A |
+| 31 | [Saints Call For Justice](http://twitter.com/search?q=Saints+Call+For+Justice) | N/A |
+| 32 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
 | 33 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 34 | [जिला अस्पताल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
-| 35 | [Om Namah Shivay](http://twitter.com/search?q=Om+Namah+Shivay) | N/A |
-| 36 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 37 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 38 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 39 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
-| 40 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
-| 41 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 42 | [#ReleaseManishKasyap](http://twitter.com/search?q=%23ReleaseManishKasyap) | N/A |
-| 43 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 44 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 34 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 35 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 36 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 37 | [जिला अस्पताल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
+| 38 | [Om Namah Shivaya](http://twitter.com/search?q=Om+Namah+Shivaya) | N/A |
+| 39 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
+| 40 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
+| 41 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
+| 42 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 43 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 44 | [#ReleaseManishKasyap](http://twitter.com/search?q=%23ReleaseManishKasyap) | N/A |
 | 45 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 46 | [#HappinessDay](http://twitter.com/search?q=%23HappinessDay) | N/A |
-| 47 | [#OROP](http://twitter.com/search?q=%23OROP) | N/A |
+| 46 | [#ପଖାଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%aa%e0%ac%96%e0%ac%be%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
+| 47 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
 
 
 
