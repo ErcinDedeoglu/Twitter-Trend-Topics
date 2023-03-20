@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-20 00:29:42 UTC`
+📆 Last Updated: `2023-03-20 01:45:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 2 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 1 | [#Hokies](http://twitter.com/search?q=%23Hokies) | N/A |
+| 2 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
 | 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 4 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 5 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 6 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 7 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 8 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 9 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 10 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 11 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 12 | [#GoGreen](http://twitter.com/search?q=%23GoGreen) | N/A |
-| 13 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 14 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 15 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 16 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 18 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 20 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 21 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 22 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 23 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 24 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
-| 25 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 26 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 27 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 28 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 29 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 30 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 31 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 32 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 33 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
-| 34 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 35 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 36 | [GO WHITE](http://twitter.com/search?q=GO+WHITE) | N/A |
-| 37 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
-| 38 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 40 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 41 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 42 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 43 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 5 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 6 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 7 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 8 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 9 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 10 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 11 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 12 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 13 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 14 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 15 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 16 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 18 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 19 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 20 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 21 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 22 | [Coko](http://twitter.com/search?q=Coko) | N/A |
+| 23 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 24 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 25 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 26 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 27 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
+| 30 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 31 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 32 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
+| 33 | [Nolan Foote](http://twitter.com/search?q=Nolan+Foote) | N/A |
+| 34 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 35 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 36 | [Jesper Bratt](http://twitter.com/search?q=Jesper+Bratt) | N/A |
+| 37 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
+| 38 | [Go White](http://twitter.com/search?q=Go+White) | N/A |
+| 39 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 40 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
+| 41 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 42 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 43 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
 | 44 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 45 | [K State](http://twitter.com/search?q=K+State) | N/A |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 45 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 46 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
 | 47 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 48 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 49 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 48 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 49 | [Sweet Sixteen](http://twitter.com/search?q=Sweet+Sixteen) | N/A |
 
 
 
