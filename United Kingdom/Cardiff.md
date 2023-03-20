@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-20 19:17:06 UTC`
+📆 Last Updated: `2023-03-20 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 1 | [#VoteReject](http://twitter.com/search?q=%23VoteReject) | N/A |
 | 2 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 3 | [#BMShedComp](http://twitter.com/search?q=%23BMShedComp) | N/A |
-| 4 | [#BadArtBan](http://twitter.com/search?q=%23BadArtBan) | N/A |
-| 5 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 6 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 7 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 8 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 9 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 3 | [#BadArtBan](http://twitter.com/search?q=%23BadArtBan) | N/A |
+| 4 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 5 | [#BMShedComp](http://twitter.com/search?q=%23BMShedComp) | N/A |
+| 6 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 7 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 8 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 9 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
 | 10 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 11 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 12 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
-| 13 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
-| 14 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 15 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
+| 11 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
+| 12 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
+| 13 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 14 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 15 | [Reform](http://twitter.com/search?q=Reform) | N/A |
 | 16 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 17 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 17 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
 | 18 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
-| 19 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 20 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 21 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 22 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
-| 23 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
-| 24 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 25 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 26 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
-| 27 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 28 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 29 | [Milo](http://twitter.com/search?q=Milo) | N/A |
-| 30 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 31 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 32 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 33 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 34 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 35 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
-| 36 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 37 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 38 | [Iraqis](http://twitter.com/search?q=Iraqis) | N/A |
-| 39 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 40 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
-| 41 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 42 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 43 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 44 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
+| 19 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
+| 20 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
+| 21 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
+| 22 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 23 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
+| 24 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 25 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
+| 26 | [Castore](http://twitter.com/search?q=Castore) | N/A |
+| 27 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 28 | [Milo](http://twitter.com/search?q=Milo) | N/A |
+| 29 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 30 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 32 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 33 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 34 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 35 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 36 | [Tony Benn](http://twitter.com/search?q=Tony+Benn) | N/A |
+| 37 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 38 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 39 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 40 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 41 | [Iraqis](http://twitter.com/search?q=Iraqis) | N/A |
+| 42 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
+| 43 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
+| 44 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
 | 45 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 46 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 47 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 48 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 46 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
+| 47 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 
 
 

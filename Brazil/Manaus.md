@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-20 19:17:17 UTC`
+📆 Last Updated: `2023-03-20 20:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 2 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
-| 3 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 1 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 2 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 3 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
 | 4 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 5 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 6 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
+| 5 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 6 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
 | 7 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 8 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 9 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
-| 10 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 8 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
+| 9 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 10 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
 | 11 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
 | 12 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 13 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
-| 14 | [JOELMA DANÇANDO E BEIJANDO](http://twitter.com/search?q=JOELMA+DAN%c3%87ANDO+E+BEIJANDO) | N/A |
-| 15 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 16 | [Neto e Denilson](http://twitter.com/search?q=Neto+e+Denilson) | N/A |
-| 17 | [#OsDonosdaBola](http://twitter.com/search?q=%23OsDonosdaBola) | N/A |
-| 18 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
-| 19 | [Petraglia](http://twitter.com/search?q=Petraglia) | N/A |
-| 20 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
-| 21 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 22 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 23 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 24 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 25 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 26 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 27 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 28 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 29 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
-| 30 | [Jeová](http://twitter.com/search?q=Jeov%c3%a1) | N/A |
-| 31 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 32 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
-| 33 | [REFFIS Plus](http://twitter.com/search?q=REFFIS+Plus) | N/A |
-| 34 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
-| 35 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 36 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
-| 37 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 38 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 39 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 40 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 41 | [Hilux](http://twitter.com/search?q=Hilux) | N/A |
-| 42 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
-| 43 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 44 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
-| 45 | [binnie](http://twitter.com/search?q=binnie) | N/A |
-| 46 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 47 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
-| 48 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 49 | [Caju](http://twitter.com/search?q=Caju) | N/A |
+| 13 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
+| 14 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 15 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 16 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 17 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 18 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 20 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 21 | [Neto e Denilson](http://twitter.com/search?q=Neto+e+Denilson) | N/A |
+| 22 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 23 | [#OsDonosdaBola](http://twitter.com/search?q=%23OsDonosdaBola) | N/A |
+| 24 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
+| 25 | [PRISCILLA EM AMOR PERFEITO](http://twitter.com/search?q=PRISCILLA+EM+AMOR+PERFEITO) | N/A |
+| 26 | [Petraglia](http://twitter.com/search?q=Petraglia) | N/A |
+| 27 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
+| 28 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
+| 29 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 30 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 31 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
+| 32 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 33 | [Jeová](http://twitter.com/search?q=Jeov%c3%a1) | N/A |
+| 34 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 35 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 36 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 37 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 38 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 39 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 40 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
+| 41 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
+| 42 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 43 | [xtina](http://twitter.com/search?q=xtina) | N/A |
+| 44 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 45 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
+| 46 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
+| 47 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
+| 48 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 49 | [Dia 20](http://twitter.com/search?q=Dia+20) | N/A |
 
 
 

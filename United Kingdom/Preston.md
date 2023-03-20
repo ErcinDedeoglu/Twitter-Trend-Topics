@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-20 19:17:09 UTC`
+📆 Last Updated: `2023-03-20 20:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 2 | [#SeaOfThieves](http://twitter.com/search?q=%23SeaOfThieves) | N/A |
-| 3 | [#ClimateScam](http://twitter.com/search?q=%23ClimateScam) | N/A |
-| 4 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
-| 5 | [Weds](http://twitter.com/search?q=Weds) | N/A |
-| 6 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 7 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 8 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 9 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 10 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 11 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 12 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 13 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 14 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 15 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
-| 16 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
-| 17 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 18 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
-| 19 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 20 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 21 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
-| 22 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 23 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 24 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 25 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
-| 26 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
-| 27 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 28 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 29 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
-| 30 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 31 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 32 | [Milo](http://twitter.com/search?q=Milo) | N/A |
-| 33 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 34 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 35 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 36 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 37 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 38 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
-| 39 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 40 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 41 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 42 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
-| 43 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 44 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 45 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 46 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
-| 47 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 48 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 49 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
+| 1 | [#Hollyoaks](http://twitter.com/search?q=%23Hollyoaks) | N/A |
+| 2 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 3 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
+| 4 | [#SeaOfThieves](http://twitter.com/search?q=%23SeaOfThieves) | N/A |
+| 5 | [Iraqis](http://twitter.com/search?q=Iraqis) | N/A |
+| 6 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 7 | [#ClimateScam](http://twitter.com/search?q=%23ClimateScam) | N/A |
+| 8 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 9 | [Weds](http://twitter.com/search?q=Weds) | N/A |
+| 10 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 11 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 12 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
+| 13 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 14 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 15 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 16 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 17 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 18 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
+| 19 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
+| 20 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
+| 21 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 22 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 23 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 24 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 25 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
+| 26 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
+| 27 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
+| 28 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
+| 29 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
+| 30 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 31 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
+| 32 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 33 | [Castore](http://twitter.com/search?q=Castore) | N/A |
+| 34 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 35 | [Milo](http://twitter.com/search?q=Milo) | N/A |
+| 36 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 37 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 38 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 39 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 40 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 41 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 42 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 43 | [Tony Benn](http://twitter.com/search?q=Tony+Benn) | N/A |
+| 44 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 45 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 46 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 47 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 48 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
+| 49 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
 
 
 

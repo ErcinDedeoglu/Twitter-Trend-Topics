@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-20 19:17:26 UTC`
+📆 Last Updated: `2023-03-20 20:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,41 +28,41 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
 | 12 | [Paradeplatz](http://twitter.com/search?q=Paradeplatz) | N/A |
 | 13 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 14 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 15 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 16 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
-| 17 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 18 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 19 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 20 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
-| 21 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 22 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 24 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
-| 25 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 26 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 27 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 28 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
-| 29 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 14 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 15 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 16 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 17 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 18 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 19 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 20 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 21 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 22 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 23 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
+| 24 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
+| 25 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 26 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 27 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
+| 28 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 29 | [Ueli](http://twitter.com/search?q=Ueli) | N/A |
 | 30 | [weko](http://twitter.com/search?q=weko) | N/A |
-| 31 | [Ueli](http://twitter.com/search?q=Ueli) | N/A |
-| 32 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
-| 33 | [Management](http://twitter.com/search?q=Management) | N/A |
+| 31 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
+| 32 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 33 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
 | 34 | [medienkonferenz](http://twitter.com/search?q=medienkonferenz) | N/A |
-| 35 | [Finanzplatz](http://twitter.com/search?q=Finanzplatz) | N/A |
-| 36 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
-| 37 | [Monster](http://twitter.com/search?q=Monster) | N/A |
-| 38 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
-| 39 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 42 | [Luscht](http://twitter.com/search?q=Luscht) | N/A |
-| 43 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 44 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 45 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 46 | [Notverordnung](http://twitter.com/search?q=Notverordnung) | N/A |
-| 47 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
-| 48 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 35 | [finanzplatz](http://twitter.com/search?q=finanzplatz) | N/A |
+| 36 | [Monster](http://twitter.com/search?q=Monster) | N/A |
+| 37 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
+| 38 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 39 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 40 | [luscht](http://twitter.com/search?q=luscht) | N/A |
+| 41 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
+| 42 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 43 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 44 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 45 | [Notverordnung](http://twitter.com/search?q=Notverordnung) | N/A |
+| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 47 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 48 | [Krise](http://twitter.com/search?q=Krise) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-20 19:17:16 UTC`
+📆 Last Updated: `2023-03-20 20:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 2 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 3 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
-| 4 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 2 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 3 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 4 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
 | 5 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 6 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 7 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
+| 6 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 7 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
 | 8 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 9 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 10 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
-| 11 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
-| 12 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
-| 13 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 14 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
-| 15 | [JOELMA DANÇANDO E BEIJANDO](http://twitter.com/search?q=JOELMA+DAN%c3%87ANDO+E+BEIJANDO) | N/A |
-| 16 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 17 | [Neto e Denilson](http://twitter.com/search?q=Neto+e+Denilson) | N/A |
-| 18 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
-| 19 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
-| 20 | [Petraglia](http://twitter.com/search?q=Petraglia) | N/A |
+| 9 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
+| 10 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 11 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 12 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 13 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
+| 14 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 15 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
+| 16 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 17 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 18 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 19 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 20 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
 | 21 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 22 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
-| 23 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 22 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 23 | [Neto e Denilson](http://twitter.com/search?q=Neto+e+Denilson) | N/A |
 | 24 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 25 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 26 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 27 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 28 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 29 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 30 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
-| 31 | [Jeová](http://twitter.com/search?q=Jeov%c3%a1) | N/A |
-| 32 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 33 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
-| 34 | [REFFIS Plus](http://twitter.com/search?q=REFFIS+Plus) | N/A |
-| 35 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
-| 36 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 37 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
-| 38 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 39 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 40 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 41 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 42 | [Hilux](http://twitter.com/search?q=Hilux) | N/A |
-| 43 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
-| 44 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 45 | [binnie](http://twitter.com/search?q=binnie) | N/A |
-| 46 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 47 | [xtina](http://twitter.com/search?q=xtina) | N/A |
-| 48 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
-| 49 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 50 | [Caju](http://twitter.com/search?q=Caju) | N/A |
+| 25 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
+| 26 | [PRISCILLA EM AMOR PERFEITO](http://twitter.com/search?q=PRISCILLA+EM+AMOR+PERFEITO) | N/A |
+| 27 | [Petraglia](http://twitter.com/search?q=Petraglia) | N/A |
+| 28 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
+| 29 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
+| 30 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 31 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 32 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 33 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
+| 34 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
+| 35 | [Jeová](http://twitter.com/search?q=Jeov%c3%a1) | N/A |
+| 36 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
+| 37 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 38 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 39 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 40 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
+| 41 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 42 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
+| 43 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
+| 44 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 45 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 46 | [xtina](http://twitter.com/search?q=xtina) | N/A |
+| 47 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 48 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
+| 49 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
+| 50 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 
 
 

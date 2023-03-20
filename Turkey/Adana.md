@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-03-20 19:17:50 UTC`
+📆 Last Updated: `2023-03-20 20:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LaleyiAklayamazsınTRT](http://twitter.com/search?q=%23LaleyiAklayamazs%c4%b1nTRT) | N/A |
-| 2 | [#SeçimdeBizDeVarız](http://twitter.com/search?q=%23Se%c3%a7imdeBizDeVar%c4%b1z) | N/A |
-| 3 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
-| 4 | [Tuvalet Terliği](http://twitter.com/search?q=Tuvalet+Terli%c4%9fi) | N/A |
+| 2 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 3 | [#SeçimdeBizDeVarız](http://twitter.com/search?q=%23Se%c3%a7imdeBizDeVar%c4%b1z) | N/A |
+| 4 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
 | 5 | [#BeklenenSensin](http://twitter.com/search?q=%23BeklenenSensin) | N/A |
-| 6 | [#başlıyoruz](http://twitter.com/search?q=%23ba%c5%9fl%c4%b1yoruz) | N/A |
-| 7 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
-| 8 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 9 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 10 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 6 | [Tuvalet Terliği](http://twitter.com/search?q=Tuvalet+Terli%c4%9fi) | N/A |
+| 7 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 8 | [#Adayımİnce](http://twitter.com/search?q=%23Aday%c4%b1m%c4%b0nce) | N/A |
+| 9 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 10 | [EsnafMahkum Olmakİstemiyor](http://twitter.com/search?q=EsnafMahkum+Olmak%c4%b0stemiyor) | N/A |
 | 11 | [Koopİş PiktesiUnuttu](http://twitter.com/search?q=Koop%c4%b0%c5%9f+PiktesiUnuttu) | N/A |
-| 12 | [UgurOzturk](http://twitter.com/search?q=UgurOzturk) | N/A |
-| 13 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
-| 14 | [Kabineden DenklikMüjdesi](http://twitter.com/search?q=Kabineden+DenklikM%c3%bcjdesi) | N/A |
-| 15 | [EsnafMahkum Olmakİstemiyor](http://twitter.com/search?q=EsnafMahkum+Olmak%c4%b0stemiyor) | N/A |
-| 16 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
-| 17 | [Taşeronİttifakı SeçimiBelirler](http://twitter.com/search?q=Ta%c5%9feron%c4%b0ttifak%c4%b1+Se%c3%a7imiBelirler) | N/A |
+| 12 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
+| 13 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
+| 14 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
+| 15 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 16 | [Kabineden DenklikMüjdesi](http://twitter.com/search?q=Kabineden+DenklikM%c3%bcjdesi) | N/A |
+| 17 | [ZirveSenin ElifNurYel](http://twitter.com/search?q=ZirveSenin+ElifNurYel) | N/A |
 | 18 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
-| 19 | [ZirveSenin ElifNurYel](http://twitter.com/search?q=ZirveSenin+ElifNurYel) | N/A |
-| 20 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 19 | [UgurOzturk](http://twitter.com/search?q=UgurOzturk) | N/A |
+| 20 | [Taşeronİttifakı SeçimiBelirler](http://twitter.com/search?q=Ta%c5%9feron%c4%b0ttifak%c4%b1+Se%c3%a7imiBelirler) | N/A |
 | 21 | [Hakkı](http://twitter.com/search?q=Hakk%c4%b1) | N/A |
-| 22 | [Kandile Post ABDye Dost](http://twitter.com/search?q=Kandile+Post+ABDye+Dost) | N/A |
-| 23 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 24 | [YEDİ DÜVELE MEYDAN OKUYAN](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVELE+MEYDAN+OKUYAN) | N/A |
-| 25 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
-| 26 | [Azra](http://twitter.com/search?q=Azra) | N/A |
-| 27 | [Buluşalım](http://twitter.com/search?q=Bulu%c5%9fal%c4%b1m) | N/A |
-| 28 | [CbHerASMyeDyt](http://twitter.com/search?q=CbHerASMyeDyt) | N/A |
-| 29 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
-| 30 | [SnÖzerden İİBFye4BinKadro](http://twitter.com/search?q=Sn%c3%96zerden+%c4%b0%c4%b0BFye4BinKadro) | N/A |
-| 31 | [SahneninStarı ArifGüloğlu](http://twitter.com/search?q=SahneninStar%c4%b1+ArifG%c3%bclo%c4%9flu) | N/A |
-| 32 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 33 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 34 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
-| 35 | [Cnz Burak](http://twitter.com/search?q=Cnz+Burak) | N/A |
-| 36 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
-| 37 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 38 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 39 | [Devri](http://twitter.com/search?q=Devri) | N/A |
-| 40 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
-| 41 | [45bin](http://twitter.com/search?q=45bin) | N/A |
-| 42 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 43 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
-| 44 | [Özlemişiz](http://twitter.com/search?q=%c3%96zlemi%c5%9fiz) | N/A |
-| 45 | [AKP'liyim](http://twitter.com/search?q=AKP%27liyim) | N/A |
-| 46 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 47 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 48 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 49 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 22 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
+| 23 | [Kandile Post ABDye Dost](http://twitter.com/search?q=Kandile+Post+ABDye+Dost) | N/A |
+| 24 | [Azra](http://twitter.com/search?q=Azra) | N/A |
+| 25 | [YEDİ DÜVELE MEYDAN OKUYAN](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVELE+MEYDAN+OKUYAN) | N/A |
+| 26 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 27 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
+| 28 | [Buluşalım](http://twitter.com/search?q=Bulu%c5%9fal%c4%b1m) | N/A |
+| 29 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
+| 30 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 31 | [Batan](http://twitter.com/search?q=Batan) | N/A |
+| 32 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
+| 33 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
+| 34 | [SnÖzerden İİBFye4BinKadro](http://twitter.com/search?q=Sn%c3%96zerden+%c4%b0%c4%b0BFye4BinKadro) | N/A |
+| 35 | [CbHerASMyeDyt](http://twitter.com/search?q=CbHerASMyeDyt) | N/A |
+| 36 | [Devri](http://twitter.com/search?q=Devri) | N/A |
+| 37 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 38 | [Birleşe](http://twitter.com/search?q=Birle%c5%9fe) | N/A |
+| 39 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 40 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 41 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
+| 42 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
+| 43 | [Yanındaki](http://twitter.com/search?q=Yan%c4%b1ndaki) | N/A |
+| 44 | [AKP'liyim](http://twitter.com/search?q=AKP%27liyim) | N/A |
+| 45 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
+| 46 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
+| 47 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
+| 48 | [Cnz Burak](http://twitter.com/search?q=Cnz+Burak) | N/A |
+| 49 | [Sabırlar](http://twitter.com/search?q=Sab%c4%b1rlar) | N/A |
 
 
 
