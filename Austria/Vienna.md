@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-20 15:18:45 UTC`
+📆 Last Updated: `2023-03-20 16:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#ImZentrum](http://twitter.com/search?q=%23ImZentrum) | N/A |
 | 2 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 6 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
-| 7 | [#FAKSCR](http://twitter.com/search?q=%23FAKSCR) | N/A |
-| 8 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 9 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 12 | [Friedhöfe](http://twitter.com/search?q=Friedh%c3%b6fe) | N/A |
-| 13 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 14 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 15 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
-| 16 | [Verluste](http://twitter.com/search?q=Verluste) | N/A |
-| 17 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 18 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
-| 19 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 20 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 21 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 22 | [Unrecht](http://twitter.com/search?q=Unrecht) | N/A |
-| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 24 | [Löchern](http://twitter.com/search?q=L%c3%b6chern) | N/A |
-| 25 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 26 | [Bankenkrise](http://twitter.com/search?q=Bankenkrise) | N/A |
-| 27 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
-| 28 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
+| 3 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
+| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 5 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 6 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 7 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 10 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 11 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 12 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 13 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
+| 14 | [wirtshaus](http://twitter.com/search?q=wirtshaus) | N/A |
+| 15 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 16 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
+| 17 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
+| 18 | [Löchern](http://twitter.com/search?q=L%c3%b6chern) | N/A |
+| 19 | [Katze](http://twitter.com/search?q=Katze) | N/A |
+| 20 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 21 | [Bankenkrise](http://twitter.com/search?q=Bankenkrise) | N/A |
+| 22 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
+| 23 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 25 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 26 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
+| 27 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 28 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
 | 29 | [Vulnerable](http://twitter.com/search?q=Vulnerable) | N/A |
-| 30 | [Mord](http://twitter.com/search?q=Mord) | N/A |
-| 31 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 32 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 33 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 34 | [Chlor](http://twitter.com/search?q=Chlor) | N/A |
-| 35 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [hausarzt](http://twitter.com/search?q=hausarzt) | N/A |
-| 38 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 39 | [Bundesländer](http://twitter.com/search?q=Bundesl%c3%a4nder) | N/A |
-| 40 | [märchen](http://twitter.com/search?q=m%c3%a4rchen) | N/A |
-| 41 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
-| 42 | [Kellernazis](http://twitter.com/search?q=Kellernazis) | N/A |
-| 43 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 45 | [Kennzeichen](http://twitter.com/search?q=Kennzeichen) | N/A |
-| 46 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 47 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 48 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 49 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 50 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 30 | [Kellernazis](http://twitter.com/search?q=Kellernazis) | N/A |
+| 31 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 32 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 34 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 35 | [Chlor](http://twitter.com/search?q=Chlor) | N/A |
+| 36 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 37 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
+| 38 | [Speisen](http://twitter.com/search?q=Speisen) | N/A |
+| 39 | [amtsmissbrauch](http://twitter.com/search?q=amtsmissbrauch) | N/A |
+| 40 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 41 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 42 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 43 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 44 | [Medikament](http://twitter.com/search?q=Medikament) | N/A |
+| 45 | [Darknet](http://twitter.com/search?q=Darknet) | N/A |
+| 46 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 47 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 48 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
+| 49 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 50 | [Verpflichtung](http://twitter.com/search?q=Verpflichtung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-20 15:19:15 UTC`
+📆 Last Updated: `2023-03-20 16:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 2 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 3 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 4 | [Woodson](http://twitter.com/search?q=Woodson) | N/A |
-| 5 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 6 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 10 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 11 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 12 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
-| 13 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 14 | [David Wright](http://twitter.com/search?q=David+Wright) | N/A |
-| 15 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
-| 16 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
-| 17 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 18 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
-| 19 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 20 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 21 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 22 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 23 | [Northern Hemisphere](http://twitter.com/search?q=Northern+Hemisphere) | N/A |
-| 24 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
-| 25 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 26 | [Cooley](http://twitter.com/search?q=Cooley) | N/A |
-| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 28 | [Eva Longoria](http://twitter.com/search?q=Eva+Longoria) | N/A |
-| 29 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 30 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 31 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 32 | [Baghdad](http://twitter.com/search?q=Baghdad) | N/A |
-| 33 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 34 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 35 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 36 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 37 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 38 | [John Brown](http://twitter.com/search?q=John+Brown) | John Brown is an English phrase that refers to a person who is brave and determined. It is often used as a metaphor for someone who stands up for what they believe in, even in the face of adversity. |
-| 39 | [WMDs](http://twitter.com/search?q=WMDs) | N/A |
-| 40 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 41 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 42 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 43 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 44 | [DA Bragg](http://twitter.com/search?q=DA+Bragg) | N/A |
-| 45 | [South Beach](http://twitter.com/search?q=South+Beach) | N/A |
-| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 47 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 48 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 2 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 6 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 7 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 8 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 9 | [Trent Sherfield](http://twitter.com/search?q=Trent+Sherfield) | N/A |
+| 10 | [MERRIN](http://twitter.com/search?q=MERRIN) | N/A |
+| 11 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
+| 12 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 13 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 14 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
+| 15 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
+| 16 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 18 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
+| 19 | [Mario Chalmers](http://twitter.com/search?q=Mario+Chalmers) | N/A |
+| 20 | [Jeremy Scott](http://twitter.com/search?q=Jeremy+Scott) | N/A |
+| 21 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 22 | [Gerald Green](http://twitter.com/search?q=Gerald+Green) | N/A |
+| 23 | [WE NYC](http://twitter.com/search?q=WE+NYC) | N/A |
+| 24 | [Milton Glaser](http://twitter.com/search?q=Milton+Glaser) | N/A |
+| 25 | [Buster Murdaugh](http://twitter.com/search?q=Buster+Murdaugh) | N/A |
+| 26 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
+| 27 | [Moschino](http://twitter.com/search?q=Moschino) | N/A |
+| 28 | [Paul Byrd](http://twitter.com/search?q=Paul+Byrd) | N/A |
+| 29 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 30 | [Avatar 3](http://twitter.com/search?q=Avatar+3) | N/A |
+| 31 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 32 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 33 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
+| 34 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 35 | [Soros DAs](http://twitter.com/search?q=Soros+DAs) | N/A |
+| 36 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 37 | [Soros-funded](http://twitter.com/search?q=Soros-funded) | N/A |
+| 38 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 39 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 40 | [Robin DiAngelo](http://twitter.com/search?q=Robin+DiAngelo) | N/A |
+| 41 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
+| 42 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
+| 43 | [Navajo Nation](http://twitter.com/search?q=Navajo+Nation) | N/A |
+| 44 | [Mike Faist](http://twitter.com/search?q=Mike+Faist) | N/A |
+| 45 | [Lucas Hedges](http://twitter.com/search?q=Lucas+Hedges) | N/A |
+| 46 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 47 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 48 | [Barron](http://twitter.com/search?q=Barron) | N/A |
 
 
 

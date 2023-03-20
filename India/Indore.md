@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-20 15:19:09 UTC`
+📆 Last Updated: `2023-03-20 16:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
-| 2 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
-| 3 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
-| 4 | [#iQOOZ7onAmazonSpecials](http://twitter.com/search?q=%23iQOOZ7onAmazonSpecials) | N/A |
-| 5 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 6 | [#realmeC55LaunchingTomorrow](http://twitter.com/search?q=%23realmeC55LaunchingTomorrow) | N/A |
-| 7 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
-| 8 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 9 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 10 | [WAY MORE TO GO AISHWARYA](http://twitter.com/search?q=WAY+MORE+TO+GO+AISHWARYA) | N/A |
-| 11 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 12 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
-| 13 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 14 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 15 | [बाई लोधी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 16 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
-| 17 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
-| 18 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 19 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 20 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 21 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
-| 22 | [#50DaysForTHEVDBday](http://twitter.com/search?q=%2350DaysForTHEVDBday) | N/A |
-| 23 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
-| 24 | [#AgaNaga](http://twitter.com/search?q=%23AgaNaga) | N/A |
-| 25 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 26 | [#PonniyinSelvan2](http://twitter.com/search?q=%23PonniyinSelvan2) | N/A |
-| 27 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
-| 28 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
-| 29 | [#News18IndiaChaupal](http://twitter.com/search?q=%23News18IndiaChaupal) | N/A |
-| 30 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
-| 31 | [#RocketBoys2OnSonyLIV](http://twitter.com/search?q=%23RocketBoys2OnSonyLIV) | N/A |
-| 32 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
-| 33 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 34 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
-| 35 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
-| 36 | [#FullyLoaded](http://twitter.com/search?q=%23FullyLoaded) | N/A |
-| 37 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 38 | [#WakeUpHaarikaHassine](http://twitter.com/search?q=%23WakeUpHaarikaHassine) | N/A |
-| 39 | [#VijayDeverakonda](http://twitter.com/search?q=%23VijayDeverakonda) | N/A |
-| 40 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
-| 41 | [#RashmikaMandanna](http://twitter.com/search?q=%23RashmikaMandanna) | N/A |
-| 42 | [#WorldHappinessDay](http://twitter.com/search?q=%23WorldHappinessDay) | N/A |
-| 43 | [#TDPRowdiesInAssembly](http://twitter.com/search?q=%23TDPRowdiesInAssembly) | N/A |
-| 44 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
-| 45 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
-| 46 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 47 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 48 | [#Agent](http://twitter.com/search?q=%23Agent) | N/A |
-| 49 | [#TDPDalitMLAattackedInAssembly](http://twitter.com/search?q=%23TDPDalitMLAattackedInAssembly) | N/A |
-| 50 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
+| 2 | [बाई लोधी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 3 | [SAVE HP3 FROM FARHAD](http://twitter.com/search?q=SAVE+HP3+FROM+FARHAD) | N/A |
+| 4 | [#realmeC55LaunchingTomorrow](http://twitter.com/search?q=%23realmeC55LaunchingTomorrow) | N/A |
+| 5 | [#RocketBoys2OnSonyLIV](http://twitter.com/search?q=%23RocketBoys2OnSonyLIV) | N/A |
+| 6 | [#QuitCommonwealth](http://twitter.com/search?q=%23QuitCommonwealth) | N/A |
+| 7 | [#23_मार्च_बिहार_बंद](http://twitter.com/search?q=%2323_%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a_%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6) | N/A |
+| 8 | [Joyful Sushant](http://twitter.com/search?q=Joyful+Sushant) | N/A |
+| 9 | [3 YEARS OF CONTROL](http://twitter.com/search?q=3+YEARS+OF+CONTROL) | N/A |
+| 10 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 11 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 13 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 14 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
+| 15 | [Mehul Choksi](http://twitter.com/search?q=Mehul+Choksi) | N/A |
+| 16 | [Patna](http://twitter.com/search?q=Patna) | N/A |
+| 17 | [WAY MORE TO GO AISHWARYA](http://twitter.com/search?q=WAY+MORE+TO+GO+AISHWARYA) | N/A |
+| 18 | [Japanese PM](http://twitter.com/search?q=Japanese+PM) | N/A |
+| 19 | [Shehzad](http://twitter.com/search?q=Shehzad) | N/A |
+| 20 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 21 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 22 | [STOP BUTCHERING ABHIRA](http://twitter.com/search?q=STOP+BUTCHERING+ABHIRA) | N/A |
+| 23 | [Khalistanis](http://twitter.com/search?q=Khalistanis) | N/A |
+| 24 | [Rajdeep](http://twitter.com/search?q=Rajdeep) | N/A |
+| 25 | [पटना रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 26 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 27 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 28 | [OROP](http://twitter.com/search?q=OROP) | N/A |
+| 29 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
+| 30 | [#News18IndiaChaupal](http://twitter.com/search?q=%23News18IndiaChaupal) | N/A |
+| 31 | [#MIvDC](http://twitter.com/search?q=%23MIvDC) | N/A |
+| 32 | [#iQOOZ7OnAmazonSpecials](http://twitter.com/search?q=%23iQOOZ7OnAmazonSpecials) | N/A |
+| 33 | [#GurudevHoysala](http://twitter.com/search?q=%23GurudevHoysala) | N/A |
+| 34 | [#ShaliniAjithKumar](http://twitter.com/search?q=%23ShaliniAjithKumar) | N/A |
+| 35 | [#50DaysForTHEVDBday](http://twitter.com/search?q=%2350DaysForTHEVDBday) | N/A |
+| 36 | [#AgaNaga](http://twitter.com/search?q=%23AgaNaga) | N/A |
+| 37 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
+| 38 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 39 | [#FullyLoaded](http://twitter.com/search?q=%23FullyLoaded) | N/A |
+| 40 | [#PonniyinSelvan2](http://twitter.com/search?q=%23PonniyinSelvan2) | N/A |
+| 41 | [#NBK108](http://twitter.com/search?q=%23NBK108) | N/A |
+| 42 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
+| 43 | [#VijayDeverakonda](http://twitter.com/search?q=%23VijayDeverakonda) | N/A |
+| 44 | [#EeSalaHoysala](http://twitter.com/search?q=%23EeSalaHoysala) | N/A |
+| 45 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
+| 46 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 47 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
+| 48 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
+| 49 | [#UPWarriorz](http://twitter.com/search?q=%23UPWarriorz) | N/A |
+| 50 | [#ManiRatnam](http://twitter.com/search?q=%23ManiRatnam) | N/A |
 
 
 

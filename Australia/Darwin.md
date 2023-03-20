@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-03-20 15:18:54 UTC`
+📆 Last Updated: `2023-03-20 16:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 2 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
+| 2 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 3 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 4 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 5 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
-| 6 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 7 | [#nrlbulldogstigers](http://twitter.com/search?q=%23nrlbulldogstigers) | N/A |
-| 8 | [#MCRSYDNEY2](http://twitter.com/search?q=%23MCRSYDNEY2) | N/A |
-| 9 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 10 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 4 | [#nrlbulldogstigers](http://twitter.com/search?q=%23nrlbulldogstigers) | N/A |
+| 5 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 6 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 7 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 8 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 9 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 10 | [john sattler](http://twitter.com/search?q=john+sattler) | N/A |
 | 11 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 12 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 13 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 14 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 15 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 12 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 13 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
+| 14 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 15 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 16 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 18 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 19 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 17 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 18 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 19 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
 | 20 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 21 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
-| 22 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 23 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 24 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 25 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 28 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 29 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
-| 30 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 31 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
-| 32 | [Media Watch](http://twitter.com/search?q=Media+Watch) | N/A |
-| 33 | [vicpol](http://twitter.com/search?q=vicpol) | N/A |
-| 34 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 35 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 36 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 37 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
-| 38 | [Thomas Sewell](http://twitter.com/search?q=Thomas+Sewell) | N/A |
-| 39 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 40 | [Satts](http://twitter.com/search?q=Satts) | N/A |
-| 41 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
-| 42 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 43 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 44 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 46 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 47 | [Avi Yemini](http://twitter.com/search?q=Avi+Yemini) | N/A |
-| 48 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 49 | [Oliver Schulz](http://twitter.com/search?q=Oliver+Schulz) | N/A |
-| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 22 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 23 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 24 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 27 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
+| 28 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 29 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 30 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
+| 31 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 32 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 33 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 34 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 35 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
+| 36 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 37 | [Avi Yemini](http://twitter.com/search?q=Avi+Yemini) | N/A |
+| 38 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 39 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 40 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 41 | [Thomas Sewell](http://twitter.com/search?q=Thomas+Sewell) | N/A |
+| 42 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 44 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
+| 45 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 46 | [wakeham](http://twitter.com/search?q=wakeham) | N/A |
+| 47 | [RIP Satts](http://twitter.com/search?q=RIP+Satts) | N/A |
+| 48 | [Oliver Schulz](http://twitter.com/search?q=Oliver+Schulz) | N/A |
+| 49 | [harmony week](http://twitter.com/search?q=harmony+week) | N/A |
+| 50 | [Laird](http://twitter.com/search?q=Laird) | N/A |
 
 
 

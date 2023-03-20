@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-20 15:19:11 UTC`
+📆 Last Updated: `2023-03-20 16:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EKSUN](http://twitter.com/search?q=%23EKSUN) | N/A |
-| 2 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 3 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 4 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
-| 5 | [Kürdistan](http://twitter.com/search?q=K%c3%bcrdistan) | N/A |
-| 6 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 7 | [#Meb50BiniKabulEtmiyoruz](http://twitter.com/search?q=%23Meb50BiniKabulEtmiyoruz) | N/A |
-| 8 | [#YenidenRefahPartisi](http://twitter.com/search?q=%23YenidenRefahPartisi) | N/A |
-| 9 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 10 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
-| 11 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
-| 12 | [TwitterTayfadan SelamAfRam](http://twitter.com/search?q=TwitterTayfadan+SelamAfRam) | N/A |
-| 13 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 14 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
-| 15 | [Bor Karbür](http://twitter.com/search?q=Bor+Karb%c3%bcr) | N/A |
-| 16 | [Kirli Buluşma](http://twitter.com/search?q=Kirli+Bulu%c5%9fma) | N/A |
-| 17 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
-| 18 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 19 | [Kılıçdaroğlu'ndan HDP](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu%27ndan+HDP) | N/A |
-| 20 | [TBMM'dir](http://twitter.com/search?q=TBMM%27dir) | N/A |
-| 21 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 22 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
+| 1 | [Bor Karbür](http://twitter.com/search?q=Bor+Karb%c3%bcr) | N/A |
+| 2 | [#Ramazan](http://twitter.com/search?q=%23Ramazan) | N/A |
+| 3 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
+| 4 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
+| 5 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
+| 6 | [#Meb50BiniKabulEtmiyoruz](http://twitter.com/search?q=%23Meb50BiniKabulEtmiyoruz) | N/A |
+| 7 | [#başlıyoruz](http://twitter.com/search?q=%23ba%c5%9fl%c4%b1yoruz) | N/A |
+| 8 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 9 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
+| 10 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
+| 11 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
+| 12 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
+| 13 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 14 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 15 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
+| 16 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 17 | [TwitterTayfadan SelamAfRam](http://twitter.com/search?q=TwitterTayfadan+SelamAfRam) | N/A |
+| 18 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
+| 19 | [45bin](http://twitter.com/search?q=45bin) | N/A |
+| 20 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 21 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 22 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
 | 23 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
-| 24 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
-| 25 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 26 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 27 | [Batan](http://twitter.com/search?q=Batan) | N/A |
-| 28 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 29 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 30 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 31 | [Türkçedir](http://twitter.com/search?q=T%c3%bcrk%c3%a7edir) | N/A |
-| 32 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
-| 33 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
-| 34 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
-| 35 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 36 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 37 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 38 | [ADAY OLMA](http://twitter.com/search?q=ADAY+OLMA) | N/A |
-| 39 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
-| 40 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
-| 41 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
-| 42 | [#YönetemedinAKP](http://twitter.com/search?q=%23Y%c3%b6netemedinAKP) | N/A |
-| 43 | [#FKocaAtamayıDuyur](http://twitter.com/search?q=%23FKocaAtamay%c4%b1Duyur) | N/A |
-| 44 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
-| 45 | [#BalkonKonuşmasıYükleniyor](http://twitter.com/search?q=%23BalkonKonu%c5%9fmas%c4%b1Y%c3%bckleniyor) | N/A |
-| 46 | [#inanıyorum](http://twitter.com/search?q=%23inan%c4%b1yorum) | N/A |
-| 47 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 48 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 49 | [#BizMağduriyetİstemiyoruz](http://twitter.com/search?q=%23BizMa%c4%9fduriyet%c4%b0stemiyoruz) | N/A |
-| 50 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
+| 24 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 25 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 26 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
+| 27 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
+| 28 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 29 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
+| 30 | [Müjde](http://twitter.com/search?q=M%c3%bcjde) | Müjde is a Turkish word that means "good news" or "announcement". It is often used to refer to a positive announcement or message. |
+| 31 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
+| 32 | [Varlık](http://twitter.com/search?q=Varl%c4%b1k) | N/A |
+| 33 | [TBMM'dir](http://twitter.com/search?q=TBMM%27dir) | N/A |
+| 34 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 35 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
+| 36 | [Kirli Buluşma](http://twitter.com/search?q=Kirli+Bulu%c5%9fma) | N/A |
+| 37 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
+| 38 | [Seçim 2](http://twitter.com/search?q=Se%c3%a7im+2) | N/A |
+| 39 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
+| 40 | [Batan](http://twitter.com/search?q=Batan) | N/A |
+| 41 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 42 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 43 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 44 | [Türkçedir](http://twitter.com/search?q=T%c3%bcrk%c3%a7edir) | N/A |
+| 45 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 46 | [#YenidenRefahPartisi](http://twitter.com/search?q=%23YenidenRefahPartisi) | N/A |
+| 47 | [#BalkonKonuşmasıYükleniyor](http://twitter.com/search?q=%23BalkonKonu%c5%9fmas%c4%b1Y%c3%bckleniyor) | N/A |
+| 48 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
+| 49 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 50 | [#YönetemedinAKP](http://twitter.com/search?q=%23Y%c3%b6netemedinAKP) | N/A |
 
 
 
