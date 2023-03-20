@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-03-20 06:17:39 UTC`
+📆 Last Updated: `2023-03-20 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 3 | [#AllStarEliminación](http://twitter.com/search?q=%23AllStarEliminaci%c3%b3n) | N/A |
 | 4 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 5 | [Valery](http://twitter.com/search?q=Valery) | N/A |
-| 6 | [#MiFamosoYYo](http://twitter.com/search?q=%23MiFamosoYYo) | N/A |
-| 7 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 8 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 5 | [#MiFamosoYYo](http://twitter.com/search?q=%23MiFamosoYYo) | N/A |
+| 6 | [Valery](http://twitter.com/search?q=Valery) | N/A |
+| 7 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 8 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
 | 9 | [TE AMO LOUIS](http://twitter.com/search?q=TE+AMO+LOUIS) | N/A |
-| 10 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
-| 11 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 12 | [Olga](http://twitter.com/search?q=Olga) | N/A |
+| 10 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 11 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 12 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
 | 13 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
-| 14 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 15 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 16 | [#NoalOdio](http://twitter.com/search?q=%23NoalOdio) | N/A |
-| 17 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 18 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 19 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
-| 20 | [MI PAÍS](http://twitter.com/search?q=MI+PA%c3%8dS) | N/A |
-| 21 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 22 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 23 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 24 | [Quemar](http://twitter.com/search?q=Quemar) | N/A |
-| 25 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 26 | [La Corregidora](http://twitter.com/search?q=La+Corregidora) | N/A |
-| 27 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 28 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 29 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 30 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 31 | [El México](http://twitter.com/search?q=El+M%c3%a9xico) | N/A |
-| 32 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 33 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 14 | [Red Hot Chili Peppers](http://twitter.com/search?q=Red+Hot+Chili+Peppers) | N/A |
+| 15 | [Olga](http://twitter.com/search?q=Olga) | N/A |
+| 16 | [Quemar](http://twitter.com/search?q=Quemar) | N/A |
+| 17 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 18 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 19 | [#NoalOdio](http://twitter.com/search?q=%23NoalOdio) | N/A |
+| 20 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 21 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 22 | [#EstamosContigoAlan](http://twitter.com/search?q=%23EstamosContigoAlan) | N/A |
+| 23 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 24 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 25 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 26 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 28 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 29 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
+| 30 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 31 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 32 | [La Corregidora](http://twitter.com/search?q=La+Corregidora) | N/A |
+| 33 | [El México](http://twitter.com/search?q=El+M%c3%a9xico) | N/A |
 | 34 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
 | 35 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
 | 36 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
 | 37 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
-| 38 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 39 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 40 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 41 | [tyler](http://twitter.com/search?q=tyler) | N/A |
-| 42 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 38 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 39 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 40 | [Millones](http://twitter.com/search?q=Millones) | N/A |
+| 41 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
+| 42 | [Josh](http://twitter.com/search?q=Josh) | N/A |
 | 43 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 44 | [Millones](http://twitter.com/search?q=Millones) | N/A |
-| 45 | [#EstamosContigoAlan](http://twitter.com/search?q=%23EstamosContigoAlan) | N/A |
-| 46 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
-| 47 | [#NoEstasSola](http://twitter.com/search?q=%23NoEstasSola) | N/A |
-| 48 | [#SíALaPaz](http://twitter.com/search?q=%23S%c3%adALaPaz) | N/A |
-| 49 | [#Formula1WorksWhithNarcos](http://twitter.com/search?q=%23Formula1WorksWhithNarcos) | N/A |
-| 50 | [#LuchaLibreWorldCup](http://twitter.com/search?q=%23LuchaLibreWorldCup) | N/A |
+| 44 | [#SíALaPaz](http://twitter.com/search?q=%23S%c3%adALaPaz) | N/A |
+| 45 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
+| 46 | [#NoEstasSola](http://twitter.com/search?q=%23NoEstasSola) | N/A |
+| 47 | [#Formula1WorksWhithNarcos](http://twitter.com/search?q=%23Formula1WorksWhithNarcos) | N/A |
+| 48 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
 
 
 
