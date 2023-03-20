@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-03-20 11:17:06 UTC`
+📆 Last Updated: `2023-03-20 12:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [India](</India>)
 | 3 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
 | 4 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
 | 5 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 6 | [Know More](http://twitter.com/search?q=Know+More) | N/A |
-| 7 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
-| 8 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 9 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 10 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
-| 11 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
-| 12 | [High Commission](http://twitter.com/search?q=High+Commission) | N/A |
-| 13 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
-| 14 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
+| 6 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
+| 7 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 8 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 9 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 10 | [High Commission](http://twitter.com/search?q=High+Commission) | N/A |
+| 11 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 12 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
+| 13 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 14 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
 | 15 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
-| 16 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
-| 17 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 18 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
-| 19 | [Warm](http://twitter.com/search?q=Warm) | N/A |
-| 20 | [Aurangabad](http://twitter.com/search?q=Aurangabad) | N/A |
-| 21 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
-| 22 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
-| 23 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 24 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 25 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 26 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 27 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
-| 28 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
-| 29 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
-| 30 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
-| 31 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 32 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
-| 33 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
-| 34 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 35 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
-| 36 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
-| 37 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 38 | [#ପଖାଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%aa%e0%ac%96%e0%ac%be%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
-| 39 | [#TDPRowdiesInAssembly](http://twitter.com/search?q=%23TDPRowdiesInAssembly) | N/A |
-| 40 | [#PakhalaDibasa](http://twitter.com/search?q=%23PakhalaDibasa) | N/A |
-| 41 | [#WorldHappinessDay](http://twitter.com/search?q=%23WorldHappinessDay) | N/A |
-| 42 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
-| 43 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 44 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 45 | [#OROP](http://twitter.com/search?q=%23OROP) | N/A |
-| 46 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
-| 47 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 16 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 17 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 18 | [Hindu Rashtra](http://twitter.com/search?q=Hindu+Rashtra) | N/A |
+| 19 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 20 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
+| 21 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
+| 22 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
+| 23 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
+| 24 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 25 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
+| 26 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
+| 27 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 28 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
+| 29 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
+| 30 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 31 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
+| 32 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 33 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
+| 34 | [#TDPRowdiesInAssembly](http://twitter.com/search?q=%23TDPRowdiesInAssembly) | N/A |
+| 35 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
+| 36 | [#PakhalaDibasa](http://twitter.com/search?q=%23PakhalaDibasa) | N/A |
+| 37 | [#ପଖାଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%aa%e0%ac%96%e0%ac%be%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
+| 38 | [#WorldHappinessDay](http://twitter.com/search?q=%23WorldHappinessDay) | N/A |
+| 39 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
+| 40 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 41 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
+| 42 | [#PTRPalanivelThiagarajan](http://twitter.com/search?q=%23PTRPalanivelThiagarajan) | N/A |
+| 43 | [#TDPDalitMLAattackedInAssembly](http://twitter.com/search?q=%23TDPDalitMLAattackedInAssembly) | N/A |
+| 44 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 45 | [#TejasswiPrakash](http://twitter.com/search?q=%23TejasswiPrakash) | N/A |
+| 46 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
+| 47 | [#DMKFailsTN](http://twitter.com/search?q=%23DMKFailsTN) | N/A |
 
 
 

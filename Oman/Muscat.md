@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-20 11:17:04 UTC`
+📆 Last Updated: `2023-03-20 12:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Oman](</Oman>)
 | 2 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
 | 3 | [#ملتقي_معا_نتقدم](http://twitter.com/search?q=%23%d9%85%d9%84%d8%aa%d9%82%d9%8a_%d9%85%d8%b9%d8%a7_%d9%86%d8%aa%d9%82%d8%af%d9%85) | N/A |
 | 4 | [#مرزوق_الغانم](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b2%d9%88%d9%82_%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 5 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
-| 6 | [#قناه_الاستقامه](http://twitter.com/search?q=%23%d9%82%d9%86%d8%a7%d9%87_%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%a7%d9%85%d9%87) | N/A |
-| 7 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 8 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 5 | [#قناه_الاستقامه](http://twitter.com/search?q=%23%d9%82%d9%86%d8%a7%d9%87_%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%a7%d9%85%d9%87) | N/A |
+| 6 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 7 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
+| 8 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
 | 9 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 10 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 10 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 11 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 12 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 13 | [27 يناير 2019](http://twitter.com/search?q=27+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1+2019) | N/A |
-| 14 | [ابراهيم بن سعيد البوسعيدي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
-| 15 | [الخدمه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 16 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 17 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
-| 18 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 19 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 20 | [نور الهكمانايت](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%87%d9%83%d9%85%d8%a7%d9%86%d8%a7%d9%8a%d8%aa) | N/A |
-| 21 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 22 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 13 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 14 | [نور الهكمانايت](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%87%d9%83%d9%85%d8%a7%d9%86%d8%a7%d9%8a%d8%aa) | N/A |
+| 15 | [27 يناير 2019](http://twitter.com/search?q=27+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1+2019) | N/A |
+| 16 | [ابراهيم بن سعيد البوسعيدي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 17 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 18 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 19 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 20 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 21 | [الخدمه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 22 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 23 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 24 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 25 | [الندوه المصاحبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%af%d9%88%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%ad%d8%a8%d9%87) | N/A |
-| 26 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 27 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 28 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 29 | [سعيد وزير الثقافه](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%87) | N/A |
-| 30 | [الملتقي الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%8a+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | N/A |
-| 31 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
-| 32 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 33 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 24 | [الجبل الاخضر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b6%d8%b1) | N/A |
+| 25 | [يزن بن هيثم](http://twitter.com/search?q=%d9%8a%d8%b2%d9%86+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
+| 26 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 27 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 28 | [الملتقي الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%8a+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | N/A |
+| 29 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 30 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
+| 31 | [سعيد وزير الثقافه](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%87) | N/A |
+| 32 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 33 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 34 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 35 | [الموتمر الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 36 | [الاخصايي الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 37 | [قانون العمل](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 38 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 39 | [الدبلوم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 35 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 36 | [قانون العمل](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 37 | [الموتمر الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 38 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
+| 39 | [الاسماك العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 40 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 41 | [الاسماك العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 43 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
-| 44 | [التوازن المالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b2%d9%86+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 45 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 41 | [الدبلوم العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 42 | [الاخصايي الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 43 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 44 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 45 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
 | 46 | [رافع الرايه](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d9%87) | N/A |
-| 47 | [الارشاد الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b4%d8%a7%d8%af+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
+| 47 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
 | 48 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 49 | [الاداء الموسسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d9%8a) | N/A |
-| 50 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
+| 49 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
+| 50 | [الارشاد الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b4%d8%a7%d8%af+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
 
 
 

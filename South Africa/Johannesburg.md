@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-20 11:16:58 UTC`
+📆 Last Updated: `2023-03-20 12:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 2 | [Chest](http://twitter.com/search?q=Chest) | N/A |
-| 3 | [Electricity](http://twitter.com/search?q=Electricity) | N/A |
-| 4 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 5 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 6 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 7 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 8 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
-| 9 | [#failed](http://twitter.com/search?q=%23failed) | N/A |
-| 10 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 11 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
-| 12 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 13 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 14 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 15 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 16 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
-| 17 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 18 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 19 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 20 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 21 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 22 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
-| 23 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 24 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
-| 25 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 26 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 27 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 28 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
-| 29 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 30 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
-| 31 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 32 | [ENCA](http://twitter.com/search?q=ENCA) | N/A |
-| 33 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
-| 34 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
-| 35 | [come 2024](http://twitter.com/search?q=come+2024) | N/A |
-| 36 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
-| 37 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 38 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
-| 39 | [Marete](http://twitter.com/search?q=Marete) | N/A |
-| 40 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 41 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 42 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 43 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
-| 44 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
-| 45 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 1 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 2 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 3 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 4 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 5 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 6 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 7 | [Electricity](http://twitter.com/search?q=Electricity) | N/A |
+| 8 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 9 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 10 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
+| 11 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 12 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
+| 13 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 14 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 15 | [#failed](http://twitter.com/search?q=%23failed) | N/A |
+| 16 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
+| 17 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 18 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 19 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 20 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
+| 21 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 22 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 23 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 24 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 25 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
+| 26 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 27 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 28 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
+| 29 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 30 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
+| 31 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 32 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 33 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 34 | [ENCA](http://twitter.com/search?q=ENCA) | N/A |
+| 35 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
+| 36 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
+| 37 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
+| 38 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
+| 39 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 40 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
+| 41 | [Marete](http://twitter.com/search?q=Marete) | N/A |
+| 42 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 43 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 44 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 45 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
+| 46 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 47 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
+| 48 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
+| 49 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 
 
 

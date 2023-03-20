@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-20 11:16:30 UTC`
+📆 Last Updated: `2023-03-20 12:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 2 | [Operación Calamar](http://twitter.com/search?q=Operaci%c3%b3n+Calamar) | N/A |
 | 3 | [#ElCambioSigue](http://twitter.com/search?q=%23ElCambioSigue) | N/A |
 | 4 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
-| 5 | [#MarchaMujeresFP](http://twitter.com/search?q=%23MarchaMujeresFP) | N/A |
-| 6 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 5 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 6 | [#MarchaMujeresFP](http://twitter.com/search?q=%23MarchaMujeresFP) | N/A |
 | 7 | [José Ramón Peralta](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+Peralta) | N/A |
-| 8 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
-| 9 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 10 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 8 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 9 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
+| 10 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 11 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 12 | [#EnLaMesaYaNoHayNa](http://twitter.com/search?q=%23EnLaMesaYaNoHayNa) | N/A |
+| 12 | [Ángel Lockward](http://twitter.com/search?q=%c3%81ngel+Lockward) | N/A |
 | 13 | [#yocreoenabinader](http://twitter.com/search?q=%23yocreoenabinader) | N/A |
-| 14 | [Ángel Lockward](http://twitter.com/search?q=%c3%81ngel+Lockward) | N/A |
+| 14 | [#EnLaMesaYaNoHayNa](http://twitter.com/search?q=%23EnLaMesaYaNoHayNa) | N/A |
 | 15 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 16 | [batalla del 19](http://twitter.com/search?q=batalla+del+19) | N/A |
-| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 18 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 20 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
-| 21 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 22 | [azua](http://twitter.com/search?q=azua) | N/A |
-| 23 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
-| 24 | [Pepca](http://twitter.com/search?q=Pepca) | N/A |
-| 25 | [Fulcar](http://twitter.com/search?q=Fulcar) | N/A |
+| 16 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 17 | [azua](http://twitter.com/search?q=azua) | N/A |
+| 18 | [batalla del 19](http://twitter.com/search?q=batalla+del+19) | N/A |
+| 19 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
+| 20 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 21 | [Pepca](http://twitter.com/search?q=Pepca) | N/A |
+| 22 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
+| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 24 | [Fulcar](http://twitter.com/search?q=Fulcar) | N/A |
+| 25 | [Procuraduría](http://twitter.com/search?q=Procuradur%c3%ada) | N/A |
 | 26 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 27 | [Procuraduría](http://twitter.com/search?q=Procuradur%c3%ada) | N/A |
-| 28 | [hipolito](http://twitter.com/search?q=hipolito) | N/A |
-| 29 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
-| 30 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 31 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 32 | [pedro santana](http://twitter.com/search?q=pedro+santana) | N/A |
-| 33 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 34 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
-| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 36 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 37 | [MIMILO](http://twitter.com/search?q=MIMILO) | N/A |
-| 38 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 39 | [junior lake](http://twitter.com/search?q=junior+lake) | N/A |
-| 40 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 41 | [Susana](http://twitter.com/search?q=Susana) | N/A |
-| 42 | [Circo](http://twitter.com/search?q=Circo) | N/A |
-| 43 | [Vete](http://twitter.com/search?q=Vete) | N/A |
-| 44 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 27 | [HIPOLITO](http://twitter.com/search?q=HIPOLITO) | N/A |
+| 28 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
+| 29 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 30 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 31 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 32 | [Jorge Blanco](http://twitter.com/search?q=Jorge+Blanco) | N/A |
+| 33 | [Huchi](http://twitter.com/search?q=Huchi) | N/A |
+| 34 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 35 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
+| 36 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 37 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 38 | [junior lake](http://twitter.com/search?q=junior+lake) | N/A |
+| 39 | [Circo](http://twitter.com/search?q=Circo) | N/A |
+| 40 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 41 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 42 | [Ito Bisonó](http://twitter.com/search?q=Ito+Bison%c3%b3) | N/A |
+| 43 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 44 | [Vete](http://twitter.com/search?q=Vete) | N/A |
 | 45 | [abraham almonte](http://twitter.com/search?q=abraham+almonte) | N/A |
-| 46 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 47 | [bulto](http://twitter.com/search?q=bulto) | N/A |
-| 48 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 49 | [Ito Bisonó](http://twitter.com/search?q=Ito+Bison%c3%b3) | N/A |
-| 50 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
+| 46 | [La Cumbre](http://twitter.com/search?q=La+Cumbre) | N/A |
+| 47 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 48 | [este 24 y 25](http://twitter.com/search?q=este+24+y+25) | N/A |
+| 49 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
+| 50 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
 
 
 

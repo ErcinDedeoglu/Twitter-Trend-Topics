@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-20 11:16:47 UTC`
+📆 Last Updated: `2023-03-20 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Prabowo PilihanIdeal Rakyat](http://twitter.com/search?q=Prabowo+PilihanIdeal+Rakyat) | N/A |
-| 2 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
-| 3 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
-| 4 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 5 | [Prabowo Lebih Pantas](http://twitter.com/search?q=Prabowo+Lebih+Pantas) | N/A |
-| 6 | [Prabowo Merakyat](http://twitter.com/search?q=Prabowo+Merakyat) | N/A |
-| 7 | [#SURABAYAPRIDE](http://twitter.com/search?q=%23SURABAYAPRIDE) | N/A |
-| 8 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 9 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
-| 10 | [Robi Darwis](http://twitter.com/search?q=Robi+Darwis) | N/A |
-| 11 | [Bobotoh](http://twitter.com/search?q=Bobotoh) | N/A |
-| 12 | [Takedown](http://twitter.com/search?q=Takedown) | N/A |
-| 13 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
-| 14 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 15 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 16 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
-| 17 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
-| 18 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 19 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 20 | [Riau](http://twitter.com/search?q=Riau) | N/A |
-| 21 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
-| 22 | [Garnier](http://twitter.com/search?q=Garnier) | N/A |
-| 23 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
-| 24 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
-| 25 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 26 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
-| 27 | [Biru](http://twitter.com/search?q=Biru) | N/A |
-| 28 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 29 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 30 | [Ancol](http://twitter.com/search?q=Ancol) | N/A |
-| 31 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
-| 32 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
-| 33 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 34 | [#NMIXX_LoveMeLikeThis](http://twitter.com/search?q=%23NMIXX_LoveMeLikeThis) | N/A |
-| 35 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 36 | [#JawabDel](http://twitter.com/search?q=%23JawabDel) | N/A |
-| 37 | [#TarhibRamadhanPerindo](http://twitter.com/search?q=%23TarhibRamadhanPerindo) | N/A |
-| 38 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
-| 39 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
-| 40 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
-| 41 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
-| 42 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
-| 43 | [#EXPÉRGO_OutToday](http://twitter.com/search?q=%23EXP%c3%89RGO_OutToday) | N/A |
-| 44 | [#KemenkumhamRI](http://twitter.com/search?q=%23KemenkumhamRI) | N/A |
+| 1 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
+| 2 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
+| 3 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
+| 4 | [Prabowo PilihanIdeal Rakyat](http://twitter.com/search?q=Prabowo+PilihanIdeal+Rakyat) | N/A |
+| 5 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
+| 6 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
+| 7 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 8 | [wohd](http://twitter.com/search?q=wohd) | N/A |
+| 9 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
+| 10 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 11 | [Prabowo Merakyat](http://twitter.com/search?q=Prabowo+Merakyat) | N/A |
+| 12 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
+| 13 | [Prabowo Lebih Pantas](http://twitter.com/search?q=Prabowo+Lebih+Pantas) | N/A |
+| 14 | [Takedown](http://twitter.com/search?q=Takedown) | N/A |
+| 15 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 16 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 17 | [Nadya Hutagalung](http://twitter.com/search?q=Nadya+Hutagalung) | N/A |
+| 18 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 19 | [unaa evos](http://twitter.com/search?q=unaa+evos) | N/A |
+| 20 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 21 | [Robi Darwis](http://twitter.com/search?q=Robi+Darwis) | N/A |
+| 22 | [STOP POSTING REAL TIME](http://twitter.com/search?q=STOP+POSTING+REAL+TIME) | N/A |
+| 23 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 24 | [ArtisanPro](http://twitter.com/search?q=ArtisanPro) | N/A |
+| 25 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
+| 26 | [BOBOTOH](http://twitter.com/search?q=BOBOTOH) | N/A |
+| 27 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
+| 28 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 29 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 30 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 31 | [BABAH](http://twitter.com/search?q=BABAH) | N/A |
+| 32 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
+| 33 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 34 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 35 | [garnier salicylic bha](http://twitter.com/search?q=garnier+salicylic+bha) | N/A |
+| 36 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
+| 37 | [Fajri](http://twitter.com/search?q=Fajri) | Fajri is an Arabic word meaning dawn or morning. It is often used to refer to the morning prayer, which is one of the five daily prayers that Muslims perform. |
+| 38 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
+| 39 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
+| 40 | [Gender](http://twitter.com/search?q=Gender) | N/A |
+| 41 | [NON TEUME](http://twitter.com/search?q=NON+TEUME) | N/A |
+| 42 | [BOBBY CHERRY BLOSSOM RELEASE](http://twitter.com/search?q=BOBBY+CHERRY+BLOSSOM+RELEASE) | N/A |
+| 43 | [solusi bersama](http://twitter.com/search?q=solusi+bersama) | N/A |
+| 44 | [Voile 5720](http://twitter.com/search?q=Voile+5720) | N/A |
+| 45 | [My Gosh](http://twitter.com/search?q=My+Gosh) | N/A |
+| 46 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
 
 
 

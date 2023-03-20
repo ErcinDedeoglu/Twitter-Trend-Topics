@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-20 11:16:57 UTC`
+📆 Last Updated: `2023-03-20 12:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 3 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 4 | [#AnnounceEnuguResult](http://twitter.com/search?q=%23AnnounceEnuguResult) | N/A |
-| 5 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 6 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 2 | [#AnnounceEnuguResult](http://twitter.com/search?q=%23AnnounceEnuguResult) | N/A |
+| 3 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 4 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
+| 5 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 6 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
 | 7 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 8 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
-| 9 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 10 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 11 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
+| 8 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
+| 9 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
+| 10 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
+| 11 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
 | 12 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 13 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
-| 14 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
+| 13 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
+| 14 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
 | 15 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 16 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 17 | [Gandollar](http://twitter.com/search?q=Gandollar) | N/A |
-| 18 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 19 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 20 | [Abba Kabir Yusuf](http://twitter.com/search?q=Abba+Kabir+Yusuf) | N/A |
-| 21 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 16 | [Gandollar](http://twitter.com/search?q=Gandollar) | N/A |
+| 17 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
+| 18 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 19 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
+| 20 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 21 | [Abba](http://twitter.com/search?q=Abba) | N/A |
 | 22 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
 | 23 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
-| 24 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
-| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 26 | [shola](http://twitter.com/search?q=shola) | N/A |
-| 27 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
-| 28 | [Lafia](http://twitter.com/search?q=Lafia) | N/A |
-| 29 | [Shining](http://twitter.com/search?q=Shining) | N/A |
-| 30 | [Kaura](http://twitter.com/search?q=Kaura) | N/A |
-| 31 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
-| 32 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 24 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 25 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 26 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
+| 27 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 28 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 29 | [Lafia](http://twitter.com/search?q=Lafia) | N/A |
+| 30 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 31 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
+| 32 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 33 | [Fufore](http://twitter.com/search?q=Fufore) | N/A |
-| 34 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 35 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
-| 36 | [Tife](http://twitter.com/search?q=Tife) | N/A |
-| 37 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 38 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
-| 39 | [Abia State](http://twitter.com/search?q=Abia+State) | N/A |
-| 40 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 41 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
-| 42 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 43 | [#yoruba](http://twitter.com/search?q=%23yoruba) | N/A |
-| 44 | [#Biafra](http://twitter.com/search?q=%23Biafra) | N/A |
-| 45 | [#freechude](http://twitter.com/search?q=%23freechude) | N/A |
+| 34 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
+| 35 | [Kaura](http://twitter.com/search?q=Kaura) | N/A |
+| 36 | [Plateau State](http://twitter.com/search?q=Plateau+State) | N/A |
+| 37 | [Tife](http://twitter.com/search?q=Tife) | N/A |
+| 38 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
+| 39 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 40 | [Bauchi](http://twitter.com/search?q=Bauchi) | N/A |
+| 41 | [Abians](http://twitter.com/search?q=Abians) | N/A |
+| 42 | [Abia State](http://twitter.com/search?q=Abia+State) | N/A |
+| 43 | [Fulanis](http://twitter.com/search?q=Fulanis) | N/A |
+| 44 | [Tribe](http://twitter.com/search?q=Tribe) | N/A |
+| 45 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 46 | [The Yorubas](http://twitter.com/search?q=The+Yorubas) | N/A |
+| 47 | [Gawuna](http://twitter.com/search?q=Gawuna) | N/A |
+| 48 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 49 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 50 | [#DeclareBinani](http://twitter.com/search?q=%23DeclareBinani) | N/A |
 
 
 
