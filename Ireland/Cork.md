@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-20 01:44:19 UTC`
+📆 Last Updated: `2023-03-20 02:37:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for [Ireland](</Ireland>)
 | 24 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
 | 25 | [Kildare](http://twitter.com/search?q=Kildare) | N/A |
 | 26 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 27 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 28 | [allianz hurling league](http://twitter.com/search?q=allianz+hurling+league) | N/A |
-| 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 30 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 31 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
-| 32 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 33 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 34 | [Laois](http://twitter.com/search?q=Laois) | N/A |
-| 35 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 36 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
-| 37 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 38 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 39 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
-| 40 | [mammies](http://twitter.com/search?q=mammies) | N/A |
+| 27 | [allianz hurling league](http://twitter.com/search?q=allianz+hurling+league) | N/A |
+| 28 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 29 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 30 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
+| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 33 | [Laois](http://twitter.com/search?q=Laois) | N/A |
+| 34 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 35 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
+| 36 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 37 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 38 | [Musgrave Park](http://twitter.com/search?q=Musgrave+Park) | N/A |
+| 39 | [mammies](http://twitter.com/search?q=mammies) | N/A |
+| 40 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 41 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 42 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 43 | [ballybofey](http://twitter.com/search?q=ballybofey) | N/A |
-| 44 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 45 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
-| 48 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 49 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 50 | [Dan Sheehan](http://twitter.com/search?q=Dan+Sheehan) | N/A |
+| 42 | [ballybofey](http://twitter.com/search?q=ballybofey) | N/A |
+| 43 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 44 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 47 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 48 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 49 | [Dan Sheehan](http://twitter.com/search?q=Dan+Sheehan) | N/A |
+| 50 | [Castore](http://twitter.com/search?q=Castore) | N/A |
 
 
 

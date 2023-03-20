@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-20 01:45:08 UTC`
+📆 Last Updated: `2023-03-20 02:38:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 3 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 4 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 5 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 6 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 7 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
-| 8 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 9 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 10 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 11 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 12 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 13 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 14 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 15 | [Pato Fu](http://twitter.com/search?q=Pato+Fu) | N/A |
-| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 17 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 18 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 20 | [Eguinaldo](http://twitter.com/search?q=Eguinaldo) | N/A |
-| 21 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 22 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
-| 23 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 24 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 25 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
-| 26 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 27 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 28 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
-| 29 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
-| 30 | [Cazé](http://twitter.com/search?q=Caz%c3%a9) | N/A |
-| 31 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 32 | [D'Alessandro](http://twitter.com/search?q=D%27Alessandro) | N/A |
-| 33 | [Murilo](http://twitter.com/search?q=Murilo) | N/A |
-| 34 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 35 | [#mesaredonda](http://twitter.com/search?q=%23mesaredonda) | N/A |
-| 36 | [VAI TOMAR NO CU VASCO](http://twitter.com/search?q=VAI+TOMAR+NO+CU+VASCO) | N/A |
-| 37 | [#FLAxVAS](http://twitter.com/search?q=%23FLAxVAS) | N/A |
-| 38 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 39 | [Fernanda Takai](http://twitter.com/search?q=Fernanda+Takai) | N/A |
-| 40 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 41 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
-| 42 | [Grupo C](http://twitter.com/search?q=Grupo+C) | N/A |
-| 43 | [kevi jonny](http://twitter.com/search?q=kevi+jonny) | N/A |
-| 44 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 45 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 46 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 47 | [PEDRO GUILHERME](http://twitter.com/search?q=PEDRO+GUILHERME) | PEDRO GUILHERME is a Portuguese name. It is composed of two given names, Pedro and Guilherme. In English, it would be Peter William. |
-| 48 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 49 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 50 | [Fla x Flu](http://twitter.com/search?q=Fla+x+Flu) | N/A |
+| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 3 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 4 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 5 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 6 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 7 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 8 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 9 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 10 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 11 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 12 | [VAI TER REPESCAGEM](http://twitter.com/search?q=VAI+TER+REPESCAGEM) | N/A |
+| 13 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
+| 14 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
+| 15 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
+| 16 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 17 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 18 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
+| 19 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 20 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 21 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 22 | [Pato Fu](http://twitter.com/search?q=Pato+Fu) | N/A |
+| 23 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
+| 24 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 25 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 26 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
+| 27 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 28 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
+| 31 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 32 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 34 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 35 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 36 | [Larissa e Key](http://twitter.com/search?q=Larissa+e+Key) | N/A |
+| 37 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 38 | [Eguinaldo](http://twitter.com/search?q=Eguinaldo) | N/A |
+| 39 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
+| 40 | [Volta Larissa](http://twitter.com/search?q=Volta+Larissa) | N/A |
+| 41 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
+| 42 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
+| 43 | [Paulete](http://twitter.com/search?q=Paulete) | N/A |
+| 44 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 45 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
+| 46 | [#mesaredonda](http://twitter.com/search?q=%23mesaredonda) | N/A |
+| 47 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
+| 48 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 49 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 50 | [Manuela Xavier](http://twitter.com/search?q=Manuela+Xavier) | N/A |
 
 
 

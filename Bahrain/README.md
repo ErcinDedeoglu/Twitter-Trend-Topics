@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-20 01:45:08 UTC`
+📆 Last Updated: `2023-03-20 02:38:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,8 +40,8 @@ This is top 50 for Bahrain
 | 23 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
 | 24 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
 | 25 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
-| 26 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 27 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 26 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 27 | [للنصر](http://twitter.com/search?q=%d9%84%d9%84%d9%86%d8%b5%d8%b1) | للنصر is an Arabic phrase that translates to "for victory" in English. It is often used as a rallying cry or slogan for a cause or movement. |
 | 28 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 29 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 30 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
@@ -50,21 +50,21 @@ This is top 50 for Bahrain
 | 33 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
 | 34 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
 | 35 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
-| 36 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 37 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 38 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
-| 39 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 40 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |
-| 41 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
-| 42 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 43 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 44 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 45 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 46 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
-| 47 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 48 | [علي الخير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 49 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 50 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 36 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 37 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 38 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 39 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
+| 40 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 41 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |
+| 42 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
+| 43 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 44 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 45 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
+| 46 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 47 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
+| 48 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 49 | [علي الخير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 50 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 
 
 

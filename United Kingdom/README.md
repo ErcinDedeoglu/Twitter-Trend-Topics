@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-20 01:45:16 UTC`
+📆 Last Updated: `2023-03-20 02:38:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
-| 2 | [#loveislandreunion](http://twitter.com/search?q=%23loveislandreunion) | N/A |
-| 3 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 4 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 5 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 6 | [#forgotten80s](http://twitter.com/search?q=%23forgotten80s) | N/A |
-| 7 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 10 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
-| 11 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 12 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 13 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 16 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 17 | [Ramona](http://twitter.com/search?q=Ramona) | N/A |
-| 18 | [Sophie Corcoran](http://twitter.com/search?q=Sophie+Corcoran) | N/A |
-| 19 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 20 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 21 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 22 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 24 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 28 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 29 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 31 | [Jacques](http://twitter.com/search?q=Jacques) | N/A |
+| 1 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 2 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 3 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 4 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 5 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 6 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 7 | [#MUNFUL](http://twitter.com/search?q=%23MUNFUL) | N/A |
+| 8 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 9 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 10 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 11 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
+| 16 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 17 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 18 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 20 | [Tommy Doyle](http://twitter.com/search?q=Tommy+Doyle) | N/A |
+| 21 | [Usman](http://twitter.com/search?q=Usman) | N/A |
+| 22 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 23 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
+| 24 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 25 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 26 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 27 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 28 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 29 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 30 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 31 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
 | 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 33 | [Ocon](http://twitter.com/search?q=Ocon) | N/A |
-| 34 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 35 | [Bumping](http://twitter.com/search?q=Bumping) | N/A |
-| 36 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 37 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 38 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 39 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 40 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
-| 41 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 42 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 43 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 44 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
-| 45 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 46 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 47 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 48 | [FBPE](http://twitter.com/search?q=FBPE) | N/A |
-| 49 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 50 | [George Russell](http://twitter.com/search?q=George+Russell) | N/A |
+| 33 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 35 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 37 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 38 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 39 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 40 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 41 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 42 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 43 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 44 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
+| 45 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 46 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 47 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 48 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 49 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 50 | [McAtee](http://twitter.com/search?q=McAtee) | N/A |
 
 
 

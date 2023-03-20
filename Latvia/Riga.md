@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-20 01:44:27 UTC`
+📆 Last Updated: `2023-03-20 02:38:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -58,11 +58,11 @@ This is top 50 for [Latvia](</Latvia>)
 | 41 | [polijas](http://twitter.com/search?q=polijas) | N/A |
 | 42 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 | 43 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 44 | [nevar](http://twitter.com/search?q=nevar) | N/A |
+| 44 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
 | 45 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
 | 46 | [agrāk](http://twitter.com/search?q=agr%c4%81k) | N/A |
 | 47 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |
-| 48 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 48 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 49 | [biju](http://twitter.com/search?q=biju) | N/A |
 | 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 

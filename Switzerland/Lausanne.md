@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-20 01:44:27 UTC`
+📆 Last Updated: `2023-03-20 02:38:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,15 +23,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
 | 7 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
 | 8 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 9 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 10 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 9 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 10 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 12 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 13 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 14 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 15 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
 | 16 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 17 | [Medienkonferenz](http://twitter.com/search?q=Medienkonferenz) | N/A |
+| 17 | [medienkonferenz](http://twitter.com/search?q=medienkonferenz) | N/A |
 | 18 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
 | 19 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
 | 20 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |

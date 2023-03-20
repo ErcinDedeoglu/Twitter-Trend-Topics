@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-20 01:45:04 UTC`
+📆 Last Updated: `2023-03-20 02:38:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 2 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
-| 3 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 5 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 6 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 7 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 8 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 9 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
-| 10 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 11 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 12 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 13 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 14 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 15 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 16 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 17 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 18 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 19 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 20 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 21 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 22 | [The Lions](http://twitter.com/search?q=The+Lions) | N/A |
-| 23 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 24 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 25 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 26 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 27 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 28 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 29 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
-| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 31 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 32 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 33 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 34 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
-| 35 | [Jesper Bratt](http://twitter.com/search?q=Jesper+Bratt) | N/A |
-| 36 | [Nolan Foote](http://twitter.com/search?q=Nolan+Foote) | N/A |
-| 37 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 38 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 39 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
-| 40 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 41 | [Go White](http://twitter.com/search?q=Go+White) | N/A |
-| 42 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
-| 43 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 44 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 45 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 46 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 47 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
-| 48 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 49 | [Chauncey Gardner](http://twitter.com/search?q=Chauncey+Gardner) | N/A |
+| 3 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 4 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 5 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 6 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 7 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 8 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 9 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 10 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 11 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 12 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 13 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 14 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 15 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 16 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
+| 17 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 18 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 20 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 21 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 22 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 23 | [Demetre Roberts](http://twitter.com/search?q=Demetre+Roberts) | N/A |
+| 24 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 25 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 27 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 28 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 29 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
+| 30 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
+| 31 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 32 | [Byard](http://twitter.com/search?q=Byard) | N/A |
+| 33 | [Brian Branch](http://twitter.com/search?q=Brian+Branch) | N/A |
+| 34 | [Mack Hollins](http://twitter.com/search?q=Mack+Hollins) | N/A |
+| 35 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 36 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
+| 37 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 38 | [Kopp](http://twitter.com/search?q=Kopp) | N/A |
+| 39 | [Coko](http://twitter.com/search?q=Coko) | N/A |
+| 40 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
+| 41 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 42 | [Galloway](http://twitter.com/search?q=Galloway) | N/A |
+| 43 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 44 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
+| 45 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 46 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 47 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 48 | [Jesper Bratt](http://twitter.com/search?q=Jesper+Bratt) | N/A |
+| 49 | [C.J. Gardner-Johnson](http://twitter.com/search?q=C.J.+Gardner-Johnson) | N/A |
 
 
 

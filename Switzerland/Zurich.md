@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-20 01:44:27 UTC`
+📆 Last Updated: `2023-03-20 02:38:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,17 +21,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
 | 5 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
 | 6 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
-| 7 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 7 | [aktionäre](http://twitter.com/search?q=aktion%c3%a4re) | N/A |
 | 8 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 9 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 10 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 9 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 10 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 12 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
 | 13 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 14 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 15 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
 | 16 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 17 | [Medienkonferenz](http://twitter.com/search?q=Medienkonferenz) | N/A |
+| 17 | [medienkonferenz](http://twitter.com/search?q=medienkonferenz) | N/A |
 | 18 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
 | 19 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
 | 20 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
 | 43 | [Verantwortlichen](http://twitter.com/search?q=Verantwortlichen) | N/A |
 | 44 | [Saudis](http://twitter.com/search?q=Saudis) | Saudis is a term used to refer to people from Saudi Arabia, a country in the Middle East. It is derived from the name of the ruling royal family, the House of Saud. |
-| 45 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
+| 45 | [konkurs](http://twitter.com/search?q=konkurs) | N/A |
 | 46 | [Liquidität](http://twitter.com/search?q=Liquidit%c3%a4t) | N/A |
 | 47 | [Missmanagement](http://twitter.com/search?q=Missmanagement) | N/A |
 | 48 | [ubs die cs](http://twitter.com/search?q=ubs+die+cs) | N/A |

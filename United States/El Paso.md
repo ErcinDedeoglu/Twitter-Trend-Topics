@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-20 01:44:58 UTC`
+📆 Last Updated: `2023-03-20 02:38:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
-| 2 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 3 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 4 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 5 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
-| 6 | [#PorVida](http://twitter.com/search?q=%23PorVida) | N/A |
-| 7 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
-| 8 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 9 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 10 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 11 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 12 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 13 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 14 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 15 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
-| 16 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 17 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 18 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
-| 19 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 22 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 23 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 24 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 25 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 26 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 27 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 28 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 29 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 30 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 31 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 32 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 33 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 34 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
-| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 36 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
-| 37 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 38 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 39 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
-| 40 | [Nolan Foote](http://twitter.com/search?q=Nolan+Foote) | N/A |
-| 41 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 42 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 43 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
-| 44 | [Go White](http://twitter.com/search?q=Go+White) | N/A |
-| 45 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 46 | [Jesper Bratt](http://twitter.com/search?q=Jesper+Bratt) | N/A |
-| 47 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 48 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
-| 49 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 1 | [#hornsforward](http://twitter.com/search?q=%23hornsforward) | N/A |
+| 2 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 3 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 4 | [#SicEm](http://twitter.com/search?q=%23SicEm) | N/A |
+| 5 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 6 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 8 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 9 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 10 | [#PorVida](http://twitter.com/search?q=%23PorVida) | N/A |
+| 11 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
+| 12 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 13 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 16 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 17 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 18 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 19 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 20 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 21 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 22 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 23 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 24 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 25 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 26 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
+| 27 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 28 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 29 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 30 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 31 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 32 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 33 | [Demetre Roberts](http://twitter.com/search?q=Demetre+Roberts) | N/A |
+| 34 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 35 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 36 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 37 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 38 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 39 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
+| 40 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 41 | [Byard](http://twitter.com/search?q=Byard) | N/A |
+| 42 | [Brian Branch](http://twitter.com/search?q=Brian+Branch) | N/A |
+| 43 | [Mack Hollins](http://twitter.com/search?q=Mack+Hollins) | N/A |
+| 44 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 45 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
+| 46 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 47 | [Coko](http://twitter.com/search?q=Coko) | N/A |
+| 48 | [Kopp](http://twitter.com/search?q=Kopp) | N/A |
+| 49 | [Alijah Martin](http://twitter.com/search?q=Alijah+Martin) | N/A |
 
 
 

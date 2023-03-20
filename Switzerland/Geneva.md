@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-20 01:44:27 UTC`
+📆 Last Updated: `2023-03-20 02:38:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 12 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 13 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
 | 14 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 15 | [Medienkonferenz](http://twitter.com/search?q=Medienkonferenz) | N/A |
+| 15 | [medienkonferenz](http://twitter.com/search?q=medienkonferenz) | N/A |
 | 16 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
 | 17 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
 | 18 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |

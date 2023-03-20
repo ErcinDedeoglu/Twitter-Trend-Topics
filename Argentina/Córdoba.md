@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-20 01:44:17 UTC`
+📆 Last Updated: `2023-03-20 02:37:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [#Talleres](http://twitter.com/search?q=%23Talleres) | N/A |
 | 2 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 3 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
-| 4 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 5 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 6 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 7 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 8 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 9 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 10 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 11 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 12 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
-| 13 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 14 | [Baliño](http://twitter.com/search?q=Bali%c3%b1o) | N/A |
-| 15 | [MARCOS NUESTRO FINALISTA](http://twitter.com/search?q=MARCOS+NUESTRO+FINALISTA) | N/A |
-| 16 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 17 | [Payero](http://twitter.com/search?q=Payero) | N/A |
-| 18 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
-| 19 | [La Falda](http://twitter.com/search?q=La+Falda) | N/A |
-| 20 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 21 | [maria becerra](http://twitter.com/search?q=maria+becerra) | N/A |
-| 22 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
-| 23 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 24 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 25 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
-| 26 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 27 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 28 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 29 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 30 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 31 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 32 | [Lucas Beltrán](http://twitter.com/search?q=Lucas+Beltr%c3%a1n) | N/A |
-| 33 | [Vazquez](http://twitter.com/search?q=Vazquez) | Vazquez is a Spanish surname. It is derived from the Latin name Vasco, which means "Basque". In English, it can be translated to mean "son of Basque". |
-| 34 | [Casero](http://twitter.com/search?q=Casero) | N/A |
-| 35 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
-| 36 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 37 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 38 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
-| 39 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 40 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 41 | [Perdió Boca](http://twitter.com/search?q=Perdi%c3%b3+Boca) | N/A |
-| 42 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 43 | [Penalazo](http://twitter.com/search?q=Penalazo) | N/A |
-| 44 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
-| 45 | [#SoloUnaVueltaMas](http://twitter.com/search?q=%23SoloUnaVueltaMas) | N/A |
-| 46 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 47 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 48 | [#Pasapalabra](http://twitter.com/search?q=%23Pasapalabra) | N/A |
-| 49 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 3 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 4 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 5 | [#GH23](http://twitter.com/search?q=%23GH23) | #GH23 is a hashtag used to refer to the 23rd edition of the Ghana Music Awards, an annual awards ceremony that celebrates the best in Ghanaian music. |
+| 6 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 7 | [Latorre](http://twitter.com/search?q=Latorre) | N/A |
+| 8 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
+| 9 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 10 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 11 | [MARCOS NUESTRO FINALISTA](http://twitter.com/search?q=MARCOS+NUESTRO+FINALISTA) | N/A |
+| 12 | [NACHO A LA FINAL](http://twitter.com/search?q=NACHO+A+LA+FINAL) | N/A |
+| 13 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 14 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 15 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 16 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 17 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 18 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 19 | [ROMINA AL 9009](http://twitter.com/search?q=ROMINA+AL+9009) | N/A |
+| 20 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 21 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
+| 22 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 23 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 24 | [Ginocchio](http://twitter.com/search?q=Ginocchio) | N/A |
+| 25 | [Melano](http://twitter.com/search?q=Melano) | N/A |
+| 26 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 27 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 28 | [Matias Suarez](http://twitter.com/search?q=Matias+Suarez) | N/A |
+| 29 | [#CHAUROMINA](http://twitter.com/search?q=%23CHAUROMINA) | N/A |
+| 30 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 31 | [La Falda](http://twitter.com/search?q=La+Falda) | N/A |
+| 32 | [Baliño](http://twitter.com/search?q=Bali%c3%b1o) | N/A |
+| 33 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 34 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
+| 35 | [maria becerra](http://twitter.com/search?q=maria+becerra) | N/A |
+| 36 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 37 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 38 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 39 | [#GH2002](http://twitter.com/search?q=%23GH2002) | N/A |
+| 40 | [GRAN ARMADO](http://twitter.com/search?q=GRAN+ARMADO) | N/A |
+| 41 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 42 | [QUE SE VACHA](http://twitter.com/search?q=QUE+SE+VACHA) | N/A |
+| 43 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 44 | [Perdió Boca](http://twitter.com/search?q=Perdi%c3%b3+Boca) | N/A |
+| 45 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 46 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 47 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 48 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 49 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 50 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
 
 
 

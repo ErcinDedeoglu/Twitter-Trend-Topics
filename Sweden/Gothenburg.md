@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-20 01:44:28 UTC`
+📆 Last Updated: `2023-03-20 02:38:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,17 +22,17 @@ This is top 50 for [Sweden](</Sweden>)
 | 5 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 6 | [charlotte kalla](http://twitter.com/search?q=charlotte+kalla) | N/A |
 | 7 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
-| 8 | [Frycklund](http://twitter.com/search?q=Frycklund) | N/A |
-| 9 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 10 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 11 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 8 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 9 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 10 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 11 | [Frycklund](http://twitter.com/search?q=Frycklund) | N/A |
 | 12 | [Maldiverna](http://twitter.com/search?q=Maldiverna) | N/A |
-| 13 | [vaniljsås](http://twitter.com/search?q=vaniljs%c3%a5s) | N/A |
-| 14 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 16 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 17 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
-| 18 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 13 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 16 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
+| 17 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 18 | [Vaniljsås](http://twitter.com/search?q=Vaniljs%c3%a5s) | N/A |
 | 19 | [kodjo](http://twitter.com/search?q=kodjo) | N/A |
 | 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 21 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
@@ -56,8 +56,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 39 | [mitell](http://twitter.com/search?q=mitell) | N/A |
 | 40 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
 | 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
-| 43 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 42 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
+| 43 | [frölunda](http://twitter.com/search?q=fr%c3%b6lunda) | N/A |
 | 44 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
 | 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 46 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
