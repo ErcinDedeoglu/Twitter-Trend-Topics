@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-20 07:16:49 UTC`
+📆 Last Updated: `2023-03-20 08:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Prabowo PilihanIdeal Rakyat](http://twitter.com/search?q=Prabowo+PilihanIdeal+Rakyat) | N/A |
-| 2 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
-| 3 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
-| 4 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 5 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
-| 6 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 7 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
-| 8 | [#KonsultasiGigiSekarang](http://twitter.com/search?q=%23KonsultasiGigiSekarang) | N/A |
+| 2 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
+| 3 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
+| 4 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
+| 5 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 6 | [#TarhibRamadhanPerindo](http://twitter.com/search?q=%23TarhibRamadhanPerindo) | N/A |
+| 7 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
+| 8 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
 | 9 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
 | 10 | [WOHD](http://twitter.com/search?q=WOHD) | N/A |
-| 11 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 11 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
 | 12 | [Solusi Bersama](http://twitter.com/search?q=Solusi+Bersama) | N/A |
 | 13 | [Garnier Salicylic BHA](http://twitter.com/search?q=Garnier+Salicylic+BHA) | N/A |
-| 14 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
-| 15 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 16 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
-| 17 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 18 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
-| 19 | [Pemalang](http://twitter.com/search?q=Pemalang) | N/A |
-| 20 | [Kecelakaan](http://twitter.com/search?q=Kecelakaan) | N/A |
-| 21 | [Rest in Love](http://twitter.com/search?q=Rest+in+Love) | N/A |
+| 14 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 15 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 16 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
+| 17 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 18 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
+| 19 | [Sragen](http://twitter.com/search?q=Sragen) | N/A |
+| 20 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
+| 21 | [Ancol](http://twitter.com/search?q=Ancol) | N/A |
 | 22 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 23 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 24 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 25 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 26 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
-| 27 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
-| 28 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
-| 29 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 30 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
-| 31 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 32 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
-| 33 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 34 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 35 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
-| 36 | [#SarasehanAsprov](http://twitter.com/search?q=%23SarasehanAsprov) | N/A |
-| 37 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
-| 38 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
-| 39 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
-| 40 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
-| 41 | [#27thFarhanUN1TY](http://twitter.com/search?q=%2327thFarhanUN1TY) | N/A |
-| 42 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
-| 43 | [#KawaiRuka21Birthday](http://twitter.com/search?q=%23KawaiRuka21Birthday) | N/A |
-| 44 | [#お誕生日おめ河井瑠花](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e6%b2%b3%e4%ba%95%e7%91%a0%e8%8a%b1) | N/A |
-| 45 | [#우리_힙합_맏내_루카_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ed%9e%99%ed%95%a9_%eb%a7%8f%eb%82%b4_%eb%a3%a8%ec%b9%b4_%eb%8d%b0%ec%9d%b4) | N/A |
+| 23 | [Pemalang](http://twitter.com/search?q=Pemalang) | N/A |
+| 24 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
+| 25 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 26 | [Kecelakaan](http://twitter.com/search?q=Kecelakaan) | N/A |
+| 27 | [Desa Menghijaukan Dunia](http://twitter.com/search?q=Desa+Menghijaukan+Dunia) | N/A |
+| 28 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
+| 29 | [Riau](http://twitter.com/search?q=Riau) | N/A |
+| 30 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 31 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 32 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 33 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 34 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 35 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
+| 36 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 37 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
+| 38 | [#KonsultasiGigiSekarang](http://twitter.com/search?q=%23KonsultasiGigiSekarang) | N/A |
+| 39 | [#SarasehanAsprov](http://twitter.com/search?q=%23SarasehanAsprov) | N/A |
+| 40 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
+| 41 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
+| 42 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
+| 43 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
+| 44 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
+| 45 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
+| 46 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
 
 
 

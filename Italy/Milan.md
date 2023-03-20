@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-20 07:16:45 UTC`
+📆 Last Updated: `2023-03-20 08:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Italy](</Italy>)
 | 8 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
 | 9 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
 | 10 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 11 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 12 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 13 | [Il 20](http://twitter.com/search?q=Il+20) | N/A |
-| 14 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 15 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 16 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 11 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 12 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 13 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 14 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 15 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 16 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
 | 17 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 18 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 19 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 20 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 21 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
-| 22 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 23 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 24 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
-| 28 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
-| 29 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 30 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
-| 31 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 32 | [soulé](http://twitter.com/search?q=soul%c3%a9) | N/A |
-| 33 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 34 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 35 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 36 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
-| 37 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 38 | [Dory](http://twitter.com/search?q=Dory) | N/A |
-| 39 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 40 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 41 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 42 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
-| 43 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 44 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 45 | [Nardella](http://twitter.com/search?q=Nardella) | N/A |
-| 46 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 47 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
-| 48 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 49 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 50 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 18 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 19 | [Il 20](http://twitter.com/search?q=Il+20) | N/A |
+| 20 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 21 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
+| 26 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
+| 27 | [Gerardina](http://twitter.com/search?q=Gerardina) | N/A |
+| 28 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 29 | [Buongiorno Rossy](http://twitter.com/search?q=Buongiorno+Rossy) | N/A |
+| 30 | [Soulé](http://twitter.com/search?q=Soul%c3%a9) | Soulé is a French word that means “soulful” or “full of soul.” It is used to describe something that has a deep emotional connection or resonance. It can also be used to describe music, art, or other creative works that evoke strong feelings and emotions. |
+| 31 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 32 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
+| 33 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 34 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 35 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 36 | [D'ambrosio](http://twitter.com/search?q=D%27ambrosio) | N/A |
+| 37 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 38 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 39 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
+| 40 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 41 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
+| 42 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 43 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 44 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 45 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
+| 46 | [Vendola](http://twitter.com/search?q=Vendola) | N/A |
+| 47 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 48 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
+| 49 | [Il Var](http://twitter.com/search?q=Il+Var) | N/A |
+| 50 | [Buongiorno Maurizio](http://twitter.com/search?q=Buongiorno+Maurizio) | N/A |
 
 
 

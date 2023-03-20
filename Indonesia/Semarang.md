@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-20 07:16:50 UTC`
+📆 Last Updated: `2023-03-20 08:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Prabowo PilihanIdeal Rakyat](http://twitter.com/search?q=Prabowo+PilihanIdeal+Rakyat) | N/A |
-| 2 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
-| 3 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
-| 4 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 5 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
-| 6 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 7 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
-| 8 | [#KonsultasiGigiSekarang](http://twitter.com/search?q=%23KonsultasiGigiSekarang) | N/A |
-| 9 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
-| 10 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
-| 11 | [WOHD](http://twitter.com/search?q=WOHD) | N/A |
-| 12 | [#SarasehanAsprov](http://twitter.com/search?q=%23SarasehanAsprov) | N/A |
-| 13 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 14 | [Solusi Bersama](http://twitter.com/search?q=Solusi+Bersama) | N/A |
-| 15 | [Garnier Salicylic BHA](http://twitter.com/search?q=Garnier+Salicylic+BHA) | N/A |
-| 16 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
-| 17 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
-| 18 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 19 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
-| 20 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 21 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
-| 22 | [Pemalang](http://twitter.com/search?q=Pemalang) | N/A |
-| 23 | [Kecelakaan](http://twitter.com/search?q=Kecelakaan) | N/A |
-| 24 | [Rest in Love](http://twitter.com/search?q=Rest+in+Love) | N/A |
+| 2 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
+| 3 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
+| 4 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
+| 5 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 6 | [#TarhibRamadhanPerindo](http://twitter.com/search?q=%23TarhibRamadhanPerindo) | N/A |
+| 7 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
+| 8 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
+| 9 | [#KonsultasiGigiSekarang](http://twitter.com/search?q=%23KonsultasiGigiSekarang) | N/A |
+| 10 | [#SarasehanAsprov](http://twitter.com/search?q=%23SarasehanAsprov) | N/A |
+| 11 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
+| 12 | [WOHD](http://twitter.com/search?q=WOHD) | N/A |
+| 13 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
+| 14 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 15 | [Solusi Bersama](http://twitter.com/search?q=Solusi+Bersama) | N/A |
+| 16 | [Garnier Salicylic BHA](http://twitter.com/search?q=Garnier+Salicylic+BHA) | N/A |
+| 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 18 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 19 | [Kapal](http://twitter.com/search?q=Kapal) | N/A |
+| 20 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 21 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
+| 22 | [Sragen](http://twitter.com/search?q=Sragen) | N/A |
+| 23 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
+| 24 | [Ancol](http://twitter.com/search?q=Ancol) | N/A |
 | 25 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 26 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 27 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 29 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
-| 30 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
-| 31 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
-| 32 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 33 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
-| 34 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 35 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
-| 36 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 37 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
-| 38 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
-| 39 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
-| 40 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
-| 41 | [#27thFarhanUN1TY](http://twitter.com/search?q=%2327thFarhanUN1TY) | N/A |
-| 42 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
-| 43 | [#KawaiRuka21Birthday](http://twitter.com/search?q=%23KawaiRuka21Birthday) | N/A |
-| 44 | [#お誕生日おめ河井瑠花](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e6%b2%b3%e4%ba%95%e7%91%a0%e8%8a%b1) | N/A |
-| 45 | [#우리_힙합_맏내_루카_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ed%9e%99%ed%95%a9_%eb%a7%8f%eb%82%b4_%eb%a3%a8%ec%b9%b4_%eb%8d%b0%ec%9d%b4) | N/A |
+| 26 | [Pemalang](http://twitter.com/search?q=Pemalang) | N/A |
+| 27 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
+| 28 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 29 | [Kecelakaan](http://twitter.com/search?q=Kecelakaan) | N/A |
+| 30 | [Desa Menghijaukan Dunia](http://twitter.com/search?q=Desa+Menghijaukan+Dunia) | N/A |
+| 31 | [Al Fatihah](http://twitter.com/search?q=Al+Fatihah) | N/A |
+| 32 | [Riau](http://twitter.com/search?q=Riau) | N/A |
+| 33 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 34 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 35 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 36 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 37 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 38 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
+| 39 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 40 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
+| 41 | [#GiveawayPustakaAkung](http://twitter.com/search?q=%23GiveawayPustakaAkung) | N/A |
+| 42 | [#1Buku1Hari](http://twitter.com/search?q=%231Buku1Hari) | N/A |
+| 43 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
+| 44 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
+| 45 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
+| 46 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
+| 47 | [#27thFarhanUN1TY](http://twitter.com/search?q=%2327thFarhanUN1TY) | N/A |
+| 48 | [#KawaiRuka21Birthday](http://twitter.com/search?q=%23KawaiRuka21Birthday) | N/A |
+| 49 | [#お誕生日おめ河井瑠花](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e6%b2%b3%e4%ba%95%e7%91%a0%e8%8a%b1) | N/A |
 
 
 

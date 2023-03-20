@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-20 07:16:57 UTC`
+📆 Last Updated: `2023-03-20 08:19:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Thailand](</Thailand>)
 | 5 | [#ALevel66](http://twitter.com/search?q=%23ALevel66) | N/A |
 | 6 | [Hard Carry](http://twitter.com/search?q=Hard+Carry) | N/A |
 | 7 | [HBD PERTH](http://twitter.com/search?q=HBD+PERTH) | N/A |
-| 8 | [tenlee sam bai dee bor](http://twitter.com/search?q=tenlee+sam+bai+dee+bor) | N/A |
-| 9 | [bobby - cherry blossom mv](http://twitter.com/search?q=bobby+-+cherry+blossom+mv) | N/A |
-| 10 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 11 | [laneige welcome home](http://twitter.com/search?q=laneige+welcome+home) | N/A |
-| 12 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 13 | [Cs-137](http://twitter.com/search?q=Cs-137) | N/A |
-| 14 | [bambam in kcon2023](http://twitter.com/search?q=bambam+in+kcon2023) | N/A |
-| 15 | [BAMBAM GM 20MARCH](http://twitter.com/search?q=BAMBAM+GM+20MARCH) | N/A |
-| 16 | [JOYFUL DAY20 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY20+TO+ENGFA) | N/A |
-| 17 | [Cesium-137](http://twitter.com/search?q=Cesium-137) | N/A |
-| 18 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
-| 19 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 20 | [JAM X THAILANDPOST](http://twitter.com/search?q=JAM+X+THAILANDPOST) | N/A |
-| 21 | [MARCH20 HAS CHARLOTTE](http://twitter.com/search?q=MARCH20+HAS+CHARLOTTE) | N/A |
-| 22 | [LOVE IS PECK](http://twitter.com/search?q=LOVE+IS+PECK) | N/A |
-| 23 | [20 Morning Dunk](http://twitter.com/search?q=20+Morning+Dunk) | N/A |
-| 24 | [2 Baddies MV Road to 100 M](http://twitter.com/search?q=2+Baddies+MV+Road+to+100+M) | N/A |
+| 8 | [bobby - cherry blossom mv](http://twitter.com/search?q=bobby+-+cherry+blossom+mv) | N/A |
+| 9 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 10 | [Cs-137](http://twitter.com/search?q=Cs-137) | N/A |
+| 11 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 12 | [bambam gm 20march](http://twitter.com/search?q=bambam+gm+20march) | N/A |
+| 13 | [JOYFUL DAY20 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY20+TO+ENGFA) | N/A |
+| 14 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 15 | [Cesium-137](http://twitter.com/search?q=Cesium-137) | N/A |
+| 16 | [LOVE IS PECK](http://twitter.com/search?q=LOVE+IS+PECK) | N/A |
+| 17 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 18 | [MARCH20 HAS CHARLOTTE](http://twitter.com/search?q=MARCH20+HAS+CHARLOTTE) | N/A |
+| 19 | [20 morning dunk](http://twitter.com/search?q=20+morning+dunk) | N/A |
+| 20 | [2 Baddies MV Road to 100 M](http://twitter.com/search?q=2+Baddies+MV+Road+to+100+M) | N/A |
+| 21 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
+| 22 | [PM 2.5](http://twitter.com/search?q=PM+2.5) | N/A |
+| 23 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
+| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [PM 2.5](http://twitter.com/search?q=PM+2.5) | N/A |
-| 27 | [NESA IN NEW LIGHT20](http://twitter.com/search?q=NESA+IN+NEW+LIGHT20) | N/A |
-| 28 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
-| 29 | [#4NOLOGUExLDH](http://twitter.com/search?q=%234NOLOGUExLDH) | N/A |
+| 26 | [Iqiyi Gold](http://twitter.com/search?q=Iqiyi+Gold) | N/A |
+| 27 | [Full HD](http://twitter.com/search?q=Full+HD) | N/A |
+| 28 | [#ยุบสภา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b8%e0%b8%9a%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
+| 29 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
 | 30 | [#BAMBAMKCON2023TH_D2](http://twitter.com/search?q=%23BAMBAMKCON2023TH_D2) | N/A |
-| 31 | [#GMMTVหยุดเอาเปรียบผู้บริโภค](http://twitter.com/search?q=%23GMMTV%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%82%e0%b8%a0%e0%b8%84) | N/A |
-| 32 | [#KCON2023THAILAND](http://twitter.com/search?q=%23KCON2023THAILAND) | N/A |
-| 33 | [#GetWellSoonKUN](http://twitter.com/search?q=%23GetWellSoonKUN) | N/A |
-| 34 | [#bearbearyxcharlotte](http://twitter.com/search?q=%23bearbearyxcharlotte) | N/A |
-| 35 | [#DaddyMeenIG800K](http://twitter.com/search?q=%23DaddyMeenIG800K) | N/A |
-| 36 | [#คนใหม่เขาดูแลอยู่](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88) | N/A |
+| 31 | [#4NOLOGUExLDH](http://twitter.com/search?q=%234NOLOGUExLDH) | N/A |
+| 32 | [#GMMTVหยุดเอาเปรียบผู้บริโภค](http://twitter.com/search?q=%23GMMTV%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b9%82%e0%b8%a0%e0%b8%84) | N/A |
+| 33 | [#bearbearyxcharlotte](http://twitter.com/search?q=%23bearbearyxcharlotte) | N/A |
+| 34 | [#GetWellSoonKUN](http://twitter.com/search?q=%23GetWellSoonKUN) | N/A |
+| 35 | [#KCON2023THAILAND](http://twitter.com/search?q=%23KCON2023THAILAND) | N/A |
+| 36 | [#DaddyMeenIG800K](http://twitter.com/search?q=%23DaddyMeenIG800K) | N/A |
 | 37 | [#นางสาวไทย2566](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a22566) | N/A |
-| 38 | [#Perth22ndBirthday](http://twitter.com/search?q=%23Perth22ndBirthday) | N/A |
-| 39 | [#ยุบสภา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b8%e0%b8%9a%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
-| 40 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
-| 41 | [#laneigexnnj](http://twitter.com/search?q=%23laneigexnnj) | N/A |
-| 42 | [#CutiePieBloomingInOSAKA](http://twitter.com/search?q=%23CutiePieBloomingInOSAKA) | N/A |
-| 43 | [#อิงฟ้าxregensmartcity](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2xregensmartcity) | N/A |
-| 44 | [#CokeMoveไปกับPPKRIT](http://twitter.com/search?q=%23CokeMove%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9aPPKRIT) | N/A |
-| 45 | [#SHININGTHEUNIVERSE](http://twitter.com/search?q=%23SHININGTHEUNIVERSE) | N/A |
+| 38 | [#นจแลกฟอลกัน](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%88%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 39 | [#Perth22ndBirthday](http://twitter.com/search?q=%23Perth22ndBirthday) | N/A |
+| 40 | [#LANEIGExNNJ](http://twitter.com/search?q=%23LANEIGExNNJ) | N/A |
+| 41 | [#CutiePieBloomingInOSAKA](http://twitter.com/search?q=%23CutiePieBloomingInOSAKA) | N/A |
+| 42 | [#อิงฟ้าxregensmartcity](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2xregensmartcity) | N/A |
+| 43 | [#คนใหม่เขาดูแลอยู่](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88) | N/A |
+| 44 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
+| 45 | [#CokeMoveไปกับPPKRIT](http://twitter.com/search?q=%23CokeMove%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9aPPKRIT) | N/A |
 | 46 | [#JeffLiveOnSaturnBKK](http://twitter.com/search?q=%23JeffLiveOnSaturnBKK) | N/A |
-| 47 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 48 | [#ดัชมิลล์GOODDYxMIXXIW](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%a5%e0%b9%8cGOODDYxMIXXIW) | N/A |
-| 49 | [#MAYCONCERT2023](http://twitter.com/search?q=%23MAYCONCERT2023) | N/A |
-| 50 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 47 | [#HELLOinBKK_project](http://twitter.com/search?q=%23HELLOinBKK_project) | N/A |
+| 48 | [#MAYCONCERT2023](http://twitter.com/search?q=%23MAYCONCERT2023) | N/A |
+| 49 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 50 | [#ดัชมิลล์GOODDYxMIXXIW](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b1%e0%b8%8a%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%a5%e0%b9%8cGOODDYxMIXXIW) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-20 07:16:39 UTC`
+📆 Last Updated: `2023-03-20 08:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
 | 6 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
 | 7 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 8 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 9 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 10 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 11 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 8 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 9 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
+| 10 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 11 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
 | 12 | [DOUTOR FRED](http://twitter.com/search?q=DOUTOR+FRED) | DOUTOR FRED is a Brazilian television series that aired from 1975 to 1976. It follows the adventures of a doctor, Dr. Fred, who travels around Brazil helping people in need. The show's title translates to "Doctor Fred" in English. |
-| 13 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
-| 14 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
-| 15 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
-| 16 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
-| 17 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 13 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
+| 14 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
+| 15 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
+| 16 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 17 | [Votando](http://twitter.com/search?q=Votando) | N/A |
 | 18 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 19 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 20 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 21 | [Sniper Americano](http://twitter.com/search?q=Sniper+Americano) | N/A |
-| 22 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 23 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
-| 24 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 25 | [Larissa e Key](http://twitter.com/search?q=Larissa+e+Key) | N/A |
-| 26 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 27 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 28 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 29 | [Volta Larissa](http://twitter.com/search?q=Volta+Larissa) | N/A |
-| 30 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 31 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
-| 32 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 33 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 34 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 35 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 36 | [Injustiça](http://twitter.com/search?q=Injusti%c3%a7a) | N/A |
-| 37 | [Votem](http://twitter.com/search?q=Votem) | N/A |
-| 38 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 39 | [Seara](http://twitter.com/search?q=Seara) | Seara is a Portuguese word meaning "evening" or "night." |
-| 40 | [Key e Gustavo](http://twitter.com/search?q=Key+e+Gustavo) | Key e Gustavo is a Brazilian expression that translates to "Come on, Gustavo!" It is used as an encouragement or to show support for someone. |
-| 41 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
-| 42 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
-| 43 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
-| 44 | [ELIMINAR](http://twitter.com/search?q=ELIMINAR) | N/A |
-| 45 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 46 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
-| 47 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 48 | [MENGO](http://twitter.com/search?q=MENGO) | N/A |
-| 49 | [Votar](http://twitter.com/search?q=Votar) | N/A |
-| 50 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
+| 19 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 20 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 21 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 22 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 23 | [Larissa e Key](http://twitter.com/search?q=Larissa+e+Key) | N/A |
+| 24 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 25 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 26 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 27 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
+| 28 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 29 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 30 | [Injustiça](http://twitter.com/search?q=Injusti%c3%a7a) | N/A |
+| 31 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
+| 32 | [Votem](http://twitter.com/search?q=Votem) | N/A |
+| 33 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 34 | [Key e Gustavo](http://twitter.com/search?q=Key+e+Gustavo) | Key e Gustavo is a Brazilian expression that translates to "Come on, Gustavo!" It is used as an encouragement or to show support for someone. |
+| 35 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
+| 36 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 37 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
+| 38 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
+| 39 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
+| 40 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 41 | [Pato Fu](http://twitter.com/search?q=Pato+Fu) | N/A |
+| 42 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 43 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 44 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 45 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 46 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 47 | [Artistas](http://twitter.com/search?q=Artistas) | N/A |
+| 48 | [Morria](http://twitter.com/search?q=Morria) | N/A |
+| 49 | [Adriana Lima](http://twitter.com/search?q=Adriana+Lima) | N/A |
+| 50 | [FERNANDO MIGUEL](http://twitter.com/search?q=FERNANDO+MIGUEL) | N/A |
 
 
 
