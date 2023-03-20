@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-20 17:17:42 UTC`
+📆 Last Updated: `2023-03-20 18:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 2 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 1 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 3 | [Spring](http://twitter.com/search?q=Spring) | N/A |
 | 4 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 5 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
-| 6 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 7 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 8 | [#Diablo4theWeekend](http://twitter.com/search?q=%23Diablo4theWeekend) | N/A |
-| 9 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 10 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
-| 11 | [#JediSurvivor](http://twitter.com/search?q=%23JediSurvivor) | N/A |
-| 12 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 13 | [Tony Clifton](http://twitter.com/search?q=Tony+Clifton) | N/A |
-| 14 | [Trump is a Floridian](http://twitter.com/search?q=Trump+is+a+Floridian) | N/A |
-| 15 | [Sherfield](http://twitter.com/search?q=Sherfield) | N/A |
-| 16 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 17 | [XXXTentacion](http://twitter.com/search?q=XXXTentacion) | N/A |
-| 18 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 19 | [Cooley](http://twitter.com/search?q=Cooley) | N/A |
-| 20 | [Gerald Green](http://twitter.com/search?q=Gerald+Green) | N/A |
-| 21 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 22 | [Jeremy Scott](http://twitter.com/search?q=Jeremy+Scott) | N/A |
-| 23 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
-| 24 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 25 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 26 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 5 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 6 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
+| 9 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 10 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 11 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
+| 12 | [#Diablo4theWeekend](http://twitter.com/search?q=%23Diablo4theWeekend) | N/A |
+| 13 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 14 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 15 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 16 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 17 | [Trump is a Floridian](http://twitter.com/search?q=Trump+is+a+Floridian) | N/A |
+| 18 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 19 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 20 | [Tony Clifton](http://twitter.com/search?q=Tony+Clifton) | N/A |
+| 21 | [XXXTentacion](http://twitter.com/search?q=XXXTentacion) | N/A |
+| 22 | [#JediSurvivor](http://twitter.com/search?q=%23JediSurvivor) | N/A |
+| 23 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 24 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 25 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 26 | [Harambe](http://twitter.com/search?q=Harambe) | N/A |
 | 27 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 28 | [Olerud](http://twitter.com/search?q=Olerud) | N/A |
-| 29 | [Mario Chalmers](http://twitter.com/search?q=Mario+Chalmers) | N/A |
-| 30 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 31 | [Happy Equinox](http://twitter.com/search?q=Happy+Equinox) | N/A |
-| 32 | [Avatar 3](http://twitter.com/search?q=Avatar+3) | N/A |
-| 33 | [Carliz](http://twitter.com/search?q=Carliz) | N/A |
-| 34 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 35 | [Andy Jassy](http://twitter.com/search?q=Andy+Jassy) | N/A |
-| 36 | [Happy Vernal Equinox](http://twitter.com/search?q=Happy+Vernal+Equinox) | N/A |
-| 37 | [WWE Hall of Fame](http://twitter.com/search?q=WWE+Hall+of+Fame) | N/A |
-| 38 | [High Republic](http://twitter.com/search?q=High+Republic) | N/A |
-| 39 | [Obstruction of Justice](http://twitter.com/search?q=Obstruction+of+Justice) | N/A |
-| 40 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
-| 41 | [Red Death](http://twitter.com/search?q=Red+Death) | N/A |
-| 42 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 43 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 44 | [Soros-funded](http://twitter.com/search?q=Soros-funded) | N/A |
-| 45 | [Moschino](http://twitter.com/search?q=Moschino) | N/A |
-| 46 | [lucas hedges](http://twitter.com/search?q=lucas+hedges) | N/A |
-| 47 | [Buster Murdaugh](http://twitter.com/search?q=Buster+Murdaugh) | N/A |
-| 48 | [Milton Glaser](http://twitter.com/search?q=Milton+Glaser) | N/A |
-| 49 | [Paul Byrd](http://twitter.com/search?q=Paul+Byrd) | N/A |
-| 50 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 28 | [Sherfield](http://twitter.com/search?q=Sherfield) | N/A |
+| 29 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
+| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 31 | [WWE Hall of Fame](http://twitter.com/search?q=WWE+Hall+of+Fame) | N/A |
+| 32 | [Gerald Green](http://twitter.com/search?q=Gerald+Green) | N/A |
+| 33 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 34 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
+| 35 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 36 | [Sonic 3](http://twitter.com/search?q=Sonic+3) | N/A |
+| 37 | [Tchia](http://twitter.com/search?q=Tchia) | N/A |
+| 38 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
+| 39 | [Arden Key](http://twitter.com/search?q=Arden+Key) | Arden Key is a professional American football player who currently plays for the Las Vegas Raiders of the National Football League (NFL). His name is derived from his hometown of Arden, North Carolina. The name has become a symbol of strength and resilience for Key, as he has overcome many obstacles to reach the NFL. |
+| 40 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
+| 41 | [Jeremy Scott](http://twitter.com/search?q=Jeremy+Scott) | N/A |
+| 42 | [Avatar 3](http://twitter.com/search?q=Avatar+3) | N/A |
+| 43 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 44 | [Obstruction of Justice](http://twitter.com/search?q=Obstruction+of+Justice) | N/A |
+| 45 | [Soros-funded](http://twitter.com/search?q=Soros-funded) | N/A |
+| 46 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
+| 47 | [Andy Jassy](http://twitter.com/search?q=Andy+Jassy) | N/A |
+| 48 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 49 | [Blessed Ostara](http://twitter.com/search?q=Blessed+Ostara) | N/A |
+| 50 | [House GOP](http://twitter.com/search?q=House+GOP) | House GOP stands for House of Representatives Republican Party. It is the Republican Party's caucus in the United States House of Representatives. The House GOP works to advance conservative policies and legislation through the legislative process. |
 
 
 

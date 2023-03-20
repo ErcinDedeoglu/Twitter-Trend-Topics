@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-20 17:17:53 UTC`
+📆 Last Updated: `2023-03-20 18:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Poland
 | 3 | [Pszczynie](http://twitter.com/search?q=Pszczynie) | N/A |
 | 4 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
 | 5 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 6 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 6 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
 | 7 | [#barrma](http://twitter.com/search?q=%23barrma) | N/A |
-| 8 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 8 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
 | 9 | [#WIDLPO](http://twitter.com/search?q=%23WIDLPO) | N/A |
-| 10 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 10 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
 | 11 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
 | 12 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 13 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
-| 14 | [Żukowska](http://twitter.com/search?q=%c5%bbukowska) | N/A |
+| 13 | [Żukowska](http://twitter.com/search?q=%c5%bbukowska) | N/A |
+| 14 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
 | 15 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 16 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 17 | [Uniwersytecie](http://twitter.com/search?q=Uniwersytecie) | N/A |
-| 18 | [Francji](http://twitter.com/search?q=Francji) | N/A |
-| 19 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 20 | [Duże Sklepy](http://twitter.com/search?q=Du%c5%bce+Sklepy) | N/A |
-| 21 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 22 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
-| 23 | [Majewskiego](http://twitter.com/search?q=Majewskiego) | N/A |
-| 24 | [dubiel](http://twitter.com/search?q=dubiel) | N/A |
-| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 26 | [Rosją](http://twitter.com/search?q=Rosj%c4%85) | N/A |
-| 27 | [Kiereś](http://twitter.com/search?q=Kiere%c5%9b) | N/A |
-| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 30 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 31 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
-| 32 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 33 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 16 | [duże sklepy](http://twitter.com/search?q=du%c5%bce+sklepy) | N/A |
+| 17 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 18 | [Uniwersytecie](http://twitter.com/search?q=Uniwersytecie) | N/A |
+| 19 | [Francji](http://twitter.com/search?q=Francji) | N/A |
+| 20 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 22 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 23 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [Rosją](http://twitter.com/search?q=Rosj%c4%85) | N/A |
+| 26 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 28 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 29 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 30 | [Majewskiego](http://twitter.com/search?q=Majewskiego) | N/A |
+| 31 | [Kiereś](http://twitter.com/search?q=Kiere%c5%9b) | N/A |
+| 32 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 35 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 36 | [ambasador rp](http://twitter.com/search?q=ambasador+rp) | N/A |
 | 37 | [Fogla](http://twitter.com/search?q=Fogla) | N/A |
-| 38 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 39 | [jeśli ukraina](http://twitter.com/search?q=je%c5%9bli+ukraina) | N/A |
-| 40 | [ambasador rp](http://twitter.com/search?q=ambasador+rp) | N/A |
-| 41 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 43 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 44 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 45 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
-| 46 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
-| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 48 | [Stal](http://twitter.com/search?q=Stal) | N/A |
-| 49 | [D'Hondta](http://twitter.com/search?q=D%27Hondta) | N/A |
-| 50 | [Carvajala](http://twitter.com/search?q=Carvajala) | N/A |
+| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 39 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 40 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
+| 41 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 42 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 43 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
+| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 45 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 46 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 47 | [carvajala](http://twitter.com/search?q=carvajala) | N/A |
+| 48 | [Kantar Public](http://twitter.com/search?q=Kantar+Public) | N/A |
+| 49 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 50 | [Grabiec](http://twitter.com/search?q=Grabiec) | N/A |
 
 
 

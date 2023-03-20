@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-20 17:17:54 UTC`
+📆 Last Updated: `2023-03-20 18:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for South Africa
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 2 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 3 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 2 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 3 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
 | 4 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 5 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
-| 6 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 7 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 8 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
-| 9 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 10 | [#RamaphosaMustGo](http://twitter.com/search?q=%23RamaphosaMustGo) | N/A |
-| 11 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 12 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
-| 13 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
-| 14 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 15 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 16 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 17 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 18 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 19 | [mbaks](http://twitter.com/search?q=mbaks) | N/A |
-| 20 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 21 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 22 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 23 | [Failed](http://twitter.com/search?q=Failed) | N/A |
-| 24 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 25 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
-| 26 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 27 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 28 | [Mrs Kgomo](http://twitter.com/search?q=Mrs+Kgomo) | N/A |
-| 29 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
-| 30 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
-| 31 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 32 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
-| 33 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 34 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 35 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 36 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 37 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
-| 38 | [not miracle](http://twitter.com/search?q=not+miracle) | N/A |
-| 39 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
-| 40 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 41 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 42 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 43 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 44 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
-| 45 | [Chest](http://twitter.com/search?q=Chest) | N/A |
-| 46 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
-| 47 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
-| 48 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 49 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
-| 50 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
+| 5 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 6 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
+| 7 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 8 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 9 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
+| 10 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 11 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 12 | [#HouseOfZwide](http://twitter.com/search?q=%23HouseOfZwide) | N/A |
+| 13 | [Tibi](http://twitter.com/search?q=Tibi) | N/A |
+| 14 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 15 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
+| 16 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 17 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 18 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 19 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 20 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 21 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 22 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 23 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 24 | [Molefe](http://twitter.com/search?q=Molefe) | N/A |
+| 25 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 26 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 27 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
+| 28 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 29 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 30 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 31 | [Zaha](http://twitter.com/search?q=Zaha) | Zaha is an Arabic name meaning “beauty” or “splendour”. It is also used as a female given name in many parts of the world. |
+| 32 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
+| 33 | [Wena](http://twitter.com/search?q=Wena) | N/A |
+| 34 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 35 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 36 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
+| 37 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
+| 38 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 39 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 40 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 41 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 42 | [not miracle](http://twitter.com/search?q=not+miracle) | N/A |
+| 43 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 44 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 45 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 46 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
+| 47 | [Tulz](http://twitter.com/search?q=Tulz) | N/A |
+| 48 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 49 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 50 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 
 
 

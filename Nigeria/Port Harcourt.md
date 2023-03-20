@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-20 17:17:29 UTC`
+📆 Last Updated: `2023-03-20 18:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 2 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 3 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 4 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 5 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 8 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 9 | [#AnnounceEnuguResult](http://twitter.com/search?q=%23AnnounceEnuguResult) | N/A |
-| 10 | [#WOHDWithColgate](http://twitter.com/search?q=%23WOHDWithColgate) | N/A |
-| 11 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 12 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 13 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 14 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 15 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 16 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 17 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 18 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 19 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 20 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 21 | [Laptop](http://twitter.com/search?q=Laptop) | N/A |
-| 22 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
+| 1 | [#WashingtonfxCrypto](http://twitter.com/search?q=%23WashingtonfxCrypto) | N/A |
+| 2 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 3 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
+| 4 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
+| 5 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 6 | [#RestoreOurMandate](http://twitter.com/search?q=%23RestoreOurMandate) | N/A |
+| 7 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 8 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 9 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 10 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 11 | [Talented](http://twitter.com/search?q=Talented) | N/A |
+| 12 | [Laptop](http://twitter.com/search?q=Laptop) | N/A |
+| 13 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 14 | [AutoCAD](http://twitter.com/search?q=AutoCAD) | N/A |
+| 15 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
+| 16 | [Smelling](http://twitter.com/search?q=Smelling) | N/A |
+| 17 | [FUTA](http://twitter.com/search?q=FUTA) | N/A |
+| 18 | [Yes Father](http://twitter.com/search?q=Yes+Father) | N/A |
+| 19 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
+| 20 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 21 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 22 | [Zulum](http://twitter.com/search?q=Zulum) | N/A |
 | 23 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
-| 24 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 25 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 26 | [Abba](http://twitter.com/search?q=Abba) | N/A |
-| 27 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 28 | [cherry entafield](http://twitter.com/search?q=cherry+entafield) | N/A |
-| 29 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 30 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 31 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
-| 32 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 33 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 34 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
-| 35 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 36 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 37 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 38 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
-| 39 | [Fufore](http://twitter.com/search?q=Fufore) | N/A |
-| 40 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 41 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
-| 42 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 43 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 44 | [AutoCAD](http://twitter.com/search?q=AutoCAD) | N/A |
-| 45 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
-| 46 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 47 | [Floki Yoga](http://twitter.com/search?q=Floki+Yoga) | N/A |
-| 48 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 24 | [Caleb Mutfwang](http://twitter.com/search?q=Caleb+Mutfwang) | N/A |
+| 25 | [AFRICA LOVES KANAGA JNR](http://twitter.com/search?q=AFRICA+LOVES+KANAGA+JNR) | N/A |
+| 26 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
+| 27 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
+| 28 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 29 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 30 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
+| 31 | [Ashiru](http://twitter.com/search?q=Ashiru) | N/A |
+| 32 | [Nentawe](http://twitter.com/search?q=Nentawe) | N/A |
+| 33 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
+| 34 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
+| 35 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
+| 36 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
+| 37 | [Thanks and God](http://twitter.com/search?q=Thanks+and+God) | N/A |
+| 38 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 39 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 40 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 41 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
+| 42 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
+| 43 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
+| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 45 | [#WOHDWithColgate](http://twitter.com/search?q=%23WOHDWithColgate) | N/A |
+| 46 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
+| 47 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
+| 48 | [#Adamawa](http://twitter.com/search?q=%23Adamawa) | N/A |
 
 
 

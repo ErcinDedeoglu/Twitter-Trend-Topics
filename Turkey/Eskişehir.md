@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-20 17:17:38 UTC`
+📆 Last Updated: `2023-03-20 18:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#başlıyoruz](http://twitter.com/search?q=%23ba%c5%9fl%c4%b1yoruz) | N/A |
-| 2 | [#DBahceliUnvTayinHakki](http://twitter.com/search?q=%23DBahceliUnvTayinHakki) | N/A |
-| 3 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
-| 4 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 1 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
+| 2 | [#başlıyoruz](http://twitter.com/search?q=%23ba%c5%9fl%c4%b1yoruz) | N/A |
+| 3 | [#DBahceliUnvTayinHakki](http://twitter.com/search?q=%23DBahceliUnvTayinHakki) | N/A |
+| 4 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
 | 5 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
 | 6 | [Koopİş PiktesiUnuttu](http://twitter.com/search?q=Koop%c4%b0%c5%9f+PiktesiUnuttu) | N/A |
-| 7 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
-| 8 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
-| 9 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
-| 10 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
-| 11 | [CbHerASMyeDyt](http://twitter.com/search?q=CbHerASMyeDyt) | N/A |
-| 12 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 13 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
-| 14 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
-| 15 | [SahneninStarı ArifGüloğlu](http://twitter.com/search?q=SahneninStar%c4%b1+ArifG%c3%bclo%c4%9flu) | N/A |
-| 16 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 17 | [Cnz Burak](http://twitter.com/search?q=Cnz+Burak) | N/A |
-| 18 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 19 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 20 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
-| 21 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
-| 22 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 23 | [Hoşgeldiniz](http://twitter.com/search?q=Ho%c5%9fgeldiniz) | N/A |
-| 24 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 25 | [45bin](http://twitter.com/search?q=45bin) | N/A |
-| 26 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 27 | [TwitterTayfadan SelamAfRam](http://twitter.com/search?q=TwitterTayfadan+SelamAfRam) | N/A |
-| 28 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 29 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
-| 30 | [Devri](http://twitter.com/search?q=Devri) | N/A |
-| 31 | [Varlık](http://twitter.com/search?q=Varl%c4%b1k) | N/A |
-| 32 | [Basiniz](http://twitter.com/search?q=Basiniz) | N/A |
-| 33 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
-| 34 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
-| 35 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 36 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
-| 37 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
-| 38 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 39 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 40 | [TBMM](http://twitter.com/search?q=TBMM) | N/A |
-| 41 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
-| 42 | [Batan](http://twitter.com/search?q=Batan) | N/A |
-| 43 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
-| 44 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
-| 45 | [Seçim 2](http://twitter.com/search?q=Se%c3%a7im+2) | N/A |
-| 46 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 47 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 48 | [Türkçedir](http://twitter.com/search?q=T%c3%bcrk%c3%a7edir) | N/A |
+| 7 | [Kabineden DenklikMüjdesi](http://twitter.com/search?q=Kabineden+DenklikM%c3%bcjdesi) | N/A |
+| 8 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 9 | [EsnafMahkum Olmakİstemiyor](http://twitter.com/search?q=EsnafMahkum+Olmak%c4%b0stemiyor) | N/A |
+| 10 | [UgurOzturk](http://twitter.com/search?q=UgurOzturk) | N/A |
+| 11 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
+| 12 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
+| 13 | [Taşeronİttifakı SeçimiBelirler](http://twitter.com/search?q=Ta%c5%9feron%c4%b0ttifak%c4%b1+Se%c3%a7imiBelirler) | N/A |
+| 14 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
+| 15 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 16 | [CbHerASMyeDyt](http://twitter.com/search?q=CbHerASMyeDyt) | N/A |
+| 17 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
+| 18 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 19 | [Buluşalım](http://twitter.com/search?q=Bulu%c5%9fal%c4%b1m) | N/A |
+| 20 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 21 | [YEDİ DÜVELE MEYDAN OKUYAN](http://twitter.com/search?q=YED%c4%b0+D%c3%9cVELE+MEYDAN+OKUYAN) | N/A |
+| 22 | [Hakkı](http://twitter.com/search?q=Hakk%c4%b1) | N/A |
+| 23 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
+| 24 | [SahneninStarı ArifGüloğlu](http://twitter.com/search?q=SahneninStar%c4%b1+ArifG%c3%bclo%c4%9flu) | N/A |
+| 25 | [Cnz Burak](http://twitter.com/search?q=Cnz+Burak) | N/A |
+| 26 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 27 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
+| 28 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 29 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 30 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 31 | [Özlemişiz](http://twitter.com/search?q=%c3%96zlemi%c5%9fiz) | N/A |
+| 32 | [AKP'liyim](http://twitter.com/search?q=AKP%27liyim) | N/A |
+| 33 | [Hoşgeldiniz](http://twitter.com/search?q=Ho%c5%9fgeldiniz) | N/A |
+| 34 | [45bin](http://twitter.com/search?q=45bin) | N/A |
+| 35 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 36 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
+| 37 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
+| 38 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 39 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 40 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 41 | [Basiniz](http://twitter.com/search?q=Basiniz) | N/A |
+| 42 | [Varlık](http://twitter.com/search?q=Varl%c4%b1k) | N/A |
+| 43 | [Devri](http://twitter.com/search?q=Devri) | N/A |
+| 44 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
+| 45 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
+| 46 | [TwitterTayfadan SelamAfRam](http://twitter.com/search?q=TwitterTayfadan+SelamAfRam) | N/A |
+| 47 | [Desteğiniz](http://twitter.com/search?q=Deste%c4%9finiz) | N/A |
+| 48 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
 
 
 
