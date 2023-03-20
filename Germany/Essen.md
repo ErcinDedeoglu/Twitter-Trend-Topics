@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-20 20:17:30 UTC`
+📆 Last Updated: `2023-03-20 21:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 3 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
-| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 6 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 8 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
+| 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 4 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 9 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
 | 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 12 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
-| 13 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 11 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
+| 12 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 13 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
 | 14 | [Fanny](http://twitter.com/search?q=Fanny) | N/A |
-| 15 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
-| 16 | [stieler](http://twitter.com/search?q=stieler) | N/A |
+| 15 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 16 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
 | 17 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 19 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 20 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
-| 21 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 22 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 23 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 24 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 25 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 26 | [Abmahnung](http://twitter.com/search?q=Abmahnung) | N/A |
-| 27 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
-| 28 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
-| 29 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 30 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 18 | [stieler](http://twitter.com/search?q=stieler) | N/A |
+| 19 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 20 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 21 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 22 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 23 | [Helene Fischer](http://twitter.com/search?q=Helene+Fischer) | N/A |
+| 24 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
+| 25 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 26 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 27 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 28 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 29 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 30 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
 | 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 32 | [Restle](http://twitter.com/search?q=Restle) | N/A |
-| 33 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 34 | [Dessert](http://twitter.com/search?q=Dessert) | N/A |
-| 35 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 36 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 37 | [sesamstraße](http://twitter.com/search?q=sesamstra%c3%9fe) | N/A |
-| 38 | [Tagessätze](http://twitter.com/search?q=Tagess%c3%a4tze) | N/A |
-| 39 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 40 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 41 | [Helene Fischer](http://twitter.com/search?q=Helene+Fischer) | N/A |
-| 42 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
-| 43 | [Impfgeschädigten](http://twitter.com/search?q=Impfgesch%c3%a4digten) | N/A |
-| 44 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 45 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
-| 46 | [Mündlich](http://twitter.com/search?q=M%c3%bcndlich) | N/A |
-| 47 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 48 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
+| 32 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 33 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 34 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 35 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 36 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 37 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 38 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 39 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 40 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 41 | [Kaufland](http://twitter.com/search?q=Kaufland) | N/A |
+| 42 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 43 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 44 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
+| 45 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 46 | [Montage](http://twitter.com/search?q=Montage) | N/A |
+| 47 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 48 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
+| 49 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
 
 
 

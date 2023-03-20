@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-20 20:17:17 UTC`
+📆 Last Updated: `2023-03-20 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VoteReject](http://twitter.com/search?q=%23VoteReject) | N/A |
-| 2 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 3 | [#BadArtBan](http://twitter.com/search?q=%23BadArtBan) | N/A |
-| 4 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 5 | [#BMShedComp](http://twitter.com/search?q=%23BMShedComp) | N/A |
-| 6 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 7 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 8 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 9 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 10 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 11 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
-| 12 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
-| 13 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
-| 14 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 15 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 16 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 17 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 18 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
-| 19 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 20 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
-| 21 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
-| 22 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 23 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
-| 24 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 25 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
-| 26 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 27 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 28 | [Milo](http://twitter.com/search?q=Milo) | N/A |
-| 29 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 30 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 32 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 33 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 34 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 35 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 36 | [Tony Benn](http://twitter.com/search?q=Tony+Benn) | N/A |
-| 37 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 38 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 39 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 40 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 41 | [Iraqis](http://twitter.com/search?q=Iraqis) | N/A |
-| 42 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
-| 43 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
-| 44 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 45 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 46 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 47 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 1 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 2 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 4 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 5 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
+| 6 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 7 | [Ryan Mason](http://twitter.com/search?q=Ryan+Mason) | N/A |
+| 8 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 9 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 10 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 11 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 12 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 13 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 14 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 15 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 16 | [Ruth Perry](http://twitter.com/search?q=Ruth+Perry) | N/A |
+| 17 | [Rufus](http://twitter.com/search?q=Rufus) | N/A |
+| 18 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 19 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
+| 20 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 21 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
+| 22 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 23 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
+| 24 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 25 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
+| 26 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 27 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 28 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 29 | [Milo](http://twitter.com/search?q=Milo) | N/A |
+| 30 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
+| 31 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
+| 32 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 33 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
+| 34 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 35 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 36 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 37 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 38 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 39 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 40 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 41 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 42 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 43 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 44 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 45 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 46 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 47 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 48 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
 
 
 
