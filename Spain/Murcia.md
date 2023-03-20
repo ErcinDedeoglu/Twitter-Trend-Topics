@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-20 13:21:27 UTC`
+📆 Last Updated: `2023-03-20 14:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 1 | [#SorteoALDI400](http://twitter.com/search?q=%23SorteoALDI400) | N/A |
 | 2 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
-| 3 | [#SorteoALDI400](http://twitter.com/search?q=%23SorteoALDI400) | N/A |
-| 4 | [#PCgamingLenovoMM](http://twitter.com/search?q=%23PCgamingLenovoMM) | N/A |
+| 3 | [#PCgamingLenovoMM](http://twitter.com/search?q=%23PCgamingLenovoMM) | N/A |
+| 4 | [#primavera](http://twitter.com/search?q=%23primavera) | N/A |
 | 5 | [#xtralifeVidal](http://twitter.com/search?q=%23xtralifeVidal) | N/A |
-| 6 | [#primavera](http://twitter.com/search?q=%23primavera) | N/A |
-| 7 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
-| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 9 | [Bordalás](http://twitter.com/search?q=Bordal%c3%a1s) | N/A |
-| 10 | [Pablo Iglesias](http://twitter.com/search?q=Pablo+Iglesias) | N/A |
-| 11 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 12 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 13 | [Urge](http://twitter.com/search?q=Urge) | N/A |
-| 14 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 15 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 16 | [Pablo Machín](http://twitter.com/search?q=Pablo+Mach%c3%adn) | N/A |
-| 17 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 18 | [Caparros](http://twitter.com/search?q=Caparros) | N/A |
-| 19 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 20 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 22 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 24 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 25 | [Arnau](http://twitter.com/search?q=Arnau) | N/A |
-| 26 | [Hace 30](http://twitter.com/search?q=Hace+30) | N/A |
-| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 28 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
-| 29 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 30 | [Roures](http://twitter.com/search?q=Roures) | N/A |
-| 31 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 6 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 8 | [Bordalás](http://twitter.com/search?q=Bordal%c3%a1s) | N/A |
+| 9 | [Pablo Machín](http://twitter.com/search?q=Pablo+Mach%c3%adn) | N/A |
+| 10 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 11 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 12 | [Urge](http://twitter.com/search?q=Urge) | N/A |
+| 13 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
+| 14 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 15 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 16 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 17 | [Caparrós](http://twitter.com/search?q=Caparr%c3%b3s) | N/A |
+| 18 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
+| 19 | [Hace 30](http://twitter.com/search?q=Hace+30) | N/A |
+| 20 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 21 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
+| 22 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
+| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 24 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 25 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
+| 26 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 27 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 28 | [Indian Wells](http://twitter.com/search?q=Indian+Wells) | N/A |
+| 29 | [Soria](http://twitter.com/search?q=Soria) | N/A |
+| 30 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 31 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
 | 32 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
 | 33 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 34 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 35 | [Soria](http://twitter.com/search?q=Soria) | N/A |
-| 36 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 37 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 38 | [#OsoViciOSO](http://twitter.com/search?q=%23OsoViciOSO) | N/A |
-| 39 | [#DíaDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaDeLaFelicidad) | N/A |
-| 40 | [#chemtrails](http://twitter.com/search?q=%23chemtrails) | N/A |
-| 41 | [#APOYOROCIO20M](http://twitter.com/search?q=%23APOYOROCIO20M) | N/A |
-| 42 | [#DíaInternacionalDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLaFelicidad) | N/A |
-| 43 | [#LunesDeOjos](http://twitter.com/search?q=%23LunesDeOjos) | N/A |
-| 44 | [#YoMeRebelo20M](http://twitter.com/search?q=%23YoMeRebelo20M) | N/A |
-| 45 | [#20marzo](http://twitter.com/search?q=%2320marzo) | N/A |
-| 46 | [#VoltaCatalunya102](http://twitter.com/search?q=%23VoltaCatalunya102) | N/A |
+| 34 | [#ContraLaDesinformación](http://twitter.com/search?q=%23ContraLaDesinformaci%c3%b3n) | N/A |
+| 35 | [#OsoVicioso](http://twitter.com/search?q=%23OsoVicioso) | N/A |
+| 36 | [#DíaDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaDeLaFelicidad) | N/A |
+| 37 | [#chemtrails](http://twitter.com/search?q=%23chemtrails) | N/A |
+| 38 | [#LunesDeOjos](http://twitter.com/search?q=%23LunesDeOjos) | N/A |
+| 39 | [#APOYOROCIO20M](http://twitter.com/search?q=%23APOYOROCIO20M) | N/A |
+| 40 | [#DíaInternacionalDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLaFelicidad) | N/A |
+| 41 | [#YoMeRebelo20M](http://twitter.com/search?q=%23YoMeRebelo20M) | N/A |
+| 42 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
+| 43 | [#VoltaCatalunya102](http://twitter.com/search?q=%23VoltaCatalunya102) | N/A |
+| 44 | [#YOVOTOPODEMOS](http://twitter.com/search?q=%23YOVOTOPODEMOS) | N/A |
 
 
 

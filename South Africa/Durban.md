@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-20 13:21:39 UTC`
+📆 Last Updated: `2023-03-20 14:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,44 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 3 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
 | 4 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 5 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 6 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 7 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
-| 8 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 9 | [Failed](http://twitter.com/search?q=Failed) | N/A |
-| 10 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 11 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 12 | [AFRICA ARISE FOR THABANG](http://twitter.com/search?q=AFRICA+ARISE+FOR+THABANG) | N/A |
-| 13 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 14 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 15 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 16 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 17 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
-| 18 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 19 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 20 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 21 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 22 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
-| 23 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 24 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
-| 25 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 26 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 27 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 28 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 29 | [Chest](http://twitter.com/search?q=Chest) | N/A |
-| 30 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
-| 31 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 32 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
-| 33 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 34 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
-| 35 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
-| 36 | [Jhb CBD](http://twitter.com/search?q=Jhb+CBD) | N/A |
-| 37 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 38 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 39 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
-| 40 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
-| 41 | [Oksalayo](http://twitter.com/search?q=Oksalayo) | N/A |
-| 42 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
-| 43 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 44 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
-| 45 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 46 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
+| 5 | [#Failed](http://twitter.com/search?q=%23Failed) | N/A |
+| 6 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
+| 7 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 8 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 9 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 10 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
+| 11 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 12 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 13 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 14 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 15 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 16 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 17 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 18 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
+| 19 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
+| 20 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 21 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
+| 22 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 23 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 24 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 25 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 26 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 27 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 28 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 29 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
+| 30 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 31 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 32 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
+| 33 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
+| 34 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 35 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
+| 36 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 37 | [Electricity](http://twitter.com/search?q=Electricity) | N/A |
+| 38 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
+| 39 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 40 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
+| 41 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
+| 42 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 
 
 

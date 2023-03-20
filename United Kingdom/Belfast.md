@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-20 13:21:13 UTC`
+📆 Last Updated: `2023-03-20 14:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 2 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 3 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 4 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
-| 5 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 6 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 7 | [Conor Burns](http://twitter.com/search?q=Conor+Burns) | N/A |
-| 8 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 9 | [Sooz](http://twitter.com/search?q=Sooz) | N/A |
-| 10 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 11 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 12 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
-| 13 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
-| 14 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
+| 5 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 6 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 7 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 8 | [Sooz](http://twitter.com/search?q=Sooz) | N/A |
+| 9 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
+| 10 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
+| 11 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
+| 12 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
+| 13 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
+| 14 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
 | 15 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 16 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 17 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 18 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
-| 19 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 20 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 21 | [Time Lord Victorious](http://twitter.com/search?q=Time+Lord+Victorious) | N/A |
-| 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 25 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 26 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 27 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 28 | [Suella](http://twitter.com/search?q=Suella) | N/A |
-| 29 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 30 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 31 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 32 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
-| 33 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 34 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 35 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 36 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
-| 37 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 38 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 39 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 16 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
+| 17 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 18 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 19 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
+| 20 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 22 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
+| 23 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 24 | [Suella](http://twitter.com/search?q=Suella) | N/A |
+| 25 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 26 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 27 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 28 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 29 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 30 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 31 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 32 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 33 | [Lib Dems](http://twitter.com/search?q=Lib+Dems) | N/A |
+| 34 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 35 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 36 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 37 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 38 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
+| 39 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
 | 40 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 41 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 42 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
-| 43 | [#BargainHunt](http://twitter.com/search?q=%23BargainHunt) | N/A |
-| 44 | [#WorldRewildingDay](http://twitter.com/search?q=%23WorldRewildingDay) | N/A |
+| 41 | [#WorldRewildingDay](http://twitter.com/search?q=%23WorldRewildingDay) | N/A |
+| 42 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
+| 43 | [#SocialWorkWeek2023](http://twitter.com/search?q=%23SocialWorkWeek2023) | N/A |
+| 44 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
+| 45 | [#BMHCUK](http://twitter.com/search?q=%23BMHCUK) | N/A |
 
 
 

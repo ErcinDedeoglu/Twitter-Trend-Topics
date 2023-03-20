@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-20 13:21:12 UTC`
+📆 Last Updated: `2023-03-20 14:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 2 | [#johnsonliedpeopledied](http://twitter.com/search?q=%23johnsonliedpeopledied) | N/A |
-| 3 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 4 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 5 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
-| 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 9 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 10 | [Conor Burns](http://twitter.com/search?q=Conor+Burns) | N/A |
-| 11 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 12 | [Sooz](http://twitter.com/search?q=Sooz) | N/A |
-| 13 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 14 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 15 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
-| 16 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
-| 17 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
-| 18 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 19 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 20 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
-| 21 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 22 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 23 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 24 | [Time Lord Victorious](http://twitter.com/search?q=Time+Lord+Victorious) | N/A |
-| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 1 | [#PreceptorshipMatters](http://twitter.com/search?q=%23PreceptorshipMatters) | N/A |
+| 2 | [#TheBigHelpOut](http://twitter.com/search?q=%23TheBigHelpOut) | N/A |
+| 3 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 4 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 5 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
+| 6 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 7 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 8 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 9 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 10 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 11 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 13 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 15 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 16 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 17 | [Sooz](http://twitter.com/search?q=Sooz) | N/A |
+| 18 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
+| 19 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
+| 20 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
+| 21 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
+| 22 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
+| 23 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
+| 24 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 25 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
 | 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 27 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 28 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 29 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 30 | [Suella](http://twitter.com/search?q=Suella) | N/A |
-| 31 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 32 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 27 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 28 | [Suella](http://twitter.com/search?q=Suella) | N/A |
+| 29 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 30 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
+| 31 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 32 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
 | 33 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 34 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
-| 35 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 36 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 37 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 38 | [Bray](http://twitter.com/search?q=Bray) | Bray is a verb meaning to make a loud, harsh sound, usually like the sound of an animal or machine. It is often used to describe the sound made by a donkey or mule. |
-| 39 | [Chris Kavanagh](http://twitter.com/search?q=Chris+Kavanagh) | N/A |
+| 34 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 35 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 36 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 37 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 38 | [Lib Dems](http://twitter.com/search?q=Lib+Dems) | N/A |
+| 39 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
 | 40 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
 | 41 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 42 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 43 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 44 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 45 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
-| 46 | [#BargainHunt](http://twitter.com/search?q=%23BargainHunt) | N/A |
-| 47 | [#WorldRewildingDay](http://twitter.com/search?q=%23WorldRewildingDay) | N/A |
-| 48 | [#SocialWorkWeek2023](http://twitter.com/search?q=%23SocialWorkWeek2023) | N/A |
-| 49 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
+| 42 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 43 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
+| 44 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 45 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 46 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 47 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
+| 48 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
+| 49 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 
 
 

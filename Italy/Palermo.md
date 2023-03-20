@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-20 13:21:26 UTC`
+📆 Last Updated: `2023-03-20 14:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#LazioRoma](http://twitter.com/search?q=%23LazioRoma) | N/A |
 | 3 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
 | 4 | [#20marzo](http://twitter.com/search?q=%2320marzo) | N/A |
-| 5 | [#19Marzo](http://twitter.com/search?q=%2319Marzo) | N/A |
+| 5 | [#TorinoNapoli](http://twitter.com/search?q=%23TorinoNapoli) | N/A |
 | 6 | [#Annunziata](http://twitter.com/search?q=%23Annunziata) | N/A |
 | 7 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 8 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 8 | [ibanez](http://twitter.com/search?q=ibanez) | N/A |
 | 9 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
 | 10 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
 | 11 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 12 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 13 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 12 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 13 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
 | 14 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 15 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
-| 16 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 17 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
-| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 20 | [Rampelli](http://twitter.com/search?q=Rampelli) | N/A |
-| 21 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
+| 15 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 16 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
+| 17 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 18 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
+| 19 | [Rampelli](http://twitter.com/search?q=Rampelli) | N/A |
+| 20 | [Monguzzi](http://twitter.com/search?q=Monguzzi) | N/A |
+| 21 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
 | 22 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 23 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 24 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 25 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
-| 26 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
-| 27 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
-| 28 | [Il 20](http://twitter.com/search?q=Il+20) | N/A |
-| 29 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 30 | [Il VAR](http://twitter.com/search?q=Il+VAR) | N/A |
-| 31 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 34 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 25 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
+| 26 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 27 | [Biasin](http://twitter.com/search?q=Biasin) | N/A |
+| 28 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
+| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 30 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
+| 31 | [Il Var](http://twitter.com/search?q=Il+Var) | N/A |
+| 32 | [Il 20](http://twitter.com/search?q=Il+20) | N/A |
+| 33 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 34 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
 | 35 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 36 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 37 | [Vendola](http://twitter.com/search?q=Vendola) | N/A |
-| 38 | [SOULE](http://twitter.com/search?q=SOULE) | N/A |
+| 36 | [Vendola](http://twitter.com/search?q=Vendola) | N/A |
+| 37 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 38 | [Soule](http://twitter.com/search?q=Soule) | N/A |
 | 39 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
-| 40 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 41 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 42 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 43 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 44 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 45 | [Marusic](http://twitter.com/search?q=Marusic) | N/A |
-| 46 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 47 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 48 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 49 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 50 | [Giovedì 23](http://twitter.com/search?q=Gioved%c3%ac+23) | N/A |
+| 40 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
+| 41 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
+| 42 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 43 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 44 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 45 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
+| 46 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 47 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 48 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 49 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 50 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 
 
 
