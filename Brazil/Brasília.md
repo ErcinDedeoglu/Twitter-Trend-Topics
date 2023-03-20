@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-20 12:18:55 UTC`
+📆 Last Updated: `2023-03-20 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 2 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
-| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 4 | [#NMIXX_LoveMeLikeThis](http://twitter.com/search?q=%23NMIXX_LoveMeLikeThis) | N/A |
-| 5 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 6 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
-| 7 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
-| 8 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 9 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 10 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 11 | [Outono](http://twitter.com/search?q=Outono) | N/A |
-| 12 | [Gomes](http://twitter.com/search?q=Gomes) | N/A |
-| 13 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 14 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 15 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 16 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 17 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 18 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 1 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 2 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 3 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 4 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 5 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 6 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
+| 7 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
+| 8 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 9 | [Outono](http://twitter.com/search?q=Outono) | N/A |
+| 10 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 11 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 12 | [#segundou](http://twitter.com/search?q=%23segundou) | N/A |
+| 13 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 14 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 16 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 17 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
+| 18 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 19 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 20 | [Marvilla](http://twitter.com/search?q=Marvilla) | Marvilla is not a word in English. It does not have a meaning in English. |
-| 21 | [DOUTOR FRED](http://twitter.com/search?q=DOUTOR+FRED) | DOUTOR FRED is a Brazilian television series that aired from 1975 to 1976. It follows the adventures of a doctor, Dr. Fred, who travels around Brazil helping people in need. The show's title translates to "Doctor Fred" in English. |
-| 22 | [Ipec](http://twitter.com/search?q=Ipec) | N/A |
-| 23 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
-| 24 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
-| 25 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
-| 26 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 27 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 28 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
-| 29 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
-| 30 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 31 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
-| 32 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 33 | [Caze](http://twitter.com/search?q=Caze) | N/A |
-| 34 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
-| 35 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
-| 36 | [#Repescagem](http://twitter.com/search?q=%23Repescagem) | N/A |
+| 20 | [Iraque](http://twitter.com/search?q=Iraque) | N/A |
+| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 22 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 23 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
+| 24 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 25 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 26 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 27 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 28 | [Sthe](http://twitter.com/search?q=Sthe) | N/A |
+| 29 | [IPEC](http://twitter.com/search?q=IPEC) | N/A |
+| 30 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 31 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 32 | [CACs](http://twitter.com/search?q=CACs) | N/A |
+| 33 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 34 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 35 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
+| 36 | [Caze](http://twitter.com/search?q=Caze) | N/A |
+| 37 | [Adriana](http://twitter.com/search?q=Adriana) | N/A |
+| 38 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 39 | [Morria](http://twitter.com/search?q=Morria) | N/A |
+| 40 | [fredão](http://twitter.com/search?q=fred%c3%a3o) | N/A |
+| 41 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
+| 42 | [Muniz Sodré](http://twitter.com/search?q=Muniz+Sodr%c3%a9) | N/A |
+| 43 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 44 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 45 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
+| 46 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 47 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
+| 48 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
 
 
 

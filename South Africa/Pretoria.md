@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-20 12:19:16 UTC`
+📆 Last Updated: `2023-03-20 13:21:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,51 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 2 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
-| 3 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 4 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 1 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 2 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 3 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 4 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
 | 5 | [Electricity](http://twitter.com/search?q=Electricity) | N/A |
 | 6 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 7 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 8 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 9 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 10 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 11 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 12 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 13 | [#failed](http://twitter.com/search?q=%23failed) | N/A |
-| 14 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
-| 15 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 16 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 17 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 18 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
-| 19 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 20 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 21 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 22 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 23 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
-| 24 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 25 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 26 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
-| 27 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 28 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
-| 29 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 30 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 31 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 32 | [ENCA](http://twitter.com/search?q=ENCA) | N/A |
-| 33 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
-| 34 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
-| 35 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
-| 36 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
-| 37 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 38 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
-| 39 | [Marete](http://twitter.com/search?q=Marete) | N/A |
-| 40 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 41 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 42 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 43 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
-| 44 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 7 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
+| 8 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 9 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
+| 10 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 11 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
+| 12 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 13 | [#Failed](http://twitter.com/search?q=%23Failed) | N/A |
+| 14 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 15 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 16 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 17 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 18 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 19 | [Julius Malema](http://twitter.com/search?q=Julius+Malema) | N/A |
+| 20 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
+| 21 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 22 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 23 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 24 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
+| 25 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 26 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 27 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 28 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 29 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 30 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
+| 31 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 32 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
+| 33 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 34 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
+| 35 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 36 | [Jhb CBD](http://twitter.com/search?q=Jhb+CBD) | N/A |
+| 37 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 38 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
+| 39 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
+| 40 | [Oksalayo](http://twitter.com/search?q=Oksalayo) | N/A |
+| 41 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
+| 42 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 43 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
+| 44 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 45 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
-| 46 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
-| 47 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 
 
 
