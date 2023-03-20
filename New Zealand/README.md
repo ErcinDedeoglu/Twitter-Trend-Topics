@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-20 14:19:10 UTC`
+📆 Last Updated: `2023-03-20 15:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for New Zealand
 | 24 | [Julian Batchelor](http://twitter.com/search?q=Julian+Batchelor) | N/A |
 | 25 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
 | 26 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
-| 27 | [Oranga Tamariki](http://twitter.com/search?q=Oranga+Tamariki) | N/A |
+| 27 | [oranga tamariki](http://twitter.com/search?q=oranga+tamariki) | N/A |
 | 28 | [wellington central](http://twitter.com/search?q=wellington+central) | N/A |
 | 29 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
 | 30 | [pharmac](http://twitter.com/search?q=pharmac) | N/A |
 | 31 | [teal card](http://twitter.com/search?q=teal+card) | N/A |
 | 32 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 34 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 35 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
-| 36 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 38 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 39 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 41 | [Coral](http://twitter.com/search?q=Coral) | N/A |
-| 42 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 43 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 44 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
-| 45 | [te tiriti](http://twitter.com/search?q=te+tiriti) | N/A |
-| 46 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 47 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 48 | [Genuinely](http://twitter.com/search?q=Genuinely) | N/A |
-| 49 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 50 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 33 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 34 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
+| 35 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 38 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [Coral](http://twitter.com/search?q=Coral) | N/A |
+| 41 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 42 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 43 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
+| 44 | [te tiriti](http://twitter.com/search?q=te+tiriti) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 47 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 48 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
+| 49 | [Genuinely](http://twitter.com/search?q=Genuinely) | N/A |
+| 50 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 
 
 

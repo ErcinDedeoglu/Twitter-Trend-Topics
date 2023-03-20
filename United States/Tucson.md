@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-03-20 14:19:05 UTC`
+📆 Last Updated: `2023-03-20 15:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 2 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 1 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 2 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 3 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
 | 6 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 7 | [#morningjoe](http://twitter.com/search?q=%23morningjoe) | N/A |
-| 8 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 9 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 10 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 11 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 12 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 13 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
-| 14 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
-| 15 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 16 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 17 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
-| 18 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 7 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 8 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 9 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 10 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 11 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
+| 12 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 13 | [David Wright](http://twitter.com/search?q=David+Wright) | N/A |
+| 14 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
+| 15 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
+| 16 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 17 | [Stephen Smith](http://twitter.com/search?q=Stephen+Smith) | N/A |
+| 18 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
 | 19 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 20 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 21 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 22 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 23 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
-| 24 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 25 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 28 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 29 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 30 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 31 | [John Brown](http://twitter.com/search?q=John+Brown) | John Brown is an English phrase that refers to a person who is brave and determined. It is often used as a metaphor for someone who stands up for what they believe in, even in the face of adversity. |
-| 32 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
-| 33 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 34 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 35 | [WMDs](http://twitter.com/search?q=WMDs) | N/A |
-| 36 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 37 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 38 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 39 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 40 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 41 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 42 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 43 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 44 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 45 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 47 | [South Beach](http://twitter.com/search?q=South+Beach) | N/A |
-| 48 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 49 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 20 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 21 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 22 | [Northern Hemisphere](http://twitter.com/search?q=Northern+Hemisphere) | N/A |
+| 23 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
+| 24 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 25 | [Cooley](http://twitter.com/search?q=Cooley) | N/A |
+| 26 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 27 | [Eva Longoria](http://twitter.com/search?q=Eva+Longoria) | N/A |
+| 28 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 29 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 30 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 31 | [Baghdad](http://twitter.com/search?q=Baghdad) | N/A |
+| 32 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 33 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 34 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 35 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 36 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 37 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 38 | [John Brown](http://twitter.com/search?q=John+Brown) | John Brown is an English phrase that refers to a person who is brave and determined. It is often used as a metaphor for someone who stands up for what they believe in, even in the face of adversity. |
+| 39 | [WMDs](http://twitter.com/search?q=WMDs) | N/A |
+| 40 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 41 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 42 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
+| 43 | [DA Bragg](http://twitter.com/search?q=DA+Bragg) | N/A |
+| 44 | [South Beach](http://twitter.com/search?q=South+Beach) | N/A |
+| 45 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 46 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 47 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 48 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
 
 
 

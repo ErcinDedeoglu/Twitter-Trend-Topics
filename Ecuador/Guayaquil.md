@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-20 14:18:25 UTC`
+📆 Last Updated: `2023-03-20 15:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 2 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
 | 3 | [burrai](http://twitter.com/search?q=burrai) | N/A |
-| 4 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 5 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
-| 6 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 7 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 10 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 11 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
-| 12 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 13 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 14 | [Técnico Universitario](http://twitter.com/search?q=T%c3%a9cnico+Universitario) | N/A |
-| 15 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 16 | [rondelli](http://twitter.com/search?q=rondelli) | N/A |
-| 17 | [pineida](http://twitter.com/search?q=pineida) | N/A |
-| 18 | [alberti](http://twitter.com/search?q=alberti) | N/A |
-| 19 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 20 | [renato ibarra](http://twitter.com/search?q=renato+ibarra) | N/A |
-| 21 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 23 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 24 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 25 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
-| 26 | [Manabi](http://twitter.com/search?q=Manabi) | N/A |
-| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 28 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 29 | [Romario](http://twitter.com/search?q=Romario) | N/A |
+| 4 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 5 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 6 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 8 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 9 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
+| 10 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
+| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 12 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 13 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 14 | [rondelli](http://twitter.com/search?q=rondelli) | N/A |
+| 15 | [pineida](http://twitter.com/search?q=pineida) | N/A |
+| 16 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 17 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 18 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 19 | [renato ibarra](http://twitter.com/search?q=renato+ibarra) | N/A |
+| 20 | [Técnico Universitario](http://twitter.com/search?q=T%c3%a9cnico+Universitario) | N/A |
+| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 22 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 23 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 24 | [Manabi](http://twitter.com/search?q=Manabi) | N/A |
+| 25 | [Romario](http://twitter.com/search?q=Romario) | N/A |
+| 26 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 28 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 29 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 30 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 31 | [Ángel González](http://twitter.com/search?q=%c3%81ngel+Gonz%c3%a1lez) | N/A |
-| 32 | [Balao](http://twitter.com/search?q=Balao) | N/A |
-| 33 | [pedro ortiz](http://twitter.com/search?q=pedro+ortiz) | N/A |
-| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 37 | [Olímpico Atahualpa](http://twitter.com/search?q=Ol%c3%admpico+Atahualpa) | N/A |
-| 38 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |
-| 39 | [jefferson caicedo](http://twitter.com/search?q=jefferson+caicedo) | N/A |
-| 40 | [Conmovedor](http://twitter.com/search?q=Conmovedor) | N/A |
-| 41 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 42 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
-| 43 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
-| 44 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 45 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
-| 46 | [capwell](http://twitter.com/search?q=capwell) | N/A |
-| 47 | [gonzalo pozo ripalda](http://twitter.com/search?q=gonzalo+pozo+ripalda) | N/A |
-| 48 | [micolta](http://twitter.com/search?q=micolta) | N/A |
-| 49 | [vinces](http://twitter.com/search?q=vinces) | N/A |
-| 50 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 32 | [pedro ortiz](http://twitter.com/search?q=pedro+ortiz) | N/A |
+| 33 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 35 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 36 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 37 | [jefferson caicedo](http://twitter.com/search?q=jefferson+caicedo) | N/A |
+| 38 | [Olímpico Atahualpa](http://twitter.com/search?q=Ol%c3%admpico+Atahualpa) | N/A |
+| 39 | [Conmovedor](http://twitter.com/search?q=Conmovedor) | N/A |
+| 40 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
+| 41 | [Balao](http://twitter.com/search?q=Balao) | N/A |
+| 42 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 43 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
+| 44 | [Carlos Gruezo](http://twitter.com/search?q=Carlos+Gruezo) | N/A |
+| 45 | [gonzalo pozo ripalda](http://twitter.com/search?q=gonzalo+pozo+ripalda) | N/A |
+| 46 | [Micolta](http://twitter.com/search?q=Micolta) | N/A |
+| 47 | [Vinces](http://twitter.com/search?q=Vinces) | N/A |
+| 48 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 49 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 50 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
 
 
 

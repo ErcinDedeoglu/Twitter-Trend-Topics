@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-20 14:19:10 UTC`
+📆 Last Updated: `2023-03-20 15:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Norway
 | 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 11 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
 | 12 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 13 | [Tenk](http://twitter.com/search?q=Tenk) | N/A |
-| 14 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
-| 15 | [Lysbakken](http://twitter.com/search?q=Lysbakken) | N/A |
-| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 17 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 13 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 14 | [Lysbakken](http://twitter.com/search?q=Lysbakken) | N/A |
+| 15 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 16 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 18 | [melkøya](http://twitter.com/search?q=melk%c3%b8ya) | N/A |
-| 19 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
-| 20 | [dennis hauger](http://twitter.com/search?q=dennis+hauger) | N/A |
-| 21 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 22 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 23 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
-| 24 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 25 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 27 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
-| 28 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 29 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 32 | [vikersund](http://twitter.com/search?q=vikersund) | N/A |
-| 33 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 20 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
+| 21 | [dennis hauger](http://twitter.com/search?q=dennis+hauger) | N/A |
+| 22 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 24 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 25 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
+| 26 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 30 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
+| 31 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 32 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
+| 33 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
+| 34 | [vikersund](http://twitter.com/search?q=vikersund) | N/A |
 | 35 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 36 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 37 | [Takk](http://twitter.com/search?q=Takk) | N/A |
-| 38 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 39 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 40 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 42 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | N/A |
-| 45 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [Molde](http://twitter.com/search?q=Molde) | N/A |
-| 48 | [Norges](http://twitter.com/search?q=Norges) | N/A |
-| 49 | [minner](http://twitter.com/search?q=minner) | N/A |
-| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
+| 37 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 38 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 39 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 40 | [Senterpartiet](http://twitter.com/search?q=Senterpartiet) | N/A |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 43 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [minner](http://twitter.com/search?q=minner) | N/A |
+| 46 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 47 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
+| 48 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 49 | [Merkelig](http://twitter.com/search?q=Merkelig) | N/A |
+| 50 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 
 
 

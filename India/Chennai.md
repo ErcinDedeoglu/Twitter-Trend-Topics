@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-20 14:18:55 UTC`
+📆 Last Updated: `2023-03-20 15:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PTRPalanivelThiagarajan](http://twitter.com/search?q=%23PTRPalanivelThiagarajan) | N/A |
-| 2 | [#தமிழ்நாடு](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%81) | #தமிழ்நாடு is a hashtag used on social media to refer to the Indian state of Tamil Nadu. In English, it translates to "Tamil Nadu". |
-| 3 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
-| 4 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
-| 5 | [#iQOOZ7onAmazonSpecials](http://twitter.com/search?q=%23iQOOZ7onAmazonSpecials) | N/A |
+| 1 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
+| 2 | [#ManiRatnam](http://twitter.com/search?q=%23ManiRatnam) | N/A |
+| 3 | [#Trisha](http://twitter.com/search?q=%23Trisha) | N/A |
+| 4 | [#TNGovt](http://twitter.com/search?q=%23TNGovt) | N/A |
+| 5 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
 | 6 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 7 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 8 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 9 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 10 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 11 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 12 | [London](http://twitter.com/search?q=London) | N/A |
-| 13 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
-| 14 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
-| 15 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 16 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 17 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 18 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
-| 19 | [Indian High Commission](http://twitter.com/search?q=Indian+High+Commission) | N/A |
-| 20 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 21 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 22 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
-| 23 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 24 | [Hindu Rashtra](http://twitter.com/search?q=Hindu+Rashtra) | N/A |
-| 25 | [#realmeC55LaunchingTomorrow](http://twitter.com/search?q=%23realmeC55LaunchingTomorrow) | N/A |
-| 26 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 27 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
-| 28 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
-| 29 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
-| 30 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 31 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
-| 32 | [#WakeUpHaarikaHassine](http://twitter.com/search?q=%23WakeUpHaarikaHassine) | N/A |
-| 33 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 34 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
-| 35 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 36 | [#HondaThinksAhead](http://twitter.com/search?q=%23HondaThinksAhead) | N/A |
-| 37 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
-| 38 | [#EVKSElangovan](http://twitter.com/search?q=%23EVKSElangovan) | N/A |
-| 39 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
-| 40 | [#TDPDalitMLAattackedInAssembly](http://twitter.com/search?q=%23TDPDalitMLAattackedInAssembly) | N/A |
-| 41 | [#TDPRowdiesInAssembly](http://twitter.com/search?q=%23TDPRowdiesInAssembly) | N/A |
-| 42 | [#WorldHappinessDay](http://twitter.com/search?q=%23WorldHappinessDay) | N/A |
-| 43 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
-| 44 | [#DMKFailsTN](http://twitter.com/search?q=%23DMKFailsTN) | N/A |
-| 45 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 46 | [#RashmikaMandanna](http://twitter.com/search?q=%23RashmikaMandanna) | N/A |
-| 47 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 48 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
-| 49 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
-| 50 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
+| 7 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
+| 8 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 9 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 10 | [WAY MORE TO GO AISHWARYA](http://twitter.com/search?q=WAY+MORE+TO+GO+AISHWARYA) | N/A |
+| 11 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 12 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 13 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 14 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 15 | [बाई लोधी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 16 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
+| 17 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
+| 18 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 19 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
+| 20 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 21 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
+| 22 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
+| 23 | [#iQOOZ7onAmazonSpecials](http://twitter.com/search?q=%23iQOOZ7onAmazonSpecials) | N/A |
+| 24 | [#realmeC55LaunchingTomorrow](http://twitter.com/search?q=%23realmeC55LaunchingTomorrow) | N/A |
+| 25 | [#50DaysForTHEVDBday](http://twitter.com/search?q=%2350DaysForTHEVDBday) | N/A |
+| 26 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
+| 27 | [#AgaNaga](http://twitter.com/search?q=%23AgaNaga) | N/A |
+| 28 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 29 | [#PonniyinSelvan2](http://twitter.com/search?q=%23PonniyinSelvan2) | N/A |
+| 30 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 31 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
+| 32 | [#News18IndiaChaupal](http://twitter.com/search?q=%23News18IndiaChaupal) | N/A |
+| 33 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
+| 34 | [#RocketBoys2OnSonyLIV](http://twitter.com/search?q=%23RocketBoys2OnSonyLIV) | N/A |
+| 35 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 36 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
+| 37 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
+| 38 | [#FullyLoaded](http://twitter.com/search?q=%23FullyLoaded) | N/A |
+| 39 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
+| 40 | [#WakeUpHaarikaHassine](http://twitter.com/search?q=%23WakeUpHaarikaHassine) | N/A |
+| 41 | [#VijayDeverakonda](http://twitter.com/search?q=%23VijayDeverakonda) | N/A |
+| 42 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
+| 43 | [#RashmikaMandanna](http://twitter.com/search?q=%23RashmikaMandanna) | N/A |
+| 44 | [#WorldHappinessDay](http://twitter.com/search?q=%23WorldHappinessDay) | N/A |
+| 45 | [#TDPRowdiesInAssembly](http://twitter.com/search?q=%23TDPRowdiesInAssembly) | N/A |
+| 46 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
+| 47 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
+| 48 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
+| 49 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 50 | [#Agent](http://twitter.com/search?q=%23Agent) | N/A |
 
 
 

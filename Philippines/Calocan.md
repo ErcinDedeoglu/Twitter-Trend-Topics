@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-20 14:18:44 UTC`
+📆 Last Updated: `2023-03-20 15:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 2 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 3 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
-| 4 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 5 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 6 | [#HealthyPIEnightWithRADISH](http://twitter.com/search?q=%23HealthyPIEnightWithRADISH) | N/A |
-| 7 | [#SPCAtlas2023](http://twitter.com/search?q=%23SPCAtlas2023) | N/A |
-| 8 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 9 | [1MILLION HEARTS FOR HEESEUNG](http://twitter.com/search?q=1MILLION+HEARTS+FOR+HEESEUNG) | N/A |
-| 10 | [marchsayangasap withdonbelle](http://twitter.com/search?q=marchsayangasap+withdonbelle) | N/A |
-| 11 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 12 | [NEWT](http://twitter.com/search?q=NEWT) | N/A |
-| 13 | [BEST WISHES RUCA](http://twitter.com/search?q=BEST+WISHES+RUCA) | N/A |
-| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 15 | [Aida](http://twitter.com/search?q=Aida) | N/A |
-| 16 | [Ishiro Tambay Sa Pie](http://twitter.com/search?q=Ishiro+Tambay+Sa+Pie) | N/A |
-| 17 | [DREInk Your Water](http://twitter.com/search?q=DREInk+Your+Water) | N/A |
-| 18 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 19 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
-| 20 | [BEST ACTRESS PARK SOOYOUNG](http://twitter.com/search?q=BEST+ACTRESS+PARK+SOOYOUNG) | N/A |
-| 21 | [sPIEcy ASI](http://twitter.com/search?q=sPIEcy+ASI) | N/A |
-| 22 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
-| 23 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 24 | [LISTEN TO NEVERLAND](http://twitter.com/search?q=LISTEN+TO+NEVERLAND) | N/A |
-| 25 | [vinchanted to meet u](http://twitter.com/search?q=vinchanted+to+meet+u) | N/A |
-| 26 | [My Gosh](http://twitter.com/search?q=My+Gosh) | N/A |
-| 27 | [Conquest](http://twitter.com/search?q=Conquest) | N/A |
-| 28 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 29 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
-| 30 | [KHOI](http://twitter.com/search?q=KHOI) | N/A |
-| 31 | [HAPPY 100TH TO DO x TXT](http://twitter.com/search?q=HAPPY+100TH+TO+DO+x+TXT) | N/A |
-| 32 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
-| 33 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
-| 34 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 35 | [benchrunway withfrancine](http://twitter.com/search?q=benchrunway+withfrancine) | N/A |
-| 36 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
-| 37 | [FILM KAI PREMIERE](http://twitter.com/search?q=FILM+KAI+PREMIERE) | N/A |
-| 38 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 39 | [kadaily alexa in singapore](http://twitter.com/search?q=kadaily+alexa+in+singapore) | N/A |
-| 40 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 41 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 42 | [IANGAT ANG PPOP](http://twitter.com/search?q=IANGAT+ANG+PPOP) | N/A |
-| 43 | [5TH MONTHSARY KARLIA](http://twitter.com/search?q=5TH+MONTHSARY+KARLIA) | N/A |
-| 44 | [GINO OnBoysNightOut](http://twitter.com/search?q=GINO+OnBoysNightOut) | N/A |
-| 45 | [Chaennie](http://twitter.com/search?q=Chaennie) | N/A |
-| 46 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
-| 47 | [ALAMAT BACK AT PPOPFEST](http://twitter.com/search?q=ALAMAT+BACK+AT+PPOPFEST) | N/A |
-| 48 | [ArawNgPanabo WithDAVID](http://twitter.com/search?q=ArawNgPanabo+WithDAVID) | N/A |
-| 49 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
-| 50 | [magandangbuhay jm yosures](http://twitter.com/search?q=magandangbuhay+jm+yosures) | N/A |
+| 1 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 2 | [#HealthyPIEnightWithRADISH](http://twitter.com/search?q=%23HealthyPIEnightWithRADISH) | N/A |
+| 3 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 4 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
+| 5 | [#DreamMakerPIENight](http://twitter.com/search?q=%23DreamMakerPIENight) | N/A |
+| 6 | [#UrdujaPutukan](http://twitter.com/search?q=%23UrdujaPutukan) | N/A |
+| 7 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
+| 8 | [#일훈이와_나눈_11년을_잊을수_있을리가](http://twitter.com/search?q=%23%ec%9d%bc%ed%9b%88%ec%9d%b4%ec%99%80_%eb%82%98%eb%88%88_11%eb%85%84%ec%9d%84_%ec%9e%8a%ec%9d%84%ec%88%98_%ec%9e%88%ec%9d%84%eb%a6%ac%ea%b0%80) | N/A |
+| 9 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
+| 10 | [DASH MV TEASER 2](http://twitter.com/search?q=DASH+MV+TEASER+2) | N/A |
+| 11 | [DREInk Your Water](http://twitter.com/search?q=DREInk+Your+Water) | N/A |
+| 12 | [1MILLION HEARTS FOR HEESEUNG](http://twitter.com/search?q=1MILLION+HEARTS+FOR+HEESEUNG) | N/A |
+| 13 | [NEWT](http://twitter.com/search?q=NEWT) | N/A |
+| 14 | [BEST WISHES RUCA](http://twitter.com/search?q=BEST+WISHES+RUCA) | N/A |
+| 15 | [sPIEcy ASI](http://twitter.com/search?q=sPIEcy+ASI) | N/A |
+| 16 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
+| 17 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 18 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
+| 19 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 20 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 21 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
+| 22 | [CHERRY BLOSSOM RELEASE](http://twitter.com/search?q=CHERRY+BLOSSOM+RELEASE) | N/A |
+| 23 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
+| 24 | [BGYO AT AyalaFeliz March26](http://twitter.com/search?q=BGYO+AT+AyalaFeliz+March26) | N/A |
+| 25 | [#ILLeventhDebutAnniversary](http://twitter.com/search?q=%23ILLeventhDebutAnniversary) | N/A |
+| 26 | [#TheWriteOneWorldPremiere](http://twitter.com/search?q=%23TheWriteOneWorldPremiere) | N/A |
+| 27 | [#HORI7ON_DASH_D1](http://twitter.com/search?q=%23HORI7ON_DASH_D1) | N/A |
+| 28 | [#NadineLustreYT](http://twitter.com/search?q=%23NadineLustreYT) | N/A |
+| 29 | [#HOIUnangLaban](http://twitter.com/search?q=%23HOIUnangLaban) | N/A |
+| 30 | [#IVE_LOVEDIVE_200MILLION](http://twitter.com/search?q=%23IVE_LOVEDIVE_200MILLION) | N/A |
+| 31 | [#Happy1MLikes_HeeCover](http://twitter.com/search?q=%23Happy1MLikes_HeeCover) | N/A |
+| 32 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 33 | [#FPJBQNilooban](http://twitter.com/search?q=%23FPJBQNilooban) | N/A |
+| 34 | [#PLUUSDebut](http://twitter.com/search?q=%23PLUUSDebut) | N/A |
+| 35 | [#DLFrustration](http://twitter.com/search?q=%23DLFrustration) | N/A |
+| 36 | [#ShineThroughGoodWorks](http://twitter.com/search?q=%23ShineThroughGoodWorks) | N/A |
+| 37 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
+| 38 | [#LazadaMondayMineDay](http://twitter.com/search?q=%23LazadaMondayMineDay) | N/A |
+| 39 | [#JulieVerse](http://twitter.com/search?q=%23JulieVerse) | N/A |
+| 40 | [#DavidLicaucoInPanabo](http://twitter.com/search?q=%23DavidLicaucoInPanabo) | N/A |
+| 41 | [#MNL48](http://twitter.com/search?q=%23MNL48) | N/A |
+| 42 | [#PasigForBGYOthisSunday](http://twitter.com/search?q=%23PasigForBGYOthisSunday) | N/A |
+| 43 | [#PasigLaban](http://twitter.com/search?q=%23PasigLaban) | N/A |
+| 44 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 45 | [#LeftandRight](http://twitter.com/search?q=%23LeftandRight) | #LeftandRight is a hashtag used to refer to the political divide between left-wing and right-wing ideologies. It is often used to discuss current events and political debates, as well as to express opinions on various topics. |
+| 46 | [#BOYCOTTEBxAPTxGMA740](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA740) | N/A |
 
 
 
