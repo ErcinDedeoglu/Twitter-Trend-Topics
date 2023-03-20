@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-20 03:16:14 UTC`
+📆 Last Updated: `2023-03-20 04:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 2 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
-| 3 | [#AllStarEliminación](http://twitter.com/search?q=%23AllStarEliminaci%c3%b3n) | N/A |
-| 4 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 5 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
-| 6 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 7 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 8 | [#MiFamosoYYo](http://twitter.com/search?q=%23MiFamosoYYo) | N/A |
-| 9 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 12 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 13 | [Olga](http://twitter.com/search?q=Olga) | N/A |
-| 14 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 15 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 16 | [Boyi](http://twitter.com/search?q=Boyi) | N/A |
-| 17 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 18 | [Corregidora](http://twitter.com/search?q=Corregidora) | N/A |
-| 19 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 20 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 21 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 22 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 24 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 25 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
-| 26 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
-| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 28 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 29 | [Un México](http://twitter.com/search?q=Un+M%c3%a9xico) | N/A |
-| 30 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
-| 31 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 32 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 33 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 34 | [Yami](http://twitter.com/search?q=Yami) | N/A |
-| 35 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 36 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 38 | [El México](http://twitter.com/search?q=El+M%c3%a9xico) | N/A |
-| 39 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 40 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 41 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 42 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 43 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 44 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 45 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 46 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 47 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 48 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 1 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 2 | [#AllStarEliminación](http://twitter.com/search?q=%23AllStarEliminaci%c3%b3n) | N/A |
+| 3 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 4 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 5 | [#MiFamosoYYo](http://twitter.com/search?q=%23MiFamosoYYo) | N/A |
+| 6 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
+| 7 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 8 | [TE AMO LOUIS](http://twitter.com/search?q=TE+AMO+LOUIS) | N/A |
+| 9 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 10 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 11 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
+| 12 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 13 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 14 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 15 | [MI PAÍS](http://twitter.com/search?q=MI+PA%c3%8dS) | N/A |
+| 16 | [Olga](http://twitter.com/search?q=Olga) | N/A |
+| 17 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
+| 18 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 19 | [Corregidora](http://twitter.com/search?q=Corregidora) | N/A |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 22 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 23 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 24 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 25 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 27 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 28 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 29 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 31 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 33 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 34 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 35 | [TE AMOOOO](http://twitter.com/search?q=TE+AMOOOO) | N/A |
+| 36 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 37 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 38 | [Un México](http://twitter.com/search?q=Un+M%c3%a9xico) | N/A |
+| 39 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
+| 40 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [El México](http://twitter.com/search?q=El+M%c3%a9xico) | N/A |
+| 43 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 44 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 45 | [Yami](http://twitter.com/search?q=Yami) | N/A |
+| 46 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 47 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 48 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 49 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 
 
 
