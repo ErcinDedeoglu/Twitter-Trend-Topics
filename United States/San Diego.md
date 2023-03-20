@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-20 22:17:49 UTC`
+📆 Last Updated: `2023-03-20 23:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
-| 4 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 5 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 8 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 9 | [Manhattan DA](http://twitter.com/search?q=Manhattan+DA) | N/A |
-| 10 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 11 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 12 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 13 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 14 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 15 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 16 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 17 | [Dalton Schultz](http://twitter.com/search?q=Dalton+Schultz) | N/A |
-| 18 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 19 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 20 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 21 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 22 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 23 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 24 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 25 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 26 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 28 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 29 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
-| 30 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 31 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 32 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
-| 33 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 34 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 35 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
-| 36 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 37 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 38 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 39 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 40 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 41 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 42 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
-| 43 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 44 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
-| 45 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
-| 46 | [Ted Lieu](http://twitter.com/search?q=Ted+Lieu) | Ted Lieu is the name of a Democratic member of the United States House of Representatives from California's 33rd congressional district. His name is derived from his Chinese surname, which means "place" or "location." |
-| 47 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 48 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 49 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 1 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 2 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 3 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 6 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 9 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 11 | [Manhattan DA](http://twitter.com/search?q=Manhattan+DA) | N/A |
+| 12 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 13 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 14 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 15 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 16 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 17 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 18 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 19 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
+| 20 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
+| 21 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 22 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 23 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 24 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
+| 25 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 26 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 27 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 28 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 29 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
+| 30 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 31 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
+| 32 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 33 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 34 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 35 | [Adrianza](http://twitter.com/search?q=Adrianza) | N/A |
+| 36 | [Justin Evans](http://twitter.com/search?q=Justin+Evans) | N/A |
+| 37 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 38 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
+| 39 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 40 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 41 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 42 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
+| 43 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 44 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
+| 45 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 46 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 47 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
+| 48 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 49 | [Motor](http://twitter.com/search?q=Motor) | N/A |
 
 
 

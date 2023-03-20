@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-20 22:16:51 UTC`
+📆 Last Updated: `2023-03-20 23:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 2 | [#LaIslaDeLasTentaciones9](http://twitter.com/search?q=%23LaIslaDeLasTentaciones9) | N/A |
-| 3 | [LIBERTAD Y ORDEN](http://twitter.com/search?q=LIBERTAD+Y+ORDEN) | N/A |
-| 4 | [#LaleyiAklayamazsınTRT](http://twitter.com/search?q=%23LaleyiAklayamazs%c4%b1nTRT) | N/A |
-| 5 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
-| 6 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
-| 7 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 8 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 9 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 10 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 11 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 12 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
-| 13 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 14 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
-| 15 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 16 | [春分の日](http://twitter.com/search?q=%e6%98%a5%e5%88%86%e3%81%ae%e6%97%a5) | N/A |
-| 17 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 18 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
-| 19 | [Dalton Schultz](http://twitter.com/search?q=Dalton+Schultz) | N/A |
-| 20 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 21 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 22 | [Natacha Jaitt](http://twitter.com/search?q=Natacha+Jaitt) | N/A |
-| 23 | [きゃりーちゃん](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 24 | [Marcelo Corazza](http://twitter.com/search?q=Marcelo+Corazza) | N/A |
-| 25 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 26 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 27 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
-| 28 | [新八犬伝](http://twitter.com/search?q=%e6%96%b0%e5%85%ab%e7%8a%ac%e4%bc%9d) | N/A |
-| 29 | [杉本健勇](http://twitter.com/search?q=%e6%9d%89%e6%9c%ac%e5%81%a5%e5%8b%87) | N/A |
-| 30 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 31 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 32 | [Ryan Mason](http://twitter.com/search?q=Ryan+Mason) | N/A |
-| 33 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
-| 34 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 35 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 36 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 37 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 38 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 39 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 40 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 41 | [万能ストライカー](http://twitter.com/search?q=%e4%b8%87%e8%83%bd%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%ab%e3%83%bc) | N/A |
-| 42 | [WBCのため](http://twitter.com/search?q=WBC%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
-| 43 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
-| 44 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 45 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
-| 46 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 47 | [足元の技術](http://twitter.com/search?q=%e8%b6%b3%e5%85%83%e3%81%ae%e6%8a%80%e8%a1%93) | N/A |
-| 48 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
-| 49 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 50 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 3 | [#WBC準決勝](http://twitter.com/search?q=%23WBC%e6%ba%96%e6%b1%ba%e5%8b%9d) | N/A |
+| 4 | [#TBSでWBC](http://twitter.com/search?q=%23TBS%e3%81%a7WBC) | N/A |
+| 5 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
+| 6 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 7 | [春分の日](http://twitter.com/search?q=%e6%98%a5%e5%88%86%e3%81%ae%e6%97%a5) | N/A |
+| 8 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 9 | [LIBERTAD Y ORDEN](http://twitter.com/search?q=LIBERTAD+Y+ORDEN) | N/A |
+| 10 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 11 | [WBCのため](http://twitter.com/search?q=WBC%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
+| 12 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 13 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 14 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
+| 15 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 16 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 17 | [中居くん](http://twitter.com/search?q=%e4%b8%ad%e5%b1%85%e3%81%8f%e3%82%93) | 中居くん is a nickname for Japanese actor and singer Masaki Nishikino. It is a combination of his given name, Masaki, and the Japanese honorific suffix “-kun” which is used to refer to young boys or close friends. In English, it can be translated as “Masaki-kun”. |
+| 18 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 19 | [きゃりーちゃん](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 21 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 22 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 23 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 24 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 25 | [松坂大輔](http://twitter.com/search?q=%e6%9d%be%e5%9d%82%e5%a4%a7%e8%bc%94) | N/A |
+| 26 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 27 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 28 | [最強開運日](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e9%96%8b%e9%81%8b%e6%97%a5) | 最強開運日 is a Japanese term that literally translates to "strongest luck day". It is a day of the year when people believe that their luck will be at its peak and they can expect good fortune. |
+| 29 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 30 | [哲人スタメン](http://twitter.com/search?q=%e5%93%b2%e4%ba%ba%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 31 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
+| 32 | [杉本健勇](http://twitter.com/search?q=%e6%9d%89%e6%9c%ac%e5%81%a5%e5%8b%87) | N/A |
+| 33 | [祝日出勤](http://twitter.com/search?q=%e7%a5%9d%e6%97%a5%e5%87%ba%e5%8b%a4) | N/A |
+| 34 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
+| 35 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 36 | [野球の時間](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e6%99%82%e9%96%93) | N/A |
+| 37 | [Natacha Jaitt](http://twitter.com/search?q=Natacha+Jaitt) | N/A |
+| 38 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 39 | [WBC待機](http://twitter.com/search?q=WBC%e5%be%85%e6%a9%9f) | N/A |
+| 40 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
+| 41 | [朗希くん](http://twitter.com/search?q=%e6%9c%97%e5%b8%8c%e3%81%8f%e3%82%93) | 朗希くん is a character from the Japanese manga series, "Kimi no Na wa". His name translates to "Langxi" in English. He is a mysterious figure who appears in the story and helps the protagonist, Mitsuha, on her journey. |
+| 42 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 43 | [山田スタメン](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 44 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
+| 45 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 46 | [WBC応援](http://twitter.com/search?q=WBC%e5%bf%9c%e6%8f%b4) | N/A |
+| 47 | [試合開始](http://twitter.com/search?q=%e8%a9%a6%e5%90%88%e9%96%8b%e5%a7%8b) | N/A |
+| 48 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
+| 49 | [野球のため](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
+| 50 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 
 
 

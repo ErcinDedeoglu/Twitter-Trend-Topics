@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-20 22:17:42 UTC`
+📆 Last Updated: `2023-03-20 23:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 2 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 3 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 4 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 5 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 6 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 7 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 8 | [Dalton Schultz](http://twitter.com/search?q=Dalton+Schultz) | N/A |
-| 9 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 10 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 11 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 12 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 13 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 14 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 15 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 16 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 17 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 18 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 19 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 20 | [#IReallyWantToBringBack](http://twitter.com/search?q=%23IReallyWantToBringBack) | N/A |
-| 21 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 22 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 23 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 24 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
-| 25 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 26 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 27 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
-| 28 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 29 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 30 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 31 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 32 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 33 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 34 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 35 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 36 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 37 | [Ted Lieu](http://twitter.com/search?q=Ted+Lieu) | Ted Lieu is the name of a Democratic member of the United States House of Representatives from California's 33rd congressional district. His name is derived from his Chinese surname, which means "place" or "location." |
-| 38 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 39 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 40 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
-| 41 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
-| 42 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 43 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 44 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
-| 45 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 46 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 47 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 48 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 49 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 50 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 2 | [#GoBucks](http://twitter.com/search?q=%23GoBucks) | N/A |
+| 3 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 4 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 5 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 6 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 7 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 8 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 9 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
+| 10 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
+| 11 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 12 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
+| 13 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 14 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 15 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 16 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 17 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 18 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
+| 19 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 20 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 21 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 22 | [#ImNotHidingImAvoiding](http://twitter.com/search?q=%23ImNotHidingImAvoiding) | N/A |
+| 23 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 24 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
+| 25 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 26 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
+| 27 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 28 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 29 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 30 | [Adrianza](http://twitter.com/search?q=Adrianza) | N/A |
+| 31 | [Justin Evans](http://twitter.com/search?q=Justin+Evans) | N/A |
+| 32 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 33 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
+| 34 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 35 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 36 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 37 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
+| 38 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 39 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
+| 40 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 41 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 42 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
+| 43 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 44 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 45 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 46 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 47 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 48 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 49 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
+| 50 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
 
 
 

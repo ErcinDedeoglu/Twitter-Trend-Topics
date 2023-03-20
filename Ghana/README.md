@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-20 22:17:53 UTC`
+📆 Last Updated: `2023-03-20 23:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Ghana
 | 1 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
 | 2 | [GameAnalyst](http://twitter.com/search?q=GameAnalyst) | N/A |
 | 3 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 4 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [#TrueStateOfTheNationAddress](http://twitter.com/search?q=%23TrueStateOfTheNationAddress) | N/A |
-| 7 | [#YLounge](http://twitter.com/search?q=%23YLounge) | N/A |
-| 8 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#TrueStateOfTheNationAddress](http://twitter.com/search?q=%23TrueStateOfTheNationAddress) | N/A |
+| 6 | [#YLounge](http://twitter.com/search?q=%23YLounge) | N/A |
+| 7 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 8 | [#WOHD23](http://twitter.com/search?q=%23WOHD23) | N/A |
 | 9 | [University of Ghana](http://twitter.com/search?q=University+of+Ghana) | N/A |
-| 10 | [#WOHD23](http://twitter.com/search?q=%23WOHD23) | N/A |
+| 10 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 11 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 12 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 13 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 14 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 15 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 16 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 17 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 18 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 19 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 20 | [Black Stars](http://twitter.com/search?q=Black+Stars) | N/A |
-| 21 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 22 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 23 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
-| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 25 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 27 | [Flow Delly](http://twitter.com/search?q=Flow+Delly) | N/A |
-| 28 | [Drip](http://twitter.com/search?q=Drip) | N/A |
-| 29 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 30 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 31 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 32 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 33 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 34 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 35 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 36 | [culers](http://twitter.com/search?q=culers) | N/A |
-| 37 | [Prempeh College](http://twitter.com/search?q=Prempeh+College) | N/A |
-| 38 | [World Oral Health Day](http://twitter.com/search?q=World+Oral+Health+Day) | N/A |
-| 39 | [king nasir](http://twitter.com/search?q=king+nasir) | N/A |
-| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 41 | [Mansa Musa](http://twitter.com/search?q=Mansa+Musa) | N/A |
+| 12 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 13 | [Flow Delly](http://twitter.com/search?q=Flow+Delly) | N/A |
+| 14 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 15 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 16 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 17 | [Black Stars](http://twitter.com/search?q=Black+Stars) | N/A |
+| 18 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 19 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
+| 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 21 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 22 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 23 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 24 | [Drip](http://twitter.com/search?q=Drip) | N/A |
+| 25 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 26 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 27 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 28 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 29 | [Medikal](http://twitter.com/search?q=Medikal) | N/A |
+| 30 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 31 | [CULERS](http://twitter.com/search?q=CULERS) | N/A |
+| 32 | [Prempeh College](http://twitter.com/search?q=Prempeh+College) | N/A |
+| 33 | [AFRICA ARISE FOR THABANG](http://twitter.com/search?q=AFRICA+ARISE+FOR+THABANG) | N/A |
+| 34 | [AFRICA ARISE FOR THABANG](http://twitter.com/search?q=AFRICA+ARISE+FOR+THABANG) | N/A |
+| 35 | [World Oral Health Day](http://twitter.com/search?q=World+Oral+Health+Day) | N/A |
+| 36 | [king nasir](http://twitter.com/search?q=king+nasir) | N/A |
+| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 38 | [Mansa Musa](http://twitter.com/search?q=Mansa+Musa) | N/A |
+| 39 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 40 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 42 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 43 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 44 | [Medikal](http://twitter.com/search?q=Medikal) | N/A |
-| 45 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 47 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 48 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 49 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 50 | [Opoku Ware](http://twitter.com/search?q=Opoku+Ware) | N/A |
+| 43 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 44 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 46 | [Opoku Ware](http://twitter.com/search?q=Opoku+Ware) | N/A |
+| 47 | [REASON FOR THE SEASON](http://twitter.com/search?q=REASON+FOR+THE+SEASON) | N/A |
+| 48 | [BELLA OKAGBUE](http://twitter.com/search?q=BELLA+OKAGBUE) | N/A |
+| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 50 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
 
 
 
