@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-20 09:17:13 UTC`
+📆 Last Updated: `2023-03-20 10:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
 | 2 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
 | 3 | [#SPCAtlas2023](http://twitter.com/search?q=%23SPCAtlas2023) | N/A |
-| 4 | [#PPOPCOM2023](http://twitter.com/search?q=%23PPOPCOM2023) | N/A |
-| 5 | [#ETONCENTRIS](http://twitter.com/search?q=%23ETONCENTRIS) | N/A |
+| 4 | [#WatchFilmKaiRover](http://twitter.com/search?q=%23WatchFilmKaiRover) | N/A |
+| 5 | [JOIN PPOPCOM2023](http://twitter.com/search?q=JOIN+PPOPCOM2023) | N/A |
 | 6 | [marchsayangasap withdonbelle](http://twitter.com/search?q=marchsayangasap+withdonbelle) | N/A |
-| 7 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 8 | [kinji loveteam onasap](http://twitter.com/search?q=kinji+loveteam+onasap) | N/A |
-| 9 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
-| 10 | [kilig kantahan withanji](http://twitter.com/search?q=kilig+kantahan+withanji) | N/A |
-| 11 | [ArawNgPanabo WithDAVID](http://twitter.com/search?q=ArawNgPanabo+WithDAVID) | N/A |
-| 12 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 13 | [vinchanted to meet u](http://twitter.com/search?q=vinchanted+to+meet+u) | N/A |
-| 14 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
-| 15 | [JC 360 LISTENING PARTY](http://twitter.com/search?q=JC+360+LISTENING+PARTY) | N/A |
-| 16 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 17 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
-| 18 | [House Committee](http://twitter.com/search?q=House+Committee) | N/A |
-| 19 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 20 | [btob seminar at melody company](http://twitter.com/search?q=btob+seminar+at+melody+company) | N/A |
-| 21 | [alexa powerparty onasap](http://twitter.com/search?q=alexa+powerparty+onasap) | N/A |
-| 22 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 23 | [sarah g power concert](http://twitter.com/search?q=sarah+g+power+concert) | N/A |
-| 24 | [ward reinalyn kumuniversary](http://twitter.com/search?q=ward+reinalyn+kumuniversary) | N/A |
-| 25 | [BENCHRunway WithFRANCINE](http://twitter.com/search?q=BENCHRunway+WithFRANCINE) | N/A |
-| 26 | [kadaily alexa in singapore](http://twitter.com/search?q=kadaily+alexa+in+singapore) | N/A |
-| 27 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
-| 28 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 29 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 30 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
-| 31 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 32 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 33 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 7 | [#PPOPRISE](http://twitter.com/search?q=%23PPOPRISE) | N/A |
+| 8 | [FILM KAI PREMIERE](http://twitter.com/search?q=FILM+KAI+PREMIERE) | N/A |
+| 9 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 10 | [kinji loveteam onasap](http://twitter.com/search?q=kinji+loveteam+onasap) | N/A |
+| 11 | [kilig kantahan withanji](http://twitter.com/search?q=kilig+kantahan+withanji) | N/A |
+| 12 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
+| 13 | [BGYO AT AyalaFeliz March26](http://twitter.com/search?q=BGYO+AT+AyalaFeliz+March26) | N/A |
+| 14 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 15 | [iangat ang ppop](http://twitter.com/search?q=iangat+ang+ppop) | N/A |
+| 16 | [My Gosh](http://twitter.com/search?q=My+Gosh) | N/A |
+| 17 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
+| 18 | [vinchanted to meet u](http://twitter.com/search?q=vinchanted+to+meet+u) | N/A |
+| 19 | [JC 360 LISTENING PARTY](http://twitter.com/search?q=JC+360+LISTENING+PARTY) | N/A |
+| 20 | [5TH MONTHSARY KARLIA](http://twitter.com/search?q=5TH+MONTHSARY+KARLIA) | N/A |
+| 21 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
+| 22 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 23 | [ArawNgPanabo WithDAVID](http://twitter.com/search?q=ArawNgPanabo+WithDAVID) | N/A |
+| 24 | [btob seminar at melody company](http://twitter.com/search?q=btob+seminar+at+melody+company) | N/A |
+| 25 | [alexa powerparty onasap](http://twitter.com/search?q=alexa+powerparty+onasap) | N/A |
+| 26 | [ward reinalyn kumuniversary](http://twitter.com/search?q=ward+reinalyn+kumuniversary) | N/A |
+| 27 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 28 | [benchrunway withfrancine](http://twitter.com/search?q=benchrunway+withfrancine) | N/A |
+| 29 | [kadaily alexa in singapore](http://twitter.com/search?q=kadaily+alexa+in+singapore) | N/A |
+| 30 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 31 | [ALAMAT BACK AT PPOPFEST](http://twitter.com/search?q=ALAMAT+BACK+AT+PPOPFEST) | N/A |
+| 32 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 33 | [HORI7ON GROUP PHOTO TEASER](http://twitter.com/search?q=HORI7ON+GROUP+PHOTO+TEASER) | N/A |
 | 34 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
-| 35 | [Papa Warner](http://twitter.com/search?q=Papa+Warner) | N/A |
-| 36 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
-| 37 | [magandangbuhay jm yosures](http://twitter.com/search?q=magandangbuhay+jm+yosures) | N/A |
-| 38 | [HORI7ON GROUP PHOTO TEASER](http://twitter.com/search?q=HORI7ON+GROUP+PHOTO+TEASER) | N/A |
-| 39 | [janella powerfulprodonasap](http://twitter.com/search?q=janella+powerfulprodonasap) | N/A |
-| 40 | [Isla Verde](http://twitter.com/search?q=Isla+Verde) | N/A |
-| 41 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 42 | [Klea Pineda](http://twitter.com/search?q=Klea+Pineda) | N/A |
-| 43 | [DAVID AT FASHION WEEK](http://twitter.com/search?q=DAVID+AT+FASHION+WEEK) | N/A |
-| 44 | [COMELEC](http://twitter.com/search?q=COMELEC) | N/A |
-| 45 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 46 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 47 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 48 | [Paeng](http://twitter.com/search?q=Paeng) | N/A |
-| 49 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 50 | [Aurelion Sol](http://twitter.com/search?q=Aurelion+Sol) | N/A |
+| 35 | [maymay born to slay](http://twitter.com/search?q=maymay+born+to+slay) | N/A |
+| 36 | [House Committee](http://twitter.com/search?q=House+Committee) | N/A |
+| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 38 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 39 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
+| 40 | [janella powerfulprodonasap](http://twitter.com/search?q=janella+powerfulprodonasap) | N/A |
+| 41 | [subscribe mygz molino](http://twitter.com/search?q=subscribe+mygz+molino) | N/A |
+| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 43 | [Isla Verde](http://twitter.com/search?q=Isla+Verde) | N/A |
+| 44 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 45 | [Klea Pineda](http://twitter.com/search?q=Klea+Pineda) | N/A |
+| 46 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
+| 47 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 48 | [COMELEC](http://twitter.com/search?q=COMELEC) | N/A |
+| 49 | [Ethics and Privileges](http://twitter.com/search?q=Ethics+and+Privileges) | N/A |
+| 50 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
 
 
 

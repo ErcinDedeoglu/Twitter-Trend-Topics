@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-20 09:17:28 UTC`
+📆 Last Updated: `2023-03-20 10:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
 | 2 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
 | 3 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 4 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 5 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 6 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 7 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 8 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 9 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 10 | [#Wordle639](http://twitter.com/search?q=%23Wordle639) | N/A |
-| 11 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 12 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 13 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 14 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 15 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 16 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 4 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
+| 5 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 6 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 7 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 8 | [#Wordle639](http://twitter.com/search?q=%23Wordle639) | N/A |
+| 9 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 10 | [#FirstDayofSpring](http://twitter.com/search?q=%23FirstDayofSpring) | N/A |
+| 11 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 12 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 13 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 14 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 15 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 16 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
 | 17 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
 | 18 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 19 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
-| 20 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 21 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 22 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
-| 23 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 24 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 25 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
-| 26 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 27 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 28 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 29 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 30 | [#shindanmaker](http://twitter.com/search?q=%23shindanmaker) | N/A |
-| 31 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 32 | [#SanditonS3](http://twitter.com/search?q=%23SanditonS3) | N/A |
-| 33 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 34 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 35 | [Brink](http://twitter.com/search?q=Brink) | N/A |
-| 36 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 37 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 38 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 39 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 40 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 41 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
-| 42 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 43 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 44 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 45 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 46 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 47 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 48 | [Woodson](http://twitter.com/search?q=Woodson) | N/A |
-| 49 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 19 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 20 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 21 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
+| 22 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 23 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 24 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 25 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 26 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 27 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 28 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
+| 29 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 30 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 31 | [#shindanmaker](http://twitter.com/search?q=%23shindanmaker) | N/A |
+| 32 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 33 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 34 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
+| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 36 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 37 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 38 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 39 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 40 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 41 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 42 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 43 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 44 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
+| 45 | [Visited](http://twitter.com/search?q=Visited) | N/A |
+| 46 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 47 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 48 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 49 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
 
 
 

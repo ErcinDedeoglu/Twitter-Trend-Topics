@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-20 09:17:35 UTC`
+📆 Last Updated: `2023-03-20 10:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Australia
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 3 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 4 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 5 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
+| 4 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 5 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 6 | [#NRLBulldogsTigers](http://twitter.com/search?q=%23NRLBulldogsTigers) | N/A |
-| 7 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
-| 8 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 9 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 10 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 11 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 12 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 13 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 7 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 8 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
+| 9 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 10 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 11 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 12 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 13 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
 | 14 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 15 | [Shane McAdam](http://twitter.com/search?q=Shane+McAdam) | N/A |
-| 16 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 15 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
+| 16 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 18 | [Jacob Wehr](http://twitter.com/search?q=Jacob+Wehr) | N/A |
-| 19 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 18 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 19 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
 | 20 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 21 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 22 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 23 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 24 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
-| 27 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 28 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 29 | [RIP Satts](http://twitter.com/search?q=RIP+Satts) | N/A |
-| 30 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
-| 31 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 32 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 33 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 34 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 35 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 36 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 39 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 40 | [Thomas Sewell](http://twitter.com/search?q=Thomas+Sewell) | N/A |
-| 41 | [Wakeham](http://twitter.com/search?q=Wakeham) | N/A |
-| 42 | [Laird](http://twitter.com/search?q=Laird) | N/A |
-| 43 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 44 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
-| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 46 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 47 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
-| 48 | [Harmony Week](http://twitter.com/search?q=Harmony+Week) | N/A |
-| 49 | [Avi Yemini](http://twitter.com/search?q=Avi+Yemini) | N/A |
-| 50 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 22 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 23 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
+| 24 | [MY CHILD](http://twitter.com/search?q=MY+CHILD) | N/A |
+| 25 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 28 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 29 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
+| 30 | [Amali](http://twitter.com/search?q=Amali) | N/A |
+| 31 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
+| 32 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 33 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 34 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 35 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 36 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 37 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 38 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 39 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
+| 40 | [Wakeham](http://twitter.com/search?q=Wakeham) | N/A |
+| 41 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 42 | [Thomas Sewell](http://twitter.com/search?q=Thomas+Sewell) | N/A |
+| 43 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
+| 44 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 45 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
+| 46 | [Laird](http://twitter.com/search?q=Laird) | N/A |
+| 47 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 48 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 49 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 50 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 
 
 

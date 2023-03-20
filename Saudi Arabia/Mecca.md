@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-20 09:17:18 UTC`
+📆 Last Updated: `2023-03-20 10:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#تعليم_المخواه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%ae%d9%88%d8%a7%d9%87) | N/A |
-| 2 | [#تعليم_مكه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d9%83%d9%87) | N/A |
-| 3 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 2 | [الاذاعه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 3 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
 | 4 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 5 | [#_اولاد](http://twitter.com/search?q=%23_%d8%a7%d9%88%d9%84%d8%a7%d8%af) | N/A |
 | 6 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
 | 7 | [#يوم_السعاده_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 8 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 9 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 10 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 11 | [الادارات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 12 | [التوجيه الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
-| 13 | [الطلاب المتفوقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%aa%d9%81%d9%88%d9%82%d9%8a%d9%86) | N/A |
-| 14 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 15 | [20 مارس](http://twitter.com/search?q=20+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 16 | [فتح المطاعم](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b9%d9%85) | N/A |
-| 17 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 18 | [الطالبات المتفوقات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d9%81%d9%88%d9%82%d8%a7%d8%aa) | N/A |
-| 19 | [٢٠ مارس](http://twitter.com/search?q=%d9%a2%d9%a0+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 20 | [النشاط الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
-| 21 | [الطفوله المبكره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%81%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1%d9%87) | N/A |
-| 22 | [نهار رمضان](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 23 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
-| 24 | [الاسبوع الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 25 | [الشوون التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 26 | [المرحله الثانويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87) | N/A |
-| 27 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 28 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
-| 29 | [ابو حصه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b5%d9%87) | N/A |
-| 30 | [دلال الشهري](http://twitter.com/search?q=%d8%af%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 31 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 32 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 33 | [بن مالك](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 34 | [عبدالمحسن الراجحي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | عبدالمحسن الراجحي is an Arabic name, which translates to English as "Abdulmuhsin Al-Rajhi". |
-| 35 | [#المكرمه_الرمضانيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d9%87_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 36 | [#يوم_امي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%85%d9%8a) | N/A |
-| 37 | [#محمد_بن_ناصر](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 38 | [#اليوم_الخليجي_للموهبه_والابداع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a_%d9%84%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9) | N/A |
+| 8 | [#المكرمه_الرمضانيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d9%87_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 10 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 11 | [حرف اللام](http://twitter.com/search?q=%d8%ad%d8%b1%d9%81+%d8%a7%d9%84%d9%84%d8%a7%d9%85) | N/A |
+| 12 | [الادارات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 13 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 14 | [الطلاب المتفوقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%aa%d9%81%d9%88%d9%82%d9%8a%d9%86) | N/A |
+| 15 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 16 | [التوجيه الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
+| 17 | [النشاط الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
+| 18 | [20 مارس](http://twitter.com/search?q=20+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 19 | [فتح المطاعم](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b9%d9%85) | N/A |
+| 20 | [نهار رمضان](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 21 | [٢٠ مارس](http://twitter.com/search?q=%d9%a2%d9%a0+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 22 | [الشوون التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 23 | [الاذاعه الصباحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 24 | [الطفوله المبكره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%81%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d9%83%d8%b1%d9%87) | N/A |
+| 25 | [الطالبات المتفوقات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d9%81%d9%88%d9%82%d8%a7%d8%aa) | N/A |
+| 26 | [اليوم الخليجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a) | N/A |
+| 27 | [المرحله الثانويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87) | N/A |
+| 28 | [الاسبوع الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 29 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 30 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 31 | [ابو حصه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b5%d9%87) | N/A |
+| 32 | [دلال الشهري](http://twitter.com/search?q=%d8%af%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 33 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 34 | [#يوم_امي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%85%d9%8a) | N/A |
+| 35 | [#حرق_كينقدوم](http://twitter.com/search?q=%23%d8%ad%d8%b1%d9%82_%d9%83%d9%8a%d9%86%d9%82%d8%af%d9%88%d9%85) | N/A |
+| 36 | [#محمد_بن_ناصر](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 37 | [#اليوم_الخليجي_للموهبه_والابداع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac%d9%8a_%d9%84%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87_%d9%88%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9) | N/A |
+| 38 | [#تعليم_القنفذه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d9%86%d9%81%d8%b0%d9%87) | N/A |
 | 39 | [#تعليم_محايل_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d8%ad%d8%a7%d9%8a%d9%84_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
-| 40 | [#تعليم_جازان](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
-| 41 | [#تعليم_صبيا](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%b5%d8%a8%d9%8a%d8%a7) | N/A |
-| 42 | [#تعليم_الرس](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b1%d8%b3) | N/A |
-| 43 | [#اسبوع_الموهبه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87) | N/A |
-| 44 | [#توثيق_البطولات](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a7%d8%aa) | N/A |
-| 45 | [#ابورحيم_وكفي](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88%d8%b1%d8%ad%d9%8a%d9%85_%d9%88%d9%83%d9%81%d9%8a) | N/A |
-| 46 | [#الترفيه_يحقق_120_مليون_زاير](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b1%d9%81%d9%8a%d9%87_%d9%8a%d8%ad%d9%82%d9%82_120_%d9%85%d9%84%d9%8a%d9%88%d9%86_%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
+| 40 | [#تعليم_الطايف](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81) | N/A |
+| 41 | [#تعليم_جازان](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
+| 42 | [#تعليم_مكه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d9%83%d9%87) | N/A |
+| 43 | [#تعليم_صبيا](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%b5%d8%a8%d9%8a%d8%a7) | N/A |
+| 44 | [#اسبوع_الموهبه](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d9%85%d9%88%d9%87%d8%a8%d9%87) | N/A |
+| 45 | [#اسبوع_البييه_2023](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d9%88%d8%b9_%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87_2023) | N/A |
+| 46 | [#توثيق_البطولات](http://twitter.com/search?q=%23%d8%aa%d9%88%d8%ab%d9%8a%d9%82_%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a7%d8%aa) | N/A |
 | 47 | [#عتق_رقبه_ام_سبع_اطفال2](http://twitter.com/search?q=%23%d8%b9%d8%aa%d9%82_%d8%b1%d9%82%d8%a8%d9%87_%d8%a7%d9%85_%d8%b3%d8%a8%d8%b9_%d8%a7%d8%b7%d9%81%d8%a7%d9%842) | N/A |
 
 

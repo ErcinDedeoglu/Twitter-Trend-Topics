@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-20 09:17:06 UTC`
+📆 Last Updated: `2023-03-20 10:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,50 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 | 5 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
 | 6 | [Strandvallen](http://twitter.com/search?q=Strandvallen) | N/A |
-| 7 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 8 | [frycklund](http://twitter.com/search?q=frycklund) | N/A |
-| 9 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 10 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 7 | [frycklund](http://twitter.com/search?q=frycklund) | N/A |
+| 8 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 9 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 11 | [Mjällby](http://twitter.com/search?q=Mj%c3%a4llby) | N/A |
-| 12 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 13 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
+| 12 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 14 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
-| 15 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Hurra](http://twitter.com/search?q=Hurra) | N/A |
 | 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 17 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 18 | [Charlotte Kalla](http://twitter.com/search?q=Charlotte+Kalla) | N/A |
-| 19 | [vaniljsås](http://twitter.com/search?q=vaniljs%c3%a5s) | N/A |
-| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 21 | [#finanstwitter](http://twitter.com/search?q=%23finanstwitter) | N/A |
-| 22 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 23 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 24 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 25 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
-| 26 | [Loui](http://twitter.com/search?q=Loui) | N/A |
-| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 28 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
-| 29 | [Hurra](http://twitter.com/search?q=Hurra) | N/A |
-| 30 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 31 | [Samhall](http://twitter.com/search?q=Samhall) | N/A |
-| 32 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 33 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
+| 17 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
+| 18 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
+| 19 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 20 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 21 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
+| 22 | [Samhall](http://twitter.com/search?q=Samhall) | N/A |
+| 23 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 24 | [Investor](http://twitter.com/search?q=Investor) | N/A |
+| 25 | [Charlotte Kalla](http://twitter.com/search?q=Charlotte+Kalla) | N/A |
+| 26 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 27 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [El Clasico](http://twitter.com/search?q=El+Clasico) | N/A |
+| 30 | [Vaniljsås](http://twitter.com/search?q=Vaniljs%c3%a5s) | N/A |
+| 31 | [#UFC286](http://twitter.com/search?q=%23UFC286) | N/A |
+| 32 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 33 | [Sverigekurs](http://twitter.com/search?q=Sverigekurs) | N/A |
 | 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
-| 36 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 37 | [#instagood](http://twitter.com/search?q=%23instagood) | N/A |
-| 38 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 39 | [Sverigekurs](http://twitter.com/search?q=Sverigekurs) | N/A |
-| 40 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 41 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 42 | [mitell](http://twitter.com/search?q=mitell) | N/A |
-| 43 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 44 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
-| 45 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 46 | [nilla fischer](http://twitter.com/search?q=nilla+fischer) | N/A |
-| 47 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 48 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
+| 35 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 36 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 37 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
+| 38 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 40 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 41 | [Billström](http://twitter.com/search?q=Billstr%c3%b6m) | N/A |
+| 42 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 43 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 44 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 45 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 46 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 47 | [hanna öberg](http://twitter.com/search?q=hanna+%c3%b6berg) | N/A |
+| 48 | [TIERNEY](http://twitter.com/search?q=TIERNEY) | N/A |
+| 49 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 50 | [#finanstwitter](http://twitter.com/search?q=%23finanstwitter) | N/A |
 
 
 

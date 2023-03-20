@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-20 09:16:50 UTC`
+📆 Last Updated: `2023-03-20 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 2 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 3 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 6 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 2 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 3 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 4 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 5 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 6 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 | 7 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 9 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 10 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 11 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 12 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 13 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 17 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 18 | [Mothering Sunday](http://twitter.com/search?q=Mothering+Sunday) | N/A |
-| 19 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
-| 20 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 21 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 22 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 23 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 24 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 26 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
-| 27 | [Lee Dixon](http://twitter.com/search?q=Lee+Dixon) | Lee Dixon is a former English professional footballer who played as a right back for Arsenal, Burnley, Chester City and Stoke City. He is now a football pundit and commentator for ITV Sport and BBC Sport. |
-| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 29 | [Tommy Doyle](http://twitter.com/search?q=Tommy+Doyle) | N/A |
-| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 31 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 32 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 33 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 36 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 37 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 38 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 39 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
-| 40 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
-| 41 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 42 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 43 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 44 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 46 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 47 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 48 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 49 | [Pole-to-Pole](http://twitter.com/search?q=Pole-to-Pole) | N/A |
-| 50 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 11 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 12 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 13 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
+| 14 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
+| 15 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
+| 16 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 17 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
+| 18 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
+| 21 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 22 | [Suella](http://twitter.com/search?q=Suella) | N/A |
+| 23 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 24 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 25 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 26 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 27 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 28 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 29 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 30 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
+| 31 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
+| 32 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 33 | [#ASongOrMovieForActing](http://twitter.com/search?q=%23ASongOrMovieForActing) | N/A |
+| 34 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
+| 35 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 36 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
+| 37 | [#TheBigHelpOut](http://twitter.com/search?q=%23TheBigHelpOut) | N/A |
+| 38 | [#BigWalkAndWheel](http://twitter.com/search?q=%23BigWalkAndWheel) | N/A |
+| 39 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 40 | [#ToriesOut256](http://twitter.com/search?q=%23ToriesOut256) | N/A |
+| 41 | [#partygate](http://twitter.com/search?q=%23partygate) | N/A |
+| 42 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 43 | [#relax](http://twitter.com/search?q=%23relax) | N/A |
+| 44 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
+| 45 | [#johnsontheliar](http://twitter.com/search?q=%23johnsontheliar) | N/A |
+| 46 | [#EnglishTourismWeek23](http://twitter.com/search?q=%23EnglishTourismWeek23) | N/A |
+| 47 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 48 | [#boristheliar](http://twitter.com/search?q=%23boristheliar) | N/A |
 
 
 

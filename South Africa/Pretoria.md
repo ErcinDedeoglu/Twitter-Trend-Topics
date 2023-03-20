@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-20 09:17:17 UTC`
+📆 Last Updated: `2023-03-20 10:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,49 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [Wena](http://twitter.com/search?q=Wena) | N/A |
 | 2 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
-| 3 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
-| 4 | [#RamaphosaMustGo](http://twitter.com/search?q=%23RamaphosaMustGo) | N/A |
-| 5 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 6 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 7 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 8 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 9 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 10 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 11 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 12 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 13 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 14 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
+| 3 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 4 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 5 | [#RamaphosaMustGo](http://twitter.com/search?q=%23RamaphosaMustGo) | N/A |
+| 6 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 7 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
+| 8 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 9 | [Electricity](http://twitter.com/search?q=Electricity) | N/A |
+| 10 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 11 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 12 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
+| 13 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 14 | [Flop](http://twitter.com/search?q=Flop) | N/A |
 | 15 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
-| 16 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 17 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 18 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 19 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 20 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 21 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 22 | [Failed](http://twitter.com/search?q=Failed) | N/A |
-| 23 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 24 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 25 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 26 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 27 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
-| 28 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 29 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
-| 30 | [eNCA](http://twitter.com/search?q=eNCA) | N/A |
-| 31 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
-| 32 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 33 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 34 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 35 | [Marete](http://twitter.com/search?q=Marete) | N/A |
-| 36 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 37 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
-| 38 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 39 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
-| 40 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
-| 41 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 42 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 43 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
+| 16 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 17 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 18 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
+| 19 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 20 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 21 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 22 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 23 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 24 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 25 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 26 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
+| 27 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 28 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 29 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 30 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 31 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 32 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 33 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
+| 34 | [eNCA](http://twitter.com/search?q=eNCA) | N/A |
+| 35 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
+| 36 | [Ayanda](http://twitter.com/search?q=Ayanda) | N/A |
+| 37 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 38 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
+| 39 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 40 | [Marete](http://twitter.com/search?q=Marete) | N/A |
+| 41 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 42 | [#InstantMoneyMondays](http://twitter.com/search?q=%23InstantMoneyMondays) | N/A |
+| 43 | [#SiyavannaSA](http://twitter.com/search?q=%23SiyavannaSA) | N/A |
+| 44 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 45 | [#VoetsekEFF](http://twitter.com/search?q=%23VoetsekEFF) | N/A |
 
 
 

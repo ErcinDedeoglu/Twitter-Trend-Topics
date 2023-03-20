@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-20 09:17:22 UTC`
+📆 Last Updated: `2023-03-20 10:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TejasswiPrakash](http://twitter.com/search?q=%23TejasswiPrakash) | N/A |
-| 2 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
-| 3 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
-| 4 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 5 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
-| 6 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 1 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
+| 2 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 3 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
+| 4 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
+| 5 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
+| 6 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
 | 7 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 8 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
-| 9 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
+| 8 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 9 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
 | 10 | [The Vial](http://twitter.com/search?q=The+Vial) | N/A |
-| 11 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
-| 12 | [Indian High Commission](http://twitter.com/search?q=Indian+High+Commission) | N/A |
+| 11 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
+| 12 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
 | 13 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
-| 14 | [सत्याग्रह आंदोलन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
-| 15 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 16 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
-| 17 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
-| 18 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
-| 19 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 20 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 14 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
+| 15 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
+| 16 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
+| 17 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 18 | [High Commission](http://twitter.com/search?q=High+Commission) | N/A |
+| 19 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
+| 20 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
 | 21 | [Flag](http://twitter.com/search?q=Flag) | N/A |
-| 22 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
-| 23 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 24 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 25 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 26 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 27 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
-| 28 | [Warm](http://twitter.com/search?q=Warm) | N/A |
-| 29 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
-| 30 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 31 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 32 | [Ab Anyay Ka Ant Ho](http://twitter.com/search?q=Ab+Anyay+Ka+Ant+Ho) | N/A |
-| 33 | [Saints Call For Justice](http://twitter.com/search?q=Saints+Call+For+Justice) | N/A |
+| 22 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 23 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 24 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 25 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 26 | [Warm](http://twitter.com/search?q=Warm) | N/A |
+| 27 | [Aurangabad](http://twitter.com/search?q=Aurangabad) | N/A |
+| 28 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
+| 29 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 30 | [Ab Anyay Ka Ant Ho](http://twitter.com/search?q=Ab+Anyay+Ka+Ant+Ho) | N/A |
+| 31 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 32 | [Saints Call For Justice](http://twitter.com/search?q=Saints+Call+For+Justice) | N/A |
+| 33 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
 | 34 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
 | 35 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 36 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 37 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 38 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [जिला अस्पताल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
-| 40 | [Om Namah Shivaya](http://twitter.com/search?q=Om+Namah+Shivaya) | N/A |
-| 41 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
+| 36 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 37 | [जिला अस्पताल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
+| 38 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
+| 39 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 40 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
+| 41 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
 | 42 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
-| 43 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 44 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 45 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 46 | [#ReleaseManishKasyap](http://twitter.com/search?q=%23ReleaseManishKasyap) | N/A |
+| 43 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
+| 44 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 45 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
+| 46 | [#PakhalaDibasa](http://twitter.com/search?q=%23PakhalaDibasa) | N/A |
 | 47 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
 | 48 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
-| 49 | [#ପଖାଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%aa%e0%ac%96%e0%ac%be%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
+| 49 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
 
 
 

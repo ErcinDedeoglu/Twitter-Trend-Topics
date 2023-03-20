@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-20 09:17:25 UTC`
+📆 Last Updated: `2023-03-20 10:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 2 | [Kirli Buluşma](http://twitter.com/search?q=Kirli+Bulu%c5%9fma) | N/A |
-| 3 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 1 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 2 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 3 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
 | 4 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 5 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
-| 6 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 7 | [#BizMağduriyetİstemiyoruz](http://twitter.com/search?q=%23BizMa%c4%9fduriyet%c4%b0stemiyoruz) | N/A |
-| 8 | [#HalkGörüyor](http://twitter.com/search?q=%23HalkG%c3%b6r%c3%bcyor) | N/A |
-| 9 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
-| 10 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
-| 11 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 12 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 13 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
-| 14 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 15 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 16 | [Ayhan Gönüllü](http://twitter.com/search?q=Ayhan+G%c3%b6n%c3%bcll%c3%bc) | N/A |
-| 17 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 18 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 19 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 20 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
-| 21 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 22 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 23 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 24 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
-| 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
-| 27 | [#MilletİktidarOluyor](http://twitter.com/search?q=%23Millet%c4%b0ktidarOluyor) | N/A |
-| 28 | [#zamgeldi](http://twitter.com/search?q=%23zamgeldi) | N/A |
-| 29 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 30 | [#yoruldum](http://twitter.com/search?q=%23yoruldum) | N/A |
-| 31 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
-| 32 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
-| 33 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
-| 34 | [#güldürgüldürshow](http://twitter.com/search?q=%23g%c3%bcld%c3%bcrg%c3%bcld%c3%bcrshow) | N/A |
-| 35 | [#20Mart](http://twitter.com/search?q=%2320Mart) | N/A |
-| 36 | [#seçim2023](http://twitter.com/search?q=%23se%c3%a7im2023) | N/A |
-| 37 | [#yökegitimekulakver](http://twitter.com/search?q=%23y%c3%b6kegitimekulakver) | N/A |
-| 38 | [#selincigerci](http://twitter.com/search?q=%23selincigerci) | N/A |
-| 39 | [#EnBüyükHayalim](http://twitter.com/search?q=%23EnB%c3%bcy%c3%bckHayalim) | N/A |
-| 40 | [#FenereOperasyonVAR](http://twitter.com/search?q=%23FenereOperasyonVAR) | N/A |
-| 41 | [#Kabinedeunikarari](http://twitter.com/search?q=%23Kabinedeunikarari) | N/A |
-| 42 | [#SabahNamazı](http://twitter.com/search?q=%23SabahNamaz%c4%b1) | N/A |
-| 43 | [#Kabineunidenyana](http://twitter.com/search?q=%23Kabineunidenyana) | N/A |
-| 44 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 45 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 5 | [Kirli Buluşma](http://twitter.com/search?q=Kirli+Bulu%c5%9fma) | N/A |
+| 6 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 7 | [#inanıyorum](http://twitter.com/search?q=%23inan%c4%b1yorum) | N/A |
+| 8 | [#AKPartiyeOyÇok](http://twitter.com/search?q=%23AKPartiyeOy%c3%87ok) | N/A |
+| 9 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 10 | [#BizMağduriyetİstemiyoruz](http://twitter.com/search?q=%23BizMa%c4%9fduriyet%c4%b0stemiyoruz) | N/A |
+| 11 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
+| 12 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 13 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 14 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
+| 15 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 16 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 17 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 18 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 19 | [Ayhan Gönüllü](http://twitter.com/search?q=Ayhan+G%c3%b6n%c3%bcll%c3%bc) | N/A |
+| 20 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 21 | [Afra](http://twitter.com/search?q=Afra) | N/A |
+| 22 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 23 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
+| 24 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 25 | [HEP BİRLİKTE AŞARIZ](http://twitter.com/search?q=HEP+B%c4%b0RL%c4%b0KTE+A%c5%9eARIZ) | N/A |
+| 26 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
+| 27 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
+| 28 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
+| 29 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 30 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
+| 31 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
+| 32 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 33 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 34 | [#HalkGörüyor](http://twitter.com/search?q=%23HalkG%c3%b6r%c3%bcyor) | N/A |
+| 35 | [#MilletİktidarOluyor](http://twitter.com/search?q=%23Millet%c4%b0ktidarOluyor) | N/A |
+| 36 | [#yoruldum](http://twitter.com/search?q=%23yoruldum) | N/A |
+| 37 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
+| 38 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 39 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 40 | [#Yoekegitimekulakver](http://twitter.com/search?q=%23Yoekegitimekulakver) | N/A |
+| 41 | [#zamgeldi](http://twitter.com/search?q=%23zamgeldi) | N/A |
+| 42 | [#güldürgüldürshow](http://twitter.com/search?q=%23g%c3%bcld%c3%bcrg%c3%bcld%c3%bcrshow) | N/A |
+| 43 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
+| 44 | [#selincigerci](http://twitter.com/search?q=%23selincigerci) | N/A |
+| 45 | [#EnBüyükHayalim](http://twitter.com/search?q=%23EnB%c3%bcy%c3%bckHayalim) | N/A |
+| 46 | [#FenereOperasyonVAR](http://twitter.com/search?q=%23FenereOperasyonVAR) | N/A |
+| 47 | [#seçim2023](http://twitter.com/search?q=%23se%c3%a7im2023) | N/A |
+| 48 | [#Kabinedeunikarari](http://twitter.com/search?q=%23Kabinedeunikarari) | N/A |
+| 49 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 50 | [#Kabineunidenyana](http://twitter.com/search?q=%23Kabineunidenyana) | N/A |
 
 
 
