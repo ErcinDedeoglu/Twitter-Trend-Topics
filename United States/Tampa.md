@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-20 04:19:27 UTC`
+📆 Last Updated: `2023-03-20 05:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 2 | [#PatriaYVida](http://twitter.com/search?q=%23PatriaYVida) | N/A |
-| 3 | [#TeamAsere](http://twitter.com/search?q=%23TeamAsere) | N/A |
-| 4 | [#AbajoLaDictadura](http://twitter.com/search?q=%23AbajoLaDictadura) | N/A |
-| 5 | [Go Owls](http://twitter.com/search?q=Go+Owls) | N/A |
-| 6 | [Howie](http://twitter.com/search?q=Howie) | N/A |
+| 2 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 3 | [#TeamUSA](http://twitter.com/search?q=%23TeamUSA) | N/A |
+| 4 | [#TeamAsere](http://twitter.com/search?q=%23TeamAsere) | N/A |
+| 5 | [#AbajoLaDictadura](http://twitter.com/search?q=%23AbajoLaDictadura) | N/A |
+| 6 | [Go Owls](http://twitter.com/search?q=Go+Owls) | N/A |
 | 7 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 8 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 9 | [South Beach](http://twitter.com/search?q=South+Beach) | N/A |
-| 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 13 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
-| 14 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 15 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 16 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 17 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 18 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 19 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 20 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 21 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 22 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 23 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 24 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 25 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 26 | [Hotty Toddy](http://twitter.com/search?q=Hotty+Toddy) | N/A |
-| 27 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 28 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 29 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 31 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 32 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 33 | [Cameron Brink](http://twitter.com/search?q=Cameron+Brink) | N/A |
-| 34 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 35 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 36 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 8 | [South Beach](http://twitter.com/search?q=South+Beach) | N/A |
+| 9 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 10 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 13 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 14 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 15 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 16 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 17 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 18 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
+| 19 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 20 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 21 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 22 | [Hotty Toddy](http://twitter.com/search?q=Hotty+Toddy) | N/A |
+| 23 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 24 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 25 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 26 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 27 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 29 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 30 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 31 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
+| 32 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 33 | [Damion Baugh](http://twitter.com/search?q=Damion+Baugh) | N/A |
+| 34 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 35 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 36 | [Brink](http://twitter.com/search?q=Brink) | N/A |
 | 37 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 38 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 40 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
-| 41 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 42 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 43 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 44 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 45 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 46 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 47 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 48 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
-| 49 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 50 | [Damion Baugh](http://twitter.com/search?q=Damion+Baugh) | N/A |
+| 38 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 39 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 40 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 41 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 42 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 43 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 44 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 45 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 46 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 47 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
+| 48 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 49 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 50 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
 
 
 

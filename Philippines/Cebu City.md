@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-20 04:19:06 UTC`
+📆 Last Updated: `2023-03-20 05:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
 | 2 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 3 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 4 | [#SPCAtlas2023Day1](http://twitter.com/search?q=%23SPCAtlas2023Day1) | N/A |
-| 5 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 6 | [marchsayangasap withdonbelle](http://twitter.com/search?q=marchsayangasap+withdonbelle) | N/A |
+| 3 | [#SPCAtlas2023Day1](http://twitter.com/search?q=%23SPCAtlas2023Day1) | N/A |
+| 4 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 5 | [marchsayangasap withdonbelle](http://twitter.com/search?q=marchsayangasap+withdonbelle) | N/A |
+| 6 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
 | 7 | [kinji loveteam onasap](http://twitter.com/search?q=kinji+loveteam+onasap) | N/A |
 | 8 | [kilig kantahan withanji](http://twitter.com/search?q=kilig+kantahan+withanji) | N/A |
-| 9 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
-| 10 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
-| 11 | [benchrunway withfrancine](http://twitter.com/search?q=benchrunway+withfrancine) | N/A |
-| 12 | [vivoree returns on asap](http://twitter.com/search?q=vivoree+returns+on+asap) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
-| 16 | [asapmesummerizing jona](http://twitter.com/search?q=asapmesummerizing+jona) | N/A |
-| 17 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
+| 9 | [Paeng](http://twitter.com/search?q=Paeng) | N/A |
+| 10 | [SE7EN](http://twitter.com/search?q=SE7EN) | N/A |
+| 11 | [JJONG SONG COLLABS](http://twitter.com/search?q=JJONG+SONG+COLLABS) | N/A |
+| 12 | [VIVOREE BENCHRUNWAY DEBUT](http://twitter.com/search?q=VIVOREE+BENCHRUNWAY+DEBUT) | N/A |
+| 13 | [benchrunway withfrancine](http://twitter.com/search?q=benchrunway+withfrancine) | N/A |
+| 14 | [vivoree returns on asap](http://twitter.com/search?q=vivoree+returns+on+asap) | N/A |
+| 15 | [asapmesummerizing jona](http://twitter.com/search?q=asapmesummerizing+jona) | N/A |
+| 16 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 17 | [vinchanted to meet u](http://twitter.com/search?q=vinchanted+to+meet+u) | N/A |
 | 18 | [Isla Verde](http://twitter.com/search?q=Isla+Verde) | N/A |
-| 19 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 20 | [vinchanted to meet u](http://twitter.com/search?q=vinchanted+to+meet+u) | N/A |
-| 21 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 22 | [jc 360 listening party](http://twitter.com/search?q=jc+360+listening+party) | N/A |
-| 23 | [HORI7ON GROUP PHOTO TEASER](http://twitter.com/search?q=HORI7ON+GROUP+PHOTO+TEASER) | N/A |
-| 24 | [btob seminar at melody company](http://twitter.com/search?q=btob+seminar+at+melody+company) | N/A |
-| 25 | [alexa powerparty onasap](http://twitter.com/search?q=alexa+powerparty+onasap) | N/A |
-| 26 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 27 | [ward reinalyn kumuniversary](http://twitter.com/search?q=ward+reinalyn+kumuniversary) | N/A |
-| 28 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 29 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
-| 30 | [sarah g power concert](http://twitter.com/search?q=sarah+g+power+concert) | N/A |
-| 31 | [SuperKids](http://twitter.com/search?q=SuperKids) | N/A |
-| 32 | [KaDAILY ALEXA IN SINGAPORE](http://twitter.com/search?q=KaDAILY+ALEXA+IN+SINGAPORE) | N/A |
-| 33 | [MT Princess Empress](http://twitter.com/search?q=MT+Princess+Empress) | N/A |
-| 34 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 35 | [bgyo power hotawan onasap](http://twitter.com/search?q=bgyo+power+hotawan+onasap) | N/A |
-| 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 37 | [maymay born to slay](http://twitter.com/search?q=maymay+born+to+slay) | N/A |
-| 38 | [the future is vibrent](http://twitter.com/search?q=the+future+is+vibrent) | N/A |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 40 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 41 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 42 | [janella powerfulprodonasap](http://twitter.com/search?q=janella+powerfulprodonasap) | N/A |
-| 43 | [canino](http://twitter.com/search?q=canino) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [SUBSCRIBE MYGZ MOLINO](http://twitter.com/search?q=SUBSCRIBE+MYGZ+MOLINO) | N/A |
-| 46 | [DAVID AT FASHION WEEK](http://twitter.com/search?q=DAVID+AT+FASHION+WEEK) | N/A |
-| 47 | [Batangas City](http://twitter.com/search?q=Batangas+City) | N/A |
-| 48 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 19 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
+| 20 | [the future is vibrent](http://twitter.com/search?q=the+future+is+vibrent) | N/A |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [TWICE CANDYBONG](http://twitter.com/search?q=TWICE+CANDYBONG) | N/A |
+| 23 | [jc 360 listening party](http://twitter.com/search?q=jc+360+listening+party) | N/A |
+| 24 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 25 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
+| 26 | [SuperKids](http://twitter.com/search?q=SuperKids) | N/A |
+| 27 | [btob seminar at melody company](http://twitter.com/search?q=btob+seminar+at+melody+company) | N/A |
+| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 29 | [alexa powerparty onasap](http://twitter.com/search?q=alexa+powerparty+onasap) | N/A |
+| 30 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 31 | [sarah g power concert](http://twitter.com/search?q=sarah+g+power+concert) | N/A |
+| 32 | [ward reinalyn kumuniversary](http://twitter.com/search?q=ward+reinalyn+kumuniversary) | N/A |
+| 33 | [HORI7ON GROUP PHOTO TEASER](http://twitter.com/search?q=HORI7ON+GROUP+PHOTO+TEASER) | N/A |
+| 34 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 35 | [KaDAILY ALEXA IN SINGAPORE](http://twitter.com/search?q=KaDAILY+ALEXA+IN+SINGAPORE) | N/A |
+| 36 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 37 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
+| 38 | [bgyo power hotawan onasap](http://twitter.com/search?q=bgyo+power+hotawan+onasap) | N/A |
+| 39 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 42 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 43 | [Batangas City](http://twitter.com/search?q=Batangas+City) | N/A |
+| 44 | [MT Princess Empress](http://twitter.com/search?q=MT+Princess+Empress) | N/A |
+| 45 | [Verde Island Passage](http://twitter.com/search?q=Verde+Island+Passage) | N/A |
+| 46 | [MagandangBuhay JM YOSURES](http://twitter.com/search?q=MagandangBuhay+JM+YOSURES) | N/A |
+| 47 | [International Day of Happiness](http://twitter.com/search?q=International+Day+of+Happiness) | N/A |
+| 48 | [Shotaro](http://twitter.com/search?q=Shotaro) | N/A |
 
 
 

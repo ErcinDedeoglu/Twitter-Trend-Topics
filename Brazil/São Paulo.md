@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-20 04:18:48 UTC`
+📆 Last Updated: `2023-03-20 05:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 3 | [Racionais](http://twitter.com/search?q=Racionais) | N/A |
-| 4 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 5 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 6 | [Silvio Santos](http://twitter.com/search?q=Silvio+Santos) | N/A |
-| 7 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 8 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 9 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
-| 10 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
-| 11 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 12 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 13 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 14 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 15 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 16 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 17 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 18 | [Murilo](http://twitter.com/search?q=Murilo) | N/A |
-| 19 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 20 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 21 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 22 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 24 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 25 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 26 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 27 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
-| 28 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 29 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 30 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 31 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 32 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 33 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 34 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
-| 35 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
-| 36 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
-| 37 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 38 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 39 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 40 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 41 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 42 | [Larissa e Key](http://twitter.com/search?q=Larissa+e+Key) | N/A |
-| 43 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 44 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 45 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 46 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
-| 47 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 48 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 49 | [Volta Larissa](http://twitter.com/search?q=Volta+Larissa) | N/A |
-| 50 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 2 | [Fred e Larissa](http://twitter.com/search?q=Fred+e+Larissa) | N/A |
+| 3 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 4 | [Silvio Santos](http://twitter.com/search?q=Silvio+Santos) | N/A |
+| 5 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 6 | [Morreria](http://twitter.com/search?q=Morreria) | N/A |
+| 7 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 8 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 10 | [Ayrton Lucas](http://twitter.com/search?q=Ayrton+Lucas) | Ayrton Lucas is a Portuguese name, derived from the given name Ayrton and the surname Lucas. The given name Ayrton is derived from a Germanic root meaning “noble” or “brave”, while the surname Lucas is derived from the Latin word for “light”. Together, the name Ayrton Lucas can be interpreted to mean “brave and enlightened”. |
+| 11 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
+| 12 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 13 | [La Casa de Los Famosos](http://twitter.com/search?q=La+Casa+de+Los+Famosos) | N/A |
+| 14 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 15 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 17 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 18 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 19 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 20 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 21 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 22 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 23 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 24 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 25 | [DOUTOR FRED](http://twitter.com/search?q=DOUTOR+FRED) | DOUTOR FRED is a Brazilian television series that aired from 1975 to 1976. It follows the adventures of a doctor, Dr. Fred, who travels around Brazil helping people in need. The show's title translates to "Doctor Fred" in English. |
+| 26 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 27 | [Fred e Key](http://twitter.com/search?q=Fred+e+Key) | N/A |
+| 28 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
+| 29 | [Injusto](http://twitter.com/search?q=Injusto) | N/A |
+| 30 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 31 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 32 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 33 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 34 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 35 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 36 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 37 | [Larissa e Key](http://twitter.com/search?q=Larissa+e+Key) | N/A |
+| 38 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
+| 39 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 40 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
+| 41 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 42 | [Volta Larissa](http://twitter.com/search?q=Volta+Larissa) | N/A |
+| 43 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 44 | [Sniper Americano](http://twitter.com/search?q=Sniper+Americano) | N/A |
+| 45 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 46 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 47 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 48 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 49 | [ME APAIXONEI](http://twitter.com/search?q=ME+APAIXONEI) | N/A |
+| 50 | [Seu Madruga](http://twitter.com/search?q=Seu+Madruga) | N/A |
 
 
 

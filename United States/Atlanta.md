@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-20 04:19:19 UTC`
+📆 Last Updated: `2023-03-20 05:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 2 | [#KVQ4](http://twitter.com/search?q=%23KVQ4) | N/A |
+| 1 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 2 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 | 3 | [#QueensCourt](http://twitter.com/search?q=%23QueensCourt) | N/A |
-| 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 5 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 6 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 4 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 5 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 6 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
 | 7 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
 | 8 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 9 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 10 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 9 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 10 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
 | 11 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 12 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
+| 12 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
 | 13 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 14 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 15 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 14 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 15 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 16 | [Hotty Toddy](http://twitter.com/search?q=Hotty+Toddy) | N/A |
-| 17 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 17 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
 | 18 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 19 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 20 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 21 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 22 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 23 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 24 | [Cameron Brink](http://twitter.com/search?q=Cameron+Brink) | N/A |
-| 25 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 26 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 27 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 28 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 29 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 30 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 31 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
-| 32 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 33 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 34 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 35 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 36 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 37 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 38 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 39 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
-| 40 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 41 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 42 | [Omier](http://twitter.com/search?q=Omier) | N/A |
-| 43 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 44 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 45 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 46 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
+| 19 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 20 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 21 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 23 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 24 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 25 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 26 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
+| 27 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 28 | [Damion Baugh](http://twitter.com/search?q=Damion+Baugh) | N/A |
+| 29 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 30 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 31 | [Brink](http://twitter.com/search?q=Brink) | N/A |
+| 32 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
+| 33 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 34 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 35 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 36 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 37 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 38 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 39 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 40 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 41 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 42 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
+| 43 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 44 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 45 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 46 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
 | 47 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 48 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 49 | [Cedric Mullins](http://twitter.com/search?q=Cedric+Mullins) | N/A |
-| 50 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 48 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 49 | [Woodson](http://twitter.com/search?q=Woodson) | N/A |
+| 50 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
 
 
 
