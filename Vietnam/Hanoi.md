@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-20 21:17:05 UTC`
+📆 Last Updated: `2023-03-20 22:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DermactionXPrem](http://twitter.com/search?q=%23DermactionXPrem) | N/A |
-| 2 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
-| 3 | [#SOLO900MONYT](http://twitter.com/search?q=%23SOLO900MONYT) | N/A |
-| 4 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 2 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
+| 3 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
+| 4 | [#SOLO900MONYT](http://twitter.com/search?q=%23SOLO900MONYT) | N/A |
 | 5 | [#ThankyouTWICE](http://twitter.com/search?q=%23ThankyouTWICE) | N/A |
 | 6 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
 | 7 | [#BIBLEFLYTOPALMSPRINGS](http://twitter.com/search?q=%23BIBLEFLYTOPALMSPRINGS) | N/A |
@@ -26,18 +26,18 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 9 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
 | 10 | [Join the Voyage Season 2](http://twitter.com/search?q=Join+the+Voyage+Season+2) | N/A |
 | 11 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 12 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 13 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 14 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 15 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 16 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
-| 17 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 18 | [thêm](http://twitter.com/search?q=th%c3%aam) | N/A |
-| 19 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
-| 20 | [$drx](http://twitter.com/search?q=%24drx) | N/A |
-| 21 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 23 | [America](http://twitter.com/search?q=America) | N/A |
+| 12 | [America](http://twitter.com/search?q=America) | N/A |
+| 13 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 15 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 16 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 17 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 19 | [thêm](http://twitter.com/search?q=th%c3%aam) | N/A |
+| 20 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 21 | [$drx](http://twitter.com/search?q=%24drx) | N/A |
+| 22 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 24 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
 | 25 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 26 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
@@ -57,9 +57,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 40 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 41 | [Omnichain Smart Contracts](http://twitter.com/search?q=Omnichain+Smart+Contracts) | N/A |
 | 42 | [hình](http://twitter.com/search?q=h%c3%acnh) | N/A |
-| 43 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 44 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
-| 45 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 43 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
+| 44 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 45 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 46 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
 | 47 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 48 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |

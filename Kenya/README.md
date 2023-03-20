@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-20 21:17:28 UTC`
+📆 Last Updated: `2023-03-20 22:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Kenya
 | 1 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
 | 2 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
 | 3 | [#DateWithDestiny20thMarch](http://twitter.com/search?q=%23DateWithDestiny20thMarch) | N/A |
-| 4 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 5 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 4 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 5 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 6 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
 | 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 8 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for Kenya
 | 25 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 26 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
 | 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [Gichugu](http://twitter.com/search?q=Gichugu) | N/A |
-| 29 | [Peter Salasya](http://twitter.com/search?q=Peter+Salasya) | N/A |
-| 30 | [Returning](http://twitter.com/search?q=Returning) | N/A |
-| 31 | [Unga](http://twitter.com/search?q=Unga) | N/A |
-| 32 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 33 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 34 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Stewart Madzayo](http://twitter.com/search?q=Stewart+Madzayo) | N/A |
-| 37 | [Teargas](http://twitter.com/search?q=Teargas) | N/A |
-| 38 | [madilu](http://twitter.com/search?q=madilu) | N/A |
-| 39 | [Toi Market](http://twitter.com/search?q=Toi+Market) | N/A |
-| 40 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
-| 41 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 42 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 43 | [Coward](http://twitter.com/search?q=Coward) | N/A |
-| 44 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 45 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 46 | [Jacaranda](http://twitter.com/search?q=Jacaranda) | N/A |
-| 47 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 48 | [Juja Road](http://twitter.com/search?q=Juja+Road) | N/A |
-| 49 | [Wewe](http://twitter.com/search?q=Wewe) | N/A |
-| 50 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
+| 28 | [Returning](http://twitter.com/search?q=Returning) | N/A |
+| 29 | [Gichugu](http://twitter.com/search?q=Gichugu) | N/A |
+| 30 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 31 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 33 | [stewart madzayo](http://twitter.com/search?q=stewart+madzayo) | N/A |
+| 34 | [Teargas](http://twitter.com/search?q=Teargas) | N/A |
+| 35 | [madilu](http://twitter.com/search?q=madilu) | N/A |
+| 36 | [Peter Salasya](http://twitter.com/search?q=Peter+Salasya) | N/A |
+| 37 | [toi market](http://twitter.com/search?q=toi+market) | N/A |
+| 38 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
+| 39 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
+| 40 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
+| 41 | [Coward](http://twitter.com/search?q=Coward) | N/A |
+| 42 | [Jacaranda](http://twitter.com/search?q=Jacaranda) | N/A |
+| 43 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 44 | [Junet](http://twitter.com/search?q=Junet) | N/A |
+| 45 | [Juja Road](http://twitter.com/search?q=Juja+Road) | N/A |
+| 46 | [Wewe](http://twitter.com/search?q=Wewe) | N/A |
+| 47 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
+| 48 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 49 | [Kenya Airways](http://twitter.com/search?q=Kenya+Airways) | N/A |
+| 50 | [Unga](http://twitter.com/search?q=Unga) | N/A |
 
 
 

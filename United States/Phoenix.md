@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-20 21:17:22 UTC`
+📆 Last Updated: `2023-03-20 22:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 2 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 3 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 4 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 5 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 6 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 7 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 8 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 9 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 10 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 11 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 12 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 13 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 14 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
-| 15 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 16 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 18 | [#SJUBB](http://twitter.com/search?q=%23SJUBB) | N/A |
-| 19 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 20 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 21 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 22 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 23 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 24 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
-| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 26 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 27 | [Jason Sudeikis](http://twitter.com/search?q=Jason+Sudeikis) | N/A |
-| 28 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 29 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 30 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 31 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
-| 32 | [Harambe](http://twitter.com/search?q=Harambe) | N/A |
-| 33 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 34 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
-| 35 | [Simon Ateba](http://twitter.com/search?q=Simon+Ateba) | N/A |
-| 36 | [OJ Howard](http://twitter.com/search?q=OJ+Howard) | N/A |
-| 37 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 38 | [Trump is a Floridian](http://twitter.com/search?q=Trump+is+a+Floridian) | N/A |
+| 2 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 3 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 4 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 5 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
+| 6 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 7 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 8 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 9 | [Dalton Schultz](http://twitter.com/search?q=Dalton+Schultz) | N/A |
+| 10 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 11 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 12 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 13 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 14 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 15 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
+| 16 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 17 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 18 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 19 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 20 | [#IReallyWantToBringBack](http://twitter.com/search?q=%23IReallyWantToBringBack) | N/A |
+| 21 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 22 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 23 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 24 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 25 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 26 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
+| 27 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 28 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 29 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
+| 30 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 31 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
+| 32 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 33 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 34 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 35 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 36 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 37 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 38 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
 | 39 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 40 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 41 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 42 | [Jordan Willis](http://twitter.com/search?q=Jordan+Willis) | N/A |
-| 43 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 44 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 45 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 46 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 47 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
+| 40 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
+| 41 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
+| 42 | [Ted Lieu](http://twitter.com/search?q=Ted+Lieu) | Ted Lieu is the name of a Democratic member of the United States House of Representatives from California's 33rd congressional district. His name is derived from his Chinese surname, which means "place" or "location." |
+| 43 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
+| 44 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 45 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 46 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 47 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
 | 48 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 49 | [Tony Clifton](http://twitter.com/search?q=Tony+Clifton) | N/A |
-| 50 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 49 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 50 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 
 
 

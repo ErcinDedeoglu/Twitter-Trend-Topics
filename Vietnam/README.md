@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-20 21:17:32 UTC`
+📆 Last Updated: `2023-03-20 22:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,18 +27,18 @@ This is top 50 for Vietnam
 | 10 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
 | 11 | [Join the Voyage Season 2](http://twitter.com/search?q=Join+the+Voyage+Season+2) | N/A |
 | 12 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 13 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 15 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 16 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 17 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
-| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 19 | [thêm](http://twitter.com/search?q=th%c3%aam) | N/A |
-| 20 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
-| 21 | [$drx](http://twitter.com/search?q=%24drx) | N/A |
-| 22 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 23 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 24 | [America](http://twitter.com/search?q=America) | N/A |
+| 13 | [America](http://twitter.com/search?q=America) | N/A |
+| 14 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 15 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 16 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 17 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 18 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [thêm](http://twitter.com/search?q=th%c3%aam) | N/A |
+| 21 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 22 | [$drx](http://twitter.com/search?q=%24drx) | N/A |
+| 23 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 25 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
 | 26 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 27 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
@@ -53,14 +53,14 @@ This is top 50 for Vietnam
 | 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 37 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
 | 38 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 39 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 39 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 40 | [Base](http://twitter.com/search?q=Base) | N/A |
 | 41 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 42 | [Omnichain Smart Contracts](http://twitter.com/search?q=Omnichain+Smart+Contracts) | N/A |
 | 43 | [hình](http://twitter.com/search?q=h%c3%acnh) | N/A |
-| 44 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 45 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
-| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 44 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
+| 45 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 46 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 47 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
 | 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 49 | [xin 1](http://twitter.com/search?q=xin+1) | N/A |

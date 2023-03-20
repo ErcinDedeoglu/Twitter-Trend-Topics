@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-20 21:17:33 UTC`
+📆 Last Updated: `2023-03-20 22:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EXOSCinKL](http://twitter.com/search?q=%23EXOSCinKL) | N/A |
+| 1 | [#exoscinkl](http://twitter.com/search?q=%23exoscinkl) | N/A |
 | 2 | [#backtoback_in_kl](http://twitter.com/search?q=%23backtoback_in_kl) | N/A |
 | 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
 | 4 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
@@ -29,9 +29,9 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 12 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 13 | [TIERNEY](http://twitter.com/search?q=TIERNEY) | N/A |
 | 14 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
-| 15 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 16 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 17 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 15 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 17 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
 | 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 19 | [Aida](http://twitter.com/search?q=Aida) | N/A |
 | 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
@@ -52,18 +52,18 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 35 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
 | 36 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
 | 37 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 38 | [Gintama](http://twitter.com/search?q=Gintama) | N/A |
-| 39 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 41 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 42 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 43 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
-| 44 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 45 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 46 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 47 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 48 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 49 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 38 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 41 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 42 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
+| 43 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 44 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 45 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 46 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 48 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 49 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-20 21:17:30 UTC`
+📆 Last Updated: `2023-03-20 22:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for Qatar
 | 13 | [ساعات العمل](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 14 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
 | 15 | [20 مارس 2023](http://twitter.com/search?q=20+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 16 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 16 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
 | 17 | [سردار بيردي](http://twitter.com/search?q=%d8%b3%d8%b1%d8%af%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d8%af%d9%8a) | N/A |
 | 18 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 19 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 20 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 21 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 22 | [الحضاره الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 23 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 24 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 25 | [علي الغرب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8) | N/A |
-| 26 | [الامن الغذايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a) | N/A |
-| 27 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 29 | [سعيد الكملي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%83%d9%85%d9%84%d9%8a) | N/A |
-| 30 | [النايب العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 31 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 32 | [محمد مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 33 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 35 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 36 | [علي المال العام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 39 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 20 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 21 | [الحضاره الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 22 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 23 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
+| 24 | [علي الغرب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8) | N/A |
+| 25 | [الامن الغذايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d9%8a%d9%8a) | N/A |
+| 26 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 27 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 28 | [سعيد الكملي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%83%d9%85%d9%84%d9%8a) | N/A |
+| 29 | [النايب العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 30 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 31 | [محمد مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 32 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 33 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 34 | [علي المال العام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 36 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 37 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 38 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 39 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
 | 40 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 42 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 43 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 44 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 45 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
-| 46 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
-| 47 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
+| 41 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 42 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 43 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
+| 44 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
+| 45 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 46 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
+| 47 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 | 48 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 49 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 50 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 
 

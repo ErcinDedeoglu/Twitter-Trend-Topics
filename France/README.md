@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-20 21:17:27 UTC`
+📆 Last Updated: `2023-03-20 22:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
-| 2 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 3 | [#ToxicSpace](http://twitter.com/search?q=%23ToxicSpace) | N/A |
+| 2 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
+| 3 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
 | 4 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
-| 5 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
-| 6 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
-| 7 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 8 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
-| 9 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
-| 10 | [9 VOIX](http://twitter.com/search?q=9+VOIX) | N/A |
-| 11 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 12 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
-| 13 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
-| 14 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
-| 15 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 16 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 5 | [#ToxicSpace](http://twitter.com/search?q=%23ToxicSpace) | N/A |
+| 6 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
+| 7 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
+| 8 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 9 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 10 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 11 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
+| 12 | [9 VOIX](http://twitter.com/search?q=9+VOIX) | N/A |
+| 13 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 14 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
+| 15 | [Gotaga](http://twitter.com/search?q=Gotaga) | N/A |
+| 16 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
 | 17 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 18 | [19 LR](http://twitter.com/search?q=19+LR) | N/A |
-| 19 | [Gotaga](http://twitter.com/search?q=Gotaga) | N/A |
-| 20 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 21 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 22 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
-| 23 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 24 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 25 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 26 | [Anthony Roux](http://twitter.com/search?q=Anthony+Roux) | N/A |
-| 27 | [18h45](http://twitter.com/search?q=18h45) | N/A |
-| 28 | [Joyeux Hunger Games](http://twitter.com/search?q=Joyeux+Hunger+Games) | N/A |
-| 29 | [NEUF VOIX](http://twitter.com/search?q=NEUF+VOIX) | N/A |
-| 30 | [Pour 9](http://twitter.com/search?q=Pour+9) | N/A |
-| 31 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
-| 32 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 33 | [Rejetée](http://twitter.com/search?q=Rejet%c3%a9e) | N/A |
-| 34 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 35 | [Dofus](http://twitter.com/search?q=Dofus) | N/A |
-| 36 | [LA RUE](http://twitter.com/search?q=LA+RUE) | N/A |
-| 37 | [Emmanuelle Ménard](http://twitter.com/search?q=Emmanuelle+M%c3%a9nard) | N/A |
-| 38 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 39 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
+| 18 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
+| 19 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
+| 20 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 21 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 22 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 23 | [19 LR](http://twitter.com/search?q=19+LR) | N/A |
+| 24 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 25 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 26 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 27 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 28 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 29 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
+| 30 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 31 | [Joyeux Hunger Games](http://twitter.com/search?q=Joyeux+Hunger+Games) | N/A |
+| 32 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 33 | [Pour 9](http://twitter.com/search?q=Pour+9) | N/A |
+| 34 | [Anthony Roux](http://twitter.com/search?q=Anthony+Roux) | N/A |
+| 35 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
+| 36 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 37 | [Dofus](http://twitter.com/search?q=Dofus) | N/A |
+| 38 | [Rejetée](http://twitter.com/search?q=Rejet%c3%a9e) | N/A |
+| 39 | [LA RUE](http://twitter.com/search?q=LA+RUE) | N/A |
 | 40 | [Courson](http://twitter.com/search?q=Courson) | N/A |
-| 41 | [Raté](http://twitter.com/search?q=Rat%c3%a9) | N/A |
-| 42 | [Tolbiac](http://twitter.com/search?q=Tolbiac) | N/A |
-| 43 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 44 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 45 | [Louis XIV](http://twitter.com/search?q=Louis+XIV) | N/A |
-| 46 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 47 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
-| 48 | [Panot](http://twitter.com/search?q=Panot) | N/A |
-| 49 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 50 | [France Info](http://twitter.com/search?q=France+Info) | N/A |
+| 41 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 42 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 43 | [Raté](http://twitter.com/search?q=Rat%c3%a9) | N/A |
+| 44 | [Louis XIV](http://twitter.com/search?q=Louis+XIV) | N/A |
+| 45 | [Tolbiac](http://twitter.com/search?q=Tolbiac) | N/A |
+| 46 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
+| 47 | [Panot](http://twitter.com/search?q=Panot) | N/A |
+| 48 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 49 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 50 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-20 21:17:25 UTC`
+📆 Last Updated: `2023-03-20 22:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Australia
 | 2 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
 | 3 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
 | 4 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 5 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 5 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 6 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 7 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 7 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
 | 8 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 9 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 10 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 11 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 12 | [#MCRSYDNEY2](http://twitter.com/search?q=%23MCRSYDNEY2) | N/A |
-| 13 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 14 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 9 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 10 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 11 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 12 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
+| 13 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 14 | [#4Corners](http://twitter.com/search?q=%234Corners) | N/A |
 | 15 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 16 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
-| 17 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 18 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 19 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 20 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 21 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 24 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
-| 25 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 26 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
+| 16 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 17 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 18 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
+| 19 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 20 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 21 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 22 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 23 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 26 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
 | 27 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 28 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 29 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
-| 30 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 31 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 32 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 33 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 34 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
-| 35 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 36 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
-| 37 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 38 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 39 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
-| 40 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 28 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 29 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 30 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 31 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 32 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
+| 33 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 34 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 35 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
+| 36 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 37 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
+| 38 | [Health Centre](http://twitter.com/search?q=Health+Centre) | N/A |
+| 39 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
+| 40 | [Avi Yemini](http://twitter.com/search?q=Avi+Yemini) | N/A |
 | 41 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
 | 42 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 43 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 44 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 45 | [Avi Yemini](http://twitter.com/search?q=Avi+Yemini) | N/A |
-| 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 47 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
-| 48 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 50 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 43 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 44 | [VicPol](http://twitter.com/search?q=VicPol) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
+| 47 | [Autumn](http://twitter.com/search?q=Autumn) | N/A |
+| 48 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 49 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 50 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
 
 
 

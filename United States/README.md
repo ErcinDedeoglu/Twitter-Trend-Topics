@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-20 21:17:32 UTC`
+📆 Last Updated: `2023-03-20 22:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United States
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 2 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 3 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 4 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 5 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 6 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 7 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 8 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 9 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 10 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 11 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 12 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
-| 13 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
-| 14 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 15 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 16 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 17 | [#SJUBB](http://twitter.com/search?q=%23SJUBB) | N/A |
-| 18 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 19 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 20 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 21 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 22 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
-| 23 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
-| 24 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 25 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 26 | [Jason Sudeikis](http://twitter.com/search?q=Jason+Sudeikis) | N/A |
-| 27 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 28 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 29 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 30 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
-| 31 | [Harambe](http://twitter.com/search?q=Harambe) | N/A |
-| 32 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 33 | [Simon Ateba](http://twitter.com/search?q=Simon+Ateba) | N/A |
-| 34 | [OJ Howard](http://twitter.com/search?q=OJ+Howard) | N/A |
-| 35 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 36 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
-| 37 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 38 | [Trump is a Floridian](http://twitter.com/search?q=Trump+is+a+Floridian) | N/A |
-| 39 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 40 | [Jordan Willis](http://twitter.com/search?q=Jordan+Willis) | N/A |
-| 41 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 42 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 43 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 44 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
-| 45 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 46 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 47 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 48 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 49 | [Tony Clifton](http://twitter.com/search?q=Tony+Clifton) | N/A |
-| 50 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
+| 1 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 2 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 3 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 4 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
+| 5 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 6 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 7 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 8 | [Dalton Schultz](http://twitter.com/search?q=Dalton+Schultz) | N/A |
+| 9 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 10 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 11 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 12 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 13 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 14 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 15 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 16 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 17 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
+| 18 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 19 | [#IReallyWantToBringBack](http://twitter.com/search?q=%23IReallyWantToBringBack) | N/A |
+| 20 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 21 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 22 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 23 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 24 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 25 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
+| 26 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 27 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 28 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
+| 29 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 30 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
+| 31 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 32 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 33 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 34 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 35 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 36 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 37 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 38 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
+| 39 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
+| 40 | [Feliciano](http://twitter.com/search?q=Feliciano) | N/A |
+| 41 | [Ted Lieu](http://twitter.com/search?q=Ted+Lieu) | Ted Lieu is the name of a Democratic member of the United States House of Representatives from California's 33rd congressional district. His name is derived from his Chinese surname, which means "place" or "location." |
+| 42 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
+| 43 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 44 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 45 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 46 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 47 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 48 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 49 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 50 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
 
 
 

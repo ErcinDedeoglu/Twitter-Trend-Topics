@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-20 21:17:28 UTC`
+📆 Last Updated: `2023-03-20 22:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
-| 3 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 4 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 5 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 6 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 7 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 8 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 9 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
-| 10 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 11 | [Bompiani](http://twitter.com/search?q=Bompiani) | N/A |
-| 12 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 13 | [Indica](http://twitter.com/search?q=Indica) | N/A |
-| 14 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
-| 15 | [Cecilia](http://twitter.com/search?q=Cecilia) | Cecilia is a female given name of Latin origin, derived from the word caecus, meaning “blind”. It is also the name of a saint in the Catholic Church. The name has been popular in Europe since the Middle Ages and is now common throughout the world. |
-| 16 | [Vulcano](http://twitter.com/search?q=Vulcano) | N/A |
-| 17 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 18 | [Livia](http://twitter.com/search?q=Livia) | N/A |
-| 19 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 20 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
-| 21 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 22 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 23 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 24 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 25 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 26 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 27 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
-| 28 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 29 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 30 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 33 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 34 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 35 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 36 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
-| 37 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 38 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
-| 39 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 40 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
-| 41 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 42 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 43 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
-| 44 | [GLI OCCHI DI LULÙ](http://twitter.com/search?q=GLI+OCCHI+DI+LUL%c3%99) | N/A |
-| 45 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 46 | [DAL MORO](http://twitter.com/search?q=DAL+MORO) | N/A |
-| 47 | [Prontissima](http://twitter.com/search?q=Prontissima) | N/A |
-| 48 | [Fiordelisi](http://twitter.com/search?q=Fiordelisi) | N/A |
-| 49 | [Mirko](http://twitter.com/search?q=Mirko) | N/A |
-| 50 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 1 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
+| 2 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 3 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 4 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 5 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 6 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 7 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
+| 8 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 9 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 10 | [Cecilia](http://twitter.com/search?q=Cecilia) | Cecilia is a female given name of Latin origin, derived from the word caecus, meaning “blind”. It is also the name of a saint in the Catholic Church. The name has been popular in Europe since the Middle Ages and is now common throughout the world. |
+| 11 | [Livia](http://twitter.com/search?q=Livia) | N/A |
+| 12 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 13 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 14 | [Fiordelisi](http://twitter.com/search?q=Fiordelisi) | N/A |
+| 15 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 16 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 17 | [Palla](http://twitter.com/search?q=Palla) | N/A |
+| 18 | [CHE SCHIFO](http://twitter.com/search?q=CHE+SCHIFO) | N/A |
+| 19 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 20 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 21 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 22 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
+| 23 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
+| 24 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 25 | [Mollicone](http://twitter.com/search?q=Mollicone) | N/A |
+| 26 | [Russia e Cina](http://twitter.com/search?q=Russia+e+Cina) | N/A |
+| 27 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 28 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 29 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
+| 30 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 31 | [#MEtadiME](http://twitter.com/search?q=%23MEtadiME) | N/A |
+| 32 | [#QuandoFuori](http://twitter.com/search?q=%23QuandoFuori) | N/A |
+| 33 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
+| 34 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 35 | [#iostoconoriana](http://twitter.com/search?q=%23iostoconoriana) | N/A |
+| 36 | [#littlebigitaly](http://twitter.com/search?q=%23littlebigitaly) | N/A |
+| 37 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 38 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
+| 39 | [#Bonolis](http://twitter.com/search?q=%23Bonolis) | N/A |
+| 40 | [#metaverso](http://twitter.com/search?q=%23metaverso) | N/A |
+| 41 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
+| 42 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
+| 43 | [#dakita](http://twitter.com/search?q=%23dakita) | N/A |
+| 44 | [#uteroinaffitto](http://twitter.com/search?q=%23uteroinaffitto) | N/A |
+| 45 | [#XiJinping](http://twitter.com/search?q=%23XiJinping) | N/A |
+| 46 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 47 | [#Travaglio](http://twitter.com/search?q=%23Travaglio) | N/A |
+| 48 | [#KeremBürsin](http://twitter.com/search?q=%23KeremB%c3%bcrsin) | N/A |
 
 
 

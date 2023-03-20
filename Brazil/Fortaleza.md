@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-20 21:16:48 UTC`
+📆 Last Updated: `2023-03-20 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 1 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
 | 2 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
-| 3 | [PRISCILLA EM AMOR PERFEITO](http://twitter.com/search?q=PRISCILLA+EM+AMOR+PERFEITO) | N/A |
-| 4 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 5 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 6 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 7 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 8 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 9 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 10 | [#OReidoGado](http://twitter.com/search?q=%23OReidoGado) | N/A |
-| 11 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 12 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
-| 13 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
-| 14 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 15 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 16 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 17 | [Max Martin](http://twitter.com/search?q=Max+Martin) | N/A |
-| 18 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
-| 19 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 20 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 21 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
-| 22 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
-| 23 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
-| 24 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 25 | [Barba Negra](http://twitter.com/search?q=Barba+Negra) | N/A |
-| 26 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 27 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 28 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
-| 29 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 30 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
-| 31 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
-| 32 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
-| 33 | [Neto e Denilson](http://twitter.com/search?q=Neto+e+Denilson) | N/A |
-| 34 | [Shoppe](http://twitter.com/search?q=Shoppe) | N/A |
-| 35 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 36 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
-| 37 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 3 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 4 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 5 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 6 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 7 | [Camila Queiroz](http://twitter.com/search?q=Camila+Queiroz) | N/A |
+| 8 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 9 | [#OReidoGado](http://twitter.com/search?q=%23OReidoGado) | N/A |
+| 10 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 11 | [PARABENS BIEL](http://twitter.com/search?q=PARABENS+BIEL) | N/A |
+| 12 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 13 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
+| 14 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 15 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
+| 16 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 17 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 18 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 19 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 20 | [Thiago Lacerda](http://twitter.com/search?q=Thiago+Lacerda) | N/A |
+| 21 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
+| 22 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
+| 23 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
+| 24 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 25 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
+| 26 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
+| 27 | [Max Martin](http://twitter.com/search?q=Max+Martin) | N/A |
+| 28 | [Fernanda Gentil](http://twitter.com/search?q=Fernanda+Gentil) | N/A |
+| 29 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 30 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 31 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 32 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 33 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 34 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 35 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 36 | [Barba Negra](http://twitter.com/search?q=Barba+Negra) | N/A |
+| 37 | [Outono](http://twitter.com/search?q=Outono) | N/A |
 | 38 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 39 | [Léo Dias](http://twitter.com/search?q=L%c3%a9o+Dias) | N/A |
-| 40 | [Petraglia](http://twitter.com/search?q=Petraglia) | N/A |
-| 41 | [Montanha](http://twitter.com/search?q=Montanha) | N/A |
+| 39 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
+| 40 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 41 | [Carly](http://twitter.com/search?q=Carly) | N/A |
 | 42 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 43 | [Jeová](http://twitter.com/search?q=Jeov%c3%a1) | N/A |
-| 44 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 45 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 46 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 47 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 48 | [aliexpress](http://twitter.com/search?q=aliexpress) | N/A |
+| 43 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
+| 44 | [Shoppe](http://twitter.com/search?q=Shoppe) | N/A |
+| 45 | [A Queda](http://twitter.com/search?q=A+Queda) | N/A |
+| 46 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 47 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
+| 48 | [João Ricardo](http://twitter.com/search?q=Jo%c3%a3o+Ricardo) | N/A |
 
 
 

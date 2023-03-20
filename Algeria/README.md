@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-20 21:17:25 UTC`
+📆 Last Updated: `2023-03-20 22:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Algeria
 | 3 | [#عيد_النصر](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
 | 4 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 5 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 6 | [19 مارس 1962](http://twitter.com/search?q=19+%d9%85%d8%a7%d8%b1%d8%b3+1962) | N/A |
-| 7 | [الجاليه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 8 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 9 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 10 | [الاستعمال المبالغ](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba) | N/A |
-| 11 | [النقل الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
-| 12 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 13 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 14 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 15 | [#نيف_بيقولكم_شي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a8%d9%8a%d9%82%d9%88%d9%84%d9%83%d9%85_%d8%b4%d9%8a) | N/A |
-| 16 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 17 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 18 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 19 | [كمال رزيق](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d9%84+%d8%b1%d8%b2%d9%8a%d9%82) | N/A |
-| 20 | [سيارات فيات](http://twitter.com/search?q=%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d9%81%d9%8a%d8%a7%d8%aa) | N/A |
-| 21 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 23 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 24 | [علي شعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b9%d8%a8) | N/A |
-| 25 | [المواد الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 26 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 27 | [وزير الصناعه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%87) | N/A |
-| 28 | [سيدي الوزير](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1) | N/A |
-| 29 | [مرسي](http://twitter.com/search?q=%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 30 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 31 | [علي عون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b9%d9%88%d9%86) | N/A |
-| 32 | [الجاليه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 33 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 34 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 6 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 7 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 8 | [الاستعمال المبالغ](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba) | N/A |
+| 9 | [النقل الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 10 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 11 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 12 | [#نيف_بيقولكم_شي](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%81_%d8%a8%d9%8a%d9%82%d9%88%d9%84%d9%83%d9%85_%d8%b4%d9%8a) | N/A |
+| 13 | [الجاليه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 14 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 15 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
+| 16 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 17 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 18 | [كمال رزيق](http://twitter.com/search?q=%d9%83%d9%85%d8%a7%d9%84+%d8%b1%d8%b2%d9%8a%d9%82) | N/A |
+| 19 | [سيارات فيات](http://twitter.com/search?q=%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d9%81%d9%8a%d8%a7%d8%aa) | N/A |
+| 20 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [علي شعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b9%d8%a8) | N/A |
+| 23 | [المواد الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 24 | [سيدي الوزير](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1) | N/A |
+| 25 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 26 | [19 مارس](http://twitter.com/search?q=19+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 27 | [الجاليه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 29 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 30 | [جيش شعب](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%b4%d8%b9%d8%a8) | N/A |
+| 31 | [مرسي](http://twitter.com/search?q=%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 32 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 33 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
+| 34 | [بن زيمة](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b2%d9%8a%d9%85%d8%a9) | N/A |
 | 35 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 36 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 37 | [جيش شعب](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%b4%d8%b9%d8%a8) | N/A |
-| 38 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 39 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
-| 40 | [الناخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 41 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 42 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 43 | [وزير الشوون الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 44 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 45 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
-| 46 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 48 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 49 | [بن مهيدي](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d9%87%d9%8a%d8%af%d9%8a) | N/A |
-| 50 | [الإمام ابن القيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85+%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 36 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 37 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 38 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 39 | [وزير الشوون الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 40 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 41 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
+| 42 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 43 | [بن مهيدي](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d9%87%d9%8a%d8%af%d9%8a) | N/A |
+| 44 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 45 | [الولايات المتحده الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 46 | [الإمام ابن القيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85+%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 48 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 49 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 50 | [القدره الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 
 
 

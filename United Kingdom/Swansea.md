@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-20 21:16:42 UTC`
+📆 Last Updated: `2023-03-20 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 1 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
 | 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 3 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
 | 4 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 5 | [#VoteReject](http://twitter.com/search?q=%23VoteReject) | N/A |
-| 6 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 7 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 8 | [Ryan Mason](http://twitter.com/search?q=Ryan+Mason) | N/A |
-| 9 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 5 | [Ryan Mason](http://twitter.com/search?q=Ryan+Mason) | N/A |
+| 6 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 7 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 8 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
+| 9 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 10 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 11 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 12 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 13 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 14 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 15 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 16 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 17 | [Ruth Perry](http://twitter.com/search?q=Ruth+Perry) | N/A |
-| 18 | [Rufus](http://twitter.com/search?q=Rufus) | N/A |
-| 19 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
-| 20 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 21 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 22 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
-| 23 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
-| 24 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 25 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 26 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
-| 27 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 28 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 11 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 12 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 13 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 14 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 15 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 18 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 19 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 20 | [Ruth Perry](http://twitter.com/search?q=Ruth+Perry) | N/A |
+| 21 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 22 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 23 | [Rufus](http://twitter.com/search?q=Rufus) | N/A |
+| 24 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
+| 25 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 26 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
+| 27 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 28 | [Persian](http://twitter.com/search?q=Persian) | N/A |
 | 29 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 30 | [Milo](http://twitter.com/search?q=Milo) | N/A |
-| 31 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 32 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
-| 33 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 34 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
-| 35 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
-| 36 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 37 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 38 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 39 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 40 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 41 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 42 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 43 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 44 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 45 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 46 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 47 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 48 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 49 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 30 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 31 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
+| 32 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 33 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 34 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 35 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 36 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
+| 37 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
+| 38 | [Iraq War](http://twitter.com/search?q=Iraq+War) | N/A |
+| 39 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 40 | [Milo](http://twitter.com/search?q=Milo) | N/A |
+| 41 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 42 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 43 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 44 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 45 | [Belal](http://twitter.com/search?q=Belal) | N/A |
+| 46 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 47 | [Iraqis](http://twitter.com/search?q=Iraqis) | N/A |
+| 48 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
 
 
 
