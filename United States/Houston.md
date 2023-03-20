@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-20 18:17:58 UTC`
+📆 Last Updated: `2023-03-20 19:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 2 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 3 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 4 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 5 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 6 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 7 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 8 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 9 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 11 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
-| 12 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 13 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 2 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 3 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 4 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
+| 5 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 6 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 7 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 8 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 9 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 10 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 11 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 12 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 13 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
 | 14 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
-| 15 | [#Diablo4theWeekend](http://twitter.com/search?q=%23Diablo4theWeekend) | N/A |
+| 15 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
 | 16 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 17 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 18 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 19 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 20 | [Trump is a Floridian](http://twitter.com/search?q=Trump+is+a+Floridian) | N/A |
-| 21 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
-| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Tony Clifton](http://twitter.com/search?q=Tony+Clifton) | N/A |
-| 24 | [XXXTentacion](http://twitter.com/search?q=XXXTentacion) | N/A |
-| 25 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 26 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 27 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
-| 28 | [Harambe](http://twitter.com/search?q=Harambe) | N/A |
-| 29 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 30 | [Sherfield](http://twitter.com/search?q=Sherfield) | N/A |
-| 31 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
-| 32 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 33 | [WWE Hall of Fame](http://twitter.com/search?q=WWE+Hall+of+Fame) | N/A |
+| 17 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 18 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
+| 19 | [Harambe](http://twitter.com/search?q=Harambe) | N/A |
+| 20 | [#Diablo4theWeekend](http://twitter.com/search?q=%23Diablo4theWeekend) | N/A |
+| 21 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 22 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
+| 23 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 24 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 26 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 27 | [Trump is a Floridian](http://twitter.com/search?q=Trump+is+a+Floridian) | N/A |
+| 28 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 29 | [Tony Clifton](http://twitter.com/search?q=Tony+Clifton) | N/A |
+| 30 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 31 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 32 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 33 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
 | 34 | [Gerald Green](http://twitter.com/search?q=Gerald+Green) | N/A |
-| 35 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 36 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
-| 37 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 38 | [Sonic 3](http://twitter.com/search?q=Sonic+3) | N/A |
-| 39 | [Tchia](http://twitter.com/search?q=Tchia) | N/A |
-| 40 | [Happy Ostara](http://twitter.com/search?q=Happy+Ostara) | N/A |
-| 41 | [Arden Key](http://twitter.com/search?q=Arden+Key) | Arden Key is a professional American football player who currently plays for the Las Vegas Raiders of the National Football League (NFL). His name is derived from his hometown of Arden, North Carolina. The name has become a symbol of strength and resilience for Key, as he has overcome many obstacles to reach the NFL. |
-| 42 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 43 | [Jeremy Scott](http://twitter.com/search?q=Jeremy+Scott) | N/A |
-| 44 | [Avatar 3](http://twitter.com/search?q=Avatar+3) | N/A |
-| 45 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 46 | [Obstruction of Justice](http://twitter.com/search?q=Obstruction+of+Justice) | N/A |
-| 47 | [Soros-funded](http://twitter.com/search?q=Soros-funded) | N/A |
-| 48 | [Mike Brey](http://twitter.com/search?q=Mike+Brey) | N/A |
-| 49 | [Andy Jassy](http://twitter.com/search?q=Andy+Jassy) | N/A |
-| 50 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 35 | [XXXTentacion](http://twitter.com/search?q=XXXTentacion) | N/A |
+| 36 | [Jason Sudeikis](http://twitter.com/search?q=Jason+Sudeikis) | N/A |
+| 37 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 38 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
+| 39 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 40 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 41 | [Sherfield](http://twitter.com/search?q=Sherfield) | N/A |
+| 42 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 43 | [LIBERTAD Y ORDEN](http://twitter.com/search?q=LIBERTAD+Y+ORDEN) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [WWE Hall of Fame](http://twitter.com/search?q=WWE+Hall+of+Fame) | N/A |
+| 46 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 47 | [Veto](http://twitter.com/search?q=Veto) | N/A |
+| 48 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 49 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
+| 50 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
 
 
 

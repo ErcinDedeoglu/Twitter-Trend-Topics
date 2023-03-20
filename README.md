@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-20 18:17:16 UTC`
+📆 Last Updated: `2023-03-20 19:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 2 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 3 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
-| 4 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
-| 5 | [#夏川CZ](http://twitter.com/search?q=%23%e5%a4%8f%e5%b7%9dCZ) | N/A |
-| 6 | [LIBERTAD Y ORDEN](http://twitter.com/search?q=LIBERTAD+Y+ORDEN) | N/A |
+| 2 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
+| 3 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 4 | [LIBERTAD Y ORDEN](http://twitter.com/search?q=LIBERTAD+Y+ORDEN) | N/A |
+| 5 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 6 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
 | 7 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 8 | [きゃりーちゃん](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 9 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
-| 10 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 11 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 12 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 13 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 14 | [Koopİş PiktesiUnuttu](http://twitter.com/search?q=Koop%c4%b0%c5%9f+PiktesiUnuttu) | N/A |
-| 15 | [UgurOzturk](http://twitter.com/search?q=UgurOzturk) | N/A |
-| 16 | [Kabineden DenklikMüjdesi](http://twitter.com/search?q=Kabineden+DenklikM%c3%bcjdesi) | N/A |
-| 17 | [9 VOIX](http://twitter.com/search?q=9+VOIX) | N/A |
-| 18 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
-| 19 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 20 | [Marcelo Corazza](http://twitter.com/search?q=Marcelo+Corazza) | N/A |
-| 21 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
-| 22 | [EsnafMahkum Olmakİstemiyor](http://twitter.com/search?q=EsnafMahkum+Olmak%c4%b0stemiyor) | N/A |
-| 23 | [きゃりーぱみゅぱみゅ](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%b1%e3%81%bf%e3%82%85%e3%81%b1%e3%81%bf%e3%82%85) | N/A |
-| 24 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
-| 25 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
-| 26 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
-| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 28 | [ばいなーんす](http://twitter.com/search?q=%e3%81%b0%e3%81%84%e3%81%aa%e3%83%bc%e3%82%93%e3%81%99) | N/A |
-| 29 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 30 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
-| 31 | [JENNIE FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+FACE+OF+CHANEL22) | N/A |
-| 32 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
-| 33 | [習得済み](http://twitter.com/search?q=%e7%bf%92%e5%be%97%e6%b8%88%e3%81%bf) | N/A |
-| 34 | [武装色の覇気](http://twitter.com/search?q=%e6%ad%a6%e8%a3%85%e8%89%b2%e3%81%ae%e8%a6%87%e6%b0%97) | N/A |
-| 35 | [見聞色の覇気](http://twitter.com/search?q=%e8%a6%8b%e8%81%9e%e8%89%b2%e3%81%ae%e8%a6%87%e6%b0%97) | N/A |
-| 36 | [葉山くん](http://twitter.com/search?q=%e8%91%89%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
-| 37 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 38 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 39 | [悪魔の実](http://twitter.com/search?q=%e6%82%aa%e9%ad%94%e3%81%ae%e5%ae%9f) | N/A |
-| 40 | [ヒョニビニ](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%83%8b%e3%83%93%e3%83%8b) | N/A |
-| 41 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
-| 42 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
-| 43 | [覇王色の覇気](http://twitter.com/search?q=%e8%a6%87%e7%8e%8b%e8%89%b2%e3%81%ae%e8%a6%87%e6%b0%97) | N/A |
-| 44 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 45 | [舟和の芋ようかん](http://twitter.com/search?q=%e8%88%9f%e5%92%8c%e3%81%ae%e8%8a%8b%e3%82%88%e3%81%86%e3%81%8b%e3%82%93) | N/A |
-| 46 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
-| 47 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
-| 48 | [ちいかわ診断](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e8%a8%ba%e6%96%ad) | N/A |
-| 49 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
-| 50 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 8 | [Tuvalet Terliği](http://twitter.com/search?q=Tuvalet+Terli%c4%9fi) | N/A |
+| 9 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 10 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 11 | [Marcelo Corazza](http://twitter.com/search?q=Marcelo+Corazza) | N/A |
+| 12 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 13 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 14 | [きゃりーちゃん](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 16 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
+| 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 18 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 19 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 20 | [Natacha Jaitt](http://twitter.com/search?q=Natacha+Jaitt) | N/A |
+| 21 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 22 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 23 | [9 VOIX](http://twitter.com/search?q=9+VOIX) | N/A |
+| 24 | [Koopİş PiktesiUnuttu](http://twitter.com/search?q=Koop%c4%b0%c5%9f+PiktesiUnuttu) | N/A |
+| 25 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 26 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
+| 27 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 28 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 29 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 30 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
+| 31 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
+| 32 | [UgurOzturk](http://twitter.com/search?q=UgurOzturk) | N/A |
+| 33 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
+| 34 | [Kabineden DenklikMüjdesi](http://twitter.com/search?q=Kabineden+DenklikM%c3%bcjdesi) | N/A |
+| 35 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
+| 36 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 37 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
+| 38 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 39 | [きゃりーぱみゅぱみゅ](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%b1%e3%81%bf%e3%82%85%e3%81%b1%e3%81%bf%e3%82%85) | N/A |
+| 40 | [Ed Cooley](http://twitter.com/search?q=Ed+Cooley) | N/A |
+| 41 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
+| 42 | [ばいなーんす](http://twitter.com/search?q=%e3%81%b0%e3%81%84%e3%81%aa%e3%83%bc%e3%82%93%e3%81%99) | N/A |
+| 43 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
+| 44 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
+| 45 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
+| 46 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 47 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 48 | [Harambe](http://twitter.com/search?q=Harambe) | N/A |
+| 49 | [Andy Kaufman](http://twitter.com/search?q=Andy+Kaufman) | N/A |
+| 50 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
 
 
 

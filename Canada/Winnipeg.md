@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-20 18:17:16 UTC`
+📆 Last Updated: `2023-03-20 19:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [Canada](</Canada>)
 | 10 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
 | 11 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 12 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
-| 13 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 14 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 15 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 16 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 17 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Votto](http://twitter.com/search?q=Votto) | N/A |
-| 20 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 13 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 14 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 15 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 16 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 17 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 18 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 19 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 21 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 22 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 23 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 24 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
-| 25 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 26 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 27 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 28 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 29 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
-| 30 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Persian New Year](http://twitter.com/search?q=Persian+New+Year) | N/A |
-| 33 | [Life by You](http://twitter.com/search?q=Life+by+You) | N/A |
-| 34 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 35 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 36 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
-| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 41 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 42 | [Bobby Orr](http://twitter.com/search?q=Bobby+Orr) | N/A |
-| 43 | [Hasek](http://twitter.com/search?q=Hasek) | N/A |
-| 44 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 45 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 46 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 47 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
-| 48 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 22 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 23 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 24 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 25 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 26 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 27 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 28 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 29 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 30 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 31 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 32 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 35 | [Persian New Year](http://twitter.com/search?q=Persian+New+Year) | N/A |
+| 36 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 37 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 38 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 39 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 42 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 43 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 44 | [Bobby Orr](http://twitter.com/search?q=Bobby+Orr) | N/A |
+| 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 46 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 47 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 48 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
 
 
 

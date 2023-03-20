@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-20 18:17:45 UTC`
+📆 Last Updated: `2023-03-20 19:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WashingtonfxCrypto](http://twitter.com/search?q=%23WashingtonfxCrypto) | N/A |
-| 2 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
-| 3 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
-| 4 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
-| 5 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 6 | [#RestoreOurMandate](http://twitter.com/search?q=%23RestoreOurMandate) | N/A |
-| 7 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 8 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 9 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 10 | [Benue](http://twitter.com/search?q=Benue) | N/A |
-| 11 | [Laptop](http://twitter.com/search?q=Laptop) | N/A |
-| 12 | [Talented](http://twitter.com/search?q=Talented) | N/A |
-| 13 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
-| 14 | [#WOHDWithColgate](http://twitter.com/search?q=%23WOHDWithColgate) | N/A |
+| 1 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 2 | [#WashingtonfxCrypto](http://twitter.com/search?q=%23WashingtonfxCrypto) | N/A |
+| 3 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 4 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 5 | [#BibleStudywithKumuyi](http://twitter.com/search?q=%23BibleStudywithKumuyi) | N/A |
+| 6 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 7 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
+| 8 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 9 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
+| 10 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 11 | [#RestoreOurMandate](http://twitter.com/search?q=%23RestoreOurMandate) | N/A |
+| 12 | [Nairaland](http://twitter.com/search?q=Nairaland) | N/A |
+| 13 | [Laptop](http://twitter.com/search?q=Laptop) | N/A |
+| 14 | [FUTA](http://twitter.com/search?q=FUTA) | N/A |
 | 15 | [AutoCAD](http://twitter.com/search?q=AutoCAD) | N/A |
-| 16 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
-| 17 | [FUTA](http://twitter.com/search?q=FUTA) | N/A |
-| 18 | [Smelling](http://twitter.com/search?q=Smelling) | N/A |
+| 16 | [Talented](http://twitter.com/search?q=Talented) | N/A |
+| 17 | [Lalong](http://twitter.com/search?q=Lalong) | N/A |
+| 18 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
 | 19 | [Yes Father](http://twitter.com/search?q=Yes+Father) | N/A |
-| 20 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
-| 21 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 22 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 23 | [Zulum](http://twitter.com/search?q=Zulum) | N/A |
-| 24 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
-| 25 | [Caleb Mutfwang](http://twitter.com/search?q=Caleb+Mutfwang) | N/A |
-| 26 | [AFRICA LOVES KANAGA JNR](http://twitter.com/search?q=AFRICA+LOVES+KANAGA+JNR) | N/A |
-| 27 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
-| 28 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 29 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 30 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
-| 31 | [Ashiru](http://twitter.com/search?q=Ashiru) | N/A |
-| 32 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 33 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
-| 34 | [Nentawe](http://twitter.com/search?q=Nentawe) | N/A |
-| 35 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
-| 36 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 37 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
-| 38 | [Thanks and God](http://twitter.com/search?q=Thanks+and+God) | N/A |
-| 39 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 40 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 41 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
-| 42 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 43 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
-| 44 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
-| 45 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 46 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
-| 47 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
-| 48 | [#Adamawa](http://twitter.com/search?q=%23Adamawa) | N/A |
+| 20 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 21 | [Zulum](http://twitter.com/search?q=Zulum) | N/A |
+| 22 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 23 | [#WOHDWithColgate](http://twitter.com/search?q=%23WOHDWithColgate) | N/A |
+| 24 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 25 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
+| 26 | [Kudan](http://twitter.com/search?q=Kudan) | N/A |
+| 27 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
+| 28 | [Muslim-Muslim](http://twitter.com/search?q=Muslim-Muslim) | N/A |
+| 29 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
+| 30 | [Smelling](http://twitter.com/search?q=Smelling) | N/A |
+| 31 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 32 | [Ashiru](http://twitter.com/search?q=Ashiru) | N/A |
+| 33 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 34 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
+| 35 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 36 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 37 | [AFRICA LOVES KANAGA JNR](http://twitter.com/search?q=AFRICA+LOVES+KANAGA+JNR) | N/A |
+| 38 | [Medicine](http://twitter.com/search?q=Medicine) | N/A |
+| 39 | [Yola](http://twitter.com/search?q=Yola) | N/A |
+| 40 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
+| 41 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
+| 42 | [Nentawe](http://twitter.com/search?q=Nentawe) | N/A |
+| 43 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
+| 44 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
+| 45 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 46 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
+| 47 | [#FreeChude](http://twitter.com/search?q=%23FreeChude) | N/A |
+| 48 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
 
 
 

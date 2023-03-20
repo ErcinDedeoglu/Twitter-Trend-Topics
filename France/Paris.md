@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-20 18:17:30 UTC`
+📆 Last Updated: `2023-03-20 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JusquAuRetrait](http://twitter.com/search?q=%23JusquAuRetrait) | N/A |
-| 2 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 3 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
-| 4 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 5 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 6 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 7 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 8 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 9 | [9 VOIX](http://twitter.com/search?q=9+VOIX) | N/A |
-| 10 | [#AssembleeNationale](http://twitter.com/search?q=%23AssembleeNationale) | N/A |
-| 11 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
-| 12 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
-| 13 | [18h45](http://twitter.com/search?q=18h45) | N/A |
-| 14 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
-| 15 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 16 | [Pour 9](http://twitter.com/search?q=Pour+9) | N/A |
+| 2 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 3 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 4 | [#MacronDEGAGE](http://twitter.com/search?q=%23MacronDEGAGE) | N/A |
+| 5 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
+| 6 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 7 | [Ve République](http://twitter.com/search?q=Ve+R%c3%a9publique) | N/A |
+| 8 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 9 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 10 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 11 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 12 | [9 VOIX](http://twitter.com/search?q=9+VOIX) | N/A |
+| 13 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
+| 14 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 15 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
+| 16 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
 | 17 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 18 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
-| 19 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 20 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
-| 21 | [NEUF VOIX](http://twitter.com/search?q=NEUF+VOIX) | N/A |
-| 22 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
-| 23 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
-| 24 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
-| 25 | [Dofus](http://twitter.com/search?q=Dofus) | N/A |
-| 26 | [France Info](http://twitter.com/search?q=France+Info) | N/A |
-| 27 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
-| 28 | [Boris Vallaud](http://twitter.com/search?q=Boris+Vallaud) | N/A |
-| 29 | [Lavalette](http://twitter.com/search?q=Lavalette) | N/A |
-| 30 | [LA RUE](http://twitter.com/search?q=LA+RUE) | N/A |
-| 31 | [Tolbiac](http://twitter.com/search?q=Tolbiac) | N/A |
-| 32 | [Sahel](http://twitter.com/search?q=Sahel) | N/A |
-| 33 | [Mali](http://twitter.com/search?q=Mali) | Mali is a landlocked country in West Africa. Its name is derived from the Mandinka word mali, meaning "hippopotamus". It is bordered by Algeria to the north, Niger to the east, Burkina Faso and Ivory Coast to the south, Guinea to the south-west, and Senegal and Mauritania to the west. |
-| 34 | [Coquerel](http://twitter.com/search?q=Coquerel) | N/A |
-| 35 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
-| 36 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 37 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 38 | [Première Ministre](http://twitter.com/search?q=Premi%c3%a8re+Ministre) | N/A |
-| 39 | [Horizons](http://twitter.com/search?q=Horizons) | N/A |
-| 40 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 41 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 42 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 43 | [Godwin](http://twitter.com/search?q=Godwin) | N/A |
-| 44 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
-| 45 | [MoDem](http://twitter.com/search?q=MoDem) | N/A |
-| 46 | [Clairefontaine](http://twitter.com/search?q=Clairefontaine) | N/A |
-| 47 | [HGGSP](http://twitter.com/search?q=HGGSP) | N/A |
-| 48 | [Victor Hugo](http://twitter.com/search?q=Victor+Hugo) | N/A |
-| 49 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
-| 50 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 18 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 19 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 20 | [Pour 9](http://twitter.com/search?q=Pour+9) | N/A |
+| 21 | [19 LR](http://twitter.com/search?q=19+LR) | N/A |
+| 22 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
+| 23 | [18h45](http://twitter.com/search?q=18h45) | N/A |
+| 24 | [NEUF VOIX](http://twitter.com/search?q=NEUF+VOIX) | N/A |
+| 25 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 26 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 27 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
+| 28 | [Joyeux Hunger Games](http://twitter.com/search?q=Joyeux+Hunger+Games) | N/A |
+| 29 | [Dofus](http://twitter.com/search?q=Dofus) | N/A |
+| 30 | [Charles de Courson](http://twitter.com/search?q=Charles+de+Courson) | N/A |
+| 31 | [Anthony Roux](http://twitter.com/search?q=Anthony+Roux) | N/A |
+| 32 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
+| 33 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 34 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
+| 35 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
+| 36 | [Boris Vallaud](http://twitter.com/search?q=Boris+Vallaud) | N/A |
+| 37 | [Rejetée](http://twitter.com/search?q=Rejet%c3%a9e) | N/A |
+| 38 | [LA RUE](http://twitter.com/search?q=LA+RUE) | N/A |
+| 39 | [Ankama](http://twitter.com/search?q=Ankama) | N/A |
+| 40 | [Gotaga](http://twitter.com/search?q=Gotaga) | N/A |
+| 41 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 42 | [France Info](http://twitter.com/search?q=France+Info) | N/A |
+| 43 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 44 | [Laure Lavalette](http://twitter.com/search?q=Laure+Lavalette) | N/A |
+| 45 | [Tolbiac](http://twitter.com/search?q=Tolbiac) | N/A |
+| 46 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 47 | [Coquerel](http://twitter.com/search?q=Coquerel) | N/A |
+| 48 | [Première Ministre](http://twitter.com/search?q=Premi%c3%a8re+Ministre) | N/A |
+| 49 | [Le Gouvernement](http://twitter.com/search?q=Le+Gouvernement) | N/A |
+| 50 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 
 
 

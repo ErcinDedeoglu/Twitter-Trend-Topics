@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-20 18:18:06 UTC`
+📆 Last Updated: `2023-03-20 19:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Indonesia
 | 17 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
 | 18 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
 | 19 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
-| 20 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 21 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 20 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 21 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
 | 22 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
-| 23 | [Mr. Sunshine](http://twitter.com/search?q=Mr.+Sunshine) | N/A |
-| 24 | [babah](http://twitter.com/search?q=babah) | N/A |
-| 25 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
-| 26 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 27 | [garnier salicylic bha](http://twitter.com/search?q=garnier+salicylic+bha) | N/A |
-| 28 | [ITS OUR TIME](http://twitter.com/search?q=ITS+OUR+TIME) | N/A |
-| 29 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
-| 30 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 31 | [solusi bersama](http://twitter.com/search?q=solusi+bersama) | N/A |
-| 32 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 33 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
-| 34 | [congrats fajri](http://twitter.com/search?q=congrats+fajri) | N/A |
-| 35 | [prabowo next president](http://twitter.com/search?q=prabowo+next+president) | N/A |
-| 36 | [prabowo ri 1](http://twitter.com/search?q=prabowo+ri+1) | N/A |
-| 37 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
-| 38 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 39 | [Nadya Hutagalung](http://twitter.com/search?q=Nadya+Hutagalung) | N/A |
-| 40 | [Almond](http://twitter.com/search?q=Almond) | N/A |
-| 41 | [ultramilk](http://twitter.com/search?q=ultramilk) | N/A |
-| 42 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
-| 43 | [robi darwis](http://twitter.com/search?q=robi+darwis) | N/A |
-| 44 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 45 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
-| 46 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
-| 47 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 48 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
-| 49 | [BOBBY CHERRY BLOSSOM RELEASE](http://twitter.com/search?q=BOBBY+CHERRY+BLOSSOM+RELEASE) | N/A |
-| 50 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
+| 23 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
+| 24 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 25 | [garnier salicylic bha](http://twitter.com/search?q=garnier+salicylic+bha) | N/A |
+| 26 | [ITS OUR TIME](http://twitter.com/search?q=ITS+OUR+TIME) | N/A |
+| 27 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 28 | [solusi bersama](http://twitter.com/search?q=solusi+bersama) | N/A |
+| 29 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 30 | [congrats fajri](http://twitter.com/search?q=congrats+fajri) | N/A |
+| 31 | [prabowo next president](http://twitter.com/search?q=prabowo+next+president) | N/A |
+| 32 | [prabowo ri 1](http://twitter.com/search?q=prabowo+ri+1) | N/A |
+| 33 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
+| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 35 | [Almond](http://twitter.com/search?q=Almond) | N/A |
+| 36 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
+| 37 | [Nadya Hutagalung](http://twitter.com/search?q=Nadya+Hutagalung) | N/A |
+| 38 | [Tuan Guru Bajang](http://twitter.com/search?q=Tuan+Guru+Bajang) | N/A |
+| 39 | [robi darwis](http://twitter.com/search?q=robi+darwis) | N/A |
+| 40 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 41 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 42 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
+| 43 | [Mbanking BCA](http://twitter.com/search?q=Mbanking+BCA) | N/A |
+| 44 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
+| 45 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
+| 46 | [BOBBY CHERRY BLOSSOM RELEASE](http://twitter.com/search?q=BOBBY+CHERRY+BLOSSOM+RELEASE) | N/A |
+| 47 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
+| 48 | [Zaki Mubarok](http://twitter.com/search?q=Zaki+Mubarok) | N/A |
+| 49 | [Mr. Sunshine](http://twitter.com/search?q=Mr.+Sunshine) | N/A |
+| 50 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
 
 
 
