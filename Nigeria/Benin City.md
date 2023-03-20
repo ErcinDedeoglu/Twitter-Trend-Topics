@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-20 10:17:40 UTC`
+📆 Last Updated: `2023-03-20 11:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,49 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 2 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 4 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 5 | [#newweek](http://twitter.com/search?q=%23newweek) | N/A |
-| 6 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 7 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
-| 8 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
-| 9 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 3 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
+| 4 | [#AnnounceEnuguResult](http://twitter.com/search?q=%23AnnounceEnuguResult) | N/A |
+| 5 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 6 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 7 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
+| 8 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
+| 9 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
 | 10 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 11 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 12 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
+| 11 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
+| 12 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
 | 13 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
-| 14 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 15 | [Gandollar](http://twitter.com/search?q=Gandollar) | N/A |
-| 16 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 17 | [Abba Kabir Yusuf](http://twitter.com/search?q=Abba+Kabir+Yusuf) | N/A |
-| 18 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 19 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
-| 20 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 21 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 22 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 23 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 14 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
+| 15 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 16 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
+| 17 | [Gandollar](http://twitter.com/search?q=Gandollar) | N/A |
+| 18 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
+| 19 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 20 | [Abba Kabir Yusuf](http://twitter.com/search?q=Abba+Kabir+Yusuf) | N/A |
+| 21 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 22 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 23 | [Nasarawa](http://twitter.com/search?q=Nasarawa) | N/A |
 | 24 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
-| 25 | [Tife](http://twitter.com/search?q=Tife) | N/A |
-| 26 | [Shining](http://twitter.com/search?q=Shining) | N/A |
-| 27 | [Kaura](http://twitter.com/search?q=Kaura) | N/A |
-| 28 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
-| 29 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 30 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
-| 31 | [Abians](http://twitter.com/search?q=Abians) | N/A |
-| 32 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
-| 33 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 34 | [Abia State](http://twitter.com/search?q=Abia+State) | N/A |
-| 35 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 36 | [Gawuna](http://twitter.com/search?q=Gawuna) | N/A |
-| 37 | [Bigot](http://twitter.com/search?q=Bigot) | N/A |
-| 38 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 39 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
-| 40 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 41 | [#enugu](http://twitter.com/search?q=%23enugu) | N/A |
-| 42 | [#Biafra](http://twitter.com/search?q=%23Biafra) | N/A |
-| 43 | [#freechude](http://twitter.com/search?q=%23freechude) | N/A |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 26 | [shola](http://twitter.com/search?q=shola) | N/A |
+| 27 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
+| 28 | [Lafia](http://twitter.com/search?q=Lafia) | N/A |
+| 29 | [Shining](http://twitter.com/search?q=Shining) | N/A |
+| 30 | [Kaura](http://twitter.com/search?q=Kaura) | N/A |
+| 31 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
+| 32 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 33 | [Fufore](http://twitter.com/search?q=Fufore) | N/A |
+| 34 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 35 | [Katsina](http://twitter.com/search?q=Katsina) | N/A |
+| 36 | [Tife](http://twitter.com/search?q=Tife) | N/A |
+| 37 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 38 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
+| 39 | [Abia State](http://twitter.com/search?q=Abia+State) | N/A |
+| 40 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 41 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
+| 42 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 43 | [#yoruba](http://twitter.com/search?q=%23yoruba) | N/A |
+| 44 | [#Biafra](http://twitter.com/search?q=%23Biafra) | N/A |
+| 45 | [#freechude](http://twitter.com/search?q=%23freechude) | N/A |
 
 
 

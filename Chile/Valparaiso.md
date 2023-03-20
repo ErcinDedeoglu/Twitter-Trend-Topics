@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-20 10:17:20 UTC`
+📆 Last Updated: `2023-03-20 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
-| 2 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
-| 3 | [#vamoslau](http://twitter.com/search?q=%23vamoslau) | N/A |
+| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 3 | [#LollaCL2023](http://twitter.com/search?q=%23LollaCL2023) | N/A |
 | 4 | [Violeta Parra](http://twitter.com/search?q=Violeta+Parra) | N/A |
 | 5 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
 | 6 | [poblete](http://twitter.com/search?q=poblete) | N/A |
 | 7 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
 | 8 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 9 | [Margot Duhalde](http://twitter.com/search?q=Margot+Duhalde) | N/A |
+| 9 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
 | 10 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 11 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
-| 12 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 13 | [aravena](http://twitter.com/search?q=aravena) | N/A |
-| 14 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 15 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 16 | [toselli](http://twitter.com/search?q=toselli) | N/A |
-| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 11 | [Margot Duhalde](http://twitter.com/search?q=Margot+Duhalde) | N/A |
+| 12 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 13 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 14 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 16 | [Toselli](http://twitter.com/search?q=Toselli) | Toselli is a surname of Italian origin. It is derived from the Latin name Tullius, which means "peaceful". In English, it can be translated to mean "peaceful one". |
+| 17 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
 | 18 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 19 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 20 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 20 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
 | 21 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
 | 22 | [copiapo](http://twitter.com/search?q=copiapo) | N/A |
-| 23 | [Fran Valenzuela](http://twitter.com/search?q=Fran+Valenzuela) | N/A |
-| 24 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 25 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 23 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 24 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 25 | [Baradit](http://twitter.com/search?q=Baradit) | N/A |
 | 26 | [andía](http://twitter.com/search?q=and%c3%ada) | N/A |
-| 27 | [Baradit](http://twitter.com/search?q=Baradit) | N/A |
+| 27 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
 | 28 | [Valentina Muñoz](http://twitter.com/search?q=Valentina+Mu%c3%b1oz) | N/A |
-| 29 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 29 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 30 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 31 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 33 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 33 | [Fran Valenzuela](http://twitter.com/search?q=Fran+Valenzuela) | N/A |
 | 34 | [Elena Caffarena](http://twitter.com/search?q=Elena+Caffarena) | N/A |
-| 35 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 36 | [Eloísa Díaz](http://twitter.com/search?q=Elo%c3%adsa+D%c3%adaz) | N/A |
+| 35 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 36 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
 | 37 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
 | 38 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
 | 39 | [Nery](http://twitter.com/search?q=Nery) | N/A |
 | 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 41 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 41 | [Eloísa Díaz](http://twitter.com/search?q=Elo%c3%adsa+D%c3%adaz) | N/A |
 | 42 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 43 | [Puma](http://twitter.com/search?q=Puma) | N/A |
 | 44 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 45 | [Cortes](http://twitter.com/search?q=Cortes) | N/A |
-| 46 | [cobresal](http://twitter.com/search?q=cobresal) | N/A |
+| 45 | [cobresal](http://twitter.com/search?q=cobresal) | N/A |
+| 46 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
 | 47 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
-| 48 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 48 | [Matty](http://twitter.com/search?q=Matty) | N/A |
 
 
 

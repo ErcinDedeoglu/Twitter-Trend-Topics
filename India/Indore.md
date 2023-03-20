@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-20 10:17:48 UTC`
+📆 Last Updated: `2023-03-20 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
 | 2 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
-| 3 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
-| 4 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
-| 5 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
+| 3 | [#iQOOZ7onAmazonSpecials](http://twitter.com/search?q=%23iQOOZ7onAmazonSpecials) | N/A |
+| 4 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
+| 5 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
 | 6 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
 | 7 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 8 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
-| 9 | [The Vial](http://twitter.com/search?q=The+Vial) | N/A |
-| 10 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
-| 11 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
-| 12 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
-| 13 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
-| 14 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
-| 15 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
-| 16 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 17 | [High Commission](http://twitter.com/search?q=High+Commission) | N/A |
-| 18 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
-| 19 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 20 | [Flag](http://twitter.com/search?q=Flag) | N/A |
-| 21 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 22 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 23 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 24 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
-| 25 | [Warm](http://twitter.com/search?q=Warm) | N/A |
-| 26 | [Aurangabad](http://twitter.com/search?q=Aurangabad) | N/A |
-| 27 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
-| 28 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
-| 29 | [Ab Anyay Ka Ant Ho](http://twitter.com/search?q=Ab+Anyay+Ka+Ant+Ho) | N/A |
-| 30 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 31 | [Saints Call For Justice](http://twitter.com/search?q=Saints+Call+For+Justice) | N/A |
-| 32 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 33 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
-| 34 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 35 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 36 | [जिला अस्पताल](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%a4%e0%a4%be%e0%a4%b2) | N/A |
-| 37 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
-| 38 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 39 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
-| 40 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 41 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
-| 42 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
-| 43 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 44 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
-| 45 | [#PakhalaDibasa](http://twitter.com/search?q=%23PakhalaDibasa) | N/A |
-| 46 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 47 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
-| 48 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
-| 49 | [#ପଖାଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%aa%e0%ac%96%e0%ac%be%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
-| 50 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Know More](http://twitter.com/search?q=Know+More) | N/A |
+| 9 | [CBI Act Now4 SSR](http://twitter.com/search?q=CBI+Act+Now4+SSR) | N/A |
+| 10 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 11 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 12 | [Belagavi](http://twitter.com/search?q=Belagavi) | N/A |
+| 13 | [India's Vaccine Story](http://twitter.com/search?q=India%27s+Vaccine+Story) | N/A |
+| 14 | [रामलीला मैदान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b2%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%88%e0%a4%a6%e0%a4%be%e0%a4%a8) | N/A |
+| 15 | [High Commission](http://twitter.com/search?q=High+Commission) | N/A |
+| 16 | [Embassy](http://twitter.com/search?q=Embassy) | N/A |
+| 17 | [Aurangzeb](http://twitter.com/search?q=Aurangzeb) | N/A |
+| 18 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
+| 19 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 20 | [Punjabis](http://twitter.com/search?q=Punjabis) | N/A |
+| 21 | [Warm](http://twitter.com/search?q=Warm) | N/A |
+| 22 | [Aurangabad](http://twitter.com/search?q=Aurangabad) | N/A |
+| 23 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 24 | [अहम भूमिका](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae+%e0%a4%ad%e0%a5%82%e0%a4%ae%e0%a4%bf%e0%a4%95%e0%a4%be) | N/A |
+| 25 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 26 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 27 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 28 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
+| 29 | [#RoadiesAuditionsAreBack](http://twitter.com/search?q=%23RoadiesAuditionsAreBack) | N/A |
+| 30 | [#1947August16MotionPoster](http://twitter.com/search?q=%231947August16MotionPoster) | N/A |
+| 31 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
+| 32 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
+| 33 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
+| 34 | [#Patna](http://twitter.com/search?q=%23Patna) | N/A |
+| 35 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 36 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
+| 37 | [#Saveosholegacy](http://twitter.com/search?q=%23Saveosholegacy) | N/A |
+| 38 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 39 | [#ପଖାଳଦିବସ](http://twitter.com/search?q=%23%e0%ac%aa%e0%ac%96%e0%ac%be%e0%ac%b3%e0%ac%a6%e0%ac%bf%e0%ac%ac%e0%ac%b8) | N/A |
+| 40 | [#TDPRowdiesInAssembly](http://twitter.com/search?q=%23TDPRowdiesInAssembly) | N/A |
+| 41 | [#PakhalaDibasa](http://twitter.com/search?q=%23PakhalaDibasa) | N/A |
+| 42 | [#WorldHappinessDay](http://twitter.com/search?q=%23WorldHappinessDay) | N/A |
+| 43 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
+| 44 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
+| 45 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 46 | [#DMKFailsTN](http://twitter.com/search?q=%23DMKFailsTN) | N/A |
+| 47 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
+| 48 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 49 | [#TDPDalitMLAattackedInAssembly](http://twitter.com/search?q=%23TDPDalitMLAattackedInAssembly) | N/A |
+| 50 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
 
 
 

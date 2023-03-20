@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-20 10:17:53 UTC`
+📆 Last Updated: `2023-03-20 11:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
-| 2 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 3 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 4 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 5 | [Woodson](http://twitter.com/search?q=Woodson) | N/A |
-| 6 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 7 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 8 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
-| 9 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 10 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 11 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 12 | [#Wordle639](http://twitter.com/search?q=%23Wordle639) | N/A |
-| 13 | [#FirstDayofSpring](http://twitter.com/search?q=%23FirstDayofSpring) | N/A |
-| 14 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 1 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 2 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
+| 3 | [Woodson](http://twitter.com/search?q=Woodson) | N/A |
+| 4 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 5 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 6 | [Happy Spring](http://twitter.com/search?q=Happy+Spring) | N/A |
+| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 8 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 10 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 11 | [#Wordle639](http://twitter.com/search?q=%23Wordle639) | N/A |
+| 12 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 13 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
+| 14 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
 | 15 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 16 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 17 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 18 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 19 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 20 | [Where is Shelly](http://twitter.com/search?q=Where+is+Shelly) | N/A |
-| 21 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 22 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 23 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 24 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 25 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 26 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 16 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 17 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 18 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 19 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 20 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 21 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 22 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 23 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 24 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 25 | [Femboys](http://twitter.com/search?q=Femboys) | N/A |
+| 26 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
 | 27 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 28 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 29 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 30 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 31 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
-| 32 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 33 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 34 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 35 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 36 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
-| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 38 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 39 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 40 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 41 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 42 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 43 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 44 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 45 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 46 | [Visited](http://twitter.com/search?q=Visited) | N/A |
-| 47 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 48 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 49 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 50 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 28 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 29 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 30 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 31 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 32 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 33 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 35 | [Miami Beach](http://twitter.com/search?q=Miami+Beach) | N/A |
+| 36 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 37 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 38 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 39 | [St. Joseph](http://twitter.com/search?q=St.+Joseph) | N/A |
+| 40 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 41 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 42 | [Remarkably](http://twitter.com/search?q=Remarkably) | N/A |
+| 43 | [Xscape](http://twitter.com/search?q=Xscape) | N/A |
+| 44 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 45 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
+| 46 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 47 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 48 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 49 | [Musical](http://twitter.com/search?q=Musical) | N/A |
 
 
 

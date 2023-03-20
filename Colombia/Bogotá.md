@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-20 10:17:20 UTC`
+📆 Last Updated: `2023-03-20 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for [Colombia](</Colombia>)
 | 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 27 | [Congo](http://twitter.com/search?q=Congo) | N/A |
 | 28 | [asprilla](http://twitter.com/search?q=asprilla) | N/A |
-| 29 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 29 | [Julieth García](http://twitter.com/search?q=Julieth+Garc%c3%ada) | N/A |
 | 30 | [Arauca](http://twitter.com/search?q=Arauca) | N/A |
 | 31 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 32 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 33 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 34 | [Julieth García](http://twitter.com/search?q=Julieth+Garc%c3%ada) | N/A |
-| 35 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 36 | [pascual guerrero](http://twitter.com/search?q=pascual+guerrero) | N/A |
-| 37 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 38 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 39 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 40 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 41 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 42 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 43 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 33 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
+| 34 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 35 | [Pascual Guerrero](http://twitter.com/search?q=Pascual+Guerrero) | N/A |
+| 36 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 37 | [hinestroza](http://twitter.com/search?q=hinestroza) | N/A |
+| 38 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 41 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 42 | [jader](http://twitter.com/search?q=jader) | N/A |
+| 43 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 44 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 45 | [giraldo](http://twitter.com/search?q=giraldo) | N/A |
 | 46 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
 | 47 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 48 | [Tame](http://twitter.com/search?q=Tame) | N/A |
-| 49 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 50 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
+| 49 | [Teodora](http://twitter.com/search?q=Teodora) | N/A |
+| 50 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 
 
 

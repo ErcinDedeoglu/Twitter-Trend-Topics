@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-20 10:17:15 UTC`
+📆 Last Updated: `2023-03-20 11:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
 | 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 3 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
+| 4 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
+| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
 | 6 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 7 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 8 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 9 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
-| 10 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
-| 11 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
-| 12 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 7 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 8 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
+| 9 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
+| 10 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
+| 11 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
+| 12 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
 | 13 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 14 | [Happy Birthday Olivia](http://twitter.com/search?q=Happy+Birthday+Olivia) | N/A |
+| 14 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
 | 15 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 16 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 17 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 18 | [Suella](http://twitter.com/search?q=Suella) | N/A |
-| 19 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 20 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 21 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 22 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 23 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 24 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 25 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 26 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 27 | [Yorubas](http://twitter.com/search?q=Yorubas) | N/A |
-| 28 | [#ASongOrMovieForActing](http://twitter.com/search?q=%23ASongOrMovieForActing) | N/A |
-| 29 | [#FSGOUTNOW](http://twitter.com/search?q=%23FSGOUTNOW) | N/A |
-| 30 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 31 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
-| 32 | [#TheBigHelpOut](http://twitter.com/search?q=%23TheBigHelpOut) | N/A |
-| 33 | [#BigWalkAndWheel](http://twitter.com/search?q=%23BigWalkAndWheel) | N/A |
-| 34 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 35 | [#ToriesOut256](http://twitter.com/search?q=%23ToriesOut256) | N/A |
-| 36 | [#partygate](http://twitter.com/search?q=%23partygate) | N/A |
-| 37 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 38 | [#relax](http://twitter.com/search?q=%23relax) | N/A |
-| 39 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
-| 40 | [#johnsontheliar](http://twitter.com/search?q=%23johnsontheliar) | N/A |
-| 41 | [#EnglishTourismWeek23](http://twitter.com/search?q=%23EnglishTourismWeek23) | N/A |
-| 42 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 43 | [#boristheliar](http://twitter.com/search?q=%23boristheliar) | N/A |
-| 44 | [#BankingCrisis](http://twitter.com/search?q=%23BankingCrisis) | N/A |
+| 16 | [happy birthday olivia](http://twitter.com/search?q=happy+birthday+olivia) | N/A |
+| 17 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
+| 18 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
+| 19 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 20 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 22 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 23 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 24 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 25 | [Suella](http://twitter.com/search?q=Suella) | N/A |
+| 26 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 27 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 28 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 29 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 30 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 31 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 32 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 33 | [#ASongOrMovieForActing](http://twitter.com/search?q=%23ASongOrMovieForActing) | N/A |
+| 34 | [#WorldOralHealthDay](http://twitter.com/search?q=%23WorldOralHealthDay) | N/A |
+| 35 | [#internationalhappinessday](http://twitter.com/search?q=%23internationalhappinessday) | N/A |
+| 36 | [#SocialWorkWeek2023](http://twitter.com/search?q=%23SocialWorkWeek2023) | N/A |
+| 37 | [#WorldFrogDay](http://twitter.com/search?q=%23WorldFrogDay) | N/A |
+| 38 | [#WorldRewildingDay](http://twitter.com/search?q=%23WorldRewildingDay) | N/A |
+| 39 | [#DebtAwarenessWeek](http://twitter.com/search?q=%23DebtAwarenessWeek) | N/A |
+| 40 | [#TheBigHelpOut](http://twitter.com/search?q=%23TheBigHelpOut) | N/A |
+| 41 | [#partygate](http://twitter.com/search?q=%23partygate) | N/A |
+| 42 | [#BigWalkAndWheel](http://twitter.com/search?q=%23BigWalkAndWheel) | N/A |
+| 43 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 44 | [#ToriesOut256](http://twitter.com/search?q=%23ToriesOut256) | N/A |
+| 45 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 46 | [#johnsontheliar](http://twitter.com/search?q=%23johnsontheliar) | N/A |
+| 47 | [#boristheliar](http://twitter.com/search?q=%23boristheliar) | N/A |
+| 48 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
+| 49 | [#johnsonliedpeopledied](http://twitter.com/search?q=%23johnsonliedpeopledied) | N/A |
 
 
 
