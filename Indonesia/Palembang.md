@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-20 02:38:04 UTC`
+📆 Last Updated: `2023-03-20 03:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,43 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
 | 2 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 3 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
 | 4 | [GET WELL SOON KUN GE](http://twitter.com/search?q=GET+WELL+SOON+KUN+GE) | N/A |
-| 5 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
-| 6 | [#TREASURE_HELLOinJKT](http://twitter.com/search?q=%23TREASURE_HELLOinJKT) | N/A |
-| 7 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 8 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 9 | [#unaainukehidupan](http://twitter.com/search?q=%23unaainukehidupan) | N/A |
-| 10 | [Islam Solusi Krisis](http://twitter.com/search?q=Islam+Solusi+Krisis) | N/A |
-| 11 | [suka duka uni unaa](http://twitter.com/search?q=suka+duka+uni+unaa) | N/A |
-| 12 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
-| 13 | [Babah](http://twitter.com/search?q=Babah) | N/A |
-| 14 | [FajRi](http://twitter.com/search?q=FajRi) | FajRi is an Arabic word that means dawn or sunrise. In English, it can be used to refer to the beginning of a new day or a new era. |
-| 15 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
-| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 17 | [unaa evos](http://twitter.com/search?q=unaa+evos) | N/A |
-| 18 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
-| 19 | [Daddies](http://twitter.com/search?q=Daddies) | "Daddies" is a slang term used to refer to an older man, usually one who is attractive or has a lot of money. It can also be used as a term of endearment for a father figure. |
-| 20 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 21 | [Tim Kanwil Kemenkumham Sulsel](http://twitter.com/search?q=Tim+Kanwil+Kemenkumham+Sulsel) | N/A |
-| 22 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
-| 23 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 24 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 25 | [yukgabung kerenin indonesia](http://twitter.com/search?q=yukgabung+kerenin+indonesia) | N/A |
-| 26 | [ngobrolin urusangue dibandung](http://twitter.com/search?q=ngobrolin+urusangue+dibandung) | N/A |
-| 27 | [serunya milenialgenz prabowo](http://twitter.com/search?q=serunya+milenialgenz+prabowo) | N/A |
-| 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 29 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 30 | [Cimory](http://twitter.com/search?q=Cimory) | N/A |
-| 31 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
-| 32 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
-| 33 | [Sangcok](http://twitter.com/search?q=Sangcok) | N/A |
-| 34 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 35 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 36 | [Sapardi Djoko Damono](http://twitter.com/search?q=Sapardi+Djoko+Damono) | N/A |
-| 37 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 38 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 39 | [BPJS](http://twitter.com/search?q=BPJS) | N/A |
-| 40 | [Prabowo Next President](http://twitter.com/search?q=Prabowo+Next+President) | N/A |
-| 41 | [Prabowo RI 1](http://twitter.com/search?q=Prabowo+RI+1) | N/A |
-| 42 | [Ultramilk](http://twitter.com/search?q=Ultramilk) | N/A |
-| 43 | [Relis](http://twitter.com/search?q=Relis) | N/A |
-| 44 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 46 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 47 | [Lavani](http://twitter.com/search?q=Lavani) | N/A |
-| 48 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 49 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
-| 50 | [Pasir Berbisik](http://twitter.com/search?q=Pasir+Berbisik) | N/A |
+| 5 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 6 | [Raji'un](http://twitter.com/search?q=Raji%27un) | N/A |
+| 7 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 8 | [Thomas Cup](http://twitter.com/search?q=Thomas+Cup) | N/A |
+| 9 | [Rest in Love](http://twitter.com/search?q=Rest+in+Love) | N/A |
+| 10 | [#27thFarhanUN1TY](http://twitter.com/search?q=%2327thFarhanUN1TY) | N/A |
+| 11 | [#22TahunTerindah](http://twitter.com/search?q=%2322TahunTerindah) | N/A |
+| 12 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
+| 13 | [#IndahFlorescence](http://twitter.com/search?q=%23IndahFlorescence) | N/A |
+| 14 | [CURLY BOY BANGHAN DAY](http://twitter.com/search?q=CURLY+BOY+BANGHAN+DAY) | N/A |
+| 15 | [Rindu Kepemimpinan Islam](http://twitter.com/search?q=Rindu+Kepemimpinan+Islam) | N/A |
+| 16 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 17 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 18 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
+| 19 | [Suriah](http://twitter.com/search?q=Suriah) | N/A |
+| 20 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 21 | [Asahi](http://twitter.com/search?q=Asahi) | N/A |
+| 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 23 | [#NamJooHyuk](http://twitter.com/search?q=%23NamJooHyuk) | N/A |
+| 24 | [#TetapBersyariahKaffah](http://twitter.com/search?q=%23TetapBersyariahKaffah) | N/A |
+| 25 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 26 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 27 | [#Perth22ndBirthday](http://twitter.com/search?q=%23Perth22ndBirthday) | N/A |
+| 28 | [#ViscaBarca](http://twitter.com/search?q=%23ViscaBarca) | N/A |
+| 29 | [#PerthTanapon](http://twitter.com/search?q=%23PerthTanapon) | N/A |
+| 30 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 31 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 32 | [#HAPEACH_YUJIN_DAY](http://twitter.com/search?q=%23HAPEACH_YUJIN_DAY) | N/A |
+| 33 | [#안냐쎄요_한유진생일임니다](http://twitter.com/search?q=%23%ec%95%88%eb%83%90%ec%8e%84%ec%9a%94_%ed%95%9c%ec%9c%a0%ec%a7%84%ec%83%9d%ec%9d%bc%ec%9e%84%eb%8b%88%eb%8b%a4) | N/A |
+| 34 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 35 | [#KawaiRuka21Birthday](http://twitter.com/search?q=%23KawaiRuka21Birthday) | N/A |
+| 36 | [#お誕生日おめ河井瑠花](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e6%b2%b3%e4%ba%95%e7%91%a0%e8%8a%b1) | N/A |
+| 37 | [#우리_힙합_맏내_루카_데이](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ed%9e%99%ed%95%a9_%eb%a7%8f%eb%82%b4_%eb%a3%a8%ec%b9%b4_%eb%8d%b0%ec%9d%b4) | N/A |
+| 38 | [#HARUTO](http://twitter.com/search?q=%23HARUTO) | N/A |
+| 39 | [#HANYUJIN](http://twitter.com/search?q=%23HANYUJIN) | N/A |
 
 
 

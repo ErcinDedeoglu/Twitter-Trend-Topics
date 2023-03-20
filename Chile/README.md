@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-20 02:38:39 UTC`
+📆 Last Updated: `2023-03-20 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Chile
 | 2 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
 | 3 | [#reportajeschv](http://twitter.com/search?q=%23reportajeschv) | N/A |
 | 4 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 5 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 6 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 7 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 8 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 9 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
-| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 11 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
-| 12 | [Fran Valenzuela](http://twitter.com/search?q=Fran+Valenzuela) | N/A |
-| 13 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 14 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 15 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 16 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 17 | [Beto Cuevas](http://twitter.com/search?q=Beto+Cuevas) | N/A |
-| 18 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 19 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 20 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 21 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 22 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 23 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 24 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 5 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
+| 6 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 7 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 8 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 9 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 10 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 11 | [#adoptadostvn](http://twitter.com/search?q=%23adoptadostvn) | N/A |
+| 12 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 13 | [Fran Valenzuela](http://twitter.com/search?q=Fran+Valenzuela) | N/A |
+| 14 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 15 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 16 | [Beto Cuevas](http://twitter.com/search?q=Beto+Cuevas) | N/A |
+| 17 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 18 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 19 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 20 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 21 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 22 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 23 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 24 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
 | 25 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
 | 26 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
 | 27 | [Diana](http://twitter.com/search?q=Diana) | N/A |
 | 28 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 29 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 30 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
-| 31 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 32 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
-| 33 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 34 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 35 | [Andia](http://twitter.com/search?q=Andia) | N/A |
-| 36 | [Copiapo](http://twitter.com/search?q=Copiapo) | N/A |
-| 37 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 38 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 39 | [Nery](http://twitter.com/search?q=Nery) | N/A |
-| 40 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 29 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 30 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 31 | [Berizzo](http://twitter.com/search?q=Berizzo) | Berizzo is a Spanish surname. It is derived from the Basque word "berri" which means "new". In English, it can be translated to mean "new one". |
+| 32 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 33 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 34 | [Andia](http://twitter.com/search?q=Andia) | N/A |
+| 35 | [Copiapo](http://twitter.com/search?q=Copiapo) | N/A |
+| 36 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 37 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 38 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 39 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 40 | [Nery](http://twitter.com/search?q=Nery) | N/A |
 | 41 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 42 | [Violeta Parra](http://twitter.com/search?q=Violeta+Parra) | N/A |
 | 43 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 44 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 44 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
 | 45 | [Toselli](http://twitter.com/search?q=Toselli) | Toselli is a surname of Italian origin. It is derived from the Latin name Tullius, which means "peaceful". In English, it can be translated to mean "peaceful one". |
-| 46 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 48 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 49 | [Axel](http://twitter.com/search?q=Axel) | N/A |
-| 50 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 48 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 49 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 50 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
 
 
 
