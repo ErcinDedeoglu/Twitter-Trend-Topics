@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-20 05:16:57 UTC`
+📆 Last Updated: `2023-03-20 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 2 | [#b04fcb](http://twitter.com/search?q=%23b04fcb) | N/A |
+| 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 3 | [#artify](http://twitter.com/search?q=%23artify) | N/A |
-| 4 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 6 | [#FCUSGE](http://twitter.com/search?q=%23FCUSGE) | N/A |
+| 4 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
+| 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 6 | [#Montagslaecheln](http://twitter.com/search?q=%23Montagslaecheln) | N/A |
 | 7 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 9 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 11 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
-| 12 | [stieler](http://twitter.com/search?q=stieler) | N/A |
-| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 15 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 16 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 19 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 20 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 8 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 11 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 12 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 14 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
+| 15 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 16 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 17 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 19 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 21 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 22 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 23 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 24 | [elfmeter](http://twitter.com/search?q=elfmeter) | N/A |
-| 25 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 26 | [sonntagmorgen](http://twitter.com/search?q=sonntagmorgen) | N/A |
-| 27 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 28 | [SAFETY CAR](http://twitter.com/search?q=SAFETY+CAR) | N/A |
-| 29 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 30 | [länderspielpause](http://twitter.com/search?q=l%c3%a4nderspielpause) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 33 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 35 | [sixtus](http://twitter.com/search?q=sixtus) | N/A |
-| 36 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 37 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
-| 38 | [leitl](http://twitter.com/search?q=leitl) | N/A |
-| 39 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 40 | [kamada](http://twitter.com/search?q=kamada) | N/A |
-| 41 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 42 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 43 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 44 | [deutscher meister](http://twitter.com/search?q=deutscher+meister) | N/A |
-| 45 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 46 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 47 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 48 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
-| 49 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 50 | [sandhausen](http://twitter.com/search?q=sandhausen) | N/A |
+| 22 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 23 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 24 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 25 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 27 | [Safety Car](http://twitter.com/search?q=Safety+Car) | N/A |
+| 28 | [länderspielpause](http://twitter.com/search?q=l%c3%a4nderspielpause) | N/A |
+| 29 | [Renate](http://twitter.com/search?q=Renate) | N/A |
+| 30 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 31 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 32 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
+| 33 | [sixtus](http://twitter.com/search?q=sixtus) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 36 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 37 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 38 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
+| 39 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
+| 40 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 41 | [kamada](http://twitter.com/search?q=kamada) | N/A |
+| 42 | [sandhausen](http://twitter.com/search?q=sandhausen) | N/A |
+| 43 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 44 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 45 | [deutscher meister](http://twitter.com/search?q=deutscher+meister) | N/A |
+| 46 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 47 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 48 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 49 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 50 | ['zaungeschichten'](http://twitter.com/search?q=%27zaungeschichten%27) | N/A |
 
 
 

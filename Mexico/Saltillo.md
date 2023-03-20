@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-20 05:16:45 UTC`
+📆 Last Updated: `2023-03-20 06:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#AllStarEliminación](http://twitter.com/search?q=%23AllStarEliminaci%c3%b3n) | N/A |
 | 2 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 3 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 4 | [Valery](http://twitter.com/search?q=Valery) | N/A |
-| 5 | [#MiFamosoYYo](http://twitter.com/search?q=%23MiFamosoYYo) | N/A |
-| 6 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 3 | [Valery](http://twitter.com/search?q=Valery) | N/A |
+| 4 | [#MiFamosoYYo](http://twitter.com/search?q=%23MiFamosoYYo) | N/A |
+| 5 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 6 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
 | 7 | [TE AMO LOUIS](http://twitter.com/search?q=TE+AMO+LOUIS) | N/A |
-| 8 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 9 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 10 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
+| 8 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
+| 9 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 10 | [Olga](http://twitter.com/search?q=Olga) | N/A |
 | 11 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
-| 12 | [Olga](http://twitter.com/search?q=Olga) | N/A |
-| 13 | [LOUIS MEXICANO](http://twitter.com/search?q=LOUIS+MEXICANO) | N/A |
-| 14 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 15 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 16 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 17 | [MI PAÍS](http://twitter.com/search?q=MI+PA%c3%8dS) | N/A |
-| 18 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
-| 19 | [La Corregidora](http://twitter.com/search?q=La+Corregidora) | N/A |
-| 20 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 21 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 12 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 13 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 14 | [#NoalOdio](http://twitter.com/search?q=%23NoalOdio) | N/A |
+| 15 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 16 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 17 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 18 | [MI PAÍS](http://twitter.com/search?q=MI+PA%c3%8dS) | N/A |
+| 19 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
+| 20 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 21 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 22 | [Quemar](http://twitter.com/search?q=Quemar) | N/A |
 | 23 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 24 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 25 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 24 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 25 | [La Corregidora](http://twitter.com/search?q=La+Corregidora) | N/A |
 | 26 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 27 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 28 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 27 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 28 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
 | 29 | [El México](http://twitter.com/search?q=El+M%c3%a9xico) | N/A |
-| 30 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 31 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 32 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 33 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
-| 34 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 35 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 36 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 37 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 38 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
-| 39 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 40 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 41 | [TE AMOOOO](http://twitter.com/search?q=TE+AMOOOO) | N/A |
-| 42 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 43 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 44 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 47 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 48 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 30 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 31 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 32 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 33 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 34 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 35 | [Margarinflas](http://twitter.com/search?q=Margarinflas) | N/A |
+| 36 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
+| 37 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 38 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 39 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 40 | [tyler](http://twitter.com/search?q=tyler) | N/A |
+| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 42 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 43 | [Millones](http://twitter.com/search?q=Millones) | N/A |
+| 44 | [#EstamosContigoAlan](http://twitter.com/search?q=%23EstamosContigoAlan) | N/A |
+| 45 | [#F1WorksWithNarcos](http://twitter.com/search?q=%23F1WorksWithNarcos) | N/A |
+| 46 | [#NoEstasSola](http://twitter.com/search?q=%23NoEstasSola) | N/A |
+| 47 | [#SíALaPaz](http://twitter.com/search?q=%23S%c3%adALaPaz) | N/A |
+| 48 | [#Formula1WorksWhithNarcos](http://twitter.com/search?q=%23Formula1WorksWhithNarcos) | N/A |
+| 49 | [#LuchaLibreWorldCup](http://twitter.com/search?q=%23LuchaLibreWorldCup) | N/A |
 
 
 

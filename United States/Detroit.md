@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-20 05:17:31 UTC`
+📆 Last Updated: `2023-03-20 06:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 1 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
 | 2 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 3 | [Welcome to Detroit](http://twitter.com/search?q=Welcome+to+Detroit) | N/A |
-| 4 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 5 | [GO GREEN](http://twitter.com/search?q=GO+GREEN) | N/A |
-| 6 | [#SpartanStrong](http://twitter.com/search?q=%23SpartanStrong) | N/A |
-| 7 | [Go White](http://twitter.com/search?q=Go+White) | N/A |
-| 8 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 9 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 10 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 11 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 12 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 13 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 14 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 15 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
-| 16 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 17 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
-| 18 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 19 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 20 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 21 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 22 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 23 | [Hotty Toddy](http://twitter.com/search?q=Hotty+Toddy) | N/A |
-| 24 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 25 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 26 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 27 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 28 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 29 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 30 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 31 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
-| 32 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 33 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
-| 34 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
-| 35 | [Damion Baugh](http://twitter.com/search?q=Damion+Baugh) | N/A |
+| 3 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 4 | [#GoGreen](http://twitter.com/search?q=%23GoGreen) | N/A |
+| 5 | [Go White](http://twitter.com/search?q=Go+White) | N/A |
+| 6 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 7 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 8 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 9 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 10 | [Stanford](http://twitter.com/search?q=Stanford) | N/A |
+| 11 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 12 | [Coach Yo](http://twitter.com/search?q=Coach+Yo) | N/A |
+| 13 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 14 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 15 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 16 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 17 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 18 | [Hotty Toddy](http://twitter.com/search?q=Hotty+Toddy) | N/A |
+| 19 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 20 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 22 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 23 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 24 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 25 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 26 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 27 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 28 | [Tony Bradley](http://twitter.com/search?q=Tony+Bradley) | N/A |
+| 29 | [Hillbilly Kobe](http://twitter.com/search?q=Hillbilly+Kobe) | N/A |
+| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 31 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 32 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 33 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 34 | [Damion Baugh](http://twitter.com/search?q=Damion+Baugh) | N/A |
+| 35 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
 | 36 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 37 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 38 | [Brink](http://twitter.com/search?q=Brink) | N/A |
-| 39 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 37 | [Cameron Brink](http://twitter.com/search?q=Cameron+Brink) | N/A |
+| 38 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
+| 39 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
 | 40 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
-| 41 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 42 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 43 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 44 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 45 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 46 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 47 | [Happy Birthday Bruce](http://twitter.com/search?q=Happy+Birthday+Bruce) | N/A |
-| 48 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 49 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 50 | [Johnell Davis](http://twitter.com/search?q=Johnell+Davis) | N/A |
+| 41 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 42 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 43 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 44 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 45 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 46 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 47 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 48 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
 
 
 
