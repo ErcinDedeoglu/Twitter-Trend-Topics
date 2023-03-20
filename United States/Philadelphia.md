@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-19 23:16:42 UTC`
+📆 Last Updated: `2023-03-20 00:29:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [George Karl](http://twitter.com/search?q=George+Karl) | N/A |
-| 2 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 3 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 4 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 5 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 6 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 7 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 8 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 9 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 10 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 11 | [#KVQ4](http://twitter.com/search?q=%23KVQ4) | N/A |
-| 12 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 13 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 14 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 16 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 18 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 20 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 22 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
-| 23 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
-| 24 | [Logano](http://twitter.com/search?q=Logano) | N/A |
-| 25 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 26 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 27 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 28 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 29 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 31 | [Taylor Moore](http://twitter.com/search?q=Taylor+Moore) | N/A |
-| 32 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 33 | [#Ambetter400](http://twitter.com/search?q=%23Ambetter400) | N/A |
-| 34 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 35 | [Calipari](http://twitter.com/search?q=Calipari) | Calipari is an Italian surname derived from the Latin word caliparus, meaning "brave". It is most commonly associated with the Calipari family of Italy, who were prominent in the 15th century. The name is also used as a nickname for someone who is brave or courageous. |
-| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 37 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 40 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 41 | [Schenk](http://twitter.com/search?q=Schenk) | N/A |
-| 42 | [Twork](http://twitter.com/search?q=Twork) | N/A |
-| 43 | [The FIA](http://twitter.com/search?q=The+FIA) | N/A |
-| 44 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 47 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 48 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 49 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
-| 50 | [Eichel](http://twitter.com/search?q=Eichel) | N/A |
+| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 4 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 5 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 6 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 7 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 8 | [Wainwright](http://twitter.com/search?q=Wainwright) | N/A |
+| 9 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 11 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 12 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 13 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 14 | [#GoGreen](http://twitter.com/search?q=%23GoGreen) | N/A |
+| 15 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 17 | [#KVQ4](http://twitter.com/search?q=%23KVQ4) | N/A |
+| 18 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 20 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 21 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 22 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 23 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 24 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 25 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 26 | [Kolek](http://twitter.com/search?q=Kolek) | N/A |
+| 27 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 28 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 29 | [Adam Thielen](http://twitter.com/search?q=Adam+Thielen) | N/A |
+| 30 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 31 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 32 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 33 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 34 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 35 | [Paul Goldschmidt](http://twitter.com/search?q=Paul+Goldschmidt) | N/A |
+| 36 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 37 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 38 | [GO WHITE](http://twitter.com/search?q=GO+WHITE) | N/A |
+| 39 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 40 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 42 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 44 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 45 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 46 | [Proud Boys](http://twitter.com/search?q=Proud+Boys) | N/A |
+| 47 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 48 | [K State](http://twitter.com/search?q=K+State) | N/A |
+| 49 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 50 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
 
 
 
