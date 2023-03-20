@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-20 16:18:09 UTC`
+📆 Last Updated: `2023-03-20 17:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 3 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 4 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 2 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 3 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 4 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 5 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 6 | [Finma](http://twitter.com/search?q=Finma) | N/A |
+| 6 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
 | 7 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 8 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
 | 9 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 10 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
 | 11 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 12 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 13 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 14 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 15 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 13 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 14 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 15 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
 | 16 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 17 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 18 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 19 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 20 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
-| 21 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
-| 22 | [Milliarde](http://twitter.com/search?q=Milliarde) | N/A |
-| 23 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 24 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 25 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 26 | [garantie](http://twitter.com/search?q=garantie) | N/A |
-| 27 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 28 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 29 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 30 | [Monster](http://twitter.com/search?q=Monster) | N/A |
-| 31 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
-| 32 | [weko](http://twitter.com/search?q=weko) | N/A |
-| 33 | [missmanagement](http://twitter.com/search?q=missmanagement) | N/A |
-| 34 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
-| 35 | [medienkonferenz](http://twitter.com/search?q=medienkonferenz) | N/A |
-| 36 | [Finanzplatz](http://twitter.com/search?q=Finanzplatz) | N/A |
-| 37 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
-| 38 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 39 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
-| 40 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 41 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 43 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 44 | [Luscht](http://twitter.com/search?q=Luscht) | N/A |
-| 45 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 46 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
-| 47 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 48 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 17 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 18 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
+| 19 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 20 | [Milliarde](http://twitter.com/search?q=Milliarde) | N/A |
+| 21 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
+| 22 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
+| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 24 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 25 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
+| 26 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 27 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 28 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 29 | [Monster](http://twitter.com/search?q=Monster) | N/A |
+| 30 | [weko](http://twitter.com/search?q=weko) | N/A |
+| 31 | [missmanagement](http://twitter.com/search?q=missmanagement) | N/A |
+| 32 | [maurer](http://twitter.com/search?q=maurer) | N/A |
+| 33 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
+| 34 | [medienkonferenz](http://twitter.com/search?q=medienkonferenz) | N/A |
+| 35 | [Finanzplatz](http://twitter.com/search?q=Finanzplatz) | N/A |
+| 36 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 37 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
+| 38 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
+| 39 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 40 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 41 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 42 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 43 | [Luscht](http://twitter.com/search?q=Luscht) | N/A |
+| 44 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 45 | [Rettung](http://twitter.com/search?q=Rettung) | N/A |
+| 46 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 47 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 48 | [Notverordnung](http://twitter.com/search?q=Notverordnung) | N/A |
 
 
 

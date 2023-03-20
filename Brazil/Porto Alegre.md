@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-20 16:17:59 UTC`
+📆 Last Updated: `2023-03-20 17:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,49 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
 | 2 | [Fred Nicacio](http://twitter.com/search?q=Fred+Nicacio) | Fred Nicacio is a Spanish name, derived from the Latin name Fredericus. It is a combination of the words "fred" (peace) and "nicacio" (victory). In English, it can be translated to mean "victory of peace". |
-| 3 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 3 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
 | 4 | [JOELMA DANÇANDO E BEIJANDO](http://twitter.com/search?q=JOELMA+DAN%c3%87ANDO+E+BEIJANDO) | N/A |
 | 5 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 6 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
-| 7 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 8 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
-| 9 | [BDAY DO BIEL](http://twitter.com/search?q=BDAY+DO+BIEL) | N/A |
-| 10 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 11 | [#FlowerconceptPoster](http://twitter.com/search?q=%23FlowerconceptPoster) | N/A |
-| 12 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
-| 13 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 14 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 15 | [Hilux](http://twitter.com/search?q=Hilux) | N/A |
-| 16 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
-| 17 | [Reffis Plus](http://twitter.com/search?q=Reffis+Plus) | N/A |
-| 18 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 19 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 20 | [NMIXX](http://twitter.com/search?q=NMIXX) | N/A |
-| 21 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 22 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 23 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
-| 24 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 25 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 26 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 27 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
-| 28 | [Outono](http://twitter.com/search?q=Outono) | N/A |
-| 29 | [Iraque](http://twitter.com/search?q=Iraque) | N/A |
-| 30 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 31 | [#segundou](http://twitter.com/search?q=%23segundou) | N/A |
-| 32 | [normani](http://twitter.com/search?q=normani) | N/A |
-| 33 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 34 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 35 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
-| 36 | [Data FIFA](http://twitter.com/search?q=Data+FIFA) | N/A |
-| 37 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 38 | [Sopa](http://twitter.com/search?q=Sopa) | N/A |
-| 39 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 40 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
-| 41 | [Dia 20](http://twitter.com/search?q=Dia+20) | N/A |
-| 42 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 43 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 44 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 45 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 46 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 6 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
+| 7 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
+| 8 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 9 | [Meninos da Vila](http://twitter.com/search?q=Meninos+da+Vila) | N/A |
+| 10 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 11 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
+| 12 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 13 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
+| 14 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
+| 15 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 16 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 17 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 18 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
+| 19 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 20 | [BDAY DO BIEL](http://twitter.com/search?q=BDAY+DO+BIEL) | N/A |
+| 21 | [REFFIS Plus](http://twitter.com/search?q=REFFIS+Plus) | N/A |
+| 22 | [Nmixx](http://twitter.com/search?q=Nmixx) | N/A |
+| 23 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 24 | [Hilux](http://twitter.com/search?q=Hilux) | N/A |
+| 25 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 26 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
+| 27 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 28 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 29 | [Jordan Peele](http://twitter.com/search?q=Jordan+Peele) | N/A |
+| 30 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 31 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 32 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 33 | [normani](http://twitter.com/search?q=normani) | N/A |
+| 34 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
+| 35 | [Iraque](http://twitter.com/search?q=Iraque) | N/A |
+| 36 | [binnie](http://twitter.com/search?q=binnie) | N/A |
+| 37 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 38 | [Outono](http://twitter.com/search?q=Outono) | N/A |
+| 39 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 40 | [Diguinho](http://twitter.com/search?q=Diguinho) | N/A |
+| 41 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 42 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 43 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 44 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 45 | [Eduardo Sasha](http://twitter.com/search?q=Eduardo+Sasha) | N/A |
 
 
 

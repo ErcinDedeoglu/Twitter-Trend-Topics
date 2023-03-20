@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-20 16:18:31 UTC`
+📆 Last Updated: `2023-03-20 17:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
+| 1 | [#xauusd](http://twitter.com/search?q=%23xauusd) | N/A |
 | 2 | [बाई लोधी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 3 | [SAVE HP3 FROM FARHAD](http://twitter.com/search?q=SAVE+HP3+FROM+FARHAD) | N/A |
-| 4 | [#realmeC55LaunchingTomorrow](http://twitter.com/search?q=%23realmeC55LaunchingTomorrow) | N/A |
-| 5 | [#RocketBoys2OnSonyLIV](http://twitter.com/search?q=%23RocketBoys2OnSonyLIV) | N/A |
+| 3 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
+| 4 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
+| 5 | [SAVE HP3 FROM FARHAD](http://twitter.com/search?q=SAVE+HP3+FROM+FARHAD) | N/A |
 | 6 | [#QuitCommonwealth](http://twitter.com/search?q=%23QuitCommonwealth) | N/A |
 | 7 | [#23_मार्च_बिहार_बंद](http://twitter.com/search?q=%2323_%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a_%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6) | N/A |
-| 8 | [Joyful Sushant](http://twitter.com/search?q=Joyful+Sushant) | N/A |
-| 9 | [3 YEARS OF CONTROL](http://twitter.com/search?q=3+YEARS+OF+CONTROL) | N/A |
-| 10 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 11 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 13 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 14 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
-| 15 | [Mehul Choksi](http://twitter.com/search?q=Mehul+Choksi) | N/A |
-| 16 | [Patna](http://twitter.com/search?q=Patna) | N/A |
-| 17 | [WAY MORE TO GO AISHWARYA](http://twitter.com/search?q=WAY+MORE+TO+GO+AISHWARYA) | N/A |
-| 18 | [Japanese PM](http://twitter.com/search?q=Japanese+PM) | N/A |
+| 8 | [#MIvDC](http://twitter.com/search?q=%23MIvDC) | N/A |
+| 9 | [Jackie L](http://twitter.com/search?q=Jackie+L) | N/A |
+| 10 | [Joyful Sushant](http://twitter.com/search?q=Joyful+Sushant) | N/A |
+| 11 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 12 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 13 | [Patna](http://twitter.com/search?q=Patna) | N/A |
+| 14 | [Deepti S](http://twitter.com/search?q=Deepti+S) | N/A |
+| 15 | [पटना स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 16 | [3 YEARS OF CONTROL](http://twitter.com/search?q=3+YEARS+OF+CONTROL) | N/A |
+| 17 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 18 | [Mehul Choksi](http://twitter.com/search?q=Mehul+Choksi) | N/A |
 | 19 | [Shehzad](http://twitter.com/search?q=Shehzad) | N/A |
-| 20 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
-| 21 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 22 | [STOP BUTCHERING ABHIRA](http://twitter.com/search?q=STOP+BUTCHERING+ABHIRA) | N/A |
-| 23 | [Khalistanis](http://twitter.com/search?q=Khalistanis) | N/A |
+| 20 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 22 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 23 | [WAY MORE TO GO AISHWARYA](http://twitter.com/search?q=WAY+MORE+TO+GO+AISHWARYA) | N/A |
 | 24 | [Rajdeep](http://twitter.com/search?q=Rajdeep) | N/A |
-| 25 | [पटना रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 26 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
-| 27 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 28 | [OROP](http://twitter.com/search?q=OROP) | N/A |
-| 29 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 30 | [#News18IndiaChaupal](http://twitter.com/search?q=%23News18IndiaChaupal) | N/A |
-| 31 | [#MIvDC](http://twitter.com/search?q=%23MIvDC) | N/A |
-| 32 | [#iQOOZ7OnAmazonSpecials](http://twitter.com/search?q=%23iQOOZ7OnAmazonSpecials) | N/A |
-| 33 | [#GurudevHoysala](http://twitter.com/search?q=%23GurudevHoysala) | N/A |
-| 34 | [#ShaliniAjithKumar](http://twitter.com/search?q=%23ShaliniAjithKumar) | N/A |
-| 35 | [#50DaysForTHEVDBday](http://twitter.com/search?q=%2350DaysForTHEVDBday) | N/A |
-| 36 | [#AgaNaga](http://twitter.com/search?q=%23AgaNaga) | N/A |
-| 37 | [#RushHour](http://twitter.com/search?q=%23RushHour) | N/A |
-| 38 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
-| 39 | [#FullyLoaded](http://twitter.com/search?q=%23FullyLoaded) | N/A |
-| 40 | [#PonniyinSelvan2](http://twitter.com/search?q=%23PonniyinSelvan2) | N/A |
-| 41 | [#NBK108](http://twitter.com/search?q=%23NBK108) | N/A |
-| 42 | [#YuvaNidhi](http://twitter.com/search?q=%23YuvaNidhi) | N/A |
-| 43 | [#VijayDeverakonda](http://twitter.com/search?q=%23VijayDeverakonda) | N/A |
-| 44 | [#EeSalaHoysala](http://twitter.com/search?q=%23EeSalaHoysala) | N/A |
-| 45 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
-| 46 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 47 | [#WorldSparrowDay](http://twitter.com/search?q=%23WorldSparrowDay) | N/A |
-| 48 | [#GGvUPW](http://twitter.com/search?q=%23GGvUPW) | N/A |
-| 49 | [#UPWarriorz](http://twitter.com/search?q=%23UPWarriorz) | N/A |
-| 50 | [#ManiRatnam](http://twitter.com/search?q=%23ManiRatnam) | N/A |
+| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 26 | [STOP BUTCHERING ABHIRA](http://twitter.com/search?q=STOP+BUTCHERING+ABHIRA) | N/A |
+| 27 | [Grace Harris](http://twitter.com/search?q=Grace+Harris) | N/A |
+| 28 | [Khalistanis](http://twitter.com/search?q=Khalistanis) | N/A |
+| 29 | [Budget](http://twitter.com/search?q=Budget) | N/A |
+| 30 | [पटना रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 31 | [Gujarat Giants](http://twitter.com/search?q=Gujarat+Giants) | N/A |
+| 32 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 33 | [Hindu Rashtra](http://twitter.com/search?q=Hindu+Rashtra) | N/A |
+| 34 | [Supriya](http://twitter.com/search?q=Supriya) | N/A |
+| 35 | [Bharat Mata](http://twitter.com/search?q=Bharat+Mata) | N/A |
+| 36 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 37 | [OROP](http://twitter.com/search?q=OROP) | N/A |
+| 38 | [#FreezeFTA](http://twitter.com/search?q=%23FreezeFTA) | N/A |
+| 39 | [#realmeC55LaunchingTomorrow](http://twitter.com/search?q=%23realmeC55LaunchingTomorrow) | N/A |
+| 40 | [#ShaliniAjithKumar](http://twitter.com/search?q=%23ShaliniAjithKumar) | N/A |
+| 41 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
+| 42 | [#Amazon](http://twitter.com/search?q=%23Amazon) | N/A |
+| 43 | [#News18IndiaChaupal](http://twitter.com/search?q=%23News18IndiaChaupal) | N/A |
+| 44 | [#50DaysForTHEVDBday](http://twitter.com/search?q=%2350DaysForTHEVDBday) | N/A |
+| 45 | [#GurudevHoysala](http://twitter.com/search?q=%23GurudevHoysala) | N/A |
+| 46 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
+| 47 | [#AgaNaga](http://twitter.com/search?q=%23AgaNaga) | N/A |
+| 48 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 49 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 50 | [#Ajithkumar𓃵](http://twitter.com/search?q=%23Ajithkumar%f0%93%83%b5) | N/A |
 
 
 

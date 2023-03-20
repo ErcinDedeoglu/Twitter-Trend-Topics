@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-20 16:18:45 UTC`
+📆 Last Updated: `2023-03-20 17:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,12 +26,13 @@ This is top 50 for Belarus
 | 9 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 10 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
 | 11 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 12 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 12 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 13 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 14 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 15 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 16 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 17 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 14 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 15 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 16 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 17 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 18 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
 
 
 

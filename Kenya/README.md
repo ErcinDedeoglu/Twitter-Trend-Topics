@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-20 16:18:48 UTC`
+📆 Last Updated: `2023-03-20 17:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kenya
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
-| 2 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
-| 3 | [#DateWithDestiny20thMarch](http://twitter.com/search?q=%23DateWithDestiny20thMarch) | N/A |
-| 4 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 2 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 3 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
+| 4 | [#DateWithDestiny20thMarch](http://twitter.com/search?q=%23DateWithDestiny20thMarch) | N/A |
 | 5 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 6 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 8 | [#RutoMustGo](http://twitter.com/search?q=%23RutoMustGo) | N/A |
-| 9 | [KICC](http://twitter.com/search?q=KICC) | N/A |
-| 10 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 11 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 12 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 13 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 14 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 15 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
-| 16 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 17 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 18 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 19 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 20 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
+| 9 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 10 | [KICC](http://twitter.com/search?q=KICC) | N/A |
+| 11 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 12 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 13 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 14 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 15 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 16 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 17 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
+| 18 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
+| 19 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
+| 20 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
 | 21 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 22 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 23 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
-| 24 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
-| 25 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 26 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 27 | [Juja](http://twitter.com/search?q=Juja) | N/A |
-| 28 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 29 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 31 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 32 | [Thika Road](http://twitter.com/search?q=Thika+Road) | N/A |
-| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Article 37](http://twitter.com/search?q=Article+37) | N/A |
+| 22 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 23 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 24 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 25 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 26 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 27 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 28 | [Juja Road](http://twitter.com/search?q=Juja+Road) | N/A |
+| 29 | [Thika Road](http://twitter.com/search?q=Thika+Road) | N/A |
+| 30 | [Peter Salasya](http://twitter.com/search?q=Peter+Salasya) | N/A |
+| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 32 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
+| 33 | [Article 37](http://twitter.com/search?q=Article+37) | N/A |
+| 34 | [Enigma](http://twitter.com/search?q=Enigma) | N/A |
 | 35 | [Coward](http://twitter.com/search?q=Coward) | N/A |
-| 36 | [bungei](http://twitter.com/search?q=bungei) | N/A |
-| 37 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
-| 38 | [Peter Salasya](http://twitter.com/search?q=Peter+Salasya) | N/A |
+| 36 | [Returning](http://twitter.com/search?q=Returning) | N/A |
+| 37 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 38 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
 | 39 | [madilu](http://twitter.com/search?q=madilu) | N/A |
-| 40 | [Toi Market](http://twitter.com/search?q=Toi+Market) | N/A |
-| 41 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 42 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 43 | [Stewart Madzayo](http://twitter.com/search?q=Stewart+Madzayo) | N/A |
-| 44 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 40 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 41 | [Toi Market](http://twitter.com/search?q=Toi+Market) | N/A |
+| 42 | [Stewart Madzayo](http://twitter.com/search?q=Stewart+Madzayo) | N/A |
+| 43 | [Junet](http://twitter.com/search?q=Junet) | N/A |
+| 44 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 45 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
 | 46 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 47 | [returning](http://twitter.com/search?q=returning) | N/A |
-| 48 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 47 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
+| 48 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
 | 49 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
-| 50 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
+| 50 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
 
 
 

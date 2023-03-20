@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-20 16:17:50 UTC`
+📆 Last Updated: `2023-03-20 17:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 2 | [Sooz](http://twitter.com/search?q=Sooz) | N/A |
-| 3 | [#BMHCUK](http://twitter.com/search?q=%23BMHCUK) | N/A |
-| 4 | [#PreceptorshipMatters](http://twitter.com/search?q=%23PreceptorshipMatters) | N/A |
-| 5 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 6 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 7 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 8 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 9 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
-| 10 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 11 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 12 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 13 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 15 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 16 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 17 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 18 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 19 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 20 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 21 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
-| 22 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
-| 23 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
-| 24 | [Team of the Week](http://twitter.com/search?q=Team+of+the+Week) | N/A |
-| 25 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
-| 26 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
-| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 29 | [Dermot Gallagher](http://twitter.com/search?q=Dermot+Gallagher) | N/A |
-| 30 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 31 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 32 | [St Joseph](http://twitter.com/search?q=St+Joseph) | N/A |
-| 33 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
-| 34 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 35 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
-| 36 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
-| 37 | [Settings](http://twitter.com/search?q=Settings) | N/A |
-| 38 | [Daily Quordle 420](http://twitter.com/search?q=Daily+Quordle+420) | N/A |
-| 39 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 40 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 41 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
-| 42 | [#FancyAMcDonalds](http://twitter.com/search?q=%23FancyAMcDonalds) | N/A |
-| 43 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 44 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 45 | [#LyricsMisheardInSong](http://twitter.com/search?q=%23LyricsMisheardInSong) | N/A |
-| 46 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 47 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 1 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
+| 2 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 3 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 4 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 5 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
+| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 7 | [#FancyAMcDonalds](http://twitter.com/search?q=%23FancyAMcDonalds) | N/A |
+| 8 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 9 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 10 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 11 | [Spitting Image](http://twitter.com/search?q=Spitting+Image) | N/A |
+| 12 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
+| 13 | [Merrin](http://twitter.com/search?q=Merrin) | N/A |
+| 14 | [Network Rail](http://twitter.com/search?q=Network+Rail) | N/A |
+| 15 | [Wigan Athletic](http://twitter.com/search?q=Wigan+Athletic) | N/A |
+| 16 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
+| 17 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 18 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 19 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 20 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 21 | [O'Hara](http://twitter.com/search?q=O%27Hara) | N/A |
+| 22 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 23 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 24 | [Tice](http://twitter.com/search?q=Tice) | N/A |
+| 25 | [Castore](http://twitter.com/search?q=Castore) | N/A |
+| 26 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
+| 27 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 28 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 30 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 31 | [Sooz](http://twitter.com/search?q=Sooz) | N/A |
+| 32 | [Lennox](http://twitter.com/search?q=Lennox) | N/A |
+| 33 | [Avanti](http://twitter.com/search?q=Avanti) | N/A |
+| 34 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
+| 35 | [Doom's Day](http://twitter.com/search?q=Doom%27s+Day) | N/A |
+| 36 | [Be Grateful](http://twitter.com/search?q=Be+Grateful) | N/A |
+| 37 | [Be Mindful](http://twitter.com/search?q=Be+Mindful) | N/A |
+| 38 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 39 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 40 | [St Joseph](http://twitter.com/search?q=St+Joseph) | N/A |
+| 41 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 42 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
+| 43 | [Weds](http://twitter.com/search?q=Weds) | N/A |
+| 44 | [Settings](http://twitter.com/search?q=Settings) | N/A |
+| 45 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 46 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 47 | [#BMShedComp](http://twitter.com/search?q=%23BMShedComp) | N/A |
 
 
 

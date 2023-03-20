@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-20 16:18:22 UTC`
+📆 Last Updated: `2023-03-20 17:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
-| 2 | [#WOHDWithColgate](http://twitter.com/search?q=%23WOHDWithColgate) | N/A |
-| 3 | [#AnnounceEnuguResult](http://twitter.com/search?q=%23AnnounceEnuguResult) | N/A |
-| 4 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 5 | [#RestoreOurMandate](http://twitter.com/search?q=%23RestoreOurMandate) | N/A |
-| 6 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 7 | [Laptop](http://twitter.com/search?q=Laptop) | N/A |
-| 8 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 9 | [AutoCAD](http://twitter.com/search?q=AutoCAD) | N/A |
-| 10 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
-| 11 | [Caleb Mutfwang](http://twitter.com/search?q=Caleb+Mutfwang) | N/A |
-| 12 | [africa loves kanaga jnr](http://twitter.com/search?q=africa+loves+kanaga+jnr) | N/A |
-| 13 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 14 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
-| 15 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
-| 16 | [juju punter](http://twitter.com/search?q=juju+punter) | N/A |
-| 17 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
-| 18 | [Nentawe](http://twitter.com/search?q=Nentawe) | N/A |
-| 19 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 20 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 21 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 22 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 23 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
-| 24 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
-| 25 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
-| 26 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 27 | [Nsukka](http://twitter.com/search?q=Nsukka) | N/A |
-| 28 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
-| 29 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
-| 30 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 32 | [Yola](http://twitter.com/search?q=Yola) | N/A |
-| 33 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 34 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 35 | [#ThirtyOnRepeat](http://twitter.com/search?q=%23ThirtyOnRepeat) | N/A |
-| 36 | [#newweek](http://twitter.com/search?q=%23newweek) | N/A |
-| 37 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
-| 38 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 39 | [#Adamawa](http://twitter.com/search?q=%23Adamawa) | N/A |
-| 40 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
+| 2 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
+| 3 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 4 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
+| 5 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 8 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 9 | [#AnnounceEnuguResult](http://twitter.com/search?q=%23AnnounceEnuguResult) | N/A |
+| 10 | [#WOHDWithColgate](http://twitter.com/search?q=%23WOHDWithColgate) | N/A |
+| 11 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 12 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
+| 13 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 14 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 15 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
+| 16 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 17 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 18 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 19 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 20 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 21 | [Laptop](http://twitter.com/search?q=Laptop) | N/A |
+| 22 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
+| 23 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 24 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 25 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 26 | [Abba](http://twitter.com/search?q=Abba) | N/A |
+| 27 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 28 | [cherry entafield](http://twitter.com/search?q=cherry+entafield) | N/A |
+| 29 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 30 | [Ebeano](http://twitter.com/search?q=Ebeano) | N/A |
+| 31 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
+| 32 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 33 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 34 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
+| 35 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 36 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
+| 37 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 38 | [PHYNA THE CONTENT](http://twitter.com/search?q=PHYNA+THE+CONTENT) | N/A |
+| 39 | [Fufore](http://twitter.com/search?q=Fufore) | N/A |
+| 40 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 41 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
+| 42 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 43 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
+| 44 | [AutoCAD](http://twitter.com/search?q=AutoCAD) | N/A |
+| 45 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
+| 46 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 47 | [Floki Yoga](http://twitter.com/search?q=Floki+Yoga) | N/A |
+| 48 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 
 
 

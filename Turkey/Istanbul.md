@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-20 16:18:33 UTC`
+📆 Last Updated: `2023-03-20 17:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bor Karbür](http://twitter.com/search?q=Bor+Karb%c3%bcr) | N/A |
+| 1 | [Cnz Burak](http://twitter.com/search?q=Cnz+Burak) | N/A |
 | 2 | [#Ramazan](http://twitter.com/search?q=%23Ramazan) | N/A |
-| 3 | [#2000LerKararlı](http://twitter.com/search?q=%232000LerKararl%c4%b1) | N/A |
-| 4 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
-| 5 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
-| 6 | [#Meb50BiniKabulEtmiyoruz](http://twitter.com/search?q=%23Meb50BiniKabulEtmiyoruz) | N/A |
+| 3 | [#bist100Sirketler](http://twitter.com/search?q=%23bist100Sirketler) | N/A |
+| 4 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
+| 5 | [Bor Karbür](http://twitter.com/search?q=Bor+Karb%c3%bcr) | N/A |
+| 6 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
 | 7 | [#başlıyoruz](http://twitter.com/search?q=%23ba%c5%9fl%c4%b1yoruz) | N/A |
-| 8 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 9 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
-| 10 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 11 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
-| 12 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
-| 13 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
-| 14 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 15 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
-| 16 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
-| 17 | [TwitterTayfadan SelamAfRam](http://twitter.com/search?q=TwitterTayfadan+SelamAfRam) | N/A |
-| 18 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
-| 19 | [45bin](http://twitter.com/search?q=45bin) | N/A |
-| 20 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 21 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
-| 22 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
-| 23 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
-| 24 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 25 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 26 | [Kızlara Tehdit](http://twitter.com/search?q=K%c4%b1zlara+Tehdit) | N/A |
-| 27 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
-| 28 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 29 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
-| 30 | [Müjde](http://twitter.com/search?q=M%c3%bcjde) | Müjde is a Turkish word that means "good news" or "announcement". It is often used to refer to a positive announcement or message. |
-| 31 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
-| 32 | [Varlık](http://twitter.com/search?q=Varl%c4%b1k) | N/A |
-| 33 | [TBMM'dir](http://twitter.com/search?q=TBMM%27dir) | N/A |
-| 34 | [Cami](http://twitter.com/search?q=Cami) | N/A |
-| 35 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
-| 36 | [Kirli Buluşma](http://twitter.com/search?q=Kirli+Bulu%c5%9fma) | N/A |
-| 37 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 38 | [Seçim 2](http://twitter.com/search?q=Se%c3%a7im+2) | N/A |
-| 39 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
-| 40 | [Batan](http://twitter.com/search?q=Batan) | N/A |
-| 41 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 42 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
-| 43 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 44 | [Türkçedir](http://twitter.com/search?q=T%c3%bcrk%c3%a7edir) | N/A |
-| 45 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 46 | [#YenidenRefahPartisi](http://twitter.com/search?q=%23YenidenRefahPartisi) | N/A |
-| 47 | [#BalkonKonuşmasıYükleniyor](http://twitter.com/search?q=%23BalkonKonu%c5%9fmas%c4%b1Y%c3%bckleniyor) | N/A |
-| 48 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
-| 49 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
-| 50 | [#YönetemedinAKP](http://twitter.com/search?q=%23Y%c3%b6netemedinAKP) | N/A |
+| 8 | [#DBahceliUnvTayinHakki](http://twitter.com/search?q=%23DBahceliUnvTayinHakki) | N/A |
+| 9 | [#YüzBinÖğrtmndenSizeOyYok](http://twitter.com/search?q=%23Y%c3%bczBin%c3%96%c4%9frtmndenSizeOyYok) | N/A |
+| 10 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 11 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 12 | [Koopİş PiktesiUnuttu](http://twitter.com/search?q=Koop%c4%b0%c5%9f+PiktesiUnuttu) | N/A |
+| 13 | [HDP Gençliği](http://twitter.com/search?q=HDP+Gen%c3%a7li%c4%9fi) | N/A |
+| 14 | [KamuyaAcil JeolojiMüh](http://twitter.com/search?q=KamuyaAcil+JeolojiM%c3%bch) | N/A |
+| 15 | [20Mart PolisVahşeti](http://twitter.com/search?q=20Mart+PolisVah%c5%9feti) | N/A |
+| 16 | [Gökmen](http://twitter.com/search?q=G%c3%b6kmen) | N/A |
+| 17 | [CbHerASMyeDyt](http://twitter.com/search?q=CbHerASMyeDyt) | N/A |
+| 18 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
+| 19 | [AyTol OnedioDa](http://twitter.com/search?q=AyTol+OnedioDa) | N/A |
+| 20 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
+| 21 | [SahneninStarı ArifGüloğlu](http://twitter.com/search?q=SahneninStar%c4%b1+ArifG%c3%bclo%c4%9flu) | N/A |
+| 22 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 23 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 24 | [Milli Görüş](http://twitter.com/search?q=Milli+G%c3%b6r%c3%bc%c5%9f) | N/A |
+| 25 | [Sağcı](http://twitter.com/search?q=Sa%c4%9fc%c4%b1) | N/A |
+| 26 | [İnsaniYardıma OperasyonŞovu](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon%c5%9eovu) | N/A |
+| 27 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 28 | [Hoşgeldiniz](http://twitter.com/search?q=Ho%c5%9fgeldiniz) | N/A |
+| 29 | [Kürt](http://twitter.com/search?q=K%c3%bcrt) | N/A |
+| 30 | [45bin](http://twitter.com/search?q=45bin) | N/A |
+| 31 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 32 | [TwitterTayfadan SelamAfRam](http://twitter.com/search?q=TwitterTayfadan+SelamAfRam) | N/A |
+| 33 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 34 | [Davut Güloğlu](http://twitter.com/search?q=Davut+G%c3%bclo%c4%9flu) | N/A |
+| 35 | [Devri](http://twitter.com/search?q=Devri) | N/A |
+| 36 | [Varlık](http://twitter.com/search?q=Varl%c4%b1k) | N/A |
+| 37 | [Basiniz](http://twitter.com/search?q=Basiniz) | N/A |
+| 38 | [Ziraat](http://twitter.com/search?q=Ziraat) | N/A |
+| 39 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
+| 40 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 41 | [EhliyetYoksa OyDaYok](http://twitter.com/search?q=EhliyetYoksa+OyDaYok) | N/A |
+| 42 | [AFyoksa OyYok](http://twitter.com/search?q=AFyoksa+OyYok) | N/A |
+| 43 | [Cami](http://twitter.com/search?q=Cami) | N/A |
+| 44 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 45 | [TBMM](http://twitter.com/search?q=TBMM) | N/A |
+| 46 | [Batan](http://twitter.com/search?q=Batan) | N/A |
+| 47 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 48 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
+| 49 | [Seçim 2](http://twitter.com/search?q=Se%c3%a7im+2) | N/A |
+| 50 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-20 16:18:04 UTC`
+📆 Last Updated: `2023-03-20 17:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 2 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 3 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 4 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
+| 2 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
+| 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 4 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
 | 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 6 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
-| 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 8 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 9 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 8 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 9 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
 | 10 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
 | 11 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 12 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
 | 13 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
 | 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 15 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
-| 16 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 17 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 16 | [Stieler](http://twitter.com/search?q=Stieler) | N/A |
+| 17 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
 | 18 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 19 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 20 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 19 | [Schwalbe](http://twitter.com/search?q=Schwalbe) | N/A |
+| 20 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
 | 21 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 22 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 23 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 25 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 26 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 27 | [Streamdeck](http://twitter.com/search?q=Streamdeck) | N/A |
-| 28 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 30 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 31 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
-| 32 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 33 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 34 | [Mündlich](http://twitter.com/search?q=M%c3%bcndlich) | N/A |
-| 35 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 36 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
-| 37 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
-| 38 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 39 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
-| 40 | [Buschmann](http://twitter.com/search?q=Buschmann) | N/A |
-| 41 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 42 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 43 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 44 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
-| 45 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 46 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 47 | [Freier](http://twitter.com/search?q=Freier) | N/A |
-| 48 | [sesamstraße](http://twitter.com/search?q=sesamstra%c3%9fe) | N/A |
+| 22 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 23 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 24 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 25 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 26 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 27 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 28 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
+| 29 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 30 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 31 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
+| 32 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 33 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 34 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 35 | [sonntag abend](http://twitter.com/search?q=sonntag+abend) | N/A |
+| 36 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 37 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 38 | [Haftbefehl](http://twitter.com/search?q=Haftbefehl) | N/A |
+| 39 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 40 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 41 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
+| 42 | [Schönen Feierabend](http://twitter.com/search?q=Sch%c3%b6nen+Feierabend) | N/A |
+| 43 | [Glasner](http://twitter.com/search?q=Glasner) | N/A |
+| 44 | [Öffentlichkeitsfahndung](http://twitter.com/search?q=%c3%96ffentlichkeitsfahndung) | N/A |
+| 45 | [Freier](http://twitter.com/search?q=Freier) | N/A |
+| 46 | [sesamstraße](http://twitter.com/search?q=sesamstra%c3%9fe) | N/A |
+| 47 | [Länderspielpause](http://twitter.com/search?q=L%c3%a4nderspielpause) | N/A |
+| 48 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 
 
 
