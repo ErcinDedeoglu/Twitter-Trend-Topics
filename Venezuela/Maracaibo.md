@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-21 15:17:07 UTC`
+📆 Last Updated: `2023-03-21 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
 | 7 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 8 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 9 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 10 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
-| 11 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 12 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 13 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 14 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 10 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 11 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
+| 14 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
 | 15 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 16 | [#21demarzo](http://twitter.com/search?q=%2321demarzo) | N/A |
-| 17 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 18 | [Cada 21](http://twitter.com/search?q=Cada+21) | N/A |
-| 19 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 20 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 21 | [Boleita](http://twitter.com/search?q=Boleita) | N/A |
-| 22 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 23 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 24 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
-| 25 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 26 | [Ferraris](http://twitter.com/search?q=Ferraris) | N/A |
-| 27 | [inés maría calero](http://twitter.com/search?q=in%c3%a9s+mar%c3%ada+calero) | N/A |
-| 28 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 29 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 30 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
-| 31 | [Carlos Omobono](http://twitter.com/search?q=Carlos+Omobono) | N/A |
-| 32 | [Asamblea General](http://twitter.com/search?q=Asamblea+General) | N/A |
-| 33 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 16 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 17 | [Boleita](http://twitter.com/search?q=Boleita) | N/A |
+| 18 | [#21demarzo](http://twitter.com/search?q=%2321demarzo) | N/A |
+| 19 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 20 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 21 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 22 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
+| 23 | [Asamblea General](http://twitter.com/search?q=Asamblea+General) | N/A |
+| 24 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
+| 25 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 26 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 27 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
+| 28 | [Carlos Omobono](http://twitter.com/search?q=Carlos+Omobono) | N/A |
+| 29 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
+| 30 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
+| 31 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 32 | [Ferraris](http://twitter.com/search?q=Ferraris) | N/A |
+| 33 | [Elvis Amoroso](http://twitter.com/search?q=Elvis+Amoroso) | N/A |
 | 34 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
-| 35 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
-| 36 | [Elvis Amoroso](http://twitter.com/search?q=Elvis+Amoroso) | N/A |
-| 37 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
-| 38 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 39 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
-| 40 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 41 | [Buddy Bailey](http://twitter.com/search?q=Buddy+Bailey) | N/A |
-| 42 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 43 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 44 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 45 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 46 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 47 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 35 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 36 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 37 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 38 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
+| 39 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 40 | [Cada 21](http://twitter.com/search?q=Cada+21) | N/A |
+| 41 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 42 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
+| 43 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 44 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 45 | [Buddy Bailey](http://twitter.com/search?q=Buddy+Bailey) | N/A |
+| 46 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 48 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 49 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 50 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 49 | [Moño](http://twitter.com/search?q=Mo%c3%b1o) | N/A |
+| 50 | [Inés María Calero](http://twitter.com/search?q=In%c3%a9s+Mar%c3%ada+Calero) | N/A |
 
 
 

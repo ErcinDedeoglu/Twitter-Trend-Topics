@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-21 15:17:02 UTC`
+📆 Last Updated: `2023-03-21 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 2 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 3 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 4 | [#ASongOrMovieForOdour](http://twitter.com/search?q=%23ASongOrMovieForOdour) | N/A |
+| 1 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 2 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 3 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 4 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
 | 5 | [#property](http://twitter.com/search?q=%23property) | N/A |
-| 6 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 7 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 9 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 10 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 6 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 7 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 9 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 10 | [#StevensInFilmsOrSongs](http://twitter.com/search?q=%23StevensInFilmsOrSongs) | N/A |
 | 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 | 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 13 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
+| 13 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
 | 14 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 15 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 16 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 17 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 18 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 19 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 20 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 21 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 22 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 23 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 24 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
-| 25 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 26 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 27 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 28 | [ALCS](http://twitter.com/search?q=ALCS) | N/A |
-| 29 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
-| 30 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
-| 31 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 32 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
-| 33 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 34 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 35 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 36 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 37 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 38 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 39 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 40 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
-| 41 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 42 | [Tipping](http://twitter.com/search?q=Tipping) | N/A |
-| 43 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
-| 44 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
-| 45 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 46 | [Primark](http://twitter.com/search?q=Primark) | N/A |
-| 47 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 48 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 49 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 15 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
+| 16 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 17 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 18 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 19 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 21 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 22 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 23 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 24 | [The Met](http://twitter.com/search?q=The+Met) | The Met is short for The Metropolitan Museum of Art, which is an art museum located in New York City. It is one of the largest and most visited art museums in the world, and it houses a collection of over two million works of art from around the world. |
+| 25 | [Ben Bradley](http://twitter.com/search?q=Ben+Bradley) | N/A |
+| 26 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 27 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 28 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 29 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 30 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 31 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 32 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
+| 33 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
+| 34 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 35 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 36 | [ALCS](http://twitter.com/search?q=ALCS) | N/A |
+| 37 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 38 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 39 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 40 | [Primark](http://twitter.com/search?q=Primark) | N/A |
+| 41 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
+| 42 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 43 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 44 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
+| 45 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 46 | [Eton](http://twitter.com/search?q=Eton) | N/A |
+| 47 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 48 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 49 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
 
 
 

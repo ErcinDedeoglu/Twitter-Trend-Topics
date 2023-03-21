@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-03-21 15:17:40 UTC`
+📆 Last Updated: `2023-03-21 16:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
-| 2 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
-| 3 | [#OneYearOfSaveSoil](http://twitter.com/search?q=%23OneYearOfSaveSoil) | N/A |
-| 4 | [#AskVishwakSen](http://twitter.com/search?q=%23AskVishwakSen) | N/A |
-| 5 | [SHAME ON AAJTAK AND ABP](http://twitter.com/search?q=SHAME+ON+AAJTAK+AND+ABP) | N/A |
-| 6 | [KBKJ ARRIVES IN ONE MONTH](http://twitter.com/search?q=KBKJ+ARRIVES+IN+ONE+MONTH) | N/A |
-| 7 | [#satnamsinghsandhu](http://twitter.com/search?q=%23satnamsinghsandhu) | N/A |
-| 8 | [Pradeep Bhandari with Hindus](http://twitter.com/search?q=Pradeep+Bhandari+with+Hindus) | N/A |
-| 9 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 11 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 12 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
-| 13 | [Sushant Singh Rajput LivesOn](http://twitter.com/search?q=Sushant+Singh+Rajput+LivesOn) | N/A |
-| 14 | [Sadhguru](http://twitter.com/search?q=Sadhguru) | N/A |
-| 15 | [Aloo](http://twitter.com/search?q=Aloo) | N/A |
-| 16 | [आयुषी नंदन](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%80+%e0%a4%a8%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 17 | [Wendy D](http://twitter.com/search?q=Wendy+D) | N/A |
-| 18 | [मीर जाफर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%be%e0%a4%ab%e0%a4%b0) | N/A |
-| 19 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
-| 20 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 21 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 22 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
-| 23 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 24 | [प्रथम स्थान](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
-| 25 | [Salman Khan](http://twitter.com/search?q=Salman+Khan) | N/A |
-| 26 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 27 | [A. 50% in 29](http://twitter.com/search?q=A.+50%25+in+29) | N/A |
-| 28 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
-| 29 | [पटना स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 30 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
-| 31 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 32 | [दिल्ली विधानसभा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 33 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 34 | [पटना रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 35 | [पंजाब सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 36 | [केजरीवाल सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 37 | [संबित पात्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%ac%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 38 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
-| 39 | [#1947August16Trailer](http://twitter.com/search?q=%231947August16Trailer) | N/A |
-| 40 | [#किसानों_को_मुआवजा_दो](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%8b_%e0%a4%ae%e0%a5%81%e0%a4%86%e0%a4%b5%e0%a4%9c%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
-| 41 | [#राजस्थान_गौरव_राजवीर_सर](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%b5_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0_%e0%a4%b8%e0%a4%b0) | N/A |
-| 42 | [#prebookrealmec55](http://twitter.com/search?q=%23prebookrealmec55) | N/A |
-| 43 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
-| 44 | [#SooraraiPottru](http://twitter.com/search?q=%23SooraraiPottru) | N/A |
-| 45 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 46 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 1 | [#Vi20FANfest](http://twitter.com/search?q=%23Vi20FANfest) | N/A |
+| 2 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 3 | [#किसानों_को_मुआवजा_दो](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%8b_%e0%a4%ae%e0%a5%81%e0%a4%86%e0%a4%b5%e0%a4%9c%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
+| 4 | [#PrebookrealmeC55](http://twitter.com/search?q=%23PrebookrealmeC55) | N/A |
+| 5 | [#OneYearOfSaveSoil](http://twitter.com/search?q=%23OneYearOfSaveSoil) | N/A |
+| 6 | [SHAME ON AAJTAK AND ABP](http://twitter.com/search?q=SHAME+ON+AAJTAK+AND+ABP) | N/A |
+| 7 | [KBKJ ARRIVES IN ONE MONTH](http://twitter.com/search?q=KBKJ+ARRIVES+IN+ONE+MONTH) | N/A |
+| 8 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 9 | [pradeep bhandari with hindus](http://twitter.com/search?q=pradeep+bhandari+with+hindus) | N/A |
+| 10 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
+| 11 | [Sushant Singh Rajput LivesOn](http://twitter.com/search?q=Sushant+Singh+Rajput+LivesOn) | N/A |
+| 12 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 13 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 15 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 16 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 17 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
+| 18 | [Tahlia McGrath](http://twitter.com/search?q=Tahlia+McGrath) | N/A |
+| 19 | [मीर जाफर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%be%e0%a4%ab%e0%a4%b0) | N/A |
+| 20 | [Sadhguru](http://twitter.com/search?q=Sadhguru) | N/A |
+| 21 | [Wendy D](http://twitter.com/search?q=Wendy+D) | N/A |
+| 22 | [आयुषी नंदन](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%80+%e0%a4%a8%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 23 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
+| 24 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 25 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
+| 26 | [प्रथम स्थान](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
+| 27 | [राजस्थान विधानसभा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 28 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 29 | [Salman Khan](http://twitter.com/search?q=Salman+Khan) | N/A |
+| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 31 | [A. 50% in 29](http://twitter.com/search?q=A.+50%25+in+29) | N/A |
+| 32 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
+| 33 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 34 | [पटना स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 35 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 36 | [दिल्ली विधानसभा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 37 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 38 | [22nd March](http://twitter.com/search?q=22nd+March) | N/A |
+| 39 | [संबित पात्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%ac%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 40 | [पटना रेलवे स्टेशन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%b5%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 41 | [#AskVishwakSen](http://twitter.com/search?q=%23AskVishwakSen) | N/A |
+| 42 | [#राजस्थान_गौरव_राजवीर_सर](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%b5_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0_%e0%a4%b8%e0%a4%b0) | N/A |
+| 43 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 44 | [#1947August16Trailer](http://twitter.com/search?q=%231947August16Trailer) | N/A |
+| 45 | [#satnamsinghsandhu](http://twitter.com/search?q=%23satnamsinghsandhu) | N/A |
+| 46 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
 | 47 | [#DasKaDhamki](http://twitter.com/search?q=%23DasKaDhamki) | N/A |
-| 48 | [#BholaaShankar](http://twitter.com/search?q=%23BholaaShankar) | N/A |
-| 49 | [#RadhikaMadan](http://twitter.com/search?q=%23RadhikaMadan) | N/A |
-| 50 | [#WeStandWithAmritpalSingh](http://twitter.com/search?q=%23WeStandWithAmritpalSingh) | N/A |
+| 48 | [#UPWvDC](http://twitter.com/search?q=%23UPWvDC) | N/A |
+| 49 | [#SooraraiPottru](http://twitter.com/search?q=%23SooraraiPottru) | N/A |
+| 50 | [#ZakirNaik](http://twitter.com/search?q=%23ZakirNaik) | N/A |
 
 
 

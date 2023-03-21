@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-21 15:16:58 UTC`
+📆 Last Updated: `2023-03-21 16:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
 | 2 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 3 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 4 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 3 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 4 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 5 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 6 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 7 | [#FightRacism](http://twitter.com/search?q=%23FightRacism) | N/A |
+| 6 | [#FightRacism](http://twitter.com/search?q=%23FightRacism) | N/A |
+| 7 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
 | 8 | [Spring](http://twitter.com/search?q=Spring) | N/A |
 | 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 10 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 11 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
+| 11 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 | 12 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 13 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 14 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 15 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 16 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 17 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
-| 18 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 19 | [Josh Matlow](http://twitter.com/search?q=Josh+Matlow) | N/A |
-| 20 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 21 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 22 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 23 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 13 | [Size 50](http://twitter.com/search?q=Size+50) | N/A |
+| 14 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 15 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 16 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 17 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 18 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
+| 19 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 20 | [Anthony Richard](http://twitter.com/search?q=Anthony+Richard) | Anthony Richard is a name. It is a combination of two given names, Anthony and Richard. The name Anthony is derived from the Latin Antonius, which means "priceless one" or "invaluable". Richard is derived from the Germanic name Ricard, which means "strong ruler". |
+| 21 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 22 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 23 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 25 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
-| 26 | [hyman](http://twitter.com/search?q=hyman) | N/A |
-| 27 | [Anthony Furey](http://twitter.com/search?q=Anthony+Furey) | N/A |
-| 28 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 29 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 30 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 31 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 32 | [Mark Saunders](http://twitter.com/search?q=Mark+Saunders) | N/A |
-| 33 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 34 | [statistics canada](http://twitter.com/search?q=statistics+canada) | N/A |
-| 35 | [Brendan Gallagher](http://twitter.com/search?q=Brendan+Gallagher) | N/A |
+| 25 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 26 | [PROC](http://twitter.com/search?q=PROC) | N/A |
+| 27 | [Josh Matlow](http://twitter.com/search?q=Josh+Matlow) | N/A |
+| 28 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
+| 29 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 30 | [Mark Saunders](http://twitter.com/search?q=Mark+Saunders) | N/A |
+| 31 | [Statistics Canada](http://twitter.com/search?q=Statistics+Canada) | N/A |
+| 32 | [Brendan Gallagher](http://twitter.com/search?q=Brendan+Gallagher) | N/A |
+| 33 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
+| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 35 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
 | 36 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 38 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 37 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 38 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
 | 39 | [jeremy coupal](http://twitter.com/search?q=jeremy+coupal) | N/A |
-| 40 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
-| 41 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 42 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 43 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 44 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 45 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 46 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
-| 47 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 40 | [Sharpeville](http://twitter.com/search?q=Sharpeville) | N/A |
+| 41 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
+| 42 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 43 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 44 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 45 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 46 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 47 | [Indigenous Peoples](http://twitter.com/search?q=Indigenous+Peoples) | N/A |
 | 48 | [Fairview Mall](http://twitter.com/search?q=Fairview+Mall) | N/A |
-| 49 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 50 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 49 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 50 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
 
 
 

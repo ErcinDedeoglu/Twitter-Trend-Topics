@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-21 15:17:09 UTC`
+📆 Last Updated: `2023-03-21 16:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
 | 2 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
-| 3 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 4 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 5 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
-| 6 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
-| 7 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 8 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 9 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
-| 10 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 11 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
-| 12 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 13 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 14 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
-| 15 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 16 | [#voltasapato](http://twitter.com/search?q=%23voltasapato) | N/A |
-| 17 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 18 | [#LikeCrazy_Is_Coming](http://twitter.com/search?q=%23LikeCrazy_Is_Coming) | N/A |
-| 19 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
-| 20 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
-| 21 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 22 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 23 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 24 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
-| 25 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 26 | [SIGAA](http://twitter.com/search?q=SIGAA) | N/A |
-| 27 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 28 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 29 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
-| 30 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
-| 31 | [África do Sul](http://twitter.com/search?q=%c3%81frica+do+Sul) | N/A |
-| 32 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
-| 33 | [Sweet Tooth](http://twitter.com/search?q=Sweet+Tooth) | N/A |
-| 34 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
-| 35 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 36 | [TV 247](http://twitter.com/search?q=TV+247) | N/A |
-| 37 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 38 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 39 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 40 | [Excelência](http://twitter.com/search?q=Excel%c3%aancia) | N/A |
-| 41 | [Feliz Aniversário](http://twitter.com/search?q=Feliz+Anivers%c3%a1rio) | N/A |
-| 42 | [21 de Março](http://twitter.com/search?q=21+de+Mar%c3%a7o) | N/A |
-| 43 | [Na Alemanha](http://twitter.com/search?q=Na+Alemanha) | N/A |
-| 44 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 45 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 46 | [Jair Messias Bolsonaro](http://twitter.com/search?q=Jair+Messias+Bolsonaro) | N/A |
-| 47 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 48 | [Fora Campos Neto](http://twitter.com/search?q=Fora+Campos+Neto) | N/A |
-| 49 | [Venê](http://twitter.com/search?q=Ven%c3%aa) | N/A |
-| 50 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 4 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 5 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 6 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
+| 7 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 8 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 9 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 10 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 11 | [#LikeCrazy_Is_Coming](http://twitter.com/search?q=%23LikeCrazy_Is_Coming) | N/A |
+| 12 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
+| 13 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
+| 14 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 15 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
+| 16 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
+| 17 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 18 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 19 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
+| 20 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
+| 21 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 22 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
+| 23 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
+| 24 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
+| 25 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 26 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 27 | [Apito](http://twitter.com/search?q=Apito) | N/A |
+| 28 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
+| 29 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
+| 30 | [Kindred](http://twitter.com/search?q=Kindred) | N/A |
+| 31 | [Kled](http://twitter.com/search?q=Kled) | N/A |
+| 32 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 33 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 34 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 35 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 36 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
+| 37 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
+| 40 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 41 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
+| 42 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
+| 43 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 44 | [MAIRA](http://twitter.com/search?q=MAIRA) | N/A |
+| 45 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 46 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
+| 47 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
+| 48 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 49 | [Feliz Aniversário](http://twitter.com/search?q=Feliz+Anivers%c3%a1rio) | N/A |
+| 50 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
 
 
 

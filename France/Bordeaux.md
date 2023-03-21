@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-21 15:17:12 UTC`
+📆 Last Updated: `2023-03-21 16:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [France](</France>)
 | 3 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
 | 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 5 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 6 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
-| 7 | [#toxicspace](http://twitter.com/search?q=%23toxicspace) | N/A |
-| 8 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
-| 9 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 10 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 6 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 7 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
+| 8 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 9 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 10 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
 | 11 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
 | 12 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
 | 13 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 15 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 16 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 17 | [a 13h](http://twitter.com/search?q=a+13h) | N/A |
-| 18 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 19 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
+| 14 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 15 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 17 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 18 | [a 13h](http://twitter.com/search?q=a+13h) | N/A |
+| 19 | [Lars](http://twitter.com/search?q=Lars) | N/A |
 | 20 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
-| 21 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 22 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 23 | [Linval](http://twitter.com/search?q=Linval) | N/A |
-| 24 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 25 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 26 | [vauban](http://twitter.com/search?q=vauban) | N/A |
-| 27 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 28 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 29 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
-| 30 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
-| 31 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 32 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
-| 33 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
-| 34 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 35 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 36 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 37 | [neuf voix](http://twitter.com/search?q=neuf+voix) | N/A |
-| 38 | [Courson](http://twitter.com/search?q=Courson) | N/A |
-| 39 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
-| 40 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 41 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 42 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
-| 43 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
-| 44 | [Bernard de la Villardière](http://twitter.com/search?q=Bernard+de+la+Villardi%c3%a8re) | N/A |
-| 45 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 46 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 47 | [pour 9](http://twitter.com/search?q=pour+9) | N/A |
-| 48 | [Brasilia](http://twitter.com/search?q=Brasilia) | N/A |
-| 49 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 50 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 21 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
+| 22 | [Vetheo](http://twitter.com/search?q=Vetheo) | N/A |
+| 23 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 24 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 25 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 26 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 27 | [STMG](http://twitter.com/search?q=STMG) | N/A |
+| 28 | [Linval](http://twitter.com/search?q=Linval) | N/A |
+| 29 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 30 | [vauban](http://twitter.com/search?q=vauban) | N/A |
+| 31 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
+| 32 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 33 | [Xerxe](http://twitter.com/search?q=Xerxe) | N/A |
+| 34 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 35 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 36 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 37 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
+| 38 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
+| 39 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 40 | [neuf voix](http://twitter.com/search?q=neuf+voix) | N/A |
+| 41 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
+| 42 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 43 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 44 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 45 | [Courson](http://twitter.com/search?q=Courson) | N/A |
+| 46 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
+| 47 | [Bernard de la Villardière](http://twitter.com/search?q=Bernard+de+la+Villardi%c3%a8re) | N/A |
+| 48 | [pour 9](http://twitter.com/search?q=pour+9) | N/A |
+| 49 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 50 | [Touraine](http://twitter.com/search?q=Touraine) | N/A |
 
 
 

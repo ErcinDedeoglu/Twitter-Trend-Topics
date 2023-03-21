@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-03-21 15:17:52 UTC`
+📆 Last Updated: `2023-03-21 16:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 2 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 4 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 5 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 6 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 7 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 8 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 9 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 10 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 11 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 12 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 13 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 14 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 15 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 1 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 2 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 3 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 4 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 5 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 6 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 7 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 8 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 9 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 10 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 11 | [lars](http://twitter.com/search?q=lars) | N/A |
+| 12 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 13 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 14 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 15 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
 | 16 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 17 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 19 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 20 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 21 | [National Agriculture Day](http://twitter.com/search?q=National+Agriculture+Day) | N/A |
-| 22 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
-| 23 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 24 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 17 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 18 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 19 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 20 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
+| 21 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 22 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 23 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 24 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
 | 25 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 26 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 27 | [Cathie Wood](http://twitter.com/search?q=Cathie+Wood) | N/A |
-| 28 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 29 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 30 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 31 | [SB 4s](http://twitter.com/search?q=SB+4s) | N/A |
-| 32 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 33 | [Candida](http://twitter.com/search?q=Candida) | N/A |
-| 34 | [Face ID](http://twitter.com/search?q=Face+ID) | N/A |
-| 35 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 36 | [Irvo Otieno](http://twitter.com/search?q=Irvo+Otieno) | N/A |
-| 37 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 38 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
-| 39 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 40 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 41 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 42 | [DHGate](http://twitter.com/search?q=DHGate) | N/A |
-| 43 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 44 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 45 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 46 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
-| 47 | [Maria Bartiromo](http://twitter.com/search?q=Maria+Bartiromo) | N/A |
-| 48 | [Fiction](http://twitter.com/search?q=Fiction) | N/A |
-| 49 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 50 | [Theology](http://twitter.com/search?q=Theology) | N/A |
+| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 27 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 28 | [NEW FLO](http://twitter.com/search?q=NEW+FLO) | N/A |
+| 29 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 30 | [SlamBall](http://twitter.com/search?q=SlamBall) | N/A |
+| 31 | [Raine](http://twitter.com/search?q=Raine) | N/A |
+| 32 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
+| 33 | [National Agriculture Day](http://twitter.com/search?q=National+Agriculture+Day) | N/A |
+| 34 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 35 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 36 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 37 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 38 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 39 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 40 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
+| 41 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
+| 42 | [Crash Team Rumble](http://twitter.com/search?q=Crash+Team+Rumble) | N/A |
+| 43 | [Candida](http://twitter.com/search?q=Candida) | N/A |
+| 44 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 45 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 46 | [Irvo Otieno](http://twitter.com/search?q=Irvo+Otieno) | N/A |
+| 47 | [Face ID](http://twitter.com/search?q=Face+ID) | N/A |
+| 48 | [Cathie Wood](http://twitter.com/search?q=Cathie+Wood) | N/A |
+| 49 | [Red Hot Chili Peppers](http://twitter.com/search?q=Red+Hot+Chili+Peppers) | N/A |
+| 50 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
 
 
 

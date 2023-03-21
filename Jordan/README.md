@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-21 15:17:56 UTC`
+📆 Last Updated: `2023-03-21 16:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for Jordan
 | 2 | [#معركه_الكرامه](http://twitter.com/search?q=%23%d9%85%d8%b9%d8%b1%d9%83%d9%87_%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d9%87) | N/A |
 | 3 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
 | 4 | [الجيش العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 5 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 6 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 7 | [العربي المصطفوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b7%d9%81%d9%88%d9%8a) | N/A |
-| 8 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 9 | [الاصدار الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 10 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 11 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
-| 12 | [المركبات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 13 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 14 | [عبدالله الثاني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 15 | [الحسين بن طلال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 16 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 17 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 18 | [الذكري الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 19 | [قاضي القضاه](http://twitter.com/search?q=%d9%82%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%87) | N/A |
-| 20 | [النايب العوايشه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%8a%d8%b4%d9%87) | N/A |
-| 21 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
-| 22 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 23 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 24 | [الضغط العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%ba%d8%b7+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 25 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | N/A |
-| 26 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
-| 27 | [الملك الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 28 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 29 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 30 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 31 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
-| 32 | [وزير عامل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%b9%d8%a7%d9%85%d9%84) | N/A |
-| 33 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 34 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 35 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 36 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 37 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 38 | [راشد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af) | راشد is an Arabic name meaning "rightly guided" or "wise". It is also used as a surname. |
-| 39 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 40 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 41 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 42 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 43 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 44 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 45 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 46 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 47 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 5 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 6 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 7 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 8 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 9 | [العربي المصطفوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b7%d9%81%d9%88%d9%8a) | N/A |
+| 10 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 11 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 12 | [الاصدار الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 13 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 14 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 15 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 16 | [عبدالله الثاني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 17 | [المركبات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 18 | [الحسين بن طلال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
+| 19 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 20 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 21 | [علي قانون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
+| 22 | [الذكري الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
+| 23 | [قاضي القضاه](http://twitter.com/search?q=%d9%82%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%87) | N/A |
+| 24 | [النايب العوايشه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d9%88%d8%a7%d9%8a%d8%b4%d9%87) | N/A |
+| 25 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 26 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
+| 27 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 28 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 29 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | N/A |
+| 30 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 31 | [#يوم_السعاده_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 32 | [الملك الحسين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 33 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 34 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 35 | [وزير عامل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%b9%d8%a7%d9%85%d9%84) | N/A |
+| 36 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 37 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 38 | [القانون الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 39 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 40 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 41 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 42 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
+| 43 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 44 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
+| 45 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 46 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
+| 47 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
 | 48 | [الاتحاد الأوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
 | 49 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
 | 50 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
