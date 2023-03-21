@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-21 12:18:31 UTC`
+📆 Last Updated: `2023-03-21 13:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [CHANYEOL](http://twitter.com/search?q=CHANYEOL) | N/A |
+| 2 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
 | 3 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 4 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
-| 5 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 6 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 7 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
-| 8 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 9 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
-| 10 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 11 | [Kath Arado](http://twitter.com/search?q=Kath+Arado) | N/A |
-| 12 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
-| 13 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 14 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 15 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 16 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 17 | [KAOMIAH PROMEVER](http://twitter.com/search?q=KAOMIAH+PROMEVER) | N/A |
-| 18 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 19 | [One Sports](http://twitter.com/search?q=One+Sports) | N/A |
-| 20 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
-| 21 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 22 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
-| 23 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 24 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
-| 25 | [KARINA STAR MAGIC CONVO](http://twitter.com/search?q=KARINA+STAR+MAGIC+CONVO) | N/A |
-| 26 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 27 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 28 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 29 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
-| 30 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 31 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
-| 32 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 33 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 34 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
-| 35 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
-| 36 | [Cherry Blossom](http://twitter.com/search?q=Cherry+Blossom) | N/A |
-| 37 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 38 | [#문빈_산하](http://twitter.com/search?q=%23%eb%ac%b8%eb%b9%88_%ec%82%b0%ed%95%98) | N/A |
-| 39 | [#2023_MOONBIN_SANHA_FANCON](http://twitter.com/search?q=%232023_MOONBIN_SANHA_FANCON) | N/A |
-| 40 | [#HORI7ON_IGLiveForDASH_D1](http://twitter.com/search?q=%23HORI7ON_IGLiveForDASH_D1) | N/A |
-| 41 | [#DreamChasersPIEBonding](http://twitter.com/search?q=%23DreamChasersPIEBonding) | N/A |
-| 42 | [#DAVIDForUniversalRecords](http://twitter.com/search?q=%23DAVIDForUniversalRecords) | N/A |
-| 43 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
-| 44 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
-| 45 | [#kaswalantayo](http://twitter.com/search?q=%23kaswalantayo) | N/A |
-| 46 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 47 | [#FurFurWeMissYou](http://twitter.com/search?q=%23FurFurWeMissYou) | N/A |
-| 48 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
-| 49 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
+| 4 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 5 | [CHANYEOL](http://twitter.com/search?q=CHANYEOL) | N/A |
+| 6 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 7 | [#DreamChasersPIEBonding](http://twitter.com/search?q=%23DreamChasersPIEBonding) | N/A |
+| 8 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 9 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 10 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
+| 11 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
+| 12 | [RON FOR PIEPOP](http://twitter.com/search?q=RON+FOR+PIEPOP) | N/A |
+| 13 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
+| 14 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 15 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
+| 16 | [Mama Sony](http://twitter.com/search?q=Mama+Sony) | N/A |
+| 17 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 18 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
+| 19 | [Lacsina](http://twitter.com/search?q=Lacsina) | N/A |
+| 20 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
+| 21 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 23 | [KAOMIAH PROMEVER](http://twitter.com/search?q=KAOMIAH+PROMEVER) | N/A |
+| 24 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 25 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 26 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 27 | [kath arado](http://twitter.com/search?q=kath+arado) | N/A |
+| 28 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 29 | [CCS vs F2](http://twitter.com/search?q=CCS+vs+F2) | N/A |
+| 30 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 31 | [One Sports](http://twitter.com/search?q=One+Sports) | N/A |
+| 32 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 33 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 34 | [KARINA STAR MAGIC CONVO](http://twitter.com/search?q=KARINA+STAR+MAGIC+CONVO) | N/A |
+| 35 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
+| 36 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
+| 37 | [xiumin](http://twitter.com/search?q=xiumin) | N/A |
+| 38 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
+| 39 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
+| 40 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 41 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 42 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
+| 43 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
+| 44 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
+| 45 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 46 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 47 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
+| 48 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
+| 49 | [#KNRawnAndrei](http://twitter.com/search?q=%23KNRawnAndrei) | N/A |
 
 
 

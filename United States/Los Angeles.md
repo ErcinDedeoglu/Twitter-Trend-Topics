@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-21 12:18:50 UTC`
+📆 Last Updated: `2023-03-21 13:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 2 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 3 | [#DreamcatcherinLA](http://twitter.com/search?q=%23DreamcatcherinLA) | N/A |
-| 4 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 5 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 8 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 3 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 4 | [#DreamcatcherinLA](http://twitter.com/search?q=%23DreamcatcherinLA) | N/A |
+| 5 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 6 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 8 | [Zach](http://twitter.com/search?q=Zach) | N/A |
 | 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 10 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 11 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 12 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 13 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 14 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 15 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 16 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 17 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 18 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 19 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 20 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 21 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 22 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
-| 23 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 24 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 25 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 26 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 27 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 28 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 29 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 30 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 31 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 32 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 34 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 35 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 36 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 37 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 38 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 39 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
-| 40 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 41 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 42 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 43 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 44 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 45 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 46 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 47 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 48 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 49 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 10 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 11 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 12 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 13 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 15 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
+| 16 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 17 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 18 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 19 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 20 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 21 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 22 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 23 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 24 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 25 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 26 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 27 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
+| 28 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 29 | [Maria Bartiromo](http://twitter.com/search?q=Maria+Bartiromo) | N/A |
+| 30 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 31 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
+| 32 | [uncle buck](http://twitter.com/search?q=uncle+buck) | N/A |
+| 33 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 34 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 35 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 36 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 37 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 38 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
+| 39 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 40 | [Deception](http://twitter.com/search?q=Deception) | N/A |
+| 41 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
+| 42 | [jim acosta](http://twitter.com/search?q=jim+acosta) | N/A |
+| 43 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 44 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 45 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 46 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 47 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 50 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
 
 
 

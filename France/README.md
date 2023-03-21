@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-21 12:18:59 UTC`
+📆 Last Updated: `2023-03-21 13:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 2 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 3 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 4 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 5 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
-| 6 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 7 | [#mapr](http://twitter.com/search?q=%23mapr) | N/A |
-| 8 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 9 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
-| 10 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 11 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 12 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 13 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 14 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 15 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
-| 16 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
-| 17 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
-| 18 | [Linval](http://twitter.com/search?q=Linval) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 21 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 22 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
-| 23 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 24 | [cheminement](http://twitter.com/search?q=cheminement) | N/A |
-| 25 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 26 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 27 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 28 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
-| 29 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
-| 30 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
-| 31 | [18h45](http://twitter.com/search?q=18h45) | N/A |
-| 32 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 33 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 35 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 36 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 37 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 38 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 39 | [Même BFM](http://twitter.com/search?q=M%c3%aame+BFM) | N/A |
-| 40 | [neuf voix](http://twitter.com/search?q=neuf+voix) | N/A |
-| 41 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 42 | [boris vallaud](http://twitter.com/search?q=boris+vallaud) | N/A |
-| 43 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 44 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
-| 45 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 46 | [W-870](http://twitter.com/search?q=W-870) | N/A |
-| 47 | [pour 9](http://twitter.com/search?q=pour+9) | N/A |
-| 48 | [Gotaga](http://twitter.com/search?q=Gotaga) | N/A |
-| 49 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 50 | [fabcaro](http://twitter.com/search?q=fabcaro) | N/A |
+| 1 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 2 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
+| 3 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
+| 4 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 5 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
+| 6 | [riboku](http://twitter.com/search?q=riboku) | N/A |
+| 7 | [Linval](http://twitter.com/search?q=Linval) | N/A |
+| 8 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 9 | [#Trisomie21](http://twitter.com/search?q=%23Trisomie21) | N/A |
+| 10 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
+| 11 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 12 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 13 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
+| 14 | [#FreebetUnibetDOM](http://twitter.com/search?q=%23FreebetUnibetDOM) | N/A |
+| 15 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 16 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
+| 17 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
+| 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 19 | [pascal praud](http://twitter.com/search?q=pascal+praud) | N/A |
+| 20 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 21 | [Inox](http://twitter.com/search?q=Inox) | Inox is short for "inoxidable," which is Spanish for "stainless steel." Inox is a type of steel that is resistant to corrosion and rust, making it a popular choice for kitchen appliances, cutlery, and other items. |
+| 22 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
+| 23 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 24 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 25 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 26 | [Lallement](http://twitter.com/search?q=Lallement) | N/A |
+| 27 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 28 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 29 | [France 2](http://twitter.com/search?q=France+2) | N/A |
+| 30 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 31 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 32 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 33 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 34 | [Mihawk](http://twitter.com/search?q=Mihawk) | N/A |
+| 35 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
+| 36 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 37 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
+| 38 | [64ans](http://twitter.com/search?q=64ans) | N/A |
+| 39 | [#kingdom752](http://twitter.com/search?q=%23kingdom752) | N/A |
+| 40 | [#forêts](http://twitter.com/search?q=%23for%c3%aats) | N/A |
+| 41 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
+| 42 | [#quatennensdemission](http://twitter.com/search?q=%23quatennensdemission) | N/A |
+| 43 | [#entreprise](http://twitter.com/search?q=%23entreprise) | N/A |
+| 44 | [#23mars](http://twitter.com/search?q=%2323mars) | N/A |
+| 45 | [#ggrmc](http://twitter.com/search?q=%23ggrmc) | N/A |
 
 
 

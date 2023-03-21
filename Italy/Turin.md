@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-21 12:18:19 UTC`
+📆 Last Updated: `2023-03-21 13:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
 | 2 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
 | 3 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 4 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
-| 5 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 6 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 7 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 8 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 9 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 10 | [Annunziata](http://twitter.com/search?q=Annunziata) | N/A |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 4 | [#interjuve](http://twitter.com/search?q=%23interjuve) | N/A |
+| 5 | [#QuandoFuori](http://twitter.com/search?q=%23QuandoFuori) | N/A |
+| 6 | [Chri](http://twitter.com/search?q=Chri) | N/A |
+| 7 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 8 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 9 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 10 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 11 | [Annunziata](http://twitter.com/search?q=Annunziata) | N/A |
+| 12 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 13 | [le omg](http://twitter.com/search?q=le+omg) | N/A |
 | 14 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 15 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 16 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
 | 17 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 18 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 19 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 20 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 21 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 22 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
-| 23 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 24 | [Cristallo](http://twitter.com/search?q=Cristallo) | N/A |
-| 25 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 26 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 27 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
-| 28 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 29 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 30 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
-| 31 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 32 | [Crusca](http://twitter.com/search?q=Crusca) | N/A |
-| 33 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 34 | [Casal di Principe](http://twitter.com/search?q=Casal+di+Principe) | N/A |
-| 35 | [Giudice Sportivo](http://twitter.com/search?q=Giudice+Sportivo) | N/A |
-| 36 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
-| 37 | [Cannavacciuolo](http://twitter.com/search?q=Cannavacciuolo) | N/A |
-| 38 | [kostic](http://twitter.com/search?q=kostic) | N/A |
-| 39 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 40 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
-| 41 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
-| 42 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
-| 43 | [Bompiani](http://twitter.com/search?q=Bompiani) | N/A |
-| 44 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
-| 45 | [Pillon](http://twitter.com/search?q=Pillon) | N/A |
-| 46 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
-| 47 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 48 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 49 | [aureliano](http://twitter.com/search?q=aureliano) | N/A |
-| 50 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 18 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 19 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 20 | [giaele](http://twitter.com/search?q=giaele) | N/A |
+| 21 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 22 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 23 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 24 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
+| 25 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 26 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 27 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
+| 28 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 29 | [Giudice Sportivo](http://twitter.com/search?q=Giudice+Sportivo) | N/A |
+| 30 | [Crusca](http://twitter.com/search?q=Crusca) | N/A |
+| 31 | [Livia](http://twitter.com/search?q=Livia) | N/A |
+| 32 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 33 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
+| 34 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 35 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 36 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 37 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
+| 38 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 39 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 40 | [Cannavacciuolo](http://twitter.com/search?q=Cannavacciuolo) | N/A |
+| 41 | [Sindrome di Down](http://twitter.com/search?q=Sindrome+di+Down) | N/A |
+| 42 | [Bompiani](http://twitter.com/search?q=Bompiani) | N/A |
+| 43 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
+| 44 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 45 | [Cristallo](http://twitter.com/search?q=Cristallo) | N/A |
+| 46 | [Marsala](http://twitter.com/search?q=Marsala) | N/A |
+| 47 | [Pietro Mennea](http://twitter.com/search?q=Pietro+Mennea) | N/A |
+| 48 | [Zakaria](http://twitter.com/search?q=Zakaria) | Zakaria is an Arabic name meaning "wise one". It is also a variant of the name Zachariah, which is derived from the Hebrew name Zechariah. |
+| 49 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
+| 50 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
 
 
 

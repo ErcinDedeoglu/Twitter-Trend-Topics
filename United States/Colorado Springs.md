@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-21 12:18:48 UTC`
+📆 Last Updated: `2023-03-21 13:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SkoBuffs](http://twitter.com/search?q=%23SkoBuffs) | N/A |
-| 2 | [#GoBuffs](http://twitter.com/search?q=%23GoBuffs) | N/A |
-| 3 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 6 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 12 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 13 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 14 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 15 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 16 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 17 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 18 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 19 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 20 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
-| 21 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 22 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 23 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 24 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 25 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 26 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 27 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 28 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 29 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 30 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 32 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 33 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 34 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 35 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 36 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 37 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
-| 38 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 39 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 40 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 41 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 42 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 43 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 44 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 45 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 46 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 47 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 49 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 1 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 2 | [#SkoBuffs](http://twitter.com/search?q=%23SkoBuffs) | N/A |
+| 3 | [#gobuffs](http://twitter.com/search?q=%23gobuffs) | N/A |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 6 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 7 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 8 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 9 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 10 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 11 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
+| 12 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 13 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 14 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 15 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 16 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 17 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 18 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 19 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 20 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 21 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 22 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 23 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
+| 24 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 25 | [Maria Bartiromo](http://twitter.com/search?q=Maria+Bartiromo) | N/A |
+| 26 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 27 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
+| 28 | [uncle buck](http://twitter.com/search?q=uncle+buck) | N/A |
+| 29 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 30 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 31 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 32 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 33 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 34 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
+| 35 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 36 | [Deception](http://twitter.com/search?q=Deception) | N/A |
+| 37 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
+| 38 | [jim acosta](http://twitter.com/search?q=jim+acosta) | N/A |
+| 39 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 40 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 41 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 43 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 44 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 45 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 46 | [#BustedOpen](http://twitter.com/search?q=%23BustedOpen) | N/A |
+| 47 | [#IndictmentWatch](http://twitter.com/search?q=%23IndictmentWatch) | N/A |
+| 48 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
+| 49 | [#AgDay23](http://twitter.com/search?q=%23AgDay23) | N/A |
 
 
 
