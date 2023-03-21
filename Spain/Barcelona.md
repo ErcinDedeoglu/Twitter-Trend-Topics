@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-21 10:17:41 UTC`
+📆 Last Updated: `2023-03-21 11:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,38 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 2 | [#MocionDeCensura](http://twitter.com/search?q=%23MocionDeCensura) | N/A |
+| 1 | [#MocionDeCensura](http://twitter.com/search?q=%23MocionDeCensura) | N/A |
+| 2 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
 | 3 | [#MascotasEnLidl](http://twitter.com/search?q=%23MascotasEnLidl) | N/A |
 | 4 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 5 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 6 | [#DíaDeLaPoesía](http://twitter.com/search?q=%23D%c3%adaDeLaPoes%c3%ada) | N/A |
-| 7 | [#NoSomosUnEstereotipo](http://twitter.com/search?q=%23NoSomosUnEstereotipo) | N/A |
-| 8 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 9 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 10 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
-| 11 | [Santi Aldama](http://twitter.com/search?q=Santi+Aldama) | N/A |
-| 12 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
-| 13 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 14 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 15 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
-| 16 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 17 | [Casimiro](http://twitter.com/search?q=Casimiro) | N/A |
-| 18 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
-| 19 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 20 | [#DíaMundialdelSíndromedeDown](http://twitter.com/search?q=%23D%c3%adaMundialdelS%c3%adndromedeDown) | N/A |
-| 21 | [#DíaInternacionaldelosBosques](http://twitter.com/search?q=%23D%c3%adaInternacionaldelosBosques) | N/A |
-| 22 | [#SánchezOElecciones](http://twitter.com/search?q=%23S%c3%a1nchezOElecciones) | N/A |
-| 23 | [#APOYOROCIO21M](http://twitter.com/search?q=%23APOYOROCIO21M) | N/A |
-| 24 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
-| 25 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
-| 26 | [#21demarzo](http://twitter.com/search?q=%2321demarzo) | N/A |
+| 5 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 6 | [#NoSomosUnEstereotipo](http://twitter.com/search?q=%23NoSomosUnEstereotipo) | N/A |
+| 7 | [#DíaMundialDeLaPoesía](http://twitter.com/search?q=%23D%c3%adaMundialDeLaPoes%c3%ada) | N/A |
+| 8 | [#DíaMundialDeLaPoesía](http://twitter.com/search?q=%23D%c3%adaMundialDeLaPoes%c3%ada) | N/A |
+| 9 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 10 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 11 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
+| 12 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 13 | [Santi Aldama](http://twitter.com/search?q=Santi+Aldama) | N/A |
+| 14 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 15 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 16 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 17 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 18 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
+| 19 | [Lopetegui](http://twitter.com/search?q=Lopetegui) | N/A |
+| 20 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 21 | [Federico](http://twitter.com/search?q=Federico) | N/A |
+| 22 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
+| 23 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 24 | [#DíaInternacionaldelosBosques](http://twitter.com/search?q=%23D%c3%adaInternacionaldelosBosques) | N/A |
+| 25 | [#APOYOROCIO21M](http://twitter.com/search?q=%23APOYOROCIO21M) | N/A |
+| 26 | [#CanalRed](http://twitter.com/search?q=%23CanalRed) | N/A |
 | 27 | [#YoMeRebelo21M](http://twitter.com/search?q=%23YoMeRebelo21M) | N/A |
-| 28 | [#Bondia](http://twitter.com/search?q=%23Bondia) | N/A |
+| 28 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
+| 29 | [#21demarzo](http://twitter.com/search?q=%2321demarzo) | N/A |
+| 30 | [#CalcetinesDesparejados](http://twitter.com/search?q=%23CalcetinesDesparejados) | N/A |
+| 31 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
+| 32 | [#inclusion](http://twitter.com/search?q=%23inclusion) | N/A |
 
 
 

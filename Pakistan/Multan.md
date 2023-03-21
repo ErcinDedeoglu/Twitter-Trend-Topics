@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-21 10:18:03 UTC`
+📆 Last Updated: `2023-03-21 11:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
 | 2 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
-| 3 | [#SensodyneSupportSmile](http://twitter.com/search?q=%23SensodyneSupportSmile) | N/A |
+| 3 | [#PM4Youth](http://twitter.com/search?q=%23PM4Youth) | N/A |
 | 4 | [Smile Train](http://twitter.com/search?q=Smile+Train) | N/A |
-| 5 | [Haleon Pakistan](http://twitter.com/search?q=Haleon+Pakistan) | N/A |
+| 5 | [Sensodyne and Paradontax](http://twitter.com/search?q=Sensodyne+and+Paradontax) | N/A |
 | 6 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
 | 7 | [SDG Secretariat](http://twitter.com/search?q=SDG+Secretariat) | N/A |
 | 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 9 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 10 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
-| 11 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 12 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 13 | [Asia Lions](http://twitter.com/search?q=Asia+Lions) | N/A |
-| 14 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 15 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
-| 16 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 17 | [Parliamentarians](http://twitter.com/search?q=Parliamentarians) | N/A |
-| 18 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 19 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 20 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
-| 21 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
-| 22 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 23 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 24 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 25 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 26 | [Navroz Mubarak](http://twitter.com/search?q=Navroz+Mubarak) | N/A |
-| 27 | [Absar Alam](http://twitter.com/search?q=Absar+Alam) | N/A |
-| 28 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 29 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 30 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 31 | [PM Shehbaz Sharif](http://twitter.com/search?q=PM+Shehbaz+Sharif) | N/A |
-| 32 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 33 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 34 | [Eagle](http://twitter.com/search?q=Eagle) | N/A |
-| 35 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
-| 36 | [Muneeb](http://twitter.com/search?q=Muneeb) | N/A |
-| 37 | [Aray](http://twitter.com/search?q=Aray) | N/A |
-| 38 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 39 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 40 | [FATA](http://twitter.com/search?q=FATA) | N/A |
-| 41 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
-| 42 | [Biryani](http://twitter.com/search?q=Biryani) | N/A |
-| 43 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 44 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 45 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 46 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 47 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 48 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
+| 10 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 11 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
+| 12 | [Asia Lions](http://twitter.com/search?q=Asia+Lions) | N/A |
+| 13 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 14 | [Parliamentarians](http://twitter.com/search?q=Parliamentarians) | N/A |
+| 15 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
+| 16 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 17 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 18 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 19 | [Navroz Mubarak](http://twitter.com/search?q=Navroz+Mubarak) | N/A |
+| 20 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 21 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 22 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
+| 23 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
+| 24 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 25 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
+| 26 | [Aray](http://twitter.com/search?q=Aray) | N/A |
+| 27 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 28 | [Bushra](http://twitter.com/search?q=Bushra) | N/A |
+| 29 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 30 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 31 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 32 | [Awam](http://twitter.com/search?q=Awam) | N/A |
+| 33 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 34 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 35 | [Umar](http://twitter.com/search?q=Umar) | Umar is an Arabic name that means "life" or "long-lived". It is also the name of the second Caliph of Islam, Umar ibn al-Khattab. |
+| 36 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 37 | [Biryani](http://twitter.com/search?q=Biryani) | N/A |
+| 38 | [Shukr](http://twitter.com/search?q=Shukr) | N/A |
+| 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 40 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 41 | [Calm](http://twitter.com/search?q=Calm) | N/A |
+| 42 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
+| 43 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 44 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 45 | [WordPress](http://twitter.com/search?q=WordPress) | N/A |
+| 46 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 47 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 48 | [Sadqay](http://twitter.com/search?q=Sadqay) | N/A |
 
 
 

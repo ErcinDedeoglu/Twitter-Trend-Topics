@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-21 10:18:18 UTC`
+📆 Last Updated: `2023-03-21 11:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 1 | [#DreamcatcherinLA](http://twitter.com/search?q=%23DreamcatcherinLA) | N/A |
 | 2 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 3 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 4 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 5 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 6 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 7 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 8 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 9 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 10 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
-| 11 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 12 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 13 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 14 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 15 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 16 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 17 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 20 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
-| 21 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 22 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 23 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 24 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 25 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 26 | [franklin graham](http://twitter.com/search?q=franklin+graham) | N/A |
-| 27 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 28 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 29 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 30 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 31 | [Team Mexico](http://twitter.com/search?q=Team+Mexico) | N/A |
-| 32 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 33 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
+| 3 | [#goKingsgo](http://twitter.com/search?q=%23goKingsgo) | N/A |
+| 4 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 5 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 6 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 7 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 8 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 9 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 10 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 12 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 13 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 14 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
+| 15 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 16 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 17 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 18 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 19 | [Deception](http://twitter.com/search?q=Deception) | N/A |
+| 20 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 21 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 22 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 23 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
+| 24 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
+| 25 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 26 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 27 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 28 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 29 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 30 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 31 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 32 | [Shohei](http://twitter.com/search?q=Shohei) | N/A |
+| 33 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
 | 34 | [Collected](http://twitter.com/search?q=Collected) | N/A |
 | 35 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 36 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
-| 37 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 38 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 39 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 40 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 41 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 42 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 43 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 45 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 46 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 47 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 48 | [Oats](http://twitter.com/search?q=Oats) | N/A |
-| 49 | [Watermelon](http://twitter.com/search?q=Watermelon) | N/A |
+| 36 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 37 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 38 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 39 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 40 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 41 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 42 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 43 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
+| 44 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
+| 45 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 46 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 47 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 48 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-21 10:17:53 UTC`
+📆 Last Updated: `2023-03-21 11:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
-| 2 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
-| 3 | [#FreenBeckyFanBoomCEBU](http://twitter.com/search?q=%23FreenBeckyFanBoomCEBU) | N/A |
-| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 5 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 6 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
-| 7 | [Kath Arado](http://twitter.com/search?q=Kath+Arado) | N/A |
-| 8 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 9 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
-| 10 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
-| 11 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
-| 12 | [KARINA STAR MAGIC CONVO](http://twitter.com/search?q=KARINA+STAR+MAGIC+CONVO) | N/A |
-| 13 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
-| 14 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 15 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
-| 16 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
+| 1 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 3 | [CHANYEOL](http://twitter.com/search?q=CHANYEOL) | N/A |
+| 4 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
+| 5 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
+| 6 | [#HORI7ON_IGLiveForDASH_D1](http://twitter.com/search?q=%23HORI7ON_IGLiveForDASH_D1) | N/A |
+| 7 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 8 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 9 | [Kath Arado](http://twitter.com/search?q=Kath+Arado) | N/A |
+| 10 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
+| 11 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
+| 12 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
+| 13 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
+| 14 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 15 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 16 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
 | 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 18 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
-| 19 | [GENIUS DANCER HYUNJIN](http://twitter.com/search?q=GENIUS+DANCER+HYUNJIN) | N/A |
-| 20 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
-| 21 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
-| 22 | [the write one world premiere](http://twitter.com/search?q=the+write+one+world+premiere) | N/A |
-| 23 | [best wishes ruca](http://twitter.com/search?q=best+wishes+ruca) | N/A |
-| 24 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
-| 25 | [DASH MV TEASER 2](http://twitter.com/search?q=DASH+MV+TEASER+2) | N/A |
-| 26 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
-| 27 | [JENNIE FACE OF CHANEL22](http://twitter.com/search?q=JENNIE+FACE+OF+CHANEL22) | N/A |
-| 28 | [Gineral](http://twitter.com/search?q=Gineral) | N/A |
-| 29 | [dreink your water](http://twitter.com/search?q=dreink+your+water) | N/A |
-| 30 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
-| 31 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 32 | [Petrogazz](http://twitter.com/search?q=Petrogazz) | N/A |
-| 33 | [KAIA SOPHIA CONCEPT TEASER](http://twitter.com/search?q=KAIA+SOPHIA+CONCEPT+TEASER) | N/A |
-| 34 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 35 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 36 | [JEREVI TUESHappiness](http://twitter.com/search?q=JEREVI+TUESHappiness) | N/A |
-| 37 | [Stage 3](http://twitter.com/search?q=Stage+3) | N/A |
-| 38 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 39 | [PhilHealth](http://twitter.com/search?q=PhilHealth) | N/A |
-| 40 | [1MILLION HEARTS FOR HEESEUNG](http://twitter.com/search?q=1MILLION+HEARTS+FOR+HEESEUNG) | N/A |
-| 41 | [Cathay Pacific](http://twitter.com/search?q=Cathay+Pacific) | N/A |
-| 42 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 43 | [Noelle](http://twitter.com/search?q=Noelle) | N/A |
-| 44 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 45 | [LOVESTRUCK CLUB](http://twitter.com/search?q=LOVESTRUCK+CLUB) | N/A |
-| 46 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 47 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
-| 48 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
-| 49 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 18 | [One Sports](http://twitter.com/search?q=One+Sports) | N/A |
+| 19 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
+| 20 | [KARINA STAR MAGIC CONVO](http://twitter.com/search?q=KARINA+STAR+MAGIC+CONVO) | N/A |
+| 21 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 22 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 23 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 24 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
+| 25 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
+| 26 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 27 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
+| 28 | [Noelle](http://twitter.com/search?q=Noelle) | N/A |
+| 29 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
+| 30 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
+| 31 | [Cherry Blossom](http://twitter.com/search?q=Cherry+Blossom) | N/A |
+| 32 | [#2023_MOONBIN_SANHA_FANCON](http://twitter.com/search?q=%232023_MOONBIN_SANHA_FANCON) | N/A |
+| 33 | [#문빈_산하](http://twitter.com/search?q=%23%eb%ac%b8%eb%b9%88_%ec%82%b0%ed%95%98) | N/A |
+| 34 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
+| 35 | [#DAVIDForUniversalRecords](http://twitter.com/search?q=%23DAVIDForUniversalRecords) | N/A |
+| 36 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
+| 37 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
+| 38 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
+| 39 | [#FreenBeckyFanBoomCEBU](http://twitter.com/search?q=%23FreenBeckyFanBoomCEBU) | N/A |
+| 40 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 41 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 42 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
+| 43 | [#SPCAtlas2023MusicFestDay](http://twitter.com/search?q=%23SPCAtlas2023MusicFestDay) | N/A |
+| 44 | [#AKKnightsAndMusics](http://twitter.com/search?q=%23AKKnightsAndMusics) | N/A |
+| 45 | [#BOYCOTTEBxAPTxGMA741](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA741) | N/A |
+| 46 | [#Beatbox_EnglishVer](http://twitter.com/search?q=%23Beatbox_EnglishVer) | N/A |
 
 
 

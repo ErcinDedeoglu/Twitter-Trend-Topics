@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-21 10:18:17 UTC`
+📆 Last Updated: `2023-03-21 11:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 2 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 1 | [#goKingsgo](http://twitter.com/search?q=%23goKingsgo) | N/A |
+| 2 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
 | 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 4 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 5 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 7 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 8 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 9 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
-| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 13 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 14 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 16 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 19 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 20 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
-| 21 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 22 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
-| 23 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 24 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 25 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 26 | [franklin graham](http://twitter.com/search?q=franklin+graham) | N/A |
-| 27 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 28 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 29 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 30 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 31 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 32 | [Team Mexico](http://twitter.com/search?q=Team+Mexico) | N/A |
-| 33 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 34 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
-| 35 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 36 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 37 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
-| 38 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 39 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 41 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 42 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 43 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 44 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 45 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 46 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 47 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 48 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 9 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 10 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 12 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 13 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 14 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 15 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 16 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 17 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 18 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 19 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 20 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 21 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 24 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 25 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 26 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 27 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
+| 28 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 29 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 30 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 32 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 34 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 35 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
+| 36 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 37 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 38 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 39 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 40 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 41 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 42 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 43 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 44 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 45 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 46 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 47 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 48 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
 
 
 

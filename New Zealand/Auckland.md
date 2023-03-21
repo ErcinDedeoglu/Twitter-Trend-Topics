@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-21 10:18:09 UTC`
+📆 Last Updated: `2023-03-21 11:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 8 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 9 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
 | 10 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 11 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 12 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 13 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 14 | [andrew kirton](http://twitter.com/search?q=andrew+kirton) | N/A |
-| 15 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 16 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
-| 17 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 11 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 12 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 13 | [andrew kirton](http://twitter.com/search?q=andrew+kirton) | N/A |
+| 14 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 15 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
+| 16 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 17 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 18 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
 | 19 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 20 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
@@ -40,20 +40,20 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 23 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
 | 24 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
 | 25 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
-| 26 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 27 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
-| 28 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 29 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 26 | [terfs](http://twitter.com/search?q=terfs) | N/A |
+| 27 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 28 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
+| 29 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 30 | [pharmac](http://twitter.com/search?q=pharmac) | N/A |
 | 31 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 32 | [Apologies](http://twitter.com/search?q=Apologies) | N/A |
 | 33 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 34 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
-| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 36 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 37 | [#CricketNation](http://twitter.com/search?q=%23CricketNation) | N/A |
-| 38 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 39 | [Corner Store](http://twitter.com/search?q=Corner+Store) | N/A |
+| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 36 | [#cricketnation](http://twitter.com/search?q=%23cricketnation) | N/A |
+| 37 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [corner store](http://twitter.com/search?q=corner+store) | N/A |
 | 40 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 41 | [david cormack](http://twitter.com/search?q=david+cormack) | N/A |
 | 42 | [Greg](http://twitter.com/search?q=Greg) | N/A |

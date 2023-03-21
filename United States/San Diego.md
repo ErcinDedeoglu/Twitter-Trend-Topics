@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-21 10:18:18 UTC`
+📆 Last Updated: `2023-03-21 11:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 2 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 4 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 5 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
-| 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 7 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 8 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 9 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
-| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 13 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 14 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 16 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 17 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 20 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 21 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
-| 22 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 23 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
-| 24 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 25 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 26 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 27 | [franklin graham](http://twitter.com/search?q=franklin+graham) | N/A |
-| 28 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 29 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 30 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 31 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 32 | [Team Mexico](http://twitter.com/search?q=Team+Mexico) | N/A |
-| 33 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 34 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
-| 35 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 36 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 37 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
-| 38 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 1 | [#DreamcatcherinLA](http://twitter.com/search?q=%23DreamcatcherinLA) | N/A |
+| 2 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 3 | [#goKingsgo](http://twitter.com/search?q=%23goKingsgo) | N/A |
+| 4 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 7 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 8 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 9 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 10 | [World Baseball Classic](http://twitter.com/search?q=World+Baseball+Classic) | N/A |
+| 11 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 12 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 14 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 15 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 16 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
+| 17 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 18 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 19 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 20 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 21 | [Deception](http://twitter.com/search?q=Deception) | N/A |
+| 22 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 23 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 24 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 25 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
+| 26 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
+| 27 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 28 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 29 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 30 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 31 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 32 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 33 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 34 | [Shohei](http://twitter.com/search?q=Shohei) | N/A |
+| 35 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 36 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 37 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 38 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
 | 39 | [Barron](http://twitter.com/search?q=Barron) | N/A |
 | 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 41 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 42 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 43 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 44 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 45 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 46 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 47 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 48 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 49 | [Oats](http://twitter.com/search?q=Oats) | N/A |
-| 50 | [Watermelon](http://twitter.com/search?q=Watermelon) | N/A |
+| 41 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 42 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 43 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
+| 44 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
+| 45 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 46 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 47 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 48 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
+| 49 | [#IndictmentWatch](http://twitter.com/search?q=%23IndictmentWatch) | N/A |
+| 50 | [#MorningJoe](http://twitter.com/search?q=%23MorningJoe) | N/A |
 
 
 

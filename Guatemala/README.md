@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-21 10:18:23 UTC`
+📆 Last Updated: `2023-03-21 11:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,26 +25,26 @@ This is top 50 for Guatemala
 | 8 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
 | 9 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 10 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 11 | [zury](http://twitter.com/search?q=zury) | N/A |
-| 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 13 | [FECI](http://twitter.com/search?q=FECI) | N/A |
-| 14 | [mario lópez](http://twitter.com/search?q=mario+l%c3%b3pez) | N/A |
-| 15 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 19 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 20 | [lulis](http://twitter.com/search?q=lulis) | N/A |
-| 21 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 22 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 23 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 25 | [cacif](http://twitter.com/search?q=cacif) | N/A |
-| 26 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
-| 27 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 28 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
-| 29 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 30 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
+| 11 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 12 | [Feci](http://twitter.com/search?q=Feci) | N/A |
+| 13 | [mario lópez](http://twitter.com/search?q=mario+l%c3%b3pez) | N/A |
+| 14 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 18 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 19 | [lulis](http://twitter.com/search?q=lulis) | N/A |
+| 20 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 21 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 22 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 24 | [cacif](http://twitter.com/search?q=cacif) | N/A |
+| 25 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
+| 26 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 27 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
+| 28 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 29 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
+| 30 | [Zury](http://twitter.com/search?q=Zury) | N/A |
 | 31 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 32 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
 | 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
@@ -62,9 +62,9 @@ This is top 50 for Guatemala
 | 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 47 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 48 | [Zacapa](http://twitter.com/search?q=Zacapa) | N/A |
-| 49 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 50 | [Huehuetenango](http://twitter.com/search?q=Huehuetenango) | N/A |
+| 48 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 49 | [huehuetenango](http://twitter.com/search?q=huehuetenango) | N/A |
+| 50 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 
 
 
