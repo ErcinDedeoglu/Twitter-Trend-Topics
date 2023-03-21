@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-20 23:17:51 UTC`
+📆 Last Updated: `2023-03-21 00:28:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Denmark
 | 3 | [Bælum](http://twitter.com/search?q=B%c3%a6lum) | N/A |
 | 4 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 5 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
-| 6 | [Mads Hermansen](http://twitter.com/search?q=Mads+Hermansen) | N/A |
+| 6 | [mads hermansen](http://twitter.com/search?q=mads+hermansen) | N/A |
 | 7 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 8 | [#SuperAaB](http://twitter.com/search?q=%23SuperAaB) | N/A |
 | 9 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
@@ -43,15 +43,15 @@ This is top 50 for Denmark
 | 26 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
 | 27 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 28 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 29 | [Nordsjælland](http://twitter.com/search?q=Nordsj%c3%a6lland) | N/A |
+| 29 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
 | 30 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 31 | [Vavro](http://twitter.com/search?q=Vavro) | N/A |
+| 31 | [vavro](http://twitter.com/search?q=vavro) | N/A |
 | 32 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 33 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 34 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
-| 35 | [Putros](http://twitter.com/search?q=Putros) | N/A |
+| 35 | [putros](http://twitter.com/search?q=putros) | N/A |
 | 36 | [Farum](http://twitter.com/search?q=Farum) | N/A |
-| 37 | [Diks](http://twitter.com/search?q=Diks) | N/A |
+| 37 | [diks](http://twitter.com/search?q=diks) | N/A |
 | 38 | [winther](http://twitter.com/search?q=winther) | N/A |
 | 39 | [Svend](http://twitter.com/search?q=Svend) | N/A |
 | 40 | [Irak](http://twitter.com/search?q=Irak) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Denmark
 | 43 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 44 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
 | 45 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
-| 46 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 47 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
-| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 46 | [Steinlein](http://twitter.com/search?q=Steinlein) | N/A |
+| 47 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 48 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
 | 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 50 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 50 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 
 
 

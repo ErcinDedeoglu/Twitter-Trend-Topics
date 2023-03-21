@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-20 23:17:05 UTC`
+📆 Last Updated: `2023-03-21 00:27:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 2 | [Tailândia](http://twitter.com/search?q=Tail%c3%a2ndia) | N/A |
-| 3 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 4 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 5 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
-| 6 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
-| 7 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 8 | [Alberto Youssef](http://twitter.com/search?q=Alberto+Youssef) | N/A |
-| 9 | [#OuçaCasacoDaNorthFace](http://twitter.com/search?q=%23Ou%c3%a7aCasacoDaNorthFace) | N/A |
-| 10 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 11 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 12 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
-| 13 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 14 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 15 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 16 | [PARABENS BIEL](http://twitter.com/search?q=PARABENS+BIEL) | N/A |
-| 17 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 18 | [Camila Queiroz](http://twitter.com/search?q=Camila+Queiroz) | N/A |
-| 19 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 20 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
-| 21 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 22 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 23 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 24 | [Carmen Miranda](http://twitter.com/search?q=Carmen+Miranda) | N/A |
-| 25 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 26 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 27 | [#ApoiemAposentados](http://twitter.com/search?q=%23ApoiemAposentados) | N/A |
-| 28 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 29 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 30 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 31 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 32 | [Thiago Lacerda](http://twitter.com/search?q=Thiago+Lacerda) | N/A |
-| 33 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
-| 34 | [Sartre](http://twitter.com/search?q=Sartre) | N/A |
-| 35 | [Shoppe](http://twitter.com/search?q=Shoppe) | N/A |
-| 36 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 37 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
-| 38 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
-| 39 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 40 | [Max Martin](http://twitter.com/search?q=Max+Martin) | N/A |
-| 41 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 42 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 43 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
-| 44 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 45 | [A Queda](http://twitter.com/search?q=A+Queda) | N/A |
-| 46 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 47 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 48 | [Barba Negra](http://twitter.com/search?q=Barba+Negra) | N/A |
-| 49 | [Baphomet](http://twitter.com/search?q=Baphomet) | N/A |
-| 50 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 2 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 3 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 4 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
+| 5 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 6 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 7 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 8 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 9 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 10 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
+| 11 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 12 | [LANÇAMENTO RANCOROSA](http://twitter.com/search?q=LAN%c3%87AMENTO+RANCOROSA) | N/A |
+| 13 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 14 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 15 | [Renata Vasconcellos](http://twitter.com/search?q=Renata+Vasconcellos) | N/A |
+| 16 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
+| 17 | [Alberto Youssef](http://twitter.com/search?q=Alberto+Youssef) | N/A |
+| 18 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
+| 19 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 20 | [Mandetta](http://twitter.com/search?q=Mandetta) | N/A |
+| 21 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 22 | [#SelfiesPraAmarVocê](http://twitter.com/search?q=%23SelfiesPraAmarVoc%c3%aa) | N/A |
+| 23 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 24 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 25 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 26 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 27 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 28 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 29 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
+| 30 | [Emílio Dantas](http://twitter.com/search?q=Em%c3%adlio+Dantas) | N/A |
+| 31 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
+| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 33 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 34 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 35 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
+| 36 | [Nobel de Economia](http://twitter.com/search?q=Nobel+de+Economia) | N/A |
+| 37 | [Carmen Miranda](http://twitter.com/search?q=Carmen+Miranda) | N/A |
+| 38 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
+| 39 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 40 | [Camila Queiroz](http://twitter.com/search?q=Camila+Queiroz) | N/A |
+| 41 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 42 | [Thiago Lacerda](http://twitter.com/search?q=Thiago+Lacerda) | N/A |
+| 43 | [Joseph Stiglitz](http://twitter.com/search?q=Joseph+Stiglitz) | N/A |
+| 44 | [PARABENS BIEL](http://twitter.com/search?q=PARABENS+BIEL) | N/A |
+| 45 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
+| 46 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 47 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 48 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
+| 49 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 50 | [Votando](http://twitter.com/search?q=Votando) | N/A |
 
 
 

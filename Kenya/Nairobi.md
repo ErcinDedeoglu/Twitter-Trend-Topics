@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-20 23:17:28 UTC`
+📆 Last Updated: `2023-03-21 00:28:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,30 +21,30 @@ This is top 50 for [Kenya](</Kenya>)
 | 4 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
 | 5 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 6 | [#ARSCRY](http://twitter.com/search?q=%23ARSCRY) | N/A |
-| 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 8 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 7 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 8 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 9 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 10 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 | 11 | [KICC](http://twitter.com/search?q=KICC) | N/A |
 | 12 | [Serena](http://twitter.com/search?q=Serena) | N/A |
 | 13 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
 | 14 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 15 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 16 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
+| 15 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
+| 16 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
 | 17 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
 | 18 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 19 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 20 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 19 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 20 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
 | 21 | [State House](http://twitter.com/search?q=State+House) | N/A |
-| 22 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 23 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
 | 24 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 25 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Returning](http://twitter.com/search?q=Returning) | N/A |
-| 28 | [Gichugu](http://twitter.com/search?q=Gichugu) | N/A |
-| 29 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 30 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Returning](http://twitter.com/search?q=Returning) | N/A |
+| 27 | [gichugu](http://twitter.com/search?q=gichugu) | N/A |
+| 28 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 29 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 30 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
 | 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 32 | [stewart madzayo](http://twitter.com/search?q=stewart+madzayo) | N/A |
 | 33 | [Teargas](http://twitter.com/search?q=Teargas) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Kenya](</Kenya>)
 | 39 | [Coward](http://twitter.com/search?q=Coward) | N/A |
 | 40 | [Jacaranda](http://twitter.com/search?q=Jacaranda) | N/A |
 | 41 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 42 | [junet](http://twitter.com/search?q=junet) | N/A |
-| 43 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 44 | [Juja Road](http://twitter.com/search?q=Juja+Road) | N/A |
-| 45 | [Wewe](http://twitter.com/search?q=Wewe) | N/A |
-| 46 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
-| 47 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 48 | [Unga](http://twitter.com/search?q=Unga) | N/A |
-| 49 | [kenya airways](http://twitter.com/search?q=kenya+airways) | N/A |
-| 50 | [kamukunji](http://twitter.com/search?q=kamukunji) | N/A |
+| 42 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
+| 43 | [junet](http://twitter.com/search?q=junet) | N/A |
+| 44 | [juja road](http://twitter.com/search?q=juja+road) | N/A |
+| 45 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
+| 46 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 47 | [kenya airways](http://twitter.com/search?q=kenya+airways) | N/A |
+| 48 | [kamukunji](http://twitter.com/search?q=kamukunji) | N/A |
+| 49 | [Wewe](http://twitter.com/search?q=Wewe) | N/A |
+| 50 | [kebs](http://twitter.com/search?q=kebs) | N/A |
 
 
 

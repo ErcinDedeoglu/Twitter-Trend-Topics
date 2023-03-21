@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-20 23:17:48 UTC`
+📆 Last Updated: `2023-03-21 00:28:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 2 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
-| 3 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 6 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 8 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 9 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 11 | [Manhattan DA](http://twitter.com/search?q=Manhattan+DA) | N/A |
-| 12 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 13 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 14 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 15 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 16 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 17 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 18 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 19 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 20 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
-| 21 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
-| 22 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 23 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 24 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 25 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
-| 26 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 27 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 28 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 29 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 30 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
-| 31 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
-| 32 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 33 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 34 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 35 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 36 | [Adrianza](http://twitter.com/search?q=Adrianza) | N/A |
-| 37 | [Justin Evans](http://twitter.com/search?q=Justin+Evans) | N/A |
-| 38 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 39 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
-| 40 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 42 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 43 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
-| 44 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 1 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 2 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 3 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 4 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 5 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 6 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
+| 7 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 8 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 11 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 12 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 13 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 15 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 16 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 17 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 18 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 19 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 20 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 21 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 22 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
+| 23 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 24 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 25 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 26 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 27 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 28 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 29 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 30 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 31 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 32 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 33 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 34 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 35 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 36 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 37 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 38 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 39 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 40 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 41 | [3-0 Mexico](http://twitter.com/search?q=3-0+Mexico) | N/A |
+| 42 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 43 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
+| 44 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
 | 45 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
-| 46 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 47 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 48 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 49 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 46 | [Josh Dobbs](http://twitter.com/search?q=Josh+Dobbs) | N/A |
+| 47 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 48 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 49 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-03-20 23:17:19 UTC`
+📆 Last Updated: `2023-03-21 00:28:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WBC準決勝](http://twitter.com/search?q=%23WBC%e6%ba%96%e6%b1%ba%e5%8b%9d) | N/A |
-| 2 | [#WBC準決勝](http://twitter.com/search?q=%23WBC%e6%ba%96%e6%b1%ba%e5%8b%9d) | N/A |
-| 3 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
-| 4 | [春分の日](http://twitter.com/search?q=%e6%98%a5%e5%88%86%e3%81%ae%e6%97%a5) | N/A |
-| 5 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 6 | [#ファブリーズ](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%96%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 7 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
-| 8 | [#ローソンニーアオートマタ](http://twitter.com/search?q=%23%e3%83%ad%e3%83%bc%e3%82%bd%e3%83%b3%e3%83%8b%e3%83%bc%e3%82%a2%e3%82%aa%e3%83%bc%e3%83%88%e3%83%9e%e3%82%bf) | N/A |
-| 9 | [朗希くん](http://twitter.com/search?q=%e6%9c%97%e5%b8%8c%e3%81%8f%e3%82%93) | 朗希くん is a character from the Japanese manga series, "Kimi no Na wa". His name translates to "Langxi" in English. He is a mysterious figure who appears in the story and helps the protagonist, Mitsuha, on her journey. |
-| 10 | [ニッポン](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
-| 11 | [中居くん](http://twitter.com/search?q=%e4%b8%ad%e5%b1%85%e3%81%8f%e3%82%93) | 中居くん is a nickname for Japanese actor and singer Masaki Nishikino. It is a combination of his given name, Masaki, and the Japanese honorific suffix “-kun” which is used to refer to young boys or close friends. In English, it can be translated as “Masaki-kun”. |
-| 12 | [きゃりーちゃん](http://twitter.com/search?q=%e3%81%8d%e3%82%83%e3%82%8a%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 13 | [ムーチョ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%81%e3%83%a7) | N/A |
-| 14 | [野球の時間](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e6%99%82%e9%96%93) | N/A |
-| 15 | [最強開運日](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e9%96%8b%e9%81%8b%e6%97%a5) | 最強開運日 is a Japanese term that literally translates to "strongest luck day". It is a day of the year when people believe that their luck will be at its peak and they can expect good fortune. |
-| 16 | [松坂大輔](http://twitter.com/search?q=%e6%9d%be%e5%9d%82%e5%a4%a7%e8%bc%94) | N/A |
-| 17 | [令和の怪物](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c%e3%81%ae%e6%80%aa%e7%89%a9) | N/A |
-| 18 | [試合開始](http://twitter.com/search?q=%e8%a9%a6%e5%90%88%e9%96%8b%e5%a7%8b) | N/A |
-| 19 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
-| 20 | [祝日出勤](http://twitter.com/search?q=%e7%a5%9d%e6%97%a5%e5%87%ba%e5%8b%a4) | N/A |
-| 21 | [哲人スタメン](http://twitter.com/search?q=%e5%93%b2%e4%ba%ba%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 22 | [杉本健勇](http://twitter.com/search?q=%e6%9d%89%e6%9c%ac%e5%81%a5%e5%8b%87) | N/A |
-| 23 | [平成の怪物](http://twitter.com/search?q=%e5%b9%b3%e6%88%90%e3%81%ae%e6%80%aa%e7%89%a9) | N/A |
-| 24 | [山田スタメン](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 25 | [野球のため](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
-| 26 | [佐々木くん](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 27 | [#おは戦50321mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650321mk) | N/A |
-| 28 | [トリプル開運日](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ab%e9%96%8b%e9%81%8b%e6%97%a5) | N/A |
-| 29 | [最幸の日](http://twitter.com/search?q=%e6%9c%80%e5%b9%b8%e3%81%ae%e6%97%a5) | N/A |
-| 30 | [万能ストライカー](http://twitter.com/search?q=%e4%b8%87%e8%83%bd%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%ab%e3%83%bc) | N/A |
-| 31 | [宇宙元旦](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e5%85%83%e6%97%a6) | N/A |
-| 32 | [日本応援](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%bf%9c%e6%8f%b4) | N/A |
-| 33 | [新八犬伝](http://twitter.com/search?q=%e6%96%b0%e5%85%ab%e7%8a%ac%e4%bc%9d) | N/A |
-| 34 | [足元の技術](http://twitter.com/search?q=%e8%b6%b3%e5%85%83%e3%81%ae%e6%8a%80%e8%a1%93) | N/A |
-| 35 | [中村悠平](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%82%a0%e5%b9%b3) | N/A |
-| 36 | [松坂さん](http://twitter.com/search?q=%e6%9d%be%e5%9d%82%e3%81%95%e3%82%93) | N/A |
-| 37 | [松坂の始球式](http://twitter.com/search?q=%e6%9d%be%e5%9d%82%e3%81%ae%e5%a7%8b%e7%90%83%e5%bc%8f) | N/A |
-| 38 | [休日ダイヤ](http://twitter.com/search?q=%e4%bc%91%e6%97%a5%e3%83%80%e3%82%a4%e3%83%a4) | N/A |
-| 39 | [キャッチャー中村](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc%e4%b8%ad%e6%9d%91) | N/A |
-| 40 | [侍ジャパン応援](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e5%bf%9c%e6%8f%b4) | N/A |
-| 41 | [始球式松坂](http://twitter.com/search?q=%e5%a7%8b%e7%90%83%e5%bc%8f%e6%9d%be%e5%9d%82) | N/A |
-| 42 | [第424回](http://twitter.com/search?q=%e7%ac%ac424%e5%9b%9e) | N/A |
-| 43 | [見聞色の覇気](http://twitter.com/search?q=%e8%a6%8b%e8%81%9e%e8%89%b2%e3%81%ae%e8%a6%87%e6%b0%97) | N/A |
-| 44 | [ヤクルト勢](http://twitter.com/search?q=%e3%83%a4%e3%82%af%e3%83%ab%e3%83%88%e5%8b%a2) | N/A |
-| 45 | [葉山くん](http://twitter.com/search?q=%e8%91%89%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
-| 46 | [覇王色の覇気](http://twitter.com/search?q=%e8%a6%87%e7%8e%8b%e8%89%b2%e3%81%ae%e8%a6%87%e6%b0%97) | N/A |
-| 47 | [アジフライの日](http://twitter.com/search?q=%e3%82%a2%e3%82%b8%e3%83%95%e3%83%a9%e3%82%a4%e3%81%ae%e6%97%a5) | N/A |
-| 48 | [ちいかわ診断](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e8%a8%ba%e6%96%ad) | N/A |
-| 49 | [悪魔の実](http://twitter.com/search?q=%e6%82%aa%e9%ad%94%e3%81%ae%e5%ae%9f) | N/A |
-| 50 | [武装色の覇気](http://twitter.com/search?q=%e6%ad%a6%e8%a3%85%e8%89%b2%e3%81%ae%e8%a6%87%e6%b0%97) | N/A |
+| 1 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
+| 2 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
+| 3 | [#chibalotte](http://twitter.com/search?q=%23chibalotte) | N/A |
+| 4 | [マイアミ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%a2%e3%83%9f) | N/A |
+| 5 | [ピッチング](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
+| 6 | [マウンド](http://twitter.com/search?q=%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%89) | N/A |
+| 7 | [ロッテファン](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%83%86%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 8 | [キレッキレ](http://twitter.com/search?q=%e3%82%ad%e3%83%ac%e3%83%83%e3%82%ad%e3%83%ac) | N/A |
+| 9 | [大丈夫大丈夫](http://twitter.com/search?q=%e5%a4%a7%e4%b8%88%e5%a4%ab%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 10 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 11 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 12 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
+| 13 | [at the](http://twitter.com/search?q=at+the) | N/A |
+| 14 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
+| 15 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
+| 16 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
+| 17 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
+| 18 | [フォーク](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af) | N/A |
+| 19 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 20 | [立ち上がり](http://twitter.com/search?q=%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%8c%e3%82%8a) | N/A |
+| 21 | [マエケン](http://twitter.com/search?q=%e3%83%9e%e3%82%a8%e3%82%b1%e3%83%b3) | N/A |
+| 22 | [ブルペン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%9a%e3%83%b3) | N/A |
+| 23 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
+| 24 | [春分の日](http://twitter.com/search?q=%e6%98%a5%e5%88%86%e3%81%ae%e6%97%a5) | N/A |
+| 25 | [佐々木くん](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 26 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 27 | [メジャーリーガー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%aa%e3%83%bc%e3%82%ac%e3%83%bc) | N/A |
+| 28 | [佐々木投手](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%8a%95%e6%89%8b) | N/A |
+| 29 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
+| 30 | [シュート回転](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88%e5%9b%9e%e8%bb%a2) | N/A |
+| 31 | [左バッター](http://twitter.com/search?q=%e5%b7%a6%e3%83%90%e3%83%83%e3%82%bf%e3%83%bc) | N/A |
+| 32 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
+| 33 | [ダブルプレー](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
+| 34 | [メネセス](http://twitter.com/search?q=%e3%83%a1%e3%83%8d%e3%82%bb%e3%82%b9) | N/A |
+| 35 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 36 | [三者凡退](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e5%87%a1%e9%80%80) | N/A |
+| 37 | [やまーだ](http://twitter.com/search?q=%e3%82%84%e3%81%be%e3%83%bc%e3%81%a0) | N/A |
+| 38 | [一粒万倍日](http://twitter.com/search?q=%e4%b8%80%e7%b2%92%e4%b8%87%e5%80%8d%e6%97%a5) | 一粒万倍日 (Ichi-ryuu Manbai-nichi) is a Japanese proverb that means “one grain of rice can become ten thousand grains”. It is used to express the idea that small efforts can lead to great rewards. |
+| 39 | [髙橋宏斗](http://twitter.com/search?q=%e9%ab%99%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
+| 40 | [ポテンヒット](http://twitter.com/search?q=%e3%83%9d%e3%83%86%e3%83%b3%e3%83%92%e3%83%83%e3%83%88) | N/A |
+| 41 | [ニッポン](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
+| 42 | [高橋宏斗](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
+| 43 | [ツーアウト](http://twitter.com/search?q=%e3%83%84%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
+| 44 | [アンラッキー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a9%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
+| 45 | [球数投げ](http://twitter.com/search?q=%e7%90%83%e6%95%b0%e6%8a%95%e3%81%92) | N/A |
+| 46 | [三者三振](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e4%b8%89%e6%8c%af) | N/A |
+| 47 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 48 | [空振り三振](http://twitter.com/search?q=%e7%a9%ba%e6%8c%af%e3%82%8a%e4%b8%89%e6%8c%af) | N/A |
+| 49 | [三者連続三振](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e9%80%a3%e7%b6%9a%e4%b8%89%e6%8c%af) | N/A |
+| 50 | [ムーチョ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%81%e3%83%a7) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-20 23:17:34 UTC`
+📆 Last Updated: `2023-03-21 00:28:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 7 | [Deleted](http://twitter.com/search?q=Deleted) | N/A |
 | 8 | [Asia Lions](http://twitter.com/search?q=Asia+Lions) | N/A |
-| 9 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
+| 9 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
 | 10 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
 | 11 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
 | 12 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 13 | [danish taimoor](http://twitter.com/search?q=danish+taimoor) | N/A |
-| 14 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 15 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 16 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 17 | [Ijaz](http://twitter.com/search?q=Ijaz) | N/A |
-| 18 | [shield fluoride toothpaste](http://twitter.com/search?q=shield+fluoride+toothpaste) | N/A |
-| 19 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 20 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 21 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 22 | [aghosh homes](http://twitter.com/search?q=aghosh+homes) | N/A |
-| 23 | [Squeaky](http://twitter.com/search?q=Squeaky) | N/A |
-| 24 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 25 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 26 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
-| 27 | [Mishi](http://twitter.com/search?q=Mishi) | N/A |
-| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 29 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
-| 30 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 31 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 32 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 33 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 34 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 35 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 36 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
-| 37 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 38 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
-| 39 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 40 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 41 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
-| 42 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 43 | [Wesy](http://twitter.com/search?q=Wesy) | N/A |
-| 44 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 46 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
-| 47 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 48 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 13 | [Ijaz](http://twitter.com/search?q=Ijaz) | N/A |
+| 14 | [shield fluoride toothpaste](http://twitter.com/search?q=shield+fluoride+toothpaste) | N/A |
+| 15 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 16 | [Chips](http://twitter.com/search?q=Chips) | N/A |
+| 17 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 18 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 19 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 20 | [aghosh homes](http://twitter.com/search?q=aghosh+homes) | N/A |
+| 21 | [Squeaky](http://twitter.com/search?q=Squeaky) | N/A |
+| 22 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
+| 23 | [Mishi](http://twitter.com/search?q=Mishi) | N/A |
+| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 25 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
+| 26 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 27 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 28 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 29 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 31 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 32 | [Wdym](http://twitter.com/search?q=Wdym) | N/A |
+| 33 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 34 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 36 | [Come DM](http://twitter.com/search?q=Come+DM) | N/A |
+| 37 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 38 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 39 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
+| 40 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 41 | [Professional](http://twitter.com/search?q=Professional) | N/A |
+| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 43 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
+| 44 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 45 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 46 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 47 | [Wesy](http://twitter.com/search?q=Wesy) | N/A |
+| 48 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 49 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 
 
 

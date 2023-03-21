@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-03-20 23:17:58 UTC`
+📆 Last Updated: `2023-03-21 00:28:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United States
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 3 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 4 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 5 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 6 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 7 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 8 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 9 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
-| 10 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
-| 11 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 12 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 13 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 14 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 15 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 16 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
-| 17 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 18 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 19 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 20 | [#ImNotHidingImAvoiding](http://twitter.com/search?q=%23ImNotHidingImAvoiding) | N/A |
-| 21 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 22 | [#IReallyWantToBringBack](http://twitter.com/search?q=%23IReallyWantToBringBack) | N/A |
-| 23 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
-| 24 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
-| 25 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 26 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 27 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 28 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 29 | [Adrianza](http://twitter.com/search?q=Adrianza) | N/A |
-| 30 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 31 | [Justin Evans](http://twitter.com/search?q=Justin+Evans) | N/A |
-| 32 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 33 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
-| 34 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 35 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 36 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 37 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 38 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
-| 39 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 40 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
-| 41 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 42 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 43 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 44 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 45 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 46 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 47 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 48 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
-| 49 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 50 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 3 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 4 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 5 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 6 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 7 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
+| 8 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 9 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 10 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 11 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 12 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 13 | [#BlindGuess](http://twitter.com/search?q=%23BlindGuess) | N/A |
+| 14 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 15 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 16 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 17 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 18 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 19 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 20 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
+| 21 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 22 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 23 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 24 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 25 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 26 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 27 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 28 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 29 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 30 | [3-0 Mexico](http://twitter.com/search?q=3-0+Mexico) | N/A |
+| 31 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 32 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
+| 33 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
+| 34 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
+| 35 | [Josh Dobbs](http://twitter.com/search?q=Josh+Dobbs) | N/A |
+| 36 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 37 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 38 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
+| 39 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 40 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
+| 41 | [Oats](http://twitter.com/search?q=Oats) | N/A |
+| 42 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
+| 43 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
+| 44 | [KO and Sami](http://twitter.com/search?q=KO+and+Sami) | N/A |
+| 45 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 46 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 47 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
+| 48 | [James Cook](http://twitter.com/search?q=James+Cook) | James Cook was an English explorer, navigator, and cartographer who made three voyages to the Pacific Ocean during the 18th century. He is credited with the first European contact with the eastern coastline of Australia and Hawaii, as well as the first circumnavigation of New Zealand. Cook's voyages greatly increased knowledge of the Pacific Ocean and its islands, and he is remembered for his contributions to science, navigation, and cartography. |
+| 49 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 50 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
 
 
 

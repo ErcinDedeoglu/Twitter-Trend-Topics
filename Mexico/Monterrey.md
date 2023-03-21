@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-20 23:16:59 UTC`
+📆 Last Updated: `2023-03-21 00:27:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 2 | [Vamos México](http://twitter.com/search?q=Vamos+M%c3%a9xico) | N/A |
-| 3 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 6 | [#DíaInternacionalDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLaFelicidad) | N/A |
-| 7 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 8 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 9 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 10 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
-| 11 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 12 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 13 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 14 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 16 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 17 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 18 | [Quemar](http://twitter.com/search?q=Quemar) | N/A |
-| 19 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 20 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 21 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 22 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 23 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 24 | [Vive Latino](http://twitter.com/search?q=Vive+Latino) | N/A |
-| 25 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 26 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
-| 27 | [HAPPY SANHA DAY](http://twitter.com/search?q=HAPPY+SANHA+DAY) | N/A |
-| 28 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 29 | [Dalton Schultz](http://twitter.com/search?q=Dalton+Schultz) | N/A |
-| 30 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 31 | [Suelto](http://twitter.com/search?q=Suelto) | N/A |
-| 32 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
-| 33 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 34 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 35 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 36 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 37 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 38 | [Marcelo Ebrard](http://twitter.com/search?q=Marcelo+Ebrard) | N/A |
-| 39 | [Acarreados](http://twitter.com/search?q=Acarreados) | N/A |
-| 40 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 41 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 42 | [Violencia](http://twitter.com/search?q=Violencia) | N/A |
-| 43 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 44 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 45 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
-| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 47 | [Marvel Studios](http://twitter.com/search?q=Marvel+Studios) | N/A |
-| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 49 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
-| 50 | [Brandon Jovany](http://twitter.com/search?q=Brandon+Jovany) | N/A |
+| 3 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
+| 4 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
+| 5 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 7 | [Patrick Sandoval](http://twitter.com/search?q=Patrick+Sandoval) | N/A |
+| 8 | [Home Run](http://twitter.com/search?q=Home+Run) | N/A |
+| 9 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 10 | [Wicho](http://twitter.com/search?q=Wicho) | N/A |
+| 11 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [MON LAFERTE 8](http://twitter.com/search?q=MON+LAFERTE+8) | N/A |
+| 14 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
+| 15 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 16 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 17 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
+| 18 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
+| 19 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
+| 20 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 21 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 22 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 23 | [Marcelo Ebrard](http://twitter.com/search?q=Marcelo+Ebrard) | N/A |
+| 24 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 25 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 26 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 27 | [Cadereyta](http://twitter.com/search?q=Cadereyta) | N/A |
+| 28 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 29 | [Hugo Sánchez](http://twitter.com/search?q=Hugo+S%c3%a1nchez) | N/A |
+| 30 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 31 | [Quemar](http://twitter.com/search?q=Quemar) | N/A |
+| 32 | [#QuieroMiFirmaDeShazam](http://twitter.com/search?q=%23QuieroMiFirmaDeShazam) | N/A |
+| 33 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 34 | [#DíaInternacionalDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLaFelicidad) | N/A |
+| 35 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
+| 36 | [#BTSArmy](http://twitter.com/search?q=%23BTSArmy) | N/A |
+| 37 | [#BestFanArmy](http://twitter.com/search?q=%23BestFanArmy) | #BestFanArmy is a hashtag used to recognize and celebrate the most dedicated and passionate fanbases of various celebrities, musicians, athletes, and other public figures. It is often used to encourage fans to show their support for their favorite stars by engaging in activities such as attending concerts, buying merchandise, and sharing content online. |
+| 38 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
+| 39 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 40 | [#equinoccio](http://twitter.com/search?q=%23equinoccio) | N/A |
+| 41 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 42 | [#DíaDeLaFelicidad](http://twitter.com/search?q=%23D%c3%adaDeLaFelicidad) | N/A |
+| 43 | [#LeftandRight](http://twitter.com/search?q=%23LeftandRight) | #LeftandRight is a hashtag used to refer to the political divide between left-wing and right-wing ideologies. It is often used to discuss current events and political debates, as well as to express opinions on various topics. |
+| 44 | [#바람처럼_다가온_산하의_스물넷](http://twitter.com/search?q=%23%eb%b0%94%eb%9e%8c%ec%b2%98%eb%9f%bc_%eb%8b%a4%ea%b0%80%ec%98%a8_%ec%82%b0%ed%95%98%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
+| 45 | [#YOONSANHA](http://twitter.com/search?q=%23YOONSANHA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-20 23:17:42 UTC`
+📆 Last Updated: `2023-03-21 00:28:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 2 | [#cosn2023](http://twitter.com/search?q=%23cosn2023) | N/A |
-| 3 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 4 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 5 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 6 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 7 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 8 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 9 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 10 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 11 | [#MAGABudgetDisaster](http://twitter.com/search?q=%23MAGABudgetDisaster) | N/A |
-| 12 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
-| 13 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
-| 14 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 15 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 16 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 17 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 18 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 19 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
-| 20 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 21 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 22 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 23 | [#ImNotHidingImAvoiding](http://twitter.com/search?q=%23ImNotHidingImAvoiding) | N/A |
-| 24 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 25 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
-| 26 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
-| 27 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 28 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 29 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 30 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 31 | [Adrianza](http://twitter.com/search?q=Adrianza) | N/A |
-| 32 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 33 | [Justin Evans](http://twitter.com/search?q=Justin+Evans) | N/A |
-| 34 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 35 | [Dameon Pierce](http://twitter.com/search?q=Dameon+Pierce) | N/A |
-| 36 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 37 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 38 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 39 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 40 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
-| 41 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 42 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
-| 43 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 44 | [Dan Schneider](http://twitter.com/search?q=Dan+Schneider) | N/A |
-| 45 | [Motor](http://twitter.com/search?q=Motor) | N/A |
-| 46 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 47 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 48 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 49 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 50 | [Woke Wall Street](http://twitter.com/search?q=Woke+Wall+Street) | N/A |
+| 2 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 3 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 4 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 5 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 6 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 10 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 11 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 12 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 13 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 14 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
+| 15 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 16 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 17 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 18 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 19 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 20 | [#BlindGuess](http://twitter.com/search?q=%23BlindGuess) | N/A |
+| 21 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 22 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 23 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 24 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 25 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 26 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 27 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 28 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 29 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 30 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 31 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 32 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 33 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 34 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 35 | [3-0 Mexico](http://twitter.com/search?q=3-0+Mexico) | N/A |
+| 36 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
+| 37 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
+| 38 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 39 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
+| 40 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
+| 41 | [Josh Dobbs](http://twitter.com/search?q=Josh+Dobbs) | N/A |
+| 42 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 43 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 44 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
+| 45 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
+| 46 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 47 | [Oats](http://twitter.com/search?q=Oats) | N/A |
+| 48 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
+| 49 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
+| 50 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
 
 
 
