@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-21 21:16:47 UTC`
+📆 Last Updated: `2023-03-21 22:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 2 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 3 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
-| 4 | [#WorldPoetryDay2023](http://twitter.com/search?q=%23WorldPoetryDay2023) | N/A |
-| 5 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 6 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
-| 7 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 1 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 2 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 3 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 5 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 6 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 7 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
 | 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 11 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 12 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
-| 13 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 14 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 15 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 16 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 17 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 18 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
-| 19 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 20 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 21 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 22 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 23 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 24 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 25 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 26 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 27 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
-| 28 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 29 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 30 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 31 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 32 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 33 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 34 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 35 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 36 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 37 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 38 | [Year 9](http://twitter.com/search?q=Year+9) | N/A |
-| 39 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 40 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 41 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 42 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 43 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 44 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 45 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 46 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 47 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 48 | [Baroness Casey](http://twitter.com/search?q=Baroness+Casey) | N/A |
+| 9 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 10 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
+| 11 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 12 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 13 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 14 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
+| 15 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 16 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 17 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 18 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 19 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 20 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 21 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 22 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
+| 23 | [England C](http://twitter.com/search?q=England+C) | N/A |
+| 24 | [Barbie Kardashian](http://twitter.com/search?q=Barbie+Kardashian) | N/A |
+| 25 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 26 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 27 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 28 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 29 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 30 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 31 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
+| 32 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 33 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 34 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 35 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 36 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 37 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 38 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 39 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 40 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 41 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 42 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 43 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 44 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 45 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 46 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 47 | [Tipping](http://twitter.com/search?q=Tipping) | N/A |
+| 48 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-21 21:16:59 UTC`
+📆 Last Updated: `2023-03-21 22:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 5 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 6 | [Luise](http://twitter.com/search?q=Luise) | N/A |
-| 7 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
-| 8 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 10 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 11 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 13 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
-| 14 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
-| 15 | [Freier](http://twitter.com/search?q=Freier) | N/A |
-| 16 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 17 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 18 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
-| 19 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
-| 20 | [Innenräumen](http://twitter.com/search?q=Innenr%c3%a4umen) | N/A |
-| 21 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 22 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 6 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 7 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 10 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 11 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 12 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 14 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
+| 15 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 16 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
+| 17 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 18 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
+| 19 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
+| 20 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 21 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 22 | [Freier](http://twitter.com/search?q=Freier) | N/A |
 | 23 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
-| 24 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
-| 25 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 26 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 27 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 28 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
-| 29 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 30 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 31 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 32 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
-| 33 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 34 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 35 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
-| 36 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 37 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
-| 38 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 39 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 40 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 41 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 24 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
+| 25 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 26 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 28 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 29 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 30 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 31 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 32 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
+| 33 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
+| 34 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 35 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
+| 36 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 37 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 38 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 39 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
+| 40 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 41 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
 | 42 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 43 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 44 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 43 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 44 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
 | 45 | [Abschieben](http://twitter.com/search?q=Abschieben) | N/A |
-| 46 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 47 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 48 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
+| 46 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
+| 47 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 48 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
 
 
 

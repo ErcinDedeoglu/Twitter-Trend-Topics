@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-21 21:17:32 UTC`
+📆 Last Updated: `2023-03-21 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 2 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 3 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 4 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 5 | [#Monica60](http://twitter.com/search?q=%23Monica60) | N/A |
-| 6 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 7 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 8 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
-| 9 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
-| 10 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 11 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 12 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 13 | [Seu Lado](http://twitter.com/search?q=Seu+Lado) | N/A |
-| 14 | [Sylla](http://twitter.com/search?q=Sylla) | N/A |
-| 15 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 16 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 17 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 18 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 19 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 20 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 21 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 22 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 23 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 24 | [Navi](http://twitter.com/search?q=Navi) | N/A |
-| 25 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 26 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 27 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 28 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 29 | [#ADona071](http://twitter.com/search?q=%23ADona071) | N/A |
-| 30 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
-| 31 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 32 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 33 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
-| 34 | [#prouni](http://twitter.com/search?q=%23prouni) | N/A |
-| 35 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 36 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 37 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
-| 38 | [#OReidoGado](http://twitter.com/search?q=%23OReidoGado) | N/A |
-| 39 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
-| 40 | [FERJ](http://twitter.com/search?q=FERJ) | N/A |
-| 41 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 42 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 43 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 44 | [Apito](http://twitter.com/search?q=Apito) | N/A |
-| 45 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
-| 46 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 47 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
-| 48 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
-| 49 | [Tardezinha](http://twitter.com/search?q=Tardezinha) | N/A |
-| 50 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 3 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
+| 4 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 5 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
+| 6 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 7 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 8 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 9 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 10 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
+| 11 | [#Monica60](http://twitter.com/search?q=%23Monica60) | N/A |
+| 12 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 13 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 14 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 15 | [Igapó](http://twitter.com/search?q=Igap%c3%b3) | N/A |
+| 16 | [Seu Lado](http://twitter.com/search?q=Seu+Lado) | N/A |
+| 17 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 18 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
+| 19 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 20 | [#ADona071](http://twitter.com/search?q=%23ADona071) | N/A |
+| 21 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 22 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 23 | [Navi](http://twitter.com/search?q=Navi) | N/A |
+| 24 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 25 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
+| 26 | [Sylla](http://twitter.com/search?q=Sylla) | N/A |
+| 27 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 28 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 29 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
+| 30 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 31 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 32 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 33 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 34 | [Noivado](http://twitter.com/search?q=Noivado) | N/A |
+| 35 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
+| 36 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 37 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
+| 38 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 39 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 40 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 41 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 42 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 43 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
+| 44 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
+| 45 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
+| 46 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 47 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 48 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 49 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
+| 50 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
 
 
 

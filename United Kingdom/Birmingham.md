@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-21 21:16:46 UTC`
+📆 Last Updated: `2023-03-21 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
-| 3 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 4 | [#MartinLewis](http://twitter.com/search?q=%23MartinLewis) | N/A |
-| 5 | [#TRIPLive](http://twitter.com/search?q=%23TRIPLive) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
-| 8 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 9 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
-| 10 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 11 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 12 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
-| 13 | [Navy](http://twitter.com/search?q=Navy) | N/A |
-| 14 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 15 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 16 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 17 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
-| 18 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 19 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 20 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 21 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 22 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 23 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 27 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
-| 28 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 1 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
+| 2 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 3 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 4 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 5 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
+| 6 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 7 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 8 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
+| 9 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 10 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 11 | [#ToriesOut257](http://twitter.com/search?q=%23ToriesOut257) | N/A |
+| 12 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 13 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 14 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 15 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 16 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 17 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 18 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 20 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 21 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
+| 22 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 23 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
+| 24 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 25 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 26 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 27 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 28 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
 | 29 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 30 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 31 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
-| 32 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 33 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 34 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 35 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 36 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 37 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 38 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 39 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 40 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 41 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 42 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 43 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 44 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 45 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 47 | [Year 9](http://twitter.com/search?q=Year+9) | N/A |
-| 48 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 30 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 31 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 32 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 33 | [England C](http://twitter.com/search?q=England+C) | N/A |
+| 34 | [Barbie Kardashian](http://twitter.com/search?q=Barbie+Kardashian) | N/A |
+| 35 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 36 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 37 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 38 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 39 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
+| 40 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 41 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 42 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 43 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 44 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 45 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 46 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 47 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 48 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 49 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
 
 
 

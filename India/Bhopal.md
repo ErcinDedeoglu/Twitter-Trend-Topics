@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-21 21:17:21 UTC`
+📆 Last Updated: `2023-03-21 22:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,38 @@ This is top 50 for [India](</India>)
 | 11 | [Richter](http://twitter.com/search?q=Richter) | N/A |
 | 12 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
 | 13 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 14 | [Jaipur](http://twitter.com/search?q=Jaipur) | N/A |
-| 15 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 16 | [Hindu Kush](http://twitter.com/search?q=Hindu+Kush) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 15 | [Sushant Singh Rajput LivesOn](http://twitter.com/search?q=Sushant+Singh+Rajput+LivesOn) | N/A |
+| 16 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 17 | [Swastika](http://twitter.com/search?q=Swastika) | N/A |
 | 18 | [Chandigarh](http://twitter.com/search?q=Chandigarh) | N/A |
-| 19 | [Swastika](http://twitter.com/search?q=Swastika) | N/A |
-| 20 | [Sushant Singh Rajput LivesOn](http://twitter.com/search?q=Sushant+Singh+Rajput+LivesOn) | N/A |
-| 21 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 22 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
+| 19 | [Jaipur](http://twitter.com/search?q=Jaipur) | N/A |
+| 20 | [Stay Safe](http://twitter.com/search?q=Stay+Safe) | N/A |
+| 21 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 | 23 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
-| 24 | [Stay Safe](http://twitter.com/search?q=Stay+Safe) | N/A |
-| 25 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 26 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
-| 27 | [मीर जाफर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%be%e0%a4%ab%e0%a4%b0) | N/A |
-| 28 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 29 | [Massive](http://twitter.com/search?q=Massive) | N/A |
-| 30 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 31 | [SHAME ON AAJTAK AND ABP](http://twitter.com/search?q=SHAME+ON+AAJTAK+AND+ABP) | N/A |
-| 32 | [Yahan](http://twitter.com/search?q=Yahan) | N/A |
-| 33 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 34 | [Himachal](http://twitter.com/search?q=Himachal) | N/A |
-| 35 | [#Ugadi2023](http://twitter.com/search?q=%23Ugadi2023) | N/A |
-| 36 | [#चैत्र_नवरात्रि](http://twitter.com/search?q=%23%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%a8%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 37 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
-| 38 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
-| 39 | [#Tremors](http://twitter.com/search?q=%23Tremors) | N/A |
-| 40 | [#किसानों_को_मुआवजा_दो](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%8b_%e0%a4%ae%e0%a5%81%e0%a4%86%e0%a4%b5%e0%a4%9c%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
-| 41 | [#navratri2023](http://twitter.com/search?q=%23navratri2023) | N/A |
-| 42 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
-| 43 | [#Noida](http://twitter.com/search?q=%23Noida) | N/A |
-| 44 | [#राजस्थान_गौरव_राजवीर_सर](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%b5_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0_%e0%a4%b8%e0%a4%b0) | N/A |
-| 45 | [#विक्रम_संवत_२०८०](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae_%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%a4_%e0%a5%a8%e0%a5%a6%e0%a5%ae%e0%a5%a6) | N/A |
-| 46 | [#bhukamp](http://twitter.com/search?q=%23bhukamp) | N/A |
-| 47 | [#जय_माता_दी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a5%80) | N/A |
-| 48 | [#OneYearOfSaveSoil](http://twitter.com/search?q=%23OneYearOfSaveSoil) | N/A |
-| 49 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 24 | [मीर जाफर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%be%e0%a4%ab%e0%a4%b0) | N/A |
+| 25 | [SHAME ON AAJTAK AND ABP](http://twitter.com/search?q=SHAME+ON+AAJTAK+AND+ABP) | N/A |
+| 26 | [Massive](http://twitter.com/search?q=Massive) | N/A |
+| 27 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 28 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 29 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
+| 30 | [#Ugadi2023](http://twitter.com/search?q=%23Ugadi2023) | N/A |
+| 31 | [#चैत्र_नवरात्रि](http://twitter.com/search?q=%23%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%a8%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 32 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
+| 33 | [#tremors](http://twitter.com/search?q=%23tremors) | N/A |
+| 34 | [#navratri2023](http://twitter.com/search?q=%23navratri2023) | N/A |
+| 35 | [#राजस्थान_गौरव_राजवीर_सर](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a4%b5_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0_%e0%a4%b8%e0%a4%b0) | N/A |
+| 36 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
+| 37 | [#Noida](http://twitter.com/search?q=%23Noida) | N/A |
+| 38 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 39 | [#UPWvDC](http://twitter.com/search?q=%23UPWvDC) | N/A |
+| 40 | [#ZakirNaik](http://twitter.com/search?q=%23ZakirNaik) | N/A |
+| 41 | [#BiharRailwayStation](http://twitter.com/search?q=%23BiharRailwayStation) | N/A |
+| 42 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 43 | [#Ramadan2023](http://twitter.com/search?q=%23Ramadan2023) | N/A |
+| 44 | [#DasKaDhamki](http://twitter.com/search?q=%23DasKaDhamki) | N/A |
+| 45 | [#VeerOberoi](http://twitter.com/search?q=%23VeerOberoi) | N/A |
 
 
 

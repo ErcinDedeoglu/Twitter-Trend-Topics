@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-21 21:17:27 UTC`
+📆 Last Updated: `2023-03-21 22:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 2 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 3 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
-| 4 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 5 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 6 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 7 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 8 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 10 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 11 | [#MarchDadness](http://twitter.com/search?q=%23MarchDadness) | N/A |
-| 12 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 13 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 14 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 15 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 16 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 17 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 18 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 19 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 2 | [#rain](http://twitter.com/search?q=%23rain) | N/A |
+| 3 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 4 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 5 | [#caleg](http://twitter.com/search?q=%23caleg) | N/A |
+| 6 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 7 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 9 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 10 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 12 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 13 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 14 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
+| 15 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 16 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 17 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 18 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 19 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
 | 20 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 21 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 22 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 23 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
-| 24 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 25 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 26 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 27 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
-| 28 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 29 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 30 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 32 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 33 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
-| 34 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 35 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 36 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 37 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 38 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 39 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 40 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 41 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 42 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
-| 43 | [Anik](http://twitter.com/search?q=Anik) | N/A |
-| 44 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 45 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 21 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 22 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 23 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 24 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 25 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 26 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 27 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 28 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 29 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
+| 30 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
+| 31 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 32 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 34 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 35 | [Witty](http://twitter.com/search?q=Witty) | N/A |
+| 36 | [Spider-Man 2](http://twitter.com/search?q=Spider-Man+2) | N/A |
+| 37 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 38 | [Anik](http://twitter.com/search?q=Anik) | N/A |
+| 39 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
+| 40 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 41 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
+| 42 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 43 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
+| 44 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 45 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
 | 46 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 47 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 48 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 49 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 50 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
+| 47 | [Super Tuesday](http://twitter.com/search?q=Super+Tuesday) | N/A |
+| 48 | [Martin Short](http://twitter.com/search?q=Martin+Short) | N/A |
+| 49 | [Free Trump](http://twitter.com/search?q=Free+Trump) | N/A |
+| 50 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
 
 
 

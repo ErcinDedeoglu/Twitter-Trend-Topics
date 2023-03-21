@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-21 21:17:39 UTC`
+📆 Last Updated: `2023-03-21 22:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
 | 2 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
 | 3 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 4 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [#exoscinkl](http://twitter.com/search?q=%23exoscinkl) | N/A |
-| 7 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 5 | [#Limitless](http://twitter.com/search?q=%23Limitless) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [#エイティーズ](http://twitter.com/search?q=%23%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ba) | N/A |
 | 8 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 9 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 10 | [hwiyoung](http://twitter.com/search?q=hwiyoung) | N/A |
-| 11 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 12 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 13 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
-| 14 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 10 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 11 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
+| 12 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
+| 13 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 14 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
 | 15 | [Jaeyoon](http://twitter.com/search?q=Jaeyoon) | N/A |
 | 16 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
-| 17 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 19 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
-| 20 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 21 | [anthony loke](http://twitter.com/search?q=anthony+loke) | N/A |
-| 22 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 24 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 25 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 26 | [LOVESTRUCK CLUB](http://twitter.com/search?q=LOVESTRUCK+CLUB) | N/A |
-| 27 | [11 years with ilhoon](http://twitter.com/search?q=11+years+with+ilhoon) | N/A |
-| 28 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
-| 29 | [Noelle](http://twitter.com/search?q=Noelle) | N/A |
-| 30 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 31 | [MUDA](http://twitter.com/search?q=MUDA) | N/A |
-| 32 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 33 | [kim jongin](http://twitter.com/search?q=kim+jongin) | N/A |
-| 34 | [airasia](http://twitter.com/search?q=airasia) | N/A |
+| 17 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
+| 18 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 19 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 20 | [anthony loke](http://twitter.com/search?q=anthony+loke) | N/A |
+| 21 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 22 | [LOVESTRUCK CLUB](http://twitter.com/search?q=LOVESTRUCK+CLUB) | N/A |
+| 23 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 24 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 25 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
+| 26 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 27 | [Noelle](http://twitter.com/search?q=Noelle) | N/A |
+| 28 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 29 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
+| 30 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 31 | [kim jongin](http://twitter.com/search?q=kim+jongin) | N/A |
+| 32 | [RFID](http://twitter.com/search?q=RFID) | N/A |
+| 33 | [inseong](http://twitter.com/search?q=inseong) | N/A |
+| 34 | [11 years with ilhoon](http://twitter.com/search?q=11+years+with+ilhoon) | N/A |
 | 35 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 36 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
-| 37 | [RFID](http://twitter.com/search?q=RFID) | N/A |
-| 38 | [Inseong](http://twitter.com/search?q=Inseong) | N/A |
-| 39 | [Relax](http://twitter.com/search?q=Relax) | N/A |
-| 40 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
-| 41 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
-| 42 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 43 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 44 | [pledis](http://twitter.com/search?q=pledis) | N/A |
-| 45 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 46 | [Cherry Blossom](http://twitter.com/search?q=Cherry+Blossom) | N/A |
-| 47 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 48 | [Hanna](http://twitter.com/search?q=Hanna) | N/A |
-| 49 | [tun m](http://twitter.com/search?q=tun+m) | N/A |
+| 36 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 37 | [Relax](http://twitter.com/search?q=Relax) | N/A |
+| 38 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 39 | [tun m](http://twitter.com/search?q=tun+m) | N/A |
+| 40 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 41 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 42 | [Cherry Blossom](http://twitter.com/search?q=Cherry+Blossom) | N/A |
+| 43 | [Hanna](http://twitter.com/search?q=Hanna) | N/A |
+| 44 | [AirAsia](http://twitter.com/search?q=AirAsia) | N/A |
+| 45 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 46 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 47 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 48 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 49 | [Finn](http://twitter.com/search?q=Finn) | N/A |
 
 
 

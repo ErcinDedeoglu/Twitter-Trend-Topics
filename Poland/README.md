@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-21 21:17:36 UTC`
+📆 Last Updated: `2023-03-21 22:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JednaLista](http://twitter.com/search?q=%23JednaLista) | N/A |
-| 2 | [#PiStoPRLbis](http://twitter.com/search?q=%23PiStoPRLbis) | N/A |
-| 3 | [Downa](http://twitter.com/search?q=Downa) | N/A |
-| 4 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 5 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 6 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
-| 7 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
-| 8 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 9 | [David Badia](http://twitter.com/search?q=David+Badia) | N/A |
-| 10 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 11 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 12 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
-| 13 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 14 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 15 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 16 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 17 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 18 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
-| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 20 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 21 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
-| 22 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
-| 23 | [Dąb Fabrykant](http://twitter.com/search?q=D%c4%85b+Fabrykant) | N/A |
-| 24 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 25 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 27 | [Czesia](http://twitter.com/search?q=Czesia) | N/A |
-| 28 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 29 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 30 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 31 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 32 | [Michniewicz](http://twitter.com/search?q=Michniewicz) | N/A |
-| 33 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 34 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
-| 35 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 36 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 37 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 38 | [Skorupski](http://twitter.com/search?q=Skorupski) | N/A |
-| 39 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
-| 40 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 41 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 42 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
-| 43 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
-| 44 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
-| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 46 | [Stadion Śląski](http://twitter.com/search?q=Stadion+%c5%9al%c4%85ski) | N/A |
-| 47 | [Borek](http://twitter.com/search?q=Borek) | N/A |
-| 48 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 49 | [Moskwie](http://twitter.com/search?q=Moskwie) | N/A |
-| 50 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 1 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 2 | [#JednaLista](http://twitter.com/search?q=%23JednaLista) | N/A |
+| 3 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 4 | [#PiStoPRLbis](http://twitter.com/search?q=%23PiStoPRLbis) | N/A |
+| 5 | [Downa](http://twitter.com/search?q=Downa) | N/A |
+| 6 | [#LWLsoe](http://twitter.com/search?q=%23LWLsoe) | N/A |
+| 7 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 8 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
+| 9 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 10 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 11 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 12 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 13 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
+| 14 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 15 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 16 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 17 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
+| 18 | [Badia](http://twitter.com/search?q=Badia) | N/A |
+| 19 | [Leon Zawodowiec](http://twitter.com/search?q=Leon+Zawodowiec) | N/A |
+| 20 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 21 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 23 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
+| 24 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
+| 25 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 26 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 27 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 28 | [Czesia](http://twitter.com/search?q=Czesia) | N/A |
+| 29 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 30 | [Borek](http://twitter.com/search?q=Borek) | N/A |
+| 31 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 32 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 33 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 34 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 35 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 36 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 37 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 38 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 39 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
+| 40 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
+| 41 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 42 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 43 | [Skorupski](http://twitter.com/search?q=Skorupski) | N/A |
+| 44 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 45 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 46 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
+| 47 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
+| 48 | [Karbownik](http://twitter.com/search?q=Karbownik) | N/A |
+| 49 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 50 | [Ziemkiewicza](http://twitter.com/search?q=Ziemkiewicza) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-21 21:16:50 UTC`
+📆 Last Updated: `2023-03-21 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 2 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
-| 5 | [#AleNosUne](http://twitter.com/search?q=%23AleNosUne) | N/A |
-| 6 | [#NormaPiñaRepresentaALosNARCOS](http://twitter.com/search?q=%23NormaPi%c3%b1aRepresentaALosNARCOS) | N/A |
-| 7 | [#ExaPicnicJoseMadero](http://twitter.com/search?q=%23ExaPicnicJoseMadero) | N/A |
-| 8 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
-| 9 | [Raúl Alpízar](http://twitter.com/search?q=Ra%c3%bal+Alp%c3%adzar) | N/A |
-| 10 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 11 | [Leyes de Reforma](http://twitter.com/search?q=Leyes+de+Reforma) | N/A |
+| 1 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 2 | [#NormaPiñaRepresentaALosNARCOS](http://twitter.com/search?q=%23NormaPi%c3%b1aRepresentaALosNARCOS) | N/A |
+| 3 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 4 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 7 | [#AleNosUne](http://twitter.com/search?q=%23AleNosUne) | N/A |
+| 8 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 9 | [TRATAR](http://twitter.com/search?q=TRATAR) | N/A |
+| 10 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
+| 11 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
 | 12 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 13 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 15 | [San Pablo Guelatao](http://twitter.com/search?q=San+Pablo+Guelatao) | N/A |
-| 16 | [217 Aniversario](http://twitter.com/search?q=217+Aniversario) | N/A |
-| 17 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 19 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 20 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 21 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 22 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 23 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
-| 24 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 25 | [El Financiero](http://twitter.com/search?q=El+Financiero) | N/A |
-| 26 | [Este 21](http://twitter.com/search?q=Este+21) | N/A |
-| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 28 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 29 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 30 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
-| 31 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 32 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 33 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 34 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 35 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 36 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 37 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 38 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 39 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 13 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 14 | [Trevi](http://twitter.com/search?q=Trevi) | N/A |
+| 15 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
+| 16 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 17 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 18 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 19 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 20 | [El Financiero](http://twitter.com/search?q=El+Financiero) | N/A |
+| 21 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 22 | [Raúl Alpizar](http://twitter.com/search?q=Ra%c3%bal+Alpizar) | N/A |
+| 23 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 24 | [Guelatao](http://twitter.com/search?q=Guelatao) | N/A |
+| 25 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 26 | [Leyes de Reforma](http://twitter.com/search?q=Leyes+de+Reforma) | N/A |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [217 Aniversario](http://twitter.com/search?q=217+Aniversario) | N/A |
+| 29 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 30 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 31 | [Este 21](http://twitter.com/search?q=Este+21) | N/A |
+| 32 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 33 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 34 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 35 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 36 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 37 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 38 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 39 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
 | 40 | [#21deMarzo](http://twitter.com/search?q=%2321deMarzo) | N/A |
-| 41 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
-| 42 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 43 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
-| 44 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 45 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
-| 46 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 41 | [#ExaPicnicJoseMadero](http://twitter.com/search?q=%23ExaPicnicJoseMadero) | N/A |
+| 42 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
+| 43 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
+| 44 | [#21Marzo](http://twitter.com/search?q=%2321Marzo) | N/A |
+| 45 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 46 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 
 
 

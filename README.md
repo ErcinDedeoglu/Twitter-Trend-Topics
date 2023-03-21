@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-21 21:16:45 UTC`
+📆 Last Updated: `2023-03-21 22:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
-| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 4 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 5 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 6 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 7 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 8 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 9 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 10 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 11 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 12 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 13 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 14 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 15 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 17 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 18 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 19 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 20 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
-| 21 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 22 | [Ornella](http://twitter.com/search?q=Ornella) | N/A |
-| 23 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 24 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 25 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 26 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 27 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 28 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 29 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 30 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 31 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 32 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
-| 33 | [ÖzelSektr ÖğrtmnKadro](http://twitter.com/search?q=%c3%96zelSektr+%c3%96%c4%9frtmnKadro) | N/A |
-| 34 | [Salma Paralluelo](http://twitter.com/search?q=Salma+Paralluelo) | N/A |
-| 35 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 36 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 37 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 38 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 39 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 40 | [Babcock](http://twitter.com/search?q=Babcock) | N/A |
-| 41 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 42 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 43 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 44 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 45 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 46 | [Denkliği ErdoğanÇözer](http://twitter.com/search?q=Denkli%c4%9fi+Erdo%c4%9fan%c3%87%c3%b6zer) | N/A |
-| 47 | [Dibyedekleremüjde](http://twitter.com/search?q=Dibyedeklerem%c3%bcjde) | N/A |
-| 48 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 49 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 50 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 2 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
+| 3 | [#protagonistes](http://twitter.com/search?q=%23protagonistes) | N/A |
+| 4 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 5 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 8 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 9 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 10 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 11 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 12 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 13 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 14 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 15 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 16 | [千秋先輩](http://twitter.com/search?q=%e5%8d%83%e7%a7%8b%e5%85%88%e8%bc%a9) | N/A |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 18 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 19 | [Babcock](http://twitter.com/search?q=Babcock) | N/A |
+| 20 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
+| 21 | [Sandra Paños](http://twitter.com/search?q=Sandra+Pa%c3%b1os) | N/A |
+| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 23 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 24 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 25 | [WBC決勝](http://twitter.com/search?q=WBC%e6%b1%ba%e5%8b%9d) | N/A |
+| 26 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 27 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 28 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
+| 29 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 30 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 31 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 32 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 33 | [Ebro](http://twitter.com/search?q=Ebro) | N/A |
+| 34 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 35 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 36 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 37 | [三浦くん](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e3%81%8f%e3%82%93) | N/A |
+| 38 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 39 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
+| 40 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 41 | [上野樹里](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e6%a8%b9%e9%87%8c) | N/A |
+| 42 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 43 | [Oshoala](http://twitter.com/search?q=Oshoala) | N/A |
+| 44 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 45 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 46 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
+| 47 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 48 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 49 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 50 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-03-21 21:17:06 UTC`
+📆 Last Updated: `2023-03-21 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 2 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 3 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 3 | [#smp2023](http://twitter.com/search?q=%23smp2023) | N/A |
 | 4 | [Mark Latham](http://twitter.com/search?q=Mark+Latham) | N/A |
-| 5 | [#PAXAus](http://twitter.com/search?q=%23PAXAus) | N/A |
-| 6 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
-| 7 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 8 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 9 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 10 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 11 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 5 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 6 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 7 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 8 | [#PAXAus](http://twitter.com/search?q=%23PAXAus) | N/A |
+| 9 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
+| 10 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 11 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
 | 12 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 13 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 14 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 15 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 16 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 17 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 18 | [geoffrey robertson](http://twitter.com/search?q=geoffrey+robertson) | N/A |
-| 19 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 21 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 22 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 23 | [#IDERD](http://twitter.com/search?q=%23IDERD) | N/A |
-| 24 | [#PAXandWIN](http://twitter.com/search?q=%23PAXandWIN) | N/A |
-| 25 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 26 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
-| 27 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
-| 28 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 29 | [Kirra](http://twitter.com/search?q=Kirra) | N/A |
-| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 31 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 32 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 33 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 34 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 35 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 36 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 37 | [lambie](http://twitter.com/search?q=lambie) | N/A |
-| 38 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 39 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 40 | [Appeal](http://twitter.com/search?q=Appeal) | N/A |
-| 41 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 42 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 43 | [Jikky](http://twitter.com/search?q=Jikky) | N/A |
-| 44 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 15 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 16 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 17 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 18 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 19 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 20 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 21 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 22 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 23 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 24 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 25 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 26 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
+| 27 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 28 | [Kirra](http://twitter.com/search?q=Kirra) | N/A |
+| 29 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 30 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 31 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 32 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 33 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 34 | [Hazzard](http://twitter.com/search?q=Hazzard) | N/A |
+| 35 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
+| 36 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 37 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
+| 38 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 39 | [David Pocock](http://twitter.com/search?q=David+Pocock) | N/A |
+| 40 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 42 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 43 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 44 | [Lambie](http://twitter.com/search?q=Lambie) | N/A |
 | 45 | [Belal](http://twitter.com/search?q=Belal) | N/A |
-| 46 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 49 | [terry norris](http://twitter.com/search?q=terry+norris) | N/A |
-| 50 | [games and moar games](http://twitter.com/search?q=games+and+moar+games) | N/A |
+| 46 | [Newtown](http://twitter.com/search?q=Newtown) | N/A |
+| 47 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 48 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 49 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
+| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 
 
 

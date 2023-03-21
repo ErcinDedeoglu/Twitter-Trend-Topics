@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-21 21:17:33 UTC`
+📆 Last Updated: `2023-03-21 22:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Dominican Republic
 | 4 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
 | 5 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 6 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 7 | [Luis Polonia](http://twitter.com/search?q=Luis+Polonia) | N/A |
-| 8 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 9 | [#PLDevuelvanLoRobado](http://twitter.com/search?q=%23PLDevuelvanLoRobado) | N/A |
-| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 11 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
-| 12 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 13 | [El PLD](http://twitter.com/search?q=El+PLD) | N/A |
-| 14 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 15 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 16 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 17 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
-| 18 | [Mexicanos](http://twitter.com/search?q=Mexicanos) | N/A |
-| 19 | [#LosQueremosPresos](http://twitter.com/search?q=%23LosQueremosPresos) | N/A |
-| 20 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 7 | [#PLDevuelvanLoRobado](http://twitter.com/search?q=%23PLDevuelvanLoRobado) | N/A |
+| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
+| 10 | [Luis Polonia](http://twitter.com/search?q=Luis+Polonia) | N/A |
+| 11 | [El PLD](http://twitter.com/search?q=El+PLD) | N/A |
+| 12 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 13 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 14 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 15 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 16 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 17 | [Mexicanos](http://twitter.com/search?q=Mexicanos) | N/A |
+| 18 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
+| 19 | [Donald Guerrero](http://twitter.com/search?q=Donald+Guerrero) | N/A |
+| 20 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 21 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 22 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
-| 23 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
-| 24 | [Amelia Vega](http://twitter.com/search?q=Amelia+Vega) | N/A |
-| 25 | [XXVIII Cumbre Iberoamericana](http://twitter.com/search?q=XXVIII+Cumbre+Iberoamericana) | N/A |
-| 26 | [Playmaker](http://twitter.com/search?q=Playmaker) | N/A |
-| 27 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 28 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [#LosQueremosPresos](http://twitter.com/search?q=%23LosQueremosPresos) | N/A |
+| 23 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 24 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 25 | [Amelia Vega](http://twitter.com/search?q=Amelia+Vega) | N/A |
+| 26 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 27 | [XXVIII Cumbre Iberoamericana](http://twitter.com/search?q=XXVIII+Cumbre+Iberoamericana) | N/A |
+| 28 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
 | 29 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 30 | [Día Mundial de la Poesía](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Poes%c3%ada) | N/A |
-| 31 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 32 | [#somospldynohaymiedo](http://twitter.com/search?q=%23somospldynohaymiedo) | N/A |
-| 33 | [Persecución](http://twitter.com/search?q=Persecuci%c3%b3n) | N/A |
-| 34 | [Marcelo Rebelo De Sousa](http://twitter.com/search?q=Marcelo+Rebelo+De+Sousa) | N/A |
-| 35 | [Sonia Mateo](http://twitter.com/search?q=Sonia+Mateo) | N/A |
-| 36 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
+| 31 | [#somospldynohaymiedo](http://twitter.com/search?q=%23somospldynohaymiedo) | N/A |
+| 32 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 33 | [Marcelo Rebelo De Sousa](http://twitter.com/search?q=Marcelo+Rebelo+De+Sousa) | N/A |
+| 34 | [Sonia Mateo](http://twitter.com/search?q=Sonia+Mateo) | N/A |
+| 35 | [Persecución](http://twitter.com/search?q=Persecuci%c3%b3n) | N/A |
+| 36 | [RD Elige](http://twitter.com/search?q=RD+Elige) | N/A |
 | 37 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 38 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 39 | [Boricua](http://twitter.com/search?q=Boricua) | N/A |
-| 40 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 41 | [#remolachanet](http://twitter.com/search?q=%23remolachanet) | N/A |
-| 42 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 43 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
-| 44 | [liberación dominicana](http://twitter.com/search?q=liberaci%c3%b3n+dominicana) | N/A |
-| 45 | [RD Elige](http://twitter.com/search?q=RD+Elige) | N/A |
-| 46 | [Masataka Yoshida](http://twitter.com/search?q=Masataka+Yoshida) | N/A |
-| 47 | [Pacífica](http://twitter.com/search?q=Pac%c3%adfica) | N/A |
-| 48 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
-| 49 | [Dioses](http://twitter.com/search?q=Dioses) | N/A |
-| 50 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 38 | [Playmaker](http://twitter.com/search?q=Playmaker) | N/A |
+| 39 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 40 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 41 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
+| 42 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 43 | [Bolívar Ventura](http://twitter.com/search?q=Bol%c3%advar+Ventura) | N/A |
+| 44 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 45 | [Boricua](http://twitter.com/search?q=Boricua) | N/A |
+| 46 | [Debieron](http://twitter.com/search?q=Debieron) | N/A |
+| 47 | [MASATAKA YOSHIDA](http://twitter.com/search?q=MASATAKA+YOSHIDA) | N/A |
+| 48 | [Pacífica](http://twitter.com/search?q=Pac%c3%adfica) | N/A |
+| 49 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
+| 50 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
 
 
 
