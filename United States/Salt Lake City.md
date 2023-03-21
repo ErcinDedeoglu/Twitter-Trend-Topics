@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-21 16:18:07 UTC`
+📆 Last Updated: `2023-03-21 17:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [United States](</United States>)
 | 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
 | 4 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 5 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 6 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 7 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 8 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 9 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 8 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 9 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 | 10 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 11 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 12 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 13 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 14 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 15 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 16 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 17 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 18 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 19 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 20 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 21 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 22 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 23 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
-| 24 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 25 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 26 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 27 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 28 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 29 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 31 | [NEW FLO](http://twitter.com/search?q=NEW+FLO) | N/A |
-| 32 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 33 | [SlamBall](http://twitter.com/search?q=SlamBall) | N/A |
-| 34 | [National Agriculture Day](http://twitter.com/search?q=National+Agriculture+Day) | N/A |
-| 35 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 36 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 37 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 38 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 39 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 40 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 41 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 42 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 43 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
-| 44 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
-| 45 | [Candida](http://twitter.com/search?q=Candida) | N/A |
-| 46 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
-| 47 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 48 | [Crash Team Rumble](http://twitter.com/search?q=Crash+Team+Rumble) | N/A |
+| 11 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 12 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 13 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 14 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 15 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 16 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 17 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 18 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 19 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 20 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 21 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 22 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 23 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 24 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 25 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 26 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 27 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 28 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 29 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
+| 30 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
+| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 32 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 33 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
+| 34 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 35 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 36 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 37 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 38 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 39 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 40 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 41 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 42 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 43 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 44 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 45 | [Crash Team Rumble](http://twitter.com/search?q=Crash+Team+Rumble) | N/A |
+| 46 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 47 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 48 | [new flo](http://twitter.com/search?q=new+flo) | N/A |
 
 
 

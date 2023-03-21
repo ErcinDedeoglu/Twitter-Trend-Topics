@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-21 16:18:11 UTC`
+📆 Last Updated: `2023-03-21 17:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Germany
 | ------- | ------------ | ------------ |
 | 1 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
 | 2 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 3 | [#WissingRücktritt](http://twitter.com/search?q=%23WissingR%c3%bccktritt) | N/A |
-| 4 | [#Heide](http://twitter.com/search?q=%23Heide) | N/A |
+| 3 | [#Heide](http://twitter.com/search?q=%23Heide) | N/A |
+| 4 | [#WissingRücktritt](http://twitter.com/search?q=%23WissingR%c3%bccktritt) | N/A |
 | 5 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 6 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 7 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 8 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 9 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 8 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 9 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
 | 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 12 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
-| 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 15 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 13 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
+| 14 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 15 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
 | 16 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
 | 17 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 18 | [Mädchens](http://twitter.com/search?q=M%c3%a4dchens) | N/A |
-| 19 | [Herr Schneider](http://twitter.com/search?q=Herr+Schneider) | N/A |
-| 20 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
-| 21 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 22 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 23 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 24 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 25 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
-| 26 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
-| 27 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
-| 28 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
+| 18 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 19 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
+| 20 | [Mädchens](http://twitter.com/search?q=M%c3%a4dchens) | N/A |
+| 21 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
+| 22 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
+| 23 | [Freier](http://twitter.com/search?q=Freier) | N/A |
+| 24 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 25 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 26 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
+| 27 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 28 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
 | 29 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 30 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 31 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
-| 32 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 33 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 34 | [Freier](http://twitter.com/search?q=Freier) | N/A |
-| 35 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
-| 36 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 37 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 38 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 39 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 40 | [Kampfsport](http://twitter.com/search?q=Kampfsport) | N/A |
-| 41 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
-| 42 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
-| 43 | [Abschaum](http://twitter.com/search?q=Abschaum) | N/A |
-| 44 | [Weltklimarat](http://twitter.com/search?q=Weltklimarat) | N/A |
-| 45 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
-| 46 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
-| 47 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 48 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
-| 49 | [Jugendlichen](http://twitter.com/search?q=Jugendlichen) | N/A |
-| 50 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 30 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 31 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 32 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
+| 33 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
+| 34 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 35 | [Familiennamen](http://twitter.com/search?q=Familiennamen) | N/A |
+| 36 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 37 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 38 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
+| 39 | [Weltklimarat](http://twitter.com/search?q=Weltklimarat) | N/A |
+| 40 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
+| 41 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
+| 42 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 43 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
+| 44 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
+| 45 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 46 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
+| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 48 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
+| 49 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 50 | [Kampfsport](http://twitter.com/search?q=Kampfsport) | N/A |
 
 
 

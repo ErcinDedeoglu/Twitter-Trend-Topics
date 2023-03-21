@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-21 16:18:14 UTC`
+📆 Last Updated: `2023-03-21 17:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,33 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 2 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
-| 3 | [#مررہی_عوام_بےضمیرحکمران](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b1%db%81%db%8c_%d8%b9%d9%88%d8%a7%d9%85_%d8%a8%db%92%d8%b6%d9%85%db%8c%d8%b1%d8%ad%da%a9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
-| 4 | [#ٹرک_والے_پکڑے_گئے](http://twitter.com/search?q=%23%d9%b9%d8%b1%da%a9_%d9%88%d8%a7%d9%84%db%92_%d9%be%da%a9%da%91%db%92_%da%af%d8%a6%db%92) | N/A |
-| 5 | [#PM4Youth](http://twitter.com/search?q=%23PM4Youth) | N/A |
-| 6 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 7 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 8 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 9 | [smile train](http://twitter.com/search?q=smile+train) | N/A |
-| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [sdg secretariat](http://twitter.com/search?q=sdg+secretariat) | N/A |
-| 13 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 15 | [sensodyne and paradontax](http://twitter.com/search?q=sensodyne+and+paradontax) | N/A |
-| 16 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 17 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
-| 18 | [ASIA LIONS](http://twitter.com/search?q=ASIA+LIONS) | N/A |
-| 19 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 20 | [Parliamentarians](http://twitter.com/search?q=Parliamentarians) | N/A |
-| 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 22 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
-| 23 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 24 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 25 | [sadiq jan](http://twitter.com/search?q=sadiq+jan) | N/A |
-| 26 | [Sher](http://twitter.com/search?q=Sher) | N/A |
-| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 28 | [Waseem](http://twitter.com/search?q=Waseem) | N/A |
-| 29 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 30 | [Hyderabad](http://twitter.com/search?q=Hyderabad) | N/A |
-| 31 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
-| 32 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 33 | [Bhatti](http://twitter.com/search?q=Bhatti) | N/A |
-| 34 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 35 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 36 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 37 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 38 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 39 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 40 | [England](http://twitter.com/search?q=England) | N/A |
-| 41 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 42 | [District](http://twitter.com/search?q=District) | N/A |
-| 43 | [May Allah Almighty](http://twitter.com/search?q=May+Allah+Almighty) | N/A |
-| 44 | [Patwaris](http://twitter.com/search?q=Patwaris) | N/A |
-| 45 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 46 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
-| 47 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 49 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 50 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 2 | [#زلزلہ](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d9%84%db%81) | N/A |
+| 3 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 4 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 5 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
+| 6 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
+| 7 | [#مررہی_عوام_بےضمیرحکمران](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b1%db%81%db%8c_%d8%b9%d9%88%d8%a7%d9%85_%d8%a8%db%92%d8%b6%d9%85%db%8c%d8%b1%d8%ad%da%a9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 8 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 9 | [#هلال_رمضان](http://twitter.com/search?q=%23%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 10 | [#JI_RoadMap4KP](http://twitter.com/search?q=%23JI_RoadMap4KP) | N/A |
+| 11 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
+| 12 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 13 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
+| 14 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 15 | [Abbottabad](http://twitter.com/search?q=Abbottabad) | N/A |
+| 16 | [Allah Pak](http://twitter.com/search?q=Allah+Pak) | N/A |
+| 17 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 18 | [#AdilRaja](http://twitter.com/search?q=%23AdilRaja) | N/A |
+| 19 | [#قوم_کا_فیصلہ_عمران_خان](http://twitter.com/search?q=%23%d9%82%d9%88%d9%85_%da%a9%d8%a7_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 20 | [#Ramadan2023](http://twitter.com/search?q=%23Ramadan2023) | N/A |
+| 21 | [#Afghanistan](http://twitter.com/search?q=%23Afghanistan) | N/A |
+| 22 | [#anwarmaqsood](http://twitter.com/search?q=%23anwarmaqsood) | N/A |
+| 23 | [#ٹرک_والے_پکڑے_گئے](http://twitter.com/search?q=%23%d9%b9%d8%b1%da%a9_%d9%88%d8%a7%d9%84%db%92_%d9%be%da%a9%da%91%db%92_%da%af%d8%a6%db%92) | N/A |
+| 24 | [#گند_کو_ٹھکانے_لگاؤ](http://twitter.com/search?q=%23%da%af%d9%86%d8%af_%da%a9%d9%88_%d9%b9%da%be%da%a9%d8%a7%d9%86%db%92_%d9%84%da%af%d8%a7%d8%a4) | N/A |
+| 25 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 26 | [#PakArmy](http://twitter.com/search?q=%23PakArmy) | N/A |
+| 27 | [#GilgitBaltistan](http://twitter.com/search?q=%23GilgitBaltistan) | N/A |
 
 
 

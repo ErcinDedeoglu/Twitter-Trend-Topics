@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-21 16:18:06 UTC`
+📆 Last Updated: `2023-03-21 17:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 2 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 2 | [Rick Pitino](http://twitter.com/search?q=Rick+Pitino) | N/A |
 | 3 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 4 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 5 | [NYers](http://twitter.com/search?q=NYers) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 4 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 5 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 6 | [NYers](http://twitter.com/search?q=NYers) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 9 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
 | 10 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
 | 11 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 12 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 13 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 12 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 13 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 | 14 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 15 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 16 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 17 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 18 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 19 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 20 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 21 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 22 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 23 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 24 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 25 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 26 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
-| 27 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 28 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 29 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 31 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 32 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 33 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 34 | [NEW FLO](http://twitter.com/search?q=NEW+FLO) | N/A |
-| 35 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 36 | [SlamBall](http://twitter.com/search?q=SlamBall) | N/A |
-| 37 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 38 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 39 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 40 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 41 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 42 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 43 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 44 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 45 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
-| 46 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
-| 47 | [Crash Team Rumble](http://twitter.com/search?q=Crash+Team+Rumble) | N/A |
-| 48 | [Candida](http://twitter.com/search?q=Candida) | N/A |
-| 49 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 15 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 16 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 17 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 18 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 19 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 20 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 21 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 22 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 23 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 24 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 25 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 26 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 27 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 28 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 29 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 30 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 31 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 32 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 33 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
+| 34 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 35 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 36 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
+| 37 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
+| 38 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 39 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 40 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 41 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 42 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 43 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 44 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 45 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 46 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 47 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 48 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 49 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
 
 
 

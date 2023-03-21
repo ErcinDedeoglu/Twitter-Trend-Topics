@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-21 16:18:04 UTC`
+📆 Last Updated: `2023-03-21 17:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 2 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 4 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 5 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 6 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 7 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 8 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 9 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 10 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 11 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 12 | [lars](http://twitter.com/search?q=lars) | N/A |
-| 13 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 14 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 15 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 16 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 17 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 18 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 19 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 20 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 21 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
-| 22 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 23 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 24 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 25 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 26 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 27 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 28 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 29 | [NEW FLO](http://twitter.com/search?q=NEW+FLO) | N/A |
-| 30 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 31 | [SlamBall](http://twitter.com/search?q=SlamBall) | N/A |
-| 32 | [Raine](http://twitter.com/search?q=Raine) | N/A |
+| 1 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
+| 2 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 3 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 4 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 5 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 6 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 7 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 8 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 9 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 10 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 11 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 12 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 13 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 14 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 15 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 16 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 17 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 18 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 19 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 20 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 21 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 22 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 23 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 25 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 26 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 27 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 28 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 29 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 31 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
+| 32 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
 | 33 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 34 | [National Agriculture Day](http://twitter.com/search?q=National+Agriculture+Day) | N/A |
-| 35 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 36 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 37 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 38 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 39 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 40 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
-| 41 | [LOVEJOY](http://twitter.com/search?q=LOVEJOY) | N/A |
-| 42 | [Crash Team Rumble](http://twitter.com/search?q=Crash+Team+Rumble) | N/A |
-| 43 | [Candida](http://twitter.com/search?q=Candida) | N/A |
-| 44 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
-| 45 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 46 | [Irvo Otieno](http://twitter.com/search?q=Irvo+Otieno) | N/A |
-| 47 | [Face ID](http://twitter.com/search?q=Face+ID) | N/A |
-| 48 | [Cathie Wood](http://twitter.com/search?q=Cathie+Wood) | N/A |
-| 49 | [Red Hot Chili Peppers](http://twitter.com/search?q=Red+Hot+Chili+Peppers) | N/A |
-| 50 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 34 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
+| 35 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 36 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 37 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 38 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 39 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 40 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 41 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 42 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 43 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 44 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 45 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 46 | [new flo](http://twitter.com/search?q=new+flo) | N/A |
+| 47 | [Joey Votto](http://twitter.com/search?q=Joey+Votto) | N/A |
+| 48 | [Crash Team Rumble](http://twitter.com/search?q=Crash+Team+Rumble) | N/A |
+| 49 | [Raine](http://twitter.com/search?q=Raine) | N/A |
+| 50 | [Odesza](http://twitter.com/search?q=Odesza) | N/A |
 
 
 
