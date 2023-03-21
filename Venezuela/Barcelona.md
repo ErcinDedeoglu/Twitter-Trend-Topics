@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-21 13:16:54 UTC`
+📆 Last Updated: `2023-03-21 14:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [#JuntosContraLasMafias](http://twitter.com/search?q=%23JuntosContraLasMafias) | N/A |
 | 5 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
 | 6 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
-| 7 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 8 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 9 | [Boleíta](http://twitter.com/search?q=Bole%c3%adta) | N/A |
-| 10 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
-| 11 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 12 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 13 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 14 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 7 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 8 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
+| 10 | [Boleíta](http://twitter.com/search?q=Bole%c3%adta) | N/A |
+| 11 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 12 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 13 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 14 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
 | 15 | [Avon](http://twitter.com/search?q=Avon) | N/A |
 | 16 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 17 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 18 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 19 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 20 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 21 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
-| 22 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 23 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 24 | [Ferraris](http://twitter.com/search?q=Ferraris) | N/A |
-| 25 | [Carlos Omobono](http://twitter.com/search?q=Carlos+Omobono) | N/A |
-| 26 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 27 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 28 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
-| 29 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
-| 30 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
-| 31 | [Elvis Amoroso](http://twitter.com/search?q=Elvis+Amoroso) | N/A |
-| 32 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
-| 33 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 34 | [Buddy Bailey](http://twitter.com/search?q=Buddy+Bailey) | N/A |
-| 35 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 36 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
-| 37 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 38 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 39 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 40 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 42 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 43 | [Cachicamo](http://twitter.com/search?q=Cachicamo) | N/A |
-| 44 | [Quijada](http://twitter.com/search?q=Quijada) | N/A |
-| 45 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 46 | [Monómeros](http://twitter.com/search?q=Mon%c3%b3meros) | N/A |
-| 47 | [Freddy Mercury](http://twitter.com/search?q=Freddy+Mercury) | N/A |
-| 48 | [Izarra](http://twitter.com/search?q=Izarra) | N/A |
-| 49 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
+| 17 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 18 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
+| 19 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
+| 20 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 21 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
+| 22 | [Cada 21](http://twitter.com/search?q=Cada+21) | N/A |
+| 23 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 24 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 25 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 26 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
+| 27 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
+| 28 | [Ferraris](http://twitter.com/search?q=Ferraris) | N/A |
+| 29 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
+| 30 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
+| 31 | [Carlos Omobono](http://twitter.com/search?q=Carlos+Omobono) | N/A |
+| 32 | [Elvis Amoroso](http://twitter.com/search?q=Elvis+Amoroso) | N/A |
+| 33 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
+| 34 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 35 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
+| 36 | [buddy bailey](http://twitter.com/search?q=buddy+bailey) | N/A |
+| 37 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 38 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 39 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
+| 40 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 41 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
+| 42 | [pedro carreño](http://twitter.com/search?q=pedro+carre%c3%b1o) | N/A |
+| 43 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 44 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 45 | [Freddy Mercury](http://twitter.com/search?q=Freddy+Mercury) | N/A |
+| 46 | [cachicamo](http://twitter.com/search?q=cachicamo) | N/A |
+| 47 | [pedro emilio coll](http://twitter.com/search?q=pedro+emilio+coll) | N/A |
+| 48 | [Monómeros](http://twitter.com/search?q=Mon%c3%b3meros) | N/A |
+| 49 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-21 13:16:48 UTC`
+📆 Last Updated: `2023-03-21 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
 | 2 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 | 3 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 4 | [#PLTBirthday](http://twitter.com/search?q=%23PLTBirthday) | N/A |
-| 5 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 6 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 7 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 8 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
-| 9 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 10 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 11 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 4 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 5 | [#PLTBirthday](http://twitter.com/search?q=%23PLTBirthday) | N/A |
+| 6 | [#partygate](http://twitter.com/search?q=%23partygate) | N/A |
+| 7 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
+| 8 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 9 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 10 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 11 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
 | 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 13 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 14 | [jim white](http://twitter.com/search?q=jim+white) | N/A |
-| 15 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 16 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 17 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 18 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
-| 19 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 20 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
-| 21 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 22 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 24 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 25 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
-| 26 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 27 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
+| 13 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 14 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 16 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 17 | [Baroness Casey](http://twitter.com/search?q=Baroness+Casey) | N/A |
+| 18 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 19 | [Jim White](http://twitter.com/search?q=Jim+White) | N/A |
+| 20 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 21 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 23 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 24 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 25 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
+| 26 | [benn](http://twitter.com/search?q=benn) | N/A |
+| 27 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
 | 28 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 29 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 30 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
-| 31 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 29 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 30 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 31 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
 | 32 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 33 | [Tipping](http://twitter.com/search?q=Tipping) | N/A |
-| 34 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
-| 35 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 36 | [No. 10](http://twitter.com/search?q=No.+10) | N/A |
-| 37 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 38 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 39 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 40 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 41 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
-| 42 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 43 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 44 | [Primark](http://twitter.com/search?q=Primark) | N/A |
-| 45 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 46 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 47 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 48 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 33 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 34 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 35 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 36 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
+| 37 | [Tipping](http://twitter.com/search?q=Tipping) | N/A |
+| 38 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 39 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 40 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 41 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 42 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 43 | [China and India](http://twitter.com/search?q=China+and+India) | N/A |
+| 44 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 45 | [abada](http://twitter.com/search?q=abada) | N/A |
+| 46 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 47 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 48 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
 
 
 

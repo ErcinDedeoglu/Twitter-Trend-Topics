@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-21 13:17:30 UTC`
+📆 Last Updated: `2023-03-21 14:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
 | 3 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
 | 4 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 8 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 9 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
-| 10 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 11 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 12 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 13 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 14 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
-| 15 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 16 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 17 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
-| 18 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 19 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 20 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 21 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 22 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 23 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
-| 24 | [Maria Bartiromo](http://twitter.com/search?q=Maria+Bartiromo) | N/A |
-| 25 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 26 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
-| 27 | [uncle buck](http://twitter.com/search?q=uncle+buck) | N/A |
-| 28 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 29 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 30 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 31 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 32 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
-| 33 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
-| 34 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 35 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 36 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
-| 37 | [jim acosta](http://twitter.com/search?q=jim+acosta) | N/A |
-| 38 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 39 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 40 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 41 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 42 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 43 | [#BustedOpen](http://twitter.com/search?q=%23BustedOpen) | N/A |
-| 44 | [#IndictmentWatch](http://twitter.com/search?q=%23IndictmentWatch) | N/A |
-| 45 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 46 | [#AgDay23](http://twitter.com/search?q=%23AgDay23) | N/A |
-| 47 | [#discuss](http://twitter.com/search?q=%23discuss) | N/A |
-| 48 | [#morningjoe](http://twitter.com/search?q=%23morningjoe) | N/A |
-| 49 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
+| 5 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 9 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 10 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 12 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 13 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 14 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
+| 15 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 16 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 18 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 19 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 20 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 21 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 22 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 23 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 24 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
+| 25 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 26 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 27 | [Face ID](http://twitter.com/search?q=Face+ID) | N/A |
+| 28 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 29 | [Maria Bartiromo](http://twitter.com/search?q=Maria+Bartiromo) | N/A |
+| 30 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 31 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
+| 32 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 33 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 34 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 35 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 36 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 37 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 38 | [Arden Key](http://twitter.com/search?q=Arden+Key) | Arden Key is a professional American football player who currently plays for the Las Vegas Raiders of the National Football League (NFL). His name is derived from his hometown of Arden, North Carolina. The name has become a symbol of strength and resilience for Key, as he has overcome many obstacles to reach the NFL. |
+| 39 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 40 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 41 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
+| 42 | [Evangelicals](http://twitter.com/search?q=Evangelicals) | N/A |
+| 43 | [Dan Goldman](http://twitter.com/search?q=Dan+Goldman) | N/A |
+| 44 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 45 | [New Moon](http://twitter.com/search?q=New+Moon) | N/A |
+| 46 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 47 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 48 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 49 | [President Donald Trump](http://twitter.com/search?q=President+Donald+Trump) | N/A |
 
 
 

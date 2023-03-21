@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-21 13:16:56 UTC`
+📆 Last Updated: `2023-03-21 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 1 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 2 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 3 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 4 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
-| 5 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 6 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
-| 7 | [#voltasapato](http://twitter.com/search?q=%23voltasapato) | N/A |
-| 8 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 10 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
-| 11 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 12 | [Excelência](http://twitter.com/search?q=Excel%c3%aancia) | N/A |
-| 13 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 14 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 15 | [Chay Suede](http://twitter.com/search?q=Chay+Suede) | N/A |
-| 16 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 17 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 18 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 19 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
-| 20 | [Fora Campos Neto](http://twitter.com/search?q=Fora+Campos+Neto) | N/A |
-| 21 | [Jair Messias Bolsonaro](http://twitter.com/search?q=Jair+Messias+Bolsonaro) | N/A |
-| 22 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 23 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
-| 24 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 25 | [África do Sul](http://twitter.com/search?q=%c3%81frica+do+Sul) | N/A |
-| 26 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
-| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 28 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 29 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Mandetta](http://twitter.com/search?q=Mandetta) | N/A |
-| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 33 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
-| 34 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 35 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 36 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 37 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 38 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 39 | [Economia](http://twitter.com/search?q=Economia) | N/A |
-| 40 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 41 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 42 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 43 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 44 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
-| 45 | [Lista de 5](http://twitter.com/search?q=Lista+de+5) | N/A |
-| 46 | [oliver sykes](http://twitter.com/search?q=oliver+sykes) | N/A |
-| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 48 | [#ChevroletNoBBB](http://twitter.com/search?q=%23ChevroletNoBBB) | N/A |
-| 49 | [Iraque](http://twitter.com/search?q=Iraque) | N/A |
+| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 4 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
+| 5 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
+| 6 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
+| 7 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
+| 8 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
+| 9 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
+| 10 | [#voltasapato](http://twitter.com/search?q=%23voltasapato) | N/A |
+| 11 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 12 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
+| 13 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
+| 14 | [SIGAA](http://twitter.com/search?q=SIGAA) | N/A |
+| 15 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
+| 16 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 17 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 18 | [Excelência](http://twitter.com/search?q=Excel%c3%aancia) | N/A |
+| 19 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 20 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 21 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
+| 22 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 23 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 24 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
+| 25 | [Fora Campos Neto](http://twitter.com/search?q=Fora+Campos+Neto) | N/A |
+| 26 | [Na Alemanha](http://twitter.com/search?q=Na+Alemanha) | N/A |
+| 27 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
+| 28 | [África do Sul](http://twitter.com/search?q=%c3%81frica+do+Sul) | N/A |
+| 29 | [TV 247](http://twitter.com/search?q=TV+247) | N/A |
+| 30 | [Jair Messias Bolsonaro](http://twitter.com/search?q=Jair+Messias+Bolsonaro) | N/A |
+| 31 | [Formiga](http://twitter.com/search?q=Formiga) | N/A |
+| 32 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 33 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 34 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 35 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 36 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 37 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
+| 38 | [Venê](http://twitter.com/search?q=Ven%c3%aa) | N/A |
+| 39 | [Nações Unidas](http://twitter.com/search?q=Na%c3%a7%c3%b5es+Unidas) | N/A |
+| 40 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 41 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 42 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
+| 43 | [Dia 21](http://twitter.com/search?q=Dia+21) | N/A |
+| 44 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
+| 45 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 46 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 48 | [Lista de 5](http://twitter.com/search?q=Lista+de+5) | N/A |
+| 49 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
 
 
 

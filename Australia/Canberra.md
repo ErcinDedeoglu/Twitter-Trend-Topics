@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-21 13:17:07 UTC`
+📆 Last Updated: `2023-03-21 14:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 2 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 3 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 4 | [#mafsau](http://twitter.com/search?q=%23mafsau) | N/A |
 | 5 | [#PAXAus](http://twitter.com/search?q=%23PAXAus) | N/A |
 | 6 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
-| 7 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 8 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 9 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 10 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 11 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 12 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 13 | [Kirra](http://twitter.com/search?q=Kirra) | N/A |
-| 14 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 7 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 8 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 9 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 10 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 11 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 12 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 13 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 14 | [Layton](http://twitter.com/search?q=Layton) | N/A |
 | 15 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 16 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 16 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
 | 17 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 18 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 19 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 20 | [#PAXandWin](http://twitter.com/search?q=%23PAXandWin) | N/A |
+| 18 | [#paxandwin](http://twitter.com/search?q=%23paxandwin) | N/A |
+| 19 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 20 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
 | 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 23 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 22 | [Kirra](http://twitter.com/search?q=Kirra) | N/A |
+| 23 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 24 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 25 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 25 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
 | 26 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
-| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 28 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 29 | [Jikky](http://twitter.com/search?q=Jikky) | N/A |
-| 30 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 31 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 32 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 33 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 34 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 35 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 36 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 37 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 38 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 39 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 40 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 41 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 27 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 28 | [Jikky](http://twitter.com/search?q=Jikky) | N/A |
+| 29 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 30 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 31 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 32 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
+| 33 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 34 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 35 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 37 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 38 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 39 | [zali](http://twitter.com/search?q=zali) | N/A |
+| 40 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 41 | [lambie](http://twitter.com/search?q=lambie) | N/A |
 | 42 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 43 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 44 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 45 | [Lambie](http://twitter.com/search?q=Lambie) | N/A |
-| 46 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 47 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 48 | [Appeal](http://twitter.com/search?q=Appeal) | N/A |
+| 43 | [Appeal](http://twitter.com/search?q=Appeal) | N/A |
+| 44 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 46 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 47 | [sussan](http://twitter.com/search?q=sussan) | N/A |
+| 48 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
 | 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 
 

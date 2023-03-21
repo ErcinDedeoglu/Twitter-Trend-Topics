@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-21 13:16:59 UTC`
+📆 Last Updated: `2023-03-21 14:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 2 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
-| 3 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
-| 4 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 5 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 6 | [#JIF2023](http://twitter.com/search?q=%23JIF2023) | N/A |
-| 7 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
-| 8 | [Linval](http://twitter.com/search?q=Linval) | N/A |
-| 9 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 10 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
-| 11 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 12 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 13 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
-| 14 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 16 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 17 | [Pascal Praud](http://twitter.com/search?q=Pascal+Praud) | N/A |
-| 18 | [Inox](http://twitter.com/search?q=Inox) | Inox is short for "inoxidable," which is Spanish for "stainless steel." Inox is a type of steel that is resistant to corrosion and rust, making it a popular choice for kitchen appliances, cutlery, and other items. |
-| 19 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
-| 20 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 21 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 22 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
-| 23 | [Lallement](http://twitter.com/search?q=Lallement) | N/A |
-| 24 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 25 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
-| 26 | [France 2](http://twitter.com/search?q=France+2) | N/A |
-| 27 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 28 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 29 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 30 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 31 | [Mihawk](http://twitter.com/search?q=Mihawk) | N/A |
-| 32 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 33 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
-| 34 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
-| 35 | [64ans](http://twitter.com/search?q=64ans) | N/A |
-| 36 | [#FreebetUnibetDOM](http://twitter.com/search?q=%23FreebetUnibetDOM) | N/A |
-| 37 | [#Trisomie21](http://twitter.com/search?q=%23Trisomie21) | N/A |
-| 38 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 39 | [#kingdom752](http://twitter.com/search?q=%23kingdom752) | N/A |
-| 40 | [#forêts](http://twitter.com/search?q=%23for%c3%aats) | N/A |
-| 41 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
-| 42 | [#quatennensdemission](http://twitter.com/search?q=%23quatennensdemission) | N/A |
-| 43 | [#entreprise](http://twitter.com/search?q=%23entreprise) | N/A |
-| 44 | [#23mars](http://twitter.com/search?q=%2323mars) | N/A |
-| 45 | [#ggrmc](http://twitter.com/search?q=%23ggrmc) | N/A |
+| 1 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 2 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 3 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 4 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
+| 5 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 6 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 7 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 8 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 9 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 10 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 11 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 12 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 14 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
+| 15 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 16 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
+| 17 | [courson](http://twitter.com/search?q=courson) | N/A |
+| 18 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
+| 19 | [vauban](http://twitter.com/search?q=vauban) | N/A |
+| 20 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 21 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 22 | [Linval](http://twitter.com/search?q=Linval) | N/A |
+| 23 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 24 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 25 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
+| 26 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
+| 27 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 28 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
+| 29 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
+| 30 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 31 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 33 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 34 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
+| 35 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 36 | [neuf voix](http://twitter.com/search?q=neuf+voix) | N/A |
+| 37 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 39 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 40 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 42 | [clairefontaine](http://twitter.com/search?q=clairefontaine) | N/A |
+| 43 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 44 | [w-870](http://twitter.com/search?q=w-870) | N/A |
+| 45 | [pour 9](http://twitter.com/search?q=pour+9) | N/A |
+| 46 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 47 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 48 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 49 | [Brasilia](http://twitter.com/search?q=Brasilia) | N/A |
+| 50 | [Coquerel](http://twitter.com/search?q=Coquerel) | N/A |
 
 
 

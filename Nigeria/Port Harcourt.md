@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-21 13:17:15 UTC`
+📆 Last Updated: `2023-03-21 14:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 2 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 3 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 4 | [#4GForEveryone](http://twitter.com/search?q=%234GForEveryone) | N/A |
-| 5 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 6 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 7 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
-| 8 | [#VictorOsimhenXDettol](http://twitter.com/search?q=%23VictorOsimhenXDettol) | N/A |
-| 9 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 10 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 11 | [#SimActivatedinRivers](http://twitter.com/search?q=%23SimActivatedinRivers) | N/A |
-| 12 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 13 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 14 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
-| 15 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 16 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 17 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
-| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 19 | [senate president](http://twitter.com/search?q=senate+president) | N/A |
-| 20 | [senate president](http://twitter.com/search?q=senate+president) | N/A |
-| 21 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 22 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 23 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 24 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 25 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 27 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
-| 28 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 29 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 30 | [Benue](http://twitter.com/search?q=Benue) | N/A |
-| 31 | [Dauda Lawal](http://twitter.com/search?q=Dauda+Lawal) | N/A |
-| 32 | [happy birthday yemi cregx](http://twitter.com/search?q=happy+birthday+yemi+cregx) | N/A |
-| 33 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
-| 34 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 35 | [Akpabio](http://twitter.com/search?q=Akpabio) | N/A |
-| 36 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 37 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
-| 38 | [Warri](http://twitter.com/search?q=Warri) | N/A |
-| 39 | [world yemi cregx day](http://twitter.com/search?q=world+yemi+cregx+day) | N/A |
-| 40 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 41 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 42 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
-| 43 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 44 | [LOVING PHYNA](http://twitter.com/search?q=LOVING+PHYNA) | N/A |
-| 45 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
-| 46 | [Niger Delta](http://twitter.com/search?q=Niger+Delta) | N/A |
-| 47 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 48 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 1 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 2 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
+| 3 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
+| 4 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 5 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
+| 6 | [OBO IS BACK](http://twitter.com/search?q=OBO+IS+BACK) | N/A |
+| 7 | [Shekpe](http://twitter.com/search?q=Shekpe) | N/A |
+| 8 | [#30BG](http://twitter.com/search?q=%2330BG) | N/A |
+| 9 | [31st of March](http://twitter.com/search?q=31st+of+March) | N/A |
+| 10 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 11 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
+| 12 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 13 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
+| 14 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 15 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
+| 16 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
+| 17 | [My Idolo](http://twitter.com/search?q=My+Idolo) | N/A |
+| 18 | [#VictorOsimhenXDettol](http://twitter.com/search?q=%23VictorOsimhenXDettol) | N/A |
+| 19 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 20 | [North Central](http://twitter.com/search?q=North+Central) | N/A |
+| 21 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
+| 22 | [#4GForEveryone](http://twitter.com/search?q=%234GForEveryone) | N/A |
+| 23 | [Healing](http://twitter.com/search?q=Healing) | N/A |
+| 24 | [Orji Kalu](http://twitter.com/search?q=Orji+Kalu) | N/A |
+| 25 | [Orji Uzor Kalu](http://twitter.com/search?q=Orji+Uzor+Kalu) | N/A |
+| 26 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 27 | [Akpabio](http://twitter.com/search?q=Akpabio) | N/A |
+| 28 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 29 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 30 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 31 | [Warri](http://twitter.com/search?q=Warri) | N/A |
+| 32 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 33 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 34 | [Oduduwa](http://twitter.com/search?q=Oduduwa) | N/A |
+| 35 | [Emilokan](http://twitter.com/search?q=Emilokan) | N/A |
+| 36 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 37 | [Congratulations Doc](http://twitter.com/search?q=Congratulations+Doc) | N/A |
+| 38 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
+| 39 | [Bashir](http://twitter.com/search?q=Bashir) | N/A |
+| 40 | [teni](http://twitter.com/search?q=teni) | N/A |
+| 41 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
+| 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 43 | [labor party presidential](http://twitter.com/search?q=labor+party+presidential) | N/A |
+| 44 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
+| 45 | [Enugu and Abia](http://twitter.com/search?q=Enugu+and+Abia) | N/A |
+| 46 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
+| 47 | [Ndigbo](http://twitter.com/search?q=Ndigbo) | N/A |
+| 48 | [Nnamani](http://twitter.com/search?q=Nnamani) | N/A |
 
 
 
