@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-21 01:43:25 UTC`
+📆 Last Updated: `2023-03-21 02:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 3 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
-| 4 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 5 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 9 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 10 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
-| 11 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 12 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
-| 13 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 14 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 15 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
+| 4 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 8 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 9 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
+| 10 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 11 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
+| 12 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 13 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
+| 14 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
+| 15 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
 | 16 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 17 | [Weltklimarat](http://twitter.com/search?q=Weltklimarat) | N/A |
-| 18 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 19 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 20 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
-| 21 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
-| 22 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 23 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 24 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 25 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 26 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 27 | [Restle](http://twitter.com/search?q=Restle) | N/A |
-| 28 | [Kaufland](http://twitter.com/search?q=Kaufland) | N/A |
-| 29 | [Nachti](http://twitter.com/search?q=Nachti) | N/A |
-| 30 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 31 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 32 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
-| 33 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 34 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 35 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 36 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
-| 37 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
-| 38 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 39 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 40 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 41 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 42 | [Neujahrsfest](http://twitter.com/search?q=Neujahrsfest) | N/A |
-| 43 | [Impfgeschädigten](http://twitter.com/search?q=Impfgesch%c3%a4digten) | N/A |
-| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 45 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 46 | [Dario](http://twitter.com/search?q=Dario) | N/A |
-| 47 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 48 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
-| 49 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 17 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 19 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 20 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 21 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 22 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 23 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 24 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 25 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 26 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 27 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 28 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
+| 29 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
+| 30 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 31 | [Impfgeschädigten](http://twitter.com/search?q=Impfgesch%c3%a4digten) | N/A |
+| 32 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 33 | [Kaufland](http://twitter.com/search?q=Kaufland) | N/A |
+| 34 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 35 | [Dario](http://twitter.com/search?q=Dario) | N/A |
+| 36 | [impfarzt](http://twitter.com/search?q=impfarzt) | N/A |
+| 37 | [neujahrsfest](http://twitter.com/search?q=neujahrsfest) | N/A |
+| 38 | [Mündlich](http://twitter.com/search?q=M%c3%bcndlich) | N/A |
+| 39 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
+| 40 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 41 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 42 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 43 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
+| 44 | [tag des glücks](http://twitter.com/search?q=tag+des+gl%c3%bccks) | N/A |
+| 45 | [Elise](http://twitter.com/search?q=Elise) | N/A |
+| 46 | [arztgespräch](http://twitter.com/search?q=arztgespr%c3%a4ch) | N/A |
+| 47 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 48 | [Saddam Hussein](http://twitter.com/search?q=Saddam+Hussein) | N/A |
 
 
 

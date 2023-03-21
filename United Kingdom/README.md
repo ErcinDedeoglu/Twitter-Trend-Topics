@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-21 01:44:06 UTC`
+📆 Last Updated: `2023-03-21 02:30:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 3 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 4 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
-| 5 | [Mams](http://twitter.com/search?q=Mams) | N/A |
-| 6 | [#georgiavsbear](http://twitter.com/search?q=%23georgiavsbear) | N/A |
-| 7 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 8 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 9 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 10 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 11 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 12 | [Misfits](http://twitter.com/search?q=Misfits) | N/A |
-| 13 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 14 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 15 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 16 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 17 | [Stephen Bear](http://twitter.com/search?q=Stephen+Bear) | N/A |
-| 18 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 19 | [The Met](http://twitter.com/search?q=The+Met) | The Met is short for The Metropolitan Museum of Art, which is an art museum located in New York City. It is one of the largest and most visited art museums in the world, and it houses a collection of over two million works of art from around the world. |
-| 20 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 21 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 22 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 23 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 24 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 25 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 26 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 27 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Iraqis](http://twitter.com/search?q=Iraqis) | N/A |
-| 30 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 31 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 32 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 33 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 34 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 35 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 36 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 37 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
-| 38 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 39 | [Iraq War](http://twitter.com/search?q=Iraq+War) | N/A |
-| 40 | [Tice](http://twitter.com/search?q=Tice) | N/A |
-| 41 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 42 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
-| 43 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
-| 44 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 45 | [#Panorama](http://twitter.com/search?q=%23Panorama) | N/A |
-| 46 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 47 | [#corrie](http://twitter.com/search?q=%23corrie) | N/A |
-| 48 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
-| 49 | [#Unforgotten](http://twitter.com/search?q=%23Unforgotten) | N/A |
-| 50 | [#LyricsMisheardInSong](http://twitter.com/search?q=%23LyricsMisheardInSong) | N/A |
+| 1 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 2 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 5 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 6 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 7 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 10 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 11 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 12 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 13 | [#SpringEquinox](http://twitter.com/search?q=%23SpringEquinox) | N/A |
+| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 15 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 16 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 17 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 18 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 19 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 20 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 21 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 22 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 23 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
+| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 28 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 29 | [Mams](http://twitter.com/search?q=Mams) | N/A |
+| 30 | [Happy Mothers](http://twitter.com/search?q=Happy+Mothers) | N/A |
+| 31 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 32 | [Flora](http://twitter.com/search?q=Flora) | N/A |
+| 33 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
+| 34 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
+| 35 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
+| 36 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 37 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 38 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 39 | [Ryan Mason](http://twitter.com/search?q=Ryan+Mason) | N/A |
+| 40 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 41 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 42 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 43 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 45 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 46 | [Reform](http://twitter.com/search?q=Reform) | N/A |
+| 47 | [Misfits](http://twitter.com/search?q=Misfits) | N/A |
+| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 49 | [josh jenkinson](http://twitter.com/search?q=josh+jenkinson) | N/A |
+| 50 | [Keem](http://twitter.com/search?q=Keem) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-21 01:43:45 UTC`
+📆 Last Updated: `2023-03-21 02:29:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
 | 2 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
-| 3 | [#چوروں_کا_یار_خود_بھی_غدار](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%db%8c%d8%a7%d8%b1_%d8%ae%d9%88%d8%af_%d8%a8%da%be%db%8c_%d8%ba%d8%af%d8%a7%d8%b1) | N/A |
-| 4 | [#ترازو_ہٹاو_بلا_لگاو](http://twitter.com/search?q=%23%d8%aa%d8%b1%d8%a7%d8%b2%d9%88_%db%81%d9%b9%d8%a7%d9%88_%d8%a8%d9%84%d8%a7_%d9%84%da%af%d8%a7%d9%88) | N/A |
+| 3 | [#ترازو_ہٹاو_بلا_لگاو](http://twitter.com/search?q=%23%d8%aa%d8%b1%d8%a7%d8%b2%d9%88_%db%81%d9%b9%d8%a7%d9%88_%d8%a8%d9%84%d8%a7_%d9%84%da%af%d8%a7%d9%88) | N/A |
+| 4 | [#چوروں_کا_یار_خود_بھی_غدار](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%db%8c%d8%a7%d8%b1_%d8%ae%d9%88%d8%af_%d8%a8%da%be%db%8c_%d8%ba%d8%af%d8%a7%d8%b1) | N/A |
 | 5 | [#TTPTI](http://twitter.com/search?q=%23TTPTI) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
+| 6 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 8 | [Deleted](http://twitter.com/search?q=Deleted) | N/A |
 | 9 | [Asia Lions](http://twitter.com/search?q=Asia+Lions) | N/A |
-| 10 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 11 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
-| 12 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 13 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 14 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 15 | [Ijaz](http://twitter.com/search?q=Ijaz) | N/A |
-| 16 | [shield fluoride toothpaste](http://twitter.com/search?q=shield+fluoride+toothpaste) | N/A |
-| 17 | [Chips](http://twitter.com/search?q=Chips) | N/A |
-| 18 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 19 | [SHAHEEN](http://twitter.com/search?q=SHAHEEN) | N/A |
-| 20 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 21 | [aghosh homes](http://twitter.com/search?q=aghosh+homes) | N/A |
-| 22 | [Squeaky](http://twitter.com/search?q=Squeaky) | N/A |
-| 23 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
-| 24 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 25 | [Mishi](http://twitter.com/search?q=Mishi) | N/A |
-| 26 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 27 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 28 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 29 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 10 | [DONATE NOW](http://twitter.com/search?q=DONATE+NOW) | N/A |
+| 11 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
+| 12 | [Chips](http://twitter.com/search?q=Chips) | N/A |
+| 13 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 14 | [shield fluoride toothpaste](http://twitter.com/search?q=shield+fluoride+toothpaste) | N/A |
+| 15 | [Ijaz Ul Haq](http://twitter.com/search?q=Ijaz+Ul+Haq) | N/A |
+| 16 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 17 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 18 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 19 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 20 | [Pukhtoon](http://twitter.com/search?q=Pukhtoon) | N/A |
+| 21 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 22 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 23 | [aghosh homes](http://twitter.com/search?q=aghosh+homes) | N/A |
+| 24 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
+| 25 | [Squeaky](http://twitter.com/search?q=Squeaky) | N/A |
+| 26 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 27 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 28 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 29 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 30 | [Rain](http://twitter.com/search?q=Rain) | N/A |
 | 31 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 32 | [MPhil](http://twitter.com/search?q=MPhil) | N/A |
-| 33 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 35 | [Come DM](http://twitter.com/search?q=Come+DM) | N/A |
-| 36 | [West](http://twitter.com/search?q=West) | N/A |
-| 37 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 38 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 39 | [Phir](http://twitter.com/search?q=Phir) | N/A |
-| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 41 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 42 | [Professional](http://twitter.com/search?q=Professional) | N/A |
-| 43 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
-| 44 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
-| 45 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 46 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 47 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 48 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
-| 49 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
-| 50 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 32 | [Ali Amin Gandapur](http://twitter.com/search?q=Ali+Amin+Gandapur) | N/A |
+| 33 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 34 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 35 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
+| 38 | [Iron](http://twitter.com/search?q=Iron) | N/A |
+| 39 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
+| 40 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 42 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 43 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
+| 44 | [West](http://twitter.com/search?q=West) | N/A |
+| 45 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 46 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 47 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
+| 48 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 49 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 50 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-21 01:44:02 UTC`
+📆 Last Updated: `2023-03-21 02:30:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
 | 2 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
-| 3 | [#DateWithDestiny20thMarch](http://twitter.com/search?q=%23DateWithDestiny20thMarch) | N/A |
-| 4 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
-| 5 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 6 | [#arscry](http://twitter.com/search?q=%23arscry) | N/A |
-| 7 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 8 | [#mainaandkingangi](http://twitter.com/search?q=%23mainaandkingangi) | N/A |
-| 9 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 10 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 11 | [KICC](http://twitter.com/search?q=KICC) | N/A |
-| 12 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 13 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 14 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 15 | [tom mboya street](http://twitter.com/search?q=tom+mboya+street) | N/A |
-| 16 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 17 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 18 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 19 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 20 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 21 | [State House](http://twitter.com/search?q=State+House) | N/A |
+| 3 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 4 | [#DateWithDestiny20thMarch](http://twitter.com/search?q=%23DateWithDestiny20thMarch) | N/A |
+| 5 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
+| 6 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
+| 7 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 8 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 9 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 10 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 11 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 12 | [KICC](http://twitter.com/search?q=KICC) | N/A |
+| 13 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 14 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 15 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 16 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 17 | [tom mboya street](http://twitter.com/search?q=tom+mboya+street) | N/A |
+| 18 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
+| 19 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 20 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 21 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
 | 22 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 23 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 24 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 23 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 24 | [State House](http://twitter.com/search?q=State+House) | N/A |
 | 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Returning](http://twitter.com/search?q=Returning) | N/A |
-| 27 | [gichugu](http://twitter.com/search?q=gichugu) | N/A |
-| 28 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
-| 29 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 30 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
-| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 32 | [stewart madzayo](http://twitter.com/search?q=stewart+madzayo) | N/A |
-| 33 | [Teargas](http://twitter.com/search?q=Teargas) | N/A |
-| 34 | [madilu](http://twitter.com/search?q=madilu) | N/A |
-| 35 | [peter salasya](http://twitter.com/search?q=peter+salasya) | N/A |
-| 36 | [toi market](http://twitter.com/search?q=toi+market) | N/A |
-| 37 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
-| 38 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 39 | [Coward](http://twitter.com/search?q=Coward) | N/A |
-| 40 | [Jacaranda](http://twitter.com/search?q=Jacaranda) | N/A |
-| 41 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 42 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 43 | [My DM](http://twitter.com/search?q=My+DM) | N/A |
-| 44 | [junet](http://twitter.com/search?q=junet) | N/A |
-| 45 | [juja road](http://twitter.com/search?q=juja+road) | N/A |
-| 46 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
-| 47 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 48 | [kenya airways](http://twitter.com/search?q=kenya+airways) | N/A |
-| 49 | [kamukunji](http://twitter.com/search?q=kamukunji) | N/A |
-| 50 | [Wewe](http://twitter.com/search?q=Wewe) | N/A |
+| 26 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
+| 27 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
+| 28 | [Returning](http://twitter.com/search?q=Returning) | N/A |
+| 29 | [thika road](http://twitter.com/search?q=thika+road) | N/A |
+| 30 | [peter salasya](http://twitter.com/search?q=peter+salasya) | N/A |
+| 31 | [Coward](http://twitter.com/search?q=Coward) | N/A |
+| 32 | [madilu](http://twitter.com/search?q=madilu) | N/A |
+| 33 | [juja road](http://twitter.com/search?q=juja+road) | N/A |
+| 34 | [gichugu](http://twitter.com/search?q=gichugu) | N/A |
+| 35 | [Teargas](http://twitter.com/search?q=Teargas) | N/A |
+| 36 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 37 | [stewart madzayo](http://twitter.com/search?q=stewart+madzayo) | N/A |
+| 38 | [toi market](http://twitter.com/search?q=toi+market) | N/A |
+| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 40 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 41 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
+| 42 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
+| 43 | [no handcheque](http://twitter.com/search?q=no+handcheque) | N/A |
+| 44 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 46 | [junet](http://twitter.com/search?q=junet) | N/A |
+| 47 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 48 | [Enigma](http://twitter.com/search?q=Enigma) | N/A |
+| 49 | [Redbull](http://twitter.com/search?q=Redbull) | N/A |
+| 50 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
 
 
 

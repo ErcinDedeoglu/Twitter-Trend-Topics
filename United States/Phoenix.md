@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-21 01:43:56 UTC`
+📆 Last Updated: `2023-03-21 02:30:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 2 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 3 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 6 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 7 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 8 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 9 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 10 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 11 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 12 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 13 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 14 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 15 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
-| 16 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
-| 17 | [#Knicks](http://twitter.com/search?q=%23Knicks) | N/A |
-| 18 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 19 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 20 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 21 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 22 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 23 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 24 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 25 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 1 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 4 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 5 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 6 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 7 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 8 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 9 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 10 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 11 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 12 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 13 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 14 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 15 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 16 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 18 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 19 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 20 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 21 | [#Knicks](http://twitter.com/search?q=%23Knicks) | N/A |
+| 22 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 23 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 24 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 25 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
 | 26 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 27 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
-| 28 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 29 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 30 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 31 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 32 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 33 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 34 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 35 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 36 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 37 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 38 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 39 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 40 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 41 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
-| 42 | [Melton](http://twitter.com/search?q=Melton) | N/A |
-| 43 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 44 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 45 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 46 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 47 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 48 | [THE NOSE RING](http://twitter.com/search?q=THE+NOSE+RING) | N/A |
-| 49 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
-| 50 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 27 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 28 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
+| 29 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 30 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 31 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 32 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 33 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 34 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 35 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 36 | [Deception](http://twitter.com/search?q=Deception) | N/A |
+| 37 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 38 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 39 | [THE NOSE RING](http://twitter.com/search?q=THE+NOSE+RING) | N/A |
+| 40 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 41 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 42 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 43 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 44 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 45 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 46 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 47 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 48 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 49 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 50 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
 
 
 
