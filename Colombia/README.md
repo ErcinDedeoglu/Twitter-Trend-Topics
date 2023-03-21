@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-21 06:17:46 UTC`
+📆 Last Updated: `2023-03-21 07:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Colombia
 | 3 | [#ColombiaVaMal](http://twitter.com/search?q=%23ColombiaVaMal) | N/A |
 | 4 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
 | 5 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
-| 6 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 7 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
-| 8 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 6 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
+| 7 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 8 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
 | 9 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 10 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 11 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 12 | [Quibdó](http://twitter.com/search?q=Quibd%c3%b3) | N/A |
-| 13 | [Guerrerista](http://twitter.com/search?q=Guerrerista) | N/A |
-| 14 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 15 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
-| 16 | [paraca](http://twitter.com/search?q=paraca) | N/A |
-| 17 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
-| 18 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 19 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 21 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 22 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
-| 23 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 24 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 25 | [Riquett](http://twitter.com/search?q=Riquett) | N/A |
-| 26 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 27 | [FELICES 26 TINI](http://twitter.com/search?q=FELICES+26+TINI) | N/A |
-| 28 | [Ana Piñeres](http://twitter.com/search?q=Ana+Pi%c3%b1eres) | N/A |
-| 29 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 30 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 31 | [Fuera Petro](http://twitter.com/search?q=Fuera+Petro) | N/A |
-| 32 | [Alfonso López](http://twitter.com/search?q=Alfonso+L%c3%b3pez) | N/A |
-| 33 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 34 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 35 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 36 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 37 | [Neiva](http://twitter.com/search?q=Neiva) | N/A |
-| 38 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 39 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 40 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
-| 41 | [nariz del diablo](http://twitter.com/search?q=nariz+del+diablo) | N/A |
-| 42 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
-| 43 | [Subero](http://twitter.com/search?q=Subero) | N/A |
-| 44 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
-| 45 | [Dinas](http://twitter.com/search?q=Dinas) | N/A |
-| 46 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 47 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 48 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 11 | [Quibdó](http://twitter.com/search?q=Quibd%c3%b3) | N/A |
+| 12 | [Guerrerista](http://twitter.com/search?q=Guerrerista) | N/A |
+| 13 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 14 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
+| 15 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 16 | [Paraca](http://twitter.com/search?q=Paraca) | N/A |
+| 17 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 18 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 19 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
+| 20 | [Ana Piñeres](http://twitter.com/search?q=Ana+Pi%c3%b1eres) | N/A |
+| 21 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
+| 22 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 23 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
+| 24 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
+| 25 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 26 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 27 | [Riquett](http://twitter.com/search?q=Riquett) | N/A |
+| 28 | [FELICES 26 TINI](http://twitter.com/search?q=FELICES+26+TINI) | N/A |
+| 29 | [fuera petro](http://twitter.com/search?q=fuera+petro) | N/A |
+| 30 | [Alfonso López](http://twitter.com/search?q=Alfonso+L%c3%b3pez) | N/A |
+| 31 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 32 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 33 | [nariz del diablo](http://twitter.com/search?q=nariz+del+diablo) | N/A |
+| 34 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 35 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 36 | [julieth garcía](http://twitter.com/search?q=julieth+garc%c3%ada) | N/A |
+| 37 | [Subero](http://twitter.com/search?q=Subero) | N/A |
+| 38 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
+| 39 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 40 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 41 | [Dinas](http://twitter.com/search?q=Dinas) | N/A |
+| 42 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 43 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
+| 44 | [Chocó](http://twitter.com/search?q=Choc%c3%b3) | N/A |
+| 45 | [Otto Serge](http://twitter.com/search?q=Otto+Serge) | N/A |
+| 46 | [Arauca](http://twitter.com/search?q=Arauca) | N/A |
+| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 48 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 49 | [Angra](http://twitter.com/search?q=Angra) | N/A |
-| 50 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 50 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
 
 
 

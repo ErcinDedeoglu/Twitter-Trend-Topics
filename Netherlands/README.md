@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-21 06:17:49 UTC`
+📆 Last Updated: `2023-03-21 07:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Netherlands
 | 1 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 3 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
-| 4 | [#huntedvips](http://twitter.com/search?q=%23huntedvips) | N/A |
-| 5 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
-| 6 | [#langlevedeliefde](http://twitter.com/search?q=%23langlevedeliefde) | N/A |
-| 7 | [#tweaz](http://twitter.com/search?q=%23tweaz) | N/A |
+| 4 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
+| 5 | [#huntedvips](http://twitter.com/search?q=%23huntedvips) | N/A |
+| 6 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 7 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
 | 8 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 9 | [makkelie](http://twitter.com/search?q=makkelie) | N/A |
-| 10 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 11 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 13 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
+| 10 | [Stef](http://twitter.com/search?q=Stef) | N/A |
+| 11 | [hartman](http://twitter.com/search?q=hartman) | N/A |
+| 12 | [stijn](http://twitter.com/search?q=stijn) | N/A |
+| 13 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 | 14 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 15 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 16 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 17 | [Rai Vloet](http://twitter.com/search?q=Rai+Vloet) | N/A |
-| 18 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
-| 19 | [Mona Keijzer](http://twitter.com/search?q=Mona+Keijzer) | N/A |
-| 20 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 21 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
-| 22 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 23 | [goeree-overflakkee](http://twitter.com/search?q=goeree-overflakkee) | N/A |
-| 24 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
-| 25 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 26 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
-| 27 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
-| 28 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 29 | [Tonge](http://twitter.com/search?q=Tonge) | N/A |
+| 15 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 16 | [Rai Vloet](http://twitter.com/search?q=Rai+Vloet) | N/A |
+| 17 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
+| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 19 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 20 | [Mona Keijzer](http://twitter.com/search?q=Mona+Keijzer) | N/A |
+| 21 | [Inge](http://twitter.com/search?q=Inge) | N/A |
+| 22 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
+| 23 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 24 | [Extinction Rebellion](http://twitter.com/search?q=Extinction+Rebellion) | N/A |
+| 25 | [Overheidsfout](http://twitter.com/search?q=Overheidsfout) | N/A |
+| 26 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 27 | [klimaatonderzoekers](http://twitter.com/search?q=klimaatonderzoekers) | N/A |
+| 28 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 30 | [gefeliciteerd fleur](http://twitter.com/search?q=gefeliciteerd+fleur) | N/A |
-| 31 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 32 | [Catherine Keyl](http://twitter.com/search?q=Catherine+Keyl) | N/A |
-| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 34 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 35 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 36 | [vaart](http://twitter.com/search?q=vaart) | N/A |
-| 37 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
-| 38 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 39 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 40 | [klimaatonderzoekers](http://twitter.com/search?q=klimaatonderzoekers) | N/A |
-| 41 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
-| 42 | [borst](http://twitter.com/search?q=borst) | N/A |
-| 43 | [hancko](http://twitter.com/search?q=hancko) | N/A |
-| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 45 | [Shib](http://twitter.com/search?q=Shib) | N/A |
-| 46 | [van ranst](http://twitter.com/search?q=van+ranst) | N/A |
-| 47 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 48 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
-| 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 50 | [lukkien](http://twitter.com/search?q=lukkien) | N/A |
+| 31 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
+| 32 | [Tonge](http://twitter.com/search?q=Tonge) | N/A |
+| 33 | [Catherine Keyl](http://twitter.com/search?q=Catherine+Keyl) | N/A |
+| 34 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 35 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 36 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 37 | [hugo borst](http://twitter.com/search?q=hugo+borst) | N/A |
+| 38 | [Goeree-Overflakkee](http://twitter.com/search?q=Goeree-Overflakkee) | N/A |
+| 39 | [hancko](http://twitter.com/search?q=hancko) | N/A |
+| 40 | [van ranst](http://twitter.com/search?q=van+ranst) | N/A |
+| 41 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
+| 42 | [Shib](http://twitter.com/search?q=Shib) | N/A |
+| 43 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 44 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
+| 45 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 46 | [ICC in Den Haag](http://twitter.com/search?q=ICC+in+Den+Haag) | N/A |
+| 47 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 50 | [Hunters](http://twitter.com/search?q=Hunters) | N/A |
 
 
 

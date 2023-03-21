@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-21 06:17:27 UTC`
+📆 Last Updated: `2023-03-21 07:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#HumanRightsDay](http://twitter.com/search?q=%23HumanRightsDay) | N/A |
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 3 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 4 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 5 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
-| 6 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 7 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 8 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 9 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 10 | [#datemyfamily](http://twitter.com/search?q=%23datemyfamily) | N/A |
+| 3 | [#YadaYadaFree](http://twitter.com/search?q=%23YadaYadaFree) | N/A |
+| 4 | [#FindYourFlavourWithExcellence](http://twitter.com/search?q=%23FindYourFlavourWithExcellence) | N/A |
+| 5 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
+| 6 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
+| 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 8 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
+| 9 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
+| 10 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
 | 11 | [Sharpeville](http://twitter.com/search?q=Sharpeville) | N/A |
 | 12 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 13 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
-| 14 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 15 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 16 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 17 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 18 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 19 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 20 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 21 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 22 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 23 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 24 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 25 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 26 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
-| 27 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 28 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
-| 29 | [Failed](http://twitter.com/search?q=Failed) | N/A |
-| 30 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
-| 31 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
-| 32 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 33 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
-| 34 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 35 | [Chest](http://twitter.com/search?q=Chest) | N/A |
-| 36 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
-| 37 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 13 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 14 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 15 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 16 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 17 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 18 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 19 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 20 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 21 | [Hyundai](http://twitter.com/search?q=Hyundai) | N/A |
+| 22 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 23 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 24 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 25 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 26 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
+| 27 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
+| 28 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 29 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 30 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 31 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 32 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 33 | [alostro](http://twitter.com/search?q=alostro) | N/A |
+| 34 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 35 | [BOMB](http://twitter.com/search?q=BOMB) | N/A |
+| 36 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
+| 37 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
 | 38 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
 | 39 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
 | 40 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 41 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 42 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 43 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
-| 44 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 45 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 46 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 47 | [Failure](http://twitter.com/search?q=Failure) | N/A |
-| 48 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
-| 49 | [Tulz](http://twitter.com/search?q=Tulz) | N/A |
-| 50 | [Braamfontein](http://twitter.com/search?q=Braamfontein) | N/A |
+| 41 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 42 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 43 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 44 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
+| 45 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 46 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 47 | [Code](http://twitter.com/search?q=Code) | N/A |
+| 48 | [De Aar](http://twitter.com/search?q=De+Aar) | N/A |
+| 49 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
 
 
 

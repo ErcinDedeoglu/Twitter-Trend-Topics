@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-21 06:17:51 UTC`
+📆 Last Updated: `2023-03-21 07:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maldiverna](http://twitter.com/search?q=Maldiverna) | N/A |
-| 2 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 3 | [komarov](http://twitter.com/search?q=komarov) | N/A |
+| 1 | [#rockasockorna](http://twitter.com/search?q=%23rockasockorna) | N/A |
+| 2 | [Maldiverna](http://twitter.com/search?q=Maldiverna) | N/A |
+| 3 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 4 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
-| 5 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 5 | [komarov](http://twitter.com/search?q=komarov) | N/A |
 | 6 | [tack paniktjej](http://twitter.com/search?q=tack+paniktjej) | N/A |
-| 7 | [Samhall](http://twitter.com/search?q=Samhall) | N/A |
-| 8 | [Ceesay](http://twitter.com/search?q=Ceesay) | N/A |
-| 9 | [erika bjerström](http://twitter.com/search?q=erika+bjerstr%c3%b6m) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 12 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
-| 13 | [#instagood](http://twitter.com/search?q=%23instagood) | N/A |
-| 14 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 15 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
-| 16 | [#RDAplenary](http://twitter.com/search?q=%23RDAplenary) | N/A |
-| 17 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 18 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 19 | [vaniljsås](http://twitter.com/search?q=vaniljs%c3%a5s) | N/A |
-| 20 | [karlskoga](http://twitter.com/search?q=karlskoga) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Linde](http://twitter.com/search?q=Linde) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 7 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 8 | [Peking](http://twitter.com/search?q=Peking) | N/A |
+| 9 | [Ceesay](http://twitter.com/search?q=Ceesay) | N/A |
+| 10 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 11 | [Samhall](http://twitter.com/search?q=Samhall) | N/A |
+| 12 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 13 | [Jösses](http://twitter.com/search?q=J%c3%b6sses) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [#RDAPlenary](http://twitter.com/search?q=%23RDAPlenary) | N/A |
+| 16 | [Bulan](http://twitter.com/search?q=Bulan) | N/A |
+| 17 | [vaniljsås](http://twitter.com/search?q=vaniljs%c3%a5s) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 20 | [Linde](http://twitter.com/search?q=Linde) | N/A |
+| 21 | [Erika Bjerström](http://twitter.com/search?q=Erika+Bjerstr%c3%b6m) | N/A |
+| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 23 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 24 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 25 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
-| 26 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 27 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 28 | [Loui](http://twitter.com/search?q=Loui) | N/A |
-| 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 30 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 31 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 32 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 27 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
+| 28 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 29 | [#klimat](http://twitter.com/search?q=%23klimat) | N/A |
+| 30 | [Loui](http://twitter.com/search?q=Loui) | N/A |
+| 31 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 32 | [Hundar](http://twitter.com/search?q=Hundar) | N/A |
 | 33 | [ankaret](http://twitter.com/search?q=ankaret) | N/A |
-| 34 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
-| 35 | [Hiss](http://twitter.com/search?q=Hiss) | N/A |
-| 36 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 37 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 39 | [pm nilsson](http://twitter.com/search?q=pm+nilsson) | N/A |
-| 40 | [sverigekurs](http://twitter.com/search?q=sverigekurs) | N/A |
-| 41 | [hovet](http://twitter.com/search?q=hovet) | N/A |
-| 42 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
-| 43 | [anton rödin](http://twitter.com/search?q=anton+r%c3%b6din) | N/A |
-| 44 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 45 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 46 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 47 | [johan larsson](http://twitter.com/search?q=johan+larsson) | N/A |
-| 48 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 49 | [Hundar](http://twitter.com/search?q=Hundar) | N/A |
-| 50 | [Newroz](http://twitter.com/search?q=Newroz) | N/A |
+| 34 | [hovet](http://twitter.com/search?q=hovet) | N/A |
+| 35 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 36 | [Greta Thunberg](http://twitter.com/search?q=Greta+Thunberg) | Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work in raising awareness about the dangers of climate change. She is best known for her school strike for climate, which began in August 2018 when she was 15 years old. She has since become a prominent figure in the global climate movement and has been nominated for the Nobel Peace Prize. |
+| 37 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 38 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 39 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
+| 40 | [pm nilsson](http://twitter.com/search?q=pm+nilsson) | N/A |
+| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 42 | [johan larsson](http://twitter.com/search?q=johan+larsson) | N/A |
+| 43 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 44 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 45 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 46 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 48 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 49 | [scandinavium](http://twitter.com/search?q=scandinavium) | N/A |
+| 50 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
 
 
 

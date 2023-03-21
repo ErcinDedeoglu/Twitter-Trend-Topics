@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-21 06:17:26 UTC`
+📆 Last Updated: `2023-03-21 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
 | 2 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 3 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 4 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 3 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
+| 4 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
 | 5 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 6 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 7 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Dauda Lawal](http://twitter.com/search?q=Dauda+Lawal) | N/A |
-| 10 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 11 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 12 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
-| 13 | [#announceenuguresult](http://twitter.com/search?q=%23announceenuguresult) | N/A |
-| 14 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
-| 15 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 16 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 17 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 18 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 19 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 20 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
-| 21 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 6 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 7 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 8 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [Dauda Lawal](http://twitter.com/search?q=Dauda+Lawal) | N/A |
+| 11 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
+| 12 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 13 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 14 | [#wohdwithcolgate](http://twitter.com/search?q=%23wohdwithcolgate) | N/A |
+| 15 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 16 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 17 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
+| 18 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 19 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 20 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 21 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
 | 22 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
 | 23 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
 | 24 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 25 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
-| 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 27 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 28 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 29 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 25 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 26 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
+| 27 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
+| 28 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 29 | [Falz](http://twitter.com/search?q=Falz) | N/A |
 | 30 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 31 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 32 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 33 | [Benue](http://twitter.com/search?q=Benue) | N/A |
-| 34 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
-| 35 | [JUJU PUNTER](http://twitter.com/search?q=JUJU+PUNTER) | N/A |
-| 36 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 37 | [Labor Party Presidential](http://twitter.com/search?q=Labor+Party+Presidential) | N/A |
-| 38 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 39 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
-| 40 | [GO TO COURT](http://twitter.com/search?q=GO+TO+COURT) | N/A |
-| 41 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
-| 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 43 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
-| 44 | [Abba](http://twitter.com/search?q=Abba) | N/A |
-| 45 | [Zulum](http://twitter.com/search?q=Zulum) | N/A |
-| 46 | [fufore](http://twitter.com/search?q=fufore) | N/A |
-| 47 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
-| 48 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 31 | [Yari](http://twitter.com/search?q=Yari) | N/A |
+| 32 | [GO TO COURT](http://twitter.com/search?q=GO+TO+COURT) | N/A |
+| 33 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 34 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 35 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 36 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 37 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
+| 38 | [JUJU PUNTER](http://twitter.com/search?q=JUJU+PUNTER) | N/A |
+| 39 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
+| 40 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 41 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 42 | [Abaribe](http://twitter.com/search?q=Abaribe) | N/A |
+| 43 | [Labor Party Presidential](http://twitter.com/search?q=Labor+Party+Presidential) | N/A |
+| 44 | [Let Us Pray](http://twitter.com/search?q=Let+Us+Pray) | N/A |
+| 45 | [One Nigeria](http://twitter.com/search?q=One+Nigeria) | N/A |
+| 46 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
+| 47 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
+| 48 | [Fufore](http://twitter.com/search?q=Fufore) | N/A |
 
 
 

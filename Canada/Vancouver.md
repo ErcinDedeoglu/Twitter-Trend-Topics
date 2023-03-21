@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-21 06:16:58 UTC`
+📆 Last Updated: `2023-03-21 07:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 2 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 3 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 4 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 6 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 9 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 10 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 11 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 3 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 4 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 5 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 6 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 7 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 10 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
+| 11 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
 | 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 13 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 14 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 15 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 16 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 17 | [Jeremy Coupal](http://twitter.com/search?q=Jeremy+Coupal) | N/A |
-| 18 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 19 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 20 | [#SJSvsEDM](http://twitter.com/search?q=%23SJSvsEDM) | N/A |
-| 21 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 22 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 23 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 24 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 25 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 26 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
-| 27 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 28 | [Soup](http://twitter.com/search?q=Soup) | N/A |
-| 29 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 30 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 31 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 32 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 33 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 34 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 35 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 36 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 37 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 38 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 39 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 40 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 41 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 13 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 14 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
+| 15 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 16 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 17 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 18 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 19 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 20 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 21 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 22 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 23 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 24 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 25 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 27 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 28 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 29 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 30 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 31 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 32 | [Jeremy Coupal](http://twitter.com/search?q=Jeremy+Coupal) | N/A |
+| 33 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 34 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 35 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 36 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
+| 37 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 38 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 40 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 41 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 42 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 43 | [Fairview Mall](http://twitter.com/search?q=Fairview+Mall) | N/A |
+| 44 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 45 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 46 | [Pickard](http://twitter.com/search?q=Pickard) | N/A |
+| 47 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 48 | [Koskinen](http://twitter.com/search?q=Koskinen) | N/A |
+| 49 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 50 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
 
 
 

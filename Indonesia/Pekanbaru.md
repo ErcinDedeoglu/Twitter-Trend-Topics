@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-21 06:17:17 UTC`
+📆 Last Updated: `2023-03-21 07:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WongKere](http://twitter.com/search?q=%23WongKere) | N/A |
-| 2 | [Pulung Agustanto](http://twitter.com/search?q=Pulung+Agustanto) | N/A |
-| 3 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
-| 4 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
-| 5 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
-| 6 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
-| 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 9 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
-| 10 | [Nissa](http://twitter.com/search?q=Nissa) | N/A |
-| 11 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 14 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 15 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 16 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
-| 17 | [Deportasi](http://twitter.com/search?q=Deportasi) | N/A |
-| 18 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 19 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
-| 20 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
-| 21 | [Prabowo PilihanIdeal Rakyat](http://twitter.com/search?q=Prabowo+PilihanIdeal+Rakyat) | N/A |
-| 22 | [Bule](http://twitter.com/search?q=Bule) | N/A |
-| 23 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 24 | [Swifties](http://twitter.com/search?q=Swifties) | N/A |
+| 1 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
+| 2 | [#WongKere](http://twitter.com/search?q=%23WongKere) | N/A |
+| 3 | [Pulung Agustanto](http://twitter.com/search?q=Pulung+Agustanto) | N/A |
+| 4 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
+| 5 | [prabowo pilihanideal rakyat](http://twitter.com/search?q=prabowo+pilihanideal+rakyat) | N/A |
+| 6 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
+| 7 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
+| 8 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
+| 9 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
+| 10 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
+| 11 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 12 | [wohd](http://twitter.com/search?q=wohd) | N/A |
+| 13 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
+| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 15 | [Partai Buruh](http://twitter.com/search?q=Partai+Buruh) | N/A |
+| 16 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
+| 17 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 19 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 20 | [Fitofarmaka](http://twitter.com/search?q=Fitofarmaka) | N/A |
+| 21 | [Nissa](http://twitter.com/search?q=Nissa) | N/A |
+| 22 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 23 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 24 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 25 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 26 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 27 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 28 | [Garut](http://twitter.com/search?q=Garut) | N/A |
-| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 30 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 31 | [#Beatbox_EnglishVer](http://twitter.com/search?q=%23Beatbox_EnglishVer) | N/A |
-| 32 | [#7DREAMBeatboxEngVer](http://twitter.com/search?q=%237DREAMBeatboxEngVer) | N/A |
-| 33 | [#อาซาร์มากับใคร](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%83%e0%b8%84%e0%b8%a3) | N/A |
-| 34 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
-| 35 | [#negarasejahtera](http://twitter.com/search?q=%23negarasejahtera) | N/A |
-| 36 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
-| 37 | [#MyEpicMusic](http://twitter.com/search?q=%23MyEpicMusic) | N/A |
-| 38 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 39 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 40 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 41 | [#TAEHYUNGxELLEKOREA](http://twitter.com/search?q=%23TAEHYUNGxELLEKOREA) | N/A |
-| 42 | [#BTSARMY](http://twitter.com/search?q=%23BTSARMY) | N/A |
-| 43 | [#PID2023](http://twitter.com/search?q=%23PID2023) | N/A |
-| 44 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
-| 45 | [#BestFanArmy](http://twitter.com/search?q=%23BestFanArmy) | #BestFanArmy is a hashtag used to recognize and celebrate the most dedicated and passionate fanbases of various celebrities, musicians, athletes, and other public figures. It is often used to encourage fans to show their support for their favorite stars by engaging in activities such as attending concerts, buying merchandise, and sharing content online. |
-| 46 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 26 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
+| 27 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
+| 28 | [Deportasi](http://twitter.com/search?q=Deportasi) | N/A |
+| 29 | [prabowo lebih pantas](http://twitter.com/search?q=prabowo+lebih+pantas) | N/A |
+| 30 | [prabowo merakyat](http://twitter.com/search?q=prabowo+merakyat) | N/A |
+| 31 | [garnier salicylic bha](http://twitter.com/search?q=garnier+salicylic+bha) | N/A |
+| 32 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 33 | [solusi bersama](http://twitter.com/search?q=solusi+bersama) | N/A |
+| 34 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
+| 35 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 36 | [Mr. Sunshine](http://twitter.com/search?q=Mr.+Sunshine) | N/A |
+| 37 | [Get Well Soon Kun Ge](http://twitter.com/search?q=Get+Well+Soon+Kun+Ge) | N/A |
+| 38 | [curly boy banghan day](http://twitter.com/search?q=curly+boy+banghan+day) | N/A |
+| 39 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
+| 40 | [Almond](http://twitter.com/search?q=Almond) | N/A |
+| 41 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 42 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
+| 43 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 44 | [Swifties](http://twitter.com/search?q=Swifties) | N/A |
+| 45 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
+| 46 | [Nadya Hutagalung](http://twitter.com/search?q=Nadya+Hutagalung) | N/A |
+| 47 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
 
 
 
