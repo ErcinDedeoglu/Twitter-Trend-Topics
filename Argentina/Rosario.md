@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-21 14:17:12 UTC`
+📆 Last Updated: `2023-03-21 15:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 2 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 3 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 4 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 5 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 7 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
-| 8 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 9 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 10 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 11 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 12 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 13 | [Don Julio](http://twitter.com/search?q=Don+Julio) | N/A |
-| 14 | [#GH23](http://twitter.com/search?q=%23GH23) | #GH23 is a hashtag used to refer to the 23rd edition of the Ghana Music Awards, an annual awards ceremony that celebrates the best in Ghanaian music. |
-| 15 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 16 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
-| 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 18 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 19 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 20 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
-| 21 | [Ferraresi](http://twitter.com/search?q=Ferraresi) | Ferraresi is a surname of Italian origin. It is derived from the city of Ferrara, located in the Emilia-Romagna region of Italy. The literal translation of Ferraresi into English is "from Ferrara". |
-| 22 | [FELICES 26 TINI](http://twitter.com/search?q=FELICES+26+TINI) | N/A |
-| 23 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 24 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 25 | [Puente Pueyrredón](http://twitter.com/search?q=Puente+Pueyrred%c3%b3n) | N/A |
-| 26 | [Edesur](http://twitter.com/search?q=Edesur) | N/A |
-| 27 | [Guede](http://twitter.com/search?q=Guede) | N/A |
-| 28 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 29 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 30 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 31 | [Elena Rose](http://twitter.com/search?q=Elena+Rose) | N/A |
-| 32 | [#DictaduraEnMendoza](http://twitter.com/search?q=%23DictaduraEnMendoza) | N/A |
-| 33 | [Con Aries](http://twitter.com/search?q=Con+Aries) | N/A |
-| 34 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
-| 35 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 36 | [donato](http://twitter.com/search?q=donato) | N/A |
-| 37 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 38 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 39 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
-| 40 | [Purita](http://twitter.com/search?q=Purita) | N/A |
-| 41 | [La Falda](http://twitter.com/search?q=La+Falda) | N/A |
-| 42 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 43 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
-| 44 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 45 | [UNCuyo](http://twitter.com/search?q=UNCuyo) | N/A |
-| 46 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 47 | [Consejo del Salario](http://twitter.com/search?q=Consejo+del+Salario) | N/A |
-| 48 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 49 | [Polo Obrero](http://twitter.com/search?q=Polo+Obrero) | N/A |
-| 50 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 1 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 2 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 3 | [Holder](http://twitter.com/search?q=Holder) | N/A |
+| 4 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 5 | [Don Julio](http://twitter.com/search?q=Don+Julio) | N/A |
+| 6 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 7 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 8 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 9 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 10 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 11 | [Martín](http://twitter.com/search?q=Mart%c3%adn) | N/A |
+| 12 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
+| 13 | [#DictaduraEnMendoza](http://twitter.com/search?q=%23DictaduraEnMendoza) | N/A |
+| 14 | [Pobre Messi](http://twitter.com/search?q=Pobre+Messi) | N/A |
+| 15 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 16 | [#DíaMundialDelSíndromeDeDown](http://twitter.com/search?q=%23D%c3%adaMundialDelS%c3%adndromeDeDown) | N/A |
+| 17 | [Puente Pueyrredón](http://twitter.com/search?q=Puente+Pueyrred%c3%b3n) | N/A |
+| 18 | [Suar](http://twitter.com/search?q=Suar) | N/A |
+| 19 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 20 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 21 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 22 | [Día Mundial de la Poesía](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Poes%c3%ada) | N/A |
+| 23 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
+| 24 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
+| 25 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
+| 26 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
+| 27 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 28 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 29 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 30 | [natacha](http://twitter.com/search?q=natacha) | N/A |
+| 31 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 32 | [Lorena](http://twitter.com/search?q=Lorena) | N/A |
+| 33 | [Ferraresi](http://twitter.com/search?q=Ferraresi) | Ferraresi is a surname of Italian origin. It is derived from the city of Ferrara, located in the Emilia-Romagna region of Italy. The literal translation of Ferraresi into English is "from Ferrara". |
+| 34 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 35 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 36 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 37 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 38 | [Memoria](http://twitter.com/search?q=Memoria) | N/A |
+| 39 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 40 | [Mirtha](http://twitter.com/search?q=Mirtha) | N/A |
+| 41 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
+| 42 | [Purita](http://twitter.com/search?q=Purita) | N/A |
+| 43 | [UNCuyo](http://twitter.com/search?q=UNCuyo) | N/A |
+| 44 | [De Loredo](http://twitter.com/search?q=De+Loredo) | N/A |
+| 45 | [#21demarzo](http://twitter.com/search?q=%2321demarzo) | N/A |
+| 46 | [#alabarbarrosa](http://twitter.com/search?q=%23alabarbarrosa) | N/A |
+| 47 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 48 | [#FMDH23](http://twitter.com/search?q=%23FMDH23) | N/A |
 
 
 

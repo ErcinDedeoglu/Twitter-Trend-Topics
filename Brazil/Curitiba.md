@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-21 14:17:10 UTC`
+📆 Last Updated: `2023-03-21 15:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 2 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 3 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 4 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 5 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 6 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
-| 7 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
-| 8 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
-| 9 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
-| 10 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 11 | [#voltasapato](http://twitter.com/search?q=%23voltasapato) | N/A |
-| 12 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
-| 13 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
-| 14 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
-| 15 | [SIGAA](http://twitter.com/search?q=SIGAA) | N/A |
-| 16 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
-| 17 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 18 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 19 | [Excelência](http://twitter.com/search?q=Excel%c3%aancia) | N/A |
-| 20 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 21 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 22 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
-| 23 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 24 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 25 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
-| 26 | [Fora Campos Neto](http://twitter.com/search?q=Fora+Campos+Neto) | N/A |
-| 27 | [Na Alemanha](http://twitter.com/search?q=Na+Alemanha) | N/A |
-| 28 | [TV 247](http://twitter.com/search?q=TV+247) | N/A |
-| 29 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
+| 2 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 4 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
+| 5 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 6 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 7 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
+| 8 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
+| 9 | [chay suede](http://twitter.com/search?q=chay+suede) | N/A |
+| 10 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 11 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
+| 12 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 13 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
+| 14 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 15 | [#LikeCrazy_Is_Coming](http://twitter.com/search?q=%23LikeCrazy_Is_Coming) | N/A |
+| 16 | [#voltasapato](http://twitter.com/search?q=%23voltasapato) | N/A |
+| 17 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 18 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
+| 19 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
+| 20 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 21 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
+| 22 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 23 | [Tradições](http://twitter.com/search?q=Tradi%c3%a7%c3%b5es) | N/A |
+| 24 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 25 | [SIGAA](http://twitter.com/search?q=SIGAA) | N/A |
+| 26 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 27 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 28 | [Dia Nacional](http://twitter.com/search?q=Dia+Nacional) | N/A |
+| 29 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
 | 30 | [África do Sul](http://twitter.com/search?q=%c3%81frica+do+Sul) | N/A |
-| 31 | [Jair Messias Bolsonaro](http://twitter.com/search?q=Jair+Messias+Bolsonaro) | N/A |
-| 32 | [Formiga](http://twitter.com/search?q=Formiga) | N/A |
-| 33 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 34 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 35 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 36 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 37 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 38 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 39 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
-| 40 | [Venê](http://twitter.com/search?q=Ven%c3%aa) | N/A |
-| 41 | [Bruxo](http://twitter.com/search?q=Bruxo) | N/A |
-| 42 | [Nações Unidas](http://twitter.com/search?q=Na%c3%a7%c3%b5es+Unidas) | N/A |
-| 43 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 44 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 45 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
-| 46 | [Dia 21](http://twitter.com/search?q=Dia+21) | N/A |
-| 47 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 48 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 49 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
-| 50 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 31 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
+| 32 | [Sweet Tooth](http://twitter.com/search?q=Sweet+Tooth) | N/A |
+| 33 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
+| 34 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
+| 35 | [TV 247](http://twitter.com/search?q=TV+247) | N/A |
+| 36 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 37 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 38 | [Excelência](http://twitter.com/search?q=Excel%c3%aancia) | N/A |
+| 39 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
+| 40 | [Feliz Aniversário](http://twitter.com/search?q=Feliz+Anivers%c3%a1rio) | N/A |
+| 41 | [21 de Março](http://twitter.com/search?q=21+de+Mar%c3%a7o) | N/A |
+| 42 | [Na Alemanha](http://twitter.com/search?q=Na+Alemanha) | N/A |
+| 43 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 44 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 45 | [Jair Messias Bolsonaro](http://twitter.com/search?q=Jair+Messias+Bolsonaro) | N/A |
+| 46 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 47 | [Fora Campos Neto](http://twitter.com/search?q=Fora+Campos+Neto) | N/A |
+| 48 | [Venê](http://twitter.com/search?q=Ven%c3%aa) | N/A |
+| 49 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 50 | [VOLTA KEY](http://twitter.com/search?q=VOLTA+KEY) | N/A |
 
 
 

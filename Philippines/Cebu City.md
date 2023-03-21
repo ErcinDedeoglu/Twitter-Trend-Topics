@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-21 14:17:32 UTC`
+📆 Last Updated: `2023-03-21 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
 | 2 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
-| 3 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 4 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 5 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 6 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 7 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 8 | [#DreamChasersPIEBonding](http://twitter.com/search?q=%23DreamChasersPIEBonding) | N/A |
-| 9 | [Dons](http://twitter.com/search?q=Dons) | N/A |
-| 10 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
-| 11 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
-| 12 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 13 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 14 | [RON FOR PIEPOP](http://twitter.com/search?q=RON+FOR+PIEPOP) | N/A |
-| 15 | [Isang](http://twitter.com/search?q=Isang) | N/A |
-| 16 | [Mama Sony](http://twitter.com/search?q=Mama+Sony) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
-| 19 | [Myla](http://twitter.com/search?q=Myla) | N/A |
-| 20 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 21 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 22 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
-| 23 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 24 | [PIEnaginip with Prince](http://twitter.com/search?q=PIEnaginip+with+Prince) | N/A |
-| 25 | [lacsina](http://twitter.com/search?q=lacsina) | N/A |
-| 26 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
-| 27 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 28 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 3 | [#MEin9Days](http://twitter.com/search?q=%23MEin9Days) | N/A |
+| 4 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 5 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [#LikeCrazy_MVTeaser](http://twitter.com/search?q=%23LikeCrazy_MVTeaser) | N/A |
+| 8 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 9 | [#HORI7ON_DASH_DDAY](http://twitter.com/search?q=%23HORI7ON_DASH_DDAY) | N/A |
+| 10 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 11 | [DASH ALBUM COVER IMAGE](http://twitter.com/search?q=DASH+ALBUM+COVER+IMAGE) | N/A |
+| 12 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 13 | [Dons](http://twitter.com/search?q=Dons) | N/A |
+| 14 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 15 | [Donato](http://twitter.com/search?q=Donato) | N/A |
+| 16 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 17 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
+| 18 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 19 | [RON FOR PIEPOP](http://twitter.com/search?q=RON+FOR+PIEPOP) | N/A |
+| 20 | [Mama Sony](http://twitter.com/search?q=Mama+Sony) | N/A |
+| 21 | [Isang](http://twitter.com/search?q=Isang) | N/A |
+| 22 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
+| 23 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
+| 24 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
+| 25 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
+| 26 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 27 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 28 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
 | 29 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
 | 30 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
 | 31 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 32 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 33 | [One Sports](http://twitter.com/search?q=One+Sports) | N/A |
-| 34 | [CCS vs F2](http://twitter.com/search?q=CCS+vs+F2) | N/A |
+| 32 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 33 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 34 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
 | 35 | [Kath Arado](http://twitter.com/search?q=Kath+Arado) | N/A |
-| 36 | [karina star magic convo](http://twitter.com/search?q=karina+star+magic+convo) | N/A |
-| 37 | [xiumin](http://twitter.com/search?q=xiumin) | N/A |
-| 38 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
-| 39 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
-| 40 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
-| 41 | [Pagod](http://twitter.com/search?q=Pagod) | N/A |
-| 42 | [Boom](http://twitter.com/search?q=Boom) | N/A |
-| 43 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
-| 44 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 45 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 46 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 47 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 48 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
-| 49 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
-| 50 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
+| 36 | [Pagod](http://twitter.com/search?q=Pagod) | N/A |
+| 37 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 38 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
+| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 40 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 41 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 42 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 43 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 44 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
+| 45 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
+| 46 | [xiumin](http://twitter.com/search?q=xiumin) | N/A |
+| 47 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
+| 48 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 49 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 50 | [#DreamChasersPIEBonding](http://twitter.com/search?q=%23DreamChasersPIEBonding) | N/A |
 
 
 

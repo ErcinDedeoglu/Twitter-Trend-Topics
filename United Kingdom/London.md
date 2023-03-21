@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-21 14:17:03 UTC`
+📆 Last Updated: `2023-03-21 15:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 2 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 1 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 2 | [Blair](http://twitter.com/search?q=Blair) | N/A |
 | 3 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 4 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 5 | [#SocialWorkWeek2023](http://twitter.com/search?q=%23SocialWorkWeek2023) | N/A |
-| 6 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 7 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 8 | [#Ramadan2023](http://twitter.com/search?q=%23Ramadan2023) | N/A |
-| 9 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 10 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 11 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
-| 12 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 13 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 14 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 15 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
-| 16 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 17 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 18 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 19 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 20 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 21 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 22 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 24 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 25 | [Baroness Casey](http://twitter.com/search?q=Baroness+Casey) | N/A |
-| 26 | [Jim White](http://twitter.com/search?q=Jim+White) | N/A |
-| 27 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 28 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 29 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 31 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 32 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 33 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
-| 34 | [benn](http://twitter.com/search?q=benn) | N/A |
-| 35 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
-| 36 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 37 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 38 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 39 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 40 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
-| 41 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 42 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 4 | [#ASongOrMovieForOdour](http://twitter.com/search?q=%23ASongOrMovieForOdour) | N/A |
+| 5 | [#property](http://twitter.com/search?q=%23property) | N/A |
+| 6 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 7 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 9 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 10 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 13 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
+| 14 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 15 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 16 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 17 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 18 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 19 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 20 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 21 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 22 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 23 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 24 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
+| 25 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 26 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 27 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 28 | [ALCS](http://twitter.com/search?q=ALCS) | N/A |
+| 29 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
+| 30 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
+| 31 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 32 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
+| 33 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 34 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 35 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 36 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
+| 37 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 38 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 39 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 40 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
+| 41 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 42 | [Tipping](http://twitter.com/search?q=Tipping) | N/A |
 | 43 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
-| 44 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
-| 45 | [Tipping](http://twitter.com/search?q=Tipping) | N/A |
-| 46 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 44 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 45 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 46 | [Primark](http://twitter.com/search?q=Primark) | N/A |
 | 47 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 48 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 49 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 48 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 49 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 
 
 

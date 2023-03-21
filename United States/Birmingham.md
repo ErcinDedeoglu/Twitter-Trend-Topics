@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-21 14:17:48 UTC`
+📆 Last Updated: `2023-03-21 15:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 2 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 3 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 4 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 7 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 8 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 9 | [#AgDay23](http://twitter.com/search?q=%23AgDay23) | N/A |
-| 10 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 12 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 13 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
-| 14 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 15 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 16 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 1 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 2 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 3 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 4 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 5 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 6 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 7 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 8 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 9 | [#IndictmentWatch](http://twitter.com/search?q=%23IndictmentWatch) | N/A |
+| 10 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 12 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 13 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 14 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 15 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 16 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
 | 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 18 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 19 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
-| 20 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 21 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 22 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 23 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
-| 24 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
-| 25 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 26 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 27 | [Face ID](http://twitter.com/search?q=Face+ID) | N/A |
-| 28 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 29 | [Maria Bartiromo](http://twitter.com/search?q=Maria+Bartiromo) | N/A |
-| 30 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
-| 31 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
-| 32 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 33 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 34 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 35 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 36 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 37 | [Arden Key](http://twitter.com/search?q=Arden+Key) | Arden Key is a professional American football player who currently plays for the Las Vegas Raiders of the National Football League (NFL). His name is derived from his hometown of Arden, North Carolina. The name has become a symbol of strength and resilience for Key, as he has overcome many obstacles to reach the NFL. |
-| 38 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 39 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 40 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 41 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
-| 42 | [Evangelicals](http://twitter.com/search?q=Evangelicals) | N/A |
-| 43 | [Dan Goldman](http://twitter.com/search?q=Dan+Goldman) | N/A |
-| 44 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 45 | [New Moon](http://twitter.com/search?q=New+Moon) | N/A |
-| 46 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 18 | [Gary Oldman](http://twitter.com/search?q=Gary+Oldman) | N/A |
+| 19 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 20 | [National Agriculture Day](http://twitter.com/search?q=National+Agriculture+Day) | N/A |
+| 21 | [Gary Bettman](http://twitter.com/search?q=Gary+Bettman) | N/A |
+| 22 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 23 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 24 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 25 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 26 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 27 | [Cathie Wood](http://twitter.com/search?q=Cathie+Wood) | N/A |
+| 28 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 29 | [SB 4s](http://twitter.com/search?q=SB+4s) | N/A |
+| 30 | [Face ID](http://twitter.com/search?q=Face+ID) | N/A |
+| 31 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 32 | [Candida](http://twitter.com/search?q=Candida) | N/A |
+| 33 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 34 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 35 | [Irvo Otieno](http://twitter.com/search?q=Irvo+Otieno) | N/A |
+| 36 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 37 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
+| 38 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 39 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 40 | [Indictment Day](http://twitter.com/search?q=Indictment+Day) | N/A |
+| 41 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 42 | [DHGate](http://twitter.com/search?q=DHGate) | N/A |
+| 43 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 44 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 45 | [Roger Stone](http://twitter.com/search?q=Roger+Stone) | N/A |
 
 
 

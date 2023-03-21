@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-21 14:17:13 UTC`
+📆 Last Updated: `2023-03-21 15:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#JednaLista](http://twitter.com/search?q=%23JednaLista) | N/A |
 | 2 | [#PiStoPRLbis](http://twitter.com/search?q=%23PiStoPRLbis) | N/A |
-| 3 | [seicento](http://twitter.com/search?q=seicento) | N/A |
-| 4 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
-| 5 | [#pizgaczhell](http://twitter.com/search?q=%23pizgaczhell) | N/A |
-| 6 | [Downa](http://twitter.com/search?q=Downa) | N/A |
-| 7 | [#ChronimyPolaków](http://twitter.com/search?q=%23ChronimyPolak%c3%b3w) | N/A |
-| 8 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 9 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 10 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 11 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
-| 12 | [starsza](http://twitter.com/search?q=starsza) | N/A |
-| 13 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
-| 14 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
-| 15 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 16 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
-| 17 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
-| 18 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 19 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 20 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
-| 21 | [Lechii Gdańsk](http://twitter.com/search?q=Lechii+Gda%c5%84sk) | N/A |
-| 22 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
-| 23 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 24 | [Dżankoj](http://twitter.com/search?q=D%c5%bcankoj) | N/A |
-| 25 | [Skrót](http://twitter.com/search?q=Skr%c3%b3t) | N/A |
-| 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 27 | [duże sklepy](http://twitter.com/search?q=du%c5%bce+sklepy) | N/A |
-| 28 | [Moskwie](http://twitter.com/search?q=Moskwie) | N/A |
+| 3 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
+| 4 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 5 | [downa](http://twitter.com/search?q=downa) | N/A |
+| 6 | [#pizgaczhell](http://twitter.com/search?q=%23pizgaczhell) | N/A |
+| 7 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 8 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 9 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 10 | [#ChronimyPolaków](http://twitter.com/search?q=%23ChronimyPolak%c3%b3w) | N/A |
+| 11 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
+| 12 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 13 | [#mateuszoddaj300tys](http://twitter.com/search?q=%23mateuszoddaj300tys) | N/A |
+| 14 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
+| 15 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
+| 16 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 17 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 18 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
+| 19 | [Kaczmarka](http://twitter.com/search?q=Kaczmarka) | N/A |
+| 20 | [Marcin Kaczmarek](http://twitter.com/search?q=Marcin+Kaczmarek) | N/A |
+| 21 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
+| 22 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 23 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 24 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
+| 25 | [dżankoj](http://twitter.com/search?q=d%c5%bcankoj) | N/A |
+| 26 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 27 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 28 | [Seba](http://twitter.com/search?q=Seba) | N/A |
 | 29 | [dzień wagarowicza](http://twitter.com/search?q=dzie%c5%84+wagarowicza) | N/A |
-| 30 | [Doktorze](http://twitter.com/search?q=Doktorze) | N/A |
-| 31 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 32 | [marzannę](http://twitter.com/search?q=marzann%c4%99) | N/A |
-| 33 | [Pszczynie](http://twitter.com/search?q=Pszczynie) | N/A |
-| 34 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
-| 37 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 30 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
+| 31 | [Duże Sklepy](http://twitter.com/search?q=Du%c5%bce+Sklepy) | N/A |
+| 32 | [Doktorze](http://twitter.com/search?q=Doktorze) | N/A |
+| 33 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 36 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 37 | [Pszczynie](http://twitter.com/search?q=Pszczynie) | N/A |
 | 38 | [Francji](http://twitter.com/search?q=Francji) | N/A |
-| 39 | [Seba](http://twitter.com/search?q=Seba) | N/A |
-| 40 | [dawida](http://twitter.com/search?q=dawida) | N/A |
-| 41 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [szybkiego](http://twitter.com/search?q=szybkiego) | N/A |
-| 44 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 45 | [święty józefie](http://twitter.com/search?q=%c5%9bwi%c4%99ty+j%c3%b3zefie) | N/A |
-| 46 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 47 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 48 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 49 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 39 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 40 | [Marzannę](http://twitter.com/search?q=Marzann%c4%99) | N/A |
+| 41 | [Vako](http://twitter.com/search?q=Vako) | N/A |
+| 42 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 43 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 44 | [święty józefie](http://twitter.com/search?q=%c5%9bwi%c4%99ty+j%c3%b3zefie) | N/A |
+| 45 | [SKIN OFF YOU HEATHENS](http://twitter.com/search?q=SKIN+OFF+YOU+HEATHENS) | N/A |
+| 46 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 47 | [Fumio Kishida](http://twitter.com/search?q=Fumio+Kishida) | N/A |
+| 48 | [Światowy Dzień Poezji](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Poezji) | N/A |
+| 49 | [Iraku](http://twitter.com/search?q=Iraku) | N/A |
+| 50 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-03-21 14:17:45 UTC`
+📆 Last Updated: `2023-03-21 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AğlamanızDURSUN](http://twitter.com/search?q=%23A%c4%9flaman%c4%b1zDURSUN) | N/A |
-| 2 | [30 Bin Emanet Üye](http://twitter.com/search?q=30+Bin+Emanet+%c3%9cye) | N/A |
-| 3 | [#Uniyoksaoyyok](http://twitter.com/search?q=%23Uniyoksaoyyok) | N/A |
-| 4 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 5 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 6 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
-| 7 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
-| 8 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 9 | [Sesinizi Duyuyoruz](http://twitter.com/search?q=Sesinizi+Duyuyoruz) | N/A |
-| 10 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 2 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 3 | [#CateCeoCoin](http://twitter.com/search?q=%23CateCeoCoin) | N/A |
+| 4 | [#ARvarmıTFF](http://twitter.com/search?q=%23ARvarm%c4%b1TFF) | N/A |
+| 5 | [#Uniyoksaoyyok](http://twitter.com/search?q=%23Uniyoksaoyyok) | N/A |
+| 6 | [30 Bin Emanet Üye](http://twitter.com/search?q=30+Bin+Emanet+%c3%9cye) | N/A |
+| 7 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 8 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
+| 9 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 10 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
 | 11 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 12 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
-| 13 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 14 | [Türker Ertürk](http://twitter.com/search?q=T%c3%bcrker+Ert%c3%bcrk) | N/A |
-| 15 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 16 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
-| 17 | [Ertan](http://twitter.com/search?q=Ertan) | N/A |
+| 12 | [Sesinizi Duyuyoruz](http://twitter.com/search?q=Sesinizi+Duyuyoruz) | N/A |
+| 13 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
+| 14 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 15 | [Ertan](http://twitter.com/search?q=Ertan) | N/A |
+| 16 | [Müze](http://twitter.com/search?q=M%c3%bcze) | N/A |
+| 17 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
 | 18 | [Orman Haftası](http://twitter.com/search?q=Orman+Haftas%c4%b1) | N/A |
-| 19 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
-| 20 | [8 ocak](http://twitter.com/search?q=8+ocak) | N/A |
-| 21 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
-| 22 | [SKİÖnlisans YineMagdur](http://twitter.com/search?q=SK%c4%b0%c3%96nlisans+YineMagdur) | N/A |
-| 23 | [Müze](http://twitter.com/search?q=M%c3%bcze) | N/A |
-| 24 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
-| 25 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
-| 26 | [Yemez](http://twitter.com/search?q=Yemez) | N/A |
-| 27 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
-| 28 | [100 Bin](http://twitter.com/search?q=100+Bin) | N/A |
-| 29 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 30 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
-| 31 | [Vefatının 50](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+50) | N/A |
-| 32 | [Sırrı](http://twitter.com/search?q=S%c4%b1rr%c4%b1) | N/A |
-| 33 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
-| 34 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 35 | [#YüzbinAtamaYoksaOYyok](http://twitter.com/search?q=%23Y%c3%bczbinAtamaYoksaOYyok) | N/A |
-| 36 | [#GemiBATIYOR](http://twitter.com/search?q=%23GemiBATIYOR) | N/A |
-| 37 | [#AşıkVeysel](http://twitter.com/search?q=%23A%c5%9f%c4%b1kVeysel) | N/A |
-| 38 | [#Amed](http://twitter.com/search?q=%23Amed) | N/A |
-| 39 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
-| 40 | [#DownSendromu](http://twitter.com/search?q=%23DownSendromu) | N/A |
-| 41 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
-| 42 | [#HaksızlıkSonEYTtamOlsun](http://twitter.com/search?q=%23Haks%c4%b1zl%c4%b1kSonEYTtamOlsun) | N/A |
-| 43 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
-| 44 | [#DünyaŞiirGünü](http://twitter.com/search?q=%23D%c3%bcnya%c5%9eiirG%c3%bcn%c3%bc) | N/A |
-| 45 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
-| 46 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
-| 47 | [#SağlıkYönetimiYineMagdur](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1kY%c3%b6netimiYineMagdur) | N/A |
-| 48 | [#borsa](http://twitter.com/search?q=%23borsa) | #Borsa is a hashtag used on social media to refer to the stock market. It is derived from the Italian word for “bag” or “purse” and is used to indicate conversations about stocks, investments, and other financial topics. In English, it can be translated as “stock market”. |
+| 19 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 20 | [Türker Ertürk](http://twitter.com/search?q=T%c3%bcrker+Ert%c3%bcrk) | N/A |
+| 21 | [Esenyurt Beylikdüzü](http://twitter.com/search?q=Esenyurt+Beylikd%c3%bcz%c3%bc) | N/A |
+| 22 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 23 | [8 Ocak](http://twitter.com/search?q=8+Ocak) | N/A |
+| 24 | [Cenk Tosun](http://twitter.com/search?q=Cenk+Tosun) | Cenk Tosun is a Turkish professional footballer who plays as a striker for Premier League club Everton and the Turkey national team. His name translates to "Full of Courage" in English. |
+| 25 | [SKİÖnlisans YineMagdur](http://twitter.com/search?q=SK%c4%b0%c3%96nlisans+YineMagdur) | N/A |
+| 26 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
+| 27 | [Yemez](http://twitter.com/search?q=Yemez) | N/A |
+| 28 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
+| 29 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
+| 30 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
+| 31 | [100 bin](http://twitter.com/search?q=100+bin) | N/A |
+| 32 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 33 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 34 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
+| 35 | [Vefatının 50](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+50) | N/A |
+| 36 | [Sırrı](http://twitter.com/search?q=S%c4%b1rr%c4%b1) | N/A |
+| 37 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
+| 38 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
+| 39 | [#YüzbinAtamaYoksaOYyok](http://twitter.com/search?q=%23Y%c3%bczbinAtamaYoksaOYyok) | N/A |
+| 40 | [#GemiBATIYOR](http://twitter.com/search?q=%23GemiBATIYOR) | N/A |
+| 41 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 42 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 43 | [#AşıkVeysel](http://twitter.com/search?q=%23A%c5%9f%c4%b1kVeysel) | N/A |
+| 44 | [#springpccollab](http://twitter.com/search?q=%23springpccollab) | N/A |
+| 45 | [#Amed](http://twitter.com/search?q=%23Amed) | N/A |
+| 46 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 47 | [#DownSendromu](http://twitter.com/search?q=%23DownSendromu) | N/A |
+| 48 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
+| 49 | [#xu100](http://twitter.com/search?q=%23xu100) | N/A |
 
 
 

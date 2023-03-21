@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-21 14:16:58 UTC`
+📆 Last Updated: `2023-03-21 15:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 5 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
 | 6 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 7 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 8 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 9 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
+| 7 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 8 | [#FightRacism](http://twitter.com/search?q=%23FightRacism) | N/A |
+| 9 | [Spring](http://twitter.com/search?q=Spring) | N/A |
 | 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [#FightRacism](http://twitter.com/search?q=%23FightRacism) | N/A |
-| 12 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 13 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 11 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 12 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
+| 13 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
 | 14 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
 | 15 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 16 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 17 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
-| 18 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 19 | [Anthony Furey](http://twitter.com/search?q=Anthony+Furey) | N/A |
-| 20 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 21 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 22 | [Josh Matlow](http://twitter.com/search?q=Josh+Matlow) | N/A |
-| 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 24 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
-| 25 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 27 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 28 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 29 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 30 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 31 | [Statistics Canada](http://twitter.com/search?q=Statistics+Canada) | N/A |
-| 32 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 34 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 35 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 36 | [jeremy coupal](http://twitter.com/search?q=jeremy+coupal) | N/A |
-| 37 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 38 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
-| 39 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
-| 40 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 41 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 42 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 43 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 16 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 17 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 18 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
+| 19 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 20 | [Josh Matlow](http://twitter.com/search?q=Josh+Matlow) | N/A |
+| 21 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 22 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 23 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 24 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 25 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 26 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
+| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 28 | [hyman](http://twitter.com/search?q=hyman) | N/A |
+| 29 | [Anthony Furey](http://twitter.com/search?q=Anthony+Furey) | N/A |
+| 30 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 31 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 32 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 33 | [Mark Saunders](http://twitter.com/search?q=Mark+Saunders) | N/A |
+| 34 | [telford](http://twitter.com/search?q=telford) | N/A |
+| 35 | [statistics canada](http://twitter.com/search?q=statistics+canada) | N/A |
+| 36 | [Brendan Gallagher](http://twitter.com/search?q=Brendan+Gallagher) | N/A |
+| 37 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 39 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 40 | [jeremy coupal](http://twitter.com/search?q=jeremy+coupal) | N/A |
+| 41 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
+| 42 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 43 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
 | 44 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 45 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 46 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 47 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 48 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 49 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 50 | [Victor Newman](http://twitter.com/search?q=Victor+Newman) | N/A |
+| 45 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 46 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 47 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
+| 48 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 49 | [Fairview Mall](http://twitter.com/search?q=Fairview+Mall) | N/A |
+| 50 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
 
 
 
