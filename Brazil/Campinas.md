@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-21 22:16:32 UTC`
+📆 Last Updated: `2023-03-21 23:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 2 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 3 | [Ásia](http://twitter.com/search?q=%c3%81sia) | N/A |
-| 4 | [#FicaFred](http://twitter.com/search?q=%23FicaFred) | N/A |
-| 5 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 6 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 7 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
-| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 9 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 10 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 11 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 12 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
-| 13 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 14 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 15 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
-| 16 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
-| 17 | [#Monica60](http://twitter.com/search?q=%23Monica60) | N/A |
-| 18 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 19 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 20 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 21 | [Seu Lado](http://twitter.com/search?q=Seu+Lado) | N/A |
-| 22 | [Navi](http://twitter.com/search?q=Navi) | N/A |
-| 23 | [Igapó](http://twitter.com/search?q=Igap%c3%b3) | N/A |
-| 24 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 25 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 26 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 27 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 28 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 29 | [Sylla](http://twitter.com/search?q=Sylla) | N/A |
-| 30 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 31 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 32 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 33 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 34 | [Noivado](http://twitter.com/search?q=Noivado) | N/A |
-| 35 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 36 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
-| 37 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
-| 38 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 39 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
-| 40 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 41 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 42 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 43 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 44 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 45 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 46 | [Dia Internacional](http://twitter.com/search?q=Dia+Internacional) | N/A |
-| 47 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 48 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
-| 49 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 3 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
+| 4 | [Ásia](http://twitter.com/search?q=%c3%81sia) | N/A |
+| 5 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 6 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 7 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 8 | [#FicaFred](http://twitter.com/search?q=%23FicaFred) | N/A |
+| 9 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
+| 10 | [Apito](http://twitter.com/search?q=Apito) | N/A |
+| 11 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 12 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 14 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
+| 15 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 16 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 17 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 18 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
+| 19 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 20 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
+| 21 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 22 | [#ForaDomitilla](http://twitter.com/search?q=%23ForaDomitilla) | N/A |
+| 23 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
+| 24 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 25 | [Chrystian Barletta](http://twitter.com/search?q=Chrystian+Barletta) | N/A |
+| 26 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 27 | [Igapó](http://twitter.com/search?q=Igap%c3%b3) | N/A |
+| 28 | [Leda Nagle](http://twitter.com/search?q=Leda+Nagle) | N/A |
+| 29 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 30 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
+| 31 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 32 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 33 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 34 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 35 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 36 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 37 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 38 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
+| 39 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 40 | [Navi](http://twitter.com/search?q=Navi) | N/A |
+| 41 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 42 | [Sylla](http://twitter.com/search?q=Sylla) | N/A |
+| 43 | [Noivado](http://twitter.com/search?q=Noivado) | N/A |
+| 44 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
+| 45 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 46 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
+| 47 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 48 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 49 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
 
 
 

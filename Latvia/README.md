@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-21 22:17:15 UTC`
+📆 Last Updated: `2023-03-21 23:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Latvia
 | 24 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
 | 25 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 26 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
-| 27 | [Starp](http://twitter.com/search?q=Starp) | N/A |
-| 28 | [Maskavā](http://twitter.com/search?q=Maskav%c4%81) | N/A |
+| 27 | [starp](http://twitter.com/search?q=starp) | N/A |
+| 28 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
 | 29 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 | 30 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
 | 31 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
 | 32 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 33 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 33 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
 | 34 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
 | 35 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 36 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
-| 37 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
-| 38 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
-| 39 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 40 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 41 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
-| 42 | [Visi](http://twitter.com/search?q=Visi) | N/A |
-| 43 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
-| 44 | [ušakova](http://twitter.com/search?q=u%c5%a1akova) | N/A |
-| 45 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 46 | [tikko](http://twitter.com/search?q=tikko) | N/A |
-| 47 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
-| 48 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
-| 49 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 50 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 36 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 37 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 38 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 39 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
+| 40 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
+| 41 | [ušakova](http://twitter.com/search?q=u%c5%a1akova) | N/A |
+| 42 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 43 | [tikko](http://twitter.com/search?q=tikko) | N/A |
+| 44 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 45 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 46 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
+| 47 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 48 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 49 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
+| 50 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
 
 
 

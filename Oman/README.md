@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-21 22:17:15 UTC`
+📆 Last Updated: `2023-03-21 23:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,29 +34,29 @@ This is top 50 for Oman
 | 17 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
 | 18 | [قوس قزح](http://twitter.com/search?q=%d9%82%d9%88%d8%b3+%d9%82%d8%b2%d8%ad) | N/A |
 | 19 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 20 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 21 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 22 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 23 | [مجلس الدوله](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 24 | [٢١ مارس](http://twitter.com/search?q=%d9%a2%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 25 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 26 | [الدوام الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
-| 27 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 28 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 29 | [برنامج اليوم الدراسي](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 30 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 31 | [التصريحات العنصريه المتطرفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d8%b5%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%b7%d8%b1%d9%81%d9%87) | N/A |
-| 32 | [ابراهيم بن سعيد البوسعيدي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
-| 33 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
-| 34 | [وشمال الباطنه](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d9%87) | N/A |
-| 35 | [قوس الرحمن](http://twitter.com/search?q=%d9%82%d9%88%d8%b3+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
-| 36 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
-| 37 | [قوس المطر](http://twitter.com/search?q=%d9%82%d9%88%d8%b3+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 38 | [الرويه الافقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d9%82%d9%8a%d9%87) | N/A |
-| 39 | [اللجنه الرييسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3%d9%87) | N/A |
+| 20 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 21 | [مجلس الدوله](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 22 | [٢١ مارس](http://twitter.com/search?q=%d9%a2%d9%a1+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 23 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 24 | [الدوام الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
+| 25 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 26 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 27 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 28 | [برنامج اليوم الدراسي](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 29 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 30 | [التصريحات العنصريه المتطرفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d8%b5%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%b7%d8%b1%d9%81%d9%87) | N/A |
+| 31 | [ابراهيم بن سعيد البوسعيدي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 32 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
+| 33 | [وشمال الباطنه](http://twitter.com/search?q=%d9%88%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d9%87) | N/A |
+| 34 | [قوس الرحمن](http://twitter.com/search?q=%d9%82%d9%88%d8%b3+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
+| 35 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
+| 36 | [قوس المطر](http://twitter.com/search?q=%d9%82%d9%88%d8%b3+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 37 | [الرويه الافقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d9%82%d9%8a%d9%87) | N/A |
+| 38 | [اللجنه الرييسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3%d9%87) | N/A |
+| 39 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 40 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 41 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 42 | [امي الجنه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 41 | [امي الجنه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 42 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
 | 43 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 44 | [المسووليه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%88%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 45 | [ساعات العمل](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |

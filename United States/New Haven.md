@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-21 22:17:07 UTC`
+📆 Last Updated: `2023-03-21 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,46 +19,47 @@ This is top 50 for [United States](</United States>)
 | 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
 | 3 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
 | 4 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 5 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 7 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 8 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
-| 9 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 10 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 11 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 12 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 13 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 14 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 15 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 16 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 17 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 18 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 19 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 20 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 21 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 22 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 23 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 24 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
-| 25 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
-| 26 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 27 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 28 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 29 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 30 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 31 | [Spider-Man 2](http://twitter.com/search?q=Spider-Man+2) | N/A |
-| 32 | [Anik](http://twitter.com/search?q=Anik) | N/A |
-| 33 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
-| 34 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 35 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 36 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
-| 37 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 38 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 39 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 40 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 41 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 42 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 43 | [Martin Short](http://twitter.com/search?q=Martin+Short) | N/A |
-| 44 | [Super Tuesday](http://twitter.com/search?q=Super+Tuesday) | N/A |
+| 5 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 6 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 7 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 9 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 10 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 12 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 13 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 14 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 15 | [Drew Findling](http://twitter.com/search?q=Drew+Findling) | N/A |
+| 16 | [Jordan Marshall](http://twitter.com/search?q=Jordan+Marshall) | N/A |
+| 17 | [Paul Mills](http://twitter.com/search?q=Paul+Mills) | N/A |
+| 18 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 19 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 20 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 21 | [Ari Melber](http://twitter.com/search?q=Ari+Melber) | N/A |
+| 22 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 23 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 24 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 25 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 26 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 27 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 28 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 29 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 30 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 31 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 32 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
+| 33 | [Newsome](http://twitter.com/search?q=Newsome) | N/A |
+| 34 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 35 | [Super Tuesday](http://twitter.com/search?q=Super+Tuesday) | N/A |
+| 36 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 37 | [Dwayne](http://twitter.com/search?q=Dwayne) | N/A |
+| 38 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 39 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 40 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 41 | [LETS GO USA](http://twitter.com/search?q=LETS+GO+USA) | N/A |
+| 42 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
+| 43 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
+| 44 | [USA ML](http://twitter.com/search?q=USA+ML) | N/A |
+| 45 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
 
 
 

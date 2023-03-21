@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-21 22:17:08 UTC`
+📆 Last Updated: `2023-03-21 23:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 2 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 3 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 4 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 1 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 3 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 4 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
 | 5 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 6 | [#MarchDadness](http://twitter.com/search?q=%23MarchDadness) | N/A |
-| 7 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 9 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 10 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
-| 11 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 12 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 13 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 14 | [#AllOfTheGirlsYouLovedBefore](http://twitter.com/search?q=%23AllOfTheGirlsYouLovedBefore) | N/A |
-| 15 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 16 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 17 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 18 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 19 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 20 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 21 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 22 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 23 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 25 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 26 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 27 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
-| 28 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
-| 29 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 30 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 32 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 33 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 34 | [Spider-Man 2](http://twitter.com/search?q=Spider-Man+2) | N/A |
-| 35 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 36 | [Anik](http://twitter.com/search?q=Anik) | N/A |
-| 37 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
-| 38 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 39 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
-| 40 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 41 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 42 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 43 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 44 | [Martin Short](http://twitter.com/search?q=Martin+Short) | N/A |
-| 45 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 6 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 7 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 8 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 9 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 11 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 12 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 13 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 14 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 15 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 16 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 17 | [Drew Findling](http://twitter.com/search?q=Drew+Findling) | N/A |
+| 18 | [Jordan Marshall](http://twitter.com/search?q=Jordan+Marshall) | N/A |
+| 19 | [Paul Mills](http://twitter.com/search?q=Paul+Mills) | N/A |
+| 20 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 21 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 22 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 23 | [Ari Melber](http://twitter.com/search?q=Ari+Melber) | N/A |
+| 24 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 25 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 26 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 27 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 28 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 29 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 30 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 31 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 32 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 33 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 34 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
+| 35 | [Newsome](http://twitter.com/search?q=Newsome) | N/A |
+| 36 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 37 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 38 | [Super Tuesday](http://twitter.com/search?q=Super+Tuesday) | N/A |
+| 39 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 40 | [Dwayne](http://twitter.com/search?q=Dwayne) | N/A |
+| 41 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 42 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
+| 43 | [LETS GO USA](http://twitter.com/search?q=LETS+GO+USA) | N/A |
+| 44 | [USA ML](http://twitter.com/search?q=USA+ML) | N/A |
+| 45 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
+| 46 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
 
 
 

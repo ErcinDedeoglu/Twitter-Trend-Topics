@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-21 22:17:09 UTC`
+📆 Last Updated: `2023-03-21 23:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,46 +18,47 @@ This is top 50 for [United States](</United States>)
 | 1 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 | 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
 | 3 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 4 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 5 | [#MarchDadness](http://twitter.com/search?q=%23MarchDadness) | N/A |
-| 6 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 7 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 8 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 9 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
-| 10 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 13 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 14 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 15 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 16 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 17 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 18 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 19 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 20 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 21 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 22 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 23 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 24 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 25 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
-| 26 | [Jaylen](http://twitter.com/search?q=Jaylen) | Jaylen is a unisex name of English origin. It is derived from the name Jalen, which is a combination of the names Jay and Len. The meaning of Jaylen is "God has been gracious" or "God has shown favor". |
-| 27 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 28 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 30 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 31 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 32 | [Spider-Man 2](http://twitter.com/search?q=Spider-Man+2) | N/A |
-| 33 | [Anik](http://twitter.com/search?q=Anik) | N/A |
-| 34 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
-| 35 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 36 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
-| 37 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 38 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 39 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 40 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 41 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 42 | [Martin Short](http://twitter.com/search?q=Martin+Short) | N/A |
-| 43 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 4 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 5 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 6 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 7 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 8 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 10 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 11 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 12 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 13 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 14 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 15 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 16 | [Drew Findling](http://twitter.com/search?q=Drew+Findling) | N/A |
+| 17 | [Jordan Marshall](http://twitter.com/search?q=Jordan+Marshall) | N/A |
+| 18 | [Paul Mills](http://twitter.com/search?q=Paul+Mills) | N/A |
+| 19 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 20 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 21 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
+| 22 | [Ari Melber](http://twitter.com/search?q=Ari+Melber) | N/A |
+| 23 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 24 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 25 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 26 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 27 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 28 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 29 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 30 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 31 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 32 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 33 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 34 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
+| 35 | [Newsome](http://twitter.com/search?q=Newsome) | N/A |
+| 36 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 37 | [Super Tuesday](http://twitter.com/search?q=Super+Tuesday) | N/A |
+| 38 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 39 | [LETS GO USA](http://twitter.com/search?q=LETS+GO+USA) | N/A |
+| 40 | [Dwayne](http://twitter.com/search?q=Dwayne) | N/A |
+| 41 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
+| 42 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 43 | [USA ML](http://twitter.com/search?q=USA+ML) | N/A |
+| 44 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
 
 
 
