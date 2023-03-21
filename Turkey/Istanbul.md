@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-21 11:17:11 UTC`
+📆 Last Updated: `2023-03-21 12:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sesinizi Duyuyoruz](http://twitter.com/search?q=Sesinizi+Duyuyoruz) | N/A |
+| 1 | [Türker Ertürk](http://twitter.com/search?q=T%c3%bcrker+Ert%c3%bcrk) | N/A |
 | 2 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
-| 3 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
-| 4 | [#HalilİbrahimCeyhan](http://twitter.com/search?q=%23Halil%c4%b0brahimCeyhan) | N/A |
-| 5 | [#Ramazan](http://twitter.com/search?q=%23Ramazan) | N/A |
-| 6 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
-| 7 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 8 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 9 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 10 | [8 Ocak](http://twitter.com/search?q=8+Ocak) | N/A |
-| 11 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
-| 12 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 13 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
-| 14 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 15 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 3 | [#HalilİbrahimCeyhan](http://twitter.com/search?q=%23Halil%c4%b0brahimCeyhan) | N/A |
+| 4 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 5 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 6 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
+| 7 | [Sesinizi Duyuyoruz](http://twitter.com/search?q=Sesinizi+Duyuyoruz) | N/A |
+| 8 | [#AşıkVeysel](http://twitter.com/search?q=%23A%c5%9f%c4%b1kVeysel) | N/A |
+| 9 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 10 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 11 | [8 Ocak](http://twitter.com/search?q=8+Ocak) | N/A |
+| 12 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
+| 13 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
+| 14 | [Dursun Özbek](http://twitter.com/search?q=Dursun+%c3%96zbek) | Dursun Özbek is a Turkish given name. It is composed of two elements: Dursun, which means "brave" or "courageous", and Özbek, which means "Turk". In English, the name would translate to "Brave Turk". |
+| 15 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
 | 16 | [SKİÖnlisans YineMagdur](http://twitter.com/search?q=SK%c4%b0%c3%96nlisans+YineMagdur) | N/A |
-| 17 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
-| 18 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
-| 19 | [Orman Haftası](http://twitter.com/search?q=Orman+Haftas%c4%b1) | N/A |
-| 20 | [Vefatının 50](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+50) | N/A |
-| 21 | [Evrak](http://twitter.com/search?q=Evrak) | N/A |
-| 22 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 23 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 24 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
-| 25 | [Bakan Özer](http://twitter.com/search?q=Bakan+%c3%96zer) | N/A |
-| 26 | [Yeni Gün](http://twitter.com/search?q=Yeni+G%c3%bcn) | N/A |
-| 27 | [100 Bin](http://twitter.com/search?q=100+Bin) | N/A |
-| 28 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
-| 29 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
-| 30 | [Günaydınnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnn) | N/A |
-| 31 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 32 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 33 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
+| 17 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 18 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 19 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
+| 20 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 21 | [Vefatının 50](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+50) | N/A |
+| 22 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 23 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
+| 24 | [Evrak](http://twitter.com/search?q=Evrak) | N/A |
+| 25 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 26 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
+| 27 | [Yeni Gün](http://twitter.com/search?q=Yeni+G%c3%bcn) | N/A |
+| 28 | [100 Bin](http://twitter.com/search?q=100+Bin) | N/A |
+| 29 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
+| 30 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
+| 31 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
+| 32 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 33 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
 | 34 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 35 | [hdp pkk](http://twitter.com/search?q=hdp+pkk) | N/A |
-| 36 | [Airfryer](http://twitter.com/search?q=Airfryer) | N/A |
-| 37 | [#AşıkVeysel](http://twitter.com/search?q=%23A%c5%9f%c4%b1kVeysel) | N/A |
-| 38 | [#GemiBATIYOR](http://twitter.com/search?q=%23GemiBATIYOR) | N/A |
+| 35 | [Airfryer](http://twitter.com/search?q=Airfryer) | N/A |
+| 36 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 37 | [#GemiBATIYOR](http://twitter.com/search?q=%23GemiBATIYOR) | N/A |
+| 38 | [#Uniyoksaoyyok](http://twitter.com/search?q=%23Uniyoksaoyyok) | N/A |
 | 39 | [#YüzbinAtamaYoksaOYyok](http://twitter.com/search?q=%23Y%c3%bczbinAtamaYoksaOYyok) | N/A |
 | 40 | [#HaksızlıkSonEYTtamOlsun](http://twitter.com/search?q=%23Haks%c4%b1zl%c4%b1kSonEYTtamOlsun) | N/A |
-| 41 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 42 | [#borsa](http://twitter.com/search?q=%23borsa) | #Borsa is a hashtag used on social media to refer to the stock market. It is derived from the Italian word for “bag” or “purse” and is used to indicate conversations about stocks, investments, and other financial topics. In English, it can be translated as “stock market”. |
-| 43 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
-| 44 | [#ekinoks](http://twitter.com/search?q=%23ekinoks) | N/A |
-| 45 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
-| 46 | [#Farkındayız](http://twitter.com/search?q=%23Fark%c4%b1nday%c4%b1z) | N/A |
-| 47 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
-| 48 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
-| 49 | [#KemalKurkut](http://twitter.com/search?q=%23KemalKurkut) | N/A |
-| 50 | [#DünyaŞiirGünü](http://twitter.com/search?q=%23D%c3%bcnya%c5%9eiirG%c3%bcn%c3%bc) | N/A |
+| 41 | [#Amed](http://twitter.com/search?q=%23Amed) | N/A |
+| 42 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
+| 43 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 44 | [#SağlıkYönetimiYineMagdur](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1kY%c3%b6netimiYineMagdur) | N/A |
+| 45 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
+| 46 | [#borsa](http://twitter.com/search?q=%23borsa) | #Borsa is a hashtag used on social media to refer to the stock market. It is derived from the Italian word for “bag” or “purse” and is used to indicate conversations about stocks, investments, and other financial topics. In English, it can be translated as “stock market”. |
+| 47 | [#Farkındayız](http://twitter.com/search?q=%23Fark%c4%b1nday%c4%b1z) | N/A |
+| 48 | [#OrmanHaftası](http://twitter.com/search?q=%23OrmanHaftas%c4%b1) | N/A |
+| 49 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 50 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
 
 
 

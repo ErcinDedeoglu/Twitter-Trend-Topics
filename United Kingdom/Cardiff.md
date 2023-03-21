@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-21 11:16:34 UTC`
+📆 Last Updated: `2023-03-21 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
 | 2 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
 | 3 | [#PLTBirthday](http://twitter.com/search?q=%23PLTBirthday) | N/A |
-| 4 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 5 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 6 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
-| 7 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
-| 8 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 9 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 4 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 5 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 6 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 7 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 8 | [Jim White](http://twitter.com/search?q=Jim+White) | N/A |
+| 9 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
 | 10 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 11 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 12 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
-| 13 | [Cressida](http://twitter.com/search?q=Cressida) | N/A |
-| 14 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 15 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 16 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 17 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 18 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 19 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 20 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 21 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 22 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 23 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 11 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
+| 12 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
+| 13 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 14 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 15 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 16 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 17 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
+| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 19 | [Cressida](http://twitter.com/search?q=Cressida) | N/A |
+| 20 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 21 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 22 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 23 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
 | 24 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 25 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
-| 26 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 27 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 28 | [Policing](http://twitter.com/search?q=Policing) | N/A |
-| 29 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 30 | [Primark](http://twitter.com/search?q=Primark) | N/A |
-| 31 | [Parish](http://twitter.com/search?q=Parish) | N/A |
-| 32 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 33 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 34 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
-| 35 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
-| 36 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 37 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 38 | [#ASongOrMovieForOdour](http://twitter.com/search?q=%23ASongOrMovieForOdour) | N/A |
-| 39 | [#WDSD2023](http://twitter.com/search?q=%23WDSD2023) | N/A |
-| 40 | [#lotsofsocks](http://twitter.com/search?q=%23lotsofsocks) | N/A |
-| 41 | [#wswd2023](http://twitter.com/search?q=%23wswd2023) | N/A |
-| 42 | [#CaseyReport](http://twitter.com/search?q=%23CaseyReport) | N/A |
-| 43 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
-| 44 | [#WithUsNotForUs](http://twitter.com/search?q=%23WithUsNotForUs) | N/A |
-| 45 | [#IntlForestDay](http://twitter.com/search?q=%23IntlForestDay) | N/A |
-| 46 | [#WorldSocialWorkDay](http://twitter.com/search?q=%23WorldSocialWorkDay) | N/A |
-| 47 | [#AIUK](http://twitter.com/search?q=%23AIUK) | N/A |
+| 25 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 26 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 27 | [mayor](http://twitter.com/search?q=mayor) | N/A |
+| 28 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 29 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 30 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 31 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 32 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 33 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 35 | [Policing](http://twitter.com/search?q=Policing) | N/A |
+| 36 | [Primark](http://twitter.com/search?q=Primark) | N/A |
+| 37 | [Abada](http://twitter.com/search?q=Abada) | Abada is a term used in the Yoruba language of Nigeria, which means "patience" or "endurance". It is often used to refer to someone who is patient and resilient in the face of adversity. |
+| 38 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 39 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 40 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 41 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 42 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 43 | [Di Canio](http://twitter.com/search?q=Di+Canio) | N/A |
+| 44 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 45 | [#talksport](http://twitter.com/search?q=%23talksport) | N/A |
+| 46 | [#WDSD2023](http://twitter.com/search?q=%23WDSD2023) | N/A |
+| 47 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
 
 
 

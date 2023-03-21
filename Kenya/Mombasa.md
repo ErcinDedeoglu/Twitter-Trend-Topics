@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-21 11:17:02 UTC`
+📆 Last Updated: `2023-03-21 12:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Kenya](</Kenya>)
 | 2 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 3 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 4 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
-| 5 | [#AliveEngineering](http://twitter.com/search?q=%23AliveEngineering) | N/A |
-| 6 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
-| 7 | [#NonStopRainOfElijah](http://twitter.com/search?q=%23NonStopRainOfElijah) | N/A |
-| 8 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
-| 9 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 10 | [Kg to Ksh](http://twitter.com/search?q=Kg+to+Ksh) | N/A |
-| 11 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 12 | [UDA MPs](http://twitter.com/search?q=UDA+MPs) | N/A |
-| 13 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 14 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 15 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 16 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 17 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 18 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 19 | [KICC](http://twitter.com/search?q=KICC) | N/A |
-| 20 | [Mudavadi](http://twitter.com/search?q=Mudavadi) | N/A |
-| 21 | [Walls](http://twitter.com/search?q=Walls) | N/A |
-| 22 | [tom mboya street](http://twitter.com/search?q=tom+mboya+street) | N/A |
-| 23 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 5 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
+| 6 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
+| 7 | [#GovernorsCup031](http://twitter.com/search?q=%23GovernorsCup031) | N/A |
+| 8 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
+| 9 | [Kg to Ksh](http://twitter.com/search?q=Kg+to+Ksh) | N/A |
+| 10 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 11 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 12 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 13 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 14 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 15 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 16 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 17 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 18 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 19 | [UDA MPs](http://twitter.com/search?q=UDA+MPs) | N/A |
+| 20 | [KICC](http://twitter.com/search?q=KICC) | N/A |
+| 21 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
+| 22 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
+| 23 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 24 | [Walls](http://twitter.com/search?q=Walls) | N/A |
+| 25 | [happy new week](http://twitter.com/search?q=happy+new+week) | N/A |
 | 26 | [stewart madzayo](http://twitter.com/search?q=stewart+madzayo) | N/A |
-| 27 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
+| 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 28 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 29 | [gichugu](http://twitter.com/search?q=gichugu) | N/A |
-| 30 | [IPPs](http://twitter.com/search?q=IPPs) | N/A |
-| 31 | [Tubonge Tuesday](http://twitter.com/search?q=Tubonge+Tuesday) | N/A |
-| 32 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
-| 33 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 34 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
-| 35 | [teargas monday](http://twitter.com/search?q=teargas+monday) | N/A |
-| 36 | [Returning](http://twitter.com/search?q=Returning) | N/A |
-| 37 | [Peter Salasya](http://twitter.com/search?q=Peter+Salasya) | N/A |
-| 38 | [Unga](http://twitter.com/search?q=Unga) | N/A |
+| 29 | [Keyboard](http://twitter.com/search?q=Keyboard) | N/A |
+| 30 | [MAU MAU](http://twitter.com/search?q=MAU+MAU) | N/A |
+| 31 | [Mudavadi](http://twitter.com/search?q=Mudavadi) | N/A |
+| 32 | [Embu](http://twitter.com/search?q=Embu) | N/A |
+| 33 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 34 | [peter salasya](http://twitter.com/search?q=peter+salasya) | N/A |
+| 35 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 36 | [teargas monday](http://twitter.com/search?q=teargas+monday) | N/A |
+| 37 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
+| 38 | [Returning](http://twitter.com/search?q=Returning) | N/A |
 | 39 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 40 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 41 | [Juja Road](http://twitter.com/search?q=Juja+Road) | N/A |
-| 42 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 43 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 44 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 45 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 46 | [Demonstrations](http://twitter.com/search?q=Demonstrations) | N/A |
-| 47 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 48 | [Omondi](http://twitter.com/search?q=Omondi) | N/A |
-| 49 | [shadrack mose](http://twitter.com/search?q=shadrack+mose) | N/A |
+| 40 | [Junet](http://twitter.com/search?q=Junet) | N/A |
+| 41 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 42 | [Unga](http://twitter.com/search?q=Unga) | N/A |
+| 43 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 44 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 45 | [Omondi](http://twitter.com/search?q=Omondi) | N/A |
+| 46 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
+| 47 | [Enigma](http://twitter.com/search?q=Enigma) | N/A |
+| 48 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 49 | [Coward](http://twitter.com/search?q=Coward) | N/A |
 
 
 

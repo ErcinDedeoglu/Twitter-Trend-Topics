@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-21 11:17:24 UTC`
+📆 Last Updated: `2023-03-21 12:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
-| 2 | [#تغريده_بذكر_الله](http://twitter.com/search?q=%23%d8%aa%d8%ba%d8%b1%d9%8a%d8%af%d9%87_%d8%a8%d8%b0%d9%83%d8%b1_%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 3 | [#مجلس_2020](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_2020) | N/A |
+| 2 | [#رحيل_مجلس_2020_مطلب_شعبي](http://twitter.com/search?q=%23%d8%b1%d8%ad%d9%8a%d9%84_%d9%85%d8%ac%d9%84%d8%b3_2020_%d9%85%d8%b7%d9%84%d8%a8_%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
+| 3 | [#تغريده_بذكر_الله](http://twitter.com/search?q=%23%d8%aa%d8%ba%d8%b1%d9%8a%d8%af%d9%87_%d8%a8%d8%b0%d9%83%d8%b1_%d8%a7%d9%84%d9%84%d9%87) | N/A |
 | 4 | [الغيوم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
 | 5 | [#يوم_امي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%85%d9%8a) | N/A |
-| 6 | [#بوبيان_كل_ثلاثاء](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86_%d9%83%d9%84_%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | N/A |
+| 6 | [#حكم_تاريخي_للدستور](http://twitter.com/search?q=%23%d8%ad%d9%83%d9%85_%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a_%d9%84%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1) | N/A |
 | 7 | [السما اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%a7+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 8 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
-| 9 | [دوله الرييس](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
-| 10 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
-| 11 | [القحص الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%ad%d8%b5+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
-| 12 | [امي روحي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%b1%d9%88%d8%ad%d9%8a) | N/A |
-| 13 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 14 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
-| 15 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
-| 16 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
-| 17 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
-| 18 | [الغاء التموين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86) | N/A |
-| 19 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 20 | [فرع العارضيه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 21 | [الاراده الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
-| 22 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 23 | [مصدر السلطات](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa) | N/A |
-| 24 | [باسم الشعب](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 25 | [المكافاه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 26 | [امي الغاليه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 27 | [المجلس المبطل](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%85%d8%a8%d8%b7%d9%84) | N/A |
-| 28 | [الشعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 29 | [الاعتدال الربيعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
-| 30 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 31 | [مدبر الليل](http://twitter.com/search?q=%d9%85%d8%af%d8%a8%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
-| 32 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 33 | [احمد السعدون](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%88%d9%86) | N/A |
-| 34 | [احمد النواف](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 35 | [سعد العبدالله](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 36 | [طال الدعاء اللهم](http://twitter.com/search?q=%d8%b7%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 37 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
-| 38 | [القياده السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 39 | [امي ليست يوما](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%84%d9%8a%d8%b3%d8%aa+%d9%8a%d9%88%d9%85%d8%a7) | N/A |
-| 40 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 41 | [دكتور خالد](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 42 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 43 | [جميل الصبر](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
-| 44 | [جنوب السره](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b3%d8%b1%d9%87) | N/A |
-| 45 | [ادم امي](http://twitter.com/search?q=%d8%a7%d8%af%d9%85+%d8%a7%d9%85%d9%8a) | N/A |
-| 46 | [المشهد السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 47 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 48 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 49 | [الانتخابات الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 50 | [ثامر السويط](http://twitter.com/search?q=%d8%ab%d8%a7%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7) | N/A |
+| 8 | [يابو عواض](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%b6) | N/A |
+| 9 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
+| 10 | [المفوضيه العليا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
+| 11 | [المحكمه الدستوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 12 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
+| 13 | [دوله الرييس](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
+| 14 | [امي روحي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%b1%d9%88%d8%ad%d9%8a) | N/A |
+| 15 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
+| 16 | [جمال الغيوم](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85) | N/A |
+| 17 | [القحص الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%ad%d8%b5+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
+| 18 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
+| 19 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 20 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [عمل ابن ادم](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d8%a8%d9%86+%d8%a7%d8%af%d9%85) | N/A |
+| 22 | [الشعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 23 | [الاراده الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
+| 24 | [فرع العارضيه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 25 | [مصدر السلطات](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa) | N/A |
+| 26 | [الانتخابات الماضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
+| 27 | [الغاء التموين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86) | N/A |
+| 28 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 29 | [باسم الشعب](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
+| 30 | [المكافاه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 31 | [المجلس المبطل](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%85%d8%a8%d8%b7%d9%84) | N/A |
+| 32 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 33 | [امي الغاليه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 34 | [احمد السعدون](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%88%d9%86) | N/A |
+| 35 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
+| 36 | [الاعتدال الربيعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
+| 37 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 38 | [امي ليست يوما](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%84%d9%8a%d8%b3%d8%aa+%d9%8a%d9%88%d9%85%d8%a7) | N/A |
+| 39 | [مدبر الليل](http://twitter.com/search?q=%d9%85%d8%af%d8%a8%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 40 | [العمليه الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
+| 41 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 42 | [طال الدعاء اللهم](http://twitter.com/search?q=%d8%b7%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 43 | [رييس المجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 44 | [الفتره الماضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
+| 45 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 46 | [دكتور خالد](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 47 | [القياده السياسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 48 | [الرويه الشرعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d9%87) | N/A |
+| 49 | [احمد الشحومي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d8%ad%d9%88%d9%85%d9%8a) | N/A |
+| 50 | [المشهد السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b4%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
 
 
 

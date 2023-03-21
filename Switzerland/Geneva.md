@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-21 11:16:51 UTC`
+📆 Last Updated: `2023-03-21 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 3 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 4 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 5 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 6 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
-| 7 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 8 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 9 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 10 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 5 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 6 | [aktionäre](http://twitter.com/search?q=aktion%c3%a4re) | N/A |
+| 7 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 8 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 9 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 10 | [CS-Rettung](http://twitter.com/search?q=CS-Rettung) | N/A |
 | 11 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
 | 12 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
-| 13 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 14 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 15 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 13 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 14 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
+| 15 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
 | 16 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 17 | [Ueli](http://twitter.com/search?q=Ueli) | N/A |
-| 18 | [CS-Rettung](http://twitter.com/search?q=CS-Rettung) | N/A |
-| 19 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 20 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 21 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 22 | [Garantien](http://twitter.com/search?q=Garantien) | N/A |
-| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 24 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
-| 25 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
-| 26 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 27 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
-| 28 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
-| 29 | [Paradeplatz](http://twitter.com/search?q=Paradeplatz) | N/A |
-| 30 | [enteignung](http://twitter.com/search?q=enteignung) | N/A |
-| 31 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
-| 32 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 33 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 34 | [missmanagement](http://twitter.com/search?q=missmanagement) | N/A |
-| 35 | [Thiam](http://twitter.com/search?q=Thiam) | N/A |
-| 36 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 37 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
-| 38 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 17 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
+| 18 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 19 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 20 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 21 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
+| 22 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
+| 23 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 24 | [garantien](http://twitter.com/search?q=garantien) | N/A |
+| 25 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 26 | [Paradeplatz](http://twitter.com/search?q=Paradeplatz) | N/A |
+| 27 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
+| 28 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 29 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
+| 30 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 31 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 32 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 33 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 34 | [Thiam](http://twitter.com/search?q=Thiam) | N/A |
+| 35 | [itten](http://twitter.com/search?q=itten) | N/A |
+| 36 | [rené weiler](http://twitter.com/search?q=ren%c3%a9+weiler) | N/A |
+| 37 | [Missmanagement](http://twitter.com/search?q=Missmanagement) | N/A |
+| 38 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
 | 39 | [Gier](http://twitter.com/search?q=Gier) | N/A |
-| 40 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 40 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 41 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 42 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
-| 43 | [Franken](http://twitter.com/search?q=Franken) | N/A |
-| 44 | [İtten](http://twitter.com/search?q=%c4%b0tten) | N/A |
-| 45 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 42 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 43 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 44 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 45 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 46 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 47 | [Motto](http://twitter.com/search?q=Motto) | N/A |
-| 48 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 47 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 48 | [Franken](http://twitter.com/search?q=Franken) | N/A |
 
 
 

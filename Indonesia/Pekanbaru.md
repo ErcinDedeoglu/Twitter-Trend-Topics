@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-21 11:16:52 UTC`
+📆 Last Updated: `2023-03-21 12:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Staycation Jadi Hemat](http://twitter.com/search?q=Staycation+Jadi+Hemat) | N/A |
-| 2 | [Ramadan Bareng Wardah](http://twitter.com/search?q=Ramadan+Bareng+Wardah) | N/A |
-| 3 | [Daya Tahan Tubuh](http://twitter.com/search?q=Daya+Tahan+Tubuh) | N/A |
-| 4 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
-| 5 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 1 | [Angga](http://twitter.com/search?q=Angga) | N/A |
+| 2 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 3 | [Ramadan Bareng Wardah](http://twitter.com/search?q=Ramadan+Bareng+Wardah) | N/A |
+| 4 | [Staycation Jadi Hemat](http://twitter.com/search?q=Staycation+Jadi+Hemat) | N/A |
+| 5 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
 | 6 | [LKHP](http://twitter.com/search?q=LKHP) | N/A |
-| 7 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 8 | [Angga](http://twitter.com/search?q=Angga) | N/A |
-| 9 | [LHKP](http://twitter.com/search?q=LHKP) | N/A |
-| 10 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
-| 11 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 16 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 17 | [Jembut](http://twitter.com/search?q=Jembut) | N/A |
-| 18 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 7 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
+| 8 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 9 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 11 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 12 | [klepon](http://twitter.com/search?q=klepon) | N/A |
+| 13 | [LHKP](http://twitter.com/search?q=LHKP) | N/A |
+| 14 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 15 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
+| 16 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 17 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 19 | [Nissa](http://twitter.com/search?q=Nissa) | N/A |
-| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 21 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
+| 20 | [Jembut](http://twitter.com/search?q=Jembut) | N/A |
+| 21 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 22 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 23 | [Soree](http://twitter.com/search?q=Soree) | N/A |
-| 24 | [Cuti Bersama](http://twitter.com/search?q=Cuti+Bersama) | N/A |
-| 25 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 26 | [Hotel](http://twitter.com/search?q=Hotel) | N/A |
-| 27 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 28 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 29 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 30 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 31 | [Bule](http://twitter.com/search?q=Bule) | N/A |
-| 32 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 33 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 34 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
-| 35 | [Garut](http://twitter.com/search?q=Garut) | N/A |
-| 36 | [#RampokdiMIT](http://twitter.com/search?q=%23RampokdiMIT) | N/A |
-| 37 | [#TravelokaSTAYMAT](http://twitter.com/search?q=%23TravelokaSTAYMAT) | N/A |
-| 38 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
-| 39 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 40 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
-| 41 | [#BersamaLebihBermakna](http://twitter.com/search?q=%23BersamaLebihBermakna) | N/A |
-| 42 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 43 | [#ถ้าหนูรับพี่จะรักป่ะxOhmpawat](http://twitter.com/search?q=%23%e0%b8%96%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b8%b0%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%9b%e0%b9%88%e0%b8%b0xOhmpawat) | N/A |
-| 44 | [#aktifkreatif](http://twitter.com/search?q=%23aktifkreatif) | N/A |
+| 23 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 24 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 25 | [Hotel](http://twitter.com/search?q=Hotel) | N/A |
+| 26 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 27 | [Cuti Bersama](http://twitter.com/search?q=Cuti+Bersama) | N/A |
+| 28 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 29 | [bea cukai](http://twitter.com/search?q=bea+cukai) | N/A |
+| 30 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
+| 31 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 32 | [#BersamaLebihBermakna](http://twitter.com/search?q=%23BersamaLebihBermakna) | N/A |
+| 33 | [#travelokastaymat](http://twitter.com/search?q=%23travelokastaymat) | N/A |
+| 34 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 35 | [#RampokdiMIT](http://twitter.com/search?q=%23RampokdiMIT) | N/A |
+| 36 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
+| 37 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
+| 38 | [#WontLetBuildFall](http://twitter.com/search?q=%23WontLetBuildFall) | N/A |
+| 39 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 40 | [#ถ้าหนูรับพี่จะรักป่ะxOhmpawat](http://twitter.com/search?q=%23%e0%b8%96%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b8%b0%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%9b%e0%b9%88%e0%b8%b0xOhmpawat) | N/A |
+| 41 | [#atlashella](http://twitter.com/search?q=%23atlashella) | N/A |
+| 42 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
+| 43 | [#BoycottCaratBongVer3](http://twitter.com/search?q=%23BoycottCaratBongVer3) | N/A |
+| 44 | [#bbrigthvc](http://twitter.com/search?q=%23bbrigthvc) | N/A |
 
 
 

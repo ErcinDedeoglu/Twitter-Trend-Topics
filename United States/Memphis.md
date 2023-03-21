@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-21 11:17:16 UTC`
+📆 Last Updated: `2023-03-21 12:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 3 | [#BigMemphis](http://twitter.com/search?q=%23BigMemphis) | N/A |
-| 4 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 11 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 12 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 14 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 15 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 16 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 3 | [#LoveRising](http://twitter.com/search?q=%23LoveRising) | N/A |
+| 4 | [#BigMemphis](http://twitter.com/search?q=%23BigMemphis) | N/A |
+| 5 | [Dillon](http://twitter.com/search?q=Dillon) | N/A |
+| 6 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 9 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 11 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 15 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 16 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
 | 17 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
 | 18 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 19 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 20 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 21 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
-| 22 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
-| 23 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 24 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 25 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 26 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 19 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 20 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 21 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
+| 24 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 25 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 26 | [Costello](http://twitter.com/search?q=Costello) | N/A |
 | 27 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
 | 28 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 29 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 29 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
 | 30 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 31 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 32 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 31 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 32 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 | 33 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
 | 34 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 35 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 36 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
-| 37 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 38 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
-| 39 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 40 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 41 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 42 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 43 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 44 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 45 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 46 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 47 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 48 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 35 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 36 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 37 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 38 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 39 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 40 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
+| 41 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 42 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 43 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 44 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
+| 45 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 46 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 47 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 48 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
 
 
 

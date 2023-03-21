@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-21 11:16:48 UTC`
+📆 Last Updated: `2023-03-21 12:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 3 | [#WissingRücktritt](http://twitter.com/search?q=%23WissingR%c3%bccktritt) | N/A |
-| 4 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 6 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 10 | [Luise](http://twitter.com/search?q=Luise) | N/A |
-| 11 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 12 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
-| 13 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
-| 14 | [Piplica](http://twitter.com/search?q=Piplica) | N/A |
-| 15 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 16 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 17 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
-| 18 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 19 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 5 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 6 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 7 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 8 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 10 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
+| 11 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 12 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 13 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
+| 14 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 15 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 16 | [impfzentrum](http://twitter.com/search?q=impfzentrum) | N/A |
+| 17 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 18 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
+| 19 | [Weltklimarat](http://twitter.com/search?q=Weltklimarat) | N/A |
 | 20 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
 | 21 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 22 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 22 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
 | 23 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 24 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
-| 25 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
-| 26 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 28 | [Freier](http://twitter.com/search?q=Freier) | N/A |
-| 29 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
-| 30 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 31 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 32 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 33 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 34 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
-| 35 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
-| 36 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
-| 39 | [Oase](http://twitter.com/search?q=Oase) | N/A |
-| 40 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
-| 41 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
-| 42 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
-| 43 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 44 | [CO2 Ausstoß](http://twitter.com/search?q=CO2+Aussto%c3%9f) | N/A |
-| 45 | [Weiterbetrieb](http://twitter.com/search?q=Weiterbetrieb) | N/A |
-| 46 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
-| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 48 | [Klimakanzler](http://twitter.com/search?q=Klimakanzler) | N/A |
+| 24 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
+| 25 | [Sachlichkeit](http://twitter.com/search?q=Sachlichkeit) | N/A |
+| 26 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 27 | [Freier](http://twitter.com/search?q=Freier) | N/A |
+| 28 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
+| 29 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 30 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
+| 31 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 32 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 34 | [c. hum](http://twitter.com/search?q=c.+hum) | N/A |
+| 35 | [Kohlekraftwerke](http://twitter.com/search?q=Kohlekraftwerke) | N/A |
+| 36 | [Gören](http://twitter.com/search?q=G%c3%b6ren) | N/A |
+| 37 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 38 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 39 | [Abschaum](http://twitter.com/search?q=Abschaum) | N/A |
+| 40 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 41 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
+| 42 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 43 | [impfgeschädigten](http://twitter.com/search?q=impfgesch%c3%a4digten) | N/A |
+| 44 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 45 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 46 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 47 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
+| 48 | [Saddam Hussein](http://twitter.com/search?q=Saddam+Hussein) | N/A |
 
 
 

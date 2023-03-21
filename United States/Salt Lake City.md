@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-21 11:17:18 UTC`
+📆 Last Updated: `2023-03-21 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#takenote](http://twitter.com/search?q=%23takenote) | N/A |
-| 2 | [Ochai](http://twitter.com/search?q=Ochai) | N/A |
+| 1 | [Ochai](http://twitter.com/search?q=Ochai) | N/A |
+| 2 | [#takenote](http://twitter.com/search?q=%23takenote) | N/A |
 | 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
 | 4 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
 | 5 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 6 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 7 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 9 | [#njcup](http://twitter.com/search?q=%23njcup) | N/A |
-| 10 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 11 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 12 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 13 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
-| 14 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 15 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 16 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 17 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 18 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 19 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 20 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 21 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 22 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
-| 23 | [Baldwin](http://twitter.com/search?q=Baldwin) | N/A |
-| 24 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 25 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 26 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 27 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 28 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 6 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 9 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 11 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 15 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 16 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 17 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 18 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 19 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 20 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 21 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [John Ridley](http://twitter.com/search?q=John+Ridley) | N/A |
+| 24 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 25 | [Tamar](http://twitter.com/search?q=Tamar) | N/A |
+| 26 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 27 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 28 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
 | 29 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 30 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
-| 31 | [Shohei](http://twitter.com/search?q=Shohei) | N/A |
-| 32 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 33 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 34 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 35 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 36 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 37 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 38 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 39 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 40 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 41 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 42 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 43 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
-| 44 | [#IndictmentWatch](http://twitter.com/search?q=%23IndictmentWatch) | N/A |
-| 45 | [#MorningJoe](http://twitter.com/search?q=%23MorningJoe) | N/A |
-| 46 | [#SonaReview](http://twitter.com/search?q=%23SonaReview) | N/A |
-| 47 | [#WelcomeBallGuy](http://twitter.com/search?q=%23WelcomeBallGuy) | N/A |
-| 48 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 49 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 30 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 31 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 32 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 33 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 34 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 35 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 36 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 37 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 38 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 39 | [Swarm](http://twitter.com/search?q=Swarm) | N/A |
+| 40 | [Hiromu](http://twitter.com/search?q=Hiromu) | N/A |
+| 41 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 42 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 43 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 44 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
+| 45 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
+| 46 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 47 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 48 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 49 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
 
 
 

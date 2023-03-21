@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-21 11:17:00 UTC`
+📆 Last Updated: `2023-03-21 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 1 | [#SB19_STELL](http://twitter.com/search?q=%23SB19_STELL) | #SB19_STELL is a hashtag used by fans of the Filipino boy band SB19. It stands for "Support, Trust, Encourage, Love and Listen" and is used to show support for the group. |
 | 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
 | 3 | [CHANYEOL](http://twitter.com/search?q=CHANYEOL) | N/A |
-| 4 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
-| 5 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 6 | [#HORI7ON_IGLiveForDASH_D1](http://twitter.com/search?q=%23HORI7ON_IGLiveForDASH_D1) | N/A |
-| 7 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 8 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
-| 9 | [Kath Arado](http://twitter.com/search?q=Kath+Arado) | N/A |
-| 10 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
-| 11 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
-| 12 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
-| 13 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
-| 14 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 15 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
-| 16 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 17 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 4 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 5 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
+| 6 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
+| 7 | [KAIA ALEXA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ALEXA+CONCEPT+TEASER) | N/A |
+| 8 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 9 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 10 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 11 | [Kath Arado](http://twitter.com/search?q=Kath+Arado) | N/A |
+| 12 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
+| 13 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 14 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 15 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 16 | [KAOMIAH PROMEVER](http://twitter.com/search?q=KAOMIAH+PROMEVER) | N/A |
+| 17 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 18 | [One Sports](http://twitter.com/search?q=One+Sports) | N/A |
-| 19 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
-| 20 | [KARINA STAR MAGIC CONVO](http://twitter.com/search?q=KARINA+STAR+MAGIC+CONVO) | N/A |
-| 21 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 22 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 23 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 24 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
-| 25 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
+| 19 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 20 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 21 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
+| 22 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 23 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
+| 24 | [KARINA STAR MAGIC CONVO](http://twitter.com/search?q=KARINA+STAR+MAGIC+CONVO) | N/A |
+| 25 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 26 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 27 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
-| 28 | [Noelle](http://twitter.com/search?q=Noelle) | N/A |
-| 29 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
-| 30 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 31 | [Cherry Blossom](http://twitter.com/search?q=Cherry+Blossom) | N/A |
-| 32 | [#2023_MOONBIN_SANHA_FANCON](http://twitter.com/search?q=%232023_MOONBIN_SANHA_FANCON) | N/A |
-| 33 | [#문빈_산하](http://twitter.com/search?q=%23%eb%ac%b8%eb%b9%88_%ec%82%b0%ed%95%98) | N/A |
-| 34 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
-| 35 | [#DAVIDForUniversalRecords](http://twitter.com/search?q=%23DAVIDForUniversalRecords) | N/A |
-| 36 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
-| 37 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
-| 38 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
-| 39 | [#FreenBeckyFanBoomCEBU](http://twitter.com/search?q=%23FreenBeckyFanBoomCEBU) | N/A |
-| 40 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 41 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 42 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
-| 43 | [#SPCAtlas2023MusicFestDay](http://twitter.com/search?q=%23SPCAtlas2023MusicFestDay) | N/A |
-| 44 | [#AKKnightsAndMusics](http://twitter.com/search?q=%23AKKnightsAndMusics) | N/A |
-| 45 | [#BOYCOTTEBxAPTxGMA741](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA741) | N/A |
-| 46 | [#Beatbox_EnglishVer](http://twitter.com/search?q=%23Beatbox_EnglishVer) | N/A |
+| 27 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 28 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
+| 29 | [Boom](http://twitter.com/search?q=Boom) | N/A |
+| 30 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
+| 31 | [Gen Ad](http://twitter.com/search?q=Gen+Ad) | N/A |
+| 32 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 33 | [VIBRENT PROMPOSAL](http://twitter.com/search?q=VIBRENT+PROMPOSAL) | N/A |
+| 34 | [Noelle](http://twitter.com/search?q=Noelle) | N/A |
+| 35 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
+| 36 | [Cherry Blossom](http://twitter.com/search?q=Cherry+Blossom) | N/A |
+| 37 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
+| 38 | [#THEDREAMSHOW2_in_MANILA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_MANILA) | N/A |
+| 39 | [#문빈_산하](http://twitter.com/search?q=%23%eb%ac%b8%eb%b9%88_%ec%82%b0%ed%95%98) | N/A |
+| 40 | [#2023_MOONBIN_SANHA_FANCON](http://twitter.com/search?q=%232023_MOONBIN_SANHA_FANCON) | N/A |
+| 41 | [#HORI7ON_IGLiveForDASH_D1](http://twitter.com/search?q=%23HORI7ON_IGLiveForDASH_D1) | N/A |
+| 42 | [#DreamChasersPIEBonding](http://twitter.com/search?q=%23DreamChasersPIEBonding) | N/A |
+| 43 | [#DAVIDForUniversalRecords](http://twitter.com/search?q=%23DAVIDForUniversalRecords) | N/A |
+| 44 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
+| 45 | [#Mamamooplus_ChicoMalo](http://twitter.com/search?q=%23Mamamooplus_ChicoMalo) | N/A |
+| 46 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
+| 47 | [#FurFurWeMissYou](http://twitter.com/search?q=%23FurFurWeMissYou) | N/A |
+| 48 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
+| 49 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
+| 50 | [#BINI](http://twitter.com/search?q=%23BINI) | N/A |
 
 
 

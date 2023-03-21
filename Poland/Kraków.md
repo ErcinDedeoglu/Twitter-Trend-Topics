@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-21 11:16:45 UTC`
+📆 Last Updated: `2023-03-21 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#JednaLista](http://twitter.com/search?q=%23JednaLista) | N/A |
 | 2 | [#PiStoPRLbis](http://twitter.com/search?q=%23PiStoPRLbis) | N/A |
-| 3 | [#pizgaczhell](http://twitter.com/search?q=%23pizgaczhell) | N/A |
-| 4 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 5 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
+| 3 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 4 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
+| 5 | [#pizgaczhell](http://twitter.com/search?q=%23pizgaczhell) | N/A |
 | 6 | [Downa](http://twitter.com/search?q=Downa) | N/A |
-| 7 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 8 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
-| 9 | [#PlanDnia](http://twitter.com/search?q=%23PlanDnia) | N/A |
-| 10 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 11 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
-| 12 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 14 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
-| 15 | [Dzień Wagarowicza](http://twitter.com/search?q=Dzie%c5%84+Wagarowicza) | N/A |
-| 16 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
-| 17 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 18 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 19 | [Zdrowia](http://twitter.com/search?q=Zdrowia) | N/A |
-| 20 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 21 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 7 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
+| 8 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 9 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
+| 10 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
+| 11 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 12 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 13 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
+| 14 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
+| 15 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 16 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 17 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 18 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 19 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 20 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 21 | [Chin](http://twitter.com/search?q=Chin) | N/A |
 | 22 | [Pszczynie](http://twitter.com/search?q=Pszczynie) | N/A |
-| 23 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 24 | [Seba](http://twitter.com/search?q=Seba) | N/A |
-| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 26 | [Duże Sklepy](http://twitter.com/search?q=Du%c5%bce+Sklepy) | N/A |
-| 27 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
-| 28 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 29 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 30 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 31 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 32 | [Dżankoj](http://twitter.com/search?q=D%c5%bcankoj) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [konfederacja](http://twitter.com/search?q=konfederacja) | N/A |
-| 35 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 36 | [Wybory](http://twitter.com/search?q=Wybory) | N/A |
-| 37 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 38 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 39 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
-| 40 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 41 | [Francji](http://twitter.com/search?q=Francji) | N/A |
-| 42 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
-| 43 | [święty józefie](http://twitter.com/search?q=%c5%9bwi%c4%99ty+j%c3%b3zefie) | N/A |
-| 44 | [Fogla](http://twitter.com/search?q=Fogla) | N/A |
-| 45 | [SKIN OFF YOU HEATHENS](http://twitter.com/search?q=SKIN+OFF+YOU+HEATHENS) | N/A |
-| 46 | [dawida](http://twitter.com/search?q=dawida) | N/A |
-| 47 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
-| 48 | [Trzymaj](http://twitter.com/search?q=Trzymaj) | N/A |
-| 49 | [marzannę](http://twitter.com/search?q=marzann%c4%99) | N/A |
-| 50 | [Doktorze](http://twitter.com/search?q=Doktorze) | N/A |
+| 23 | [Dżankoj](http://twitter.com/search?q=D%c5%bcankoj) | N/A |
+| 24 | [Duże Sklepy](http://twitter.com/search?q=Du%c5%bce+Sklepy) | N/A |
+| 25 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 26 | [Dzień Wagarowicza](http://twitter.com/search?q=Dzie%c5%84+Wagarowicza) | N/A |
+| 27 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 28 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 29 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 30 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
+| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 32 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 33 | [majewskiego](http://twitter.com/search?q=majewskiego) | N/A |
+| 34 | [Moskwie](http://twitter.com/search?q=Moskwie) | N/A |
+| 35 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 36 | [Marzannę](http://twitter.com/search?q=Marzann%c4%99) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 39 | [Francji](http://twitter.com/search?q=Francji) | N/A |
+| 40 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 41 | [Fogla](http://twitter.com/search?q=Fogla) | N/A |
+| 42 | [Doktorze](http://twitter.com/search?q=Doktorze) | N/A |
+| 43 | [Szybkiego](http://twitter.com/search?q=Szybkiego) | N/A |
+| 44 | [święty józefie](http://twitter.com/search?q=%c5%9bwi%c4%99ty+j%c3%b3zefie) | N/A |
+| 45 | [Kalibr](http://twitter.com/search?q=Kalibr) | N/A |
+| 46 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
+| 47 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 48 | [zdrowia](http://twitter.com/search?q=zdrowia) | N/A |
+| 49 | [SKIN OFF YOU HEATHENS](http://twitter.com/search?q=SKIN+OFF+YOU+HEATHENS) | N/A |
 
 
 
