@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-21 03:16:42 UTC`
+📆 Last Updated: `2023-03-21 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 2 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 3 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 4 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 6 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 7 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
-| 8 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 9 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 10 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 11 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 12 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 13 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 14 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 15 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 16 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 17 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
-| 18 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 19 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 20 | [the town](http://twitter.com/search?q=the+town) | N/A |
-| 21 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 22 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 23 | [OUÇA DEUS PERDOA](http://twitter.com/search?q=OU%c3%87A+DEUS+PERDOA) | N/A |
-| 24 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 25 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
-| 26 | [Facincani](http://twitter.com/search?q=Facincani) | N/A |
-| 27 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 28 | [Planta](http://twitter.com/search?q=Planta) | N/A |
-| 29 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 30 | [oliver sykes](http://twitter.com/search?q=oliver+sykes) | N/A |
-| 31 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 32 | [Matheus Fernandes](http://twitter.com/search?q=Matheus+Fernandes) | N/A |
-| 33 | [Contra o Flamengo](http://twitter.com/search?q=Contra+o+Flamengo) | N/A |
+| 1 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 2 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 3 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 4 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 5 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 6 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 7 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 8 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 9 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 10 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
+| 11 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 12 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 13 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
+| 14 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 15 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 16 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 17 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 18 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
+| 19 | [OUÇA DEUS PERDOA](http://twitter.com/search?q=OU%c3%87A+DEUS+PERDOA) | N/A |
+| 20 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 21 | [Facincani](http://twitter.com/search?q=Facincani) | N/A |
+| 22 | [Planta](http://twitter.com/search?q=Planta) | N/A |
+| 23 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
+| 24 | [FELICES 26 TINI](http://twitter.com/search?q=FELICES+26+TINI) | N/A |
+| 25 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 26 | [Oliver Sykes](http://twitter.com/search?q=Oliver+Sykes) | N/A |
+| 27 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
+| 28 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 29 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 30 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 31 | [Contra o Flamengo](http://twitter.com/search?q=Contra+o+Flamengo) | N/A |
+| 32 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 33 | [Matheus Fernandes](http://twitter.com/search?q=Matheus+Fernandes) | N/A |
 | 34 | [Campeonato Paulista](http://twitter.com/search?q=Campeonato+Paulista) | N/A |
-| 35 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
-| 36 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 37 | [Holy Water](http://twitter.com/search?q=Holy+Water) | N/A |
-| 38 | [#ultimolance](http://twitter.com/search?q=%23ultimolance) | N/A |
-| 39 | [Thiago Carpini](http://twitter.com/search?q=Thiago+Carpini) | N/A |
-| 40 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 41 | [Juninho Capixaba](http://twitter.com/search?q=Juninho+Capixaba) | N/A |
-| 42 | [LANÇAMENTO RANCOROSA](http://twitter.com/search?q=LAN%c3%87AMENTO+RANCOROSA) | N/A |
-| 43 | [Figurante](http://twitter.com/search?q=Figurante) | N/A |
-| 44 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 45 | [Pescou o Pedro Raul](http://twitter.com/search?q=Pescou+o+Pedro+Raul) | N/A |
-| 46 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 47 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
-| 48 | [Mezenga](http://twitter.com/search?q=Mezenga) | N/A |
-| 49 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
-| 50 | [Alface e Sarah](http://twitter.com/search?q=Alface+e+Sarah) | N/A |
+| 35 | [Holy Water](http://twitter.com/search?q=Holy+Water) | N/A |
+| 36 | [#ultimolance](http://twitter.com/search?q=%23ultimolance) | N/A |
+| 37 | [Figurante](http://twitter.com/search?q=Figurante) | N/A |
+| 38 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 39 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 40 | [Thiago Carpini](http://twitter.com/search?q=Thiago+Carpini) | N/A |
+| 41 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
+| 42 | [Mezenga](http://twitter.com/search?q=Mezenga) | N/A |
+| 43 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 44 | [Juninho Capixaba](http://twitter.com/search?q=Juninho+Capixaba) | N/A |
+| 45 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
+| 46 | [Pescou o Pedro Raul](http://twitter.com/search?q=Pescou+o+Pedro+Raul) | N/A |
+| 47 | [Alface e Sarah](http://twitter.com/search?q=Alface+e+Sarah) | N/A |
+| 48 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 49 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 50 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
 
 
 

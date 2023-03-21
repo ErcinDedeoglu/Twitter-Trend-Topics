@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-21 03:17:02 UTC`
+📆 Last Updated: `2023-03-21 04:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 2 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
-| 3 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 4 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 3 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 4 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
 | 5 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
 | 6 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 7 | [#HumanRightsDay](http://twitter.com/search?q=%23HumanRightsDay) | N/A |
 | 8 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 9 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
-| 10 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 11 | [#datemyfamily](http://twitter.com/search?q=%23datemyfamily) | N/A |
-| 12 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 13 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 9 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 10 | [#powerup](http://twitter.com/search?q=%23powerup) | N/A |
+| 11 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
+| 12 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 13 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 14 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
 | 15 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
 | 16 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 17 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 18 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 19 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 17 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 18 | [tsatsi](http://twitter.com/search?q=tsatsi) | N/A |
+| 19 | [Flop](http://twitter.com/search?q=Flop) | N/A |
 | 20 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 21 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 22 | [braamfontein](http://twitter.com/search?q=braamfontein) | N/A |
-| 23 | [alostro](http://twitter.com/search?q=alostro) | N/A |
-| 24 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 21 | [braamfontein](http://twitter.com/search?q=braamfontein) | N/A |
+| 22 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 23 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
+| 24 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
 | 25 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 26 | [Church Square](http://twitter.com/search?q=Church+Square) | N/A |
-| 27 | [dali mpofu](http://twitter.com/search?q=dali+mpofu) | N/A |
-| 28 | [pta cbd](http://twitter.com/search?q=pta+cbd) | N/A |
+| 26 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 27 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 28 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
 | 29 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
 | 30 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
-| 31 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 32 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
-| 33 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 34 | [BOMB](http://twitter.com/search?q=BOMB) | N/A |
-| 35 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 36 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
-| 37 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 38 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 39 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
-| 40 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 41 | [jhb cbd](http://twitter.com/search?q=jhb+cbd) | N/A |
-| 42 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 31 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 32 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
+| 33 | [pta cbd](http://twitter.com/search?q=pta+cbd) | N/A |
+| 34 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 35 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
+| 36 | [Wena](http://twitter.com/search?q=Wena) | N/A |
+| 37 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
+| 38 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 39 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
+| 40 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 41 | [NOTA](http://twitter.com/search?q=NOTA) | N/A |
+| 42 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
 | 43 | [Chest](http://twitter.com/search?q=Chest) | N/A |
-| 44 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 45 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
-| 46 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
-| 47 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
-| 48 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
-| 49 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 44 | [sandton](http://twitter.com/search?q=sandton) | N/A |
+| 45 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
+| 46 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
+| 47 | [jhb cbd](http://twitter.com/search?q=jhb+cbd) | N/A |
+| 48 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 49 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 50 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
 
 
 

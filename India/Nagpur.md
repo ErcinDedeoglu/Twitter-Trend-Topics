@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-21 03:17:07 UTC`
+📆 Last Updated: `2023-03-21 04:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,44 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#न्याय_व्यवस्था](http://twitter.com/search?q=%23%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 2 | [#BeatDepression](http://twitter.com/search?q=%23BeatDepression) | N/A |
+| 1 | [#BeatDepression](http://twitter.com/search?q=%23BeatDepression) | N/A |
+| 2 | [#न्याय_व्यवस्था](http://twitter.com/search?q=%23%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
 | 3 | [Exposed By Lawyers](http://twitter.com/search?q=Exposed+By+Lawyers) | N/A |
 | 4 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
 | 5 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
-| 6 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 7 | [Saint Gurmeet Ram  Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram++Rahim+Ji) | N/A |
-| 8 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 9 | [#TNBudget2023](http://twitter.com/search?q=%23TNBudget2023) | N/A |
+| 6 | [#InternationalDayofForests](http://twitter.com/search?q=%23InternationalDayofForests) | N/A |
+| 7 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 8 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
+| 9 | [Saint Gurmeet Ram  Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram++Rahim+Ji) | N/A |
 | 10 | [Nexus Colluded Against SSR](http://twitter.com/search?q=Nexus+Colluded+Against+SSR) | N/A |
-| 11 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 12 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 13 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 14 | [THE NOSE RING](http://twitter.com/search?q=THE+NOSE+RING) | N/A |
-| 15 | [पटना जंक्शन](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a4%a8%e0%a4%be+%e0%a4%9c%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 16 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 17 | [अवंतीबाई लोधी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%82%e0%a4%a4%e0%a5%80%e0%a4%ac%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 18 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 19 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
-| 20 | [Slept in March](http://twitter.com/search?q=Slept+in+March) | N/A |
-| 21 | [SAVE HP3 FROM FARHAD](http://twitter.com/search?q=SAVE+HP3+FROM+FARHAD) | N/A |
-| 22 | [cbi act now4 ssr](http://twitter.com/search?q=cbi+act+now4+ssr) | N/A |
-| 23 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 24 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 25 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 26 | [Mehul Choksi](http://twitter.com/search?q=Mehul+Choksi) | N/A |
-| 27 | [Joyful Sushant](http://twitter.com/search?q=Joyful+Sushant) | N/A |
-| 28 | [राम लखन सीता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b2%e0%a4%96%e0%a4%a8+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 29 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 30 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 31 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 32 | [Maharana Pratap](http://twitter.com/search?q=Maharana+Pratap) | N/A |
-| 33 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 34 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 35 | [Bapuji](http://twitter.com/search?q=Bapuji) | N/A |
-| 36 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
-| 37 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 38 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
-| 39 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
-| 40 | [Indian High Commission](http://twitter.com/search?q=Indian+High+Commission) | N/A |
-| 41 | [बिहार सरकार](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 42 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 43 | [जयपाल सिंह मुंडा](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%a1%e0%a4%be) | N/A |
-| 44 | [Ab Anyay Ka Ant Ho](http://twitter.com/search?q=Ab+Anyay+Ka+Ant+Ho) | N/A |
-| 45 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 46 | [हनुमान ज्ञान](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
-| 47 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
-| 48 | [Chatrapati Shivaji Maharaj](http://twitter.com/search?q=Chatrapati+Shivaji+Maharaj) | N/A |
-| 49 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 11 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 12 | [Mehul Choksi](http://twitter.com/search?q=Mehul+Choksi) | N/A |
+| 13 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 14 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 15 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
+| 16 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 17 | [Maharana Pratap](http://twitter.com/search?q=Maharana+Pratap) | N/A |
+| 18 | [Shivaji Maharaj](http://twitter.com/search?q=Shivaji+Maharaj) | N/A |
+| 19 | [Indira](http://twitter.com/search?q=Indira) | N/A |
+| 20 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 21 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 22 | [#NavrozMubarak](http://twitter.com/search?q=%23NavrozMubarak) | N/A |
+| 23 | [#विश्व_वानिकी_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%80_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 24 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 25 | [#MumbaiWeather](http://twitter.com/search?q=%23MumbaiWeather) | N/A |
+| 26 | [#TAEHYUNGxELLEKOREA](http://twitter.com/search?q=%23TAEHYUNGxELLEKOREA) | N/A |
+| 27 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 28 | [#BismillahKhan](http://twitter.com/search?q=%23BismillahKhan) | N/A |
+| 29 | [#विश्व_कविता_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%95%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 30 | [#PathaanOnPrime](http://twitter.com/search?q=%23PathaanOnPrime) | N/A |
+| 31 | [#जय_हनुमान](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 32 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 33 | [#DelhiBudget](http://twitter.com/search?q=%23DelhiBudget) | N/A |
+| 34 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 35 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
+| 36 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 37 | [#किसान](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8) | N/A |
+| 38 | [#Amazon](http://twitter.com/search?q=%23Amazon) | N/A |
 
 
 

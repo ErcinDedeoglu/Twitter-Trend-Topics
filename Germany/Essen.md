@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-21 03:16:47 UTC`
+📆 Last Updated: `2023-03-21 04:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 3 | [C. Hum](http://twitter.com/search?q=C.+Hum) | N/A |
-| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
+| 4 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
 | 5 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 9 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 10 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
+| 8 | [frühlingsanfang](http://twitter.com/search?q=fr%c3%bchlingsanfang) | N/A |
+| 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 10 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
 | 11 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
 | 12 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
 | 13 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
 | 14 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
 | 15 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
-| 16 | [tempelhofer feld](http://twitter.com/search?q=tempelhofer+feld) | N/A |
-| 17 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 18 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 19 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 20 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
-| 21 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 22 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 23 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 24 | [Restle](http://twitter.com/search?q=Restle) | N/A |
-| 25 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 26 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 27 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 28 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 29 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
-| 30 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
-| 31 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 32 | [Impfgeschädigten](http://twitter.com/search?q=Impfgesch%c3%a4digten) | N/A |
-| 33 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 34 | [kaufland](http://twitter.com/search?q=kaufland) | N/A |
-| 35 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 36 | [Dario](http://twitter.com/search?q=Dario) | N/A |
-| 37 | [impfarzt](http://twitter.com/search?q=impfarzt) | N/A |
-| 38 | [neujahrsfest](http://twitter.com/search?q=neujahrsfest) | N/A |
-| 39 | [Mündlich](http://twitter.com/search?q=M%c3%bcndlich) | N/A |
-| 40 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
-| 41 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 42 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 43 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 44 | [Rufmord](http://twitter.com/search?q=Rufmord) | N/A |
-| 45 | [tag des glücks](http://twitter.com/search?q=tag+des+gl%c3%bccks) | N/A |
+| 16 | [weltklimarat](http://twitter.com/search?q=weltklimarat) | N/A |
+| 17 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 18 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 19 | [tempelhofer feld](http://twitter.com/search?q=tempelhofer+feld) | N/A |
+| 20 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 21 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 22 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 23 | [stegner](http://twitter.com/search?q=stegner) | N/A |
+| 24 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 25 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 26 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 27 | [kaufland](http://twitter.com/search?q=kaufland) | N/A |
+| 28 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 29 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 30 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 31 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
+| 32 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 33 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
+| 34 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 35 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
+| 36 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 38 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 39 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 40 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 41 | [neujahrsfest](http://twitter.com/search?q=neujahrsfest) | N/A |
+| 42 | [Impfgeschädigten](http://twitter.com/search?q=Impfgesch%c3%a4digten) | N/A |
+| 43 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 44 | [rufmord](http://twitter.com/search?q=rufmord) | N/A |
+| 45 | [Dario](http://twitter.com/search?q=Dario) | N/A |
 | 46 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 47 | [arztgespräch](http://twitter.com/search?q=arztgespr%c3%a4ch) | N/A |
-| 48 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 47 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
+| 48 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 49 | [impfarzt](http://twitter.com/search?q=impfarzt) | N/A |
 
 
 

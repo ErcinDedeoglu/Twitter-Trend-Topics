@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-21 03:17:00 UTC`
+📆 Last Updated: `2023-03-21 04:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DermactionXPrem](http://twitter.com/search?q=%23DermactionXPrem) | N/A |
-| 2 | [#JENNIExCHANELBagCampaign](http://twitter.com/search?q=%23JENNIExCHANELBagCampaign) | N/A |
-| 3 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 2 | [flower by jisoo](http://twitter.com/search?q=flower+by+jisoo) | N/A |
+| 3 | [#JENNIExCHANELBagCampaign](http://twitter.com/search?q=%23JENNIExCHANELBagCampaign) | N/A |
 | 4 | [#SOLO900MONYT](http://twitter.com/search?q=%23SOLO900MONYT) | N/A |
 | 5 | [#ThankyouTWICE](http://twitter.com/search?q=%23ThankyouTWICE) | N/A |
-| 6 | [altcoin](http://twitter.com/search?q=altcoin) | N/A |
+| 6 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 7 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
-| 8 | [hạnh](http://twitter.com/search?q=h%e1%ba%a1nh) | N/A |
-| 9 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
+| 8 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
+| 9 | [Mong](http://twitter.com/search?q=Mong) | N/A |
 | 10 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
-| 11 | [thụy sĩ](http://twitter.com/search?q=th%e1%bb%a5y+s%c4%a9) | N/A |
-| 12 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 13 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 14 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 15 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 16 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 17 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 18 | [thêm](http://twitter.com/search?q=th%c3%aam) | N/A |
-| 19 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 20 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 11 | [Join the Voyage Season 2](http://twitter.com/search?q=Join+the+Voyage+Season+2) | N/A |
+| 12 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
+| 13 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 14 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
+| 15 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
+| 16 | [Thai](http://twitter.com/search?q=Thai) | N/A |
+| 17 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 18 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 19 | [thêm](http://twitter.com/search?q=th%c3%aam) | N/A |
+| 20 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
 | 21 | [$drx](http://twitter.com/search?q=%24drx) | N/A |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
-| 24 | [America](http://twitter.com/search?q=America) | N/A |
-| 25 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
-| 26 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
-| 27 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 28 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 29 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 30 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
-| 31 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 32 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 33 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 34 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 35 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
-| 36 | [P'mile](http://twitter.com/search?q=P%27mile) | N/A |
-| 37 | [ấn độ](http://twitter.com/search?q=%e1%ba%a5n+%c4%91%e1%bb%99) | N/A |
-| 38 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 39 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 40 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 41 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 42 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
-| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 22 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 23 | [America](http://twitter.com/search?q=America) | N/A |
+| 24 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 26 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 27 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 28 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 29 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 30 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 31 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 32 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 33 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 34 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
+| 37 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
+| 38 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 39 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 40 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 41 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 42 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
+| 43 | [Base](http://twitter.com/search?q=Base) | N/A |
 | 44 | [Omnichain Smart Contracts](http://twitter.com/search?q=Omnichain+Smart+Contracts) | N/A |
-| 45 | [hình](http://twitter.com/search?q=h%c3%acnh) | N/A |
-| 46 | [LISA CHARMS KAOHSIUNG](http://twitter.com/search?q=LISA+CHARMS+KAOHSIUNG) | N/A |
-| 47 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 48 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 49 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 50 | [Mông](http://twitter.com/search?q=M%c3%b4ng) | N/A |
+| 45 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
+| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 47 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
+| 48 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 
 
 

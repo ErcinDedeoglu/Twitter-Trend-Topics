@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-21 03:16:59 UTC`
+📆 Last Updated: `2023-03-21 04:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 2 | [#SPCAtlas2023](http://twitter.com/search?q=%23SPCAtlas2023) | N/A |
-| 3 | [#TAEHYUNGxELLEKOREA](http://twitter.com/search?q=%23TAEHYUNGxELLEKOREA) | N/A |
+| 2 | [#Beatbox_EnglishVer](http://twitter.com/search?q=%23Beatbox_EnglishVer) | N/A |
+| 3 | [#7DREAMBeatboxEngVer](http://twitter.com/search?q=%237DREAMBeatboxEngVer) | N/A |
 | 4 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
-| 5 | [#7DREAMBeatboxEngVer](http://twitter.com/search?q=%237DREAMBeatboxEngVer) | N/A |
-| 6 | [#Beatbox_EnglishVer](http://twitter.com/search?q=%23Beatbox_EnglishVer) | N/A |
-| 7 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 5 | [#SPCAtlas2023](http://twitter.com/search?q=%23SPCAtlas2023) | N/A |
+| 6 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 7 | [#kaia_sophia](http://twitter.com/search?q=%23kaia_sophia) | N/A |
 | 8 | [kaia sophia concept teaser](http://twitter.com/search?q=kaia+sophia+concept+teaser) | N/A |
-| 9 | [join ppopcom2023](http://twitter.com/search?q=join+ppopcom2023) | N/A |
-| 10 | [DASH MV TEASER 2](http://twitter.com/search?q=DASH+MV+TEASER+2) | N/A |
-| 11 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 12 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
-| 13 | [V FOR ELLE KOREA](http://twitter.com/search?q=V+FOR+ELLE+KOREA) | N/A |
-| 14 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
-| 15 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
-| 16 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
-| 17 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 18 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 19 | [MAYMAY SUNSILKabogeraVlog](http://twitter.com/search?q=MAYMAY+SUNSILKabogeraVlog) | N/A |
-| 20 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 21 | [best wishes ruca](http://twitter.com/search?q=best+wishes+ruca) | N/A |
-| 22 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 23 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
-| 24 | [THE NOSE RING](http://twitter.com/search?q=THE+NOSE+RING) | N/A |
-| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 26 | [ruru madrid](http://twitter.com/search?q=ruru+madrid) | N/A |
-| 27 | [dreink your water](http://twitter.com/search?q=dreink+your+water) | N/A |
-| 28 | [benchrunway withfrancine](http://twitter.com/search?q=benchrunway+withfrancine) | N/A |
-| 29 | [ITS OUR TIME](http://twitter.com/search?q=ITS+OUR+TIME) | N/A |
-| 30 | [kadaily alexa in singapore](http://twitter.com/search?q=kadaily+alexa+in+singapore) | N/A |
-| 31 | [1MILLION HEARTS FOR HEESEUNG](http://twitter.com/search?q=1MILLION+HEARTS+FOR+HEESEUNG) | N/A |
-| 32 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 33 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
+| 9 | [PROMPOSAL REVEAL ROBXINE](http://twitter.com/search?q=PROMPOSAL+REVEAL+ROBXINE) | N/A |
+| 10 | [join ppopcom2023](http://twitter.com/search?q=join+ppopcom2023) | N/A |
+| 11 | [JENNIE SOLO MV 900M](http://twitter.com/search?q=JENNIE+SOLO+MV+900M) | N/A |
+| 12 | [DASH MV TEASER 2](http://twitter.com/search?q=DASH+MV+TEASER+2) | N/A |
+| 13 | [ALWAYS PROUD OF TWICE](http://twitter.com/search?q=ALWAYS+PROUD+OF+TWICE) | N/A |
+| 14 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 16 | [V IS COMING](http://twitter.com/search?q=V+IS+COMING) | N/A |
+| 17 | [best wishes ruca](http://twitter.com/search?q=best+wishes+ruca) | N/A |
+| 18 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
+| 19 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 20 | [THE NOSE RING](http://twitter.com/search?q=THE+NOSE+RING) | N/A |
+| 21 | [dreink your water](http://twitter.com/search?q=dreink+your+water) | N/A |
+| 22 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
+| 23 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 24 | [1MILLION HEARTS FOR HEESEUNG](http://twitter.com/search?q=1MILLION+HEARTS+FOR+HEESEUNG) | N/A |
+| 25 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 26 | [benchrunway withfrancine](http://twitter.com/search?q=benchrunway+withfrancine) | N/A |
+| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 28 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
+| 29 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 30 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 31 | [spiecy asi](http://twitter.com/search?q=spiecy+asi) | N/A |
+| 32 | [iangat ang ppop](http://twitter.com/search?q=iangat+ang+ppop) | N/A |
+| 33 | [lee haechan](http://twitter.com/search?q=lee+haechan) | N/A |
 | 34 | [arawngpanabo withdavid](http://twitter.com/search?q=arawngpanabo+withdavid) | N/A |
-| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 36 | [iangat ang ppop](http://twitter.com/search?q=iangat+ang+ppop) | N/A |
-| 37 | [EXPÉRGO OUT NOW](http://twitter.com/search?q=EXP%c3%89RGO+OUT+NOW) | N/A |
-| 38 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 39 | [Hyungsik](http://twitter.com/search?q=Hyungsik) | N/A |
-| 40 | [spiecy asi](http://twitter.com/search?q=spiecy+asi) | N/A |
-| 41 | [LOVESTRUCK CLUB](http://twitter.com/search?q=LOVESTRUCK+CLUB) | N/A |
-| 42 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 43 | [NADINE CUTE WEEKEND](http://twitter.com/search?q=NADINE+CUTE+WEEKEND) | N/A |
-| 44 | [Namgi](http://twitter.com/search?q=Namgi) | N/A |
-| 45 | [JIMIN ON SUCHWITA](http://twitter.com/search?q=JIMIN+ON+SUCHWITA) | N/A |
-| 46 | [FELIP GULATAN ERA](http://twitter.com/search?q=FELIP+GULATAN+ERA) | N/A |
-| 47 | [Shohei](http://twitter.com/search?q=Shohei) | N/A |
-| 48 | [BUILD BETTER MORE](http://twitter.com/search?q=BUILD+BETTER+MORE) | N/A |
-| 49 | [BGYO AT AyalaFeliz March26](http://twitter.com/search?q=BGYO+AT+AyalaFeliz+March26) | N/A |
+| 35 | [ruru madrid](http://twitter.com/search?q=ruru+madrid) | N/A |
+| 36 | [BGYO AT AyalaFeliz March26](http://twitter.com/search?q=BGYO+AT+AyalaFeliz+March26) | N/A |
+| 37 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 38 | [LOVESTRUCK CLUB](http://twitter.com/search?q=LOVESTRUCK+CLUB) | N/A |
+| 39 | [FELIP GULATAN ERA](http://twitter.com/search?q=FELIP+GULATAN+ERA) | N/A |
+| 40 | [BUILD BETTER MORE](http://twitter.com/search?q=BUILD+BETTER+MORE) | N/A |
+| 41 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
+| 42 | [MAYMAY SUNSILKabogeraVlog](http://twitter.com/search?q=MAYMAY+SUNSILKabogeraVlog) | N/A |
+| 43 | [film kai premiere](http://twitter.com/search?q=film+kai+premiere) | N/A |
+| 44 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 45 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 46 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 47 | [ITS OUR TIME KITSCH](http://twitter.com/search?q=ITS+OUR+TIME+KITSCH) | N/A |
+| 48 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 49 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 
 
 

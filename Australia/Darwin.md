@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-03-21 03:16:53 UTC`
+📆 Last Updated: `2023-03-21 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 2 | [#PAXAus](http://twitter.com/search?q=%23PAXAus) | N/A |
-| 3 | [#PAXandWin](http://twitter.com/search?q=%23PAXandWin) | N/A |
-| 4 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 3 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
+| 4 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
 | 5 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 6 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
-| 7 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 9 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 10 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
-| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 13 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 15 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
+| 6 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 7 | [#PAXandWin](http://twitter.com/search?q=%23PAXandWin) | N/A |
+| 8 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 9 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
+| 10 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 11 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 12 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 13 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 14 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
+| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 16 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 19 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 20 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 21 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 18 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 19 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 20 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 22 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 23 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 24 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 25 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 26 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 27 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 28 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 29 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 30 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
-| 31 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 32 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 33 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 34 | [health centre](http://twitter.com/search?q=health+centre) | N/A |
-| 35 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 36 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 37 | [Harmony Week](http://twitter.com/search?q=Harmony+Week) | N/A |
-| 38 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 39 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 40 | [Sheridan](http://twitter.com/search?q=Sheridan) | N/A |
-| 41 | [Viney](http://twitter.com/search?q=Viney) | N/A |
-| 42 | [Media Watch](http://twitter.com/search?q=Media+Watch) | N/A |
-| 43 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 46 | [Fritsch](http://twitter.com/search?q=Fritsch) | N/A |
-| 47 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
-| 48 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 49 | [Lambie](http://twitter.com/search?q=Lambie) | N/A |
-| 50 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 23 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 24 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 25 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 26 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 27 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 28 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 29 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 30 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 31 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 32 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 33 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 34 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 35 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
+| 36 | [Sports Centre](http://twitter.com/search?q=Sports+Centre) | N/A |
+| 37 | [health centre](http://twitter.com/search?q=health+centre) | N/A |
+| 38 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 39 | [Media Watch](http://twitter.com/search?q=Media+Watch) | N/A |
+| 40 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 41 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 42 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 43 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 44 | [Lambie](http://twitter.com/search?q=Lambie) | N/A |
+| 45 | [Bytel](http://twitter.com/search?q=Bytel) | N/A |
+| 46 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | N/A |
+| 49 | [Russian Ambassador](http://twitter.com/search?q=Russian+Ambassador) | N/A |
+| 50 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 
 
 

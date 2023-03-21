@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-21 03:16:32 UTC`
+📆 Last Updated: `2023-03-21 04:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 2 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 3 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 5 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 1 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 2 | [Singh](http://twitter.com/search?q=Singh) | N/A |
+| 3 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 4 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 9 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 11 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 12 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
-| 13 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 14 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 15 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 16 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 17 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 18 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 19 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 20 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 23 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 24 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 25 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 26 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 27 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 28 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 29 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 30 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 31 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 10 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 11 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 12 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 13 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
+| 14 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 15 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 16 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 17 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 18 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 19 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 20 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 21 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 23 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 24 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 25 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 27 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 28 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 29 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 30 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 31 | [Degen](http://twitter.com/search?q=Degen) | N/A |
 | 32 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 33 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 34 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 35 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 36 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 37 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 38 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 39 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 40 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 41 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 42 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 43 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
-| 44 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 45 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 46 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 47 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 48 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 49 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 50 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 33 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 34 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 35 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 36 | [Soup](http://twitter.com/search?q=Soup) | N/A |
+| 37 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 38 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 39 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 40 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 42 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 43 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 44 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 45 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 47 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 48 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 49 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 50 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
 
 
 
