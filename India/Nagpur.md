@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-03-21 07:17:05 UTC`
+📆 Last Updated: `2023-03-21 08:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
 | 2 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 3 | [Blended Learning](http://twitter.com/search?q=Blended+Learning) | N/A |
-| 4 | [#झूठनाथ](http://twitter.com/search?q=%23%e0%a4%9d%e0%a5%82%e0%a4%a0%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 5 | [#MyFlagIsMyPride](http://twitter.com/search?q=%23MyFlagIsMyPride) | N/A |
-| 6 | [#realmeC55LaunchingToday](http://twitter.com/search?q=%23realmeC55LaunchingToday) | N/A |
+| 3 | [#DotaraSongOutNow](http://twitter.com/search?q=%23DotaraSongOutNow) | N/A |
+| 4 | [#BBxSRK](http://twitter.com/search?q=%23BBxSRK) | N/A |
+| 5 | [#DYChandrachudBestCJI](http://twitter.com/search?q=%23DYChandrachudBestCJI) | N/A |
+| 6 | [Blended Learning](http://twitter.com/search?q=Blended+Learning) | N/A |
 | 7 | [मीर जाफर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%be%e0%a4%ab%e0%a4%b0) | N/A |
-| 8 | [Nexus Colluded Against SSR](http://twitter.com/search?q=Nexus+Colluded+Against+SSR) | N/A |
-| 9 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 10 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 11 | [उस्ताद बिस्मिल्लाह खान](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a6+%e0%a4%ac%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 12 | [Exposed By Lawyers](http://twitter.com/search?q=Exposed+By+Lawyers) | N/A |
-| 13 | [संबित पात्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%ac%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 14 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 15 | [Saint Gurmeet Ram  Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram++Rahim+Ji) | N/A |
-| 16 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 17 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 18 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
-| 19 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
-| 20 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
-| 21 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
-| 22 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 23 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 24 | [Maharana Pratap](http://twitter.com/search?q=Maharana+Pratap) | N/A |
-| 25 | [Shivaji Maharaj](http://twitter.com/search?q=Shivaji+Maharaj) | N/A |
-| 26 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 27 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 28 | [Indira](http://twitter.com/search?q=Indira) | N/A |
-| 29 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 8 | [संबित पात्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%ac%e0%a4%bf%e0%a4%a4+%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 9 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 10 | [उस्ताद बिस्मिल्लाह खान](http://twitter.com/search?q=%e0%a4%89%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a6+%e0%a4%ac%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 11 | [Nexus Colluded Against SSR](http://twitter.com/search?q=Nexus+Colluded+Against+SSR) | N/A |
+| 12 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 13 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
+| 14 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 15 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
+| 16 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 17 | [Exposed By Lawyers](http://twitter.com/search?q=Exposed+By+Lawyers) | N/A |
+| 18 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 19 | [पंजाब सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 20 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 21 | [Asaram Bapu Case](http://twitter.com/search?q=Asaram+Bapu+Case) | Asaram Bapu Case is a criminal case in India involving the spiritual leader Asaram Bapu. He was accused of sexually assaulting a minor girl in 2013 and was subsequently arrested. The case has been ongoing since then, with Asaram Bapu being convicted and sentenced to life imprisonment in 2018. The English translation of the phrase is "Asaram Bapu Criminal Case". |
+| 22 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 23 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
+| 24 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 25 | [Maharana Pratap](http://twitter.com/search?q=Maharana+Pratap) | N/A |
+| 26 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 27 | [Indira](http://twitter.com/search?q=Indira) | N/A |
+| 28 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
+| 29 | [#MyFlagIsMyPride](http://twitter.com/search?q=%23MyFlagIsMyPride) | N/A |
 | 30 | [#ICBLE2023](http://twitter.com/search?q=%23ICBLE2023) | N/A |
-| 31 | [#JHOOTNATH](http://twitter.com/search?q=%23JHOOTNATH) | N/A |
-| 32 | [#DYChandrachudBestCJI](http://twitter.com/search?q=%23DYChandrachudBestCJI) | N/A |
-| 33 | [#PathaanOnPrime](http://twitter.com/search?q=%23PathaanOnPrime) | N/A |
-| 34 | [#JeeRaheTheHum](http://twitter.com/search?q=%23JeeRaheTheHum) | N/A |
-| 35 | [#NavrozMubarak](http://twitter.com/search?q=%23NavrozMubarak) | N/A |
-| 36 | [#TNAgriBudget2023](http://twitter.com/search?q=%23TNAgriBudget2023) | N/A |
-| 37 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
-| 38 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
-| 39 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 40 | [#iQOOZ7onAmazon](http://twitter.com/search?q=%23iQOOZ7onAmazon) | N/A |
-| 41 | [#ParsiNewYear](http://twitter.com/search?q=%23ParsiNewYear) | N/A |
-| 42 | [#विश्व_वानिकी_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a5%80_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 43 | [#विश्व_कविता_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%95%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 44 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 45 | [#BeatDepression](http://twitter.com/search?q=%23BeatDepression) | N/A |
-| 46 | [#KotaSrinivasaRao](http://twitter.com/search?q=%23KotaSrinivasaRao) | N/A |
-| 47 | [#न्याय_व्यवस्था](http://twitter.com/search?q=%23%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 31 | [#realmeC55LaunchingToday](http://twitter.com/search?q=%23realmeC55LaunchingToday) | N/A |
+| 32 | [#JHOOTNATH](http://twitter.com/search?q=%23JHOOTNATH) | N/A |
+| 33 | [#झूठनाथ](http://twitter.com/search?q=%23%e0%a4%9d%e0%a5%82%e0%a4%a0%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 34 | [#PathaanOnPrime](http://twitter.com/search?q=%23PathaanOnPrime) | N/A |
+| 35 | [#KisiKaBhaiKisiKiJaan](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaan) | N/A |
+| 36 | [#EntertainmentKaChampion](http://twitter.com/search?q=%23EntertainmentKaChampion) | N/A |
+| 37 | [#माफी_मांगो_राजवीर_चलकोई](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0_%e0%a4%9a%e0%a4%b2%e0%a4%95%e0%a5%8b%e0%a4%88) | N/A |
+| 38 | [#iQOOZ7onAmazon](http://twitter.com/search?q=%23iQOOZ7onAmazon) | N/A |
+| 39 | [#Chengiz](http://twitter.com/search?q=%23Chengiz) | N/A |
+| 40 | [#AllNewVerna](http://twitter.com/search?q=%23AllNewVerna) | N/A |
+| 41 | [#NavrozMubarak](http://twitter.com/search?q=%23NavrozMubarak) | N/A |
+| 42 | [#TNAgriBudget2023](http://twitter.com/search?q=%23TNAgriBudget2023) | N/A |
+| 43 | [#BiharBoard](http://twitter.com/search?q=%23BiharBoard) | N/A |
+| 44 | [#विश्व_कविता_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%95%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 45 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 46 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
+| 47 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
 | 48 | [#लॉकडाउन_याद_रखा_जाएगा](http://twitter.com/search?q=%23%e0%a4%b2%e0%a5%89%e0%a4%95%e0%a4%a1%e0%a4%be%e0%a4%89%e0%a4%a8_%e0%a4%af%e0%a4%be%e0%a4%a6_%e0%a4%b0%e0%a4%96%e0%a4%be_%e0%a4%9c%e0%a4%be%e0%a4%8f%e0%a4%97%e0%a4%be) | N/A |
-| 49 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 49 | [#KotaSrinivasaRao](http://twitter.com/search?q=%23KotaSrinivasaRao) | N/A |
 
 
 

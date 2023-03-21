@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-21 07:17:01 UTC`
+📆 Last Updated: `2023-03-21 08:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#HumanRightsDay](http://twitter.com/search?q=%23HumanRightsDay) | N/A |
 | 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 | 3 | [#YadaYadaFree](http://twitter.com/search?q=%23YadaYadaFree) | N/A |
-| 4 | [#FindYourFlavourWithExcellence](http://twitter.com/search?q=%23FindYourFlavourWithExcellence) | N/A |
+| 4 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
 | 5 | [Nhlanhla Lux](http://twitter.com/search?q=Nhlanhla+Lux) | N/A |
 | 6 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 7 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 8 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
+| 7 | [Sharpeville](http://twitter.com/search?q=Sharpeville) | N/A |
+| 8 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 9 | [AFRICA FOR KHOSI](http://twitter.com/search?q=AFRICA+FOR+KHOSI) | N/A |
-| 10 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 11 | [Sharpeville](http://twitter.com/search?q=Sharpeville) | N/A |
+| 10 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
+| 11 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
 | 12 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
 | 13 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
 | 14 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 15 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 16 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 17 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 15 | [Hyundai](http://twitter.com/search?q=Hyundai) | N/A |
+| 16 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 17 | [Flop](http://twitter.com/search?q=Flop) | N/A |
 | 18 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 19 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 20 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 21 | [Hyundai](http://twitter.com/search?q=Hyundai) | N/A |
-| 22 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
-| 23 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 24 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 25 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 19 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 20 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 21 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 22 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
+| 23 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 24 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 25 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 26 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
-| 27 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
-| 28 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 29 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
-| 30 | [Failed](http://twitter.com/search?q=Failed) | N/A |
-| 31 | [Chest](http://twitter.com/search?q=Chest) | N/A |
-| 32 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
-| 33 | [alostro](http://twitter.com/search?q=alostro) | N/A |
-| 34 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 35 | [BOMB](http://twitter.com/search?q=BOMB) | N/A |
+| 27 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 28 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
+| 29 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 30 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
+| 31 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 32 | [Failed](http://twitter.com/search?q=Failed) | N/A |
+| 33 | [Chest](http://twitter.com/search?q=Chest) | N/A |
+| 34 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
+| 35 | [Nasty C](http://twitter.com/search?q=Nasty+C) | N/A |
 | 36 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
-| 37 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 38 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 37 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 38 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
 | 39 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
-| 40 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 41 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 42 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 40 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
+| 41 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 42 | [Loot Love](http://twitter.com/search?q=Loot+Love) | N/A |
 | 43 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 44 | [Cape Town](http://twitter.com/search?q=Cape+Town) | N/A |
-| 45 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
-| 46 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 47 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 48 | [De Aar](http://twitter.com/search?q=De+Aar) | N/A |
+| 44 | [Connie](http://twitter.com/search?q=Connie) | N/A |
+| 45 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
+| 46 | [De Aar](http://twitter.com/search?q=De+Aar) | N/A |
+| 47 | [Wena](http://twitter.com/search?q=Wena) | N/A |
+| 48 | [Nota](http://twitter.com/search?q=Nota) | N/A |
 | 49 | [Bongo Maffin](http://twitter.com/search?q=Bongo+Maffin) | N/A |
 
 

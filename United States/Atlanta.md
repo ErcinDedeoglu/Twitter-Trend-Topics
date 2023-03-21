@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-21 07:17:10 UTC`
+📆 Last Updated: `2023-03-21 08:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [arcia](http://twitter.com/search?q=arcia) | N/A |
+| 1 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
 | 2 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
 | 3 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 4 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 8 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 10 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 11 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 12 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 13 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 14 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 15 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 16 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 17 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 18 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 19 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 20 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 21 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 22 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 23 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 7 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
+| 8 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 9 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 11 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 12 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 13 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 14 | [Deception](http://twitter.com/search?q=Deception) | N/A |
+| 15 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 16 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 17 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 18 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 19 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 20 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 22 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 23 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
 | 24 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 25 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
+| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
 | 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 27 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 28 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 27 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 28 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
 | 29 | [Charisma Osborne](http://twitter.com/search?q=Charisma+Osborne) | N/A |
-| 30 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 30 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 31 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 32 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 33 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
+| 32 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
+| 33 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
 | 34 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 35 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 35 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
 | 36 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 37 | [Team Mexico](http://twitter.com/search?q=Team+Mexico) | N/A |
-| 38 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 37 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 38 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
 | 39 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
 | 40 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 41 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 41 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
 | 42 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 43 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 44 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 45 | [9muses](http://twitter.com/search?q=9muses) | N/A |
-| 46 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 47 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 48 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 49 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 50 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 43 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 44 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 45 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 46 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
+| 47 | [9MUSES](http://twitter.com/search?q=9MUSES) | N/A |
+| 48 | [Dan Goldman](http://twitter.com/search?q=Dan+Goldman) | N/A |
+| 49 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 50 | [Ochai](http://twitter.com/search?q=Ochai) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-21 07:16:37 UTC`
+📆 Last Updated: `2023-03-21 08:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for [Chile](</Chile>)
 | 8 | [Merino](http://twitter.com/search?q=Merino) | N/A |
 | 9 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
 | 10 | [jappening con ja](http://twitter.com/search?q=jappening+con+ja) | N/A |
-| 11 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 12 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 11 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 12 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
 | 13 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 14 | [Mateluna](http://twitter.com/search?q=Mateluna) | N/A |
+| 14 | [mateluna](http://twitter.com/search?q=mateluna) | N/A |
 | 15 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
 | 16 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
 | 17 | [Informe Especial](http://twitter.com/search?q=Informe+Especial) | N/A |
@@ -39,30 +39,30 @@ This is top 50 for [Chile](</Chile>)
 | 22 | [Allende](http://twitter.com/search?q=Allende) | N/A |
 | 23 | [zañartu](http://twitter.com/search?q=za%c3%b1artu) | N/A |
 | 24 | [Armada](http://twitter.com/search?q=Armada) | N/A |
-| 25 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 26 | [toselli](http://twitter.com/search?q=toselli) | N/A |
-| 27 | [Fernando Alarcón](http://twitter.com/search?q=Fernando+Alarc%c3%b3n) | N/A |
-| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 29 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 30 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
-| 31 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 32 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 33 | [Eloísa Díaz](http://twitter.com/search?q=Elo%c3%adsa+D%c3%adaz) | N/A |
-| 34 | [Aporte Familiar Permanente](http://twitter.com/search?q=Aporte+Familiar+Permanente) | N/A |
-| 35 | [MENA](http://twitter.com/search?q=MENA) | N/A |
-| 36 | [elena caffarena](http://twitter.com/search?q=elena+caffarena) | N/A |
-| 37 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 38 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
-| 39 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 25 | [toselli](http://twitter.com/search?q=toselli) | N/A |
+| 26 | [Fernando Alarcón](http://twitter.com/search?q=Fernando+Alarc%c3%b3n) | N/A |
+| 27 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 28 | [assadi](http://twitter.com/search?q=assadi) | N/A |
+| 29 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
+| 30 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
+| 31 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 32 | [eloísa díaz](http://twitter.com/search?q=elo%c3%adsa+d%c3%adaz) | N/A |
+| 33 | [Aporte Familiar Permanente](http://twitter.com/search?q=Aporte+Familiar+Permanente) | N/A |
+| 34 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 35 | [elena caffarena](http://twitter.com/search?q=elena+caffarena) | N/A |
+| 36 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 37 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 38 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 39 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 40 | [Escuchó](http://twitter.com/search?q=Escuch%c3%b3) | N/A |
 | 41 | [Valentina Muñoz](http://twitter.com/search?q=Valentina+Mu%c3%b1oz) | N/A |
 | 42 | [premio nacional de periodismo](http://twitter.com/search?q=premio+nacional+de+periodismo) | N/A |
-| 43 | [Fran Valenzuela](http://twitter.com/search?q=Fran+Valenzuela) | N/A |
-| 44 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 45 | [Corte de Apelaciones](http://twitter.com/search?q=Corte+de+Apelaciones) | N/A |
-| 46 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 47 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 48 | [Matilde](http://twitter.com/search?q=Matilde) | N/A |
+| 43 | [fran valenzuela](http://twitter.com/search?q=fran+valenzuela) | N/A |
+| 44 | [Corte de Apelaciones](http://twitter.com/search?q=Corte+de+Apelaciones) | N/A |
+| 45 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 46 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 47 | [Belén Mora](http://twitter.com/search?q=Bel%c3%a9n+Mora) | N/A |
+| 48 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
 
 
 

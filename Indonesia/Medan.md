@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-21 07:16:51 UTC`
+📆 Last Updated: `2023-03-21 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
-| 2 | [#WongKere](http://twitter.com/search?q=%23WongKere) | N/A |
-| 3 | [Pulung Agustanto](http://twitter.com/search?q=Pulung+Agustanto) | N/A |
-| 4 | [Terbukti Prabowo BikinNyaman](http://twitter.com/search?q=Terbukti+Prabowo+BikinNyaman) | N/A |
-| 5 | [prabowo pilihanideal rakyat](http://twitter.com/search?q=prabowo+pilihanideal+rakyat) | N/A |
-| 6 | [Kunjungi Dekade 08](http://twitter.com/search?q=Kunjungi+Dekade+08) | N/A |
-| 7 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
-| 8 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
-| 9 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 10 | [#HariDesaAsriNusantara](http://twitter.com/search?q=%23HariDesaAsriNusantara) | N/A |
+| 2 | [Daya Tahan Tubuh](http://twitter.com/search?q=Daya+Tahan+Tubuh) | N/A |
+| 3 | [#WongKere](http://twitter.com/search?q=%23WongKere) | N/A |
+| 4 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
+| 5 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
+| 6 | [Pulung Agustanto](http://twitter.com/search?q=Pulung+Agustanto) | N/A |
+| 7 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
+| 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 9 | [Fitofarmaka](http://twitter.com/search?q=Fitofarmaka) | N/A |
+| 10 | [Nissa](http://twitter.com/search?q=Nissa) | N/A |
 | 11 | [#Beatbox_EnglishVer](http://twitter.com/search?q=%23Beatbox_EnglishVer) | N/A |
-| 12 | [#TERIMAKASIH_TREASURE](http://twitter.com/search?q=%23TERIMAKASIH_TREASURE) | N/A |
-| 13 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
-| 14 | [wohd](http://twitter.com/search?q=wohd) | N/A |
-| 15 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [Partai Buruh](http://twitter.com/search?q=Partai+Buruh) | N/A |
-| 18 | [Si Paling Micellar](http://twitter.com/search?q=Si+Paling+Micellar) | N/A |
-| 19 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 20 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 21 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 22 | [Fitofarmaka](http://twitter.com/search?q=Fitofarmaka) | N/A |
-| 23 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 24 | [Nissa](http://twitter.com/search?q=Nissa) | N/A |
-| 25 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 26 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 27 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 28 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 29 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
-| 30 | [Deportasi](http://twitter.com/search?q=Deportasi) | N/A |
-| 31 | [prabowo lebih pantas](http://twitter.com/search?q=prabowo+lebih+pantas) | N/A |
-| 32 | [prabowo merakyat](http://twitter.com/search?q=prabowo+merakyat) | N/A |
-| 33 | [garnier salicylic bha](http://twitter.com/search?q=garnier+salicylic+bha) | N/A |
-| 34 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 35 | [solusi bersama](http://twitter.com/search?q=solusi+bersama) | N/A |
-| 36 | [JISOO CONCEPT POSTER](http://twitter.com/search?q=JISOO+CONCEPT+POSTER) | N/A |
-| 37 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 38 | [Mr. Sunshine](http://twitter.com/search?q=Mr.+Sunshine) | N/A |
-| 39 | [Get Well Soon Kun Ge](http://twitter.com/search?q=Get+Well+Soon+Kun+Ge) | N/A |
-| 40 | [curly boy banghan day](http://twitter.com/search?q=curly+boy+banghan+day) | N/A |
-| 41 | [Pepsodent](http://twitter.com/search?q=Pepsodent) | N/A |
-| 42 | [Almond](http://twitter.com/search?q=Almond) | N/A |
-| 43 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 44 | [Innalillahi](http://twitter.com/search?q=Innalillahi) | N/A |
-| 45 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 46 | [Swifties](http://twitter.com/search?q=Swifties) | N/A |
-| 47 | [Slipknot](http://twitter.com/search?q=Slipknot) | N/A |
-| 48 | [Nadya Hutagalung](http://twitter.com/search?q=Nadya+Hutagalung) | N/A |
-| 49 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
-| 50 | [kita umat terpilih](http://twitter.com/search?q=kita+umat+terpilih) | N/A |
+| 12 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 14 | [#7DREAMBeatboxEngVer](http://twitter.com/search?q=%237DREAMBeatboxEngVer) | N/A |
+| 15 | [Gus Fahrur](http://twitter.com/search?q=Gus+Fahrur) | Gus Fahrur is an Indonesian phrase that translates to "Let's go!" It is often used as an expression of enthusiasm or encouragement. |
+| 16 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
+| 17 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 18 | [#อาซาร์มากับใคร](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%83%e0%b8%84%e0%b8%a3) | N/A |
+| 19 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 20 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 21 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 23 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 24 | [Deportasi](http://twitter.com/search?q=Deportasi) | N/A |
+| 25 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
+| 26 | [Bule](http://twitter.com/search?q=Bule) | N/A |
+| 27 | [Swifties](http://twitter.com/search?q=Swifties) | N/A |
+| 28 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 29 | [Garut](http://twitter.com/search?q=Garut) | N/A |
+| 30 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 31 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
+| 32 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 33 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
+| 34 | [#myepicmusic](http://twitter.com/search?q=%23myepicmusic) | N/A |
+| 35 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 36 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 37 | [#Ramadhan](http://twitter.com/search?q=%23Ramadhan) | N/A |
+| 38 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 39 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
+| 40 | [#HAECHANxLOUISVUITTON](http://twitter.com/search?q=%23HAECHANxLOUISVUITTON) | N/A |
+| 41 | [#BTSArmy](http://twitter.com/search?q=%23BTSArmy) | N/A |
+| 42 | [#LeftandRight](http://twitter.com/search?q=%23LeftandRight) | #LeftandRight is a hashtag used to refer to the political divide between left-wing and right-wing ideologies. It is often used to discuss current events and political debates, as well as to express opinions on various topics. |
+| 43 | [#BestFanArmy](http://twitter.com/search?q=%23BestFanArmy) | #BestFanArmy is a hashtag used to recognize and celebrate the most dedicated and passionate fanbases of various celebrities, musicians, athletes, and other public figures. It is often used to encourage fans to show their support for their favorite stars by engaging in activities such as attending concerts, buying merchandise, and sharing content online. |
+| 44 | [#11YearsToForeverWithBTOB](http://twitter.com/search?q=%2311YearsToForeverWithBTOB) | N/A |
 
 
 

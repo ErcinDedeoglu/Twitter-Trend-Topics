@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-21 07:16:41 UTC`
+📆 Last Updated: `2023-03-21 08:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
 | 2 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 3 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 4 | [#voltasapato](http://twitter.com/search?q=%23voltasapato) | N/A |
-| 5 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 6 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 7 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 8 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 9 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 10 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 11 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
-| 12 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 13 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 14 | [cigano](http://twitter.com/search?q=cigano) | N/A |
-| 15 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 16 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 17 | [OUÇA DEUS PERDOA](http://twitter.com/search?q=OU%c3%87A+DEUS+PERDOA) | N/A |
-| 18 | [FELICES 26 TINI](http://twitter.com/search?q=FELICES+26+TINI) | N/A |
-| 19 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 20 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 21 | [Planta](http://twitter.com/search?q=Planta) | N/A |
-| 22 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
-| 23 | [Oliver Sykes](http://twitter.com/search?q=Oliver+Sykes) | N/A |
-| 24 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
-| 25 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 26 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 27 | [Contra o Flamengo](http://twitter.com/search?q=Contra+o+Flamengo) | N/A |
-| 28 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 29 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 30 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
-| 31 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 32 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 33 | [Campeonato Paulista](http://twitter.com/search?q=Campeonato+Paulista) | N/A |
-| 34 | [Alface e Sarah](http://twitter.com/search?q=Alface+e+Sarah) | N/A |
-| 35 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 36 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 37 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
-| 38 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 39 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 40 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 41 | [#ficafred](http://twitter.com/search?q=%23ficafred) | N/A |
-| 42 | [glee](http://twitter.com/search?q=glee) | N/A |
-| 43 | [Lista de 5](http://twitter.com/search?q=Lista+de+5) | N/A |
-| 44 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 45 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
-| 46 | [Dedé](http://twitter.com/search?q=Ded%c3%a9) | N/A |
-| 47 | [São Caetano](http://twitter.com/search?q=S%c3%a3o+Caetano) | N/A |
-| 48 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 49 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 3 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 4 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
+| 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 6 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 7 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 8 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 9 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 10 | [#VoltaSapato](http://twitter.com/search?q=%23VoltaSapato) | N/A |
+| 11 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 12 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 13 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
+| 14 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 15 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 16 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 17 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 18 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 19 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 20 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 21 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 22 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 23 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 24 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 25 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 26 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 27 | [JULIA NA CADEIA](http://twitter.com/search?q=JULIA+NA+CADEIA) | N/A |
+| 28 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 29 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 30 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 31 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 32 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 33 | [joelma no tvz pocah](http://twitter.com/search?q=joelma+no+tvz+pocah) | N/A |
+| 34 | [OUÇA DEUS PERDOA](http://twitter.com/search?q=OU%c3%87A+DEUS+PERDOA) | N/A |
+| 35 | [kim petras](http://twitter.com/search?q=kim+petras) | N/A |
+| 36 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
+| 37 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
+| 38 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 39 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 40 | [chamego steloisa](http://twitter.com/search?q=chamego+steloisa) | N/A |
+| 41 | [rafael cabral](http://twitter.com/search?q=rafael+cabral) | N/A |
+| 42 | [vai tomar no cu vasco](http://twitter.com/search?q=vai+tomar+no+cu+vasco) | N/A |
+| 43 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 45 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 46 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 47 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 48 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 49 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 50 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 
 
 

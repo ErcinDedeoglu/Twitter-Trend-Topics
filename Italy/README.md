@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-21 07:17:21 UTC`
+📆 Last Updated: `2023-03-21 08:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
 | 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 3 | [#QuandoFuori](http://twitter.com/search?q=%23QuandoFuori) | N/A |
-| 4 | [#interjuve](http://twitter.com/search?q=%23interjuve) | N/A |
-| 5 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
+| 3 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
+| 4 | [#InterJuve](http://twitter.com/search?q=%23InterJuve) | N/A |
+| 5 | [#QuandoFuori](http://twitter.com/search?q=%23QuandoFuori) | N/A |
 | 6 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 7 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
 | 8 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
 | 9 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 10 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 11 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 10 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 11 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 12 | [Alda Merini](http://twitter.com/search?q=Alda+Merini) | N/A |
-| 13 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 14 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 15 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 13 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 14 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 15 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
 | 16 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 17 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 18 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 19 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Buongiorno Chiara](http://twitter.com/search?q=Buongiorno+Chiara) | N/A |
-| 22 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
-| 23 | [le omg](http://twitter.com/search?q=le+omg) | N/A |
-| 24 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 25 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 26 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 27 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
-| 28 | [Buongiorno Rossy](http://twitter.com/search?q=Buongiorno+Rossy) | N/A |
-| 29 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 30 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 31 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
-| 32 | [Il 21](http://twitter.com/search?q=Il+21) | N/A |
-| 33 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
-| 34 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
-| 35 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 36 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 37 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 38 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 39 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 40 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 41 | [gli occhi di lulù](http://twitter.com/search?q=gli+occhi+di+lul%c3%b9) | N/A |
-| 42 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 43 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 44 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 45 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 46 | [marelli](http://twitter.com/search?q=marelli) | N/A |
-| 47 | [livia](http://twitter.com/search?q=livia) | N/A |
-| 48 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 49 | [zakaria](http://twitter.com/search?q=zakaria) | N/A |
-| 50 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 17 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 18 | [Chiffi](http://twitter.com/search?q=Chiffi) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [le omg](http://twitter.com/search?q=le+omg) | N/A |
+| 21 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 22 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 23 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 24 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 25 | [San Giuseppe](http://twitter.com/search?q=San+Giuseppe) | N/A |
+| 26 | [Pietro Mennea](http://twitter.com/search?q=Pietro+Mennea) | N/A |
+| 27 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 28 | [Mazzoleni](http://twitter.com/search?q=Mazzoleni) | N/A |
+| 29 | [Piombino](http://twitter.com/search?q=Piombino) | N/A |
+| 30 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 31 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 32 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 33 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 34 | [gli occhi di lulù](http://twitter.com/search?q=gli+occhi+di+lul%c3%b9) | N/A |
+| 35 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 36 | [Daila](http://twitter.com/search?q=Daila) | N/A |
+| 37 | [Buongiorno Renato](http://twitter.com/search?q=Buongiorno+Renato) | N/A |
+| 38 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 40 | [marelli](http://twitter.com/search?q=marelli) | N/A |
+| 41 | [Il 21](http://twitter.com/search?q=Il+21) | N/A |
+| 42 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 43 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 44 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 45 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 46 | [USA e NATO](http://twitter.com/search?q=USA+e+NATO) | N/A |
+| 47 | [Buongiorno Rossy](http://twitter.com/search?q=Buongiorno+Rossy) | N/A |
+| 48 | [Buongiorno Viktoria](http://twitter.com/search?q=Buongiorno+Viktoria) | N/A |
+| 49 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 50 | [Renzo](http://twitter.com/search?q=Renzo) | N/A |
 
 
 
