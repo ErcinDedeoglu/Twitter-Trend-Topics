@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-21 09:17:35 UTC`
+📆 Last Updated: `2023-03-21 10:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
 | 2 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
 | 3 | [#Nevruz](http://twitter.com/search?q=%23Nevruz) | N/A |
-| 4 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
+| 4 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
 | 5 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
-| 6 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 6 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
 | 7 | [Buket](http://twitter.com/search?q=Buket) | N/A |
 | 8 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 9 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 10 | [1 Farkla](http://twitter.com/search?q=1+Farkla) | N/A |
-| 11 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
-| 12 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
-| 13 | [Vefatının 50](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+50) | N/A |
-| 14 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
+| 9 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 10 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
+| 11 | [Vefatının 50](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+50) | N/A |
+| 12 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 13 | [1 Farkla](http://twitter.com/search?q=1+Farkla) | N/A |
+| 14 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
 | 15 | [Bakan Özer](http://twitter.com/search?q=Bakan+%c3%96zer) | N/A |
-| 16 | [Fahrettin Koca](http://twitter.com/search?q=Fahrettin+Koca) | Fahrettin Koca is a Turkish name, derived from the Arabic name Fahraddin. It means "the one who is brave and generous". |
-| 17 | [Yeni Gün](http://twitter.com/search?q=Yeni+G%c3%bcn) | N/A |
-| 18 | [Bakan Koca](http://twitter.com/search?q=Bakan+Koca) | N/A |
-| 19 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
-| 20 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 21 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
+| 16 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 17 | [TEKBİRLERLE GELİYORUZ](http://twitter.com/search?q=TEKB%c4%b0RLERLE+GEL%c4%b0YORUZ) | N/A |
+| 18 | [Yeni Gün](http://twitter.com/search?q=Yeni+G%c3%bcn) | N/A |
+| 19 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
+| 20 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 21 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
 | 22 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 23 | [Airfryer](http://twitter.com/search?q=Airfryer) | N/A |
-| 24 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
-| 25 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 23 | [Habertürk](http://twitter.com/search?q=Habert%c3%bcrk) | Habertürk is a Turkish news website and media outlet. The name translates to "News Gate" in English. It was founded in 2001 and is one of the most popular news sources in Turkey. |
+| 24 | [Airfryer](http://twitter.com/search?q=Airfryer) | N/A |
+| 25 | [HDP PKK](http://twitter.com/search?q=HDP+PKK) | N/A |
 | 26 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 27 | [Tuvalet](http://twitter.com/search?q=Tuvalet) | N/A |
-| 28 | [Celal](http://twitter.com/search?q=Celal) | N/A |
-| 29 | [Işıklar](http://twitter.com/search?q=I%c5%9f%c4%b1klar) | N/A |
-| 30 | [#AşıkVeysel](http://twitter.com/search?q=%23A%c5%9f%c4%b1kVeysel) | N/A |
-| 31 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 32 | [#HaksızlıkSonEYTtamOlsun](http://twitter.com/search?q=%23Haks%c4%b1zl%c4%b1kSonEYTtamOlsun) | N/A |
-| 33 | [#ekinoks](http://twitter.com/search?q=%23ekinoks) | N/A |
-| 34 | [#Farkındayız](http://twitter.com/search?q=%23Fark%c4%b1nday%c4%b1z) | N/A |
-| 35 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
-| 36 | [#HalkınSesiyiz](http://twitter.com/search?q=%23Halk%c4%b1nSesiyiz) | N/A |
-| 37 | [#OrmanHaftası](http://twitter.com/search?q=%23OrmanHaftas%c4%b1) | N/A |
+| 27 | [#AşıkVeysel](http://twitter.com/search?q=%23A%c5%9f%c4%b1kVeysel) | N/A |
+| 28 | [#GemiBATIYOR](http://twitter.com/search?q=%23GemiBATIYOR) | N/A |
+| 29 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 30 | [#HaksızlıkSonEYTtamOlsun](http://twitter.com/search?q=%23Haks%c4%b1zl%c4%b1kSonEYTtamOlsun) | N/A |
+| 31 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
+| 32 | [#ekinoks](http://twitter.com/search?q=%23ekinoks) | N/A |
+| 33 | [#Farkındayız](http://twitter.com/search?q=%23Fark%c4%b1nday%c4%b1z) | N/A |
+| 34 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 35 | [#3nisanyuzyuze](http://twitter.com/search?q=%233nisanyuzyuze) | N/A |
+| 36 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
+| 37 | [#HandeErçel](http://twitter.com/search?q=%23HandeEr%c3%a7el) | N/A |
 | 38 | [#UmudumuzVar](http://twitter.com/search?q=%23UmudumuzVar) | N/A |
 | 39 | [#KemalKurkut](http://twitter.com/search?q=%23KemalKurkut) | N/A |
 | 40 | [#DünyaŞiirGünü](http://twitter.com/search?q=%23D%c3%bcnya%c5%9eiirG%c3%bcn%c3%bc) | N/A |
-| 41 | [#RecepTayyipErdogan](http://twitter.com/search?q=%23RecepTayyipErdogan) | N/A |
+| 41 | [#OrmanHaftası](http://twitter.com/search?q=%23OrmanHaftas%c4%b1) | N/A |
 | 42 | [#DünyaSosyalHizmetGünü](http://twitter.com/search?q=%23D%c3%bcnyaSosyalHizmetG%c3%bcn%c3%bc) | N/A |
 | 43 | [#EKSUN](http://twitter.com/search?q=%23EKSUN) | N/A |
-| 44 | [#2000lerinOyuAdalete](http://twitter.com/search?q=%232000lerinOyuAdalete) | N/A |
-| 45 | [#GemiBATIYOR](http://twitter.com/search?q=%23GemiBATIYOR) | N/A |
-| 46 | [#HandeErçel](http://twitter.com/search?q=%23HandeEr%c3%a7el) | N/A |
-| 47 | [#halkaarz](http://twitter.com/search?q=%23halkaarz) | N/A |
-| 48 | [#sali](http://twitter.com/search?q=%23sali) | N/A |
+| 44 | [#sali](http://twitter.com/search?q=%23sali) | N/A |
+| 45 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
+| 46 | [#halkaarz](http://twitter.com/search?q=%23halkaarz) | N/A |
+| 47 | [#MilletvekiliOlsa](http://twitter.com/search?q=%23MilletvekiliOlsa) | N/A |
+| 48 | [#HalkınSesiyiz](http://twitter.com/search?q=%23Halk%c4%b1nSesiyiz) | N/A |
 
 
 

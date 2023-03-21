@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-21 09:17:57 UTC`
+📆 Last Updated: `2023-03-21 10:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 1 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
 | 2 | [Джанкое](http://twitter.com/search?q=%d0%94%d0%b6%d0%b0%d0%bd%d0%ba%d0%be%d0%b5) | N/A |
-| 3 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 4 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
-| 5 | [Dzhankoi](http://twitter.com/search?q=Dzhankoi) | N/A |
-| 6 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 7 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
-| 8 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 9 | [Си Цзиньпин](http://twitter.com/search?q=%d0%a1%d0%b8+%d0%a6%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd) | N/A |
-| 10 | [#хтивийпонеділок](http://twitter.com/search?q=%23%d1%85%d1%82%d0%b8%d0%b2%d0%b8%d0%b9%d0%bf%d0%be%d0%bd%d0%b5%d0%b4%d1%96%d0%bb%d0%be%d0%ba) | N/A |
-| 11 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 3 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
+| 4 | [Dzhankoi](http://twitter.com/search?q=Dzhankoi) | N/A |
+| 5 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 6 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 7 | [Си Цзиньпин](http://twitter.com/search?q=%d0%a1%d0%b8+%d0%a6%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd) | N/A |
+| 8 | [Avdiivka](http://twitter.com/search?q=Avdiivka) | N/A |
+| 9 | [#хтивийпонеділок](http://twitter.com/search?q=%23%d1%85%d1%82%d0%b8%d0%b2%d0%b8%d0%b9%d0%bf%d0%be%d0%bd%d0%b5%d0%b4%d1%96%d0%bb%d0%be%d0%ba) | N/A |
+| 10 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 11 | [#ThereisaWayOut](http://twitter.com/search?q=%23ThereisaWayOut) | N/A |
 | 12 | [Сибирь](http://twitter.com/search?q=%d0%a1%d0%b8%d0%b1%d0%b8%d1%80%d1%8c) | N/A |
-| 13 | [#ThereisaWayOut](http://twitter.com/search?q=%23ThereisaWayOut) | N/A |
-| 14 | [Добрий](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%b8%d0%b9) | N/A |
-| 15 | [#ZKXYakuza](http://twitter.com/search?q=%23ZKXYakuza) | N/A |
-| 16 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 17 | [Мариуполе](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
-| 18 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 19 | [#sexymonday](http://twitter.com/search?q=%23sexymonday) | N/A |
-| 20 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 13 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 14 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 15 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 16 | [#ZKXYakuza](http://twitter.com/search?q=%23ZKXYakuza) | N/A |
+| 17 | [Африке](http://twitter.com/search?q=%d0%90%d1%84%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 18 | [Мариуполе](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
+| 19 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 20 | [#sexymonday](http://twitter.com/search?q=%23sexymonday) | N/A |
 | 21 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
-| 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 23 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 27 | [0.1 $ETH](http://twitter.com/search?q=0.1+%24ETH) | N/A |
-| 28 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 29 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 30 | [донецка](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
-| 31 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 32 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
-| 33 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 36 | [Фантомас](http://twitter.com/search?q=%d0%a4%d0%b0%d0%bd%d1%82%d0%be%d0%bc%d0%b0%d1%81) | N/A |
-| 37 | [львове](http://twitter.com/search?q=%d0%bb%d1%8c%d0%b2%d0%be%d0%b2%d0%b5) | N/A |
-| 38 | [Краса](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b0) | N/A |
-| 39 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 40 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
+| 22 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 25 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 26 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 27 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 28 | [донецка](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b0) | N/A |
+| 29 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 30 | [Добрий](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%b8%d0%b9) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 33 | [фантомас](http://twitter.com/search?q=%d1%84%d0%b0%d0%bd%d1%82%d0%be%d0%bc%d0%b0%d1%81) | N/A |
+| 34 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 35 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 36 | [львове](http://twitter.com/search?q=%d0%bb%d1%8c%d0%b2%d0%be%d0%b2%d0%b5) | N/A |
+| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 38 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
+| 39 | [Краса](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b0) | N/A |
+| 40 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
 | 41 | [International Criminal Court](http://twitter.com/search?q=International+Criminal+Court) | N/A |
-| 42 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
-| 43 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 44 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 45 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 46 | [GM Bro](http://twitter.com/search?q=GM+Bro) | N/A |
-| 47 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 42 | [боюсь](http://twitter.com/search?q=%d0%b1%d0%be%d1%8e%d1%81%d1%8c) | N/A |
+| 43 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 44 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
+| 45 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
+| 46 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 47 | [GM Bro](http://twitter.com/search?q=GM+Bro) | N/A |
 | 48 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 49 | [польши](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b8) | N/A |
-| 50 | [Тайвань](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b9%d0%b2%d0%b0%d0%bd%d1%8c) | N/A |
+| 49 | [0.1 $ETH](http://twitter.com/search?q=0.1+%24ETH) | N/A |
+| 50 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 
 
 

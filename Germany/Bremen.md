@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-21 09:17:05 UTC`
+📆 Last Updated: `2023-03-21 10:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 6 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 7 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 8 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 9 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 10 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 11 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
-| 12 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 13 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 14 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 15 | [Neubauer](http://twitter.com/search?q=Neubauer) | N/A |
-| 16 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 17 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
-| 18 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
-| 19 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 20 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 21 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
-| 22 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
-| 23 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 24 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 25 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 26 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 27 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
-| 28 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 29 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 30 | [Guten Morgen Lisa](http://twitter.com/search?q=Guten+Morgen+Lisa) | N/A |
-| 31 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 32 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 33 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
-| 34 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 35 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 36 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
-| 37 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 38 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 39 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 40 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 41 | [Egoisten](http://twitter.com/search?q=Egoisten) | N/A |
-| 42 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
-| 43 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 44 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 45 | [Guten Morgen Andrea](http://twitter.com/search?q=Guten+Morgen+Andrea) | N/A |
-| 46 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
-| 47 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 48 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 4 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 5 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 6 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 9 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 10 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 11 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
+| 12 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 13 | [Piplica](http://twitter.com/search?q=Piplica) | N/A |
+| 14 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 15 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
+| 16 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
+| 17 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 18 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 19 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 20 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 21 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
+| 22 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 24 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
+| 25 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 27 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 28 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
+| 29 | [Freier](http://twitter.com/search?q=Freier) | N/A |
+| 30 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 31 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 32 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 33 | [Start in den Dienstag](http://twitter.com/search?q=Start+in+den+Dienstag) | N/A |
+| 34 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 35 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 36 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 37 | [Guten Morgen Wölfin](http://twitter.com/search?q=Guten+Morgen+W%c3%b6lfin) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 40 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 41 | [Sanne](http://twitter.com/search?q=Sanne) | N/A |
+| 42 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 43 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
+| 44 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 45 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
+| 46 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 47 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 48 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
 
 
 

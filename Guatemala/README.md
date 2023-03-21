@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-21 09:17:51 UTC`
+📆 Last Updated: `2023-03-21 10:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Guatemala
 | 10 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 11 | [zury](http://twitter.com/search?q=zury) | N/A |
 | 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 13 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 14 | [FECI](http://twitter.com/search?q=FECI) | N/A |
-| 15 | [Mario López](http://twitter.com/search?q=Mario+L%c3%b3pez) | N/A |
-| 16 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 19 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 20 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 21 | [lulis](http://twitter.com/search?q=lulis) | N/A |
-| 22 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 23 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 24 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 26 | [Cacif](http://twitter.com/search?q=Cacif) | N/A |
-| 27 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
-| 28 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 29 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
-| 30 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 31 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
-| 32 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 33 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 35 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 36 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 37 | [sacatepéquez](http://twitter.com/search?q=sacatep%c3%a9quez) | N/A |
-| 38 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 40 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
-| 41 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 42 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
-| 43 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 45 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 46 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
-| 47 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 49 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 50 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 13 | [FECI](http://twitter.com/search?q=FECI) | N/A |
+| 14 | [mario lópez](http://twitter.com/search?q=mario+l%c3%b3pez) | N/A |
+| 15 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 18 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 19 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 20 | [lulis](http://twitter.com/search?q=lulis) | N/A |
+| 21 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 22 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 23 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 25 | [cacif](http://twitter.com/search?q=cacif) | N/A |
+| 26 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
+| 27 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 28 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
+| 29 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 30 | [curruchiche](http://twitter.com/search?q=curruchiche) | N/A |
+| 31 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 32 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
+| 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 35 | [sacatepéquez](http://twitter.com/search?q=sacatep%c3%a9quez) | N/A |
+| 36 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 37 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
+| 38 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 39 | [Thelma](http://twitter.com/search?q=Thelma) | N/A |
+| 40 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 42 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 43 | [quiché](http://twitter.com/search?q=quich%c3%a9) | N/A |
+| 44 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 47 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 48 | [Zacapa](http://twitter.com/search?q=Zacapa) | N/A |
+| 49 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 50 | [Huehuetenango](http://twitter.com/search?q=Huehuetenango) | N/A |
 
 
 

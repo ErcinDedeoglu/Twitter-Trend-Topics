@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-21 09:16:52 UTC`
+📆 Last Updated: `2023-03-21 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 7 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 10 | [ministerio público](http://twitter.com/search?q=ministerio+p%c3%bablico) | N/A |
+| 10 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 11 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
 | 12 | [El PLD](http://twitter.com/search?q=El+PLD) | N/A |
 | 13 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
@@ -43,13 +43,13 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 26 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
 | 27 | [Playmaker](http://twitter.com/search?q=Playmaker) | N/A |
 | 28 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 29 | [Debieron](http://twitter.com/search?q=Debieron) | N/A |
-| 30 | [liberación dominicana](http://twitter.com/search?q=liberaci%c3%b3n+dominicana) | N/A |
+| 29 | [liberación dominicana](http://twitter.com/search?q=liberaci%c3%b3n+dominicana) | N/A |
+| 30 | [Debieron](http://twitter.com/search?q=Debieron) | N/A |
 | 31 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
 | 32 | [Ciudad Nueva](http://twitter.com/search?q=Ciudad+Nueva) | N/A |
-| 33 | [najayo](http://twitter.com/search?q=najayo) | N/A |
+| 33 | [Najayo](http://twitter.com/search?q=Najayo) | N/A |
 | 34 | [Pacífica](http://twitter.com/search?q=Pac%c3%adfica) | N/A |
-| 35 | [PLDistas](http://twitter.com/search?q=PLDistas) | N/A |
+| 35 | [pldistas](http://twitter.com/search?q=pldistas) | N/A |
 | 36 | [ito bisonó](http://twitter.com/search?q=ito+bison%c3%b3) | N/A |
 | 37 | [Defendiendo](http://twitter.com/search?q=Defendiendo) | N/A |
 | 38 | [hipolito](http://twitter.com/search?q=hipolito) | N/A |
@@ -58,9 +58,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 41 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
 | 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 43 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 44 | [Peledeistas](http://twitter.com/search?q=Peledeistas) | N/A |
-| 45 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 46 | [Jorge Blanco](http://twitter.com/search?q=Jorge+Blanco) | N/A |
+| 44 | [peledeistas](http://twitter.com/search?q=peledeistas) | N/A |
+| 45 | [CORRUPTOS](http://twitter.com/search?q=CORRUPTOS) | N/A |
+| 46 | [jorge blanco](http://twitter.com/search?q=jorge+blanco) | N/A |
 | 47 | [Soberano](http://twitter.com/search?q=Soberano) | N/A |
 | 48 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 49 | [Vete](http://twitter.com/search?q=Vete) | N/A |

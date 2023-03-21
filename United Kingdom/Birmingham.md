@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-21 09:16:48 UTC`
+📆 Last Updated: `2023-03-21 10:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Forde](http://twitter.com/search?q=Forde) | N/A |
-| 2 | [#ClimateEmergency](http://twitter.com/search?q=%23ClimateEmergency) | N/A |
-| 3 | [#partygate](http://twitter.com/search?q=%23partygate) | N/A |
-| 4 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 5 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 1 | [#spring](http://twitter.com/search?q=%23spring) | N/A |
+| 2 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 4 | [#ClimateEmergency](http://twitter.com/search?q=%23ClimateEmergency) | N/A |
+| 5 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
 | 6 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
 | 7 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 8 | [#WDSD2023](http://twitter.com/search?q=%23WDSD2023) | N/A |
-| 9 | [Baroness Casey](http://twitter.com/search?q=Baroness+Casey) | N/A |
-| 10 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
-| 11 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 12 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 13 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 14 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
-| 15 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 16 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 17 | [Parish](http://twitter.com/search?q=Parish) | N/A |
-| 18 | [Policing](http://twitter.com/search?q=Policing) | N/A |
-| 19 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 20 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
-| 21 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 22 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 23 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 24 | [Ruth Perry](http://twitter.com/search?q=Ruth+Perry) | N/A |
-| 25 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 26 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 27 | [#lotsofsocks](http://twitter.com/search?q=%23lotsofsocks) | N/A |
-| 28 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 29 | [#WithUsNotForUs](http://twitter.com/search?q=%23WithUsNotForUs) | N/A |
-| 30 | [#wswd2023](http://twitter.com/search?q=%23wswd2023) | N/A |
-| 31 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 32 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
-| 33 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 34 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
-| 35 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 36 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 37 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 38 | [#ToriesOut257](http://twitter.com/search?q=%23ToriesOut257) | N/A |
-| 39 | [#discuss](http://twitter.com/search?q=%23discuss) | N/A |
-| 40 | [#oddsocks](http://twitter.com/search?q=%23oddsocks) | N/A |
-| 41 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 42 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 43 | [#Panorama](http://twitter.com/search?q=%23Panorama) | N/A |
-| 44 | [#johnsontheliar](http://twitter.com/search?q=%23johnsontheliar) | N/A |
-| 45 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 46 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
-| 47 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 48 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 8 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 9 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 10 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 11 | [Cressida](http://twitter.com/search?q=Cressida) | N/A |
+| 12 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
+| 13 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 14 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 15 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 16 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 17 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 18 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 19 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 20 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
+| 21 | [Policing](http://twitter.com/search?q=Policing) | N/A |
+| 22 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 23 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 24 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 25 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 26 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 27 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 28 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 29 | [Panorama](http://twitter.com/search?q=Panorama) | N/A |
+| 30 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 31 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 32 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 33 | [Ruth Perry](http://twitter.com/search?q=Ruth+Perry) | N/A |
+| 34 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 35 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 36 | [#WDSD2023](http://twitter.com/search?q=%23WDSD2023) | N/A |
+| 37 | [#ASongOrMovieForOdour](http://twitter.com/search?q=%23ASongOrMovieForOdour) | N/A |
+| 38 | [#lotsofsocks](http://twitter.com/search?q=%23lotsofsocks) | N/A |
+| 39 | [#CaseyReport](http://twitter.com/search?q=%23CaseyReport) | N/A |
+| 40 | [#PLTBirthday](http://twitter.com/search?q=%23PLTBirthday) | N/A |
+| 41 | [#wswd2023](http://twitter.com/search?q=%23wswd2023) | N/A |
+| 42 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 43 | [#WithUsNotForUs](http://twitter.com/search?q=%23WithUsNotForUs) | N/A |
+| 44 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 45 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
+| 46 | [#oddsocks](http://twitter.com/search?q=%23oddsocks) | N/A |
+| 47 | [#IntlForestDay](http://twitter.com/search?q=%23IntlForestDay) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
 
 
 

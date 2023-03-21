@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-21 09:17:43 UTC`
+📆 Last Updated: `2023-03-21 10:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 3 | [#BigMemphis](http://twitter.com/search?q=%23BigMemphis) | N/A |
-| 4 | [lady vols](http://twitter.com/search?q=lady+vols) | N/A |
-| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 5 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 7 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
-| 8 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 8 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
 | 9 | [#BallGuySweepstakes](http://twitter.com/search?q=%23BallGuySweepstakes) | N/A |
-| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 11 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 12 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 12 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
 | 13 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 14 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 14 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
 | 15 | [Deception](http://twitter.com/search?q=Deception) | N/A |
-| 16 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 17 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 18 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 19 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 16 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 17 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
+| 18 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
+| 19 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
 | 20 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 21 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 22 | [Al Franken](http://twitter.com/search?q=Al+Franken) | N/A |
-| 23 | [bryson tiller](http://twitter.com/search?q=bryson+tiller) | N/A |
-| 24 | [Jell-O](http://twitter.com/search?q=Jell-O) | N/A |
-| 25 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 26 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 27 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 28 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 29 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 30 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 31 | [Markiplier](http://twitter.com/search?q=Markiplier) | N/A |
-| 32 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 33 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 34 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 35 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 36 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 37 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 38 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 39 | [9muses](http://twitter.com/search?q=9muses) | N/A |
-| 40 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 41 | [Team Mexico](http://twitter.com/search?q=Team+Mexico) | N/A |
-| 42 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 43 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
-| 44 | [Dan Goldman](http://twitter.com/search?q=Dan+Goldman) | N/A |
-| 45 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 46 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
-| 47 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 48 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 49 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 21 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 22 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 23 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 24 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 25 | [franklin graham](http://twitter.com/search?q=franklin+graham) | N/A |
+| 26 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 27 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 28 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 29 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
+| 30 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 31 | [Team Mexico](http://twitter.com/search?q=Team+Mexico) | N/A |
+| 32 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
+| 33 | [Arozarena](http://twitter.com/search?q=Arozarena) | N/A |
+| 34 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 35 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 36 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
+| 37 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 38 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 39 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 40 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 41 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 42 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
+| 43 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 45 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 46 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
+| 47 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 48 | [Oats](http://twitter.com/search?q=Oats) | N/A |
+| 49 | [Watermelon](http://twitter.com/search?q=Watermelon) | N/A |
 
 
 

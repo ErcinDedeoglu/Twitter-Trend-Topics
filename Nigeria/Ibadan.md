@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-21 09:17:23 UTC`
+📆 Last Updated: `2023-03-21 10:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 2 | [#AccessIWD2023](http://twitter.com/search?q=%23AccessIWD2023) | N/A |
-| 3 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
-| 4 | [#MaziXOdogwu](http://twitter.com/search?q=%23MaziXOdogwu) | N/A |
-| 5 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 6 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 7 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
-| 8 | [#SimActivatedinRivers](http://twitter.com/search?q=%23SimActivatedinRivers) | N/A |
+| 2 | [#Protest](http://twitter.com/search?q=%23Protest) | N/A |
+| 3 | [#AccessIWD2023](http://twitter.com/search?q=%23AccessIWD2023) | N/A |
+| 4 | [#SimActivatedinRivers](http://twitter.com/search?q=%23SimActivatedinRivers) | N/A |
+| 5 | [#MaziXOdogwu](http://twitter.com/search?q=%23MaziXOdogwu) | N/A |
+| 6 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 7 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 8 | [Adamawa](http://twitter.com/search?q=Adamawa) | N/A |
 | 9 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 10 | [#whoismk](http://twitter.com/search?q=%23whoismk) | N/A |
-| 11 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 12 | [I HAVE MY GLORIOUS EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+GLORIOUS+EVIDENCE) | N/A |
-| 13 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 14 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 15 | [Binani](http://twitter.com/search?q=Binani) | N/A |
-| 16 | [Labor Party Presidential](http://twitter.com/search?q=Labor+Party+Presidential) | N/A |
-| 17 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 10 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 11 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 12 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 13 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 14 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 15 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 16 | [Binani](http://twitter.com/search?q=Binani) | N/A |
+| 17 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
 | 18 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
 | 19 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 20 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 21 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 22 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
-| 23 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 20 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 21 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 22 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 23 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
 | 24 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 25 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
-| 26 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
-| 27 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 28 | [Dauda Lawal](http://twitter.com/search?q=Dauda+Lawal) | N/A |
-| 29 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
-| 30 | [GO TO COURT](http://twitter.com/search?q=GO+TO+COURT) | N/A |
-| 31 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 32 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
-| 33 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
-| 34 | [KING YEMI CREGX](http://twitter.com/search?q=KING+YEMI+CREGX) | N/A |
-| 35 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
-| 36 | [Benue](http://twitter.com/search?q=Benue) | N/A |
-| 37 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
-| 38 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 39 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
-| 40 | [ODOGWU CREGXFORCE](http://twitter.com/search?q=ODOGWU+CREGXFORCE) | N/A |
-| 41 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 42 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 43 | [WORLD YEMI CREGX DAY](http://twitter.com/search?q=WORLD+YEMI+CREGX+DAY) | N/A |
+| 25 | [I HAVE MY GLORIOUS EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+GLORIOUS+EVIDENCE) | N/A |
+| 26 | [Guinevere](http://twitter.com/search?q=Guinevere) | N/A |
+| 27 | [Dauda Lawal](http://twitter.com/search?q=Dauda+Lawal) | N/A |
+| 28 | [GO TO COURT](http://twitter.com/search?q=GO+TO+COURT) | N/A |
+| 29 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
+| 30 | [Taraba](http://twitter.com/search?q=Taraba) | N/A |
+| 31 | [Teni](http://twitter.com/search?q=Teni) | N/A |
+| 32 | [KING YEMI CREGX](http://twitter.com/search?q=KING+YEMI+CREGX) | N/A |
+| 33 | [Yale](http://twitter.com/search?q=Yale) | N/A |
+| 34 | [Uba Sani](http://twitter.com/search?q=Uba+Sani) | N/A |
+| 35 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 36 | [HAPPY BIRTHDAY YEMI CREGX](http://twitter.com/search?q=HAPPY+BIRTHDAY+YEMI+CREGX) | N/A |
+| 37 | [Fintiri](http://twitter.com/search?q=Fintiri) | N/A |
+| 38 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 39 | [ODOGWU CREGXFORCE](http://twitter.com/search?q=ODOGWU+CREGXFORCE) | N/A |
+| 40 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 41 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 42 | [Labor Party Presidential](http://twitter.com/search?q=Labor+Party+Presidential) | N/A |
+| 43 | [Inconclusive](http://twitter.com/search?q=Inconclusive) | N/A |
 | 44 | [Alcatraz](http://twitter.com/search?q=Alcatraz) | N/A |
-| 45 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 46 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 47 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 48 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
-| 49 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 45 | [WORLD YEMI CREGX DAY](http://twitter.com/search?q=WORLD+YEMI+CREGX+DAY) | N/A |
+| 46 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 47 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 48 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 49 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
 | 50 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 
 
