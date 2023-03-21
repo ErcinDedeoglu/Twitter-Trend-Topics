@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-21 05:17:17 UTC`
+📆 Last Updated: `2023-03-21 06:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 2 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
-| 3 | [#ترازو_ہٹاو_بلا_لگاو](http://twitter.com/search?q=%23%d8%aa%d8%b1%d8%a7%d8%b2%d9%88_%db%81%d9%b9%d8%a7%d9%88_%d8%a8%d9%84%d8%a7_%d9%84%da%af%d8%a7%d9%88) | N/A |
-| 4 | [#چوروں_کا_یار_خود_بھی_غدار](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%db%8c%d8%a7%d8%b1_%d8%ae%d9%88%d8%af_%d8%a8%da%be%db%8c_%d8%ba%d8%af%d8%a7%d8%b1) | N/A |
-| 5 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 8 | [Asia Lions](http://twitter.com/search?q=Asia+Lions) | N/A |
-| 9 | [donate now](http://twitter.com/search?q=donate+now) | N/A |
-| 10 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 11 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 12 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
-| 13 | [Chips](http://twitter.com/search?q=Chips) | N/A |
+| 2 | [#NextGenPakistan](http://twitter.com/search?q=%23NextGenPakistan) | N/A |
+| 3 | [#Ba_IkhtiyarNaujawan](http://twitter.com/search?q=%23Ba_IkhtiyarNaujawan) | N/A |
+| 4 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
+| 5 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 6 | [SDG Secretariat](http://twitter.com/search?q=SDG+Secretariat) | N/A |
+| 7 | [Next Generation](http://twitter.com/search?q=Next+Generation) | N/A |
+| 8 | [The Next Gen](http://twitter.com/search?q=The+Next+Gen) | N/A |
+| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [Pathan](http://twitter.com/search?q=Pathan) | N/A |
+| 11 | [Asia Lions](http://twitter.com/search?q=Asia+Lions) | N/A |
+| 12 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 13 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
 | 14 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
 | 15 | [shield fluoride toothpaste](http://twitter.com/search?q=shield+fluoride+toothpaste) | N/A |
 | 16 | [Ijaz Ul Haq](http://twitter.com/search?q=Ijaz+Ul+Haq) | N/A |
-| 17 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 18 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 19 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 20 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 21 | [Rain](http://twitter.com/search?q=Rain) | N/A |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
-| 24 | [Absar Alam](http://twitter.com/search?q=Absar+Alam) | N/A |
-| 25 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 26 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 27 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 28 | [Squeaky](http://twitter.com/search?q=Squeaky) | N/A |
-| 29 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 30 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 31 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 32 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 33 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 34 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 35 | [Kese](http://twitter.com/search?q=Kese) | N/A |
-| 36 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 37 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 38 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 39 | [Ali Amin Gandapur](http://twitter.com/search?q=Ali+Amin+Gandapur) | N/A |
-| 40 | [America](http://twitter.com/search?q=America) | N/A |
-| 41 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 42 | [Highly](http://twitter.com/search?q=Highly) | N/A |
-| 43 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 44 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 45 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 46 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 47 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
-| 48 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 17 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
+| 18 | [Chips](http://twitter.com/search?q=Chips) | N/A |
+| 19 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 20 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
+| 21 | [Sadiq Jan](http://twitter.com/search?q=Sadiq+Jan) | N/A |
+| 22 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 23 | [Absar Alam](http://twitter.com/search?q=Absar+Alam) | N/A |
+| 24 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 25 | [Rain](http://twitter.com/search?q=Rain) | N/A |
+| 26 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 27 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 28 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 29 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 30 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 33 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 34 | [Ali Amin Gandapur](http://twitter.com/search?q=Ali+Amin+Gandapur) | N/A |
+| 35 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 36 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 37 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 38 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 39 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 40 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 41 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 42 | [West](http://twitter.com/search?q=West) | N/A |
+| 43 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 44 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 48 | [Kese](http://twitter.com/search?q=Kese) | N/A |
+| 49 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 
 
 

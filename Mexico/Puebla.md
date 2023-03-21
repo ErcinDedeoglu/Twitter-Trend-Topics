@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-21 05:16:42 UTC`
+📆 Last Updated: `2023-03-21 06:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
 | 5 | [#Etapa2AllStar](http://twitter.com/search?q=%23Etapa2AllStar) | N/A |
 | 6 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 8 | [LA MAGIA ES DORADA](http://twitter.com/search?q=LA+MAGIA+ES+DORADA) | N/A |
-| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 10 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 11 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
-| 12 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 13 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 9 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 10 | [LA MAGIA ES DORADA](http://twitter.com/search?q=LA+MAGIA+ES+DORADA) | N/A |
+| 11 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 12 | [Scarlett](http://twitter.com/search?q=Scarlett) | Scarlett is a feminine given name of English origin, derived from the French word for scarlet, "escarlate". It is often associated with the color red and can be used as a nickname for someone with red hair or a fiery personality. |
+| 13 | [Camberos](http://twitter.com/search?q=Camberos) | N/A |
 | 14 | [Totolapan](http://twitter.com/search?q=Totolapan) | N/A |
-| 15 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 16 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 15 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 16 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
 | 17 | [LOUIS HERMANO YA ERES MEXICANO](http://twitter.com/search?q=LOUIS+HERMANO+YA+ERES+MEXICANO) | N/A |
-| 18 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 19 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 20 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 21 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 22 | [Alex Verdugo](http://twitter.com/search?q=Alex+Verdugo) | N/A |
-| 23 | [Solo 3](http://twitter.com/search?q=Solo+3) | N/A |
+| 18 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 19 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
+| 20 | [Salganse de Twitter](http://twitter.com/search?q=Salganse+de+Twitter) | N/A |
+| 21 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 22 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 23 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
 | 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 25 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
-| 26 | [Jugaron](http://twitter.com/search?q=Jugaron) | N/A |
-| 27 | [Villacampa](http://twitter.com/search?q=Villacampa) | N/A |
-| 28 | [Itzel Velasco](http://twitter.com/search?q=Itzel+Velasco) | N/A |
-| 29 | [Katty](http://twitter.com/search?q=Katty) | N/A |
-| 30 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
-| 31 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 32 | [Salganse de Twitter](http://twitter.com/search?q=Salganse+de+Twitter) | N/A |
-| 33 | [Gracias Randy](http://twitter.com/search?q=Gracias+Randy) | N/A |
-| 34 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
-| 35 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 36 | [Gerardo Reyes](http://twitter.com/search?q=Gerardo+Reyes) | N/A |
-| 37 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 38 | [Home Run](http://twitter.com/search?q=Home+Run) | N/A |
-| 39 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 40 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 25 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
+| 26 | [valdo](http://twitter.com/search?q=valdo) | N/A |
+| 27 | [Katty](http://twitter.com/search?q=Katty) | N/A |
+| 28 | [Villacampa](http://twitter.com/search?q=Villacampa) | N/A |
+| 29 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 30 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 31 | [Benjamín Gil](http://twitter.com/search?q=Benjam%c3%adn+Gil) | N/A |
+| 32 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 33 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 34 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 35 | [Gracias Randy](http://twitter.com/search?q=Gracias+Randy) | N/A |
+| 36 | [Jugaron](http://twitter.com/search?q=Jugaron) | N/A |
+| 37 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 38 | [Gerardo Reyes](http://twitter.com/search?q=Gerardo+Reyes) | N/A |
+| 39 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 40 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
 | 41 | [Perdimos](http://twitter.com/search?q=Perdimos) | N/A |
-| 42 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 43 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 44 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 45 | [TE AMO RANDY](http://twitter.com/search?q=TE+AMO+RANDY) | N/A |
-| 46 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
-| 47 | [JoJo Romero](http://twitter.com/search?q=JoJo+Romero) | N/A |
-| 48 | [Orgulloso](http://twitter.com/search?q=Orgulloso) | N/A |
-| 49 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 50 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 42 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 43 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 44 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 45 | [Orgulloso](http://twitter.com/search?q=Orgulloso) | N/A |
+| 46 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 47 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 48 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 49 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
+| 50 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saitama
 
-📆 Last Updated: `2023-03-21 05:17:01 UTC`
+📆 Last Updated: `2023-03-21 06:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [こんちゃん](http://twitter.com/search?q=%e3%81%93%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 2 | [近ちゃん](http://twitter.com/search?q=%e8%bf%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 3 | [ノーアウト](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88) | N/A |
-| 4 | [スリーラン](http://twitter.com/search?q=%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
-| 5 | [村上と心中](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%a8%e5%bf%83%e4%b8%ad) | N/A |
-| 6 | [野球の神様](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e7%a5%9e%e6%a7%98) | N/A |
-| 7 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 8 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
+| 1 | [オオタニさん](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%81%95%e3%82%93) | N/A |
+| 2 | [ドラマティック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%83%83%e3%82%af) | N/A |
+| 3 | [野球の神様](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e7%a5%9e%e6%a7%98) | N/A |
+| 4 | [犠牲フライ](http://twitter.com/search?q=%e7%8a%a0%e7%89%b2%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 5 | [近ちゃん](http://twitter.com/search?q=%e8%bf%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 6 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
+| 7 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
+| 8 | [かっこよすぎ](http://twitter.com/search?q=%e3%81%8b%e3%81%a3%e3%81%93%e3%82%88%e3%81%99%e3%81%8e) | N/A |
 | 9 | [#サシタビ](http://twitter.com/search?q=%23%e3%82%b5%e3%82%b7%e3%82%bf%e3%83%93) | N/A |
-| 10 | [かっこよすぎ](http://twitter.com/search?q=%e3%81%8b%e3%81%a3%e3%81%93%e3%82%88%e3%81%99%e3%81%8e) | N/A |
-| 11 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
-| 12 | [高校野球](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e9%87%8e%e7%90%83) | N/A |
-| 13 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
-| 14 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 15 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
-| 16 | [村上選手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e9%81%b8%e6%89%8b) | N/A |
-| 17 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
-| 18 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 19 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
-| 20 | [サヨナラ](http://twitter.com/search?q=%e3%82%b5%e3%83%a8%e3%83%8a%e3%83%a9) | N/A |
-| 21 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 22 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
-| 23 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
-| 24 | [#侍JAPAN](http://twitter.com/search?q=%23%e4%be%8dJAPAN) | N/A |
+| 10 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 11 | [たーーーー](http://twitter.com/search?q=%e3%81%9f%e3%83%bc%e3%83%bc%e3%83%bc%e3%83%bc) | N/A |
+| 12 | [メジャー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 13 | [仕事休み](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e4%bc%91%e3%81%bf) | 仕事休み (shigoto yasumi) is a Japanese phrase meaning "time off from work". It is used to refer to taking a break from work, either for a day or for an extended period of time. |
+| 14 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
+| 15 | [高校野球](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e9%87%8e%e7%90%83) | N/A |
+| 16 | [マイアミ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%a2%e3%83%9f) | N/A |
+| 17 | [#WBC](http://twitter.com/search?q=%23WBC) | #WBC stands for World Boxing Council, which is an international governing body for professional boxing. It was founded in 1963 and is based in Mexico City. The WBC sanctions world championship boxing matches, and awards the iconic green and gold WBC championship belt to the winner of each division. |
+| 18 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
+| 19 | [メキシコ](http://twitter.com/search?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3) | N/A |
+| 20 | [村上選手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e9%81%b8%e6%89%8b) | N/A |
+| 21 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
+| 22 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
+| 23 | [#tobe新たな時代へ](http://twitter.com/search?q=%23tobe%e6%96%b0%e3%81%9f%e3%81%aa%e6%99%82%e4%bb%a3%e3%81%b8) | N/A |
+| 24 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
 | 25 | [ウクライナ](http://twitter.com/search?q=%e3%82%a6%e3%82%af%e3%83%a9%e3%82%a4%e3%83%8a) | ウクライナ (Ukraina) is the Japanese name for Ukraine, a country located in Eastern Europe. In English, it is simply referred to as Ukraine. |
-| 26 | [#村神様](http://twitter.com/search?q=%23%e6%9d%91%e7%a5%9e%e6%a7%98) | N/A |
-| 27 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 28 | [スポーツ](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
-| 29 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 30 | [逆転勝ち](http://twitter.com/search?q=%e9%80%86%e8%bb%a2%e5%8b%9d%e3%81%a1) | N/A |
-| 31 | [タイムリー](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%aa%e3%83%bc) | N/A |
-| 32 | [村神さま](http://twitter.com/search?q=%e6%9d%91%e7%a5%9e%e3%81%95%e3%81%be) | N/A |
-| 33 | [最後の最後](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e6%9c%80%e5%be%8c) | N/A |
-| 34 | [アロザレーナ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%82%b6%e3%83%ac%e3%83%bc%e3%83%8a) | N/A |
-| 35 | [ドラマチック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%81%e3%83%83%e3%82%af) | N/A |
-| 36 | [逆転勝利](http://twitter.com/search?q=%e9%80%86%e8%bb%a2%e5%8b%9d%e5%88%a9) | N/A |
-| 37 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
-| 38 | [周東選手](http://twitter.com/search?q=%e5%91%a8%e6%9d%b1%e9%81%b8%e6%89%8b) | N/A |
-| 39 | [最高の試合](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e8%a9%a6%e5%90%88) | N/A |
-| 40 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 41 | [ヘルメット](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88) | N/A |
-| 42 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 43 | [代走周東](http://twitter.com/search?q=%e4%bb%a3%e8%b5%b0%e5%91%a8%e6%9d%b1) | N/A |
-| 44 | [吉田選手](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e9%81%b8%e6%89%8b) | N/A |
-| 45 | [周東くん](http://twitter.com/search?q=%e5%91%a8%e6%9d%b1%e3%81%8f%e3%82%93) | N/A |
-| 46 | [村上ここ](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%93%e3%81%93) | N/A |
-| 47 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 48 | [周東さん](http://twitter.com/search?q=%e5%91%a8%e6%9d%b1%e3%81%95%e3%82%93) | N/A |
-| 49 | [ツーベース](http://twitter.com/search?q=%e3%83%84%e3%83%bc%e3%83%99%e3%83%bc%e3%82%b9) | N/A |
-| 50 | [岸田総理](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e7%b7%8f%e7%90%86) | 岸田総理 is the name of a former Prime Minister of Japan, Ryutaro Hashimoto. His name is often abbreviated to K-Sou, which stands for "Kishida Souri" (Kishida being his family name). In English, it translates to "Prime Minister Ryutaro Hashimoto". |
+| 26 | [サヨナラ](http://twitter.com/search?q=%e3%82%b5%e3%83%a8%e3%83%8a%e3%83%a9) | N/A |
+| 27 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
+| 28 | [タッキー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc) | タッキー is a Japanese nickname for the name Takashi. It is derived from the Japanese pronunciation of Takashi, which is "Takkii". In English, it can be translated to mean "Takky". |
+| 29 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
+| 30 | [#侍JAPAN](http://twitter.com/search?q=%23%e4%be%8dJAPAN) | N/A |
+| 31 | [スポーツ](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
+| 32 | [吉田正尚](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e6%ad%a3%e5%b0%9a) | N/A |
+| 33 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
+| 34 | [逆転勝ち](http://twitter.com/search?q=%e9%80%86%e8%bb%a2%e5%8b%9d%e3%81%a1) | N/A |
+| 35 | [タイムリー](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%aa%e3%83%bc) | N/A |
+| 36 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 37 | [周東選手](http://twitter.com/search?q=%e5%91%a8%e6%9d%b1%e9%81%b8%e6%89%8b) | N/A |
+| 38 | [村神さま](http://twitter.com/search?q=%e6%9d%91%e7%a5%9e%e3%81%95%e3%81%be) | N/A |
+| 39 | [逆転勝利](http://twitter.com/search?q=%e9%80%86%e8%bb%a2%e5%8b%9d%e5%88%a9) | N/A |
+| 40 | [最後の最後](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e6%9c%80%e5%be%8c) | N/A |
+| 41 | [ドラマチック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%81%e3%83%83%e3%82%af) | N/A |
+| 42 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
+| 43 | [最高の試合](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e8%a9%a6%e5%90%88) | N/A |
+| 44 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 45 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
+| 46 | [アロザレーナ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%82%b6%e3%83%ac%e3%83%bc%e3%83%8a) | N/A |
+| 47 | [ヘルメット](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88) | N/A |
+| 48 | [岸田首相](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e9%a6%96%e7%9b%b8) | N/A |
+| 49 | [周東くん](http://twitter.com/search?q=%e5%91%a8%e6%9d%b1%e3%81%8f%e3%82%93) | N/A |
+| 50 | [代走周東](http://twitter.com/search?q=%e4%bb%a3%e8%b5%b0%e5%91%a8%e6%9d%b1) | N/A |
 
 
 

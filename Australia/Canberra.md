@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-21 05:17:00 UTC`
+📆 Last Updated: `2023-03-21 06:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 2 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 3 | [#PAXAus](http://twitter.com/search?q=%23PAXAus) | N/A |
-| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 2 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
+| 3 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 4 | [#PAXAus](http://twitter.com/search?q=%23PAXAus) | N/A |
 | 5 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 6 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
-| 7 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 8 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
+| 6 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 7 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
+| 8 | [Moira](http://twitter.com/search?q=Moira) | N/A |
 | 9 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 10 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 11 | [#PAXandWin](http://twitter.com/search?q=%23PAXandWin) | N/A |
-| 12 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 10 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 11 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 12 | [#PAXandWin](http://twitter.com/search?q=%23PAXandWin) | N/A |
 | 13 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 14 | [Dreyfus](http://twitter.com/search?q=Dreyfus) | N/A |
+| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 15 | [Geoffrey Robertson](http://twitter.com/search?q=Geoffrey+Robertson) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 18 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 19 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 16 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 18 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
+| 19 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 20 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 21 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 22 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 23 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 24 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 25 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 26 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
-| 27 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 28 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 29 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 30 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 31 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 32 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 33 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 34 | [Vic Libs](http://twitter.com/search?q=Vic+Libs) | N/A |
-| 35 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 36 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 37 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 38 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 21 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 22 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 23 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 24 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 25 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 26 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 27 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 28 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 29 | [Dreyfus](http://twitter.com/search?q=Dreyfus) | N/A |
+| 30 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 31 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 32 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 33 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 34 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 35 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 36 | [sports centre](http://twitter.com/search?q=sports+centre) | N/A |
+| 37 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
+| 38 | [Libs](http://twitter.com/search?q=Libs) | N/A |
 | 39 | [Lambie](http://twitter.com/search?q=Lambie) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
-| 42 | [Media Watch](http://twitter.com/search?q=Media+Watch) | N/A |
-| 43 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 44 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 45 | [Bytel](http://twitter.com/search?q=Bytel) | N/A |
-| 46 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 47 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 48 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 49 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 40 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 41 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 42 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 43 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 44 | [Terry Norris](http://twitter.com/search?q=Terry+Norris) | N/A |
+| 45 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 46 | [Cotter](http://twitter.com/search?q=Cotter) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [Wehr](http://twitter.com/search?q=Wehr) | N/A |
+| 49 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
 
 
 
