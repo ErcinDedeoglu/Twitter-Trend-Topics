@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-21 19:16:52 UTC`
+📆 Last Updated: `2023-03-21 20:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rajasthan](http://twitter.com/search?q=Rajasthan) | N/A |
-| 2 | [#माफी_मांगो_राजवीर_चलकोई](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0_%e0%a4%9a%e0%a4%b2%e0%a4%95%e0%a5%8b%e0%a4%88) | N/A |
-| 3 | [#Boycott_springboard](http://twitter.com/search?q=%23Boycott_springboard) | N/A |
-| 4 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 5 | [#भूकंप](http://twitter.com/search?q=%23%e0%a4%ad%e0%a5%82%e0%a4%95%e0%a4%82%e0%a4%aa) | N/A |
-| 6 | [दिल्ली एनसीआर](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%8f%e0%a4%a8%e0%a4%b8%e0%a5%80%e0%a4%86%e0%a4%b0) | N/A |
-| 7 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 8 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 9 | [North India](http://twitter.com/search?q=North+India) | N/A |
-| 10 | [#tremors](http://twitter.com/search?q=%23tremors) | N/A |
+| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 3 | [#भूकंप](http://twitter.com/search?q=%23%e0%a4%ad%e0%a5%82%e0%a4%95%e0%a4%82%e0%a4%aa) | N/A |
+| 4 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 5 | [#PathaanOnPrime](http://twitter.com/search?q=%23PathaanOnPrime) | N/A |
+| 6 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
+| 7 | [दिल्ली एनसीआर](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%8f%e0%a4%a8%e0%a4%b8%e0%a5%80%e0%a4%86%e0%a4%b0) | N/A |
+| 8 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 9 | [#Ugadi2023](http://twitter.com/search?q=%23Ugadi2023) | N/A |
+| 10 | [North India](http://twitter.com/search?q=North+India) | N/A |
 | 11 | [उत्तर भारत](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
 | 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 13 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 14 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 15 | [Gurgaon](http://twitter.com/search?q=Gurgaon) | N/A |
-| 16 | [Chandigarh](http://twitter.com/search?q=Chandigarh) | N/A |
-| 17 | [Jaipur](http://twitter.com/search?q=Jaipur) | N/A |
-| 18 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 19 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
-| 20 | [Hindu Kush](http://twitter.com/search?q=Hindu+Kush) | N/A |
-| 21 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 22 | [KBKJ ARRIVES IN ONE MONTH](http://twitter.com/search?q=KBKJ+ARRIVES+IN+ONE+MONTH) | N/A |
-| 23 | [Stay Safe](http://twitter.com/search?q=Stay+Safe) | N/A |
-| 24 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 25 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
-| 26 | [Sushant Singh Rajput LivesOn](http://twitter.com/search?q=Sushant+Singh+Rajput+LivesOn) | N/A |
-| 27 | [Swastika](http://twitter.com/search?q=Swastika) | N/A |
-| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 29 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
-| 30 | [SHAME ON AAJTAK AND ABP](http://twitter.com/search?q=SHAME+ON+AAJTAK+AND+ABP) | N/A |
-| 31 | [Northern India](http://twitter.com/search?q=Northern+India) | N/A |
-| 32 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 33 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 13 | [Happy Navratri](http://twitter.com/search?q=Happy+Navratri) | N/A |
+| 14 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 15 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 16 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
+| 17 | [Chandigarh](http://twitter.com/search?q=Chandigarh) | N/A |
+| 18 | [Gurgaon](http://twitter.com/search?q=Gurgaon) | N/A |
+| 19 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 20 | [Jaipur](http://twitter.com/search?q=Jaipur) | N/A |
+| 21 | [Hindu Kush](http://twitter.com/search?q=Hindu+Kush) | N/A |
+| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 23 | [KBKJ ARRIVES IN ONE MONTH](http://twitter.com/search?q=KBKJ+ARRIVES+IN+ONE+MONTH) | N/A |
+| 24 | [Swastika](http://twitter.com/search?q=Swastika) | N/A |
+| 25 | [Stay Safe](http://twitter.com/search?q=Stay+Safe) | N/A |
+| 26 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 27 | [Sushant Singh Rajput LivesOn](http://twitter.com/search?q=Sushant+Singh+Rajput+LivesOn) | N/A |
+| 28 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
+| 29 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
+| 30 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 31 | [Amy S](http://twitter.com/search?q=Amy+S) | N/A |
+| 32 | [SHAME ON AAJTAK AND ABP](http://twitter.com/search?q=SHAME+ON+AAJTAK+AND+ABP) | N/A |
+| 33 | [Northern India](http://twitter.com/search?q=Northern+India) | N/A |
 | 34 | [मीर जाफर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a4%be%e0%a4%ab%e0%a4%b0) | N/A |
-| 35 | [Diana D](http://twitter.com/search?q=Diana+D) | N/A |
-| 36 | [Dehradun](http://twitter.com/search?q=Dehradun) | N/A |
-| 37 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 35 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 36 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 37 | [Diana D](http://twitter.com/search?q=Diana+D) | N/A |
 | 38 | [Scary](http://twitter.com/search?q=Scary) | Scary is an adjective used to describe something that is frightening or causes fear. It can be used to describe a person, place, thing, or situation. |
-| 39 | [Ghaziabad](http://twitter.com/search?q=Ghaziabad) | N/A |
+| 39 | [Massive](http://twitter.com/search?q=Massive) | N/A |
 | 40 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 41 | [Yahan](http://twitter.com/search?q=Yahan) | N/A |
-| 42 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 43 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 44 | [Upper](http://twitter.com/search?q=Upper) | N/A |
-| 45 | [#HappyUgadi](http://twitter.com/search?q=%23HappyUgadi) | N/A |
-| 46 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
-| 47 | [#PathaanOnPrime](http://twitter.com/search?q=%23PathaanOnPrime) | N/A |
-| 48 | [#किसानों_को_मुआवजा_दो](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%8b_%e0%a4%ae%e0%a5%81%e0%a4%86%e0%a4%b5%e0%a4%9c%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
-| 49 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 50 | [#Noida](http://twitter.com/search?q=%23Noida) | N/A |
+| 41 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 42 | [Ghaziabad](http://twitter.com/search?q=Ghaziabad) | N/A |
+| 43 | [Yahan](http://twitter.com/search?q=Yahan) | N/A |
+| 44 | [Himachal](http://twitter.com/search?q=Himachal) | N/A |
+| 45 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 46 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 47 | [#चैत्र_नवरात्रि](http://twitter.com/search?q=%23%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0_%e0%a4%a8%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 48 | [#Tremors](http://twitter.com/search?q=%23Tremors) | N/A |
+| 49 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
+| 50 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
 
 
 

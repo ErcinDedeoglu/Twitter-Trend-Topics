@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Busan
 
-📆 Last Updated: `2023-03-21 19:16:41 UTC`
+📆 Last Updated: `2023-03-21 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,48 @@ This is top 50 for [Korea](</Korea>)
 | 6 | [#Dear_my_wonjin](http://twitter.com/search?q=%23Dear_my_wonjin) | N/A |
 | 7 | [슈크림라떼](http://twitter.com/search?q=%ec%8a%88%ed%81%ac%eb%a6%bc%eb%9d%bc%eb%96%bc) | N/A |
 | 8 | [우루과이](http://twitter.com/search?q=%ec%9a%b0%eb%a3%a8%ea%b3%bc%ec%9d%b4) | N/A |
-| 9 | [국제 행복](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c+%ed%96%89%eb%b3%b5) | N/A |
-| 10 | [리디페이퍼](http://twitter.com/search?q=%eb%a6%ac%eb%94%94%ed%8e%98%ec%9d%b4%ed%8d%bc) | N/A |
+| 9 | [리디페이퍼](http://twitter.com/search?q=%eb%a6%ac%eb%94%94%ed%8e%98%ec%9d%b4%ed%8d%bc) | N/A |
+| 10 | [보석 찾기](http://twitter.com/search?q=%eb%b3%b4%ec%84%9d+%ec%b0%be%ea%b8%b0) | N/A |
 | 11 | [마후유 엄마](http://twitter.com/search?q=%eb%a7%88%ed%9b%84%ec%9c%a0+%ec%97%84%eb%a7%88) | N/A |
-| 12 | [보석 찾기](http://twitter.com/search?q=%eb%b3%b4%ec%84%9d+%ec%b0%be%ea%b8%b0) | N/A |
-| 13 | [슈비버거](http://twitter.com/search?q=%ec%8a%88%eb%b9%84%eb%b2%84%ea%b1%b0) | N/A |
+| 12 | [슈비버거](http://twitter.com/search?q=%ec%8a%88%eb%b9%84%eb%b2%84%ea%b1%b0) | N/A |
+| 13 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
 | 14 | [이북리더기](http://twitter.com/search?q=%ec%9d%b4%eb%b6%81%eb%a6%ac%eb%8d%94%ea%b8%b0) | N/A |
-| 15 | [꼬들 445](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+445) | N/A |
-| 16 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
-| 17 | [파도국수](http://twitter.com/search?q=%ed%8c%8c%eb%8f%84%ea%b5%ad%ec%88%98) | N/A |
-| 18 | [통관번호](http://twitter.com/search?q=%ed%86%b5%ea%b4%80%eb%b2%88%ed%98%b8) | N/A |
-| 19 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
-| 20 | [하늘의자](http://twitter.com/search?q=%ed%95%98%eb%8a%98%ec%9d%98%ec%9e%90) | N/A |
-| 21 | [하성운생일](http://twitter.com/search?q=%ed%95%98%ec%84%b1%ec%9a%b4%ec%83%9d%ec%9d%bc) | N/A |
-| 22 | [번호 드릴](http://twitter.com/search?q=%eb%b2%88%ed%98%b8+%eb%93%9c%eb%a6%b4) | N/A |
+| 15 | [파도국수](http://twitter.com/search?q=%ed%8c%8c%eb%8f%84%ea%b5%ad%ec%88%98) | N/A |
+| 16 | [통관번호](http://twitter.com/search?q=%ed%86%b5%ea%b4%80%eb%b2%88%ed%98%b8) | N/A |
+| 17 | [꼬들 445](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+445) | N/A |
+| 18 | [다그닥다그닥](http://twitter.com/search?q=%eb%8b%a4%ea%b7%b8%eb%8b%a5%eb%8b%a4%ea%b7%b8%eb%8b%a5) | N/A |
+| 19 | [하늘의자](http://twitter.com/search?q=%ed%95%98%eb%8a%98%ec%9d%98%ec%9e%90) | N/A |
+| 20 | [하성운생일](http://twitter.com/search?q=%ed%95%98%ec%84%b1%ec%9a%b4%ec%83%9d%ec%9d%bc) | N/A |
+| 21 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
+| 22 | [여러분의 드림서사](http://twitter.com/search?q=%ec%97%ac%eb%9f%ac%eb%b6%84%ec%9d%98+%eb%93%9c%eb%a6%bc%ec%84%9c%ec%82%ac) | N/A |
 | 23 | [저기 번호좀](http://twitter.com/search?q=%ec%a0%80%ea%b8%b0+%eb%b2%88%ed%98%b8%ec%a2%80) | N/A |
-| 24 | [필름카이](http://twitter.com/search?q=%ed%95%84%eb%a6%84%ec%b9%b4%ec%9d%b4) | N/A |
-| 25 | [다그닥다그닥](http://twitter.com/search?q=%eb%8b%a4%ea%b7%b8%eb%8b%a5%eb%8b%a4%ea%b7%b8%eb%8b%a5) | N/A |
-| 26 | [우성태웅](http://twitter.com/search?q=%ec%9a%b0%ec%84%b1%ed%83%9c%ec%9b%85) | N/A |
-| 27 | [드림서사](http://twitter.com/search?q=%eb%93%9c%eb%a6%bc%ec%84%9c%ec%82%ac) | N/A |
-| 28 | [서른번째](http://twitter.com/search?q=%ec%84%9c%eb%a5%b8%eb%b2%88%ec%a7%b8) | N/A |
-| 29 | [무라카미](http://twitter.com/search?q=%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8) | N/A |
-| 30 | [그대 발길](http://twitter.com/search?q=%ea%b7%b8%eb%8c%80+%eb%b0%9c%ea%b8%b8) | N/A |
-| 31 | [조용필 리메이크](http://twitter.com/search?q=%ec%a1%b0%ec%9a%a9%ed%95%84+%eb%a6%ac%eb%a9%94%ec%9d%b4%ed%81%ac) | N/A |
-| 32 | [슈퍼차저](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%b0%a8%ec%a0%80) | N/A |
-| 33 | [비트박스](http://twitter.com/search?q=%eb%b9%84%ed%8a%b8%eb%b0%95%ec%8a%a4) | N/A |
-| 34 | [피자박스](http://twitter.com/search?q=%ed%94%bc%ec%9e%90%eb%b0%95%ec%8a%a4) | N/A |
-| 35 | [mk스포츠](http://twitter.com/search?q=mk%ec%8a%a4%ed%8f%ac%ec%b8%a0) | N/A |
-| 36 | [새콤달콤](http://twitter.com/search?q=%ec%83%88%ec%bd%a4%eb%8b%ac%ec%bd%a4) | N/A |
-| 37 | [스물세번](http://twitter.com/search?q=%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88) | N/A |
-| 38 | [프라임쇼](http://twitter.com/search?q=%ed%94%84%eb%9d%bc%ec%9e%84%ec%87%bc) | N/A |
-| 39 | [설탕액정](http://twitter.com/search?q=%ec%84%a4%ed%83%95%ec%95%a1%ec%a0%95) | N/A |
+| 24 | [번호 드릴](http://twitter.com/search?q=%eb%b2%88%ed%98%b8+%eb%93%9c%eb%a6%b4) | N/A |
+| 25 | [우성태웅](http://twitter.com/search?q=%ec%9a%b0%ec%84%b1%ed%83%9c%ec%9b%85) | N/A |
+| 26 | [서른번째](http://twitter.com/search?q=%ec%84%9c%eb%a5%b8%eb%b2%88%ec%a7%b8) | N/A |
+| 27 | [조용필 리메이크](http://twitter.com/search?q=%ec%a1%b0%ec%9a%a9%ed%95%84+%eb%a6%ac%eb%a9%94%ec%9d%b4%ed%81%ac) | N/A |
+| 28 | [국제 행복](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c+%ed%96%89%eb%b3%b5) | N/A |
+| 29 | [그대 발길](http://twitter.com/search?q=%ea%b7%b8%eb%8c%80+%eb%b0%9c%ea%b8%b8) | N/A |
+| 30 | [무라카미](http://twitter.com/search?q=%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8) | N/A |
+| 31 | [슈퍼차저](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%b0%a8%ec%a0%80) | N/A |
+| 32 | [피자박스](http://twitter.com/search?q=%ed%94%bc%ec%9e%90%eb%b0%95%ec%8a%a4) | N/A |
+| 33 | [해리스타일스](http://twitter.com/search?q=%ed%95%b4%eb%a6%ac%ec%8a%a4%ed%83%80%ec%9d%bc%ec%8a%a4) | N/A |
+| 34 | [mk스포츠](http://twitter.com/search?q=mk%ec%8a%a4%ed%8f%ac%ec%b8%a0) | N/A |
+| 35 | [방청 전화](http://twitter.com/search?q=%eb%b0%a9%ec%b2%ad+%ec%a0%84%ed%99%94) | N/A |
+| 36 | [스물세번](http://twitter.com/search?q=%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88) | N/A |
+| 37 | [프라임쇼](http://twitter.com/search?q=%ed%94%84%eb%9d%bc%ec%9e%84%ec%87%bc) | N/A |
+| 38 | [비트박스](http://twitter.com/search?q=%eb%b9%84%ed%8a%b8%eb%b0%95%ec%8a%a4) | N/A |
+| 39 | [비투비 11주년](http://twitter.com/search?q=%eb%b9%84%ed%88%ac%eb%b9%84+11%ec%a3%bc%eb%85%84) | N/A |
 | 40 | [우주의 신비](http://twitter.com/search?q=%ec%9a%b0%ec%a3%bc%ec%9d%98+%ec%8b%a0%eb%b9%84) | N/A |
-| 41 | [방청 전화](http://twitter.com/search?q=%eb%b0%a9%ec%b2%ad+%ec%a0%84%ed%99%94) | N/A |
-| 42 | [후와구사](http://twitter.com/search?q=%ed%9b%84%ec%99%80%ea%b5%ac%ec%82%ac) | N/A |
-| 43 | [리밋리스](http://twitter.com/search?q=%eb%a6%ac%eb%b0%8b%eb%a6%ac%ec%8a%a4) | N/A |
-| 44 | [법정기념일](http://twitter.com/search?q=%eb%b2%95%ec%a0%95%ea%b8%b0%eb%85%90%ec%9d%bc) | N/A |
-| 45 | [해리스타일스](http://twitter.com/search?q=%ed%95%b4%eb%a6%ac%ec%8a%a4%ed%83%80%ec%9d%bc%ec%8a%a4) | N/A |
-| 46 | [동혁이의 음악](http://twitter.com/search?q=%eb%8f%99%ed%98%81%ec%9d%b4%ec%9d%98+%ec%9d%8c%ec%95%85) | N/A |
+| 41 | [새콤달콤](http://twitter.com/search?q=%ec%83%88%ec%bd%a4%eb%8b%ac%ec%bd%a4) | N/A |
+| 42 | [설탕액정](http://twitter.com/search?q=%ec%84%a4%ed%83%95%ec%95%a1%ec%a0%95) | N/A |
+| 43 | [후와구사](http://twitter.com/search?q=%ed%9b%84%ec%99%80%ea%b5%ac%ec%82%ac) | N/A |
+| 44 | [나눔 실천](http://twitter.com/search?q=%eb%82%98%eb%88%94+%ec%8b%a4%ec%b2%9c) | N/A |
+| 45 | [동혁이의 음악](http://twitter.com/search?q=%eb%8f%99%ed%98%81%ec%9d%b4%ec%9d%98+%ec%9d%8c%ec%95%85) | N/A |
+| 46 | [마후유 어머니](http://twitter.com/search?q=%eb%a7%88%ed%9b%84%ec%9c%a0+%ec%96%b4%eb%a8%b8%eb%8b%88) | N/A |
 | 47 | [혀니비니](http://twitter.com/search?q=%ed%98%80%eb%8b%88%eb%b9%84%eb%8b%88) | N/A |
-| 48 | [마후유 어머니](http://twitter.com/search?q=%eb%a7%88%ed%9b%84%ec%9c%a0+%ec%96%b4%eb%a8%b8%eb%8b%88) | N/A |
-| 49 | [삼성페이](http://twitter.com/search?q=%ec%82%bc%ec%84%b1%ed%8e%98%ec%9d%b4) | N/A |
+| 48 | [취한 최애](http://twitter.com/search?q=%ec%b7%a8%ed%95%9c+%ec%b5%9c%ec%95%a0) | N/A |
+| 49 | [더비상사](http://twitter.com/search?q=%eb%8d%94%eb%b9%84%ec%83%81%ec%82%ac) | N/A |
+| 50 | [페리도트](http://twitter.com/search?q=%ed%8e%98%eb%a6%ac%eb%8f%84%ed%8a%b8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-21 19:16:54 UTC`
+📆 Last Updated: `2023-03-21 20:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
-| 2 | [#HalkPsikologİstiyor](http://twitter.com/search?q=%23HalkPsikolog%c4%b0stiyor) | N/A |
-| 3 | [Dibyedekleremüjde](http://twitter.com/search?q=Dibyedeklerem%c3%bcjde) | N/A |
-| 4 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 5 | [ÖzelSektr ÖğrtmnKadro](http://twitter.com/search?q=%c3%96zelSektr+%c3%96%c4%9frtmnKadro) | N/A |
+| 1 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
+| 2 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
+| 3 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
+| 4 | [#SahipsizMalatya](http://twitter.com/search?q=%23SahipsizMalatya) | N/A |
+| 5 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 6 | [GSBtayiniOlumluAçıklayın](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1klay%c4%b1n) | N/A |
 | 7 | [Denkliği ErdoğanÇözer](http://twitter.com/search?q=Denkli%c4%9fi+Erdo%c4%9fan%c3%87%c3%b6zer) | N/A |
-| 8 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
-| 9 | [BİTNorm Kadroİstiyor](http://twitter.com/search?q=B%c4%b0TNorm+Kadro%c4%b0stiyor) | N/A |
-| 10 | [#TürkiyedePolisOlmak](http://twitter.com/search?q=%23T%c3%bcrkiyedePolisOlmak) | N/A |
-| 11 | [#ARvarmıTFF](http://twitter.com/search?q=%23ARvarm%c4%b1TFF) | N/A |
-| 12 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 13 | [GeçiciBitti SıraTaşeronda](http://twitter.com/search?q=Ge%c3%a7iciBitti+S%c4%b1raTa%c5%9feronda) | N/A |
-| 14 | [Montajcı Kemal](http://twitter.com/search?q=Montajc%c4%b1+Kemal) | N/A |
-| 15 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 16 | [TOPRAĞIN ALTI SİZİN](http://twitter.com/search?q=TOPRA%c4%9eIN+ALTI+S%c4%b0Z%c4%b0N) | N/A |
-| 17 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 18 | [Kraliçe YarınKanalDde](http://twitter.com/search?q=Krali%c3%a7e+Yar%c4%b1nKanalDde) | N/A |
-| 19 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 20 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
-| 21 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 22 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 23 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
-| 24 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 25 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 26 | [Temel](http://twitter.com/search?q=Temel) | N/A |
-| 27 | [Oktrol](http://twitter.com/search?q=Oktrol) | N/A |
-| 28 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
-| 29 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
-| 30 | [EvimSensin TugOz](http://twitter.com/search?q=EvimSensin+TugOz) | N/A |
-| 31 | [Afra Saraçoğlu](http://twitter.com/search?q=Afra+Sara%c3%a7o%c4%9flu) | N/A |
-| 32 | [Nevzat](http://twitter.com/search?q=Nevzat) | N/A |
-| 33 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 34 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 35 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 36 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 37 | [İYİ Kİ VARSIN](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+VARSIN) | N/A |
-| 38 | [Cumhurbaşkanımız](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 39 | [Ahlaklı](http://twitter.com/search?q=Ahlakl%c4%b1) | N/A |
-| 40 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 41 | [Erva](http://twitter.com/search?q=Erva) | N/A |
-| 42 | [İPSİZLER SESSİZ](http://twitter.com/search?q=%c4%b0PS%c4%b0ZLER+SESS%c4%b0Z) | N/A |
-| 43 | [Sırrı Süreyya Önder](http://twitter.com/search?q=S%c4%b1rr%c4%b1+S%c3%bcreyya+%c3%96nder) | N/A |
-| 44 | [Müze](http://twitter.com/search?q=M%c3%bcze) | N/A |
-| 45 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
-| 46 | [Melis](http://twitter.com/search?q=Melis) | N/A |
-| 47 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 48 | [Kaset](http://twitter.com/search?q=Kaset) | N/A |
-| 49 | [Aktroller](http://twitter.com/search?q=Aktroller) | N/A |
-| 50 | [Yemedi](http://twitter.com/search?q=Yemedi) | Yemedi is a Yoruba word that means "to eat". In English, it can be used to describe the act of eating or consuming food. |
+| 8 | [BİTNorm Kadroİstiyor](http://twitter.com/search?q=B%c4%b0TNorm+Kadro%c4%b0stiyor) | N/A |
+| 9 | [ÖzelSektr ÖğrtmnKadro](http://twitter.com/search?q=%c3%96zelSektr+%c3%96%c4%9frtmnKadro) | N/A |
+| 10 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
+| 11 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 12 | [GeçiciBitti SıraTaşeronda](http://twitter.com/search?q=Ge%c3%a7iciBitti+S%c4%b1raTa%c5%9feronda) | N/A |
+| 13 | [TOPRAĞIN ALTI SİZİN](http://twitter.com/search?q=TOPRA%c4%9eIN+ALTI+S%c4%b0Z%c4%b0N) | N/A |
+| 14 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 15 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 16 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 17 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
+| 18 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 19 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
+| 20 | [Calathes](http://twitter.com/search?q=Calathes) | N/A |
+| 21 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 22 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
+| 23 | [Kraliçe YarınKanalDde](http://twitter.com/search?q=Krali%c3%a7e+Yar%c4%b1nKanalDde) | N/A |
+| 24 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 25 | [Temel](http://twitter.com/search?q=Temel) | N/A |
+| 26 | [Nevzat](http://twitter.com/search?q=Nevzat) | N/A |
+| 27 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 28 | [Altaylı](http://twitter.com/search?q=Altayl%c4%b1) | N/A |
+| 29 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 30 | [Vartolu](http://twitter.com/search?q=Vartolu) | N/A |
+| 31 | [Oktrol](http://twitter.com/search?q=Oktrol) | N/A |
+| 32 | [Portakalı](http://twitter.com/search?q=Portakal%c4%b1) | N/A |
+| 33 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
+| 34 | [Yusuf Kaplan](http://twitter.com/search?q=Yusuf+Kaplan) | N/A |
+| 35 | [Kaset](http://twitter.com/search?q=Kaset) | N/A |
+| 36 | [EvimSensin TugOz](http://twitter.com/search?q=EvimSensin+TugOz) | N/A |
+| 37 | [BİZ HAZIRIZ REİS HAZIR](http://twitter.com/search?q=B%c4%b0Z+HAZIRIZ+RE%c4%b0S+HAZIR) | N/A |
+| 38 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
+| 39 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 40 | [Afra Saraçoğlu](http://twitter.com/search?q=Afra+Sara%c3%a7o%c4%9flu) | N/A |
+| 41 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
+| 42 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 43 | [Fatih Bey](http://twitter.com/search?q=Fatih+Bey) | N/A |
+| 44 | [Cumhurbaşkanımız](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 45 | [İYİ Kİ VARSIN](http://twitter.com/search?q=%c4%b0Y%c4%b0+K%c4%b0+VARSIN) | N/A |
+| 46 | [Ahlaklı](http://twitter.com/search?q=Ahlakl%c4%b1) | N/A |
+| 47 | [İPSİZLER SESSİZ](http://twitter.com/search?q=%c4%b0PS%c4%b0ZLER+SESS%c4%b0Z) | N/A |
+| 48 | [Erva](http://twitter.com/search?q=Erva) | N/A |
+| 49 | [Müze](http://twitter.com/search?q=M%c3%bcze) | N/A |
+| 50 | [Buket](http://twitter.com/search?q=Buket) | N/A |
 
 
 

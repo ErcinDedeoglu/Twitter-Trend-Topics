@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-21 19:17:07 UTC`
+📆 Last Updated: `2023-03-21 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
-| 2 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 1 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 2 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
 | 3 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
 | 4 | [Raila](http://twitter.com/search?q=Raila) | N/A |
 | 5 | [#AbidjanGrandArrival](http://twitter.com/search?q=%23AbidjanGrandArrival) | N/A |
 | 6 | [#InternationalDayofForests](http://twitter.com/search?q=%23InternationalDayofForests) | N/A |
-| 7 | [#InternationalDayofForests](http://twitter.com/search?q=%23InternationalDayofForests) | N/A |
+| 7 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 | 8 | [Safaricom](http://twitter.com/search?q=Safaricom) | N/A |
-| 9 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 10 | [The Star](http://twitter.com/search?q=The+Star) | N/A |
-| 11 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
-| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 13 | [Muhoho Kenyatta](http://twitter.com/search?q=Muhoho+Kenyatta) | N/A |
-| 14 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
-| 15 | [Radio Africa](http://twitter.com/search?q=Radio+Africa) | N/A |
-| 16 | [Kg to Ksh](http://twitter.com/search?q=Kg+to+Ksh) | N/A |
-| 17 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 18 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
-| 19 | [Adopt](http://twitter.com/search?q=Adopt) | N/A |
-| 20 | [Kakamega Forest](http://twitter.com/search?q=Kakamega+Forest) | N/A |
-| 21 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 22 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
-| 23 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 9 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 10 | [Pilau](http://twitter.com/search?q=Pilau) | N/A |
+| 11 | [The Star](http://twitter.com/search?q=The+Star) | N/A |
+| 12 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
+| 13 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 14 | [muhoho kenyatta](http://twitter.com/search?q=muhoho+kenyatta) | N/A |
+| 15 | [Ledama](http://twitter.com/search?q=Ledama) | N/A |
+| 16 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 17 | [Radio Africa](http://twitter.com/search?q=Radio+Africa) | N/A |
+| 18 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 19 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 20 | [Karigoh](http://twitter.com/search?q=Karigoh) | N/A |
+| 21 | [NO HANDSHAKE](http://twitter.com/search?q=NO+HANDSHAKE) | N/A |
+| 22 | [Kg to Ksh](http://twitter.com/search?q=Kg+to+Ksh) | N/A |
+| 23 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
 | 24 | [UDA MPs](http://twitter.com/search?q=UDA+MPs) | N/A |
-| 25 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 26 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 27 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 25 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
+| 26 | [Adopt](http://twitter.com/search?q=Adopt) | N/A |
+| 27 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
 | 28 | [Rong Rende](http://twitter.com/search?q=Rong+Rende) | N/A |
-| 29 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 30 | [serena hotel](http://twitter.com/search?q=serena+hotel) | N/A |
-| 31 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 32 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 33 | [Walls](http://twitter.com/search?q=Walls) | N/A |
-| 34 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
-| 35 | [Laikipia County](http://twitter.com/search?q=Laikipia+County) | N/A |
-| 36 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
-| 37 | [Ksh 24.35](http://twitter.com/search?q=Ksh+24.35) | N/A |
-| 38 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
-| 39 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 40 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 41 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
-| 42 | [Monday and Friday](http://twitter.com/search?q=Monday+and+Friday) | N/A |
-| 43 | [Mumias](http://twitter.com/search?q=Mumias) | N/A |
-| 44 | [KICC](http://twitter.com/search?q=KICC) | N/A |
-| 45 | [Unga](http://twitter.com/search?q=Unga) | N/A |
-| 46 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 47 | [NCBA](http://twitter.com/search?q=NCBA) | N/A |
-| 48 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 49 | [Omondi](http://twitter.com/search?q=Omondi) | N/A |
-| 50 | [Mitumba](http://twitter.com/search?q=Mitumba) | N/A |
+| 29 | [Telkom Kenya](http://twitter.com/search?q=Telkom+Kenya) | N/A |
+| 30 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 31 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 32 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 33 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 34 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
+| 35 | [serena hotel](http://twitter.com/search?q=serena+hotel) | N/A |
+| 36 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 37 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 38 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 39 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 40 | [Tom Mboya Street](http://twitter.com/search?q=Tom+Mboya+Street) | N/A |
+| 41 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
+| 42 | [Walls](http://twitter.com/search?q=Walls) | N/A |
+| 43 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
+| 44 | [Ksh 24.35](http://twitter.com/search?q=Ksh+24.35) | N/A |
+| 45 | [Eastleigh](http://twitter.com/search?q=Eastleigh) | N/A |
+| 46 | [Kakamega](http://twitter.com/search?q=Kakamega) | N/A |
+| 47 | [Ole Kina](http://twitter.com/search?q=Ole+Kina) | N/A |
+| 48 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 49 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 50 | [Unga](http://twitter.com/search?q=Unga) | N/A |
 
 
 

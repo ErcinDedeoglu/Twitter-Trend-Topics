@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-21 19:17:04 UTC`
+📆 Last Updated: `2023-03-21 20:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,41 +18,53 @@ This is top 50 for Chile
 | 1 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
 | 2 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
 | 3 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 4 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 5 | [Melipilla](http://twitter.com/search?q=Melipilla) | N/A |
-| 6 | [Pato Yañez](http://twitter.com/search?q=Pato+Ya%c3%b1ez) | N/A |
-| 7 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 8 | [Marcelo Lagos](http://twitter.com/search?q=Marcelo+Lagos) | N/A |
-| 9 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
-| 10 | [Mercalli](http://twitter.com/search?q=Mercalli) | N/A |
-| 11 | [Valparaíso](http://twitter.com/search?q=Valpara%c3%adso) | N/A |
-| 12 | [#Santiago](http://twitter.com/search?q=%23Santiago) | N/A |
-| 13 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 14 | [Valpo](http://twitter.com/search?q=Valpo) | N/A |
-| 15 | ["Ñaju"](http://twitter.com/search?q=%22%c3%91aju%22) | N/A |
-| 16 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 17 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 18 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 19 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 20 | [Fach](http://twitter.com/search?q=Fach) | N/A |
-| 21 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 22 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 23 | [Narco](http://twitter.com/search?q=Narco) | N/A |
-| 24 | [Tucapel Jiménez](http://twitter.com/search?q=Tucapel+Jim%c3%a9nez) | N/A |
-| 25 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 26 | [Chancho](http://twitter.com/search?q=Chancho) | N/A |
-| 27 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 29 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 30 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
-| 31 | [Mateluna](http://twitter.com/search?q=Mateluna) | N/A |
-| 32 | [#HumanosAMarte](http://twitter.com/search?q=%23HumanosAMarte) | N/A |
-| 33 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 34 | [#DíaMundialDeLaPoesía](http://twitter.com/search?q=%23D%c3%adaMundialDeLaPoes%c3%ada) | N/A |
-| 35 | [#AutoPrestamo](http://twitter.com/search?q=%23AutoPrestamo) | N/A |
-| 36 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
-| 37 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
-| 38 | [#InsultoPresidencial](http://twitter.com/search?q=%23InsultoPresidencial) | N/A |
+| 4 | [Melipilla](http://twitter.com/search?q=Melipilla) | N/A |
+| 5 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
+| 6 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 7 | [Pato Yañez](http://twitter.com/search?q=Pato+Ya%c3%b1ez) | N/A |
+| 8 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
+| 9 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
+| 10 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 11 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 12 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
+| 13 | [Eduardo Ravani](http://twitter.com/search?q=Eduardo+Ravani) | N/A |
+| 14 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 15 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 16 | [Mercalli](http://twitter.com/search?q=Mercalli) | N/A |
+| 17 | [Tucapel Jiménez](http://twitter.com/search?q=Tucapel+Jim%c3%a9nez) | N/A |
+| 18 | [Mateluna](http://twitter.com/search?q=Mateluna) | N/A |
+| 19 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 20 | [Valparaíso](http://twitter.com/search?q=Valpara%c3%adso) | N/A |
+| 21 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 22 | [Fue 5.5](http://twitter.com/search?q=Fue+5.5) | N/A |
+| 23 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 24 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
+| 25 | [Cerro San Cristobal](http://twitter.com/search?q=Cerro+San+Cristobal) | N/A |
+| 26 | [informe especial](http://twitter.com/search?q=informe+especial) | N/A |
+| 27 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 28 | [Bolsillo Familiar Electrónico](http://twitter.com/search?q=Bolsillo+Familiar+Electr%c3%b3nico) | N/A |
+| 29 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
+| 30 | ["Ñaju"](http://twitter.com/search?q=%22%c3%91aju%22) | N/A |
+| 31 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 32 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 33 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 34 | [Senapred](http://twitter.com/search?q=Senapred) | N/A |
+| 35 | [Violeta Parra](http://twitter.com/search?q=Violeta+Parra) | N/A |
+| 36 | [Despertó](http://twitter.com/search?q=Despert%c3%b3) | N/A |
+| 37 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 38 | [Gaspar Rivas](http://twitter.com/search?q=Gaspar+Rivas) | N/A |
+| 39 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 40 | [Fach](http://twitter.com/search?q=Fach) | N/A |
+| 41 | [Pensó](http://twitter.com/search?q=Pens%c3%b3) | N/A |
+| 42 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 43 | [Matilde](http://twitter.com/search?q=Matilde) | N/A |
+| 44 | [Jappening](http://twitter.com/search?q=Jappening) | N/A |
+| 45 | [Santiaguinos](http://twitter.com/search?q=Santiaguinos) | N/A |
+| 46 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 47 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
+| 48 | [Chancho](http://twitter.com/search?q=Chancho) | N/A |
+| 49 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 50 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
 
 
 

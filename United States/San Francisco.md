@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-21 19:17:02 UTC`
+📆 Last Updated: `2023-03-21 20:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 2 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 3 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 1 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 2 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 3 | [Zach](http://twitter.com/search?q=Zach) | N/A |
 | 4 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 5 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 6 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 7 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 8 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 9 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 11 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 12 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 13 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 5 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 8 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 9 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 10 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 12 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 13 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
 | 14 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 15 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 16 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 17 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 18 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 19 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 20 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 21 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 22 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 23 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 24 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 25 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 26 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
-| 27 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 28 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 29 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 30 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 31 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 33 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 34 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
-| 35 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 36 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 37 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 38 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 39 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 40 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 41 | [Jack Antonoff](http://twitter.com/search?q=Jack+Antonoff) | N/A |
-| 42 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 43 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 44 | [DPReview](http://twitter.com/search?q=DPReview) | N/A |
-| 45 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
-| 46 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 47 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 48 | [Roc Royal](http://twitter.com/search?q=Roc+Royal) | N/A |
-| 49 | [Stephen Jackson](http://twitter.com/search?q=Stephen+Jackson) | N/A |
-| 50 | [rina](http://twitter.com/search?q=rina) | N/A |
+| 15 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 16 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 17 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 18 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 19 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 20 | [Witty](http://twitter.com/search?q=Witty) | N/A |
+| 21 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 22 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
+| 23 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 24 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 25 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 26 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 27 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 28 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 29 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 30 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 31 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
+| 32 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 33 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 34 | [Anik](http://twitter.com/search?q=Anik) | N/A |
+| 35 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 36 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
+| 37 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 38 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 39 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 40 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 42 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 43 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
+| 44 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 45 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 46 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 47 | [Knick](http://twitter.com/search?q=Knick) | N/A |
+| 48 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 49 | [Avi Kwa Ame](http://twitter.com/search?q=Avi+Kwa+Ame) | N/A |
+| 50 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
 
 
 
