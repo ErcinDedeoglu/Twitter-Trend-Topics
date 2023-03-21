@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-21 17:16:47 UTC`
+📆 Last Updated: `2023-03-21 18:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [#ColombiaVaBien](http://twitter.com/search?q=%23ColombiaVaBien) | N/A |
 | 4 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
 | 5 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
-| 6 | [#ColombiaVaMal](http://twitter.com/search?q=%23ColombiaVaMal) | N/A |
-| 7 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 8 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
-| 9 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
+| 8 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 9 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
 | 10 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
 | 11 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
-| 12 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
-| 13 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 14 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 15 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 16 | [Daniel Quintero](http://twitter.com/search?q=Daniel+Quintero) | N/A |
-| 17 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 18 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 19 | [Alexandra Agudelo](http://twitter.com/search?q=Alexandra+Agudelo) | N/A |
-| 20 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 21 | [riquett](http://twitter.com/search?q=riquett) | N/A |
-| 22 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
-| 23 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 24 | [Pulso](http://twitter.com/search?q=Pulso) | N/A |
-| 25 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 26 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
-| 27 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 12 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 13 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
+| 14 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
+| 15 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 16 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 17 | [Francisco Barbosa](http://twitter.com/search?q=Francisco+Barbosa) | N/A |
+| 18 | [Giulio Ciccone](http://twitter.com/search?q=Giulio+Ciccone) | N/A |
+| 19 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 20 | [Alexandra Agudelo](http://twitter.com/search?q=Alexandra+Agudelo) | N/A |
+| 21 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
+| 22 | [Daniel Quintero](http://twitter.com/search?q=Daniel+Quintero) | N/A |
+| 23 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 24 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 25 | [Chavito](http://twitter.com/search?q=Chavito) | N/A |
+| 26 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 27 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
 | 28 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 29 | [Guerrerista](http://twitter.com/search?q=Guerrerista) | N/A |
-| 30 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 29 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 30 | [Aries](http://twitter.com/search?q=Aries) | N/A |
 | 31 | [nariz del diablo](http://twitter.com/search?q=nariz+del+diablo) | N/A |
-| 32 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 33 | [Bobadas](http://twitter.com/search?q=Bobadas) | N/A |
-| 34 | [Francisco Barbosa](http://twitter.com/search?q=Francisco+Barbosa) | N/A |
-| 35 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
-| 36 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 37 | [MinSalud e Invima](http://twitter.com/search?q=MinSalud+e+Invima) | N/A |
-| 38 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 39 | [Paraca](http://twitter.com/search?q=Paraca) | N/A |
-| 40 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 41 | [Dinas](http://twitter.com/search?q=Dinas) | N/A |
-| 42 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 43 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 44 | [Ana Piñeres](http://twitter.com/search?q=Ana+Pi%c3%b1eres) | N/A |
-| 45 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 46 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 47 | [Plan Nacional de Desarrollo](http://twitter.com/search?q=Plan+Nacional+de+Desarrollo) | N/A |
-| 48 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 49 | [Llaneros](http://twitter.com/search?q=Llaneros) | N/A |
-| 50 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
+| 32 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 33 | [Balboa](http://twitter.com/search?q=Balboa) | N/A |
+| 34 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 35 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 36 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
+| 37 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 38 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 39 | [Dinas](http://twitter.com/search?q=Dinas) | N/A |
+| 40 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 41 | [ana piñeres](http://twitter.com/search?q=ana+pi%c3%b1eres) | N/A |
+| 42 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 43 | [Guerrerista](http://twitter.com/search?q=Guerrerista) | N/A |
+| 44 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
+| 45 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
+| 46 | [Marta Lucía](http://twitter.com/search?q=Marta+Luc%c3%ada) | N/A |
+| 47 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
+| 48 | [Otoniel](http://twitter.com/search?q=Otoniel) | N/A |
+| 49 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 50 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
 
 
 

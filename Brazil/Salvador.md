@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-21 17:16:49 UTC`
+📆 Last Updated: `2023-03-21 18:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
-| 2 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 3 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 4 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 2 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 4 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
 | 5 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 6 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 7 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
-| 8 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 9 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 6 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 7 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 8 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 9 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
 | 10 | [Apito](http://twitter.com/search?q=Apito) | N/A |
-| 11 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 12 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 13 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 14 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 15 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
-| 16 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
-| 17 | [#LikeCrazy_Is_Coming](http://twitter.com/search?q=%23LikeCrazy_Is_Coming) | N/A |
+| 11 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 12 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 13 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
+| 14 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 15 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 16 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 17 | [Senna](http://twitter.com/search?q=Senna) | N/A |
 | 18 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
-| 19 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
-| 20 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 21 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 22 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
-| 23 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 24 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 25 | [chay](http://twitter.com/search?q=chay) | N/A |
-| 26 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
-| 27 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 28 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
-| 29 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 30 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
-| 31 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
-| 32 | [Kled](http://twitter.com/search?q=Kled) | N/A |
-| 33 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 34 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 35 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
-| 36 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
-| 37 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
-| 38 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
-| 39 | [Mariano Diaz](http://twitter.com/search?q=Mariano+Diaz) | N/A |
-| 40 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 41 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 42 | [vivienne westwood](http://twitter.com/search?q=vivienne+westwood) | N/A |
-| 43 | [Fernanda Colombo](http://twitter.com/search?q=Fernanda+Colombo) | N/A |
-| 44 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 46 | [Kindred](http://twitter.com/search?q=Kindred) | N/A |
-| 47 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 48 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 49 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 50 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 19 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 20 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 21 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
+| 22 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 23 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 24 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
+| 25 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 26 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 27 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
+| 28 | [chay](http://twitter.com/search?q=chay) | N/A |
+| 29 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 30 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
+| 31 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
+| 32 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 33 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
+| 34 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 35 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 36 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 37 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 38 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
+| 39 | [jack antonoff](http://twitter.com/search?q=jack+antonoff) | Jack Antonoff is an American singer, songwriter, and record producer. He is best known as the lead singer of the indie rock band Bleachers and as a member of the band Fun. He has also produced albums for Taylor Swift, Lorde, St. Vincent, and Lana Del Rey. |
+| 40 | [Kled](http://twitter.com/search?q=Kled) | N/A |
+| 41 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 42 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
+| 43 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [Fernanda Colombo](http://twitter.com/search?q=Fernanda+Colombo) | N/A |
+| 46 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
+| 47 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
+| 48 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
+| 49 | [jype](http://twitter.com/search?q=jype) | N/A |
+| 50 | [Charli XCX](http://twitter.com/search?q=Charli+XCX) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-21 17:16:55 UTC`
+📆 Last Updated: `2023-03-21 18:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 3 | [#Heide](http://twitter.com/search?q=%23Heide) | N/A |
 | 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 5 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 6 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 5 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 6 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
 | 7 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 10 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
 | 11 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
 | 12 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 13 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 14 | [Mädchens](http://twitter.com/search?q=M%c3%a4dchens) | N/A |
-| 15 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
-| 16 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 17 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 18 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
-| 19 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
-| 20 | [Freier](http://twitter.com/search?q=Freier) | N/A |
-| 21 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 22 | [Mobbing](http://twitter.com/search?q=Mobbing) | N/A |
-| 23 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 24 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 25 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
-| 26 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 27 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 28 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 29 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 30 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
-| 31 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 13 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 14 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
+| 15 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 16 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
+| 17 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 18 | [Freier](http://twitter.com/search?q=Freier) | N/A |
+| 19 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 20 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
+| 21 | [Mädchens](http://twitter.com/search?q=M%c3%a4dchens) | N/A |
+| 22 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 23 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 24 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
+| 25 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 26 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 27 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
+| 28 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
+| 29 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 30 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 31 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
 | 32 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 33 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
-| 34 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 35 | [Familiennamen](http://twitter.com/search?q=Familiennamen) | N/A |
-| 36 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
-| 37 | [Weltklimarat](http://twitter.com/search?q=Weltklimarat) | N/A |
-| 38 | [Verkehrsminister](http://twitter.com/search?q=Verkehrsminister) | N/A |
-| 39 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 40 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
-| 41 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
-| 42 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
-| 43 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 44 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 45 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
-| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 47 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
-| 48 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 33 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 34 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
+| 35 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
+| 36 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
+| 37 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 38 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 39 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
+| 40 | [Familiennamen](http://twitter.com/search?q=Familiennamen) | N/A |
+| 41 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
+| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 43 | [Ministerpräsident](http://twitter.com/search?q=Ministerpr%c3%a4sident) | N/A |
+| 44 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
+| 45 | [Dreckspack](http://twitter.com/search?q=Dreckspack) | N/A |
+| 46 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 47 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 48 | [Mädchengruppe](http://twitter.com/search?q=M%c3%a4dchengruppe) | N/A |
 
 
 

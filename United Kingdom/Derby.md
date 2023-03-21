@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-21 17:16:41 UTC`
+📆 Last Updated: `2023-03-21 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AIUK](http://twitter.com/search?q=%23AIUK) | N/A |
-| 2 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 3 | [#EnglishTourismWeek23](http://twitter.com/search?q=%23EnglishTourismWeek23) | N/A |
-| 4 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 5 | [#SocialWorkWeek2023](http://twitter.com/search?q=%23SocialWorkWeek2023) | N/A |
-| 6 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 7 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
-| 8 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 9 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 1 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 2 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 3 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 4 | [#AIUK](http://twitter.com/search?q=%23AIUK) | N/A |
+| 5 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 6 | [#Derby](http://twitter.com/search?q=%23Derby) | N/A |
+| 7 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 9 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
 | 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 14 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 16 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
-| 17 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 18 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 19 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 20 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 21 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 22 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 23 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 24 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 25 | [Ben Bradley](http://twitter.com/search?q=Ben+Bradley) | N/A |
-| 26 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 28 | [Just Eat](http://twitter.com/search?q=Just+Eat) | N/A |
-| 29 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 30 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 31 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
-| 32 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
-| 33 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
-| 34 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 35 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 36 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 37 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
-| 38 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 39 | [Primark](http://twitter.com/search?q=Primark) | N/A |
-| 40 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 41 | [Timothy Dalton](http://twitter.com/search?q=Timothy+Dalton) | N/A |
+| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 13 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 14 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
+| 15 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 16 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 17 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 18 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 19 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 20 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 21 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 22 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 23 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 24 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 25 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 26 | [Just Eat](http://twitter.com/search?q=Just+Eat) | N/A |
+| 27 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 28 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 29 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 30 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 31 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 32 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
+| 33 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 34 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 35 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 36 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 37 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 38 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
+| 39 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
+| 40 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 41 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
 | 42 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 43 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 43 | [Primark](http://twitter.com/search?q=Primark) | N/A |
 | 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 45 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 46 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 47 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 46 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 47 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
 | 48 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 49 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 49 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
 
 
 

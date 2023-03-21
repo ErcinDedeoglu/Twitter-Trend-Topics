@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-21 17:17:33 UTC`
+📆 Last Updated: `2023-03-21 18:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 2 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 4 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 5 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 6 | [#StevensInFilmsOrSongs](http://twitter.com/search?q=%23StevensInFilmsOrSongs) | N/A |
-| 7 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 8 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
-| 9 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 10 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [TOO MUCH SILENCE](http://twitter.com/search?q=TOO+MUCH+SILENCE) | N/A |
-| 14 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 1 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 2 | [#WorldPoetryDay2023](http://twitter.com/search?q=%23WorldPoetryDay2023) | N/A |
+| 3 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 4 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 5 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 6 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 8 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 9 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
+| 10 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 12 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
+| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 14 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 | 15 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 16 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 17 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 16 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 17 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
 | 18 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 19 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 20 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 19 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 20 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
 | 21 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 22 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 23 | [Ben Bradley](http://twitter.com/search?q=Ben+Bradley) | N/A |
+| 22 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 23 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 24 | [Just Eat](http://twitter.com/search?q=Just+Eat) | N/A |
-| 25 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 26 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 27 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
+| 25 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 26 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 27 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
 | 28 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 29 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
-| 30 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
-| 31 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 32 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 33 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 34 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
-| 35 | [Primark](http://twitter.com/search?q=Primark) | N/A |
+| 29 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 30 | [Jimmy White](http://twitter.com/search?q=Jimmy+White) | N/A |
+| 31 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 32 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 33 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 34 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 35 | [No 10](http://twitter.com/search?q=No+10) | N/A |
 | 36 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 37 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 39 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 40 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 41 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 42 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 43 | [Sarah Everard](http://twitter.com/search?q=Sarah+Everard) | N/A |
-| 44 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 45 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 46 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 37 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 38 | [Great British Railways](http://twitter.com/search?q=Great+British+Railways) | N/A |
+| 39 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 40 | [Talksport](http://twitter.com/search?q=Talksport) | N/A |
+| 41 | [Eton](http://twitter.com/search?q=Eton) | N/A |
+| 42 | [Primark](http://twitter.com/search?q=Primark) | N/A |
+| 43 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 44 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 45 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 46 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
 | 47 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 48 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 49 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 50 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 48 | [Cantona](http://twitter.com/search?q=Cantona) | N/A |
+| 49 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
+| 50 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
 
 
 

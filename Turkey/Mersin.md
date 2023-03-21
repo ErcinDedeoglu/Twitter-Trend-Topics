@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-21 17:17:16 UTC`
+📆 Last Updated: `2023-03-21 18:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HalkPsikologİstiyor](http://twitter.com/search?q=%23HalkPsikolog%c4%b0stiyor) | N/A |
-| 2 | [#KocaAsistnHekimeSahipÇık](http://twitter.com/search?q=%23KocaAsistnHekimeSahip%c3%87%c4%b1k) | N/A |
-| 3 | [GSBtayiniOlumluAçıklayın](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1klay%c4%b1n) | N/A |
-| 4 | [#ARvarmıTFF](http://twitter.com/search?q=%23ARvarm%c4%b1TFF) | N/A |
-| 5 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
-| 6 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 7 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
-| 8 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 9 | [Kraliçe YarınKanalDde](http://twitter.com/search?q=Krali%c3%a7e+Yar%c4%b1nKanalDde) | N/A |
-| 10 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
-| 11 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
-| 12 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
-| 13 | [30 Bin Emanet Üye](http://twitter.com/search?q=30+Bin+Emanet+%c3%9cye) | N/A |
-| 14 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 15 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 16 | [Oktrol](http://twitter.com/search?q=Oktrol) | N/A |
-| 17 | [Müze](http://twitter.com/search?q=M%c3%bcze) | N/A |
-| 18 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 19 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
-| 20 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
-| 21 | [Erva](http://twitter.com/search?q=Erva) | N/A |
-| 22 | [Melis](http://twitter.com/search?q=Melis) | N/A |
-| 23 | [Yemedi](http://twitter.com/search?q=Yemedi) | Yemedi is a Yoruba word that means "to eat". In English, it can be used to describe the act of eating or consuming food. |
-| 24 | [Kıyamet Geliyor](http://twitter.com/search?q=K%c4%b1yamet+Geliyor) | N/A |
-| 25 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 26 | [Ahlaklı](http://twitter.com/search?q=Ahlakl%c4%b1) | N/A |
-| 27 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
-| 28 | [Karadenizli](http://twitter.com/search?q=Karadenizli) | N/A |
-| 29 | [Genel Başkanımız Sn](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 30 | [Sapla](http://twitter.com/search?q=Sapla) | N/A |
-| 31 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
-| 32 | [Aktroller](http://twitter.com/search?q=Aktroller) | N/A |
-| 33 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 34 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
-| 35 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
-| 36 | [Cenk Tosun](http://twitter.com/search?q=Cenk+Tosun) | Cenk Tosun is a Turkish professional footballer who plays as a striker for Premier League club Everton and the Turkey national team. His name translates to "Full of Courage" in English. |
-| 37 | [İlçe Başkanımız Sn](http://twitter.com/search?q=%c4%b0l%c3%a7e+Ba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
-| 38 | [Orman Haftası](http://twitter.com/search?q=Orman+Haftas%c4%b1) | N/A |
-| 39 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
-| 40 | [Yemez](http://twitter.com/search?q=Yemez) | N/A |
-| 41 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 42 | [Türker Ertürk](http://twitter.com/search?q=T%c3%bcrker+Ert%c3%bcrk) | N/A |
-| 43 | [100 Bin](http://twitter.com/search?q=100+Bin) | N/A |
-| 44 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
-| 45 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 46 | [Hızır](http://twitter.com/search?q=H%c4%b1z%c4%b1r) | N/A |
-| 47 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 48 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 2 | [Dibyedekleremüjde](http://twitter.com/search?q=Dibyedeklerem%c3%bcjde) | N/A |
+| 3 | [Denkliği ErdoğanÇözer](http://twitter.com/search?q=Denkli%c4%9fi+Erdo%c4%9fan%c3%87%c3%b6zer) | N/A |
+| 4 | [#KocaAsistnHekimeSahipÇık](http://twitter.com/search?q=%23KocaAsistnHekimeSahip%c3%87%c4%b1k) | N/A |
+| 5 | [GSBtayiniOlumluAçıklayın](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1klay%c4%b1n) | N/A |
+| 6 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
+| 7 | [ÖzelSektr ÖğrtmnKadro](http://twitter.com/search?q=%c3%96zelSektr+%c3%96%c4%9frtmnKadro) | N/A |
+| 8 | [#ARvarmıTFF](http://twitter.com/search?q=%23ARvarm%c4%b1TFF) | N/A |
+| 9 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 10 | [Montajcı Kemal](http://twitter.com/search?q=Montajc%c4%b1+Kemal) | N/A |
+| 11 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 12 | [Kraliçe YarınKanalDde](http://twitter.com/search?q=Krali%c3%a7e+Yar%c4%b1nKanalDde) | N/A |
+| 13 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 14 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
+| 15 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
+| 16 | [EvimSensin TugOz](http://twitter.com/search?q=EvimSensin+TugOz) | N/A |
+| 17 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
+| 18 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
+| 19 | [Oktrol](http://twitter.com/search?q=Oktrol) | N/A |
+| 20 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
+| 21 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 22 | [Müze](http://twitter.com/search?q=M%c3%bcze) | N/A |
+| 23 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 24 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
+| 25 | [Erva](http://twitter.com/search?q=Erva) | N/A |
+| 26 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 27 | [Cumhurbaşkanımız Sn](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 28 | [Yemedi](http://twitter.com/search?q=Yemedi) | Yemedi is a Yoruba word that means "to eat". In English, it can be used to describe the act of eating or consuming food. |
+| 29 | [İPSİZLER SESSİZ](http://twitter.com/search?q=%c4%b0PS%c4%b0ZLER+SESS%c4%b0Z) | N/A |
+| 30 | [Melis](http://twitter.com/search?q=Melis) | N/A |
+| 31 | [Ahlaklı](http://twitter.com/search?q=Ahlakl%c4%b1) | N/A |
+| 32 | [Afra Saraçoğlu](http://twitter.com/search?q=Afra+Sara%c3%a7o%c4%9flu) | N/A |
+| 33 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
+| 34 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
+| 35 | [Anayasaya](http://twitter.com/search?q=Anayasaya) | N/A |
+| 36 | [Genel Başkanımız Sn](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 37 | [Aktroller](http://twitter.com/search?q=Aktroller) | N/A |
+| 38 | [Hayırlı Ramazanlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Ramazanlar) | N/A |
+| 39 | [Karadenizli](http://twitter.com/search?q=Karadenizli) | N/A |
+| 40 | [Sırrı Süreyya Önder](http://twitter.com/search?q=S%c4%b1rr%c4%b1+S%c3%bcreyya+%c3%96nder) | N/A |
+| 41 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
+| 42 | [Nevruz Bayramı](http://twitter.com/search?q=Nevruz+Bayram%c4%b1) | N/A |
+| 43 | [Füze](http://twitter.com/search?q=F%c3%bcze) | N/A |
+| 44 | [İlçe Başkanımız Sn](http://twitter.com/search?q=%c4%b0l%c3%a7e+Ba%c5%9fkan%c4%b1m%c4%b1z+Sn) | N/A |
+| 45 | [Cem Uzan](http://twitter.com/search?q=Cem+Uzan) | N/A |
+| 46 | [Cenk Tosun](http://twitter.com/search?q=Cenk+Tosun) | Cenk Tosun is a Turkish professional footballer who plays as a striker for Premier League club Everton and the Turkey national team. His name translates to "Full of Courage" in English. |
+| 47 | [Sapla](http://twitter.com/search?q=Sapla) | N/A |
+| 48 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
 
 
 

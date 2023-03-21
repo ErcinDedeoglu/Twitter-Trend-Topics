@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-21 17:16:50 UTC`
+📆 Last Updated: `2023-03-21 18:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tasha](http://twitter.com/search?q=Tasha) | N/A |
-| 2 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 3 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 4 | [#ForaDomitila](http://twitter.com/search?q=%23ForaDomitila) | N/A |
-| 5 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 6 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 7 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 8 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 9 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
-| 10 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 11 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 1 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 2 | [Formiga](http://twitter.com/search?q=Formiga) | N/A |
+| 3 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 4 | [#JurosBaixosJá](http://twitter.com/search?q=%23JurosBaixosJ%c3%a1) | N/A |
+| 5 | [Feliz Aniversário](http://twitter.com/search?q=Feliz+Anivers%c3%a1rio) | N/A |
+| 6 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
+| 7 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 8 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 9 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 10 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 11 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
 | 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 13 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
+| 13 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
 | 14 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 15 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 15 | [Moro](http://twitter.com/search?q=Moro) | N/A |
 | 16 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 17 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
-| 18 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 19 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 20 | [Apito](http://twitter.com/search?q=Apito) | N/A |
+| 17 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 18 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
+| 19 | [Apito](http://twitter.com/search?q=Apito) | N/A |
+| 20 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
 | 21 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 22 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 23 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 24 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 25 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
-| 26 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
-| 27 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 28 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
-| 29 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 30 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
-| 31 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 32 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 33 | [chay](http://twitter.com/search?q=chay) | N/A |
-| 34 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
-| 35 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 36 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
-| 37 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 38 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
-| 39 | [Kled](http://twitter.com/search?q=Kled) | N/A |
-| 40 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 41 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
-| 42 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 43 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
-| 44 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
-| 45 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
-| 46 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
-| 47 | [Mariano Diaz](http://twitter.com/search?q=Mariano+Diaz) | N/A |
-| 48 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 49 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
+| 22 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
+| 23 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 24 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 26 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 27 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
+| 28 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 29 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 30 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
+| 31 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 32 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 33 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 34 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
+| 35 | [chay](http://twitter.com/search?q=chay) | N/A |
+| 36 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 37 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
+| 38 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
+| 39 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 40 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
+| 41 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 42 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 43 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 44 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 45 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
+| 46 | [jack antonoff](http://twitter.com/search?q=jack+antonoff) | Jack Antonoff is an American singer, songwriter, and record producer. He is best known as the lead singer of the indie rock band Bleachers and as a member of the band Fun. He has also produced albums for Taylor Swift, Lorde, St. Vincent, and Lana Del Rey. |
+| 47 | [Kled](http://twitter.com/search?q=Kled) | N/A |
+| 48 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 49 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-21 17:16:49 UTC`
+📆 Last Updated: `2023-03-21 18:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForaDomitila](http://twitter.com/search?q=%23ForaDomitila) | N/A |
-| 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 3 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 4 | [iduff](http://twitter.com/search?q=iduff) | N/A |
-| 5 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 6 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 7 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 8 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 10 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 11 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
-| 12 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 13 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 14 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 15 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
-| 16 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 17 | [Apito](http://twitter.com/search?q=Apito) | N/A |
-| 18 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 19 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 20 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 21 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 22 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
-| 23 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
-| 24 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 25 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
-| 26 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 27 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
-| 28 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 29 | [chay](http://twitter.com/search?q=chay) | N/A |
-| 30 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 31 | [Parabéns Bolsonaro](http://twitter.com/search?q=Parab%c3%a9ns+Bolsonaro) | N/A |
-| 32 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 33 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
-| 34 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 35 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
-| 36 | [Kled](http://twitter.com/search?q=Kled) | N/A |
-| 37 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
-| 38 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 39 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
-| 40 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
-| 41 | [JOELMA NO OTALAB](http://twitter.com/search?q=JOELMA+NO+OTALAB) | N/A |
-| 42 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
-| 43 | [Gabriel Leone](http://twitter.com/search?q=Gabriel+Leone) | N/A |
-| 44 | [Mariano Diaz](http://twitter.com/search?q=Mariano+Diaz) | N/A |
-| 45 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 46 | [Discriminação Racial](http://twitter.com/search?q=Discrimina%c3%a7%c3%a3o+Racial) | N/A |
-| 47 | [vivienne westwood](http://twitter.com/search?q=vivienne+westwood) | N/A |
-| 48 | [Fernanda Colombo](http://twitter.com/search?q=Fernanda+Colombo) | N/A |
-| 49 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
-| 50 | [Kindred](http://twitter.com/search?q=Kindred) | N/A |
+| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 2 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 3 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 4 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 5 | [iduff](http://twitter.com/search?q=iduff) | N/A |
+| 6 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 7 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 8 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 9 | [Feliz Aniversário](http://twitter.com/search?q=Feliz+Anivers%c3%a1rio) | N/A |
+| 10 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 11 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 13 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 14 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 15 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 16 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 17 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 18 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
+| 19 | [Apito](http://twitter.com/search?q=Apito) | N/A |
+| 20 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 21 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
+| 22 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 23 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 24 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 26 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 27 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
+| 28 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 29 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 30 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
+| 31 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 32 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
+| 33 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 34 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
+| 35 | [chay](http://twitter.com/search?q=chay) | N/A |
+| 36 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
+| 37 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 38 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
+| 39 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
+| 40 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
+| 41 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 42 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 43 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 44 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 45 | [Kled](http://twitter.com/search?q=Kled) | N/A |
+| 46 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
+| 47 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 48 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
+| 49 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 
