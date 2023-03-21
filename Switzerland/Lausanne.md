@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-21 08:17:16 UTC`
+📆 Last Updated: `2023-03-21 09:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 5 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
 | 6 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
 | 7 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 8 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 9 | [#paradeplatz](http://twitter.com/search?q=%23paradeplatz) | N/A |
-| 10 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
-| 11 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 12 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
-| 13 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 14 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 15 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
-| 16 | [Weko](http://twitter.com/search?q=Weko) | N/A |
-| 17 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 8 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 9 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 10 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 11 | [#paradeplatz](http://twitter.com/search?q=%23paradeplatz) | N/A |
+| 12 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
+| 13 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 14 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 15 | [Weko](http://twitter.com/search?q=Weko) | N/A |
+| 16 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 17 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
 | 18 | [Maurer](http://twitter.com/search?q=Maurer) | N/A |
-| 19 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
-| 20 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
-| 21 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
-| 22 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 23 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 24 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 25 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 26 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 19 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 20 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 21 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 22 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 23 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 24 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 25 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 26 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 27 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
 | 28 | [CS-Rettung](http://twitter.com/search?q=CS-Rettung) | N/A |
-| 29 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 30 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 31 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
-| 32 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 33 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 34 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 29 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
+| 30 | [Aktie](http://twitter.com/search?q=Aktie) | N/A |
+| 31 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
+| 32 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 33 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 34 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
 | 35 | [Finanzsystem](http://twitter.com/search?q=Finanzsystem) | N/A |
-| 36 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 36 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
 | 37 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 38 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
-| 39 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
-| 40 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 41 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
-| 42 | [raiffeisen](http://twitter.com/search?q=raiffeisen) | N/A |
-| 43 | [Thiam](http://twitter.com/search?q=Thiam) | N/A |
-| 44 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
-| 45 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
-| 46 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
-| 47 | [Mitarbeitenden](http://twitter.com/search?q=Mitarbeitenden) | N/A |
-| 48 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 49 | [itten](http://twitter.com/search?q=itten) | N/A |
+| 38 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 39 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 40 | [Missmanagement](http://twitter.com/search?q=Missmanagement) | N/A |
+| 41 | [Thiam](http://twitter.com/search?q=Thiam) | N/A |
+| 42 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 43 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
+| 44 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 45 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 46 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 47 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 48 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 49 | [Milliarden Franken](http://twitter.com/search?q=Milliarden+Franken) | N/A |
 
 
 

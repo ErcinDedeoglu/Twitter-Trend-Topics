@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-21 08:17:37 UTC`
+📆 Last Updated: `2023-03-21 09:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 7 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 8 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 9 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
-| 10 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 11 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 12 | [ChatGPT-4](http://twitter.com/search?q=ChatGPT-4) | N/A |
-| 13 | [andrew kirton](http://twitter.com/search?q=andrew+kirton) | N/A |
-| 14 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 15 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 16 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 17 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 18 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
-| 19 | [The Line](http://twitter.com/search?q=The+Line) | N/A |
-| 20 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
-| 21 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
-| 22 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
-| 23 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
-| 24 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 25 | [Minister of Police](http://twitter.com/search?q=Minister+of+Police) | N/A |
-| 26 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
-| 27 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 28 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
+| 10 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 11 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 12 | [andrew kirton](http://twitter.com/search?q=andrew+kirton) | N/A |
+| 13 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 14 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 15 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 16 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
+| 17 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 18 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
+| 19 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
+| 20 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
+| 21 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
+| 22 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 23 | [Minister of Police](http://twitter.com/search?q=Minister+of+Police) | N/A |
+| 24 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
+| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 26 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
+| 27 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 28 | [Pharmac](http://twitter.com/search?q=Pharmac) | N/A |
 | 29 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
-| 30 | [Pharmac](http://twitter.com/search?q=Pharmac) | N/A |
-| 31 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 32 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
-| 33 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
-| 34 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 35 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 36 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 39 | [#CricketNation](http://twitter.com/search?q=%23CricketNation) | N/A |
-| 40 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 41 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 42 | [David Cormack](http://twitter.com/search?q=David+Cormack) | N/A |
-| 43 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 44 | [Hutt](http://twitter.com/search?q=Hutt) | N/A |
-| 45 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 46 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 47 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 48 | [Sports Center](http://twitter.com/search?q=Sports+Center) | N/A |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 50 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 30 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 31 | [Apologies](http://twitter.com/search?q=Apologies) | N/A |
+| 32 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 33 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
+| 34 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [#CricketNation](http://twitter.com/search?q=%23CricketNation) | N/A |
+| 37 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 38 | [Corner Store](http://twitter.com/search?q=Corner+Store) | N/A |
+| 39 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 40 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 41 | [david cormack](http://twitter.com/search?q=david+cormack) | N/A |
+| 42 | [Hutt](http://twitter.com/search?q=Hutt) | N/A |
+| 43 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 44 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 48 | [the stop co govenance tour](http://twitter.com/search?q=the+stop+co+govenance+tour) | N/A |
+| 49 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
+| 50 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 
 
 

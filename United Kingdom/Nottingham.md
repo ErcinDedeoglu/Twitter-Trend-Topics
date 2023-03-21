@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-21 08:17:01 UTC`
+📆 Last Updated: `2023-03-21 09:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 2 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 3 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 4 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 5 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 6 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 7 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 8 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
-| 9 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 10 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 11 | [Baroness Casey](http://twitter.com/search?q=Baroness+Casey) | N/A |
-| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 13 | [Sir Mark Rowley](http://twitter.com/search?q=Sir+Mark+Rowley) | N/A |
-| 14 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 15 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 18 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 19 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 20 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 21 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
-| 22 | [Simon Armitage](http://twitter.com/search?q=Simon+Armitage) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 25 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 26 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 27 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 28 | [Happy Mothers](http://twitter.com/search?q=Happy+Mothers) | N/A |
-| 29 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 30 | [RIP Charlie](http://twitter.com/search?q=RIP+Charlie) | N/A |
-| 31 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 32 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 34 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 35 | [Couzens and Carrick](http://twitter.com/search?q=Couzens+and+Carrick) | N/A |
-| 36 | [Flora](http://twitter.com/search?q=Flora) | N/A |
-| 37 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 38 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 39 | [Loose Women](http://twitter.com/search?q=Loose+Women) | N/A |
-| 40 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 41 | [Ralphy](http://twitter.com/search?q=Ralphy) | N/A |
-| 42 | [Banoffee](http://twitter.com/search?q=Banoffee) | N/A |
-| 43 | [Ryan Mason](http://twitter.com/search?q=Ryan+Mason) | N/A |
-| 44 | [Ann Widdecombe](http://twitter.com/search?q=Ann+Widdecombe) | N/A |
-| 45 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 46 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 47 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 48 | [Reform](http://twitter.com/search?q=Reform) | N/A |
-| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 1 | [Forde](http://twitter.com/search?q=Forde) | N/A |
+| 2 | [#ClimateEmergency](http://twitter.com/search?q=%23ClimateEmergency) | N/A |
+| 3 | [#partygate](http://twitter.com/search?q=%23partygate) | N/A |
+| 4 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 5 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 6 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 7 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 8 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 9 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
+| 10 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 11 | [Macpherson](http://twitter.com/search?q=Macpherson) | N/A |
+| 12 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 13 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 14 | [Parish](http://twitter.com/search?q=Parish) | N/A |
+| 15 | [Policing](http://twitter.com/search?q=Policing) | N/A |
+| 16 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 17 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 18 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 19 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 20 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 21 | [Ruth Perry](http://twitter.com/search?q=Ruth+Perry) | N/A |
+| 22 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 23 | [#WDSD2023](http://twitter.com/search?q=%23WDSD2023) | N/A |
+| 24 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 25 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 26 | [#lotsofsocks](http://twitter.com/search?q=%23lotsofsocks) | N/A |
+| 27 | [#CaseyReport](http://twitter.com/search?q=%23CaseyReport) | N/A |
+| 28 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 29 | [#WithUsNotForUs](http://twitter.com/search?q=%23WithUsNotForUs) | N/A |
+| 30 | [#wswd2023](http://twitter.com/search?q=%23wswd2023) | N/A |
+| 31 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 32 | [#internationaldayofforests](http://twitter.com/search?q=%23internationaldayofforests) | N/A |
+| 33 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 34 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
+| 35 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 36 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 37 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 38 | [#ToriesOut257](http://twitter.com/search?q=%23ToriesOut257) | N/A |
+| 39 | [#discuss](http://twitter.com/search?q=%23discuss) | N/A |
+| 40 | [#oddsocks](http://twitter.com/search?q=%23oddsocks) | N/A |
+| 41 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 42 | [#Wordle640](http://twitter.com/search?q=%23Wordle640) | N/A |
+| 43 | [#Panorama](http://twitter.com/search?q=%23Panorama) | N/A |
+| 44 | [#johnsontheliar](http://twitter.com/search?q=%23johnsontheliar) | N/A |
+| 45 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 46 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
+| 47 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 
 
 
