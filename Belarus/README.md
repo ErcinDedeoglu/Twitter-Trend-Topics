@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-21 02:30:15 UTC`
+📆 Last Updated: `2023-03-21 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,20 @@ This is top 50 for Belarus
 | 6 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 | 7 | [белая русь](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%8f+%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 8 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 9 | [гааге](http://twitter.com/search?q=%d0%b3%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
-| 10 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 11 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 12 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 13 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 14 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 15 | [поздравляю](http://twitter.com/search?q=%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 16 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
-| 17 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 18 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 19 | [#Seilors](http://twitter.com/search?q=%23Seilors) | N/A |
-| 20 | [#seinami](http://twitter.com/search?q=%23seinami) | N/A |
-| 21 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
+| 9 | [#crypto](http://twitter.com/search?q=%23crypto) | N/A |
+| 10 | [гааге](http://twitter.com/search?q=%d0%b3%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
+| 11 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 12 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
+| 13 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 14 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 15 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 16 | [поздравляю](http://twitter.com/search?q=%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 17 | [честно](http://twitter.com/search?q=%d1%87%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 18 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 19 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 20 | [#Seilors](http://twitter.com/search?q=%23Seilors) | N/A |
+| 21 | [#seinami](http://twitter.com/search?q=%23seinami) | N/A |
+| 22 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
 
 
 

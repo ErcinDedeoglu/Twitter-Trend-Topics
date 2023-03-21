@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-21 02:30:16 UTC`
+📆 Last Updated: `2023-03-21 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 2 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
-| 5 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 6 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 7 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 1 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 3 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 7 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
 | 8 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 9 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 12 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 13 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 14 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 15 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 16 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
-| 17 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 18 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 19 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 20 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 9 | [Dylan Ferguson](http://twitter.com/search?q=Dylan+Ferguson) | N/A |
+| 10 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 11 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 12 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 13 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 14 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 15 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 16 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 17 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 18 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 19 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 20 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
 | 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 22 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 23 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 24 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 25 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 26 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 28 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 29 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 30 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 31 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 32 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 33 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 34 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 35 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 36 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 37 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
-| 38 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 39 | [PIMs](http://twitter.com/search?q=PIMs) | N/A |
-| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 41 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 42 | [Fergy](http://twitter.com/search?q=Fergy) | N/A |
-| 43 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 44 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 45 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 46 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 49 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 50 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 22 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 23 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 24 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 25 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 26 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 27 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 28 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 29 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 30 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 31 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 32 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 33 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 34 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 37 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 38 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 39 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 40 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 41 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 42 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 43 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 44 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 45 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 46 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 47 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 48 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 49 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 50 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 
 
 

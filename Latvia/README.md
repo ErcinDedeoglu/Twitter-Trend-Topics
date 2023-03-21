@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-21 02:30:19 UTC`
+📆 Last Updated: `2023-03-21 03:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,25 +46,25 @@ This is top 50 for Latvia
 | 29 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 30 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
 | 31 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 32 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 33 | [Varu](http://twitter.com/search?q=Varu) | N/A |
-| 34 | [dažreiz](http://twitter.com/search?q=da%c5%bereiz) | N/A |
-| 35 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 36 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
-| 37 | [гааге](http://twitter.com/search?q=%d0%b3%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
-| 38 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
-| 39 | [kādu](http://twitter.com/search?q=k%c4%81du) | N/A |
-| 40 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
-| 41 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
-| 42 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 43 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 44 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
-| 45 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 46 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
-| 47 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 48 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
-| 49 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 50 | [ceru](http://twitter.com/search?q=ceru) | N/A |
+| 32 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 33 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 34 | [Varu](http://twitter.com/search?q=Varu) | N/A |
+| 35 | [dažreiz](http://twitter.com/search?q=da%c5%bereiz) | N/A |
+| 36 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 37 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
+| 38 | [гааге](http://twitter.com/search?q=%d0%b3%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
+| 39 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
+| 40 | [kādu](http://twitter.com/search?q=k%c4%81du) | N/A |
+| 41 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
+| 42 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
+| 43 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 44 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 45 | [#colic](http://twitter.com/search?q=%23colic) | N/A |
+| 46 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 47 | [#optibetvirsliga](http://twitter.com/search?q=%23optibetvirsliga) | N/A |
+| 48 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 49 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |
+| 50 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 
 
 

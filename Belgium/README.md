@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-21 02:30:15 UTC`
+📆 Last Updated: `2023-03-21 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,12 +24,12 @@ This is top 50 for Belgium
 | 7 | [Yari](http://twitter.com/search?q=Yari) | N/A |
 | 8 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
 | 9 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 10 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
+| 10 | [lancelot](http://twitter.com/search?q=lancelot) | N/A |
 | 11 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
 | 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 13 | [raoul servais](http://twitter.com/search?q=raoul+servais) | N/A |
 | 14 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 15 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 15 | [aurore bergé](http://twitter.com/search?q=aurore+berg%c3%a9) | N/A |
 | 16 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
 | 17 | [Sanda](http://twitter.com/search?q=Sanda) | N/A |
 | 18 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for Belgium
 | 20 | [Kessié](http://twitter.com/search?q=Kessi%c3%a9) | N/A |
 | 21 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 23 | [Studio 100](http://twitter.com/search?q=Studio+100) | N/A |
+| 23 | [studio 100](http://twitter.com/search?q=studio+100) | N/A |
 | 24 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 25 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
 | 26 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |

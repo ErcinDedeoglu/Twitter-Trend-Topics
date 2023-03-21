@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-21 02:29:51 UTC`
+📆 Last Updated: `2023-03-21 03:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,15 +40,15 @@ This is top 50 for [Algeria](</Algeria>)
 | 23 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
 | 24 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
 | 25 | [الجاليه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 26 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 27 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 28 | [علي شعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b9%d8%a8) | N/A |
-| 29 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
-| 30 | [وزير الشوون الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 26 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 27 | [علي شعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b4%d8%b9%d8%a8) | N/A |
+| 28 | [Fiat](http://twitter.com/search?q=Fiat) | Fiat is a Latin word meaning "let it be done" or "it shall be." It is often used in the context of a decree or order issued by an authority figure. Fiat can also refer to a type of Italian car manufacturer. |
+| 29 | [وزير الشوون الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 30 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
 | 31 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 32 | [Air Algérie](http://twitter.com/search?q=Air+Alg%c3%a9rie) | N/A |
-| 33 | [جيش شعب](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%b4%d8%b9%d8%a8) | N/A |
-| 34 | [مرسي](http://twitter.com/search?q=%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 32 | [مرسي](http://twitter.com/search?q=%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 33 | [air algérie](http://twitter.com/search?q=air+alg%c3%a9rie) | N/A |
+| 34 | [جيش شعب](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%b4%d8%b9%d8%a8) | N/A |
 | 35 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
 | 36 | [الجريده الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
 | 37 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |

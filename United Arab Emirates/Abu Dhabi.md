@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-03-21 02:29:55 UTC`
+📆 Last Updated: `2023-03-21 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,21 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 4 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
 | 5 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
 | 6 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 7 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 8 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 7 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 8 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
 | 9 | [20 مارس](http://twitter.com/search?q=20+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 10 | [سلطان بن محمد القاسمي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85%d9%8a) | N/A |
-| 11 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 12 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 13 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 14 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 15 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
-| 16 | [القضايا الاقليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%a7%d9%82%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 17 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 18 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 19 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
-| 20 | [كريدي سويس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%af%d9%8a+%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
-| 21 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 10 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 11 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 12 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 13 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 14 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
+| 15 | [القضايا الاقليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%a7%d9%82%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 17 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 18 | [JC IN HIPHOP PINOY BEAT](http://twitter.com/search?q=JC+IN+HIPHOP+PINOY+BEAT) | N/A |
+| 19 | [كريدي سويس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%af%d9%8a+%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
+| 20 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 21 | [سلطان بن محمد القاسمي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85%d9%8a) | N/A |
 | 22 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
 | 23 | [وليد عباس](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
 | 24 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
@@ -64,7 +64,7 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 47 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
 | 48 | [صاحب السمو الشيخ الدكتور](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
 | 49 | [لليوفي](http://twitter.com/search?q=%d9%84%d9%84%d9%8a%d9%88%d9%81%d9%8a) | N/A |
-| 50 | [سلطان الخير](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 50 | [بو خالد](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
 
 
 

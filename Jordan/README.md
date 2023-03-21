@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-21 02:30:19 UTC`
+📆 Last Updated: `2023-03-21 03:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,18 +53,18 @@ This is top 50 for Jordan
 | 36 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
 | 37 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 38 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 39 | [محمد مرسي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 39 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
 | 40 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
 | 41 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
 | 42 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
 | 43 | [رمضان مبارك](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 44 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 45 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 46 | [الاعفاءات الطبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%81%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 48 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 49 | [الكرامه الخالده](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af%d9%87) | N/A |
-| 50 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 44 | [الاعفاءات الطبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%81%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d9%87) | N/A |
+| 45 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 46 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 47 | [الكرامه الخالده](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af%d9%87) | N/A |
+| 48 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 49 | [القاء القبض](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%a8%d8%b6) | N/A |
+| 50 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
 
 
 

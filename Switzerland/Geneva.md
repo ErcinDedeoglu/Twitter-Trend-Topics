@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-21 02:29:39 UTC`
+📆 Last Updated: `2023-03-21 03:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 12 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
 | 13 | [debakel](http://twitter.com/search?q=debakel) | N/A |
 | 14 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 15 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 15 | [ernstfall](http://twitter.com/search?q=ernstfall) | N/A |
 | 16 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
 | 17 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
 | 18 | [aktie](http://twitter.com/search?q=aktie) | N/A |
@@ -43,26 +43,26 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 26 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
 | 27 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 28 | [Monster](http://twitter.com/search?q=Monster) | N/A |
-| 29 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 30 | [rappen](http://twitter.com/search?q=rappen) | N/A |
-| 31 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
-| 32 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 33 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
-| 34 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 35 | [CS-Rettung](http://twitter.com/search?q=CS-Rettung) | N/A |
-| 36 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 37 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 38 | [luscht](http://twitter.com/search?q=luscht) | N/A |
-| 39 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 40 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 41 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 42 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
-| 43 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 44 | [juso](http://twitter.com/search?q=juso) | N/A |
-| 45 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
-| 46 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 47 | [pressekonferenz](http://twitter.com/search?q=pressekonferenz) | N/A |
-| 48 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 29 | [rappen](http://twitter.com/search?q=rappen) | N/A |
+| 30 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
+| 31 | [risiko](http://twitter.com/search?q=risiko) | N/A |
+| 32 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
+| 33 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
+| 34 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
+| 35 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 36 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 37 | [luscht](http://twitter.com/search?q=luscht) | N/A |
+| 38 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 39 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 40 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 41 | [rené weiler](http://twitter.com/search?q=ren%c3%a9+weiler) | N/A |
+| 42 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 43 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 44 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
+| 45 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 46 | [pressekonferenz](http://twitter.com/search?q=pressekonferenz) | N/A |
+| 47 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 48 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
 
 
 

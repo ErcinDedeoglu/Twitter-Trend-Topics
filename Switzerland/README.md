@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-21 02:30:23 UTC`
+📆 Last Updated: `2023-03-21 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 2 | [notrecht](http://twitter.com/search?q=notrecht) | N/A |
 | 3 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 5 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for Switzerland
 | 14 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
 | 15 | [debakel](http://twitter.com/search?q=debakel) | N/A |
 | 16 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 17 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 17 | [ernstfall](http://twitter.com/search?q=ernstfall) | N/A |
 | 18 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
 | 19 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
 | 20 | [aktie](http://twitter.com/search?q=aktie) | N/A |
@@ -47,17 +47,17 @@ This is top 50 for Switzerland
 | 30 | [Monster](http://twitter.com/search?q=Monster) | N/A |
 | 31 | [rappen](http://twitter.com/search?q=rappen) | N/A |
 | 32 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
-| 33 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 33 | [risiko](http://twitter.com/search?q=risiko) | N/A |
 | 34 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
 | 35 | [Konkurs](http://twitter.com/search?q=Konkurs) | N/A |
-| 36 | [CS-Rettung](http://twitter.com/search?q=CS-Rettung) | N/A |
+| 36 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
 | 37 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
 | 38 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 39 | [luscht](http://twitter.com/search?q=luscht) | N/A |
 | 40 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 41 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
 | 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 43 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
+| 43 | [rené weiler](http://twitter.com/search?q=ren%c3%a9+weiler) | N/A |
 | 44 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
 | 45 | [juso](http://twitter.com/search?q=juso) | N/A |
 | 46 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |

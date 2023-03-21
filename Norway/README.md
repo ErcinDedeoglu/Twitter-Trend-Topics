@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-21 02:30:20 UTC`
+📆 Last Updated: `2023-03-21 03:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Norway
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Røkke](http://twitter.com/search?q=R%c3%b8kke) | N/A |
-| 2 | [Bergstø](http://twitter.com/search?q=Bergst%c3%b8) | N/A |
+| 2 | [bergstø](http://twitter.com/search?q=bergst%c3%b8) | N/A |
 | 3 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 4 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 5 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
@@ -27,16 +27,16 @@ This is top 50 for Norway
 | 10 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 11 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 12 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 13 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
-| 14 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 15 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
-| 16 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 13 | [hamar](http://twitter.com/search?q=hamar) | N/A |
+| 14 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
+| 15 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 16 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 18 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
-| 19 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 20 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 21 | [Vikersund](http://twitter.com/search?q=Vikersund) | N/A |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 20 | [vikersund](http://twitter.com/search?q=vikersund) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
 | 23 | [oljefondet](http://twitter.com/search?q=oljefondet) | N/A |
 | 24 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 25 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Norway
 | 28 | [lysbakken](http://twitter.com/search?q=lysbakken) | N/A |
 | 29 | [Brann](http://twitter.com/search?q=Brann) | N/A |
 | 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 31 | [aker](http://twitter.com/search?q=aker) | N/A |
 | 32 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
 | 33 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
 | 34 | [Saddam](http://twitter.com/search?q=Saddam) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Norway
 | 47 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
 | 48 | [bodø](http://twitter.com/search?q=bod%c3%b8) | N/A |
 | 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [Dordi](http://twitter.com/search?q=Dordi) | N/A |
+| 50 | [dordi](http://twitter.com/search?q=dordi) | N/A |
 
 
 

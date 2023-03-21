@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-21 02:29:22 UTC`
+📆 Last Updated: `2023-03-21 03:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcelo Ebrard](http://twitter.com/search?q=Marcelo+Ebrard) | N/A |
-| 2 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 3 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 4 | [#LaCasaDelBeisbol](http://twitter.com/search?q=%23LaCasaDelBeisbol) | N/A |
-| 5 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
-| 6 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
-| 9 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 10 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
-| 11 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 12 | [Patrick Sandoval](http://twitter.com/search?q=Patrick+Sandoval) | N/A |
-| 13 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
-| 14 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 16 | [TE AMO RANDY](http://twitter.com/search?q=TE+AMO+RANDY) | N/A |
-| 17 | [Home Run](http://twitter.com/search?q=Home+Run) | N/A |
-| 18 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 19 | [Era Safe](http://twitter.com/search?q=Era+Safe) | N/A |
-| 20 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 21 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 22 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
-| 23 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 24 | [Ese Randy](http://twitter.com/search?q=Ese+Randy) | N/A |
-| 25 | [LOUIS HERMANO YA ERES MEXICANO](http://twitter.com/search?q=LOUIS+HERMANO+YA+ERES+MEXICANO) | N/A |
-| 26 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 27 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
-| 28 | [Randyyyy](http://twitter.com/search?q=Randyyyy) | N/A |
-| 29 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
-| 30 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 31 | [LAS AMO](http://twitter.com/search?q=LAS+AMO) | N/A |
-| 32 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 33 | [Wicho](http://twitter.com/search?q=Wicho) | N/A |
-| 34 | [MON LAFERTE 8](http://twitter.com/search?q=MON+LAFERTE+8) | N/A |
-| 35 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 36 | [Oasis Coyoacán](http://twitter.com/search?q=Oasis+Coyoac%c3%a1n) | N/A |
-| 37 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 38 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
-| 39 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 40 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 41 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
-| 42 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 43 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 44 | [#NoEraOut](http://twitter.com/search?q=%23NoEraOut) | N/A |
-| 45 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
-| 46 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 47 | [#TAEHYUNGxELLEKOREA](http://twitter.com/search?q=%23TAEHYUNGxELLEKOREA) | N/A |
-| 48 | [#Totolapan](http://twitter.com/search?q=%23Totolapan) | N/A |
-| 49 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 50 | [#ImagenTelevision](http://twitter.com/search?q=%23ImagenTelevision) | N/A |
+| 1 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 2 | [Marcelo Ebrard](http://twitter.com/search?q=Marcelo+Ebrard) | N/A |
+| 3 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 4 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 5 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 6 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 7 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 8 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 9 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 11 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 12 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 13 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 14 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 15 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 16 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 17 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 18 | [Luis Urías](http://twitter.com/search?q=Luis+Ur%c3%adas) | N/A |
+| 19 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 20 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 21 | [Gerardo Reyes](http://twitter.com/search?q=Gerardo+Reyes) | N/A |
+| 22 | [LA MAGIA ES DORADA](http://twitter.com/search?q=LA+MAGIA+ES+DORADA) | N/A |
+| 23 | [Solo 3](http://twitter.com/search?q=Solo+3) | N/A |
+| 24 | [Benjamin Gil](http://twitter.com/search?q=Benjamin+Gil) | N/A |
+| 25 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 26 | [TE AMO RANDY](http://twitter.com/search?q=TE+AMO+RANDY) | N/A |
+| 27 | [Gracias Randy](http://twitter.com/search?q=Gracias+Randy) | N/A |
+| 28 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 29 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 30 | [Salganse de Twitter](http://twitter.com/search?q=Salganse+de+Twitter) | N/A |
+| 31 | [Daddy Yankee](http://twitter.com/search?q=Daddy+Yankee) | Daddy Yankee is a Puerto Rican reggaeton artist, songwriter, actor, and record producer. His real name is Ramón Luis Ayala Rodríguez. He is one of the most influential and successful Latin American artists of all time. The phrase "Daddy Yankee" is a nickname given to him by his fans and has become synonymous with his music. In English, it means "Big Daddy" or "Father Figure". |
+| 32 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 33 | [Home Run](http://twitter.com/search?q=Home+Run) | N/A |
+| 34 | [LOUIS HERMANO YA ERES MEXICANO](http://twitter.com/search?q=LOUIS+HERMANO+YA+ERES+MEXICANO) | N/A |
+| 35 | [Yamamoto](http://twitter.com/search?q=Yamamoto) | N/A |
+| 36 | [Era Safe](http://twitter.com/search?q=Era+Safe) | N/A |
+| 37 | [Ese Randy](http://twitter.com/search?q=Ese+Randy) | N/A |
+| 38 | [Meneses](http://twitter.com/search?q=Meneses) | N/A |
+| 39 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 40 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 41 | [Randyyyy](http://twitter.com/search?q=Randyyyy) | N/A |
+| 42 | [Juegazo](http://twitter.com/search?q=Juegazo) | N/A |
+| 43 | [Jugaron](http://twitter.com/search?q=Jugaron) | N/A |
+| 44 | [Imagen TV](http://twitter.com/search?q=Imagen+TV) | N/A |
+| 45 | [LAS AMO](http://twitter.com/search?q=LAS+AMO) | N/A |
+| 46 | [Orgulloso](http://twitter.com/search?q=Orgulloso) | N/A |
+| 47 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 48 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 49 | [Wicho](http://twitter.com/search?q=Wicho) | N/A |
+| 50 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 
 
 

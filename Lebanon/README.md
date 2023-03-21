@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-21 02:30:19 UTC`
+📆 Last Updated: `2023-03-21 03:17:23 UTC`
 
 🔧 Updated every 1 hour!
 

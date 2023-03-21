@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-21 02:29:31 UTC`
+📆 Last Updated: `2023-03-21 03:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,16 +21,16 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
 | 5 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
 | 6 | [#barrma](http://twitter.com/search?q=%23barrma) | N/A |
-| 7 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 7 | [heidelbergu](http://twitter.com/search?q=heidelbergu) | N/A |
 | 8 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 9 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
+| 9 | [dawida](http://twitter.com/search?q=dawida) | N/A |
 | 10 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
 | 11 | [#SaudiArabianGP](http://twitter.com/search?q=%23SaudiArabianGP) | N/A |
 | 12 | [pszczynie](http://twitter.com/search?q=pszczynie) | N/A |
-| 13 | [fogiel](http://twitter.com/search?q=fogiel) | N/A |
-| 14 | [uniwersytecie](http://twitter.com/search?q=uniwersytecie) | N/A |
-| 15 | [żywcu](http://twitter.com/search?q=%c5%bcywcu) | N/A |
-| 16 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 13 | [uniwersytecie](http://twitter.com/search?q=uniwersytecie) | N/A |
+| 14 | [żywcu](http://twitter.com/search?q=%c5%bcywcu) | N/A |
+| 15 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 16 | [Fogiel](http://twitter.com/search?q=Fogiel) | N/A |
 | 17 | [duże sklepy](http://twitter.com/search?q=du%c5%bce+sklepy) | N/A |
 | 18 | [velde](http://twitter.com/search?q=velde) | N/A |
 | 19 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
@@ -39,18 +39,18 @@ This is top 50 for [Poland](</Poland>)
 | 22 | [grabiec](http://twitter.com/search?q=grabiec) | N/A |
 | 23 | [żukowska](http://twitter.com/search?q=%c5%bcukowska) | N/A |
 | 24 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 25 | [Tomczyk](http://twitter.com/search?q=Tomczyk) | N/A |
+| 25 | [tomczyk](http://twitter.com/search?q=tomczyk) | N/A |
 | 26 | [Francji](http://twitter.com/search?q=Francji) | N/A |
 | 27 | [kiereś](http://twitter.com/search?q=kiere%c5%9b) | N/A |
 | 28 | [ambasador rp](http://twitter.com/search?q=ambasador+rp) | N/A |
 | 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 30 | [fogla](http://twitter.com/search?q=fogla) | N/A |
 | 31 | [bartosz salamon](http://twitter.com/search?q=bartosz+salamon) | N/A |
-| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 33 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
-| 34 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 35 | [majewskiego](http://twitter.com/search?q=majewskiego) | N/A |
-| 36 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 32 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
+| 33 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 34 | [majewskiego](http://twitter.com/search?q=majewskiego) | N/A |
+| 35 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 37 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
 | 38 | [SKIN OFF YOU HEATHENS](http://twitter.com/search?q=SKIN+OFF+YOU+HEATHENS) | N/A |
 | 39 | [Moskwie](http://twitter.com/search?q=Moskwie) | N/A |

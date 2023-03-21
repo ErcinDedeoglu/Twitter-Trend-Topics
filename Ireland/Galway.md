@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-21 02:29:32 UTC`
+📆 Last Updated: `2023-03-21 03:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
-| 2 | [Castore](http://twitter.com/search?q=Castore) | N/A |
-| 3 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
-| 4 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 5 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 6 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 7 | [#dwtsIRL](http://twitter.com/search?q=%23dwtsIRL) | N/A |
-| 8 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 1 | [castore](http://twitter.com/search?q=castore) | N/A |
+| 2 | [#IREvENG](http://twitter.com/search?q=%23IREvENG) | N/A |
+| 3 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
+| 4 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
+| 5 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 6 | [#dwtsirl](http://twitter.com/search?q=%23dwtsirl) | N/A |
+| 7 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 8 | [#munful](http://twitter.com/search?q=%23munful) | N/A |
 | 9 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 10 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
 | 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
@@ -32,9 +32,9 @@ This is top 50 for [Ireland](</Ireland>)
 | 15 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
 | 16 | [Sebastian Barry](http://twitter.com/search?q=Sebastian+Barry) | N/A |
 | 17 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 19 | [O'Neills](http://twitter.com/search?q=O%27Neills) | N/A |
-| 20 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 18 | [o'neills](http://twitter.com/search?q=o%27neills) | N/A |
+| 19 | [Sinn Fein](http://twitter.com/search?q=Sinn+Fein) | N/A |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 21 | [Ornstein](http://twitter.com/search?q=Ornstein) | N/A |
 | 22 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
 | 23 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
@@ -57,8 +57,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 40 | [Dancing with the Stars](http://twitter.com/search?q=Dancing+with+the+Stars) | N/A |
 | 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 43 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 44 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 43 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 44 | [Silva](http://twitter.com/search?q=Silva) | N/A |
 | 45 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 46 | [musgrave park](http://twitter.com/search?q=musgrave+park) | N/A |
 | 47 | [Assembly](http://twitter.com/search?q=Assembly) | N/A |

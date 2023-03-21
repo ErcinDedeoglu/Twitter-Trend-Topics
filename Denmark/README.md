@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-21 02:30:16 UTC`
+📆 Last Updated: `2023-03-21 03:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Denmark
 | 3 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
 | 4 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 5 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 6 | [mads hermansen](http://twitter.com/search?q=mads+hermansen) | N/A |
+| 6 | [Mads Hermansen](http://twitter.com/search?q=Mads+Hermansen) | N/A |
 | 7 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
 | 8 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 9 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
@@ -28,8 +28,8 @@ This is top 50 for Denmark
 | 11 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
 | 12 | [#dkaid](http://twitter.com/search?q=%23dkaid) | N/A |
 | 13 | [#COP28](http://twitter.com/search?q=%23COP28) | N/A |
-| 14 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 15 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 14 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
+| 15 | [jelert](http://twitter.com/search?q=jelert) | N/A |
 | 16 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
 | 17 | [lars friis](http://twitter.com/search?q=lars+friis) | N/A |
 | 18 | [vallys](http://twitter.com/search?q=vallys) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Denmark
 | 28 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 29 | [vavro](http://twitter.com/search?q=vavro) | N/A |
 | 30 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 31 | [Farum](http://twitter.com/search?q=Farum) | N/A |
+| 31 | [farum](http://twitter.com/search?q=farum) | N/A |
 | 32 | [putros](http://twitter.com/search?q=putros) | N/A |
 | 33 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 | 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -58,13 +58,13 @@ This is top 50 for Denmark
 | 41 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
 | 42 | [fc midtjylland](http://twitter.com/search?q=fc+midtjylland) | N/A |
 | 43 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
-| 44 | [Steinlein](http://twitter.com/search?q=Steinlein) | N/A |
+| 44 | [steinlein](http://twitter.com/search?q=steinlein) | N/A |
 | 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 46 | [skønt](http://twitter.com/search?q=sk%c3%b8nt) | N/A |
-| 47 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 48 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 49 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
-| 50 | [Svend](http://twitter.com/search?q=Svend) | N/A |
+| 47 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 48 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
+| 49 | [svend](http://twitter.com/search?q=svend) | N/A |
+| 50 | [parken](http://twitter.com/search?q=parken) | N/A |
 
 
 

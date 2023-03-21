@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-21 02:30:16 UTC`
+📆 Last Updated: `2023-03-21 03:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Colombia
 | 3 | [#ColombiaVaMal](http://twitter.com/search?q=%23ColombiaVaMal) | N/A |
 | 4 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
 | 5 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
-| 6 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 8 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 9 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 10 | [Guerrerista](http://twitter.com/search?q=Guerrerista) | N/A |
-| 11 | [#BloqueatonASemana](http://twitter.com/search?q=%23BloqueatonASemana) | N/A |
-| 12 | [Quibdó](http://twitter.com/search?q=Quibd%c3%b3) | N/A |
-| 13 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 14 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
-| 15 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 16 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
-| 17 | [Paraca](http://twitter.com/search?q=Paraca) | N/A |
-| 18 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 19 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
-| 20 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 21 | [Ana Piñeres](http://twitter.com/search?q=Ana+Pi%c3%b1eres) | N/A |
-| 22 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 6 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 7 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 8 | [#GolpeDeEstado](http://twitter.com/search?q=%23GolpeDeEstado) | Golpe de Estado is a Spanish phrase meaning "coup d'état" in English. It refers to the sudden overthrow of a government by a small group, usually military or political, in order to replace the existing government with one that is more favorable to them. |
+| 9 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 11 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 12 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 13 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
+| 14 | [Guerrerista](http://twitter.com/search?q=Guerrerista) | N/A |
+| 15 | [Riquett](http://twitter.com/search?q=Riquett) | N/A |
+| 16 | [Quibdó](http://twitter.com/search?q=Quibd%c3%b3) | N/A |
+| 17 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 18 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 19 | [Paraca](http://twitter.com/search?q=Paraca) | N/A |
+| 20 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 21 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 22 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
 | 23 | [Dios y Patria](http://twitter.com/search?q=Dios+y+Patria) | N/A |
-| 24 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
+| 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 25 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 26 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 27 | [Yeison Guzmán](http://twitter.com/search?q=Yeison+Guzm%c3%a1n) | N/A |
-| 28 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 29 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 30 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
-| 31 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
-| 32 | [Arauca](http://twitter.com/search?q=Arauca) | N/A |
-| 33 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 34 | [Char](http://twitter.com/search?q=Char) | N/A |
-| 35 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 36 | [Chocó](http://twitter.com/search?q=Choc%c3%b3) | N/A |
+| 26 | [Ana Piñeres](http://twitter.com/search?q=Ana+Pi%c3%b1eres) | N/A |
+| 27 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 28 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 29 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
+| 30 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 31 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 32 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 33 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
+| 34 | [Villanueva](http://twitter.com/search?q=Villanueva) | N/A |
+| 35 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 36 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 37 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
-| 38 | [Aida Merlano](http://twitter.com/search?q=Aida+Merlano) | N/A |
-| 39 | [Fuera Petro](http://twitter.com/search?q=Fuera+Petro) | N/A |
-| 40 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 38 | [Fuera Petro](http://twitter.com/search?q=Fuera+Petro) | N/A |
+| 39 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 40 | [Arauca](http://twitter.com/search?q=Arauca) | N/A |
 | 41 | [Alfonso López](http://twitter.com/search?q=Alfonso+L%c3%b3pez) | N/A |
 | 42 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 43 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 44 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Nariz del Diablo](http://twitter.com/search?q=Nariz+del+Diablo) | N/A |
-| 47 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 48 | [Julieth García](http://twitter.com/search?q=Julieth+Garc%c3%ada) | N/A |
-| 49 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
-| 50 | [Otto Serge](http://twitter.com/search?q=Otto+Serge) | N/A |
+| 43 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 44 | [Reina](http://twitter.com/search?q=Reina) | Reina is a Spanish female name meaning "queen". |
+| 45 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 46 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 47 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 48 | [Chocó](http://twitter.com/search?q=Choc%c3%b3) | N/A |
+| 49 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 50 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
 
 
 

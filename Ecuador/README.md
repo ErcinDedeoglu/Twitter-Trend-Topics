@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-21 02:30:17 UTC`
+📆 Last Updated: `2023-03-21 03:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lenin Artieda](http://twitter.com/search?q=Lenin+Artieda) | N/A |
-| 2 | [Raúl Becerra](http://twitter.com/search?q=Ra%c3%bal+Becerra) | N/A |
-| 3 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 4 | [#Ecuavisa](http://twitter.com/search?q=%23Ecuavisa) | N/A |
-| 5 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
-| 6 | [Aquiles](http://twitter.com/search?q=Aquiles) | N/A |
-| 7 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
-| 8 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
-| 9 | [Con 5](http://twitter.com/search?q=Con+5) | N/A |
+| 1 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
+| 2 | [Lenin Artieda](http://twitter.com/search?q=Lenin+Artieda) | N/A |
+| 3 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 4 | [Raúl Becerra](http://twitter.com/search?q=Ra%c3%bal+Becerra) | N/A |
+| 5 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
+| 6 | [#Ecuavisa](http://twitter.com/search?q=%23Ecuavisa) | N/A |
+| 7 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
+| 8 | [Aquiles](http://twitter.com/search?q=Aquiles) | N/A |
+| 9 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
 | 10 | [#Napo](http://twitter.com/search?q=%23Napo) | N/A |
-| 11 | [mauricio ayora](http://twitter.com/search?q=mauricio+ayora) | N/A |
-| 12 | [Balda](http://twitter.com/search?q=Balda) | N/A |
-| 13 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
-| 14 | [Johanna](http://twitter.com/search?q=Johanna) | N/A |
-| 15 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
-| 16 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 17 | [#CruzadaPorElEcuador](http://twitter.com/search?q=%23CruzadaPorElEcuador) | N/A |
-| 18 | [COIP](http://twitter.com/search?q=COIP) | N/A |
-| 19 | [El CAL](http://twitter.com/search?q=El+CAL) | N/A |
-| 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 21 | [Gustavo Alfaro](http://twitter.com/search?q=Gustavo+Alfaro) | Gustavo Alfaro is a Spanish surname. It is derived from the Germanic personal name Alfaro, which means "nobleman". In English, the name Gustavo Alfaro would translate to "nobleman of Alfaro". |
-| 22 | [TC Televisión](http://twitter.com/search?q=TC+Televisi%c3%b3n) | N/A |
-| 23 | [jefferson caicedo](http://twitter.com/search?q=jefferson+caicedo) | N/A |
-| 24 | [Pablo Romero](http://twitter.com/search?q=Pablo+Romero) | N/A |
+| 11 | [Con 5](http://twitter.com/search?q=Con+5) | N/A |
+| 12 | [Pancho Mera](http://twitter.com/search?q=Pancho+Mera) | N/A |
+| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 14 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
+| 15 | [Balda](http://twitter.com/search?q=Balda) | N/A |
+| 16 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 17 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
+| 18 | [Teleamazonas](http://twitter.com/search?q=Teleamazonas) | N/A |
+| 19 | [Mauricio Ayora](http://twitter.com/search?q=Mauricio+Ayora) | N/A |
+| 20 | [COIP](http://twitter.com/search?q=COIP) | N/A |
+| 21 | [El CAL](http://twitter.com/search?q=El+CAL) | N/A |
+| 22 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 23 | [Quinsaloma](http://twitter.com/search?q=Quinsaloma) | N/A |
+| 24 | [TC Televisión](http://twitter.com/search?q=TC+Televisi%c3%b3n) | N/A |
 | 25 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
-| 26 | [alberti](http://twitter.com/search?q=alberti) | N/A |
-| 27 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
-| 28 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 29 | [Manabi](http://twitter.com/search?q=Manabi) | N/A |
-| 30 | [Solidaridad](http://twitter.com/search?q=Solidaridad) | N/A |
-| 31 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
-| 32 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 33 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 34 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
-| 35 | [La Corte Constitucional](http://twitter.com/search?q=La+Corte+Constitucional) | N/A |
-| 36 | [jimin dont set me free](http://twitter.com/search?q=jimin+dont+set+me+free) | N/A |
-| 37 | [Rafael Cuesta](http://twitter.com/search?q=Rafael+Cuesta) | N/A |
-| 38 | [Carlos Gruezo](http://twitter.com/search?q=Carlos+Gruezo) | N/A |
-| 39 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 26 | [Gustavo Alfaro](http://twitter.com/search?q=Gustavo+Alfaro) | Gustavo Alfaro is a Spanish surname. It is derived from the Germanic personal name Alfaro, which means "nobleman". In English, the name Gustavo Alfaro would translate to "nobleman of Alfaro". |
+| 27 | [alberti](http://twitter.com/search?q=alberti) | N/A |
+| 28 | [Miller Bolaños](http://twitter.com/search?q=Miller+Bola%c3%b1os) | N/A |
+| 29 | [Pablo Romero](http://twitter.com/search?q=Pablo+Romero) | N/A |
+| 30 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 31 | [Manabi](http://twitter.com/search?q=Manabi) | N/A |
+| 32 | [Rafael Cuesta](http://twitter.com/search?q=Rafael+Cuesta) | N/A |
+| 33 | [Solidaridad](http://twitter.com/search?q=Solidaridad) | N/A |
+| 34 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 35 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 36 | [Radio Pichincha](http://twitter.com/search?q=Radio+Pichincha) | N/A |
+| 37 | [La Corte Constitucional](http://twitter.com/search?q=La+Corte+Constitucional) | N/A |
+| 38 | [jimin dont set me free](http://twitter.com/search?q=jimin+dont+set+me+free) | N/A |
+| 39 | [Carlos Gruezo](http://twitter.com/search?q=Carlos+Gruezo) | N/A |
 | 40 | [Riocentro Norte](http://twitter.com/search?q=Riocentro+Norte) | N/A |
-| 41 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 42 | [george capwell](http://twitter.com/search?q=george+capwell) | N/A |
-| 43 | [Milton Pérez](http://twitter.com/search?q=Milton+P%c3%a9rez) | N/A |
-| 44 | [Romario](http://twitter.com/search?q=Romario) | N/A |
-| 45 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 46 | [Donen](http://twitter.com/search?q=Donen) | N/A |
-| 47 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 48 | [Enner](http://twitter.com/search?q=Enner) | N/A |
-| 49 | [Jorge Ortiz](http://twitter.com/search?q=Jorge+Ortiz) | N/A |
-| 50 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 41 | [Milton Pérez](http://twitter.com/search?q=Milton+P%c3%a9rez) | N/A |
+| 42 | [USB Killer](http://twitter.com/search?q=USB+Killer) | N/A |
+| 43 | [Romario](http://twitter.com/search?q=Romario) | N/A |
+| 44 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 45 | [Donen](http://twitter.com/search?q=Donen) | N/A |
+| 46 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 47 | [Jorge Ortiz](http://twitter.com/search?q=Jorge+Ortiz) | N/A |
+| 48 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 49 | [Mar Rendón](http://twitter.com/search?q=Mar+Rend%c3%b3n) | N/A |
+| 50 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 
 
 

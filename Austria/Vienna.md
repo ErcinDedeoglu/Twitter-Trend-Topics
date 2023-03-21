@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-21 02:29:32 UTC`
+📆 Last Updated: `2023-03-21 03:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 5 | [#Gecko](http://twitter.com/search?q=%23Gecko) | N/A |
 | 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 7 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
+| 7 | [gräben](http://twitter.com/search?q=gr%c3%a4ben) | N/A |
 | 8 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 10 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 11 | [Mietpreisbremse](http://twitter.com/search?q=Mietpreisbremse) | N/A |
+| 11 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
 | 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 13 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
 | 14 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for [Austria](</Austria>)
 | 20 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
 | 21 | [kneissl](http://twitter.com/search?q=kneissl) | N/A |
 | 22 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 23 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 24 | [büro](http://twitter.com/search?q=b%c3%bcro) | N/A |
+| 23 | [strafen](http://twitter.com/search?q=strafen) | N/A |
+| 24 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
 | 25 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
-| 26 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
+| 26 | [vermieter](http://twitter.com/search?q=vermieter) | N/A |
 | 27 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 28 | [bankenkrise](http://twitter.com/search?q=bankenkrise) | N/A |
 | 29 | [Vulnerable](http://twitter.com/search?q=Vulnerable) | N/A |
-| 30 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | N/A |
+| 30 | [immunität](http://twitter.com/search?q=immunit%c3%a4t) | N/A |
 | 31 | [Bundesländer](http://twitter.com/search?q=Bundesl%c3%a4nder) | N/A |
 | 32 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
 | 33 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for [Austria](</Austria>)
 | 38 | [Füße](http://twitter.com/search?q=F%c3%bc%c3%9fe) | N/A |
 | 39 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 40 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
-| 41 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 41 | [genesung](http://twitter.com/search?q=genesung) | N/A |
 | 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 43 | [Prognosen](http://twitter.com/search?q=Prognosen) | N/A |
 | 44 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Austria](</Austria>)
 | 47 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
 | 48 | [Experten](http://twitter.com/search?q=Experten) | N/A |
 | 49 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 50 | [Gespräche](http://twitter.com/search?q=Gespr%c3%a4che) | N/A |
+| 50 | [gespräche](http://twitter.com/search?q=gespr%c3%a4che) | N/A |
 
 
 
