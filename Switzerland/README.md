@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-21 04:17:26 UTC`
+📆 Last Updated: `2023-03-21 05:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 2 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 2 | [notrecht](http://twitter.com/search?q=notrecht) | N/A |
 | 3 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 4 | [aktionäre](http://twitter.com/search?q=aktion%c3%a4re) | N/A |
-| 5 | [Finma](http://twitter.com/search?q=Finma) | N/A |
-| 6 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 7 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 8 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 9 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 10 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 11 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 12 | [ueli](http://twitter.com/search?q=ueli) | N/A |
-| 13 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 14 | [debakel](http://twitter.com/search?q=debakel) | N/A |
-| 15 | [übernahme](http://twitter.com/search?q=%c3%bcbernahme) | N/A |
-| 16 | [#paradeplatz](http://twitter.com/search?q=%23paradeplatz) | N/A |
-| 17 | [vertrauen](http://twitter.com/search?q=vertrauen) | N/A |
-| 18 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 19 | [ernstfall](http://twitter.com/search?q=ernstfall) | N/A |
-| 20 | [finanzminister](http://twitter.com/search?q=finanzminister) | N/A |
-| 21 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 22 | [finanzplatz](http://twitter.com/search?q=finanzplatz) | N/A |
-| 23 | [weko](http://twitter.com/search?q=weko) | N/A |
-| 24 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 25 | [cs aktien](http://twitter.com/search?q=cs+aktien) | N/A |
-| 26 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
-| 27 | [finanzsystem](http://twitter.com/search?q=finanzsystem) | N/A |
+| 4 | [FINMA](http://twitter.com/search?q=FINMA) | N/A |
+| 5 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 6 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
+| 7 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
+| 8 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 9 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 10 | [ueli](http://twitter.com/search?q=ueli) | N/A |
+| 11 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 12 | [#paradeplatz](http://twitter.com/search?q=%23paradeplatz) | N/A |
+| 13 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 14 | [ernstfall](http://twitter.com/search?q=ernstfall) | N/A |
+| 15 | [#Francophonie](http://twitter.com/search?q=%23Francophonie) | N/A |
+| 16 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | N/A |
+| 17 | [aktie](http://twitter.com/search?q=aktie) | N/A |
+| 18 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
+| 19 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
+| 20 | [weko](http://twitter.com/search?q=weko) | N/A |
+| 21 | [finanzsystem](http://twitter.com/search?q=finanzsystem) | N/A |
+| 22 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
+| 23 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 24 | [finanzplatz](http://twitter.com/search?q=finanzplatz) | N/A |
+| 25 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 26 | [Geiger](http://twitter.com/search?q=Geiger) | N/A |
+| 27 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 28 | [Monster](http://twitter.com/search?q=Monster) | N/A |
-| 29 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 30 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
-| 31 | [juso](http://twitter.com/search?q=juso) | N/A |
-| 32 | [rappen](http://twitter.com/search?q=rappen) | N/A |
-| 33 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 34 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
-| 35 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 36 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 37 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 38 | [luscht](http://twitter.com/search?q=luscht) | N/A |
-| 39 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
-| 40 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 41 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 42 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 43 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 44 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
-| 45 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 46 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
-| 47 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 48 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 49 | [konkurs](http://twitter.com/search?q=konkurs) | N/A |
-| 50 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 29 | [rappen](http://twitter.com/search?q=rappen) | N/A |
+| 30 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
+| 31 | [risiko](http://twitter.com/search?q=risiko) | N/A |
+| 32 | [konkurs](http://twitter.com/search?q=konkurs) | N/A |
+| 33 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
+| 34 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 35 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 36 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 37 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 38 | [René Weiler](http://twitter.com/search?q=Ren%c3%a9+Weiler) | N/A |
+| 39 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 41 | [notverordnung](http://twitter.com/search?q=notverordnung) | N/A |
+| 42 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 43 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 44 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 45 | [Enteignung](http://twitter.com/search?q=Enteignung) | N/A |
+| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 47 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 48 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
+| 49 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 50 | [Desaster](http://twitter.com/search?q=Desaster) | N/A |
 
 
 

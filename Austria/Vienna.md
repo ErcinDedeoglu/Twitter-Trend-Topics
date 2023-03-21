@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-21 04:16:45 UTC`
+📆 Last Updated: `2023-03-21 05:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 2 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 3 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 4 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 5 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 6 | [#Gecko](http://twitter.com/search?q=%23Gecko) | N/A |
+| 3 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
+| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 5 | [#Gecko](http://twitter.com/search?q=%23Gecko) | N/A |
+| 6 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 7 | [gräben](http://twitter.com/search?q=gr%c3%a4ben) | N/A |
-| 8 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 9 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
-| 12 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 13 | [frühlingsbeginn](http://twitter.com/search?q=fr%c3%bchlingsbeginn) | N/A |
-| 14 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 15 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 16 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 17 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 18 | [hausarzt](http://twitter.com/search?q=hausarzt) | N/A |
-| 19 | [wissenschafter](http://twitter.com/search?q=wissenschafter) | N/A |
-| 20 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 21 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
-| 22 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | N/A |
-| 23 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
-| 24 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 25 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 26 | [Vulnerable](http://twitter.com/search?q=Vulnerable) | N/A |
-| 27 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 28 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 29 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 32 | [wirtshaus](http://twitter.com/search?q=wirtshaus) | N/A |
-| 33 | [meldungen](http://twitter.com/search?q=meldungen) | N/A |
-| 34 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 35 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 36 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 39 | [beileid](http://twitter.com/search?q=beileid) | N/A |
-| 40 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 41 | [wirte](http://twitter.com/search?q=wirte) | N/A |
-| 42 | [Schnauze](http://twitter.com/search?q=Schnauze) | N/A |
-| 43 | [Füße](http://twitter.com/search?q=F%c3%bc%c3%9fe) | N/A |
-| 44 | [karner](http://twitter.com/search?q=karner) | N/A |
-| 45 | [italiener](http://twitter.com/search?q=italiener) | N/A |
-| 46 | [Bundesländer](http://twitter.com/search?q=Bundesl%c3%a4nder) | N/A |
-| 47 | [institutionen](http://twitter.com/search?q=institutionen) | N/A |
-| 48 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
-| 49 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 50 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 11 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 12 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 13 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
+| 14 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 15 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 16 | [Wirtshaus](http://twitter.com/search?q=Wirtshaus) | N/A |
+| 17 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 18 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 19 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 20 | [frühlingsbeginn](http://twitter.com/search?q=fr%c3%bchlingsbeginn) | N/A |
+| 21 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 22 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 23 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 24 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 25 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 26 | [kneissl](http://twitter.com/search?q=kneissl) | N/A |
+| 27 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
+| 28 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 29 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
+| 30 | [Dorf](http://twitter.com/search?q=Dorf) | N/A |
+| 31 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
+| 32 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 33 | [Vulnerable](http://twitter.com/search?q=Vulnerable) | N/A |
+| 34 | [immunität](http://twitter.com/search?q=immunit%c3%a4t) | N/A |
+| 35 | [Bundesländer](http://twitter.com/search?q=Bundesl%c3%a4nder) | N/A |
+| 36 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 37 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 40 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 41 | [Größe](http://twitter.com/search?q=Gr%c3%b6%c3%9fe) | N/A |
+| 42 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
+| 43 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 44 | [meldungen](http://twitter.com/search?q=meldungen) | N/A |
+| 45 | [Füße](http://twitter.com/search?q=F%c3%bc%c3%9fe) | N/A |
+| 46 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 47 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 48 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 50 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 
 
 

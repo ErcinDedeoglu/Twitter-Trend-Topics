@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-21 04:16:48 UTC`
+📆 Last Updated: `2023-03-21 05:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 3 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
-| 4 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 6 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 7 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 9 | [frühlingsanfang](http://twitter.com/search?q=fr%c3%bchlingsanfang) | N/A |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
-| 12 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 13 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
-| 14 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 15 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 16 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
-| 17 | [weltklimarat](http://twitter.com/search?q=weltklimarat) | N/A |
-| 18 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 19 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 20 | [tempelhofer feld](http://twitter.com/search?q=tempelhofer+feld) | N/A |
+| 2 | [C. Hum](http://twitter.com/search?q=C.+Hum) | N/A |
+| 3 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [#B04FCB](http://twitter.com/search?q=%23B04FCB) | N/A |
+| 6 | [#MyHomeIsMyCastle](http://twitter.com/search?q=%23MyHomeIsMyCastle) | N/A |
+| 7 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 8 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 10 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 11 | [Schriftlich](http://twitter.com/search?q=Schriftlich) | N/A |
+| 12 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 13 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 14 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
+| 15 | [Fabwelt](http://twitter.com/search?q=Fabwelt) | N/A |
+| 16 | [Aufklärungsbogen](http://twitter.com/search?q=Aufkl%c3%a4rungsbogen) | N/A |
+| 17 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 18 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 19 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
+| 20 | [Wodka](http://twitter.com/search?q=Wodka) | N/A |
 | 21 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 22 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
-| 23 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 24 | [stegner](http://twitter.com/search?q=stegner) | N/A |
-| 25 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 26 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
-| 27 | [Restle](http://twitter.com/search?q=Restle) | N/A |
-| 28 | [kaufland](http://twitter.com/search?q=kaufland) | N/A |
-| 29 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 30 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
-| 31 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
-| 32 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
-| 33 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 34 | [montagmorgen](http://twitter.com/search?q=montagmorgen) | N/A |
-| 35 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 22 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 23 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 24 | [Heute vor 20 Jahren](http://twitter.com/search?q=Heute+vor+20+Jahren) | N/A |
+| 25 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
+| 26 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 27 | [Pizzaburger](http://twitter.com/search?q=Pizzaburger) | N/A |
+| 28 | [Hidden Ability](http://twitter.com/search?q=Hidden+Ability) | N/A |
+| 29 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 30 | [Restle](http://twitter.com/search?q=Restle) | N/A |
+| 31 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 32 | [Doppelgänger](http://twitter.com/search?q=Doppelg%c3%a4nger) | N/A |
+| 33 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 34 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 35 | [stegner](http://twitter.com/search?q=stegner) | N/A |
 | 36 | [Oktopoden](http://twitter.com/search?q=Oktopoden) | N/A |
-| 37 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 38 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 39 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 40 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
-| 41 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 42 | [neujahrsfest](http://twitter.com/search?q=neujahrsfest) | N/A |
-| 43 | [Impfgeschädigten](http://twitter.com/search?q=Impfgesch%c3%a4digten) | N/A |
-| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 45 | [rufmord](http://twitter.com/search?q=rufmord) | N/A |
-| 46 | [Dario](http://twitter.com/search?q=Dario) | N/A |
-| 47 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 48 | [Beipackzettel](http://twitter.com/search?q=Beipackzettel) | N/A |
-| 49 | [ganser](http://twitter.com/search?q=ganser) | N/A |
-| 50 | [impfarzt](http://twitter.com/search?q=impfarzt) | N/A |
+| 37 | [schwalbe](http://twitter.com/search?q=schwalbe) | N/A |
+| 38 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 39 | [impfgeschädigten](http://twitter.com/search?q=impfgesch%c3%a4digten) | N/A |
+| 40 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 41 | [Dario](http://twitter.com/search?q=Dario) | N/A |
+| 42 | [impfarzt](http://twitter.com/search?q=impfarzt) | N/A |
+| 43 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 44 | [neujahrsfest](http://twitter.com/search?q=neujahrsfest) | N/A |
+| 45 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 46 | [mündlich](http://twitter.com/search?q=m%c3%bcndlich) | N/A |
+| 47 | [beipackzettel](http://twitter.com/search?q=beipackzettel) | N/A |
+| 48 | [ganser](http://twitter.com/search?q=ganser) | N/A |
+| 49 | [rufmord](http://twitter.com/search?q=rufmord) | N/A |
+| 50 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
 
 
 
