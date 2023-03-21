@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-21 18:17:42 UTC`
+📆 Last Updated: `2023-03-21 19:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,50 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 2 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 1 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
 | 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 4 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 5 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 6 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 7 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 8 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 9 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 10 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 11 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 12 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 13 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 14 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 15 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 16 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 17 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 19 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 20 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 21 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 22 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 23 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 24 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 25 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 26 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 27 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 28 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 29 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 30 | [jack antonoff](http://twitter.com/search?q=jack+antonoff) | Jack Antonoff is an American singer, songwriter, and record producer. He is best known as the lead singer of the indie rock band Bleachers and as a member of the band Fun. He has also produced albums for Taylor Swift, Lorde, St. Vincent, and Lana Del Rey. |
-| 31 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 32 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
-| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 34 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
-| 35 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 36 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
-| 37 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 38 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 39 | [Nnadi](http://twitter.com/search?q=Nnadi) | N/A |
-| 40 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 41 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 42 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 43 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 44 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 45 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 4 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 5 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 6 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 7 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 8 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 9 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 10 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 11 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 12 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 13 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 14 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 15 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 16 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 17 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 18 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 19 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 20 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 21 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
+| 22 | [Witty](http://twitter.com/search?q=Witty) | N/A |
+| 23 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 24 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 25 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 27 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 28 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 29 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 30 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 31 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
+| 32 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 33 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 34 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
+| 35 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 36 | [Jack Antonoff](http://twitter.com/search?q=Jack+Antonoff) | N/A |
+| 37 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 38 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 39 | [DPReview](http://twitter.com/search?q=DPReview) | N/A |
+| 40 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
+| 41 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 42 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 43 | [Roc Royal](http://twitter.com/search?q=Roc+Royal) | N/A |
+| 44 | [Stephen Jackson](http://twitter.com/search?q=Stephen+Jackson) | N/A |
 
 
 

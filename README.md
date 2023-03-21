@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-21 18:17:00 UTC`
+📆 Last Updated: `2023-03-21 19:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,52 +24,52 @@ This is top 50
 | 2 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 3 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
 | 4 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 5 | [#HalkPsikologİstiyor](http://twitter.com/search?q=%23HalkPsikolog%c4%b0stiyor) | N/A |
+| 5 | [#هلال_رمضان](http://twitter.com/search?q=%23%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 6 | [#زلزلہ](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d9%84%db%81) | N/A |
-| 7 | [#هلال_رمضان](http://twitter.com/search?q=%23%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 8 | [Denkliği ErdoğanÇözer](http://twitter.com/search?q=Denkli%c4%9fi+Erdo%c4%9fan%c3%87%c3%b6zer) | N/A |
-| 9 | [Dibyedekleremüjde](http://twitter.com/search?q=Dibyedeklerem%c3%bcjde) | N/A |
-| 10 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
-| 11 | [GSBtayiniOlumluAçıklayın](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1klay%c4%b1n) | N/A |
+| 7 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 8 | [Dibyedekleremüjde](http://twitter.com/search?q=Dibyedeklerem%c3%bcjde) | N/A |
+| 9 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 10 | [GSBtayiniOlumluAçıklayın](http://twitter.com/search?q=GSBtayiniOlumluA%c3%a7%c4%b1klay%c4%b1n) | N/A |
+| 11 | [ÖzelSektr ÖğrtmnKadro](http://twitter.com/search?q=%c3%96zelSektr+%c3%96%c4%9frtmnKadro) | N/A |
 | 12 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 13 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 14 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 15 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 16 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 17 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 18 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 19 | [Melipilla](http://twitter.com/search?q=Melipilla) | N/A |
-| 20 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 21 | [Ya Allah Reham](http://twitter.com/search?q=Ya+Allah+Reham) | N/A |
-| 22 | [दिल्ली एनसीआर](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%8f%e0%a4%a8%e0%a4%b8%e0%a5%80%e0%a4%86%e0%a4%b0) | N/A |
-| 23 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 24 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
-| 25 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 26 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 13 | [PiktesinKadrosu Nerede](http://twitter.com/search?q=PiktesinKadrosu+Nerede) | N/A |
+| 14 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 15 | [Denkliği ErdoğanÇözer](http://twitter.com/search?q=Denkli%c4%9fi+Erdo%c4%9fan%c3%87%c3%b6zer) | N/A |
+| 16 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 17 | [BİTNorm Kadroİstiyor](http://twitter.com/search?q=B%c4%b0TNorm+Kadro%c4%b0stiyor) | N/A |
+| 18 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 19 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 20 | [Melipilla](http://twitter.com/search?q=Melipilla) | N/A |
+| 21 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 22 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 23 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 25 | [Rufián](http://twitter.com/search?q=Rufi%c3%a1n) | N/A |
+| 26 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
 | 27 | [楽天24](http://twitter.com/search?q=%e6%a5%bd%e5%a4%a924) | N/A |
-| 28 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 29 | [North India](http://twitter.com/search?q=North+India) | N/A |
-| 30 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 31 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 32 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 33 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 34 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 35 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 36 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 37 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 38 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 39 | [暗黒大陸編](http://twitter.com/search?q=%e6%9a%97%e9%bb%92%e5%a4%a7%e9%99%b8%e7%b7%a8) | N/A |
-| 40 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 41 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 42 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 43 | [BAMBAM MV TEASER](http://twitter.com/search?q=BAMBAM+MV+TEASER) | N/A |
-| 44 | [Arrimadas](http://twitter.com/search?q=Arrimadas) | N/A |
-| 45 | [Montajcı Kemal](http://twitter.com/search?q=Montajc%c4%b1+Kemal) | N/A |
-| 46 | [उत्तर भारत](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 47 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 48 | [博多中央駅](http://twitter.com/search?q=%e5%8d%9a%e5%a4%9a%e4%b8%ad%e5%a4%ae%e9%a7%85) | N/A |
-| 49 | [グラブルメンテ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab%e3%83%a1%e3%83%b3%e3%83%86) | グラブルメンテ (Granblue Maintenance) is a term used to refer to the maintenance and upkeep of the popular mobile game Granblue Fantasy. This includes bug fixes, updates, and other changes that are made to the game in order to keep it running smoothly. In English, it can be translated as "Granblue Maintenance". |
-| 50 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 28 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 29 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 30 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 31 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 32 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 33 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 34 | [Paripesa Nigeria](http://twitter.com/search?q=Paripesa+Nigeria) | N/A |
+| 35 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 36 | [Ya Allah Reham](http://twitter.com/search?q=Ya+Allah+Reham) | N/A |
+| 37 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 38 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 39 | [दिल्ली एनसीआर](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%8f%e0%a4%a8%e0%a4%b8%e0%a5%80%e0%a4%86%e0%a4%b0) | N/A |
+| 40 | [Pato Yañez](http://twitter.com/search?q=Pato+Ya%c3%b1ez) | N/A |
+| 41 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 42 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 43 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 44 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 45 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 46 | [GeçiciBitti SıraTaşeronda](http://twitter.com/search?q=Ge%c3%a7iciBitti+S%c4%b1raTa%c5%9feronda) | N/A |
+| 47 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 48 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 49 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 50 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
 
 
 

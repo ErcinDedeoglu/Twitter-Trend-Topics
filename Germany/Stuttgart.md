@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-21 18:17:17 UTC`
+📆 Last Updated: `2023-03-21 19:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 2 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 3 | [#Heide](http://twitter.com/search?q=%23Heide) | N/A |
-| 4 | [#WissingRücktritt](http://twitter.com/search?q=%23WissingR%c3%bccktritt) | N/A |
+| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
+| 4 | [#Heide](http://twitter.com/search?q=%23Heide) | N/A |
 | 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 6 | [Luise](http://twitter.com/search?q=Luise) | N/A |
-| 7 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 8 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 8 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 9 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
 | 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 12 | [Täterinnen](http://twitter.com/search?q=T%c3%a4terinnen) | N/A |
-| 13 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 14 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 15 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
-| 16 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 17 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
-| 18 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 19 | [Freier](http://twitter.com/search?q=Freier) | N/A |
-| 20 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 21 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
-| 22 | [Mädchens](http://twitter.com/search?q=M%c3%a4dchens) | N/A |
-| 23 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 24 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 25 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 26 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 27 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 28 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
-| 29 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
-| 30 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
-| 31 | [Laschet](http://twitter.com/search?q=Laschet) | N/A |
-| 32 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 33 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 34 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
-| 35 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
-| 36 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
-| 37 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
-| 38 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
-| 39 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
-| 40 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
-| 41 | [Familiennamen](http://twitter.com/search?q=Familiennamen) | N/A |
-| 42 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
-| 43 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 44 | [Ministerpräsident](http://twitter.com/search?q=Ministerpr%c3%a4sident) | N/A |
-| 45 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
-| 46 | [Dreckspack](http://twitter.com/search?q=Dreckspack) | N/A |
-| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 48 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 49 | [Mädchengruppe](http://twitter.com/search?q=M%c3%a4dchengruppe) | N/A |
+| 13 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 14 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 15 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 16 | [schriftlich](http://twitter.com/search?q=schriftlich) | N/A |
+| 17 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 18 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
+| 19 | [Persönlichkeitsrechte](http://twitter.com/search?q=Pers%c3%b6nlichkeitsrechte) | N/A |
+| 20 | [Freier](http://twitter.com/search?q=Freier) | N/A |
+| 21 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 22 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 23 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 24 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 25 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 26 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 27 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 28 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
+| 29 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
+| 30 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
+| 31 | [Impfzentrum](http://twitter.com/search?q=Impfzentrum) | N/A |
+| 32 | [Ministerpräsident](http://twitter.com/search?q=Ministerpr%c3%a4sident) | N/A |
+| 33 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 34 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
+| 35 | [Ethikrat](http://twitter.com/search?q=Ethikrat) | N/A |
+| 36 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 37 | [Bingo](http://twitter.com/search?q=Bingo) | N/A |
+| 38 | [Schnüller](http://twitter.com/search?q=Schn%c3%bcller) | N/A |
+| 39 | [Schurken](http://twitter.com/search?q=Schurken) | N/A |
+| 40 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 41 | [Arbeitsverweigerung](http://twitter.com/search?q=Arbeitsverweigerung) | N/A |
+| 42 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 43 | [Frühlingsanfang](http://twitter.com/search?q=Fr%c3%bchlingsanfang) | N/A |
+| 44 | [Bestmarke](http://twitter.com/search?q=Bestmarke) | N/A |
+| 45 | [Familiennamen](http://twitter.com/search?q=Familiennamen) | N/A |
+| 46 | [Sexarbeit](http://twitter.com/search?q=Sexarbeit) | N/A |
+| 47 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
+| 48 | [Abschieben](http://twitter.com/search?q=Abschieben) | N/A |
+| 49 | [Rassismus gegen Deutsche](http://twitter.com/search?q=Rassismus+gegen+Deutsche) | N/A |
 
 
 

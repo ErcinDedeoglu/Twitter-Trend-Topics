@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-21 18:17:08 UTC`
+📆 Last Updated: `2023-03-21 19:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
-| 3 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 4 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 5 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 6 | [Melipilla](http://twitter.com/search?q=Melipilla) | N/A |
-| 7 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 8 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 1 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
+| 2 | [#InsultoPresidencial](http://twitter.com/search?q=%23InsultoPresidencial) | N/A |
+| 3 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
+| 4 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 5 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 6 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 7 | [Melipilla](http://twitter.com/search?q=Melipilla) | N/A |
+| 8 | [Pato Yañez](http://twitter.com/search?q=Pato+Ya%c3%b1ez) | N/A |
 | 9 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 10 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
-| 11 | [Marcelo Lagos](http://twitter.com/search?q=Marcelo+Lagos) | N/A |
-| 12 | [Valparaíso](http://twitter.com/search?q=Valpara%c3%adso) | N/A |
-| 13 | [Pato Yañez](http://twitter.com/search?q=Pato+Ya%c3%b1ez) | N/A |
+| 10 | [Marcelo Lagos](http://twitter.com/search?q=Marcelo+Lagos) | N/A |
+| 11 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 12 | [Mercalli](http://twitter.com/search?q=Mercalli) | N/A |
+| 13 | [Valparaíso](http://twitter.com/search?q=Valpara%c3%adso) | N/A |
 | 14 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 15 | [Mercalli](http://twitter.com/search?q=Mercalli) | N/A |
-| 16 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 17 | [Alipio Vera](http://twitter.com/search?q=Alipio+Vera) | N/A |
-| 18 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
-| 19 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 20 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 21 | [Merino](http://twitter.com/search?q=Merino) | N/A |
-| 22 | [Tucapel Jiménez](http://twitter.com/search?q=Tucapel+Jim%c3%a9nez) | N/A |
-| 23 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 24 | [Mateluna](http://twitter.com/search?q=Mateluna) | N/A |
-| 25 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 26 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 27 | [Fue 5.5](http://twitter.com/search?q=Fue+5.5) | N/A |
-| 28 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
-| 29 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 30 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 31 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 32 | ["Ñaju"](http://twitter.com/search?q=%22%c3%91aju%22) | N/A |
-| 33 | [Bolsillo Familiar Electrónico](http://twitter.com/search?q=Bolsillo+Familiar+Electr%c3%b3nico) | N/A |
-| 34 | [informe especial](http://twitter.com/search?q=informe+especial) | N/A |
-| 35 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 36 | [Valpo](http://twitter.com/search?q=Valpo) | N/A |
-| 37 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 38 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 39 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 40 | [Violeta Parra](http://twitter.com/search?q=Violeta+Parra) | N/A |
-| 41 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 42 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 43 | [Siii](http://twitter.com/search?q=Siii) | N/A |
-| 44 | [Patricia Maldonado](http://twitter.com/search?q=Patricia+Maldonado) | N/A |
-| 45 | [Gaspar Rivas](http://twitter.com/search?q=Gaspar+Rivas) | N/A |
-| 46 | [jappening con ja](http://twitter.com/search?q=jappening+con+ja) | N/A |
-| 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 48 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 49 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 50 | [Fach](http://twitter.com/search?q=Fach) | N/A |
+| 15 | [Valpo](http://twitter.com/search?q=Valpo) | N/A |
+| 16 | ["Ñaju"](http://twitter.com/search?q=%22%c3%91aju%22) | N/A |
+| 17 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 18 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 19 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 20 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 21 | [Fach](http://twitter.com/search?q=Fach) | N/A |
+| 22 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
+| 23 | [Narco](http://twitter.com/search?q=Narco) | N/A |
+| 24 | [Tucapel Jiménez](http://twitter.com/search?q=Tucapel+Jim%c3%a9nez) | N/A |
+| 25 | [Chancho](http://twitter.com/search?q=Chancho) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 28 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
+| 29 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
+| 30 | [Mateluna](http://twitter.com/search?q=Mateluna) | N/A |
+| 31 | [#Santiago](http://twitter.com/search?q=%23Santiago) | N/A |
+| 32 | [#HumanosAMarte](http://twitter.com/search?q=%23HumanosAMarte) | N/A |
+| 33 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
+| 34 | [#DíaMundialDeLaPoesía](http://twitter.com/search?q=%23D%c3%adaMundialDeLaPoes%c3%ada) | N/A |
+| 35 | [#AutoPrestamo](http://twitter.com/search?q=%23AutoPrestamo) | N/A |
+| 36 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
+| 37 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
+| 38 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
 
 
 

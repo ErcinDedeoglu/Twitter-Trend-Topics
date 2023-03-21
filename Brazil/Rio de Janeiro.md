@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-21 18:17:11 UTC`
+📆 Last Updated: `2023-03-21 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 2 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
-| 3 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 4 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 5 | [iduff](http://twitter.com/search?q=iduff) | N/A |
-| 6 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 7 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 8 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
-| 9 | [Feliz Aniversário](http://twitter.com/search?q=Feliz+Anivers%c3%a1rio) | N/A |
-| 10 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 11 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 1 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 2 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 3 | [#foradomitila](http://twitter.com/search?q=%23foradomitila) | N/A |
+| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 5 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 6 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 7 | [iduff](http://twitter.com/search?q=iduff) | N/A |
+| 8 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 9 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 10 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 11 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
 | 12 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 13 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
-| 14 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 15 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 13 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 14 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 15 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
 | 16 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 17 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
-| 18 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
-| 19 | [Apito](http://twitter.com/search?q=Apito) | N/A |
-| 20 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 21 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
-| 22 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 23 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
-| 24 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
-| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 26 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 27 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
-| 28 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 29 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 30 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
-| 31 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 32 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
-| 33 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 34 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
-| 35 | [chay](http://twitter.com/search?q=chay) | N/A |
-| 36 | [LOUCA DE BACARDI](http://twitter.com/search?q=LOUCA+DE+BACARDI) | N/A |
-| 37 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 38 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 39 | [Sandro Meira Ricci](http://twitter.com/search?q=Sandro+Meira+Ricci) | N/A |
-| 40 | [SUASTICA](http://twitter.com/search?q=SUASTICA) | N/A |
-| 41 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 42 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 43 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 44 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
-| 45 | [Kled](http://twitter.com/search?q=Kled) | N/A |
-| 46 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
-| 47 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 48 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
-| 49 | [sowon](http://twitter.com/search?q=sowon) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [#Monica60](http://twitter.com/search?q=%23Monica60) | N/A |
+| 18 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
+| 19 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 20 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 21 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 22 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 23 | [LULA NO 247](http://twitter.com/search?q=LULA+NO+247) | N/A |
+| 24 | [Apito](http://twitter.com/search?q=Apito) | N/A |
+| 25 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 26 | [Ajul](http://twitter.com/search?q=Ajul) | N/A |
+| 27 | [Mocetona](http://twitter.com/search?q=Mocetona) | N/A |
+| 28 | [MAIRA RESPEITE O ARTHUR](http://twitter.com/search?q=MAIRA+RESPEITE+O+ARTHUR) | N/A |
+| 29 | [SAPATO NA REPESCAGEM](http://twitter.com/search?q=SAPATO+NA+REPESCAGEM) | N/A |
+| 30 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 31 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 32 | [VEM BABY VIFUN](http://twitter.com/search?q=VEM+BABY+VIFUN) | N/A |
+| 33 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 34 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 35 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 36 | [Entidades](http://twitter.com/search?q=Entidades) | N/A |
+| 37 | [PL Mulher](http://twitter.com/search?q=PL+Mulher) | N/A |
+| 38 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 39 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 42 | [SUÁSTICA](http://twitter.com/search?q=SU%c3%81STICA) | N/A |
+| 43 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 44 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
+| 45 | [kanye west](http://twitter.com/search?q=kanye+west) | N/A |
+| 46 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 47 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 48 | [Coreia](http://twitter.com/search?q=Coreia) | N/A |
+| 49 | [Chay](http://twitter.com/search?q=Chay) | N/A |
+| 50 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
 
 
 

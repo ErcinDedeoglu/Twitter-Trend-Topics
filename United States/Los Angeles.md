@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-21 18:17:44 UTC`
+📆 Last Updated: `2023-03-21 19:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
 | 2 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 3 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 4 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 5 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 3 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 4 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 5 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
 | 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 7 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 8 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 9 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 10 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 11 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 7 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 8 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 9 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 10 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 11 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
 | 12 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 13 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 14 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 15 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 16 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 17 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 18 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 19 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 20 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 21 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 22 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 23 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 25 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
-| 26 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 27 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 28 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 29 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 30 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 31 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 32 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 33 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 34 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
-| 35 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 36 | [jack antonoff](http://twitter.com/search?q=jack+antonoff) | Jack Antonoff is an American singer, songwriter, and record producer. He is best known as the lead singer of the indie rock band Bleachers and as a member of the band Fun. He has also produced albums for Taylor Swift, Lorde, St. Vincent, and Lana Del Rey. |
-| 37 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 38 | [Cheektowaga](http://twitter.com/search?q=Cheektowaga) | N/A |
-| 39 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
-| 40 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 41 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 42 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
-| 43 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 44 | [rina](http://twitter.com/search?q=rina) | N/A |
-| 45 | [Nnadi](http://twitter.com/search?q=Nnadi) | N/A |
-| 46 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 47 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 48 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 49 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
-| 50 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 13 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 14 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 15 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 16 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 17 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 19 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 20 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 21 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 22 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 23 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 24 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 25 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 26 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
+| 27 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 28 | [Witty](http://twitter.com/search?q=Witty) | N/A |
+| 29 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 30 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 31 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 32 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 33 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 34 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 35 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 36 | [NEW JEANS](http://twitter.com/search?q=NEW+JEANS) | N/A |
+| 37 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
+| 38 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 39 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
+| 40 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
+| 41 | [Devin McCourty](http://twitter.com/search?q=Devin+McCourty) | N/A |
+| 42 | [Jack Antonoff](http://twitter.com/search?q=Jack+Antonoff) | N/A |
+| 43 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 44 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 45 | [DPReview](http://twitter.com/search?q=DPReview) | N/A |
+| 46 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 47 | [Hightower](http://twitter.com/search?q=Hightower) | N/A |
+| 48 | [Roc Royal](http://twitter.com/search?q=Roc+Royal) | N/A |
+| 49 | [Stephen Jackson](http://twitter.com/search?q=Stephen+Jackson) | N/A |
+| 50 | [rina](http://twitter.com/search?q=rina) | N/A |
 
 
 

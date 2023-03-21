@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-21 18:17:13 UTC`
+📆 Last Updated: `2023-03-21 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#RedLies](http://twitter.com/search?q=%23RedLies) | N/A |
 | 4 | [Downa](http://twitter.com/search?q=Downa) | N/A |
 | 5 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 6 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
-| 7 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 8 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 9 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 10 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 11 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 12 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 13 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 6 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 7 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
+| 8 | [David Badia](http://twitter.com/search?q=David+Badia) | N/A |
+| 9 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 10 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 12 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 13 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 14 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
 | 15 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
-| 16 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 17 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
-| 18 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 19 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
-| 20 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
-| 21 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 22 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 23 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
-| 24 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 25 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 26 | [Stadionie Śląskim](http://twitter.com/search?q=Stadionie+%c5%9al%c4%85skim) | N/A |
-| 27 | [Doktorze](http://twitter.com/search?q=Doktorze) | N/A |
-| 28 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
-| 29 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 30 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 31 | [Chorzowie](http://twitter.com/search?q=Chorzowie) | N/A |
-| 32 | [Seba](http://twitter.com/search?q=Seba) | N/A |
-| 33 | [Moskwie](http://twitter.com/search?q=Moskwie) | N/A |
-| 34 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
-| 35 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
-| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 37 | [święty józefie](http://twitter.com/search?q=%c5%9bwi%c4%99ty+j%c3%b3zefie) | N/A |
-| 38 | [Marzanny](http://twitter.com/search?q=Marzanny) | N/A |
-| 39 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
-| 40 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 41 | [Symbol](http://twitter.com/search?q=Symbol) | N/A |
-| 42 | [Francji](http://twitter.com/search?q=Francji) | N/A |
-| 43 | [SKIN OFF YOU HEATHENS](http://twitter.com/search?q=SKIN+OFF+YOU+HEATHENS) | N/A |
-| 44 | [PiSem](http://twitter.com/search?q=PiSem) | N/A |
-| 45 | [Pszczynie](http://twitter.com/search?q=Pszczynie) | N/A |
-| 46 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 47 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
-| 48 | [Dżankoj](http://twitter.com/search?q=D%c5%bcankoj) | N/A |
+| 16 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 18 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 19 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
+| 20 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 21 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
+| 22 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
+| 23 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
+| 24 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 25 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 26 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 27 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
+| 28 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 29 | [Doktorze](http://twitter.com/search?q=Doktorze) | N/A |
+| 30 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
+| 31 | [Borek](http://twitter.com/search?q=Borek) | N/A |
+| 32 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 33 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 34 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 35 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 36 | [Moskwie](http://twitter.com/search?q=Moskwie) | N/A |
+| 37 | [Stadion Śląski](http://twitter.com/search?q=Stadion+%c5%9al%c4%85ski) | N/A |
+| 38 | [Ziem Odzyskanych](http://twitter.com/search?q=Ziem+Odzyskanych) | N/A |
+| 39 | [Zdrowia](http://twitter.com/search?q=Zdrowia) | N/A |
+| 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 41 | [Skorupski](http://twitter.com/search?q=Skorupski) | N/A |
+| 42 | [Marzanny](http://twitter.com/search?q=Marzanny) | N/A |
+| 43 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
+| 44 | [Światowy Dzień Poezji](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Poezji) | N/A |
+| 45 | [Symbol](http://twitter.com/search?q=Symbol) | N/A |
+| 46 | [Markowski](http://twitter.com/search?q=Markowski) | N/A |
+| 47 | [SKIN OFF YOU HEATHENS](http://twitter.com/search?q=SKIN+OFF+YOU+HEATHENS) | N/A |
+| 48 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 
 
 

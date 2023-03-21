@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-21 18:17:53 UTC`
+📆 Last Updated: `2023-03-21 19:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Mexico
 | ------- | ------------ | ------------ |
 | 1 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
 | 2 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 3 | [#21deMarzo](http://twitter.com/search?q=%2321deMarzo) | N/A |
-| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [#PoderosoPrimaveral](http://twitter.com/search?q=%23PoderosoPrimaveral) | N/A |
-| 7 | [Leyes de Reforma](http://twitter.com/search?q=Leyes+de+Reforma) | N/A |
-| 8 | [San Pablo Guelatao](http://twitter.com/search?q=San+Pablo+Guelatao) | N/A |
-| 9 | [WELCOME TO THE QSMP VEGETTA](http://twitter.com/search?q=WELCOME+TO+THE+QSMP+VEGETTA) | N/A |
-| 10 | [Raúl Alpízar](http://twitter.com/search?q=Ra%c3%bal+Alp%c3%adzar) | N/A |
-| 11 | [#SindromeDeDown](http://twitter.com/search?q=%23SindromeDeDown) | N/A |
-| 12 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
-| 13 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 14 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
-| 15 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 16 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 17 | [El Financiero](http://twitter.com/search?q=El+Financiero) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [#ExaPicnicJoseMadero](http://twitter.com/search?q=%23ExaPicnicJoseMadero) | N/A |
+| 5 | [#AleNosUne](http://twitter.com/search?q=%23AleNosUne) | N/A |
+| 6 | [#21deMarzo](http://twitter.com/search?q=%2321deMarzo) | N/A |
+| 7 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
+| 8 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
+| 9 | [Leyes de Reforma](http://twitter.com/search?q=Leyes+de+Reforma) | N/A |
+| 10 | [#NormaPinaRepresentaALosNARCOS](http://twitter.com/search?q=%23NormaPinaRepresentaALosNARCOS) | N/A |
+| 11 | [Raúl Alpízar](http://twitter.com/search?q=Ra%c3%bal+Alp%c3%adzar) | N/A |
+| 12 | [San Pablo Guelatao](http://twitter.com/search?q=San+Pablo+Guelatao) | N/A |
+| 13 | [WELCOME TO THE QSMP VEGETTA](http://twitter.com/search?q=WELCOME+TO+THE+QSMP+VEGETTA) | N/A |
+| 14 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 15 | [El Financiero](http://twitter.com/search?q=El+Financiero) | N/A |
+| 16 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 18 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 19 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
-| 20 | [217 Aniversario](http://twitter.com/search?q=217+Aniversario) | N/A |
-| 21 | [LIKE CRAZY MV TEASER](http://twitter.com/search?q=LIKE+CRAZY+MV+TEASER) | N/A |
-| 22 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 24 | [Este 21](http://twitter.com/search?q=Este+21) | N/A |
-| 25 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 26 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 27 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 28 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 29 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 30 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 31 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 32 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 19 | [217 Aniversario](http://twitter.com/search?q=217+Aniversario) | N/A |
+| 20 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 21 | [Este 21](http://twitter.com/search?q=Este+21) | N/A |
+| 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 23 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 24 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 25 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
+| 26 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 27 | [Oaxaca](http://twitter.com/search?q=Oaxaca) | N/A |
+| 28 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 29 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 30 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 31 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 32 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 33 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 34 | [Totolapan](http://twitter.com/search?q=Totolapan) | N/A |
-| 35 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 36 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 37 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 38 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 39 | [#DíaInternacionalDeLosBosques](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLosBosques) | N/A |
-| 40 | [#DMSD2023](http://twitter.com/search?q=%23DMSD2023) | N/A |
-| 41 | [#MEin9Days](http://twitter.com/search?q=%23MEin9Days) | N/A |
-| 42 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
-| 43 | [#Efeméride](http://twitter.com/search?q=%23Efem%c3%a9ride) | N/A |
-| 44 | [#TipoDeCambio](http://twitter.com/search?q=%23TipoDeCambio) | N/A |
-| 45 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
-| 46 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
-| 47 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 48 | [#MartesCiudadano](http://twitter.com/search?q=%23MartesCiudadano) | N/A |
-| 49 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 50 | [#China](http://twitter.com/search?q=%23China) | N/A |
+| 34 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 35 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
+| 36 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 37 | [Totolapan](http://twitter.com/search?q=Totolapan) | N/A |
+| 38 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 39 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 40 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 41 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 42 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 43 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 44 | [#TXTPALOOZA_IS_BACK](http://twitter.com/search?q=%23TXTPALOOZA_IS_BACK) | N/A |
+| 45 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
+| 46 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
+| 47 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 48 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
+| 49 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 50 | [#DMSD2023](http://twitter.com/search?q=%23DMSD2023) | N/A |
 
 
 
