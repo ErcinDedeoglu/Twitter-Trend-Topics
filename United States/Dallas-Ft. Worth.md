@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-21 20:17:43 UTC`
+📆 Last Updated: `2023-03-21 21:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DrunkIntentions](http://twitter.com/search?q=%23DrunkIntentions) | N/A |
-| 2 | [#CoSN2023](http://twitter.com/search?q=%23CoSN2023) | N/A |
-| 3 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
-| 4 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
-| 5 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 6 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
-| 7 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 1 | [Arlington](http://twitter.com/search?q=Arlington) | N/A |
+| 2 | [#DrunkIntentions](http://twitter.com/search?q=%23DrunkIntentions) | N/A |
+| 3 | [#CoSN2023](http://twitter.com/search?q=%23CoSN2023) | N/A |
+| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 5 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 7 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
 | 8 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 10 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 13 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 14 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 15 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 16 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 17 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 18 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 9 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 11 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 12 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 13 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 14 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 15 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 16 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 17 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 18 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 19 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 20 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 21 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 22 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
-| 23 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 24 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 25 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 26 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 27 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 28 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 29 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 30 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 31 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
-| 32 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 33 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 34 | [Anik](http://twitter.com/search?q=Anik) | N/A |
-| 35 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 36 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
-| 37 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 38 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 39 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 40 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 42 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 43 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 44 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 45 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 46 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 47 | [Knick](http://twitter.com/search?q=Knick) | N/A |
-| 48 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
-| 49 | [Avi Kwa Ame](http://twitter.com/search?q=Avi+Kwa+Ame) | N/A |
+| 20 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 21 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 22 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
+| 23 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 24 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 25 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 26 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
+| 27 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 28 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 29 | [Witty](http://twitter.com/search?q=Witty) | N/A |
+| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 31 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 32 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
+| 33 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 34 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 35 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 36 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 37 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 38 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 39 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 40 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 41 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
+| 42 | [Anik](http://twitter.com/search?q=Anik) | N/A |
+| 43 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 44 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 45 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 46 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 47 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 48 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 49 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
 
 
 

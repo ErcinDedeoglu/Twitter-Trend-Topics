@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-21 20:16:55 UTC`
+📆 Last Updated: `2023-03-21 21:16:47 UTC`
 
 🔧 Updated every 1 hour!
 

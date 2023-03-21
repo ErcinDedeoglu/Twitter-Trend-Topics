@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-21 20:16:54 UTC`
+📆 Last Updated: `2023-03-21 21:16:47 UTC`
 
 🔧 Updated every 1 hour!
 

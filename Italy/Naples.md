@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-21 20:17:12 UTC`
+📆 Last Updated: `2023-03-21 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
-| 2 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
-| 3 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 4 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 1 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 2 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 3 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
+| 4 | [#Primavera](http://twitter.com/search?q=%23Primavera) | N/A |
 | 5 | [DUBBIO](http://twitter.com/search?q=DUBBIO) | N/A |
 | 6 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
 | 7 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
@@ -40,12 +40,12 @@ This is top 50 for [Italy](</Italy>)
 | 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 24 | [D'Ambrosio](http://twitter.com/search?q=D%27Ambrosio) | N/A |
 | 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 27 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 28 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
-| 29 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
-| 30 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
-| 31 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 26 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 27 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
+| 28 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
+| 29 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
+| 30 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 32 | [SuperTennis](http://twitter.com/search?q=SuperTennis) | N/A |
 | 33 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
 | 34 | [Giudice Sportivo](http://twitter.com/search?q=Giudice+Sportivo) | N/A |

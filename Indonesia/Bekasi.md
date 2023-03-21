@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-21 20:17:17 UTC`
+📆 Last Updated: `2023-03-21 21:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
+| 1 | [#stimunosirupaman](http://twitter.com/search?q=%23stimunosirupaman) | N/A |
 | 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 3 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 4 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
-| 5 | [prabowo pilihanideal rakyat](http://twitter.com/search?q=prabowo+pilihanideal+rakyat) | N/A |
-| 6 | [terbukti prabowo bikinnyaman](http://twitter.com/search?q=terbukti+prabowo+bikinnyaman) | N/A |
-| 7 | [kunjungi dekade 08](http://twitter.com/search?q=kunjungi+dekade+08) | N/A |
+| 4 | [prabowo pilihanideal rakyat](http://twitter.com/search?q=prabowo+pilihanideal+rakyat) | N/A |
+| 5 | [terbukti prabowo bikinnyaman](http://twitter.com/search?q=terbukti+prabowo+bikinnyaman) | N/A |
+| 6 | [kunjungi dekade 08](http://twitter.com/search?q=kunjungi+dekade+08) | N/A |
+| 7 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
 | 8 | [daya tahan tubuh](http://twitter.com/search?q=daya+tahan+tubuh) | N/A |
 | 9 | [pulung agustanto](http://twitter.com/search?q=pulung+agustanto) | N/A |
 | 10 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
@@ -43,27 +43,27 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 26 | [Angga](http://twitter.com/search?q=Angga) | N/A |
 | 27 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
 | 28 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 29 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
+| 29 | [beatbox english ver out now](http://twitter.com/search?q=beatbox+english+ver+out+now) | N/A |
 | 30 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
 | 31 | [Klepon](http://twitter.com/search?q=Klepon) | N/A |
-| 32 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 33 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
+| 32 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
+| 33 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
 | 34 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
 | 35 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 36 | [Cuti Bersama](http://twitter.com/search?q=Cuti+Bersama) | N/A |
+| 36 | [cuti bersama](http://twitter.com/search?q=cuti+bersama) | N/A |
 | 37 | [get well soon kun ge](http://twitter.com/search?q=get+well+soon+kun+ge) | N/A |
 | 38 | [kita umat terpilih](http://twitter.com/search?q=kita+umat+terpilih) | N/A |
 | 39 | [lkhp](http://twitter.com/search?q=lkhp) | N/A |
 | 40 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
 | 41 | [prima yosephine](http://twitter.com/search?q=prima+yosephine) | N/A |
-| 42 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 43 | [Kasad Dudung Ar](http://twitter.com/search?q=Kasad+Dudung+Ar) | N/A |
+| 42 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 43 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 44 | [Kiky](http://twitter.com/search?q=Kiky) | N/A |
 | 45 | [fitofarmaka](http://twitter.com/search?q=fitofarmaka) | N/A |
-| 46 | [Perppu Ciptaker Sah](http://twitter.com/search?q=Perppu+Ciptaker+Sah) | N/A |
-| 47 | [Deportasi](http://twitter.com/search?q=Deportasi) | N/A |
-| 48 | [Gus Fuad](http://twitter.com/search?q=Gus+Fuad) | N/A |
-| 49 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 46 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 47 | [Perppu Ciptaker Sah](http://twitter.com/search?q=Perppu+Ciptaker+Sah) | N/A |
+| 48 | [Deportasi](http://twitter.com/search?q=Deportasi) | N/A |
+| 49 | [Gus Fuad](http://twitter.com/search?q=Gus+Fuad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-21 20:17:59 UTC`
+📆 Last Updated: `2023-03-21 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,23 +19,23 @@ This is top 50 for Singapore
 | 2 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
 | 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 4 | [PRE RELEASE](http://twitter.com/search?q=PRE+RELEASE) | N/A |
-| 5 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 6 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 7 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 8 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
-| 9 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 10 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
-| 11 | [Byul](http://twitter.com/search?q=Byul) | N/A |
-| 12 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 13 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 14 | [$QUACK](http://twitter.com/search?q=%24QUACK) | N/A |
-| 15 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
-| 16 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 17 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 18 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 5 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 6 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
+| 7 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
+| 8 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 9 | [byul](http://twitter.com/search?q=byul) | N/A |
+| 10 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 11 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 12 | [$QUACK](http://twitter.com/search?q=%24QUACK) | N/A |
+| 13 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
+| 14 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 15 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 16 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 17 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 18 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 19 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
-| 20 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 21 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 20 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 21 | [Yong](http://twitter.com/search?q=Yong) | N/A |
 | 22 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
 | 23 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
 | 24 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Singapore
 | 31 | [sanha](http://twitter.com/search?q=sanha) | N/A |
 | 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 33 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 34 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 35 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 36 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 37 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 38 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 39 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 41 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 43 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 44 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 45 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 46 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 47 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 48 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 49 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 50 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 35 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 36 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 37 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 38 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 39 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 40 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 41 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 42 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 43 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 44 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 45 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 48 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 50 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 
 
 

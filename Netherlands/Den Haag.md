@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-21 20:17:13 UTC`
+📆 Last Updated: `2023-03-21 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 2 | [#ontvoerd](http://twitter.com/search?q=%23ontvoerd) | N/A |
 | 3 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 4 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 4 | [#opsporingverzocht](http://twitter.com/search?q=%23opsporingverzocht) | N/A |
 | 5 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 6 | [#opsporingverzocht](http://twitter.com/search?q=%23opsporingverzocht) | N/A |
+| 6 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
 | 7 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 8 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 9 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 11 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
+| 8 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 9 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 10 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 12 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
 | 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 14 | [Goeree-Overflakkee](http://twitter.com/search?q=Goeree-Overflakkee) | N/A |
-| 15 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
+| 14 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
+| 15 | [Goeree-Overflakkee](http://twitter.com/search?q=Goeree-Overflakkee) | N/A |
 | 16 | [Discriminatie](http://twitter.com/search?q=Discriminatie) | N/A |
 | 17 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 18 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 19 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
-| 20 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 22 | [klimaatonderzoekers](http://twitter.com/search?q=klimaatonderzoekers) | N/A |
-| 23 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 24 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
-| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 26 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 27 | [Betrouwbaar](http://twitter.com/search?q=Betrouwbaar) | N/A |
-| 28 | [Onbespreekbaar](http://twitter.com/search?q=Onbespreekbaar) | N/A |
-| 29 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 30 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 18 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
+| 19 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [klimaatonderzoekers](http://twitter.com/search?q=klimaatonderzoekers) | N/A |
+| 22 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 23 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
+| 24 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 25 | [Onbespreekbaar](http://twitter.com/search?q=Onbespreekbaar) | N/A |
+| 26 | [Betrouwbaar](http://twitter.com/search?q=Betrouwbaar) | N/A |
+| 27 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 28 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 29 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 30 | [Internationale Dag](http://twitter.com/search?q=Internationale+Dag) | N/A |
 | 31 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 32 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 33 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
-| 34 | [Internationale Dag](http://twitter.com/search?q=Internationale+Dag) | N/A |
-| 35 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
-| 36 | [Tonge](http://twitter.com/search?q=Tonge) | N/A |
-| 37 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 33 | [Tonge](http://twitter.com/search?q=Tonge) | N/A |
+| 34 | [Hamstra](http://twitter.com/search?q=Hamstra) | N/A |
+| 35 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 36 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
+| 37 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
 | 38 | [overheidsfout](http://twitter.com/search?q=overheidsfout) | N/A |
 | 39 | [rai vloet](http://twitter.com/search?q=rai+vloet) | N/A |
 | 40 | [Jack van Gelder](http://twitter.com/search?q=Jack+van+Gelder) | N/A |
 | 41 | [Dodenherdenking](http://twitter.com/search?q=Dodenherdenking) | N/A |
-| 42 | [Hamstra](http://twitter.com/search?q=Hamstra) | N/A |
-| 43 | [Oranjevereniging](http://twitter.com/search?q=Oranjevereniging) | N/A |
+| 42 | [oranjevereniging](http://twitter.com/search?q=oranjevereniging) | N/A |
+| 43 | [Danny](http://twitter.com/search?q=Danny) | N/A |
 | 44 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
 | 45 | [Bruls](http://twitter.com/search?q=Bruls) | N/A |
-| 46 | [Shib](http://twitter.com/search?q=Shib) | N/A |
+| 46 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
 | 47 | [Malediven](http://twitter.com/search?q=Malediven) | N/A |
-| 48 | [Mona Keijzer](http://twitter.com/search?q=Mona+Keijzer) | N/A |
-| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 50 | [gefeliciteerd fleur](http://twitter.com/search?q=gefeliciteerd+fleur) | N/A |
+| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 49 | [gefeliciteerd fleur](http://twitter.com/search?q=gefeliciteerd+fleur) | N/A |
+| 50 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
 
 
 

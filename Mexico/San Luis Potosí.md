@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-03-21 20:17:00 UTC`
+📆 Last Updated: `2023-03-21 21:16:52 UTC`
 
 🔧 Updated every 1 hour!
 

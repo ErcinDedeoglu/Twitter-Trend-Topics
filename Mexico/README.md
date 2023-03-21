@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-21 20:17:57 UTC`
+📆 Last Updated: `2023-03-21 21:17:35 UTC`
 
 🔧 Updated every 1 hour!
 

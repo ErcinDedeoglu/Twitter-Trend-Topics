@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-21 20:18:00 UTC`
+📆 Last Updated: `2023-03-21 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 

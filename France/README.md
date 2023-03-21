@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-21 20:17:54 UTC`
+📆 Last Updated: `2023-03-21 21:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
-| 2 | [#Republique](http://twitter.com/search?q=%23Republique) | N/A |
-| 3 | [#bacstmg](http://twitter.com/search?q=%23bacstmg) | N/A |
-| 4 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 5 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 6 | [Benoit Paire](http://twitter.com/search?q=Benoit+Paire) | N/A |
-| 7 | [#manif21mars](http://twitter.com/search?q=%23manif21mars) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 10 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 11 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 12 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
-| 13 | [Vegeto](http://twitter.com/search?q=Vegeto) | N/A |
-| 14 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 15 | [Gogeta](http://twitter.com/search?q=Gogeta) | N/A |
-| 16 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 17 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
-| 18 | [Vetheo](http://twitter.com/search?q=Vetheo) | N/A |
-| 19 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 20 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 21 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 22 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
-| 23 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
-| 24 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 25 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 26 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 27 | [LLCE](http://twitter.com/search?q=LLCE) | N/A |
-| 28 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
-| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 30 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
-| 31 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 32 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 33 | [Jeudi 23](http://twitter.com/search?q=Jeudi+23) | N/A |
-| 34 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
-| 35 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
-| 36 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 37 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
-| 38 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
-| 39 | [#PJLNucléaire](http://twitter.com/search?q=%23PJLNucl%c3%a9aire) | N/A |
-| 40 | [#FreeFlorie](http://twitter.com/search?q=%23FreeFlorie) | N/A |
-| 41 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 42 | [#CensurePopulaire](http://twitter.com/search?q=%23CensurePopulaire) | N/A |
-| 43 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
-| 44 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 45 | [#Limitless](http://twitter.com/search?q=%23Limitless) | N/A |
-| 46 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 47 | [#MacronLaHonte](http://twitter.com/search?q=%23MacronLaHonte) | N/A |
-| 48 | [#Trisomie21](http://twitter.com/search?q=%23Trisomie21) | N/A |
-| 49 | [#VoltaCatalunya102](http://twitter.com/search?q=%23VoltaCatalunya102) | N/A |
-| 50 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 3 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 4 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 5 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
+| 6 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 7 | [#Republique](http://twitter.com/search?q=%23Republique) | N/A |
+| 8 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
+| 9 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 10 | [#bacstmg](http://twitter.com/search?q=%23bacstmg) | N/A |
+| 11 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 12 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
+| 13 | [Benoit Paire](http://twitter.com/search?q=Benoit+Paire) | N/A |
+| 14 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 15 | [Kokkinakis](http://twitter.com/search?q=Kokkinakis) | Kokkinakis is a Greek surname. It is derived from the Greek word "kokkinos", which means "red". In English, it can be translated to mean "red-haired". |
+| 16 | [Marcia Cross](http://twitter.com/search?q=Marcia+Cross) | N/A |
+| 17 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 19 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 20 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 21 | [Vegeto](http://twitter.com/search?q=Vegeto) | N/A |
+| 22 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
+| 23 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 24 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
+| 25 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 26 | [Gogeta](http://twitter.com/search?q=Gogeta) | N/A |
+| 27 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 29 | [Thomas Pesquet](http://twitter.com/search?q=Thomas+Pesquet) | N/A |
+| 30 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
+| 31 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
+| 32 | [Patrick Bruel](http://twitter.com/search?q=Patrick+Bruel) | N/A |
+| 33 | [Solo Leveling](http://twitter.com/search?q=Solo+Leveling) | N/A |
+| 34 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 35 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 36 | [LLCE](http://twitter.com/search?q=LLCE) | N/A |
+| 37 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 38 | [Midjourney](http://twitter.com/search?q=Midjourney) | N/A |
+| 39 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
+| 40 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 41 | [Jeudi 23](http://twitter.com/search?q=Jeudi+23) | N/A |
+| 42 | [#GOTDS](http://twitter.com/search?q=%23GOTDS) | N/A |
+| 43 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 44 | [#FreeFlorie](http://twitter.com/search?q=%23FreeFlorie) | N/A |
+| 45 | [#manif21mars](http://twitter.com/search?q=%23manif21mars) | N/A |
+| 46 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 47 | [#CensurePopulaire](http://twitter.com/search?q=%23CensurePopulaire) | N/A |
+| 48 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 49 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
+| 50 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
 
 
 

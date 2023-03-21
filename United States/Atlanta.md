@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-21 20:17:41 UTC`
+📆 Last Updated: `2023-03-21 21:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gapol](http://twitter.com/search?q=%23gapol) | N/A |
-| 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 3 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 2 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 3 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
 | 4 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 5 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 6 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 7 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 8 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 9 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 10 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 6 | [#MarchDadness](http://twitter.com/search?q=%23MarchDadness) | N/A |
+| 7 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 8 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 9 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 10 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
 | 11 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 12 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 13 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 14 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 15 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 16 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 17 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 18 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 19 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 20 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 21 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
-| 22 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 23 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 24 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 25 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 26 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 27 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
-| 28 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 29 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
-| 30 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 31 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 32 | [Anik](http://twitter.com/search?q=Anik) | N/A |
-| 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 34 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
-| 35 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 36 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 37 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 38 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 39 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 40 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 41 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 42 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 43 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 44 | [Knick](http://twitter.com/search?q=Knick) | N/A |
-| 45 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 46 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
-| 47 | [Avi Kwa Ame](http://twitter.com/search?q=Avi+Kwa+Ame) | N/A |
-| 48 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
-| 49 | [Jack Antonoff](http://twitter.com/search?q=Jack+Antonoff) | N/A |
-| 50 | [DPReview](http://twitter.com/search?q=DPReview) | N/A |
+| 12 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 13 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
+| 14 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 16 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 17 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 18 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
+| 19 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 20 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 21 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 22 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 23 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 24 | [John Kasich](http://twitter.com/search?q=John+Kasich) | N/A |
+| 25 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 26 | [Witty](http://twitter.com/search?q=Witty) | N/A |
+| 27 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 28 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 29 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
+| 30 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 31 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 32 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 33 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
+| 34 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 35 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 36 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 37 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 38 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
+| 39 | [Anik](http://twitter.com/search?q=Anik) | N/A |
+| 40 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 41 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 42 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 43 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 44 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 45 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 46 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
+| 47 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
+| 48 | [Gabriel Moreno](http://twitter.com/search?q=Gabriel+Moreno) | Gabriel Moreno is a Spanish name, derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 49 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 50 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
 
 
 

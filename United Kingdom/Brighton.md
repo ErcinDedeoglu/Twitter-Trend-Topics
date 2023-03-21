@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brighton
 
-📆 Last Updated: `2023-03-21 20:16:54 UTC`
+📆 Last Updated: `2023-03-21 21:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 2 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 3 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
-| 4 | [#Hollyoaks](http://twitter.com/search?q=%23Hollyoaks) | N/A |
-| 5 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 6 | [#wawaw](http://twitter.com/search?q=%23wawaw) | N/A |
-| 7 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
-| 8 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 9 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 10 | [#ToriesOut257](http://twitter.com/search?q=%23ToriesOut257) | N/A |
-| 11 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 12 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 13 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 14 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 15 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 16 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 19 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 20 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 21 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
-| 22 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 23 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 24 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 25 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
-| 26 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 27 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 28 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 29 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 30 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 31 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 32 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 33 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 34 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 35 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
-| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 37 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 38 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 39 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 40 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 41 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 42 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 43 | [Year 9](http://twitter.com/search?q=Year+9) | N/A |
-| 44 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 45 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 46 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 47 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 48 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 49 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 2 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 3 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 4 | [#MartinLewis](http://twitter.com/search?q=%23MartinLewis) | N/A |
+| 5 | [#TRIPLive](http://twitter.com/search?q=%23TRIPLive) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 8 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 9 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 10 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 11 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 12 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
+| 13 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 14 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 15 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 16 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 17 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
+| 18 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 19 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 20 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 21 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 22 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 23 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 24 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 26 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 27 | [David Brooks](http://twitter.com/search?q=David+Brooks) | N/A |
+| 28 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 29 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 30 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 31 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
+| 32 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 33 | [Lars](http://twitter.com/search?q=Lars) | N/A |
+| 34 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 35 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 36 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 37 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 38 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 39 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 40 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 41 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 42 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 43 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 44 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 45 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 47 | [Year 9](http://twitter.com/search?q=Year+9) | N/A |
+| 48 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 49 | [Eton](http://twitter.com/search?q=Eton) | N/A |
 
 
 

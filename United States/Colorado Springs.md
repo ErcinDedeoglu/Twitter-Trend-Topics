@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-21 20:17:43 UTC`
+📆 Last Updated: `2023-03-21 21:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 2 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 1 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
 | 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 4 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 5 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 6 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 7 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 8 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 9 | [#NationalAgDay](http://twitter.com/search?q=%23NationalAgDay) | N/A |
-| 10 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
-| 11 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 12 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 13 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 14 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 15 | [Witty](http://twitter.com/search?q=Witty) | N/A |
-| 16 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 17 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
-| 18 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 19 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 20 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 21 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 22 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 23 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 24 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 5 | [#MarchDadness](http://twitter.com/search?q=%23MarchDadness) | N/A |
+| 6 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 7 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 8 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 9 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 10 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
+| 11 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 12 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 13 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 14 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 15 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 16 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
+| 17 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 18 | [Ronald Jones](http://twitter.com/search?q=Ronald+Jones) | Ronald Jones is a common English name. It is derived from the Old Norse name Rognvaldr, which means "wise ruler". |
+| 19 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 20 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 21 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 22 | [GameStop](http://twitter.com/search?q=GameStop) | N/A |
+| 23 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 24 | [Witty](http://twitter.com/search?q=Witty) | N/A |
 | 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 26 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
-| 27 | [Josh Donaldson](http://twitter.com/search?q=Josh+Donaldson) | N/A |
-| 28 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 29 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 30 | [Jon Anik](http://twitter.com/search?q=Jon+Anik) | N/A |
-| 31 | [New Jeans](http://twitter.com/search?q=New+Jeans) | N/A |
+| 26 | [Eddie Goldman](http://twitter.com/search?q=Eddie+Goldman) | N/A |
+| 27 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 28 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 29 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
+| 30 | [Marney](http://twitter.com/search?q=Marney) | N/A |
+| 31 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
 | 32 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 33 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 34 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 35 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 36 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 37 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 38 | [Bad Company 2](http://twitter.com/search?q=Bad+Company+2) | N/A |
-| 39 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 40 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 41 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 42 | [Knick](http://twitter.com/search?q=Knick) | N/A |
-| 43 | [Slamball](http://twitter.com/search?q=Slamball) | N/A |
+| 33 | [ray ray](http://twitter.com/search?q=ray+ray) | N/A |
+| 34 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 35 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 36 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
+| 37 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 38 | [Anik](http://twitter.com/search?q=Anik) | N/A |
+| 39 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 40 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 41 | [Sid Vicious](http://twitter.com/search?q=Sid+Vicious) | N/A |
+| 42 | [Bayless](http://twitter.com/search?q=Bayless) | Bayless is a surname of English origin. It is derived from the Old English words "baeg" and "leas", meaning "woodland clearing". The name was likely given to someone who lived in or near a wooded area. |
+| 43 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-21 20:17:55 UTC`
+📆 Last Updated: `2023-03-21 21:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,9 +44,9 @@ This is top 50 for Italy
 | 27 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
 | 28 | [Fazio](http://twitter.com/search?q=Fazio) | N/A |
 | 29 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
-| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 31 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
-| 32 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 30 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
+| 31 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 33 | [SuperTennis](http://twitter.com/search?q=SuperTennis) | N/A |
 | 34 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
 | 35 | [Giudice Sportivo](http://twitter.com/search?q=Giudice+Sportivo) | N/A |
