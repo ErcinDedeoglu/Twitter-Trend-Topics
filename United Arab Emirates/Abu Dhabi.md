@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-03-21 00:28:09 UTC`
+📆 Last Updated: `2023-03-21 01:43:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,17 +19,17 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 2 | [#ReleaseSiddiqueJaan](http://twitter.com/search?q=%23ReleaseSiddiqueJaan) | N/A |
 | 3 | [#يوم_السعاده_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 4 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 5 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
-| 6 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 7 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 8 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 9 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 10 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 11 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 12 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 13 | [20 مارس](http://twitter.com/search?q=20+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 14 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 5 | [#اليوم_العالمي_للسعاده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 6 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 7 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
+| 8 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 9 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 10 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 11 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 12 | [20 مارس](http://twitter.com/search?q=20+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 13 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 14 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 15 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 16 | [سلطان بن محمد القاسمي](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85%d9%8a) | N/A |
 | 17 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
 | 18 | [عدم الزاميه](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%b2%d8%a7%d9%85%d9%8a%d9%87) | N/A |
@@ -53,9 +53,9 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 36 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 37 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 38 | [فيسكا بارسا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b3%d9%83%d8%a7+%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
-| 39 | [بو خالد](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 40 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 41 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 39 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 40 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 41 | [بو خالد](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
 | 42 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
 | 43 | [صاحب السمو الشيخ الدكتور](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
 | 44 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |

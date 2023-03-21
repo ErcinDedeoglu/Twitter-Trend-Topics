@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-21 00:28:31 UTC`
+📆 Last Updated: `2023-03-21 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,14 +53,14 @@ This is top 50 for Qatar
 | 36 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
 | 37 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
 | 38 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 39 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 40 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 41 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
-| 42 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 43 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 44 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 45 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 46 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 39 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
+| 40 | [ليفركوزن](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86) | N/A |
+| 41 | [حقوق الانسان](http://twitter.com/search?q=%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
+| 42 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 43 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 44 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 45 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 46 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
 | 47 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 48 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 49 | [حمد بن خليفه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |

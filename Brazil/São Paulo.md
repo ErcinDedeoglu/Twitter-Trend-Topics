@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-21 00:27:48 UTC`
+📆 Last Updated: `2023-03-21 01:43:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 2 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 3 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 4 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
-| 5 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 6 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 7 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 8 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 9 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 10 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
-| 11 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
-| 12 | [LANÇAMENTO RANCOROSA](http://twitter.com/search?q=LAN%c3%87AMENTO+RANCOROSA) | N/A |
-| 13 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 14 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 15 | [Renata Vasconcellos](http://twitter.com/search?q=Renata+Vasconcellos) | N/A |
-| 16 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
-| 17 | [Alberto Youssef](http://twitter.com/search?q=Alberto+Youssef) | N/A |
-| 18 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 19 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 20 | [Mandetta](http://twitter.com/search?q=Mandetta) | N/A |
-| 21 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 22 | [#SelfiesPraAmarVocê](http://twitter.com/search?q=%23SelfiesPraAmarVoc%c3%aa) | N/A |
-| 23 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 24 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 25 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 26 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 27 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 28 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 29 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 30 | [Emílio Dantas](http://twitter.com/search?q=Em%c3%adlio+Dantas) | N/A |
-| 31 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
-| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 33 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 34 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 35 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 36 | [Nobel de Economia](http://twitter.com/search?q=Nobel+de+Economia) | N/A |
-| 37 | [Carmen Miranda](http://twitter.com/search?q=Carmen+Miranda) | N/A |
-| 38 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
-| 39 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 40 | [Camila Queiroz](http://twitter.com/search?q=Camila+Queiroz) | N/A |
-| 41 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 42 | [Thiago Lacerda](http://twitter.com/search?q=Thiago+Lacerda) | N/A |
-| 43 | [Joseph Stiglitz](http://twitter.com/search?q=Joseph+Stiglitz) | N/A |
-| 44 | [PARABENS BIEL](http://twitter.com/search?q=PARABENS+BIEL) | N/A |
-| 45 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
-| 46 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 47 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 48 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
-| 49 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 50 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 1 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 2 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 3 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 4 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
+| 5 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
+| 6 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
+| 7 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
+| 8 | [Jean Lucas](http://twitter.com/search?q=Jean+Lucas) | N/A |
+| 9 | [Barolo](http://twitter.com/search?q=Barolo) | N/A |
+| 10 | [Liste 5](http://twitter.com/search?q=Liste+5) | N/A |
+| 11 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 12 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 14 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 15 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 16 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 17 | [Tailândia](http://twitter.com/search?q=Tail%c3%a2ndia) | N/A |
+| 18 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
+| 19 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 20 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 21 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 22 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
+| 23 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 24 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 25 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 26 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
+| 27 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 28 | [LANÇAMENTO RANCOROSA](http://twitter.com/search?q=LAN%c3%87AMENTO+RANCOROSA) | N/A |
+| 29 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 30 | [OUÇA DEUS PERDOA](http://twitter.com/search?q=OU%c3%87A+DEUS+PERDOA) | N/A |
+| 31 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 32 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 33 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 34 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 35 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
+| 36 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 37 | [Oliver Sykes](http://twitter.com/search?q=Oliver+Sykes) | N/A |
+| 38 | [Pescou](http://twitter.com/search?q=Pescou) | N/A |
+| 39 | [Renata Vasconcellos](http://twitter.com/search?q=Renata+Vasconcellos) | N/A |
+| 40 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
+| 41 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 42 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 43 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 44 | [Contra o Flamengo](http://twitter.com/search?q=Contra+o+Flamengo) | N/A |
+| 45 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
+| 46 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
+| 47 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 48 | [Mandetta](http://twitter.com/search?q=Mandetta) | N/A |
+| 49 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 50 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
 
 
 

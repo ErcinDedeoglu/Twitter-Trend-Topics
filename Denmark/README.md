@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-21 00:28:27 UTC`
+📆 Last Updated: `2023-03-21 01:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [#fcnbif](http://twitter.com/search?q=%23fcnbif) | N/A |
 | 2 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
-| 3 | [Bælum](http://twitter.com/search?q=B%c3%a6lum) | N/A |
+| 3 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
 | 4 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 5 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
 | 6 | [mads hermansen](http://twitter.com/search?q=mads+hermansen) | N/A |
@@ -30,17 +30,17 @@ This is top 50 for Denmark
 | 13 | [kvistgaarden](http://twitter.com/search?q=kvistgaarden) | N/A |
 | 14 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
 | 15 | [maxsø](http://twitter.com/search?q=maxs%c3%b8) | N/A |
-| 16 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 17 | [vallys](http://twitter.com/search?q=vallys) | N/A |
-| 18 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
-| 19 | [lars friis](http://twitter.com/search?q=lars+friis) | N/A |
-| 20 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 21 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 22 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | N/A |
-| 23 | [Ementa](http://twitter.com/search?q=Ementa) | N/A |
-| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 25 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 26 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 16 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 17 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 18 | [lars friis](http://twitter.com/search?q=lars+friis) | N/A |
+| 19 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 20 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 21 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
+| 22 | [ementa](http://twitter.com/search?q=ementa) | N/A |
+| 23 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 24 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 25 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 26 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 27 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 28 | [Erik](http://twitter.com/search?q=Erik) | N/A |
 | 29 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for Denmark
 | 34 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
 | 35 | [putros](http://twitter.com/search?q=putros) | N/A |
 | 36 | [Farum](http://twitter.com/search?q=Farum) | N/A |
-| 37 | [diks](http://twitter.com/search?q=diks) | N/A |
+| 37 | [Diks](http://twitter.com/search?q=Diks) | N/A |
 | 38 | [winther](http://twitter.com/search?q=winther) | N/A |
 | 39 | [Svend](http://twitter.com/search?q=Svend) | N/A |
 | 40 | [Irak](http://twitter.com/search?q=Irak) | N/A |

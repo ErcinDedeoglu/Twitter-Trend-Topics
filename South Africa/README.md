@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-21 00:28:32 UTC`
+📆 Last Updated: `2023-03-21 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,12 +29,12 @@ This is top 50 for South Africa
 | 12 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
 | 13 | [#RamaphosaMustGo](http://twitter.com/search?q=%23RamaphosaMustGo) | N/A |
 | 14 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 15 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 16 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 15 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 16 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
 | 17 | [Carl](http://twitter.com/search?q=Carl) | N/A |
 | 18 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 19 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 20 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 19 | [Mbaks](http://twitter.com/search?q=Mbaks) | N/A |
+| 20 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 | 21 | [Royals](http://twitter.com/search?q=Royals) | N/A |
 | 22 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
 | 23 | [Dali Mpofu](http://twitter.com/search?q=Dali+Mpofu) | N/A |
@@ -42,22 +42,22 @@ This is top 50 for South Africa
 | 25 | [braamfontein](http://twitter.com/search?q=braamfontein) | N/A |
 | 26 | [Failed](http://twitter.com/search?q=Failed) | N/A |
 | 27 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 28 | [Church square](http://twitter.com/search?q=Church+square) | N/A |
+| 28 | [church square](http://twitter.com/search?q=church+square) | N/A |
 | 29 | [Alostro](http://twitter.com/search?q=Alostro) | N/A |
 | 30 | [Come 2024](http://twitter.com/search?q=Come+2024) | N/A |
 | 31 | [Bomb](http://twitter.com/search?q=Bomb) | N/A |
 | 32 | [Marikana](http://twitter.com/search?q=Marikana) | N/A |
 | 33 | [Union Buildings](http://twitter.com/search?q=Union+Buildings) | N/A |
 | 34 | [Fighters](http://twitter.com/search?q=Fighters) | N/A |
-| 35 | [PTA CBD](http://twitter.com/search?q=PTA+CBD) | N/A |
-| 36 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 37 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 38 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 35 | [pta cbd](http://twitter.com/search?q=pta+cbd) | N/A |
+| 36 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 37 | [Wena](http://twitter.com/search?q=Wena) | N/A |
+| 38 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
 | 39 | [Nota](http://twitter.com/search?q=Nota) | N/A |
 | 40 | [Pretoria](http://twitter.com/search?q=Pretoria) | Pretoria is the administrative capital of South Africa. It is located in the northern part of Gauteng province and is one of the country's three capital cities, along with Cape Town and Bloemfontein. The name Pretoria comes from the Voortrekker leader Andries Pretorius, who founded the city in 1855. The English translation of Pretoria is "honor" or "respect". |
-| 41 | [ipeleng and ebubu](http://twitter.com/search?q=ipeleng+and+ebubu) | N/A |
-| 42 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
-| 43 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 41 | [Lizzy](http://twitter.com/search?q=Lizzy) | N/A |
+| 42 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 43 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
 | 44 | [Pimville](http://twitter.com/search?q=Pimville) | N/A |
 | 45 | [Chest](http://twitter.com/search?q=Chest) | N/A |
 | 46 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |

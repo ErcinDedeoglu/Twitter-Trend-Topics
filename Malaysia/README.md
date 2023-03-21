@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-21 00:28:30 UTC`
+📆 Last Updated: `2023-03-21 01:44:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Malaysia
 | ------- | ------------ | ------------ |
 | 1 | [#EXOSCinKL](http://twitter.com/search?q=%23EXOSCinKL) | N/A |
 | 2 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
-| 3 | [#BACKTOBACK_IN_KL](http://twitter.com/search?q=%23BACKTOBACK_IN_KL) | N/A |
-| 4 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
-| 5 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 3 | [#HyunjinPaintsTheWorld](http://twitter.com/search?q=%23HyunjinPaintsTheWorld) | N/A |
+| 4 | [#영원보다_오래_사랑해_현진아](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%eb%b3%b4%eb%8b%a4_%ec%98%a4%eb%9e%98_%ec%82%ac%eb%9e%91%ed%95%b4_%ed%98%84%ec%a7%84%ec%95%84) | N/A |
+| 5 | [#BACKTOBACK_IN_KL](http://twitter.com/search?q=%23BACKTOBACK_IN_KL) | N/A |
 | 6 | [#YetToCome](http://twitter.com/search?q=%23YetToCome) | #YetToCome is a hashtag used to express anticipation for something that has yet to happen. It can be used to express excitement for an upcoming event, or to express hope for something that has not yet occurred. |
 | 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 8 | [BOBBY CHERRY BLOSSOM RELEASE](http://twitter.com/search?q=BOBBY+CHERRY+BLOSSOM+RELEASE) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for Malaysia
 | 12 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
 | 13 | [FLOWER BY JISOO](http://twitter.com/search?q=FLOWER+BY+JISOO) | N/A |
 | 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 15 | [TIERNEY](http://twitter.com/search?q=TIERNEY) | N/A |
-| 16 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
-| 17 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 18 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 19 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 21 | [Aida](http://twitter.com/search?q=Aida) | N/A |
-| 22 | [happy 3rd anniversary dolla](http://twitter.com/search?q=happy+3rd+anniversary+dolla) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [LISTEN TO NEVERLAND](http://twitter.com/search?q=LISTEN+TO+NEVERLAND) | N/A |
+| 15 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 17 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
+| 18 | [happy 3rd anniversary dolla](http://twitter.com/search?q=happy+3rd+anniversary+dolla) | N/A |
+| 19 | [LISTEN TO NEVERLAND](http://twitter.com/search?q=LISTEN+TO+NEVERLAND) | N/A |
+| 20 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
+| 21 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
+| 22 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 24 | [DSAI](http://twitter.com/search?q=DSAI) | N/A |
 | 25 | [11 Years With Ilhoon](http://twitter.com/search?q=11+Years+With+Ilhoon) | N/A |
-| 26 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
-| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 28 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
-| 29 | [DSAI](http://twitter.com/search?q=DSAI) | N/A |
-| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 31 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 32 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 33 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 38 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 39 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 40 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
-| 41 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
-| 42 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 43 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 44 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 45 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 26 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 27 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 28 | [Aida](http://twitter.com/search?q=Aida) | N/A |
+| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 30 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 32 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 33 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 34 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 35 | [KLIA](http://twitter.com/search?q=KLIA) | N/A |
+| 36 | [Strong Heart](http://twitter.com/search?q=Strong+Heart) | N/A |
+| 37 | [Dr M](http://twitter.com/search?q=Dr+M) | N/A |
+| 38 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 39 | [Anthony Loke](http://twitter.com/search?q=Anthony+Loke) | N/A |
+| 40 | [Betul](http://twitter.com/search?q=Betul) | N/A |
+| 41 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 42 | [KEP1ER IS LOVESTRUCK](http://twitter.com/search?q=KEP1ER+IS+LOVESTRUCK) | N/A |
+| 43 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 44 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 45 | [Perez](http://twitter.com/search?q=Perez) | N/A |
 | 46 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 49 | [Dr M](http://twitter.com/search?q=Dr+M) | N/A |
-| 50 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 48 | [taeyang](http://twitter.com/search?q=taeyang) | Taeyang is a Korean word meaning "sun". It is often used as a name for boys in Korea. |
+| 49 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 50 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 
 
 

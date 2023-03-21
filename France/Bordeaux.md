@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-21 00:27:51 UTC`
+📆 Last Updated: `2023-03-21 01:43:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 2 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 3 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 4 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
-| 5 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
-| 6 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 7 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 8 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
-| 9 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
-| 10 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
-| 11 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 12 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
-| 13 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 14 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 15 | [Brut](http://twitter.com/search?q=Brut) | N/A |
-| 16 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 17 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 18 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 19 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 20 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 21 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 22 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 23 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
-| 24 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 25 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
-| 26 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
-| 27 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 28 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
-| 29 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 30 | [Louis Boyard](http://twitter.com/search?q=Louis+Boyard) | N/A |
-| 31 | [19 LR](http://twitter.com/search?q=19+LR) | N/A |
-| 32 | [Antoine Daniel](http://twitter.com/search?q=Antoine+Daniel) | N/A |
-| 33 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
-| 34 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 35 | [Elisabeth](http://twitter.com/search?q=Elisabeth) | N/A |
-| 36 | [Anthony Roux](http://twitter.com/search?q=Anthony+Roux) | N/A |
-| 37 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 38 | [Démissionne](http://twitter.com/search?q=D%c3%a9missionne) | N/A |
-| 39 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
-| 40 | [Les Républicains](http://twitter.com/search?q=Les+R%c3%a9publicains) | N/A |
-| 41 | [Raté](http://twitter.com/search?q=Rat%c3%a9) | N/A |
-| 42 | [Louis XIV](http://twitter.com/search?q=Louis+XIV) | N/A |
-| 43 | [Dofus](http://twitter.com/search?q=Dofus) | N/A |
-| 44 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 45 | [Ménard](http://twitter.com/search?q=M%c3%a9nard) | N/A |
-| 46 | [Tolbiac](http://twitter.com/search?q=Tolbiac) | N/A |
-| 47 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 48 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
-| 49 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
-| 50 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
+| 1 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 2 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 3 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 4 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 5 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 6 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 7 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 8 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 9 | [9 voix](http://twitter.com/search?q=9+voix) | N/A |
+| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 11 | [C'EST LA GUERRE](http://twitter.com/search?q=C%27EST+LA+GUERRE) | N/A |
+| 12 | [Vauban](http://twitter.com/search?q=Vauban) | N/A |
+| 13 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 14 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 16 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
+| 17 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 18 | [Courson](http://twitter.com/search?q=Courson) | N/A |
+| 19 | [BRAV](http://twitter.com/search?q=BRAV) | N/A |
+| 20 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
+| 21 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 22 | [Laurent Abrahams](http://twitter.com/search?q=Laurent+Abrahams) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 25 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
+| 26 | [Caligula](http://twitter.com/search?q=Caligula) | N/A |
+| 27 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 28 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 29 | [Cheminement](http://twitter.com/search?q=Cheminement) | N/A |
+| 30 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 31 | [Gotaga](http://twitter.com/search?q=Gotaga) | N/A |
+| 32 | [18h45](http://twitter.com/search?q=18h45) | N/A |
+| 33 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 34 | [Brut](http://twitter.com/search?q=Brut) | N/A |
+| 35 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 36 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 37 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
+| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 39 | [W-870](http://twitter.com/search?q=W-870) | N/A |
+| 40 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 41 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 42 | [Pour 9](http://twitter.com/search?q=Pour+9) | N/A |
+| 43 | [Marleix](http://twitter.com/search?q=Marleix) | N/A |
+| 44 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
+| 45 | [Brasilia](http://twitter.com/search?q=Brasilia) | N/A |
+| 46 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 47 | [Anthony Roux](http://twitter.com/search?q=Anthony+Roux) | N/A |
+| 48 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 49 | [NEUF VOIX](http://twitter.com/search?q=NEUF+VOIX) | N/A |
+| 50 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
 
 
 

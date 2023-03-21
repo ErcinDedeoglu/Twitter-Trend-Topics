@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-21 00:28:22 UTC`
+📆 Last Updated: `2023-03-21 01:43:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 4 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 5 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 6 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 7 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 8 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 9 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
-| 10 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 11 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 12 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 13 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 14 | [#BlindGuess](http://twitter.com/search?q=%23BlindGuess) | N/A |
-| 15 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 16 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 17 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 18 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 19 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 20 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 21 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 22 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 23 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 24 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 25 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 26 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 27 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 28 | [3-0 Mexico](http://twitter.com/search?q=3-0+Mexico) | N/A |
-| 29 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 30 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
-| 31 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 32 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
-| 33 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
-| 34 | [Josh Dobbs](http://twitter.com/search?q=Josh+Dobbs) | N/A |
-| 35 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 36 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 37 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 38 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
-| 39 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
-| 40 | [Oats](http://twitter.com/search?q=Oats) | N/A |
-| 41 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 42 | [Van Gundy](http://twitter.com/search?q=Van+Gundy) | N/A |
-| 43 | [Shewmake](http://twitter.com/search?q=Shewmake) | N/A |
-| 44 | [KO and Sami](http://twitter.com/search?q=KO+and+Sami) | N/A |
-| 45 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 46 | [Trump Tower](http://twitter.com/search?q=Trump+Tower) | N/A |
-| 47 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 48 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 1 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 2 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 5 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 6 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 7 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 8 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 9 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 10 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 11 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 12 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 13 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 14 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
+| 15 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 16 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 17 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 18 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 19 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 20 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 21 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 22 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 23 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 24 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 25 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
+| 26 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 27 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 28 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 29 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 30 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 31 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 32 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 33 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 34 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 35 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 36 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 37 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 38 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 39 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 40 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 41 | [Melton](http://twitter.com/search?q=Melton) | N/A |
+| 42 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 43 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
+| 44 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
+| 45 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 46 | [THE NOSE RING](http://twitter.com/search?q=THE+NOSE+RING) | N/A |
+| 47 | [Chelsea Green](http://twitter.com/search?q=Chelsea+Green) | Chelsea Green is a phrase used to describe a person or organization that is environmentally conscious and committed to sustainable practices. It is often used to refer to people who are actively involved in environmental activism, such as those who work for green businesses or organizations. The phrase can also be used to describe a lifestyle that is focused on reducing one's environmental impact. |
+| 48 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
 
 
 

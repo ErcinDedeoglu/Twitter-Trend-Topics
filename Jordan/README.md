@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-21 00:28:29 UTC`
+📆 Last Updated: `2023-03-21 01:44:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Jordan
 | 1 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
 | 2 | [#عيد_الام](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
 | 3 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 4 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 5 | [#معركه_الكرامه](http://twitter.com/search?q=%23%d9%85%d8%b9%d8%b1%d9%83%d9%87_%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d9%87) | N/A |
+| 4 | [#معركه_الكرامه](http://twitter.com/search?q=%23%d9%85%d8%b9%d8%b1%d9%83%d9%87_%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d9%87) | N/A |
+| 5 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
 | 6 | [لإسرائيل](http://twitter.com/search?q=%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 7 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
 | 8 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Jordan
 | 44 | [رمضان مبارك](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 45 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
 | 46 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 47 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 48 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 49 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 50 | [الاعفاءات الطبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%81%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d9%87) | N/A |
+| 47 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
+| 48 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 49 | [الاعفاءات الطبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%81%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d9%87) | N/A |
+| 50 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 
 
 

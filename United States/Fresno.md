@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-21 00:28:19 UTC`
+📆 Last Updated: `2023-03-21 01:43:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 2 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 1 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 2 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
 | 3 | [LAUSD](http://twitter.com/search?q=LAUSD) | N/A |
-| 4 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 5 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 6 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
-| 7 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 10 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 11 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 12 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 14 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 16 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 17 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 18 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 19 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 20 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 21 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
-| 22 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
-| 23 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
-| 24 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 25 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 26 | [Amanda Bynes](http://twitter.com/search?q=Amanda+Bynes) | N/A |
-| 27 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 28 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 29 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 30 | [Singletary](http://twitter.com/search?q=Singletary) | N/A |
-| 31 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 32 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
-| 33 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 34 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 35 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 36 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 37 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 38 | [3-0 Mexico](http://twitter.com/search?q=3-0+Mexico) | N/A |
-| 39 | [Deja Kelly](http://twitter.com/search?q=Deja+Kelly) | N/A |
-| 40 | [Schultz](http://twitter.com/search?q=Schultz) | Schultz is a German surname derived from the word "schultheiss," which means mayor or magistrate. It is also a common Jewish surname, likely derived from the Yiddish word "shul," meaning synagogue. |
-| 41 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 42 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
-| 43 | [Mooncaller](http://twitter.com/search?q=Mooncaller) | N/A |
-| 44 | [Josh Dobbs](http://twitter.com/search?q=Josh+Dobbs) | N/A |
-| 45 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 46 | [Jim Acosta](http://twitter.com/search?q=Jim+Acosta) | N/A |
-| 47 | [APPREHENDED](http://twitter.com/search?q=APPREHENDED) | N/A |
-| 48 | [Jacy Sheldon](http://twitter.com/search?q=Jacy+Sheldon) | N/A |
-| 49 | [Oats](http://twitter.com/search?q=Oats) | N/A |
+| 4 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 5 | [Mexico vs Japan](http://twitter.com/search?q=Mexico+vs+Japan) | N/A |
+| 6 | [#WBC2003](http://twitter.com/search?q=%23WBC2003) | N/A |
+| 7 | [#WBCBaseball](http://twitter.com/search?q=%23WBCBaseball) | N/A |
+| 8 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
+| 9 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 10 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 11 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 12 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
+| 13 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 14 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 15 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 16 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 17 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 18 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 19 | [Kandi](http://twitter.com/search?q=Kandi) | N/A |
+| 20 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 21 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 22 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 24 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 25 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 26 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 27 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 28 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 29 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 30 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 31 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 32 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
+| 33 | [Saban](http://twitter.com/search?q=Saban) | Saban is a Turkish name derived from the Arabic word for “wise” or “learned.” It is also used as a surname in some parts of the world. In English, Saban can be translated to mean “wise one” or “wise man.” |
+| 34 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 35 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 36 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 37 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 38 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 39 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 40 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 41 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 42 | [Vamos Mexico](http://twitter.com/search?q=Vamos+Mexico) | N/A |
+| 43 | [Damien Harris](http://twitter.com/search?q=Damien+Harris) | N/A |
+| 44 | [Montez](http://twitter.com/search?q=Montez) | N/A |
+| 45 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 46 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 47 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 48 | [Franklin Graham](http://twitter.com/search?q=Franklin+Graham) | N/A |
+| 49 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
 
 
 

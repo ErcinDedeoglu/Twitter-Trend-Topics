@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-21 00:27:48 UTC`
+📆 Last Updated: `2023-03-21 01:43:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 2 | [Willian Bigode](http://twitter.com/search?q=Willian+Bigode) | N/A |
-| 3 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 4 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 5 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
-| 6 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
-| 7 | [LANÇAMENTO RANCOROSA](http://twitter.com/search?q=LAN%c3%87AMENTO+RANCOROSA) | N/A |
-| 8 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 9 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 10 | [Renata Vasconcellos](http://twitter.com/search?q=Renata+Vasconcellos) | N/A |
-| 11 | [JOELMA NO TVZ POCAH](http://twitter.com/search?q=JOELMA+NO+TVZ+POCAH) | N/A |
-| 12 | [Alberto Youssef](http://twitter.com/search?q=Alberto+Youssef) | N/A |
-| 13 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 14 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 15 | [Mandetta](http://twitter.com/search?q=Mandetta) | N/A |
-| 16 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 17 | [#SelfiesPraAmarVocê](http://twitter.com/search?q=%23SelfiesPraAmarVoc%c3%aa) | N/A |
-| 18 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 19 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
-| 20 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 21 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
-| 22 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 23 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 24 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
-| 27 | [Emílio Dantas](http://twitter.com/search?q=Em%c3%adlio+Dantas) | N/A |
-| 28 | [Bridgerton](http://twitter.com/search?q=Bridgerton) | N/A |
-| 29 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 30 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 31 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 32 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 33 | [Nobel de Economia](http://twitter.com/search?q=Nobel+de+Economia) | N/A |
-| 34 | [Carmen Miranda](http://twitter.com/search?q=Carmen+Miranda) | N/A |
-| 35 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
-| 36 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 37 | [Camila Queiroz](http://twitter.com/search?q=Camila+Queiroz) | N/A |
-| 38 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 39 | [Thiago Lacerda](http://twitter.com/search?q=Thiago+Lacerda) | N/A |
-| 40 | [Joseph Stiglitz](http://twitter.com/search?q=Joseph+Stiglitz) | N/A |
-| 41 | [PARABENS BIEL](http://twitter.com/search?q=PARABENS+BIEL) | N/A |
-| 42 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
-| 43 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 44 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 45 | [Cosmo](http://twitter.com/search?q=Cosmo) | N/A |
-| 46 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 47 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 48 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 49 | [Red Bull Bragantino](http://twitter.com/search?q=Red+Bull+Bragantino) | N/A |
-| 50 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 2 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
+| 3 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 4 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 5 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 6 | [Rodrigo Sam](http://twitter.com/search?q=Rodrigo+Sam) | N/A |
+| 7 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 8 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 9 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 10 | [CHAMEGO STELOISA](http://twitter.com/search?q=CHAMEGO+STELOISA) | N/A |
+| 11 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 12 | [LANÇAMENTO RANCOROSA](http://twitter.com/search?q=LAN%c3%87AMENTO+RANCOROSA) | N/A |
+| 13 | [Gattaz](http://twitter.com/search?q=Gattaz) | N/A |
+| 14 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 15 | [OUÇA DEUS PERDOA](http://twitter.com/search?q=OU%c3%87A+DEUS+PERDOA) | N/A |
+| 16 | [Diego Ribas](http://twitter.com/search?q=Diego+Ribas) | N/A |
+| 17 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 19 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
+| 20 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 21 | [Oliver Sykes](http://twitter.com/search?q=Oliver+Sykes) | N/A |
+| 22 | [Pescou](http://twitter.com/search?q=Pescou) | N/A |
+| 23 | [Renata Vasconcellos](http://twitter.com/search?q=Renata+Vasconcellos) | N/A |
+| 24 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 25 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 26 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
+| 27 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 28 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
+| 29 | [Contra o Flamengo](http://twitter.com/search?q=Contra+o+Flamengo) | N/A |
+| 30 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
+| 31 | [ufrj](http://twitter.com/search?q=ufrj) | N/A |
+| 32 | [Mandetta](http://twitter.com/search?q=Mandetta) | N/A |
+| 33 | [Áries](http://twitter.com/search?q=%c3%81ries) | N/A |
+| 34 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 35 | [CASSAÇÃO E JÚLIA NA CADEIA](http://twitter.com/search?q=CASSA%c3%87%c3%83O+E+J%c3%9aLIA+NA+CADEIA) | N/A |
+| 36 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 37 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 38 | [#RodaViva](http://twitter.com/search?q=%23RodaViva) | N/A |
+| 39 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
+| 40 | [Vic Albuquerque](http://twitter.com/search?q=Vic+Albuquerque) | N/A |
+| 41 | [Headliner](http://twitter.com/search?q=Headliner) | N/A |
+| 42 | [Desde 2009](http://twitter.com/search?q=Desde+2009) | N/A |
+| 43 | [Ferroviária](http://twitter.com/search?q=Ferrovi%c3%a1ria) | N/A |
+| 44 | [#FicaFred](http://twitter.com/search?q=%23FicaFred) | N/A |
+| 45 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 46 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
+| 47 | [#SelfiesPraAmarVocê](http://twitter.com/search?q=%23SelfiesPraAmarVoc%c3%aa) | N/A |
+| 48 | [Helô](http://twitter.com/search?q=Hel%c3%b4) | N/A |
+| 49 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 50 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
 
 
 

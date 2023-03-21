@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-21 00:28:28 UTC`
+📆 Last Updated: `2023-03-21 01:44:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,35 +16,35 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [עם פלסטיני](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a0%d7%99) | N/A |
-| 2 | [שר משפטים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d) | N/A |
-| 3 | [שני שופטים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d) | N/A |
-| 4 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 2 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
+| 3 | [שר משפטים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d) | N/A |
+| 4 | [שני שופטים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d) | N/A |
 | 5 | [נשיא בית המשפט](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%91%d7%99%d7%aa+%d7%94%d7%9e%d7%a9%d7%a4%d7%98) | N/A |
 | 6 | [אור אשכר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%90%d7%a9%d7%9b%d7%a8) | N/A |
-| 7 | [של רוטמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
-| 8 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 9 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
-| 10 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 11 | [שופטים שמרנים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9e%d7%a8%d7%a0%d7%99%d7%9d) | N/A |
-| 12 | [שלמות העם](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%95%d7%aa+%d7%94%d7%a2%d7%9d) | N/A |
+| 7 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 8 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 9 | [של רוטמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
+| 10 | [שופטים שמרנים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9e%d7%a8%d7%a0%d7%99%d7%9d) | N/A |
+| 11 | [שלמות העם](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%95%d7%aa+%d7%94%d7%a2%d7%9d) | N/A |
+| 12 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
 | 13 | [שהם עם](http://twitter.com/search?q=%d7%a9%d7%94%d7%9d+%d7%a2%d7%9d) | N/A |
-| 14 | [שופטים מטעם](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%9e%d7%98%d7%a2%d7%9d) | N/A |
-| 15 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
-| 16 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
-| 17 | [עם יהודי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
+| 14 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 15 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 16 | [עם יהודי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%94%d7%95%d7%93%d7%99) | N/A |
+| 17 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
 | 18 | [משה מירון](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%9e%d7%99%d7%a8%d7%95%d7%9f) | N/A |
 | 19 | [David Stern](http://twitter.com/search?q=David+Stern) | N/A |
-| 20 | [טלי גוטליב](http://twitter.com/search?q=%d7%98%d7%9c%d7%99+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
-| 21 | [ישראל כץ](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9b%d7%a5) | N/A |
-| 22 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 20 | [ישראל כץ](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9b%d7%a5) | N/A |
+| 21 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 22 | [טלי גוטליב](http://twitter.com/search?q=%d7%98%d7%9c%d7%99+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
 | 23 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 24 | [ארץ ישראל](http://twitter.com/search?q=%d7%90%d7%a8%d7%a5+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 25 | [פיגוע ירי](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%99%d7%a8%d7%99) | N/A |
-| 26 | [עם ירדן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a8%d7%93%d7%9f) | N/A |
-| 27 | [של הממלכה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9e%d7%9e%d7%9c%d7%9b%d7%94) | N/A |
-| 28 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 29 | [שום ריכוך](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%a8%d7%99%d7%9b%d7%95%d7%9a) | N/A |
-| 30 | [ארגון פשע](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%a4%d7%a9%d7%a2) | N/A |
+| 25 | [שופטים מטעם](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%9e%d7%98%d7%a2%d7%9d) | N/A |
+| 26 | [פיגוע ירי](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%99%d7%a8%d7%99) | N/A |
+| 27 | [עם ירדן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a8%d7%93%d7%9f) | N/A |
+| 28 | [של הממלכה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9e%d7%9e%d7%9c%d7%9b%d7%94) | N/A |
+| 29 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 30 | [שום ריכוך](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%a8%d7%99%d7%9b%d7%95%d7%9a) | N/A |
 | 31 | [חשוב מי אשם](http://twitter.com/search?q=%d7%97%d7%a9%d7%95%d7%91+%d7%9e%d7%99+%d7%90%d7%a9%d7%9d) | N/A |
 | 32 | [דגל לבן](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%9c%d7%91%d7%9f) | N/A |
 | 33 | [של ירדן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%a8%d7%93%d7%9f) | N/A |
@@ -52,17 +52,17 @@ This is top 50 for Israel
 | 35 | [דור פרץ](http://twitter.com/search?q=%d7%93%d7%95%d7%a8+%d7%a4%d7%a8%d7%a5) | N/A |
 | 36 | [אחרי פסח](http://twitter.com/search?q=%d7%90%d7%97%d7%a8%d7%99+%d7%a4%d7%a1%d7%97) | N/A |
 | 37 | [טקסי יום](http://twitter.com/search?q=%d7%98%d7%a7%d7%a1%d7%99+%d7%99%d7%95%d7%9d) | N/A |
-| 38 | [חסידות גור](http://twitter.com/search?q=%d7%97%d7%a1%d7%99%d7%93%d7%95%d7%aa+%d7%92%d7%95%d7%a8) | N/A |
-| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 40 | [מינוי נשיא](http://twitter.com/search?q=%d7%9e%d7%99%d7%a0%d7%95%d7%99+%d7%a0%d7%a9%d7%99%d7%90) | N/A |
-| 41 | [מצביעים ימין](http://twitter.com/search?q=%d7%9e%d7%a6%d7%91%d7%99%d7%a2%d7%99%d7%9d+%d7%99%d7%9e%d7%99%d7%9f) | N/A |
-| 42 | [Or Ashkar](http://twitter.com/search?q=Or+Ashkar) | N/A |
-| 43 | [שנים או](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99%d7%9d+%d7%90%d7%95) | N/A |
-| 44 | [טופ חמש](http://twitter.com/search?q=%d7%98%d7%95%d7%a4+%d7%97%d7%9e%d7%a9) | N/A |
-| 45 | [עברי לידר](http://twitter.com/search?q=%d7%a2%d7%91%d7%a8%d7%99+%d7%9c%d7%99%d7%93%d7%a8) | N/A |
-| 46 | [הגדרה עצמית](http://twitter.com/search?q=%d7%94%d7%92%d7%93%d7%a8%d7%94+%d7%a2%d7%a6%d7%9e%d7%99%d7%aa) | N/A |
-| 47 | [עם אמריקאי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
-| 48 | [עם אהוד ברק](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
+| 38 | [מינוי נשיא](http://twitter.com/search?q=%d7%9e%d7%99%d7%a0%d7%95%d7%99+%d7%a0%d7%a9%d7%99%d7%90) | N/A |
+| 39 | [מצביעים ימין](http://twitter.com/search?q=%d7%9e%d7%a6%d7%91%d7%99%d7%a2%d7%99%d7%9d+%d7%99%d7%9e%d7%99%d7%9f) | N/A |
+| 40 | [Or Ashkar](http://twitter.com/search?q=Or+Ashkar) | N/A |
+| 41 | [שנים או](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99%d7%9d+%d7%90%d7%95) | N/A |
+| 42 | [טופ חמש](http://twitter.com/search?q=%d7%98%d7%95%d7%a4+%d7%97%d7%9e%d7%a9) | N/A |
+| 43 | [עברי לידר](http://twitter.com/search?q=%d7%a2%d7%91%d7%a8%d7%99+%d7%9c%d7%99%d7%93%d7%a8) | N/A |
+| 44 | [הגדרה עצמית](http://twitter.com/search?q=%d7%94%d7%92%d7%93%d7%a8%d7%94+%d7%a2%d7%a6%d7%9e%d7%99%d7%aa) | N/A |
+| 45 | [עם אמריקאי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99) | N/A |
+| 46 | [של הליכוד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9c%d7%99%d7%9b%d7%95%d7%93) | N/A |
+| 47 | [עם אהוד ברק](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
+| 48 | [חסידות גור](http://twitter.com/search?q=%d7%97%d7%a1%d7%99%d7%93%d7%95%d7%aa+%d7%92%d7%95%d7%a8) | N/A |
 | 49 | [Smotrich](http://twitter.com/search?q=Smotrich) | N/A |
 | 50 | [שליטה מלאה](http://twitter.com/search?q=%d7%a9%d7%9c%d7%99%d7%98%d7%94+%d7%9e%d7%9c%d7%90%d7%94) | N/A |
 

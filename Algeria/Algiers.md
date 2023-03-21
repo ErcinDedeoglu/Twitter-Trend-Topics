@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-21 00:28:06 UTC`
+📆 Last Updated: `2023-03-21 01:43:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for [Algeria](</Algeria>)
 | 4 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 5 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
 | 6 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 7 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 8 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 9 | [الاستعمال المبالغ](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba) | N/A |
-| 10 | [النقل الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
-| 11 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 12 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 7 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 8 | [الاستعمال المبالغ](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d9%84%d8%ba) | N/A |
+| 9 | [النقل الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 10 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 11 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 12 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 13 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
 | 14 | [الجاليه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 15 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
@@ -58,10 +58,10 @@ This is top 50 for [Algeria](</Algeria>)
 | 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 42 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 | 43 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 44 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 45 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 46 | [الناخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 47 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
+| 44 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
+| 45 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 46 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 47 | [الناخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 48 | [القدره الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 49 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
 | 50 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-21 00:27:54 UTC`
+📆 Last Updated: `2023-03-21 01:43:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,42 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 3 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 4 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 5 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 6 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
-| 7 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 8 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 5 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
+| 6 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 7 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
+| 8 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
 | 9 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 10 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 11 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 12 | [Le OMG](http://twitter.com/search?q=Le+OMG) | N/A |
-| 13 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 14 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
-| 15 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 16 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 17 | [Oriana e Micol](http://twitter.com/search?q=Oriana+e+Micol) | N/A |
-| 18 | [Donnalisi](http://twitter.com/search?q=Donnalisi) | N/A |
-| 19 | [Livia](http://twitter.com/search?q=Livia) | N/A |
+| 10 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 11 | [Le OMG](http://twitter.com/search?q=Le+OMG) | N/A |
+| 12 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 13 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 14 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 15 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 16 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 17 | [Donnalisi](http://twitter.com/search?q=Donnalisi) | N/A |
+| 18 | [Oriana e Micol](http://twitter.com/search?q=Oriana+e+Micol) | N/A |
+| 19 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
 | 20 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 21 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
-| 22 | [Cinecittà](http://twitter.com/search?q=Cinecitt%c3%a0) | N/A |
+| 21 | [Cinecittà](http://twitter.com/search?q=Cinecitt%c3%a0) | N/A |
+| 22 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
 | 23 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 24 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 25 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 26 | [CHE SCHIFO](http://twitter.com/search?q=CHE+SCHIFO) | N/A |
-| 27 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
+| 24 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
+| 25 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 26 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 27 | [CHE SCHIFO](http://twitter.com/search?q=CHE+SCHIFO) | N/A |
 | 28 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 29 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
-| 30 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 31 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
-| 32 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 33 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 34 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
-| 35 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
-| 36 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 37 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
-| 38 | [#iostoconoriana](http://twitter.com/search?q=%23iostoconoriana) | N/A |
-| 39 | [#QuandoFuori](http://twitter.com/search?q=%23QuandoFuori) | N/A |
-| 40 | [#FreedomItalia1](http://twitter.com/search?q=%23FreedomItalia1) | N/A |
-| 41 | [#MEtadiME](http://twitter.com/search?q=%23MEtadiME) | N/A |
-| 42 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 43 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
-| 44 | [#Bonolis](http://twitter.com/search?q=%23Bonolis) | N/A |
-| 45 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
-| 46 | [#dakita](http://twitter.com/search?q=%23dakita) | N/A |
-| 47 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
-| 48 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 29 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 30 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
+| 31 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 32 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
+| 33 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 34 | [#iostoconoriana](http://twitter.com/search?q=%23iostoconoriana) | N/A |
+| 35 | [#iostocondaniele](http://twitter.com/search?q=%23iostocondaniele) | N/A |
+| 36 | [#QuandoFuori](http://twitter.com/search?q=%23QuandoFuori) | N/A |
+| 37 | [#dakita](http://twitter.com/search?q=%23dakita) | N/A |
+| 38 | [#21marzo](http://twitter.com/search?q=%2321marzo) | N/A |
+| 39 | [#Macron](http://twitter.com/search?q=%23Macron) | N/A |
+| 40 | [#Francia](http://twitter.com/search?q=%23Francia) | N/A |
 
 
 

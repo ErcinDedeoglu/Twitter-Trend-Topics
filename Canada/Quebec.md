@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-21 00:27:38 UTC`
+📆 Last Updated: `2023-03-21 01:43:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 2 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 3 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 4 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
-| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 8 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
-| 9 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 1 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 5 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 6 | [#Nowruz](http://twitter.com/search?q=%23Nowruz) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 9 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
 | 10 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 11 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 12 | [#InternationalDayOfHappiness](http://twitter.com/search?q=%23InternationalDayOfHappiness) | N/A |
-| 13 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 14 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 15 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 16 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 17 | [Fairview Mall](http://twitter.com/search?q=Fairview+Mall) | N/A |
-| 18 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
-| 19 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
-| 20 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
-| 21 | [PIMs](http://twitter.com/search?q=PIMs) | N/A |
-| 22 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 23 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
-| 24 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 25 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 26 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 29 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 30 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
-| 31 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 32 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 33 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 34 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 35 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
-| 36 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 37 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
-| 38 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 39 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 40 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 41 | [Votto](http://twitter.com/search?q=Votto) | N/A |
-| 42 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 43 | [Hamonic](http://twitter.com/search?q=Hamonic) | N/A |
-| 44 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 45 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 46 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 47 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 48 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
-| 49 | [Mark Holland](http://twitter.com/search?q=Mark+Holland) | N/A |
+| 11 | [Francophonie](http://twitter.com/search?q=Francophonie) | N/A |
+| 12 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 13 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 14 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 15 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 16 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 18 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 19 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 20 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 21 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 22 | [Roki Sasaki](http://twitter.com/search?q=Roki+Sasaki) | N/A |
+| 23 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 24 | [Chabot](http://twitter.com/search?q=Chabot) | N/A |
+| 25 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 26 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 27 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 28 | [Corner Stores](http://twitter.com/search?q=Corner+Stores) | N/A |
+| 29 | [PIMs](http://twitter.com/search?q=PIMs) | N/A |
+| 30 | [Sport Centre](http://twitter.com/search?q=Sport+Centre) | N/A |
+| 31 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 32 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 33 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 34 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 35 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 37 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 38 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 39 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 40 | [Fairview Mall](http://twitter.com/search?q=Fairview+Mall) | N/A |
+| 41 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 42 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 43 | [Goldberg](http://twitter.com/search?q=Goldberg) | N/A |
+| 44 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 45 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 46 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 47 | [Costello](http://twitter.com/search?q=Costello) | N/A |
+| 48 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 49 | [Bonne Journée](http://twitter.com/search?q=Bonne+Journ%c3%a9e) | N/A |
 
 
 
