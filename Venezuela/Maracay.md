@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-03-22 07:18:51 UTC`
+📆 Last Updated: `2023-03-22 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#21Mar](http://twitter.com/search?q=%2321Mar) | N/A |
 | 2 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 4 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
+| 3 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
+| 4 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 5 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
 | 6 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
-| 7 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
-| 8 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 7 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 8 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
 | 9 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 10 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 11 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 12 | [#JuntosContraLasMafias](http://twitter.com/search?q=%23JuntosContraLasMafias) | N/A |
-| 13 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 14 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 15 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 16 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 17 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 18 | [Día Mundial de la Poesía](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Poes%c3%ada) | N/A |
-| 19 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
-| 20 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 21 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
-| 22 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
-| 23 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 24 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 25 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 26 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
-| 27 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 28 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 29 | [Boleita Norte](http://twitter.com/search?q=Boleita+Norte) | N/A |
-| 30 | [#derechosparavenezuela](http://twitter.com/search?q=%23derechosparavenezuela) | N/A |
+| 10 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 11 | [#juntoscontralasmafias](http://twitter.com/search?q=%23juntoscontralasmafias) | N/A |
+| 12 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
+| 13 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
+| 16 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
+| 17 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 18 | [#DiaMundialDeLaPoesia](http://twitter.com/search?q=%23DiaMundialDeLaPoesia) | N/A |
+| 19 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 20 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
+| 21 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 22 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 23 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
+| 24 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 25 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
+| 26 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 27 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 28 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 29 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 30 | [boleita norte](http://twitter.com/search?q=boleita+norte) | N/A |
 | 31 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
 | 32 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
 | 33 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
 | 34 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 35 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 36 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 38 | [Higos](http://twitter.com/search?q=Higos) | N/A |
-| 39 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
-| 40 | [Asamblea General](http://twitter.com/search?q=Asamblea+General) | N/A |
-| 41 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
-| 42 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 43 | [Alto Comisionado](http://twitter.com/search?q=Alto+Comisionado) | N/A |
-| 44 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
-| 45 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 46 | [Las Tejerías](http://twitter.com/search?q=Las+Tejer%c3%adas) | N/A |
+| 35 | [Higos](http://twitter.com/search?q=Higos) | N/A |
+| 36 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
+| 37 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 38 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
+| 39 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
+| 40 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 41 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 42 | [Asamblea General](http://twitter.com/search?q=Asamblea+General) | N/A |
+| 43 | [Las Tejerías](http://twitter.com/search?q=Las+Tejer%c3%adas) | N/A |
+| 44 | [aryenis](http://twitter.com/search?q=aryenis) | N/A |
+| 45 | [alto comisionado](http://twitter.com/search?q=alto+comisionado) | N/A |
+| 46 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
 | 47 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
-| 48 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 49 | [Elvis Amoroso](http://twitter.com/search?q=Elvis+Amoroso) | N/A |
-| 50 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 48 | [ejecutivo nacional](http://twitter.com/search?q=ejecutivo+nacional) | N/A |
+| 49 | [elvis amoroso](http://twitter.com/search?q=elvis+amoroso) | N/A |
+| 50 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
 
 
 

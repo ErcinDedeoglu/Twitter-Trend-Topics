@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-22 07:18:54 UTC`
+📆 Last Updated: `2023-03-22 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GranHermanoArgentina](http://twitter.com/search?q=%23GranHermanoArgentina) | N/A |
-| 2 | [IVA al 24%](http://twitter.com/search?q=IVA+al+24%25) | N/A |
-| 3 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 4 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
-| 5 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 6 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 7 | [Romi](http://twitter.com/search?q=Romi) | N/A |
-| 8 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 9 | [Maravilla](http://twitter.com/search?q=Maravilla) | N/A |
-| 10 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 11 | [Marculi](http://twitter.com/search?q=Marculi) | N/A |
-| 12 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 13 | [#GranHernano2023](http://twitter.com/search?q=%23GranHernano2023) | N/A |
-| 14 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 15 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 16 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
-| 17 | [Reato](http://twitter.com/search?q=Reato) | N/A |
-| 18 | [Marcos y Julieta](http://twitter.com/search?q=Marcos+y+Julieta) | N/A |
-| 19 | [#CristinaPresidenta](http://twitter.com/search?q=%23CristinaPresidenta) | N/A |
-| 20 | [Cone](http://twitter.com/search?q=Cone) | Cone is a three-dimensional geometric shape that tapers smoothly from a flat base to a point. It is a common shape in nature, such as the cone-shaped fruit of a pine tree or the cone-shaped petals of a flower. In English, the word "cone" can also refer to an ice cream cone or traffic cones used to direct traffic. |
-| 21 | [Prestianni](http://twitter.com/search?q=Prestianni) | N/A |
-| 22 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 23 | [Barassi](http://twitter.com/search?q=Barassi) | N/A |
-| 24 | [Igualan](http://twitter.com/search?q=Igualan) | N/A |
-| 25 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 26 | [#corralito](http://twitter.com/search?q=%23corralito) | N/A |
-| 27 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 28 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
-| 29 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 30 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 31 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
-| 32 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 34 | [#Velez](http://twitter.com/search?q=%23Velez) | N/A |
-| 35 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 36 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 37 | [Regina George](http://twitter.com/search?q=Regina+George) | N/A |
-| 38 | [ANSES](http://twitter.com/search?q=ANSES) | N/A |
-| 39 | [Sol Pérez](http://twitter.com/search?q=Sol+P%c3%a9rez) | N/A |
-| 40 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 41 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 42 | [gilmore girls](http://twitter.com/search?q=gilmore+girls) | N/A |
-| 43 | [Luna Park](http://twitter.com/search?q=Luna+Park) | N/A |
-| 44 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 45 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 46 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 47 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
-| 48 | [#HablaCristina](http://twitter.com/search?q=%23HablaCristina) | N/A |
+| 1 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
+| 2 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 3 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
+| 4 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 5 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 6 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
+| 7 | [Holder](http://twitter.com/search?q=Holder) | N/A |
+| 8 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 9 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
+| 10 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 11 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
+| 12 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 14 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 15 | [Don Julio](http://twitter.com/search?q=Don+Julio) | N/A |
+| 16 | [IVA al 24%](http://twitter.com/search?q=IVA+al+24%25) | N/A |
+| 17 | [#HablaCristina](http://twitter.com/search?q=%23HablaCristina) | N/A |
+| 18 | [#GH2022](http://twitter.com/search?q=%23GH2022) | #GH2022 is a hashtag used to refer to the 2022 Ghanaian general election. It is used to discuss topics related to the upcoming election, such as potential candidates, political parties, and other related news. |
+| 19 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
+| 20 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 21 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 22 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 23 | [Maravilla](http://twitter.com/search?q=Maravilla) | N/A |
+| 24 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 25 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 26 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 27 | [Guede](http://twitter.com/search?q=Guede) | N/A |
+| 28 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 29 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 30 | [Prestianni](http://twitter.com/search?q=Prestianni) | N/A |
+| 31 | [ferraresi](http://twitter.com/search?q=ferraresi) | N/A |
+| 32 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 33 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
+| 34 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 35 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 36 | [gilmore girls](http://twitter.com/search?q=gilmore+girls) | N/A |
+| 37 | [Otro 21](http://twitter.com/search?q=Otro+21) | N/A |
+| 38 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
+| 39 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 40 | [Juez](http://twitter.com/search?q=Juez) | N/A |
+| 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 42 | [Marculi](http://twitter.com/search?q=Marculi) | N/A |
+| 43 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 44 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 45 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 46 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 47 | [Igualan](http://twitter.com/search?q=Igualan) | N/A |
+| 48 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 49 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 50 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-22 07:19:31 UTC`
+📆 Last Updated: `2023-03-22 08:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for Colombia
 | 16 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
 | 17 | [Aries](http://twitter.com/search?q=Aries) | N/A |
 | 18 | [Stefany](http://twitter.com/search?q=Stefany) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 21 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 22 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
+| 19 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
+| 20 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 21 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
+| 22 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
 | 23 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 24 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 25 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 24 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 25 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
 | 26 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 27 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 28 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 29 | [alexandra agudelo](http://twitter.com/search?q=alexandra+agudelo) | N/A |
-| 30 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 31 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 32 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 33 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 34 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
-| 35 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 27 | [alexandra agudelo](http://twitter.com/search?q=alexandra+agudelo) | N/A |
+| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 29 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 30 | [lalis](http://twitter.com/search?q=lalis) | N/A |
+| 31 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 32 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
+| 33 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
+| 34 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 35 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 36 | [Huila](http://twitter.com/search?q=Huila) | N/A |
 | 37 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 38 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 39 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
-| 40 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
-| 41 | [Breiner](http://twitter.com/search?q=Breiner) | N/A |
-| 42 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
-| 43 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 44 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 45 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 47 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 48 | [UdeA](http://twitter.com/search?q=UdeA) | N/A |
-| 49 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
-| 50 | [Rodearlo](http://twitter.com/search?q=Rodearlo) | N/A |
+| 38 | [breiner](http://twitter.com/search?q=breiner) | N/A |
+| 39 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 40 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
+| 41 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 42 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 43 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
+| 44 | [Rodearlo](http://twitter.com/search?q=Rodearlo) | N/A |
+| 45 | [clan char](http://twitter.com/search?q=clan+char) | N/A |
+| 46 | [dareska](http://twitter.com/search?q=dareska) | N/A |
+| 47 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 48 | [BZRP](http://twitter.com/search?q=BZRP) | BZRP stands for "Battle Zone Role Play," which is an online role-playing game. Players create characters and take part in a virtual world where they can battle each other and complete missions. |
+| 49 | [UdeA](http://twitter.com/search?q=UdeA) | N/A |
+| 50 | [Guillermo Grosso](http://twitter.com/search?q=Guillermo+Grosso) | N/A |
 
 
 

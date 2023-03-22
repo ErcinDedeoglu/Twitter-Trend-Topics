@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-22 07:19:09 UTC`
+📆 Last Updated: `2023-03-22 08:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,42 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 2 | [#FearlessDLSU](http://twitter.com/search?q=%23FearlessDLSU) | N/A |
-| 3 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 4 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
-| 5 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
+| 2 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 3 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 4 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
+| 5 | [KDLEX PETAmazing OnApril](http://twitter.com/search?q=KDLEX+PETAmazing+OnApril) | N/A |
 | 6 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 7 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 8 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
+| 8 | [Mars Alba](http://twitter.com/search?q=Mars+Alba) | N/A |
+| 9 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
 | 10 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
-| 11 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 12 | [KDLEX PETAmazing OnApril](http://twitter.com/search?q=KDLEX+PETAmazing+OnApril) | N/A |
-| 13 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 14 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 15 | [Jazareno](http://twitter.com/search?q=Jazareno) | N/A |
-| 16 | [BLOCK PARTY](http://twitter.com/search?q=BLOCK+PARTY) | N/A |
-| 17 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 18 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
-| 19 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 20 | [kaia alexa concept teaser](http://twitter.com/search?q=kaia+alexa+concept+teaser) | N/A |
-| 21 | [Robles](http://twitter.com/search?q=Robles) | N/A |
-| 22 | [kath arado](http://twitter.com/search?q=kath+arado) | N/A |
-| 23 | [Pre Release](http://twitter.com/search?q=Pre+Release) | N/A |
-| 24 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 26 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 27 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 28 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 29 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 30 | [promposal reveal robxine](http://twitter.com/search?q=promposal+reveal+robxine) | N/A |
-| 31 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 32 | [chico malo mv out now](http://twitter.com/search?q=chico+malo+mv+out+now) | N/A |
-| 33 | [JOLINA](http://twitter.com/search?q=JOLINA) | N/A |
-| 34 | [Mwiss Cel3ia](http://twitter.com/search?q=Mwiss+Cel3ia) | N/A |
-| 35 | [Dons](http://twitter.com/search?q=Dons) | N/A |
-| 36 | [Missw](http://twitter.com/search?q=Missw) | N/A |
-| 37 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
-| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 39 | [Joyme](http://twitter.com/search?q=Joyme) | N/A |
-| 40 | [Sganch](http://twitter.com/search?q=Sganch) | N/A |
-| 41 | [Jackow](http://twitter.com/search?q=Jackow) | N/A |
-| 42 | [ron for piepop](http://twitter.com/search?q=ron+for+piepop) | N/A |
-| 43 | [Alanis Morissette](http://twitter.com/search?q=Alanis+Morissette) | N/A |
-| 44 | [DavidLicauco URNewArtist](http://twitter.com/search?q=DavidLicauco+URNewArtist) | N/A |
-| 45 | [Cagande](http://twitter.com/search?q=Cagande) | N/A |
-| 46 | [kaomiah promever](http://twitter.com/search?q=kaomiah+promever) | N/A |
-| 47 | [LA Tenorio](http://twitter.com/search?q=LA+Tenorio) | N/A |
-| 48 | [Go NU](http://twitter.com/search?q=Go+NU) | N/A |
-| 49 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 50 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
+| 11 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 12 | [#ShowtimeKnaK](http://twitter.com/search?q=%23ShowtimeKnaK) | N/A |
+| 13 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 14 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 15 | [Angel Canino](http://twitter.com/search?q=Angel+Canino) | N/A |
+| 16 | [#JoshCullenOnTag911](http://twitter.com/search?q=%23JoshCullenOnTag911) | N/A |
+| 17 | [Sganch](http://twitter.com/search?q=Sganch) | N/A |
+| 18 | [Robles](http://twitter.com/search?q=Robles) | N/A |
+| 19 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
+| 20 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 21 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 22 | [ILLUMINATE THE ECLIPSE](http://twitter.com/search?q=ILLUMINATE+THE+ECLIPSE) | N/A |
+| 23 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 24 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 25 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
+| 26 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [Penshoppe](http://twitter.com/search?q=Penshoppe) | N/A |
+| 29 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 30 | [#PETAWalangAray](http://twitter.com/search?q=%23PETAWalangAray) | N/A |
+| 31 | [#IwanttomeetFreenBecky](http://twitter.com/search?q=%23IwanttomeetFreenBecky) | N/A |
+| 32 | [#WeAreEclipsePH](http://twitter.com/search?q=%23WeAreEclipsePH) | N/A |
+| 33 | [#BOYCOTTEBxAPTxGMA742](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA742) | N/A |
+| 34 | [#SPCAtlas2023SocioCulturalDay](http://twitter.com/search?q=%23SPCAtlas2023SocioCulturalDay) | N/A |
+| 35 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 36 | [#AKKnightsAndEthnics](http://twitter.com/search?q=%23AKKnightsAndEthnics) | N/A |
+| 37 | [#TAEHYUNGxELLEKOREA](http://twitter.com/search?q=%23TAEHYUNGxELLEKOREA) | N/A |
 
 
 

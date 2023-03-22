@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-22 07:18:45 UTC`
+📆 Last Updated: `2023-03-22 08:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 2 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 3 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 4 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 5 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 1 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 2 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 3 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 4 | [10.4% in February](http://twitter.com/search?q=10.4%25+in+February) | N/A |
+| 5 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 6 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 9 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 10 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 12 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 16 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 17 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 18 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 19 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
-| 20 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 21 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 22 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 23 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 25 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 26 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 27 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 29 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 30 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 31 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 32 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 34 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 36 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 37 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 39 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 40 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 41 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
-| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 43 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 44 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 45 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 46 | [iorfa](http://twitter.com/search?q=iorfa) | N/A |
-| 47 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
-| 48 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 49 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 8 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 9 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 12 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 13 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 14 | [The Met](http://twitter.com/search?q=The+Met) | The Met is short for The Metropolitan Museum of Art, which is an art museum located in New York City. It is one of the largest and most visited art museums in the world, and it houses a collection of over two million works of art from around the world. |
+| 15 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 16 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 17 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 18 | [10.1% in January](http://twitter.com/search?q=10.1%25+in+January) | N/A |
+| 19 | [Unexpectedly](http://twitter.com/search?q=Unexpectedly) | N/A |
+| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 21 | [Feargal Sharkey](http://twitter.com/search?q=Feargal+Sharkey) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 24 | [Surprise](http://twitter.com/search?q=Surprise) | N/A |
+| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 26 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
+| 27 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 28 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 29 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 30 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 31 | [Keith Palmer](http://twitter.com/search?q=Keith+Palmer) | N/A |
+| 32 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 33 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 34 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 35 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 36 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 37 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 38 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 40 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
+| 43 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 44 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 45 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 46 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 47 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 48 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 49 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
 
 
 

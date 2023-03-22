@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-22 07:19:13 UTC`
+📆 Last Updated: `2023-03-22 08:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 3 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
 | 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 7 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 8 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 9 | [نبع العطاء](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
-| 10 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 11 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 12 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
-| 13 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 14 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 15 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 6 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 7 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 8 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 9 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 10 | [Happy Ugadi](http://twitter.com/search?q=Happy+Ugadi) | N/A |
+| 11 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 12 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 13 | [نبع العطاء](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
+| 14 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 15 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
 | 16 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
-| 17 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 18 | [مدار القمر](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
-| 19 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 20 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 21 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [امي الغاليه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 24 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 25 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 26 | [الفلك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 27 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
-| 28 | [احمد عامر](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d8%a7%d9%85%d8%b1) | N/A |
+| 17 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 18 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 19 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 20 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 21 | [مدار القمر](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
+| 22 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 24 | [الفلك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [المراه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 26 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 27 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 28 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
 | 29 | [23 مارس](http://twitter.com/search?q=23+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 30 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 31 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
-| 32 | [قدم الصالات](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 33 | [امي روحي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%b1%d9%88%d8%ad%d9%8a) | N/A |
-| 34 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
-| 35 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 36 | [امي فلا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d9%84%d8%a7) | N/A |
-| 37 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
-| 38 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 39 | [السعاده العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 40 | [حاكم الشارقه](http://twitter.com/search?q=%d8%ad%d8%a7%d9%83%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
-| 41 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
-| 42 | [اللجنه العليا](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
-| 43 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
-| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 45 | [الجمعيه العموميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 46 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 47 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 48 | [علي طريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%b1%d9%8a%d9%82) | N/A |
-| 49 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
+| 31 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 32 | [امي روحي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%b1%d9%88%d8%ad%d9%8a) | N/A |
+| 33 | [امي فلا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d9%84%d8%a7) | N/A |
+| 34 | [قدم الصالات](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 36 | [عبدالله بن زايد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 37 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 38 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
+| 39 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 40 | [السعاده العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 41 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
+| 42 | [المدير التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
+| 43 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
+| 44 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 45 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 46 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 47 | [علي طريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%b1%d9%8a%d9%82) | N/A |
+| 48 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
+| 49 | [الجمعيه العموميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 50 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 
 
 
