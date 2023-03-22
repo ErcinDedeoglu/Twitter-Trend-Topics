@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-03-22 17:16:40 UTC`
+📆 Last Updated: `2023-03-22 18:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,45 +18,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
 | 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [#PoderosoFilosito](http://twitter.com/search?q=%23PoderosoFilosito) | N/A |
-| 5 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 6 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 7 | [#HimnoDeKorno](http://twitter.com/search?q=%23HimnoDeKorno) | N/A |
-| 8 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
-| 9 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 4 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 5 | [#PoderosoFilosito](http://twitter.com/search?q=%23PoderosoFilosito) | N/A |
+| 6 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
+| 7 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
+| 8 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
+| 9 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
 | 10 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
 | 11 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 12 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 13 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 14 | [Cerocahui](http://twitter.com/search?q=Cerocahui) | N/A |
-| 15 | [Bodrio](http://twitter.com/search?q=Bodrio) | N/A |
-| 16 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 17 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 18 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 19 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
-| 20 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 21 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 22 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
-| 23 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 24 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 25 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 26 | [ESENCIA](http://twitter.com/search?q=ESENCIA) | N/A |
-| 27 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 28 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 29 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 30 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
-| 31 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 32 | [#CuidaElAgua](http://twitter.com/search?q=%23CuidaElAgua) | N/A |
-| 33 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 34 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 35 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
-| 36 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 37 | [#22DeMarzo](http://twitter.com/search?q=%2322DeMarzo) | N/A |
-| 38 | [#Jinx](http://twitter.com/search?q=%23Jinx) | N/A |
-| 39 | [#FrenemosElAborto](http://twitter.com/search?q=%23FrenemosElAborto) | N/A |
-| 40 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
-| 41 | [#JusticiaParaBeatriz](http://twitter.com/search?q=%23JusticiaParaBeatriz) | N/A |
-| 42 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 12 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 13 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
+| 14 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 15 | [Cerocahui](http://twitter.com/search?q=Cerocahui) | N/A |
+| 16 | [Bodrio](http://twitter.com/search?q=Bodrio) | N/A |
+| 17 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 18 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 19 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 20 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 21 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 22 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
+| 23 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 24 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 25 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 26 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 27 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
+| 28 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 29 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 30 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 31 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 32 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 33 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 34 | [ESENCIA](http://twitter.com/search?q=ESENCIA) | N/A |
+| 35 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 36 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 37 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 38 | [#HimnoDeKorno](http://twitter.com/search?q=%23HimnoDeKorno) | N/A |
+| 39 | [#CuidaElAgua](http://twitter.com/search?q=%23CuidaElAgua) | N/A |
+| 40 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
+| 41 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 42 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 43 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 44 | [#22deMarzo](http://twitter.com/search?q=%2322deMarzo) | N/A |
+| 45 | [#FrenemosElAborto](http://twitter.com/search?q=%23FrenemosElAborto) | N/A |
+| 46 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 
 
 

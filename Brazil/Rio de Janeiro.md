@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-22 17:16:44 UTC`
+📆 Last Updated: `2023-03-22 18:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 2 | [#RJTV](http://twitter.com/search?q=%23RJTV) | N/A |
-| 3 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 4 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 5 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 6 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 7 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 8 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 1 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 3 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 4 | [#RJTV](http://twitter.com/search?q=%23RJTV) | N/A |
+| 5 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 6 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 7 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 8 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
 | 9 | [Moro](http://twitter.com/search?q=Moro) | N/A |
 | 10 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
 | 11 | [BILLIERS COM BUD NO LOLLABR](http://twitter.com/search?q=BILLIERS+COM+BUD+NO+LOLLABR) | N/A |
 | 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 13 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 14 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 15 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 14 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 15 | [Valve](http://twitter.com/search?q=Valve) | N/A |
 | 16 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 17 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 18 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 19 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 20 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 21 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
-| 22 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
-| 23 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 17 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 18 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 19 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 20 | [Ouro](http://twitter.com/search?q=Ouro) | N/A |
+| 21 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 22 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 23 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
 | 24 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 25 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 26 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 27 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 28 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 29 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 30 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 25 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 26 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
+| 27 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 28 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 29 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 30 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
 | 31 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 32 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 33 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
+| 32 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
+| 33 | [Primeira Comunhão](http://twitter.com/search?q=Primeira+Comunh%c3%a3o) | N/A |
 | 34 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
-| 35 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 36 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
-| 37 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
-| 38 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
-| 39 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
-| 40 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
-| 41 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 42 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 43 | [Lesbianismo](http://twitter.com/search?q=Lesbianismo) | N/A |
-| 44 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
-| 45 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 46 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 47 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
-| 48 | [Fenômeno](http://twitter.com/search?q=Fen%c3%b4meno) | N/A |
-| 49 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
-| 50 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
+| 35 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
+| 36 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 37 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 38 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 39 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
+| 40 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 41 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 42 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 43 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
+| 44 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 45 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 46 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
+| 47 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 48 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
+| 49 | [Lesbianismo](http://twitter.com/search?q=Lesbianismo) | N/A |
+| 50 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-22 17:16:37 UTC`
+📆 Last Updated: `2023-03-22 18:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 2 | [#kangaroocourt](http://twitter.com/search?q=%23kangaroocourt) | N/A |
-| 3 | [#O2SamsungS23](http://twitter.com/search?q=%23O2SamsungS23) | N/A |
-| 4 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [Carrie](http://twitter.com/search?q=Carrie) | Carrie is a 1976 horror novel by American author Stephen King. It tells the story of Carrie White, a shy and troubled teenage girl who discovers she has telekinetic powers. The novel explores the themes of bullying, abuse, and revenge. |
-| 7 | [#BAFTATVAwards](http://twitter.com/search?q=%23BAFTATVAwards) | N/A |
-| 8 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 9 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 12 | [Chamberlain](http://twitter.com/search?q=Chamberlain) | Chamberlain is an old English word meaning "steward" or "manager". It was originally used to refer to a person who managed the household of a noble or royal family. Today, it is often used to refer to a person who is in charge of managing the affairs of a government or organization. |
-| 13 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
-| 14 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 2 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 5 | [#YaGunnersYa](http://twitter.com/search?q=%23YaGunnersYa) | N/A |
+| 6 | [Sue Gray](http://twitter.com/search?q=Sue+Gray) | N/A |
+| 7 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
+| 10 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
+| 11 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 12 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 13 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
+| 14 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
 | 15 | [#PrivilegesCommittee](http://twitter.com/search?q=%23PrivilegesCommittee) | N/A |
-| 16 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 18 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 19 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 20 | [Bernard Jenkin](http://twitter.com/search?q=Bernard+Jenkin) | N/A |
-| 21 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 22 | [Alberto Costa](http://twitter.com/search?q=Alberto+Costa) | N/A |
-| 23 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 24 | [Marsupials](http://twitter.com/search?q=Marsupials) | N/A |
-| 25 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
-| 26 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 27 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 28 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 29 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 30 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 31 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
-| 32 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 33 | [Lee Cain](http://twitter.com/search?q=Lee+Cain) | N/A |
-| 34 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 35 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 36 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 37 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
-| 38 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 39 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 40 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 41 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 42 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 43 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 44 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 45 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 46 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 47 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 48 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 49 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 50 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 16 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 17 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 19 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 20 | [Charles Walker](http://twitter.com/search?q=Charles+Walker) | N/A |
+| 21 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 22 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 23 | [Bernard Jenkin](http://twitter.com/search?q=Bernard+Jenkin) | N/A |
+| 24 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 25 | [Alberto Costa](http://twitter.com/search?q=Alberto+Costa) | N/A |
+| 26 | [Marsupials](http://twitter.com/search?q=Marsupials) | N/A |
+| 27 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
+| 28 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 29 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 30 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 31 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 32 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 33 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 34 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 35 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 36 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 37 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 38 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
+| 39 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
+| 40 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 41 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 42 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 43 | [Eton](http://twitter.com/search?q=Eton) | N/A |
+| 44 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 45 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 46 | [Lee Cain](http://twitter.com/search?q=Lee+Cain) | N/A |
+| 47 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 48 | [Beth Rigby](http://twitter.com/search?q=Beth+Rigby) | N/A |
+| 49 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 50 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
 
 
 

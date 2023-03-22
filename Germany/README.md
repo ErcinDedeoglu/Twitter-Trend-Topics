@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-22 17:17:24 UTC`
+📆 Last Updated: `2023-03-22 18:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
-| 2 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
-| 3 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 4 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 5 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
-| 6 | [#Reichsbürger](http://twitter.com/search?q=%23Reichsb%c3%bcrger) | N/A |
-| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 8 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 9 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 12 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 13 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 14 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 15 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 16 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
-| 17 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
-| 18 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 19 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
-| 20 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 21 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 22 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 23 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 24 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
-| 27 | [Ausbau des Bundeskanzleramts](http://twitter.com/search?q=Ausbau+des+Bundeskanzleramts) | N/A |
-| 28 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 29 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 30 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 31 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 32 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 33 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 34 | [Welches Vertrauen](http://twitter.com/search?q=Welches+Vertrauen) | N/A |
-| 35 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 36 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 37 | [typisch söder](http://twitter.com/search?q=typisch+s%c3%b6der) | N/A |
-| 38 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 39 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
-| 40 | [Migrantengewalt](http://twitter.com/search?q=Migrantengewalt) | N/A |
-| 41 | [Latinum](http://twitter.com/search?q=Latinum) | N/A |
-| 42 | [Polizeibeamte und Soldaten](http://twitter.com/search?q=Polizeibeamte+und+Soldaten) | N/A |
-| 43 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 44 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
-| 45 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 46 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
-| 47 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 48 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 49 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
-| 50 | [Fremdsprache](http://twitter.com/search?q=Fremdsprache) | N/A |
+| 1 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 3 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 4 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
+| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 6 | [#Source2](http://twitter.com/search?q=%23Source2) | N/A |
+| 7 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 8 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 9 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 10 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 11 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 12 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 13 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 14 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 15 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 16 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 17 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 18 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 19 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 20 | [Ablenkung](http://twitter.com/search?q=Ablenkung) | N/A |
+| 21 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 22 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 23 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
+| 24 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
+| 25 | [Ministerium](http://twitter.com/search?q=Ministerium) | N/A |
+| 26 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 27 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 28 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 29 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
+| 30 | [#StadtratC](http://twitter.com/search?q=%23StadtratC) | N/A |
+| 31 | [#Özil](http://twitter.com/search?q=%23%c3%96zil) | N/A |
+| 32 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 33 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 34 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
+| 35 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
+| 36 | [#Reutlingen](http://twitter.com/search?q=%23Reutlingen) | N/A |
+| 37 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 38 | [#Dresden](http://twitter.com/search?q=%23Dresden) | N/A |
 
 
 

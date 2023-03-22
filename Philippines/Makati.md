@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-22 17:17:00 UTC`
+📆 Last Updated: `2023-03-22 18:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 2 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 1 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 2 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
 | 3 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
-| 4 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 5 | [#MayBisitaSiBelle](http://twitter.com/search?q=%23MayBisitaSiBelle) | N/A |
-| 6 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 7 | [#MEin8Days](http://twitter.com/search?q=%23MEin8Days) | N/A |
-| 8 | [LOVESTRUCK PIECES](http://twitter.com/search?q=LOVESTRUCK+PIECES) | N/A |
-| 9 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 11 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 12 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 13 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 14 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 15 | [Obsession](http://twitter.com/search?q=Obsession) | N/A |
-| 16 | [VXON COMEBACK TITLE REVEAL](http://twitter.com/search?q=VXON+COMEBACK+TITLE+REVEAL) | N/A |
-| 17 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 18 | [KAIA ANGELA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ANGELA+CONCEPT+TEASER) | N/A |
-| 19 | [Dara](http://twitter.com/search?q=Dara) | N/A |
-| 20 | [SETMEFREE SECOND WIN](http://twitter.com/search?q=SETMEFREE+SECOND+WIN) | N/A |
-| 21 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 22 | [#AtlasCoronationNight](http://twitter.com/search?q=%23AtlasCoronationNight) | N/A |
-| 23 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 24 | [#FurFurSapodami](http://twitter.com/search?q=%23FurFurSapodami) | N/A |
-| 25 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 26 | [#AllOfThoseVoicesPH](http://twitter.com/search?q=%23AllOfThoseVoicesPH) | N/A |
-| 27 | [#D18toLOVESTRUCK](http://twitter.com/search?q=%23D18toLOVESTRUCK) | N/A |
-| 28 | [#รักน้องวินนะครับ](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b0%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a) | N/A |
-| 29 | [#dlconfession](http://twitter.com/search?q=%23dlconfession) | N/A |
-| 30 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 31 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 32 | [#TWOHelloLove](http://twitter.com/search?q=%23TWOHelloLove) | N/A |
-| 33 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 34 | [#GOSE_DontLieSeries](http://twitter.com/search?q=%23GOSE_DontLieSeries) | N/A |
-| 35 | [#YSLBEAUTYSGBRIGHT](http://twitter.com/search?q=%23YSLBEAUTYSGBRIGHT) | N/A |
-| 36 | [#Hori7onDASHonPIE](http://twitter.com/search?q=%23Hori7onDASHonPIE) | N/A |
-| 37 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
-| 38 | [#SETMEFREE2ndWin](http://twitter.com/search?q=%23SETMEFREE2ndWin) | N/A |
-| 39 | [#StarPop](http://twitter.com/search?q=%23StarPop) | N/A |
-| 40 | [#ALDENxvivoV27Series](http://twitter.com/search?q=%23ALDENxvivoV27Series) | N/A |
-| 41 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 42 | [#KAIA_ANGELA](http://twitter.com/search?q=%23KAIA_ANGELA) | N/A |
-| 43 | [#TWICE121stWin](http://twitter.com/search?q=%23TWICE121stWin) | N/A |
-| 44 | [#AKKnightsAndEthnics](http://twitter.com/search?q=%23AKKnightsAndEthnics) | N/A |
-| 45 | [#FreenbecXBirthdaymulty](http://twitter.com/search?q=%23FreenbecXBirthdaymulty) | N/A |
+| 4 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
+| 5 | [#FearlessDLSU](http://twitter.com/search?q=%23FearlessDLSU) | N/A |
+| 6 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
+| 7 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 10 | [kdlex petamazing onapril](http://twitter.com/search?q=kdlex+petamazing+onapril) | N/A |
+| 11 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 12 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 13 | [KAIA ANGELA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ANGELA+CONCEPT+TEASER) | N/A |
+| 14 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 15 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 16 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
+| 17 | [chico malo mv out now](http://twitter.com/search?q=chico+malo+mv+out+now) | N/A |
+| 18 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
+| 19 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 20 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 22 | [happy christian new year](http://twitter.com/search?q=happy+christian+new+year) | N/A |
+| 23 | [SETMEFREE SECOND WIN](http://twitter.com/search?q=SETMEFREE+SECOND+WIN) | N/A |
+| 24 | [Penshoppe](http://twitter.com/search?q=Penshoppe) | N/A |
+| 25 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 26 | [VXON COMEBACK TITLE REVEAL](http://twitter.com/search?q=VXON+COMEBACK+TITLE+REVEAL) | N/A |
+| 27 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 28 | [davidlicauco urnewartist](http://twitter.com/search?q=davidlicauco+urnewartist) | N/A |
+| 29 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 30 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 31 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 32 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 33 | [set me free 2nd slay](http://twitter.com/search?q=set+me+free+2nd+slay) | N/A |
+| 34 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 35 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 36 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 37 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 38 | [jackow](http://twitter.com/search?q=jackow) | N/A |
+| 39 | [illuminate the eclipse](http://twitter.com/search?q=illuminate+the+eclipse) | N/A |
+| 40 | [Obsession](http://twitter.com/search?q=Obsession) | N/A |
+| 41 | [GGBB MV TEASER 1](http://twitter.com/search?q=GGBB+MV+TEASER+1) | N/A |
+| 42 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 43 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
+| 44 | [podowr bab](http://twitter.com/search?q=podowr+bab) | N/A |
+| 45 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 46 | [STAY EDITION](http://twitter.com/search?q=STAY+EDITION) | N/A |
+| 47 | [Cold Water](http://twitter.com/search?q=Cold+Water) | N/A |
+| 48 | [warlio on bahaynikumu](http://twitter.com/search?q=warlio+on+bahaynikumu) | N/A |
+| 49 | [jema](http://twitter.com/search?q=jema) | N/A |
+| 50 | [LOVESTRUCK PIECES](http://twitter.com/search?q=LOVESTRUCK+PIECES) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-03-22 17:17:02 UTC`
+📆 Last Updated: `2023-03-22 18:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Abia](http://twitter.com/search?q=Abia) | N/A |
 | 2 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 3 | [#QingMadi](http://twitter.com/search?q=%23QingMadi) | N/A |
-| 4 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 5 | [#AHCA2023](http://twitter.com/search?q=%23AHCA2023) | N/A |
-| 6 | [Cyberstalking](http://twitter.com/search?q=Cyberstalking) | N/A |
-| 7 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 8 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
-| 9 | [FUTO](http://twitter.com/search?q=FUTO) | N/A |
-| 10 | [Umuahia](http://twitter.com/search?q=Umuahia) | N/A |
-| 11 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 12 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 13 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
-| 14 | [Nigerian Police](http://twitter.com/search?q=Nigerian+Police) | N/A |
-| 15 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 16 | [But MC Oluomo](http://twitter.com/search?q=But+MC+Oluomo) | N/A |
-| 17 | [To God](http://twitter.com/search?q=To+God) | N/A |
-| 18 | [#facesofalxse](http://twitter.com/search?q=%23facesofalxse) | N/A |
-| 19 | [Governor Elect](http://twitter.com/search?q=Governor+Elect) | N/A |
-| 20 | [Obingwa LGA](http://twitter.com/search?q=Obingwa+LGA) | N/A |
-| 21 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 22 | [GRID PHYNA](http://twitter.com/search?q=GRID+PHYNA) | N/A |
-| 23 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 24 | [TB 26](http://twitter.com/search?q=TB+26) | N/A |
-| 25 | [Ikpeazu](http://twitter.com/search?q=Ikpeazu) | N/A |
-| 26 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 27 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 28 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 29 | [Hospital](http://twitter.com/search?q=Hospital) | N/A |
-| 30 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 31 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
-| 32 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 33 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 34 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 35 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 36 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 37 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 38 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
-| 39 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
-| 40 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 41 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 42 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 43 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
-| 44 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
-| 45 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 46 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 47 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 48 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 49 | [Omah](http://twitter.com/search?q=Omah) | N/A |
-| 50 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 3 | [#Thefinaltouchdone](http://twitter.com/search?q=%23Thefinaltouchdone) | N/A |
+| 4 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
+| 5 | [#QingMadi](http://twitter.com/search?q=%23QingMadi) | N/A |
+| 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 7 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
+| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 9 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 10 | [FUTO](http://twitter.com/search?q=FUTO) | N/A |
+| 11 | [#AHCA2023](http://twitter.com/search?q=%23AHCA2023) | N/A |
+| 12 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
+| 13 | [Ai Mining Party](http://twitter.com/search?q=Ai+Mining+Party) | N/A |
+| 14 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 15 | [Ikpeazu](http://twitter.com/search?q=Ikpeazu) | N/A |
+| 16 | [Umuahia](http://twitter.com/search?q=Umuahia) | N/A |
+| 17 | [Cyberstalking](http://twitter.com/search?q=Cyberstalking) | N/A |
+| 18 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 19 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 20 | [To God](http://twitter.com/search?q=To+God) | N/A |
+| 21 | [Ohafia](http://twitter.com/search?q=Ohafia) | N/A |
+| 22 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 23 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 24 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
+| 25 | [Governor Elect](http://twitter.com/search?q=Governor+Elect) | N/A |
+| 26 | [But MC Oluomo](http://twitter.com/search?q=But+MC+Oluomo) | N/A |
+| 27 | [Nigerian Police](http://twitter.com/search?q=Nigerian+Police) | N/A |
+| 28 | [Obingwa](http://twitter.com/search?q=Obingwa) | N/A |
+| 29 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 30 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 31 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 32 | [GRID PHYNA](http://twitter.com/search?q=GRID+PHYNA) | N/A |
+| 33 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 34 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 35 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 36 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 37 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 38 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 39 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 40 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 41 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 42 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
+| 43 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 44 | [APC and INEC](http://twitter.com/search?q=APC+and+INEC) | N/A |
+| 45 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 46 | [#YaGunnersYa](http://twitter.com/search?q=%23YaGunnersYa) | N/A |
+| 47 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 48 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 49 | [#LagosHasDecided](http://twitter.com/search?q=%23LagosHasDecided) | N/A |
 
 
 

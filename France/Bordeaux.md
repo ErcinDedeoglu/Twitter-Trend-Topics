@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-22 17:16:47 UTC`
+📆 Last Updated: `2023-03-22 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,52 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 2 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 3 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 2 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 3 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 | 4 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
 | 5 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 6 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
-| 7 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
-| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 9 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
-| 10 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 11 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 12 | [Belfort](http://twitter.com/search?q=Belfort) | N/A |
-| 13 | [Humble](http://twitter.com/search?q=Humble) | N/A |
-| 14 | [Lepen](http://twitter.com/search?q=Lepen) | N/A |
-| 15 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 16 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 17 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 18 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
-| 19 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 20 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 21 | [Philippe Martinez](http://twitter.com/search?q=Philippe+Martinez) | N/A |
-| 22 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 23 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 24 | [Lunaire](http://twitter.com/search?q=Lunaire) | N/A |
-| 25 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
-| 26 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
-| 27 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
-| 28 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 29 | [#JT13h](http://twitter.com/search?q=%23JT13h) | N/A |
-| 30 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 31 | [#ClassicBruggeDePanne](http://twitter.com/search?q=%23ClassicBruggeDePanne) | N/A |
-| 32 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 33 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 34 | [#space93](http://twitter.com/search?q=%23space93) | N/A |
-| 35 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 36 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 37 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 38 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 7 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 8 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 9 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 10 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 11 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 12 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 13 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 15 | [Brevin](http://twitter.com/search?q=Brevin) | N/A |
+| 16 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
+| 17 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
+| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 19 | [Belfort](http://twitter.com/search?q=Belfort) | N/A |
+| 20 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 21 | [Lepen](http://twitter.com/search?q=Lepen) | N/A |
+| 22 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 24 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
+| 25 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 26 | [Président de la République](http://twitter.com/search?q=Pr%c3%a9sident+de+la+R%c3%a9publique) | N/A |
+| 27 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 28 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 29 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 30 | [Lunaire](http://twitter.com/search?q=Lunaire) | N/A |
+| 31 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 32 | [#Greve23Mars](http://twitter.com/search?q=%23Greve23Mars) | N/A |
+| 33 | [#OLCHE](http://twitter.com/search?q=%23OLCHE) | N/A |
+| 34 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
+| 35 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
+| 36 | [#ClassicBruggeDePanne](http://twitter.com/search?q=%23ClassicBruggeDePanne) | N/A |
+| 37 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 38 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
 | 39 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 40 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 41 | [#VoltaCatalunya102](http://twitter.com/search?q=%23VoltaCatalunya102) | N/A |
-| 42 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 43 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
+| 40 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 41 | [#aveclepresident](http://twitter.com/search?q=%23aveclepresident) | N/A |
+| 42 | [#JT13h](http://twitter.com/search?q=%23JT13h) | N/A |
+| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 44 | [#VoltaCatalunya102](http://twitter.com/search?q=%23VoltaCatalunya102) | N/A |
+| 45 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
+| 46 | [#Bastille](http://twitter.com/search?q=%23Bastille) | N/A |
+| 47 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
 
 
 

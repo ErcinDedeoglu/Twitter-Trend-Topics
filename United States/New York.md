@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-22 17:17:18 UTC`
+📆 Last Updated: `2023-03-22 18:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#UN2023WaterConference](http://twitter.com/search?q=%23UN2023WaterConference) | N/A |
 | 2 | [#SDG6](http://twitter.com/search?q=%23SDG6) | N/A |
 | 3 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 4 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 6 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 8 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 5 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 7 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 8 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
 | 9 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 10 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 12 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 13 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 14 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 15 | [CSGO 2](http://twitter.com/search?q=CSGO+2) | N/A |
-| 16 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 18 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 19 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 20 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 21 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 22 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 23 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 26 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 27 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 28 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 29 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 30 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 31 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
-| 32 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 33 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
-| 34 | [State of Unreal](http://twitter.com/search?q=State+of+Unreal) | N/A |
-| 35 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
-| 36 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 37 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 38 | [Mamie](http://twitter.com/search?q=Mamie) | N/A |
-| 39 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 40 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 41 | [Goten](http://twitter.com/search?q=Goten) | N/A |
-| 42 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
-| 43 | [Summer 2023](http://twitter.com/search?q=Summer+2023) | N/A |
-| 44 | [Mary Poppins](http://twitter.com/search?q=Mary+Poppins) | N/A |
-| 45 | [Maren Morris](http://twitter.com/search?q=Maren+Morris) | N/A |
-| 46 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 47 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
-| 48 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 49 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 50 | [Zach Harrison](http://twitter.com/search?q=Zach+Harrison) | N/A |
+| 10 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 11 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 12 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 13 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 14 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 15 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 16 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 17 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 18 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 19 | [Puff](http://twitter.com/search?q=Puff) | N/A |
+| 20 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 21 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 22 | [Soroka](http://twitter.com/search?q=Soroka) | N/A |
+| 23 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 24 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 25 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 26 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 27 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
+| 28 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
+| 29 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 31 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 32 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
+| 33 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 34 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
+| 35 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 36 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 37 | [Mr. Shatner](http://twitter.com/search?q=Mr.+Shatner) | N/A |
+| 38 | [Denzel Perryman](http://twitter.com/search?q=Denzel+Perryman) | N/A |
+| 39 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 40 | [Unreal Engine](http://twitter.com/search?q=Unreal+Engine) | N/A |
+| 41 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
+| 42 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 43 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 44 | [byers](http://twitter.com/search?q=byers) | N/A |
+| 45 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 46 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 47 | [Aaron Sorkin](http://twitter.com/search?q=Aaron+Sorkin) | N/A |
+| 48 | [Stellar Blade](http://twitter.com/search?q=Stellar+Blade) | N/A |
+| 49 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
+| 50 | [Chris Russo](http://twitter.com/search?q=Chris+Russo) | N/A |
 
 
 

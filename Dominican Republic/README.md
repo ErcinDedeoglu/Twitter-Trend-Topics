@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-22 17:17:23 UTC`
+📆 Last Updated: `2023-03-22 18:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 2 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 1 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 2 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 4 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 5 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
-| 6 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 5 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
+| 6 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
 | 7 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
-| 8 | [#AutopistaDuarteMOPC](http://twitter.com/search?q=%23AutopistaDuarteMOPC) | N/A |
-| 9 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 10 | [Waze](http://twitter.com/search?q=Waze) | N/A |
-| 11 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 8 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 9 | [#AutopistaDuarteMOPC](http://twitter.com/search?q=%23AutopistaDuarteMOPC) | N/A |
+| 10 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 11 | [Waze](http://twitter.com/search?q=Waze) | N/A |
 | 12 | [#pldevuelvanlorobado](http://twitter.com/search?q=%23pldevuelvanlorobado) | N/A |
-| 13 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 14 | [Luis Polonia](http://twitter.com/search?q=Luis+Polonia) | N/A |
+| 13 | [Luis Polonia](http://twitter.com/search?q=Luis+Polonia) | N/A |
+| 14 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
 | 15 | [Penco](http://twitter.com/search?q=Penco) | N/A |
 | 16 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 17 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 18 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 17 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 18 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 19 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
 | 20 | [Morat](http://twitter.com/search?q=Morat) | N/A |
 | 21 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
-| 22 | [consejo de gobierno](http://twitter.com/search?q=consejo+de+gobierno) | N/A |
+| 22 | [Consejo de Gobierno](http://twitter.com/search?q=Consejo+de+Gobierno) | N/A |
 | 23 | [Soberanos](http://twitter.com/search?q=Soberanos) | N/A |
-| 24 | [Joaquín Balaguer](http://twitter.com/search?q=Joaqu%c3%adn+Balaguer) | N/A |
-| 25 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 26 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
-| 27 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 28 | [bolívar ventura](http://twitter.com/search?q=bol%c3%advar+ventura) | N/A |
-| 29 | [amelia vega](http://twitter.com/search?q=amelia+vega) | N/A |
-| 30 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
-| 31 | [Yeni Berenice](http://twitter.com/search?q=Yeni+Berenice) | N/A |
-| 32 | [Disciplina](http://twitter.com/search?q=Disciplina) | N/A |
-| 33 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 35 | [CESIA EN PREMIOS HEAT](http://twitter.com/search?q=CESIA+EN+PREMIOS+HEAT) | N/A |
-| 36 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 37 | [Simplemente](http://twitter.com/search?q=Simplemente) | N/A |
-| 38 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 39 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 40 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 41 | [#TeamUSA](http://twitter.com/search?q=%23TeamUSA) | N/A |
-| 42 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 43 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 24 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 25 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
+| 26 | [Joaquín Balaguer](http://twitter.com/search?q=Joaqu%c3%adn+Balaguer) | N/A |
+| 27 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 28 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
+| 29 | [Participación Ciudadana](http://twitter.com/search?q=Participaci%c3%b3n+Ciudadana) | N/A |
+| 30 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 31 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 32 | [bolívar ventura](http://twitter.com/search?q=bol%c3%advar+ventura) | N/A |
+| 33 | [amelia vega](http://twitter.com/search?q=amelia+vega) | N/A |
+| 34 | [Yeni Berenice](http://twitter.com/search?q=Yeni+Berenice) | N/A |
+| 35 | [Disciplina](http://twitter.com/search?q=Disciplina) | N/A |
+| 36 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 37 | [Dantes](http://twitter.com/search?q=Dantes) | N/A |
+| 38 | [CESIA EN PREMIOS HEAT](http://twitter.com/search?q=CESIA+EN+PREMIOS+HEAT) | N/A |
+| 39 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 40 | [Simplemente](http://twitter.com/search?q=Simplemente) | N/A |
+| 41 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 42 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 43 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
 | 44 | [Jaime David](http://twitter.com/search?q=Jaime+David) | N/A |
-| 45 | [Participación Ciudadana](http://twitter.com/search?q=Participaci%c3%b3n+Ciudadana) | N/A |
-| 46 | [boletri](http://twitter.com/search?q=boletri) | N/A |
-| 47 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 48 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
-| 49 | [Cada 21](http://twitter.com/search?q=Cada+21) | N/A |
-| 50 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
+| 45 | [boletri](http://twitter.com/search?q=boletri) | N/A |
+| 46 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 47 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
+| 48 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 49 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
+| 50 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
 
 
 

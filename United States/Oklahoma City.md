@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-22 17:17:18 UTC`
+📆 Last Updated: `2023-03-22 18:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 4 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
 | 5 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 8 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 9 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 10 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 7 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 9 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 10 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
 | 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 12 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 12 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
 | 13 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 14 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 15 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 16 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 17 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 18 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 19 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 21 | [CSGO 2](http://twitter.com/search?q=CSGO+2) | N/A |
-| 22 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 23 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 24 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 25 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 26 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 27 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 28 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 29 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 30 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 31 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 32 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 33 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 34 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 35 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 36 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 14 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 15 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 16 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 17 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 18 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 19 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 20 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 21 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 22 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 23 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 24 | [Puff](http://twitter.com/search?q=Puff) | N/A |
+| 25 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 26 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 27 | [Soroka](http://twitter.com/search?q=Soroka) | N/A |
+| 28 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 29 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 30 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 31 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 32 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
+| 33 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
+| 34 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 35 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 36 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
 | 37 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
-| 38 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 39 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
-| 40 | [State of Unreal](http://twitter.com/search?q=State+of+Unreal) | N/A |
-| 41 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
-| 42 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 43 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 44 | [Mamie](http://twitter.com/search?q=Mamie) | N/A |
-| 45 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 46 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 47 | [Goten](http://twitter.com/search?q=Goten) | N/A |
-| 48 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
-| 49 | [Summer 2023](http://twitter.com/search?q=Summer+2023) | N/A |
-| 50 | [Mary Poppins](http://twitter.com/search?q=Mary+Poppins) | N/A |
+| 38 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 39 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 40 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
+| 41 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 42 | [Mr. Shatner](http://twitter.com/search?q=Mr.+Shatner) | N/A |
+| 43 | [Denzel Perryman](http://twitter.com/search?q=Denzel+Perryman) | N/A |
+| 44 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 45 | [Unreal Engine](http://twitter.com/search?q=Unreal+Engine) | N/A |
+| 46 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
+| 47 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 48 | [byers](http://twitter.com/search?q=byers) | N/A |
+| 49 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 50 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 
 
 
