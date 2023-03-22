@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-22 20:18:32 UTC`
+📆 Last Updated: `2023-03-22 21:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 2 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 3 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 4 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 1 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 2 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
+| 3 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 4 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
 | 5 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 6 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 6 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
 | 7 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 9 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 10 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 11 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
-| 12 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 13 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 14 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 15 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 16 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 17 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 18 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 19 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 20 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 21 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 9 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 10 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 11 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 12 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 13 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
+| 14 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 15 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 16 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 17 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 18 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 19 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 20 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 21 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
 | 22 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 23 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 24 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 25 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 26 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 27 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 28 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 29 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 30 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 31 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 32 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 33 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 34 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 35 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 36 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 37 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 38 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 39 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 40 | [Austin Hooper](http://twitter.com/search?q=Austin+Hooper) | N/A |
-| 41 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 42 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 43 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 44 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 45 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 46 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 47 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
-| 48 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 49 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 50 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 23 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 24 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 25 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 26 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
+| 27 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 28 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 29 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 30 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 31 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
+| 32 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 33 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 34 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 35 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 36 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 37 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 38 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 39 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 40 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 41 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 42 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 43 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 44 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 45 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 47 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 48 | [Hooper](http://twitter.com/search?q=Hooper) | N/A |
+| 49 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 50 | [Family Affair](http://twitter.com/search?q=Family+Affair) | N/A |
 
 
 

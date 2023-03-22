@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-22 20:18:17 UTC`
+📆 Last Updated: `2023-03-22 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 1 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 2 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
 | 3 | [#อิงล็อตคุณน่ะเก่งที่สุดเลยนะ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%99%e0%b9%88%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%99%e0%b8%b0) | N/A |
-| 4 | [#BiblexPoloRed](http://twitter.com/search?q=%23BiblexPoloRed) | N/A |
-| 5 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
-| 6 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 4 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 5 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
+| 6 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
 | 7 | [always holding build hand](http://twitter.com/search?q=always+holding+build+hand) | N/A |
 | 8 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
 | 9 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
@@ -30,7 +30,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [West](http://twitter.com/search?q=West) | N/A |
 | 14 | [Happy Pawat](http://twitter.com/search?q=Happy+Pawat) | N/A |
 | 15 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
-| 16 | [Nha Trang](http://twitter.com/search?q=Nha+Trang) | N/A |
+| 16 | [nha trang](http://twitter.com/search?q=nha+trang) | N/A |
 | 17 | [Pump](http://twitter.com/search?q=Pump) | N/A |
 | 18 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
 | 19 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 46 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 | 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 48 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 48 | [người](http://twitter.com/search?q=ng%c6%b0%e1%bb%9di) | N/A |
 | 49 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
 | 50 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-22 20:18:49 UTC`
+📆 Last Updated: `2023-03-22 21:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Vietnam
 | 13 | [West](http://twitter.com/search?q=West) | N/A |
 | 14 | [Happy Pawat](http://twitter.com/search?q=Happy+Pawat) | N/A |
 | 15 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
-| 16 | [Nha Trang](http://twitter.com/search?q=Nha+Trang) | N/A |
+| 16 | [nha trang](http://twitter.com/search?q=nha+trang) | N/A |
 | 17 | [Pump](http://twitter.com/search?q=Pump) | N/A |
 | 18 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
 | 19 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Vietnam
 | 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 46 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 | 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 48 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 48 | [người](http://twitter.com/search?q=ng%c6%b0%e1%bb%9di) | N/A |
 | 49 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
 | 50 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
 

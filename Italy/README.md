@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-22 20:18:43 UTC`
+📆 Last Updated: `2023-03-22 21:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#22marzo](http://twitter.com/search?q=%2322marzo) | N/A |
-| 2 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 3 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 6 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 7 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 8 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 9 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 11 | [Fabio Volo](http://twitter.com/search?q=Fabio+Volo) | N/A |
-| 12 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 13 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 14 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 15 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 16 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 17 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
-| 18 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 1 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 3 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
+| 4 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
+| 5 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 7 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 8 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 9 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
+| 10 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
+| 11 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 12 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 13 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 14 | [Pierpaolo Pretelli](http://twitter.com/search?q=Pierpaolo+Pretelli) | N/A |
+| 15 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 16 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 17 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 18 | [Marchisio](http://twitter.com/search?q=Marchisio) | N/A |
 | 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 20 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 21 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 22 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 23 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
-| 24 | [Marchisio](http://twitter.com/search?q=Marchisio) | N/A |
-| 25 | [Simon Pietro](http://twitter.com/search?q=Simon+Pietro) | N/A |
-| 26 | [Adige](http://twitter.com/search?q=Adige) | N/A |
+| 20 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 21 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 22 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
+| 23 | [Presidente del Consiglio](http://twitter.com/search?q=Presidente+del+Consiglio) | N/A |
+| 24 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 25 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 26 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
 | 27 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 28 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 29 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 30 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 31 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
-| 32 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 33 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 34 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 35 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 36 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
-| 37 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
-| 38 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 39 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 40 | [Citto Maselli](http://twitter.com/search?q=Citto+Maselli) | N/A |
-| 41 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 42 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
-| 43 | [Mirko](http://twitter.com/search?q=Mirko) | N/A |
-| 44 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
-| 45 | [Vendi](http://twitter.com/search?q=Vendi) | N/A |
-| 46 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 47 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 48 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 49 | [Pierpaolo Pretelli](http://twitter.com/search?q=Pierpaolo+Pretelli) | N/A |
-| 50 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 28 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 29 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
+| 30 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 31 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 32 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 33 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 34 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
+| 35 | [#CinqueMinuti](http://twitter.com/search?q=%23CinqueMinuti) | N/A |
+| 36 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 37 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 38 | [#GiorgiaMeloni](http://twitter.com/search?q=%23GiorgiaMeloni) | N/A |
+| 39 | [#siccità](http://twitter.com/search?q=%23siccit%c3%a0) | N/A |
+| 40 | [#Conte](http://twitter.com/search?q=%23Conte) | N/A |
+| 41 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
+| 42 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 43 | [#nicotelli](http://twitter.com/search?q=%23nicotelli) | N/A |
+| 44 | [#uranioimpoverito](http://twitter.com/search?q=%23uranioimpoverito) | N/A |
+| 45 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
 
 
 

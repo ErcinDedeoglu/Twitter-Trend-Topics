@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-22 20:18:45 UTC`
+📆 Last Updated: `2023-03-22 21:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Mexico
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
 | 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
-| 5 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 6 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
-| 7 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 8 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
-| 9 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
-| 10 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 11 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 12 | [SuJu](http://twitter.com/search?q=SuJu) | N/A |
-| 13 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 14 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 15 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
-| 16 | [Parque Bicentenario](http://twitter.com/search?q=Parque+Bicentenario) | N/A |
-| 17 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
-| 18 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 19 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 20 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 21 | [Choix](http://twitter.com/search?q=Choix) | N/A |
-| 22 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
-| 23 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
-| 24 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 25 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 26 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 27 | [ES HOY ES HOY](http://twitter.com/search?q=ES+HOY+ES+HOY) | N/A |
-| 28 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 29 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 30 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 31 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 32 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 33 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 34 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
-| 35 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
-| 36 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 37 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 38 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 39 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 40 | [Infonavit](http://twitter.com/search?q=Infonavit) | N/A |
-| 41 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
-| 42 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 43 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 44 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 45 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 46 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 47 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 48 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
-| 49 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
-| 50 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
+| 4 | [#ChileSeguro](http://twitter.com/search?q=%23ChileSeguro) | N/A |
+| 5 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 6 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 7 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 8 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
+| 9 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
+| 10 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 11 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 12 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
+| 13 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 14 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 15 | [SuJu](http://twitter.com/search?q=SuJu) | N/A |
+| 16 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 17 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
+| 18 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
+| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 20 | [Parque Bicentenario](http://twitter.com/search?q=Parque+Bicentenario) | N/A |
+| 21 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 22 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 23 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
+| 24 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 25 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
+| 26 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 27 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 28 | [ES HOY ES HOY](http://twitter.com/search?q=ES+HOY+ES+HOY) | N/A |
+| 29 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 30 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 31 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
+| 32 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 33 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
+| 34 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 35 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 36 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 37 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 38 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 39 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 40 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 41 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
+| 42 | [Infonavit](http://twitter.com/search?q=Infonavit) | N/A |
+| 43 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
+| 44 | [Richi](http://twitter.com/search?q=Richi) | N/A |
+| 45 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
+| 46 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 47 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 48 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 49 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
+| 50 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-03-22 20:18:35 UTC`
+📆 Last Updated: `2023-03-22 21:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 2 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 3 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 4 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 5 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 6 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 7 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 8 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
-| 9 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 10 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 1 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 2 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 3 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
+| 4 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 5 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 9 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 10 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 11 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
 | 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 13 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 14 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 13 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 14 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
 | 15 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 16 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 17 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 18 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
-| 19 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 20 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 21 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 22 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 23 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 24 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 25 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 26 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 27 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 28 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 29 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 30 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 31 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 32 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 16 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 17 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 18 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 19 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 20 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 21 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 22 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 23 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 24 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
+| 25 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 26 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 27 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 28 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 29 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 30 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
+| 31 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 32 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
 | 33 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 34 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 35 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 36 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 37 | [Austin Hooper](http://twitter.com/search?q=Austin+Hooper) | N/A |
-| 38 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 39 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 40 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 41 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 42 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 43 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 44 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
-| 45 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 46 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 47 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 48 | [Loba](http://twitter.com/search?q=Loba) | N/A |
-| 49 | [Puff](http://twitter.com/search?q=Puff) | N/A |
+| 34 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 35 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 36 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 37 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 38 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 39 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 40 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 41 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 42 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 43 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 44 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 45 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 46 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 47 | [Hooper](http://twitter.com/search?q=Hooper) | N/A |
+| 48 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 49 | [Family Affair](http://twitter.com/search?q=Family+Affair) | N/A |
 
 
 

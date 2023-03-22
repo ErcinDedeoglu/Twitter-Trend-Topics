@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-22 20:18:38 UTC`
+📆 Last Updated: `2023-03-22 21:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
 | 2 | [#GDC2023](http://twitter.com/search?q=%23GDC2023) | N/A |
-| 3 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 4 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 5 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
+| 3 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 5 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 6 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 8 | [#LAUSDStrike](http://twitter.com/search?q=%23LAUSDStrike) | N/A |
-| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 10 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 11 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 13 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 14 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 15 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 19 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 20 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 7 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
+| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 9 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
+| 10 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 11 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 12 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 13 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 14 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 16 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 17 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 18 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 19 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 20 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
 | 21 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 22 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
-| 23 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 24 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 25 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 26 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 27 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 28 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 29 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 30 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 31 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 32 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 33 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 34 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 35 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 36 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 37 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 38 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 39 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 40 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 41 | [Austin Hooper](http://twitter.com/search?q=Austin+Hooper) | N/A |
-| 42 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 43 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 44 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 45 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 46 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 47 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 48 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
-| 49 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 50 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 22 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 23 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 24 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 25 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 26 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 27 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 28 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 29 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
+| 30 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 31 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 32 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 33 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 34 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 35 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
+| 36 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 37 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 38 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 39 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 40 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 41 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 42 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 43 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 44 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 45 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 46 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 47 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 48 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 49 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 50 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
 
 
 

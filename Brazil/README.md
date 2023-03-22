@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-22 20:18:41 UTC`
+📆 Last Updated: `2023-03-22 21:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 2 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 4 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 5 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 6 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 8 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 9 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 11 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 12 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 13 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 14 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 15 | [GAROTA É O CARALHO](http://twitter.com/search?q=GAROTA+%c3%89+O+CARALHO) | N/A |
-| 16 | [#CasaDoReencontro](http://twitter.com/search?q=%23CasaDoReencontro) | N/A |
-| 17 | [Ouro](http://twitter.com/search?q=Ouro) | N/A |
-| 18 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 19 | [HAILEE](http://twitter.com/search?q=HAILEE) | N/A |
-| 20 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 21 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
-| 22 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 23 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 24 | [Tranquiliza](http://twitter.com/search?q=Tranquiliza) | N/A |
-| 25 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 26 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
-| 27 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 28 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 29 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 30 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 31 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 32 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
-| 33 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 34 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 35 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 36 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 37 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 38 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 39 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 40 | [WhatsApp 2](http://twitter.com/search?q=WhatsApp+2) | N/A |
-| 41 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 42 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 3 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
+| 4 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 5 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 6 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 7 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 9 | [GAROTA É O CARALHO](http://twitter.com/search?q=GAROTA+%c3%89+O+CARALHO) | N/A |
+| 10 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 11 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 14 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 15 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 16 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 17 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 18 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 19 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 20 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 21 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 22 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 23 | [HAILEE](http://twitter.com/search?q=HAILEE) | N/A |
+| 24 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 25 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 26 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 27 | [Paris 6](http://twitter.com/search?q=Paris+6) | N/A |
+| 28 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 29 | [Pipokey](http://twitter.com/search?q=Pipokey) | N/A |
+| 30 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
+| 31 | [Tranquiliza](http://twitter.com/search?q=Tranquiliza) | N/A |
+| 32 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 33 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 35 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 36 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 37 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 38 | [Valu](http://twitter.com/search?q=Valu) | N/A |
+| 39 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 40 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 41 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 42 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
 | 43 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 44 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 45 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
-| 46 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 47 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 48 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 49 | [Assusta](http://twitter.com/search?q=Assusta) | N/A |
-| 50 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 44 | [Assusta](http://twitter.com/search?q=Assusta) | N/A |
+| 45 | [Gal Gadot](http://twitter.com/search?q=Gal+Gadot) | N/A |
+| 46 | [Capivara](http://twitter.com/search?q=Capivara) | Capivara is a Brazilian word for the Capybara, a large rodent native to South America. It is the largest living rodent in the world and can weigh up to 140 pounds. In English, Capivara means "water hog". |
+| 47 | [WhatsApp 2](http://twitter.com/search?q=WhatsApp+2) | N/A |
+| 48 | [Primeira Comunhão](http://twitter.com/search?q=Primeira+Comunh%c3%a3o) | N/A |
+| 49 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 50 | [Flamengo e Corinthians](http://twitter.com/search?q=Flamengo+e+Corinthians) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-03-22 20:18:28 UTC`
+📆 Last Updated: `2023-03-22 21:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [India](</India>)
 | 4 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
 | 5 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
 | 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 7 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 8 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 9 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 10 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 9 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 10 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
 | 11 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 13 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 14 | [CELEBRATING SHIV'S VENTURE](http://twitter.com/search?q=CELEBRATING+SHIV%27S+VENTURE) | N/A |
-| 15 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 16 | [कुमार यादव](http://twitter.com/search?q=%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 17 | [Grand Mufti](http://twitter.com/search?q=Grand+Mufti) | N/A |
+| 12 | [CELEBRATING SHIV'S VENTURE](http://twitter.com/search?q=CELEBRATING+SHIV%27S+VENTURE) | N/A |
+| 13 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 14 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 15 | [कुमार यादव](http://twitter.com/search?q=%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 16 | [Grand Mufti](http://twitter.com/search?q=Grand+Mufti) | N/A |
+| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 18 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
 | 19 | [WE LOVE YOU ABDU](http://twitter.com/search?q=WE+LOVE+YOU+ABDU) | N/A |
 | 20 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
 | 21 | [Dravid](http://twitter.com/search?q=Dravid) | N/A |
-| 22 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 23 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 24 | [25 BPS](http://twitter.com/search?q=25+BPS) | N/A |
-| 25 | [Zampa](http://twitter.com/search?q=Zampa) | Zampa is a term used in Italian to describe someone who is clumsy or awkward. It can also be used to describe someone who is clumsy or foolish in their actions. In English, it could be translated as "clumsy" or "bumbling". |
-| 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 27 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
-| 28 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 29 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 22 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 23 | [Zampa](http://twitter.com/search?q=Zampa) | Zampa is a term used in Italian to describe someone who is clumsy or awkward. It can also be used to describe someone who is clumsy or foolish in their actions. In English, it could be translated as "clumsy" or "bumbling". |
+| 24 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 25 | [25 BPS](http://twitter.com/search?q=25+BPS) | N/A |
+| 26 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
+| 27 | [Pandya](http://twitter.com/search?q=Pandya) | N/A |
+| 28 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 29 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
 | 30 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
 | 31 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 32 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 33 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 34 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
+| 32 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 33 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
+| 34 | [Golden](http://twitter.com/search?q=Golden) | N/A |
 | 35 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
 | 36 | [पद्म श्री](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 37 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
 | 38 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 39 | [Agar](http://twitter.com/search?q=Agar) | N/A |
-| 40 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 39 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 40 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
 | 41 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
-| 42 | [Golden](http://twitter.com/search?q=Golden) | N/A |
-| 43 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 44 | [T20s](http://twitter.com/search?q=T20s) | N/A |
-| 45 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 46 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
-| 47 | [#HappyBirthdayKanganaRanaut](http://twitter.com/search?q=%23HappyBirthdayKanganaRanaut) | N/A |
-| 48 | [#AajTakExposesAmritpal](http://twitter.com/search?q=%23AajTakExposesAmritpal) | N/A |
-| 49 | [#IndVsAus2023](http://twitter.com/search?q=%23IndVsAus2023) | N/A |
-| 50 | [#fedmeeting](http://twitter.com/search?q=%23fedmeeting) | N/A |
+| 42 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 43 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
+| 44 | [#PraTejRan](http://twitter.com/search?q=%23PraTejRan) | N/A |
+| 45 | [#HappyBirthdayKanganaRanaut](http://twitter.com/search?q=%23HappyBirthdayKanganaRanaut) | N/A |
+| 46 | [#BhagatSingh](http://twitter.com/search?q=%23BhagatSingh) | N/A |
+| 47 | [#AajTakExposesAmritpal](http://twitter.com/search?q=%23AajTakExposesAmritpal) | N/A |
+| 48 | [#Rajguru](http://twitter.com/search?q=%23Rajguru) | N/A |
+| 49 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
+| 50 | [#IndVsAus2023](http://twitter.com/search?q=%23IndVsAus2023) | N/A |
 
 
 

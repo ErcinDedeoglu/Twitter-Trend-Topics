@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-22 20:17:44 UTC`
+📆 Last Updated: `2023-03-22 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 4 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 6 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 7 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 6 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 7 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
 | 8 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 9 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 10 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 11 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 12 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 13 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 14 | [#BudgetQc2023](http://twitter.com/search?q=%23BudgetQc2023) | N/A |
-| 15 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 16 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 9 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 10 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 11 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 12 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 14 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 15 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 16 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 17 | [#BudgetQc2023](http://twitter.com/search?q=%23BudgetQc2023) | N/A |
 | 18 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
-| 19 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
+| 19 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
 | 20 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 22 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 23 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 24 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 21 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 22 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 23 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 24 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 25 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 26 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 27 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 29 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
+| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 27 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 28 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
+| 29 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
 | 30 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 31 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 32 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 33 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 35 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 36 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
-| 37 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 38 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 39 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 40 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 41 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 42 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 43 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 44 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 45 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 46 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 47 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 48 | [CSGO 2](http://twitter.com/search?q=CSGO+2) | N/A |
-| 49 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 32 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 33 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 34 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 35 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
+| 36 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 37 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 38 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 39 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 40 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 41 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 42 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 43 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
+| 44 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 45 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 46 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 47 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 48 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 49 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
 | 50 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
 
 
