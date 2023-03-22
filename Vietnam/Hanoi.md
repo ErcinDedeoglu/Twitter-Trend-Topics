@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-22 09:17:11 UTC`
+📆 Last Updated: `2023-03-22 10:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [#WontLetBuildFall](http://twitter.com/search?q=%23WontLetBuildFall) | N/A |
 | 3 | [#GDHlineup2023](http://twitter.com/search?q=%23GDHlineup2023) | N/A |
 | 4 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
-| 5 | [#jenniexchanelbagcampaign](http://twitter.com/search?q=%23jenniexchanelbagcampaign) | N/A |
-| 6 | [jennie face of chanel22](http://twitter.com/search?q=jennie+face+of+chanel22) | N/A |
-| 7 | [jennie solo mv 900m](http://twitter.com/search?q=jennie+solo+mv+900m) | N/A |
+| 5 | [jennie face of chanel22](http://twitter.com/search?q=jennie+face+of+chanel22) | N/A |
+| 6 | [jennie solo mv 900m](http://twitter.com/search?q=jennie+solo+mv+900m) | N/A |
+| 7 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
 | 8 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
-| 9 | [ROSÉ FOR SULWHASOO](http://twitter.com/search?q=ROS%c3%89+FOR+SULWHASOO) | N/A |
-| 10 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 11 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 12 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 13 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 14 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 15 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 16 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 18 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
-| 19 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 20 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 21 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 22 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 24 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 25 | [hoài n.](http://twitter.com/search?q=ho%c3%a0i+n.) | N/A |
-| 26 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 27 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 29 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 30 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 31 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 32 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
-| 33 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 34 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 36 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 37 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 38 | [anh em](http://twitter.com/search?q=anh+em) | N/A |
-| 39 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 40 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 41 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 42 | [ZkSync](http://twitter.com/search?q=ZkSync) | N/A |
-| 43 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
-| 44 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
-| 47 | [Voyage Season 1](http://twitter.com/search?q=Voyage+Season+1) | N/A |
-| 48 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 49 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
-| 50 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 9 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 10 | [ROSÉ FOR SULWHASOO](http://twitter.com/search?q=ROS%c3%89+FOR+SULWHASOO) | N/A |
+| 11 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 12 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
+| 13 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 14 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 15 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 16 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 17 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 18 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 19 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 22 | [hoài n.](http://twitter.com/search?q=ho%c3%a0i+n.) | N/A |
+| 23 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 24 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 25 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 26 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 27 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 28 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 29 | [Season 2](http://twitter.com/search?q=Season+2) | N/A |
+| 30 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
+| 31 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 32 | [Space ID](http://twitter.com/search?q=Space+ID) | N/A |
+| 33 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 34 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 35 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 36 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 37 | [Zksync](http://twitter.com/search?q=Zksync) | N/A |
+| 38 | [Nước](http://twitter.com/search?q=N%c6%b0%e1%bb%9bc) | N/A |
+| 39 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 40 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 41 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 42 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
+| 43 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 44 | [America](http://twitter.com/search?q=America) | N/A |
+| 45 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 46 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 47 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 48 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 49 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
 
 
 

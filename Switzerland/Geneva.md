@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-22 09:17:02 UTC`
+📆 Last Updated: `2023-03-22 10:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 4 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 5 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 6 | [paléo](http://twitter.com/search?q=pal%c3%a9o) | N/A |
-| 7 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 8 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
-| 9 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 10 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
-| 11 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 12 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 13 | [Idem](http://twitter.com/search?q=Idem) | N/A |
+| 5 | [paléo](http://twitter.com/search?q=pal%c3%a9o) | N/A |
+| 6 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
+| 7 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 8 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 9 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 10 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 11 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 12 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
+| 13 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 14 | [Gier](http://twitter.com/search?q=Gier) | N/A |
-| 15 | [Filz](http://twitter.com/search?q=Filz) | N/A |
-| 16 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
-| 17 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 18 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 19 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
+| 15 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 16 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
+| 17 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
+| 18 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
+| 19 | [Filz](http://twitter.com/search?q=Filz) | N/A |
 | 20 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 21 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 22 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 23 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 24 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 25 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 26 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 27 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 28 | [Moscou](http://twitter.com/search?q=Moscou) | N/A |
-| 29 | [Ueli Maurer](http://twitter.com/search?q=Ueli+Maurer) | N/A |
-| 30 | [Köpfe](http://twitter.com/search?q=K%c3%b6pfe) | N/A |
-| 31 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 32 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 33 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 34 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 35 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 36 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 37 | [Behandlung](http://twitter.com/search?q=Behandlung) | N/A |
-| 38 | [Garantien](http://twitter.com/search?q=Garantien) | N/A |
-| 39 | [Commission of Inquiry](http://twitter.com/search?q=Commission+of+Inquiry) | N/A |
-| 40 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 41 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
-| 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 43 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 44 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 45 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 46 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 47 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 48 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 22 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 23 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 24 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 25 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 27 | [Nase](http://twitter.com/search?q=Nase) | N/A |
+| 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 29 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 30 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 31 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
+| 32 | [Ueli Maurer](http://twitter.com/search?q=Ueli+Maurer) | N/A |
+| 33 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 34 | [Commission of Inquiry](http://twitter.com/search?q=Commission+of+Inquiry) | N/A |
+| 35 | [Garantien](http://twitter.com/search?q=Garantien) | N/A |
+| 36 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
+| 37 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 38 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 40 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 41 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 42 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 44 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 45 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 46 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 47 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 48 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
 
 
 

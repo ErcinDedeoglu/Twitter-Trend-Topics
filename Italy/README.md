@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-22 09:17:33 UTC`
+📆 Last Updated: `2023-03-22 10:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Italy
 | 1 | [#22marzo](http://twitter.com/search?q=%2322marzo) | N/A |
 | 2 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
 | 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 5 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 6 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 7 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 8 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 9 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 11 | [Buongiorno Luca](http://twitter.com/search?q=Buongiorno+Luca) | N/A |
-| 12 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
-| 13 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
-| 14 | [Claudio Amendola](http://twitter.com/search?q=Claudio+Amendola) | N/A |
-| 15 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 16 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
+| 4 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
+| 5 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
+| 6 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 7 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 8 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 9 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 10 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 11 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 12 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
+| 13 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 14 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 15 | [Claudio Amendola](http://twitter.com/search?q=Claudio+Amendola) | N/A |
+| 16 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
 | 17 | [Buon Mercoledì](http://twitter.com/search?q=Buon+Mercoled%c3%ac) | N/A |
-| 18 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 19 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 20 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 21 | [Nazioni Unite](http://twitter.com/search?q=Nazioni+Unite) | N/A |
-| 22 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 23 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 24 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 25 | [Il 22](http://twitter.com/search?q=Il+22) | N/A |
-| 26 | [livia](http://twitter.com/search?q=livia) | N/A |
-| 27 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 28 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 29 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 30 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 31 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 32 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
-| 33 | [Citto Maselli](http://twitter.com/search?q=Citto+Maselli) | N/A |
-| 34 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 35 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 36 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
-| 37 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 38 | [GIAELE](http://twitter.com/search?q=GIAELE) | N/A |
-| 39 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 40 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 41 | [Buongiorno Daniele](http://twitter.com/search?q=Buongiorno+Daniele) | N/A |
-| 42 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 43 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 44 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 45 | [Bin Salman](http://twitter.com/search?q=Bin+Salman) | N/A |
-| 46 | [luigi alfredo](http://twitter.com/search?q=luigi+alfredo) | N/A |
-| 47 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 48 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 49 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 50 | [Maione](http://twitter.com/search?q=Maione) | N/A |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 20 | [Buongiorno Paola](http://twitter.com/search?q=Buongiorno+Paola) | N/A |
+| 21 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 22 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 23 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 24 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 25 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 26 | [Nazioni Unite](http://twitter.com/search?q=Nazioni+Unite) | N/A |
+| 27 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 28 | [Bin Salman](http://twitter.com/search?q=Bin+Salman) | N/A |
+| 29 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 30 | [Livia](http://twitter.com/search?q=Livia) | N/A |
+| 31 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 32 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 33 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 34 | [Maione](http://twitter.com/search?q=Maione) | N/A |
+| 35 | [Buongiorno Luca](http://twitter.com/search?q=Buongiorno+Luca) | N/A |
+| 36 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 37 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 38 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 39 | [luigi alfredo](http://twitter.com/search?q=luigi+alfredo) | N/A |
+| 40 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 41 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 42 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 43 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
+| 44 | [Miami Vice](http://twitter.com/search?q=Miami+Vice) | N/A |
+| 45 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 46 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
+| 47 | [Buongiorno Peppe](http://twitter.com/search?q=Buongiorno+Peppe) | N/A |
+| 48 | ["Hitlerson"](http://twitter.com/search?q=%22Hitlerson%22) | N/A |
+| 49 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 50 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
 
 
 

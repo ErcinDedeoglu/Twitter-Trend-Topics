@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-22 09:17:22 UTC`
+📆 Last Updated: `2023-03-22 10:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 2 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
 | 3 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 4 | [Immigration NZ](http://twitter.com/search?q=Immigration+NZ) | N/A |
-| 5 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 6 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 7 | [Golriz](http://twitter.com/search?q=Golriz) | N/A |
-| 8 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
-| 9 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [Immigration NZ](http://twitter.com/search?q=Immigration+NZ) | N/A |
+| 6 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 8 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 9 | [Golriz](http://twitter.com/search?q=Golriz) | N/A |
 | 10 | [Molloy](http://twitter.com/search?q=Molloy) | N/A |
-| 11 | [Scott Robertson](http://twitter.com/search?q=Scott+Robertson) | N/A |
-| 12 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 13 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 11 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 12 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 13 | [Scott Robertson](http://twitter.com/search?q=Scott+Robertson) | N/A |
 | 14 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
 | 15 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
 | 16 | [Kane Te Tai](http://twitter.com/search?q=Kane+Te+Tai) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 17 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 18 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 19 | [christopher luxon](http://twitter.com/search?q=christopher+luxon) | N/A |
-| 20 | [David](http://twitter.com/search?q=David) | N/A |
+| 20 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 21 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 22 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
-| 23 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 24 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 25 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 26 | [auckland council](http://twitter.com/search?q=auckland+council) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
-| 29 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 30 | [Byron Clark](http://twitter.com/search?q=Byron+Clark) | N/A |
-| 31 | [tory whanau](http://twitter.com/search?q=tory+whanau) | N/A |
-| 32 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
-| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 34 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 35 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 36 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
-| 37 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 38 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 39 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
-| 40 | [Apologies](http://twitter.com/search?q=Apologies) | N/A |
-| 41 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 43 | [Te Whatu Ora](http://twitter.com/search?q=Te+Whatu+Ora) | N/A |
-| 44 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 22 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 23 | [#plunketshield](http://twitter.com/search?q=%23plunketshield) | N/A |
+| 24 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 25 | [Rawiri](http://twitter.com/search?q=Rawiri) | N/A |
+| 26 | [Byron Clark](http://twitter.com/search?q=Byron+Clark) | N/A |
+| 27 | [tory whanau](http://twitter.com/search?q=tory+whanau) | N/A |
+| 28 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 29 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 30 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 33 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 34 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 35 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 37 | [Te Whatu Ora](http://twitter.com/search?q=Te+Whatu+Ora) | N/A |
+| 38 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 41 | [Apologies](http://twitter.com/search?q=Apologies) | N/A |
+| 42 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 43 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 44 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 45 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
-| 46 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
+| 46 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
 | 47 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 48 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
-| 49 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 50 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 48 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
+| 49 | [David](http://twitter.com/search?q=David) | N/A |
+| 50 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 
 
 

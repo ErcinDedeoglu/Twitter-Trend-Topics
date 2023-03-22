@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-03-22 09:17:20 UTC`
+📆 Last Updated: `2023-03-22 10:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [India](</India>)
 | 1 | [#ಯುಗಾದಿ](http://twitter.com/search?q=%23%e0%b2%af%e0%b3%81%e0%b2%97%e0%b2%be%e0%b2%a6%e0%b2%bf) | N/A |
 | 2 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
-| 5 | [#Prebook_realmeC55](http://twitter.com/search?q=%23Prebook_realmeC55) | N/A |
-| 6 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
-| 7 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 8 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
+| 4 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
+| 5 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
+| 6 | [#Prebook_realmeC55](http://twitter.com/search?q=%23Prebook_realmeC55) | N/A |
+| 7 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
+| 8 | [Warner](http://twitter.com/search?q=Warner) | N/A |
 | 9 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 10 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
-| 11 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 12 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 13 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 14 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 15 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 16 | [World Happiness Index](http://twitter.com/search?q=World+Happiness+Index) | N/A |
-| 17 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 18 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
-| 19 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
-| 20 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 21 | [WE DEMAND RC15 UPDATE](http://twitter.com/search?q=WE+DEMAND+RC15+UPDATE) | N/A |
-| 22 | [Jal Jeevan Conclave](http://twitter.com/search?q=Jal+Jeevan+Conclave) | N/A |
-| 23 | [British High](http://twitter.com/search?q=British+High) | N/A |
-| 24 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
-| 25 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 26 | [WAKE UP SV CREATIONS](http://twitter.com/search?q=WAKE+UP+SV+CREATIONS) | N/A |
-| 27 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 28 | [Poster](http://twitter.com/search?q=Poster) | N/A |
-| 29 | [INR 500](http://twitter.com/search?q=INR+500) | N/A |
-| 30 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 31 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
-| 32 | [शक्ति स्वरूपा](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%be) | N/A |
-| 33 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 34 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
-| 35 | [#e4Media_ClassHasNoClass](http://twitter.com/search?q=%23e4Media_ClassHasNoClass) | N/A |
-| 36 | [#BiharDiwas2023](http://twitter.com/search?q=%23BiharDiwas2023) | N/A |
-| 37 | [#बिहार_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 38 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
-| 39 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
-| 40 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
-| 41 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
-| 42 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
-| 43 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
-| 44 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 45 | [#नव_संवतसर_2080](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5_%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%a4%e0%a4%b8%e0%a4%b0_2080) | N/A |
-| 46 | [#ArrestMeToo_stalin](http://twitter.com/search?q=%23ArrestMeToo_stalin) | N/A |
-| 47 | [#हिन्दू_नूतन_वर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a5%82%e0%a4%a4%e0%a4%a8_%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 48 | [#नवरात्रि](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 49 | [#navvarsh](http://twitter.com/search?q=%23navvarsh) | N/A |
+| 10 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 11 | [ACTION IS BACK](http://twitter.com/search?q=ACTION+IS+BACK) | N/A |
+| 12 | [World Happiness Index](http://twitter.com/search?q=World+Happiness+Index) | N/A |
+| 13 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 14 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 15 | [Kuldeep](http://twitter.com/search?q=Kuldeep) | Kuldeep is a Hindu name derived from Sanskrit, meaning "light of the family". It is typically used as a masculine name. |
+| 16 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 17 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 18 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 19 | [British High](http://twitter.com/search?q=British+High) | N/A |
+| 20 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 21 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 22 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
+| 23 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
+| 24 | [Jal Jeevan Conclave](http://twitter.com/search?q=Jal+Jeevan+Conclave) | N/A |
+| 25 | [INR 500](http://twitter.com/search?q=INR+500) | N/A |
+| 26 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 27 | [WAKE UP SV CREATIONS](http://twitter.com/search?q=WAKE+UP+SV+CREATIONS) | N/A |
+| 28 | [WE DEMAND RC15 UPDATE](http://twitter.com/search?q=WE+DEMAND+RC15+UPDATE) | N/A |
+| 29 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
+| 30 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
+| 31 | [Goddess Durga](http://twitter.com/search?q=Goddess+Durga) | N/A |
+| 32 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
+| 33 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 34 | [Poster](http://twitter.com/search?q=Poster) | N/A |
+| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 36 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
+| 37 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
+| 38 | [#e4Media_ClassHasNoClass](http://twitter.com/search?q=%23e4Media_ClassHasNoClass) | N/A |
+| 39 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 40 | [#BiharDiwas2023](http://twitter.com/search?q=%23BiharDiwas2023) | N/A |
+| 41 | [#बिहार_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 42 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
+| 43 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
+| 44 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
+| 45 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 46 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
+| 47 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
+| 48 | [#ArrestMeToo_stalin](http://twitter.com/search?q=%23ArrestMeToo_stalin) | N/A |
+| 49 | [#BilkisBano](http://twitter.com/search?q=%23BilkisBano) | N/A |
 | 50 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
 
 
