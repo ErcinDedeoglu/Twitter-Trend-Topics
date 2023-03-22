@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-22 01:43:34 UTC`
+📆 Last Updated: `2023-03-22 02:30:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 2 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 3 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 4 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 5 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 6 | [#DrunkIntentions](http://twitter.com/search?q=%23DrunkIntentions) | N/A |
-| 7 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 8 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 12 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 13 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 14 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 15 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 16 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
+| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 3 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
+| 4 | [Lonesome Dove](http://twitter.com/search?q=Lonesome+Dove) | N/A |
+| 5 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 6 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 7 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 8 | [#DrunkIntentions](http://twitter.com/search?q=%23DrunkIntentions) | N/A |
+| 9 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 11 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 14 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 16 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 17 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 18 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 19 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 20 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 21 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
-| 22 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 23 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
-| 24 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 25 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 26 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 27 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 28 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 29 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 30 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 31 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 32 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
-| 33 | [1-0 USA](http://twitter.com/search?q=1-0+USA) | N/A |
-| 34 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 35 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 36 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
-| 37 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 38 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
-| 39 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 40 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 41 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
-| 42 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 43 | [Evangelista](http://twitter.com/search?q=Evangelista) | N/A |
-| 44 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 45 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 46 | [Nick Jensen](http://twitter.com/search?q=Nick+Jensen) | N/A |
+| 18 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 19 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 20 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 21 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 22 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 23 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 24 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 25 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 26 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 27 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 28 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 29 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 30 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
+| 31 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
+| 32 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
+| 33 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 34 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 35 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 36 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 37 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 38 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
+| 39 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
+| 40 | [RISP](http://twitter.com/search?q=RISP) | N/A |
+| 41 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 42 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
+| 43 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 44 | [Betts](http://twitter.com/search?q=Betts) | N/A |
+| 45 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 46 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
 | 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 48 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 49 | [LeVert](http://twitter.com/search?q=LeVert) | LeVert is a French term meaning "to turn over" or "to flip." It is often used in the context of flipping a pancake or omelette. |
-| 50 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 48 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 49 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 50 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
 
 
 

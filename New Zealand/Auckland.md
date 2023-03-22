@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-22 01:43:33 UTC`
+📆 Last Updated: `2023-03-22 02:30:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 2 | [Immigration NZ](http://twitter.com/search?q=Immigration+NZ) | N/A |
+| 1 | [Immigration NZ](http://twitter.com/search?q=Immigration+NZ) | N/A |
+| 2 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 3 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
 | 4 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 5 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 6 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 7 | [Scott Robertson](http://twitter.com/search?q=Scott+Robertson) | N/A |
+| 5 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 6 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 7 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 8 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 10 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 11 | [andrew kirton](http://twitter.com/search?q=andrew+kirton) | N/A |
-| 12 | [Molloy](http://twitter.com/search?q=Molloy) | N/A |
-| 13 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 14 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 15 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 10 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 11 | [Scott Robertson](http://twitter.com/search?q=Scott+Robertson) | N/A |
+| 12 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 13 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 14 | [Molloy](http://twitter.com/search?q=Molloy) | N/A |
+| 15 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 16 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 17 | [Kane Te Tai](http://twitter.com/search?q=Kane+Te+Tai) | N/A |
-| 18 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
-| 19 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
-| 20 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 21 | [Byron Clark](http://twitter.com/search?q=Byron+Clark) | N/A |
-| 22 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 23 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
-| 24 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 25 | [Tory Whanau](http://twitter.com/search?q=Tory+Whanau) | N/A |
-| 26 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
-| 29 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
-| 30 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
-| 31 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 32 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 33 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 34 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 35 | [#ClimateScam](http://twitter.com/search?q=%23ClimateScam) | N/A |
-| 36 | [Apologies](http://twitter.com/search?q=Apologies) | N/A |
-| 37 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
-| 38 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 39 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
-| 40 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 41 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 42 | [the stop co govenance tour](http://twitter.com/search?q=the+stop+co+govenance+tour) | N/A |
-| 43 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 44 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 45 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
-| 46 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 47 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 48 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 49 | [Australians](http://twitter.com/search?q=Australians) | N/A |
+| 18 | [christopher luxon](http://twitter.com/search?q=christopher+luxon) | N/A |
+| 19 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
+| 20 | [Byron Clark](http://twitter.com/search?q=Byron+Clark) | N/A |
+| 21 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
+| 22 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 23 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 24 | [Kellie-Jay Keen-Minshull](http://twitter.com/search?q=Kellie-Jay+Keen-Minshull) | N/A |
+| 25 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 26 | [Tory Whanau](http://twitter.com/search?q=Tory+Whanau) | N/A |
+| 27 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
+| 28 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 29 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 30 | [Police Minister](http://twitter.com/search?q=Police+Minister) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [#PlunketShield](http://twitter.com/search?q=%23PlunketShield) | N/A |
+| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 36 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
+| 37 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 38 | [#ClimateScam](http://twitter.com/search?q=%23ClimateScam) | N/A |
+| 39 | [Apologies](http://twitter.com/search?q=Apologies) | N/A |
+| 40 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 41 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
+| 42 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 43 | [LGBTQIA](http://twitter.com/search?q=LGBTQIA) | N/A |
+| 44 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
+| 45 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 46 | [the stop co govenance tour](http://twitter.com/search?q=the+stop+co+govenance+tour) | N/A |
+| 47 | [Big Gay Out](http://twitter.com/search?q=Big+Gay+Out) | N/A |
+| 48 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 49 | [TVNZ](http://twitter.com/search?q=TVNZ) | N/A |
 | 50 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
 
 

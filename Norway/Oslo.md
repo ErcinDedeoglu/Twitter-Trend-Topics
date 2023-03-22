@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-22 01:43:13 UTC`
+📆 Last Updated: `2023-03-22 02:30:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 2 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 3 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
+| 2 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
+| 3 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
 | 4 | [Røkke](http://twitter.com/search?q=R%c3%b8kke) | N/A |
 | 5 | [Sørloth](http://twitter.com/search?q=S%c3%b8rloth) | N/A |
 | 6 | [#urixkonf](http://twitter.com/search?q=%23urixkonf) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Norway](</Norway>)
 | 28 | [Civita](http://twitter.com/search?q=Civita) | N/A |
 | 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 31 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 32 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 33 | [Beste](http://twitter.com/search?q=Beste) | N/A |
-| 34 | [European](http://twitter.com/search?q=European) | N/A |
-| 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 36 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 37 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 40 | [#Klima](http://twitter.com/search?q=%23Klima) | N/A |
-| 41 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
-| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 44 | [legg](http://twitter.com/search?q=legg) | N/A |
-| 45 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 46 | [Aker](http://twitter.com/search?q=Aker) | N/A |
-| 47 | [Rogaland](http://twitter.com/search?q=Rogaland) | N/A |
-| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 50 | [Faye](http://twitter.com/search?q=Faye) | N/A |
+| 31 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 32 | [Beste](http://twitter.com/search?q=Beste) | N/A |
+| 33 | [European](http://twitter.com/search?q=European) | N/A |
+| 34 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 35 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 36 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 37 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 39 | [#Klima](http://twitter.com/search?q=%23Klima) | N/A |
+| 40 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 43 | [legg](http://twitter.com/search?q=legg) | N/A |
+| 44 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
+| 45 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 46 | [rogaland](http://twitter.com/search?q=rogaland) | N/A |
+| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 48 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 49 | [Faye](http://twitter.com/search?q=Faye) | N/A |
+| 50 | [nesten](http://twitter.com/search?q=nesten) | N/A |
 
 
 

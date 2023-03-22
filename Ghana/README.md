@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-22 01:43:43 UTC`
+📆 Last Updated: `2023-03-22 02:31:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,20 +27,20 @@ This is top 50 for Ghana
 | 10 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
 | 11 | [#kfcbeatbox](http://twitter.com/search?q=%23kfcbeatbox) | N/A |
 | 12 | [#1mnextlevel](http://twitter.com/search?q=%231mnextlevel) | N/A |
-| 13 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 14 | [Kumasi](http://twitter.com/search?q=Kumasi) | N/A |
-| 15 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 16 | [#YLounge](http://twitter.com/search?q=%23YLounge) | N/A |
-| 17 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
-| 18 | [Jojo Wollacott](http://twitter.com/search?q=Jojo+Wollacott) | N/A |
-| 19 | [Bread](http://twitter.com/search?q=Bread) | N/A |
-| 20 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
+| 13 | [Kumasi](http://twitter.com/search?q=Kumasi) | N/A |
+| 14 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 15 | [#ylounge](http://twitter.com/search?q=%23ylounge) | N/A |
+| 16 | [Jojo Wollacott](http://twitter.com/search?q=Jojo+Wollacott) | N/A |
+| 17 | [Bread](http://twitter.com/search?q=Bread) | N/A |
+| 18 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 19 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
+| 20 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
 | 21 | [happy birthday yemi cregx](http://twitter.com/search?q=happy+birthday+yemi+cregx) | N/A |
 | 22 | [world yemi cregx day](http://twitter.com/search?q=world+yemi+cregx+day) | N/A |
 | 23 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
 | 24 | [Tariq Lamptey](http://twitter.com/search?q=Tariq+Lamptey) | N/A |
-| 25 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
-| 26 | [Social Studies](http://twitter.com/search?q=Social+Studies) | N/A |
+| 25 | [Social Studies](http://twitter.com/search?q=Social+Studies) | N/A |
+| 26 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
 | 27 | [Fella Makafui](http://twitter.com/search?q=Fella+Makafui) | N/A |
 | 28 | [University of Ghana](http://twitter.com/search?q=University+of+Ghana) | N/A |
 | 29 | [The NDC](http://twitter.com/search?q=The+NDC) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Ghana
 | 31 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
 | 32 | [Circle to Tema](http://twitter.com/search?q=Circle+to+Tema) | N/A |
 | 33 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 34 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 35 | [Shatta](http://twitter.com/search?q=Shatta) | N/A |
-| 36 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 37 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 38 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 39 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 40 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
-| 41 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 42 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 43 | [afena gyan](http://twitter.com/search?q=afena+gyan) | N/A |
-| 44 | [Africa Cup of Nations](http://twitter.com/search?q=Africa+Cup+of+Nations) | N/A |
-| 45 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 46 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 47 | [the homeland](http://twitter.com/search?q=the+homeland) | N/A |
-| 48 | [Ethiopia](http://twitter.com/search?q=Ethiopia) | N/A |
-| 49 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 50 | [Stephen Appiah](http://twitter.com/search?q=Stephen+Appiah) | N/A |
+| 34 | [Shatta](http://twitter.com/search?q=Shatta) | N/A |
+| 35 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 36 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 37 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 38 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 39 | [Qatari](http://twitter.com/search?q=Qatari) | N/A |
+| 40 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 41 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 42 | [afena gyan](http://twitter.com/search?q=afena+gyan) | N/A |
+| 43 | [Africa Cup of Nations](http://twitter.com/search?q=Africa+Cup+of+Nations) | N/A |
+| 44 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 45 | [the homeland](http://twitter.com/search?q=the+homeland) | N/A |
+| 46 | [Ethiopia](http://twitter.com/search?q=Ethiopia) | N/A |
+| 47 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 48 | [Stephen Appiah](http://twitter.com/search?q=Stephen+Appiah) | N/A |
+| 49 | [Sabinus](http://twitter.com/search?q=Sabinus) | N/A |
+| 50 | [Wendy Shay](http://twitter.com/search?q=Wendy+Shay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-22 01:43:42 UTC`
+📆 Last Updated: `2023-03-22 02:31:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ORFreport](http://twitter.com/search?q=%23ORFreport) | N/A |
+| 1 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
 | 2 | [#ZiB2](http://twitter.com/search?q=%23ZiB2) | N/A |
 | 3 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
 | 4 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
@@ -25,7 +25,7 @@ This is top 50 for Austria
 | 8 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 9 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 10 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
-| 11 | [Khol](http://twitter.com/search?q=Khol) | N/A |
+| 11 | [khol](http://twitter.com/search?q=khol) | N/A |
 | 12 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
 | 13 | [spö-vorsitz](http://twitter.com/search?q=sp%c3%b6-vorsitz) | N/A |
 | 14 | [sektion 8](http://twitter.com/search?q=sektion+8) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Austria
 | 23 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 24 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 25 | [altach](http://twitter.com/search?q=altach) | N/A |
-| 26 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 26 | [hausarzt](http://twitter.com/search?q=hausarzt) | N/A |
 | 27 | [Jazz Gitti](http://twitter.com/search?q=Jazz+Gitti) | N/A |
 | 28 | [Produktion](http://twitter.com/search?q=Produktion) | N/A |
 | 29 | [Gräben](http://twitter.com/search?q=Gr%c3%a4ben) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Austria
 | 31 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 32 | [Diagnose](http://twitter.com/search?q=Diagnose) | N/A |
 | 33 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 34 | [Emissionen](http://twitter.com/search?q=Emissionen) | N/A |
-| 35 | [Erhöhung](http://twitter.com/search?q=Erh%c3%b6hung) | N/A |
-| 36 | [Ausmaß](http://twitter.com/search?q=Ausma%c3%9f) | N/A |
-| 37 | [Kellernazis](http://twitter.com/search?q=Kellernazis) | N/A |
-| 38 | [Bereiche](http://twitter.com/search?q=Bereiche) | N/A |
-| 39 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 40 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 41 | [guten morgen peter](http://twitter.com/search?q=guten+morgen+peter) | N/A |
-| 42 | [Original](http://twitter.com/search?q=Original) | N/A |
-| 43 | [Trinkwasser](http://twitter.com/search?q=Trinkwasser) | N/A |
-| 44 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 45 | [Frühlingsbeginn](http://twitter.com/search?q=Fr%c3%bchlingsbeginn) | N/A |
-| 46 | [nehammer](http://twitter.com/search?q=nehammer) | N/A |
-| 47 | [kommission](http://twitter.com/search?q=kommission) | N/A |
-| 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 49 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 50 | [stadt wien](http://twitter.com/search?q=stadt+wien) | N/A |
+| 34 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
+| 35 | [Emissionen](http://twitter.com/search?q=Emissionen) | N/A |
+| 36 | [Erhöhung](http://twitter.com/search?q=Erh%c3%b6hung) | N/A |
+| 37 | [ausmaß](http://twitter.com/search?q=ausma%c3%9f) | N/A |
+| 38 | [Kellernazis](http://twitter.com/search?q=Kellernazis) | N/A |
+| 39 | [bereiche](http://twitter.com/search?q=bereiche) | N/A |
+| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 41 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 42 | [guten morgen peter](http://twitter.com/search?q=guten+morgen+peter) | N/A |
+| 43 | [Original](http://twitter.com/search?q=Original) | N/A |
+| 44 | [trinkwasser](http://twitter.com/search?q=trinkwasser) | N/A |
+| 45 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 46 | [frühlingsbeginn](http://twitter.com/search?q=fr%c3%bchlingsbeginn) | N/A |
+| 47 | [nehammer](http://twitter.com/search?q=nehammer) | N/A |
+| 48 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 49 | [kommission](http://twitter.com/search?q=kommission) | N/A |
+| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 
 
 

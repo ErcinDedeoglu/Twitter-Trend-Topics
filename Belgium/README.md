@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-22 01:43:42 UTC`
+📆 Last Updated: `2023-03-22 02:31:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,13 +47,13 @@ This is top 50 for Belgium
 | 30 | [Sara](http://twitter.com/search?q=Sara) | N/A |
 | 31 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
 | 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
-| 34 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 35 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 37 | [general affairs council](http://twitter.com/search?q=general+affairs+council) | N/A |
-| 38 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 39 | [Tresor](http://twitter.com/search?q=Tresor) | N/A |
+| 33 | [bracke](http://twitter.com/search?q=bracke) | N/A |
+| 34 | [Tresor](http://twitter.com/search?q=Tresor) | N/A |
+| 35 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 36 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 38 | [general affairs council](http://twitter.com/search?q=general+affairs+council) | N/A |
+| 39 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 40 | [plopsa](http://twitter.com/search?q=plopsa) | N/A |
 | 41 | [kerkhof](http://twitter.com/search?q=kerkhof) | N/A |
 | 42 | [Westen](http://twitter.com/search?q=Westen) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Belgium
 | 46 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 48 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 49 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 49 | [raisa](http://twitter.com/search?q=raisa) | N/A |
 | 50 | [steve van](http://twitter.com/search?q=steve+van) | N/A |
 
 

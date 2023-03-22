@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-03-22 01:43:03 UTC`
+📆 Last Updated: `2023-03-22 02:30:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 2 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 3 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 4 | [#PorXatNoGNT](http://twitter.com/search?q=%23PorXatNoGNT) | N/A |
-| 5 | [Sarah e Aline](http://twitter.com/search?q=Sarah+e+Aline) | N/A |
-| 6 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 7 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 8 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 9 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 11 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 12 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 13 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 14 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 15 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 16 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
-| 17 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 18 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 19 | [Cacetinho](http://twitter.com/search?q=Cacetinho) | N/A |
-| 20 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 21 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 22 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 23 | [#ForaBocoRoso](http://twitter.com/search?q=%23ForaBocoRoso) | N/A |
-| 24 | [Intersexo](http://twitter.com/search?q=Intersexo) | N/A |
-| 25 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
-| 26 | [Karen Bachini](http://twitter.com/search?q=Karen+Bachini) | N/A |
-| 27 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 28 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 29 | [João Vicente](http://twitter.com/search?q=Jo%c3%a3o+Vicente) | N/A |
-| 30 | [Guida](http://twitter.com/search?q=Guida) | N/A |
-| 31 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 32 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
-| 33 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 34 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
-| 35 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
-| 36 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 37 | [Duda Nagle](http://twitter.com/search?q=Duda+Nagle) | N/A |
-| 38 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 39 | [Leda Nagle](http://twitter.com/search?q=Leda+Nagle) | N/A |
-| 40 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 41 | [Tcheco](http://twitter.com/search?q=Tcheco) | N/A |
-| 42 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 43 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
-| 44 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
-| 45 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 46 | [motorola](http://twitter.com/search?q=motorola) | N/A |
-| 47 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
-| 48 | [Grávida](http://twitter.com/search?q=Gr%c3%a1vida) | N/A |
-| 49 | [Iarley](http://twitter.com/search?q=Iarley) | N/A |
-| 50 | [funbabe](http://twitter.com/search?q=funbabe) | N/A |
+| 1 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 2 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 5 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
+| 6 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 7 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 8 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 9 | [#PorXatNoGNT](http://twitter.com/search?q=%23PorXatNoGNT) | N/A |
+| 10 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 11 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 12 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 13 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 14 | [Sarah e Aline](http://twitter.com/search?q=Sarah+e+Aline) | N/A |
+| 15 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 16 | [Leonardo Nogueira](http://twitter.com/search?q=Leonardo+Nogueira) | N/A |
+| 17 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 18 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 19 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 20 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 21 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 22 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 23 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
+| 24 | [#voltalari](http://twitter.com/search?q=%23voltalari) | N/A |
+| 25 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 26 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
+| 27 | [#ForaBocoRoso](http://twitter.com/search?q=%23ForaBocoRoso) | N/A |
+| 28 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 29 | [Climão](http://twitter.com/search?q=Clim%c3%a3o) | N/A |
+| 30 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 31 | [Intersexo](http://twitter.com/search?q=Intersexo) | N/A |
+| 32 | [Manu Gavassi](http://twitter.com/search?q=Manu+Gavassi) | N/A |
+| 33 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 34 | [Key e Larissa](http://twitter.com/search?q=Key+e+Larissa) | N/A |
+| 35 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 36 | [Forçada](http://twitter.com/search?q=For%c3%a7ada) | N/A |
+| 37 | [Legião Urbana](http://twitter.com/search?q=Legi%c3%a3o+Urbana) | N/A |
+| 38 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 39 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 40 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 41 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 42 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
+| 43 | [Karen Bachini](http://twitter.com/search?q=Karen+Bachini) | N/A |
+| 44 | [Cacetinho](http://twitter.com/search?q=Cacetinho) | N/A |
+| 45 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 46 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 47 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 48 | [Se a Domitila](http://twitter.com/search?q=Se+a+Domitila) | N/A |
+| 49 | [Guida](http://twitter.com/search?q=Guida) | N/A |
+| 50 | [iPhone 15](http://twitter.com/search?q=iPhone+15) | N/A |
 
 
 

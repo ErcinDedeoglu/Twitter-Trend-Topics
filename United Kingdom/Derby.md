@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-22 01:42:55 UTC`
+📆 Last Updated: `2023-03-22 02:30:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 2 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 3 | [#BorisTheLiar](http://twitter.com/search?q=%23BorisTheLiar) | N/A |
-| 4 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
-| 5 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 6 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 7 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 8 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 9 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
-| 10 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 13 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
-| 14 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 15 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
-| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 17 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 18 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
-| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 20 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 21 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
-| 22 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 23 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
-| 24 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 25 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 26 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
-| 27 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 28 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 29 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 30 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
-| 31 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 32 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 33 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 34 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 35 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 36 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 37 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 38 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 39 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 40 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 41 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 42 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 43 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
-| 44 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 45 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
-| 46 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 47 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 48 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
-| 49 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 1 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 2 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 3 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 4 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 5 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 8 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 9 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 10 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
+| 11 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 12 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 16 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 17 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 19 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 20 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 21 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 22 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 23 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
+| 24 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 25 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 26 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 27 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 28 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 29 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 30 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 31 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 32 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 33 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 34 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 35 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 38 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 39 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 40 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 41 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 42 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 43 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 44 | [Official Secrets](http://twitter.com/search?q=Official+Secrets) | N/A |
+| 45 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 46 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 47 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 48 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 49 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-22 01:43:45 UTC`
+📆 Last Updated: `2023-03-22 02:31:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,16 +48,16 @@ This is top 50 for Lebanon
 | 31 | [الرييس الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
 | 32 | [وزير الاشغال العامه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 33 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
-| 34 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 35 | [جدول ثالث](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 36 | [نقيب الصيادله](http://twitter.com/search?q=%d9%86%d9%82%d9%8a%d8%a8+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d9%87) | N/A |
-| 37 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 38 | [وزارة الطاقة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9) | N/A |
-| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 40 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 41 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 42 | [٢١ اذار](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
-| 43 | [Bless](http://twitter.com/search?q=Bless) | N/A |
+| 34 | [جدول ثالث](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 35 | [نقيب الصيادله](http://twitter.com/search?q=%d9%86%d9%82%d9%8a%d8%a8+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d9%87) | N/A |
+| 36 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 38 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 39 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 40 | [وزارة الطاقة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9) | N/A |
+| 41 | [٢١ اذار](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |
+| 42 | [Bless](http://twitter.com/search?q=Bless) | N/A |
+| 43 | [سمير جعجع](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
 | 44 | [مطار بيروت](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
 | 45 | [امي بلاكي العمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a8%d9%84%d8%a7%d9%83%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
 | 46 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |

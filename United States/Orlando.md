@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-22 01:43:38 UTC`
+📆 Last Updated: `2023-03-22 02:30:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
-| 2 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 3 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 4 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 5 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 6 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 7 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 8 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 10 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 11 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 12 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 13 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 14 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
-| 15 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 16 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 17 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 18 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 19 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 20 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
-| 21 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 22 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
-| 23 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 24 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 25 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 26 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
-| 27 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 28 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 29 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 30 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 31 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 32 | [1-0 USA](http://twitter.com/search?q=1-0+USA) | N/A |
-| 33 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 34 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 35 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
-| 36 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 37 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
-| 38 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 39 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 40 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 41 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
-| 42 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 43 | [Evangelista](http://twitter.com/search?q=Evangelista) | N/A |
-| 44 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 45 | [Caris LeVert](http://twitter.com/search?q=Caris+LeVert) | N/A |
-| 46 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 47 | [Nick Jensen](http://twitter.com/search?q=Nick+Jensen) | N/A |
-| 48 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 1 | [#lightningstrikes](http://twitter.com/search?q=%23lightningstrikes) | N/A |
+| 2 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 3 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
+| 4 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 5 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 6 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 10 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 14 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 15 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 16 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 17 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 18 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 19 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 20 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 21 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 22 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 23 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 24 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 25 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 26 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 27 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
+| 28 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
+| 29 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
+| 30 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 31 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 32 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 33 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 34 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 35 | [RISP](http://twitter.com/search?q=RISP) | N/A |
+| 36 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
+| 37 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
+| 38 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 39 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
+| 40 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 41 | [Betts](http://twitter.com/search?q=Betts) | N/A |
+| 42 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 43 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 44 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 46 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 47 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
 
 
 

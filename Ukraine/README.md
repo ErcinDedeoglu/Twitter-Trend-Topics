@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-22 01:43:48 UTC`
+📆 Last Updated: `2023-03-22 02:31:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,17 +54,17 @@ This is top 50 for Ukraine
 | 37 | [Медведев](http://twitter.com/search?q=%d0%9c%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2) | N/A |
 | 38 | [Шось](http://twitter.com/search?q=%d0%a8%d0%be%d1%81%d1%8c) | N/A |
 | 39 | [обожнюю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%bd%d1%8e%d1%8e) | N/A |
-| 40 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 41 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 42 | [0.1 $ETH](http://twitter.com/search?q=0.1+%24ETH) | N/A |
-| 43 | [сложно](http://twitter.com/search?q=%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 44 | [давайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 45 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 46 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 47 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 48 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 49 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
-| 50 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 40 | [нормально](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 41 | [0.1 $ETH](http://twitter.com/search?q=0.1+%24ETH) | N/A |
+| 42 | [сложно](http://twitter.com/search?q=%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 43 | [давайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 44 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 45 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 46 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 47 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 48 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
+| 49 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 50 | [одессу](http://twitter.com/search?q=%d0%be%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-22 01:43:13 UTC`
+📆 Last Updated: `2023-03-22 02:30:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 3 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 4 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 5 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
-| 6 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 6 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 7 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 8 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 9 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 20 | [tavā](http://twitter.com/search?q=tav%c4%81) | N/A |
 | 21 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 22 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 23 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 23 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
 | 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 25 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
 | 26 | [starp](http://twitter.com/search?q=starp) | N/A |
@@ -47,11 +47,11 @@ This is top 50 for [Latvia](</Latvia>)
 | 30 | [tavu](http://twitter.com/search?q=tavu) | N/A |
 | 31 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
 | 32 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 33 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
+| 33 | [latvijai](http://twitter.com/search?q=latvijai) | N/A |
 | 34 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 35 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
 | 36 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 37 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 37 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
 | 38 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 39 | [ušakova](http://twitter.com/search?q=u%c5%a1akova) | N/A |
 | 40 | [tikko](http://twitter.com/search?q=tikko) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 45 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 46 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
 | 47 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
-| 48 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 48 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
 | 49 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
 | 50 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
 

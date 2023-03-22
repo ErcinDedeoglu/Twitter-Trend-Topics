@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-22 01:43:12 UTC`
+📆 Last Updated: `2023-03-22 02:30:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 5 | [#FightRacism](http://twitter.com/search?q=%23FightRacism) | N/A |
 | 6 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 7 | [paléo](http://twitter.com/search?q=pal%c3%a9o) | N/A |
-| 8 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
+| 8 | [stiftung](http://twitter.com/search?q=stiftung) | N/A |
 | 9 | [CS-Rettung](http://twitter.com/search?q=CS-Rettung) | N/A |
 | 10 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
 | 11 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
 | 12 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
 | 13 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 14 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
-| 15 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 16 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 15 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 16 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
 | 17 | [Übernahme](http://twitter.com/search?q=%c3%9cbernahme) | N/A |
 | 18 | [filz](http://twitter.com/search?q=filz) | N/A |
 | 19 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
@@ -41,28 +41,28 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 24 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
 | 25 | [Cina](http://twitter.com/search?q=Cina) | N/A |
 | 26 | [rené weiler](http://twitter.com/search?q=ren%c3%a9+weiler) | N/A |
-| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 28 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 29 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 30 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
-| 31 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 32 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
-| 33 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 34 | [Gier](http://twitter.com/search?q=Gier) | N/A |
-| 35 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 36 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 37 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 38 | [commission of inquiry](http://twitter.com/search?q=commission+of+inquiry) | N/A |
-| 39 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
-| 40 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 27 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 28 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 29 | [Zusammenarbeit](http://twitter.com/search?q=Zusammenarbeit) | N/A |
+| 30 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 31 | [Human Rights Council](http://twitter.com/search?q=Human+Rights+Council) | N/A |
+| 32 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 33 | [Gier](http://twitter.com/search?q=Gier) | N/A |
+| 34 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 35 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 36 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 37 | [commission of inquiry](http://twitter.com/search?q=commission+of+inquiry) | N/A |
+| 38 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
+| 39 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 40 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 | 41 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
 | 42 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 43 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 44 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 45 | [rappen](http://twitter.com/search?q=rappen) | N/A |
-| 46 | [juso](http://twitter.com/search?q=juso) | N/A |
-| 47 | [Motto](http://twitter.com/search?q=Motto) | N/A |
-| 48 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 44 | [rappen](http://twitter.com/search?q=rappen) | N/A |
+| 45 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 46 | [Motto](http://twitter.com/search?q=Motto) | N/A |
+| 47 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 48 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 
 
 

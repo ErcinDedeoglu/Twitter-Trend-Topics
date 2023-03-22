@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-22 01:43:33 UTC`
+📆 Last Updated: `2023-03-22 02:30:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#gapol](http://twitter.com/search?q=%23gapol) | N/A |
 | 2 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 3 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 4 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 5 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 6 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 7 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 8 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 9 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 10 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 11 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 12 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 13 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 14 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
-| 15 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 16 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 17 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 18 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 19 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
-| 20 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 21 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
-| 22 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
-| 23 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 24 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 25 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 26 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 27 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 28 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
-| 29 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 30 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 31 | [1-0 USA](http://twitter.com/search?q=1-0+USA) | N/A |
-| 32 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 33 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 34 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
-| 35 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 36 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
-| 37 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 38 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 39 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
-| 40 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 41 | [Evangelista](http://twitter.com/search?q=Evangelista) | N/A |
-| 42 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 43 | [Caris LeVert](http://twitter.com/search?q=Caris+LeVert) | N/A |
-| 44 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 46 | [Nick Jensen](http://twitter.com/search?q=Nick+Jensen) | N/A |
-| 47 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 48 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 49 | [The Sabres](http://twitter.com/search?q=The+Sabres) | N/A |
-| 50 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 3 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 4 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 5 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 6 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 7 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 8 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 10 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 11 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 12 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
+| 13 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 14 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 15 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 16 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 17 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 18 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 19 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 20 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 21 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 22 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 23 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 24 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 25 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
+| 26 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
+| 27 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 28 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
+| 29 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 30 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 31 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 32 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 33 | [RISP](http://twitter.com/search?q=RISP) | N/A |
+| 34 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 35 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
+| 36 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
+| 37 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 38 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
+| 39 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 40 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
+| 41 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 42 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 43 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 44 | [Betts](http://twitter.com/search?q=Betts) | N/A |
+| 45 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 46 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 47 | [Ron Sharpe](http://twitter.com/search?q=Ron+Sharpe) | N/A |
+| 48 | [David Bednar](http://twitter.com/search?q=David+Bednar) | N/A |
+| 49 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 50 | [Ribeye](http://twitter.com/search?q=Ribeye) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-22 01:43:23 UTC`
+📆 Last Updated: `2023-03-22 02:30:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 6 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
 | 7 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 8 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 9 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
-| 10 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 11 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 12 | [HE'S BACK](http://twitter.com/search?q=HE%27S+BACK) | N/A |
-| 13 | [US DEA](http://twitter.com/search?q=US+DEA) | N/A |
-| 14 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 15 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
-| 16 | [#FreshTroubleForBawa](http://twitter.com/search?q=%23FreshTroubleForBawa) | N/A |
-| 17 | [#4gforeveryone](http://twitter.com/search?q=%234gforeveryone) | N/A |
-| 18 | [Section 137](http://twitter.com/search?q=Section+137) | N/A |
-| 19 | [paripesa nigeria](http://twitter.com/search?q=paripesa+nigeria) | N/A |
-| 20 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 21 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
-| 22 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
-| 23 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 24 | [#mazixodogwu](http://twitter.com/search?q=%23mazixodogwu) | N/A |
-| 25 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 26 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 27 | [31st of March](http://twitter.com/search?q=31st+of+March) | N/A |
+| 8 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
+| 9 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 10 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 11 | [HE'S BACK](http://twitter.com/search?q=HE%27S+BACK) | N/A |
+| 12 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 13 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 14 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
+| 15 | [#FreshTroubleForBawa](http://twitter.com/search?q=%23FreshTroubleForBawa) | N/A |
+| 16 | [#4gforeveryone](http://twitter.com/search?q=%234gforeveryone) | N/A |
+| 17 | [paripesa nigeria](http://twitter.com/search?q=paripesa+nigeria) | N/A |
+| 18 | [US DEA](http://twitter.com/search?q=US+DEA) | N/A |
+| 19 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 20 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
+| 21 | [#mazixodogwu](http://twitter.com/search?q=%23mazixodogwu) | N/A |
+| 22 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 23 | [31st of March](http://twitter.com/search?q=31st+of+March) | N/A |
+| 24 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 25 | [OBO IS BACK](http://twitter.com/search?q=OBO+IS+BACK) | N/A |
+| 26 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 27 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
 | 28 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 29 | [OBO IS BACK](http://twitter.com/search?q=OBO+IS+BACK) | N/A |
-| 30 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 31 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 32 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 33 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 34 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
-| 35 | [Shekpe](http://twitter.com/search?q=Shekpe) | N/A |
-| 36 | [happy birthday yemi cregx](http://twitter.com/search?q=happy+birthday+yemi+cregx) | N/A |
-| 37 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
-| 38 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 39 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 40 | [GO TO COURT](http://twitter.com/search?q=GO+TO+COURT) | N/A |
-| 41 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
-| 42 | [Healing](http://twitter.com/search?q=Healing) | N/A |
-| 43 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
-| 44 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 45 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
-| 46 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 47 | [world yemi cregx day](http://twitter.com/search?q=world+yemi+cregx+day) | N/A |
-| 48 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 29 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
+| 30 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 31 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 32 | ["Shekpe"](http://twitter.com/search?q=%22Shekpe%22) | N/A |
+| 33 | [happy birthday yemi cregx](http://twitter.com/search?q=happy+birthday+yemi+cregx) | N/A |
+| 34 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 35 | [GO TO COURT](http://twitter.com/search?q=GO+TO+COURT) | N/A |
+| 36 | [LIRS](http://twitter.com/search?q=LIRS) | N/A |
+| 37 | [Juju punter](http://twitter.com/search?q=Juju+punter) | N/A |
+| 38 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
+| 39 | [Section 137](http://twitter.com/search?q=Section+137) | N/A |
+| 40 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 41 | [Emeka](http://twitter.com/search?q=Emeka) | N/A |
+| 42 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
+| 43 | [Healing](http://twitter.com/search?q=Healing) | N/A |
+| 44 | [world yemi cregx day](http://twitter.com/search?q=world+yemi+cregx+day) | N/A |
+| 45 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 46 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 47 | [Matawalle](http://twitter.com/search?q=Matawalle) | N/A |
+| 48 | [The US](http://twitter.com/search?q=The+US) | N/A |
 
 
 

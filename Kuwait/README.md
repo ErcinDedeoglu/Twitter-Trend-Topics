@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-22 01:43:45 UTC`
+📆 Last Updated: `2023-03-22 02:31:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,48 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ريحه_غاز](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%ad%d9%87_%d8%ba%d8%a7%d8%b2) | N/A |
-| 2 | [#عيد_الام](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
+| 2 | [#المنطقه_الرابعه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87_%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
 | 3 | [#عيد_الام](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
-| 4 | [#عبدالله_المبارك](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 5 | [#نزاهه_الانتخابات_مطلب_شعبي](http://twitter.com/search?q=%23%d9%86%d8%b2%d8%a7%d9%87%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa_%d9%85%d8%b7%d9%84%d8%a8_%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
+| 4 | [#عيد_الام](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
+| 5 | [#عبدالله_المبارك](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 6 | [الغيوم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
 | 7 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
 | 8 | [امي روحي](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%b1%d9%88%d8%ad%d9%8a) | N/A |
 | 9 | [السما اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%a7+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 10 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
-| 11 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 10 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 11 | [قلب امي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%a7%d9%85%d9%8a) | N/A |
 | 12 | [الرويه الشرعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d9%87) | N/A |
-| 13 | [المفوضيه العليا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
-| 14 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 15 | [الشعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 16 | [يابو عواض](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%b6) | N/A |
+| 13 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 14 | [المفوضيه العليا](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7) | N/A |
+| 15 | [يابو عواض](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%b6) | N/A |
+| 16 | [الشعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
 | 17 | [الدور الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 18 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 19 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
-| 20 | [الساوره الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 21 | [للهلال](http://twitter.com/search?q=%d9%84%d9%84%d9%87%d9%84%d8%a7%d9%84) | للهلال is an Arabic phrase that translates to "For the National Team". It is often used as a rallying cry for supporters of the Saudi Arabian national football team. |
-| 22 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
-| 23 | [دوله الرييس](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
-| 24 | [الدور القادم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
-| 25 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
-| 26 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
-| 28 | [التراث الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 29 | [الاراده الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
-| 30 | [يابو عياد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%8a%d8%a7%d8%af) | N/A |
-| 31 | [الانتخابات الماضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
-| 32 | [احمد الشحومي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d8%ad%d9%88%d9%85%d9%8a) | N/A |
-| 33 | [الاعتدال الربيعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
-| 34 | [جنوب السره](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b3%d8%b1%d9%87) | N/A |
-| 35 | [العمليه الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
-| 36 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 18 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 19 | [الساوره الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 20 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 21 | [دوله الرييس](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
+| 22 | [الدور القادم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
+| 23 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
+| 24 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
+| 25 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
+| 26 | [التراث الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 27 | [الاراده الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
+| 28 | [للهلال](http://twitter.com/search?q=%d9%84%d9%84%d9%87%d9%84%d8%a7%d9%84) | للهلال is an Arabic phrase that translates to "For the National Team". It is often used as a rallying cry for supporters of the Saudi Arabian national football team. |
+| 29 | [يابو عياد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%8a%d8%a7%d8%af) | N/A |
+| 30 | [الانتخابات الماضيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
+| 31 | [احمد الشحومي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d8%ad%d9%88%d9%85%d9%8a) | N/A |
+| 32 | [الاعتدال الربيعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%af%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
+| 33 | [العمليه الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
+| 34 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 35 | [مصدر السلطات](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa) | N/A |
+| 36 | [باسم الشعب](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
 | 37 | [القحص الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%ad%d8%b5+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
-| 38 | [مصدر السلطات](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa) | N/A |
-| 39 | [باسم الشعب](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 40 | [رييس المجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
-| 41 | [صور الغيوم](http://twitter.com/search?q=%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85) | N/A |
-| 42 | [امي الغاليه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 43 | [طال الدعاء اللهم](http://twitter.com/search?q=%d8%b7%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 38 | [جنوب السره](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b3%d8%b1%d9%87) | N/A |
+| 39 | [رييس المجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 40 | [صور الغيوم](http://twitter.com/search?q=%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85) | N/A |
+| 41 | [امي الغاليه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 42 | [طال الدعاء اللهم](http://twitter.com/search?q=%d8%b7%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 43 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
 | 44 | [الفريق الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 45 | [ضاري العتيبي](http://twitter.com/search?q=%d8%b6%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
 | 46 | [جمال الغيوم](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85) | N/A |
