@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-22 15:17:37 UTC`
+📆 Last Updated: `2023-03-22 16:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Singapore
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 2 | [#YSLBEAUTYSGBRIGHT](http://twitter.com/search?q=%23YSLBEAUTYSGBRIGHT) | N/A |
-| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 5 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 6 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 7 | [#KiaNoThenAndNow](http://twitter.com/search?q=%23KiaNoThenAndNow) | N/A |
-| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 1 | [#YSLBEAUTYSGBRIGHT](http://twitter.com/search?q=%23YSLBEAUTYSGBRIGHT) | N/A |
+| 2 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 3 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 5 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 6 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 7 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 9 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 13 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 14 | [chico malo mv out now](http://twitter.com/search?q=chico+malo+mv+out+now) | N/A |
+| 10 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 11 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 12 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 13 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 14 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
 | 15 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 16 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 17 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 19 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 20 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 23 | [Gundam](http://twitter.com/search?q=Gundam) | N/A |
-| 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 25 | [President](http://twitter.com/search?q=President) | N/A |
-| 26 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 27 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 28 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 29 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 30 | [Event Page Updated](http://twitter.com/search?q=Event+Page+Updated) | N/A |
-| 31 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 19 | [Gundam](http://twitter.com/search?q=Gundam) | N/A |
+| 20 | [22nd March](http://twitter.com/search?q=22nd+March) | N/A |
+| 21 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 22 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 23 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 24 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 25 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 26 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 27 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 28 | [SO CUTE](http://twitter.com/search?q=SO+CUTE) | N/A |
+| 29 | [President](http://twitter.com/search?q=President) | N/A |
+| 30 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 31 | [Event Page Updated](http://twitter.com/search?q=Event+Page+Updated) | N/A |
 | 32 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 33 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 34 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 36 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 37 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 38 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 39 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 40 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 41 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 42 | [Big Win](http://twitter.com/search?q=Big+Win) | N/A |
-| 43 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 44 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 46 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 49 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 50 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 33 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 34 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 35 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 36 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 37 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 39 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 41 | [Big Win](http://twitter.com/search?q=Big+Win) | N/A |
+| 42 | [Weibo Night](http://twitter.com/search?q=Weibo+Night) | N/A |
+| 43 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 44 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 46 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 47 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 48 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 49 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 50 | [Malaysian](http://twitter.com/search?q=Malaysian) | N/A |
 
 
 

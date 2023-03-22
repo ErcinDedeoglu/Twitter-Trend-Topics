@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-22 15:17:30 UTC`
+📆 Last Updated: `2023-03-22 16:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Arab Emirates
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 3 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 1 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 3 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 4 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 5 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 5 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 6 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
-| 7 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 9 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 10 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 7 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 8 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 9 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 10 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
 | 11 | [#MothersDay](http://twitter.com/search?q=%23MothersDay) | N/A |
-| 12 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 13 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 14 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 15 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
+| 12 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 13 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 14 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 15 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 16 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 17 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 18 | [Happy Ugadi](http://twitter.com/search?q=Happy+Ugadi) | N/A |
-| 19 | [نبع العطاء](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
-| 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 21 | [فاطمه بنت مبارك](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d9%87+%d8%a8%d9%86%d8%aa+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 22 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
-| 23 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 24 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 25 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 26 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 27 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 28 | [المنشات الاصلاحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 29 | [حاكم الشارقه](http://twitter.com/search?q=%d8%ad%d8%a7%d9%83%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
-| 30 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 31 | [ميسي هلالي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 32 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 33 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 34 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 35 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 36 | [المراه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 37 | [عبدالله بن زايد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
-| 38 | [باغي الخير](http://twitter.com/search?q=%d8%a8%d8%a7%d8%ba%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 39 | [المدير التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
-| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 41 | [امي فاني](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d9%81%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [22 مارس](http://twitter.com/search?q=22+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 43 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 44 | [مدار القمر](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
-| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 46 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
-| 47 | [الفلك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 48 | [$XRP](http://twitter.com/search?q=%24XRP) | N/A |
-| 49 | [الجمعيه العموميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 50 | [قدم الصالات](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 17 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 19 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 20 | [Happy Ugadi](http://twitter.com/search?q=Happy+Ugadi) | N/A |
+| 21 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 22 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 23 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 24 | [نبع العطاء](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
+| 25 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 26 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 27 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 28 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
+| 29 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 30 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 31 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 32 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 33 | [الخلفاء الراشدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b4%d8%af%d9%8a%d9%86) | N/A |
+| 34 | [حاكم الشارقه](http://twitter.com/search?q=%d8%ad%d8%a7%d9%83%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d9%87) | N/A |
+| 35 | [القصه الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d9%87+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 36 | [المنشات الاصلاحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 37 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 38 | [ميسي هلالي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 39 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 40 | [رييس الدوله](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 41 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 42 | [المراه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 43 | [عبدالله بن زايد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 44 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 45 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 46 | [22 مارس](http://twitter.com/search?q=22+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 47 | [مدار القمر](http://twitter.com/search?q=%d9%85%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
+| 48 | [الجمعيه العموميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 49 | [وجه امي](http://twitter.com/search?q=%d9%88%d8%ac%d9%87+%d8%a7%d9%85%d9%8a) | N/A |
+| 50 | [الفلك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 
 
 

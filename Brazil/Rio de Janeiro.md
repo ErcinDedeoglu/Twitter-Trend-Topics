@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-22 15:16:54 UTC`
+📆 Last Updated: `2023-03-22 16:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 2 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 3 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
-| 4 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 6 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 7 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 8 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 9 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 10 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 1 | [tino](http://twitter.com/search?q=tino) | N/A |
+| 2 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 3 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 4 | [#RJTV](http://twitter.com/search?q=%23RJTV) | N/A |
+| 5 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 6 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 7 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 8 | [russo](http://twitter.com/search?q=russo) | N/A |
+| 9 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 10 | [Moro](http://twitter.com/search?q=Moro) | N/A |
 | 11 | [BILLIERS COM BUD NO LOLLABR](http://twitter.com/search?q=BILLIERS+COM+BUD+NO+LOLLABR) | N/A |
-| 12 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 13 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 14 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
-| 15 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
-| 16 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 17 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 18 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
-| 19 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
-| 20 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
-| 21 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 22 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 23 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
-| 24 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
-| 25 | [#WhereIsfromis_9](http://twitter.com/search?q=%23WhereIsfromis_9) | N/A |
-| 26 | [FLOVERS MISS FROMIS](http://twitter.com/search?q=FLOVERS+MISS+FROMIS) | N/A |
-| 27 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
-| 28 | [Mania de Doença](http://twitter.com/search?q=Mania+de+Doen%c3%a7a) | N/A |
-| 29 | [Lesbianismo](http://twitter.com/search?q=Lesbianismo) | N/A |
-| 30 | [IEMG](http://twitter.com/search?q=IEMG) | N/A |
-| 31 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 32 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
-| 33 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
-| 34 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 35 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 36 | [ÁGUA É DIREITO](http://twitter.com/search?q=%c3%81GUA+%c3%89+DIREITO) | N/A |
-| 37 | [FORA GARIMPO](http://twitter.com/search?q=FORA+GARIMPO) | N/A |
-| 38 | [Adivinhação](http://twitter.com/search?q=Adivinha%c3%a7%c3%a3o) | N/A |
-| 39 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 40 | [Senador](http://twitter.com/search?q=Senador) | N/A |
-| 41 | [Sonegador](http://twitter.com/search?q=Sonegador) | N/A |
-| 42 | [SOS YANOMAMI](http://twitter.com/search?q=SOS+YANOMAMI) | N/A |
-| 43 | [Facção](http://twitter.com/search?q=Fac%c3%a7%c3%a3o) | N/A |
-| 44 | [Glutonaria](http://twitter.com/search?q=Glutonaria) | N/A |
-| 45 | [Suicídio](http://twitter.com/search?q=Suic%c3%addio) | N/A |
-| 46 | [Hulk e Ronaldinho](http://twitter.com/search?q=Hulk+e+Ronaldinho) | N/A |
-| 47 | [Calote](http://twitter.com/search?q=Calote) | N/A |
-| 48 | [Intolerante](http://twitter.com/search?q=Intolerante) | N/A |
-| 49 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 50 | [Paulo Guedes](http://twitter.com/search?q=Paulo+Guedes) | N/A |
+| 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 13 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 14 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 15 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 16 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
+| 17 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 18 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 19 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
+| 20 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 21 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 22 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
+| 23 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 24 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 25 | [#TAYDAY](http://twitter.com/search?q=%23TAYDAY) | N/A |
+| 26 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
+| 27 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
+| 28 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 29 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 30 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 31 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
+| 32 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
+| 33 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
+| 34 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 35 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
+| 36 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 37 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 38 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
+| 39 | [Fenômeno](http://twitter.com/search?q=Fen%c3%b4meno) | N/A |
+| 40 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
+| 41 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
+| 42 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
+| 43 | [FLOVERS MISS FROMIS](http://twitter.com/search?q=FLOVERS+MISS+FROMIS) | N/A |
+| 44 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 45 | [Lesbianismo](http://twitter.com/search?q=Lesbianismo) | N/A |
+| 46 | [Glutonaria](http://twitter.com/search?q=Glutonaria) | N/A |
+| 47 | [Mania de Doença](http://twitter.com/search?q=Mania+de+Doen%c3%a7a) | N/A |
+| 48 | [Iracundo](http://twitter.com/search?q=Iracundo) | N/A |
+| 49 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 50 | [IEMG](http://twitter.com/search?q=IEMG) | N/A |
 
 
 

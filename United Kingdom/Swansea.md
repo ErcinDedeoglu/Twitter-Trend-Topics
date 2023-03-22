@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-22 15:16:47 UTC`
+📆 Last Updated: `2023-03-22 16:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#PrivilegesCommittee](http://twitter.com/search?q=%23PrivilegesCommittee) | N/A |
 | 2 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 3 | [#pmqs](http://twitter.com/search?q=%23pmqs) | N/A |
+| 3 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
 | 4 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 5 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
-| 6 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 7 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 8 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 9 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 10 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 11 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 12 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 13 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 14 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 15 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 16 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 17 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 18 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 19 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
-| 20 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
-| 21 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 22 | [wilder](http://twitter.com/search?q=wilder) | N/A |
-| 23 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 24 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 25 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 26 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
-| 27 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 28 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 29 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
-| 30 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
-| 31 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 32 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
-| 33 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 34 | [Leith](http://twitter.com/search?q=Leith) | N/A |
-| 35 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
-| 36 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 37 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 38 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 5 | [Sir Bernard](http://twitter.com/search?q=Sir+Bernard) | N/A |
+| 6 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 7 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 8 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 9 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 10 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 11 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 12 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 13 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 14 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 15 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 16 | [Lee Cain](http://twitter.com/search?q=Lee+Cain) | N/A |
+| 17 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
+| 18 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 19 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 20 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 21 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 22 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 23 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 24 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 25 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 26 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 27 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
+| 28 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
+| 29 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 30 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
+| 31 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 32 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 34 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 35 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 36 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 37 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 38 | [Chamberlain](http://twitter.com/search?q=Chamberlain) | Chamberlain is an old English word meaning "steward" or "manager". It was originally used to refer to a person who managed the household of a noble or royal family. Today, it is often used to refer to a person who is in charge of managing the affairs of a government or organization. |
 | 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 40 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 41 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 42 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 43 | [North London](http://twitter.com/search?q=North+London) | North London is an informal term used to refer to the northern part of the city of London, England. It is generally taken to include the areas within the London Boroughs of Camden, Islington, Hackney, Haringey and Enfield. |
-| 44 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
-| 45 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 46 | [Orla](http://twitter.com/search?q=Orla) | N/A |
-| 47 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
-| 48 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 49 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
+| 40 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 41 | [Leith](http://twitter.com/search?q=Leith) | N/A |
+| 42 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
+| 43 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
+| 44 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
+| 45 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 46 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 47 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
+| 48 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 49 | [#ArtInFilmsOrSongs](http://twitter.com/search?q=%23ArtInFilmsOrSongs) | N/A |
 
 
 

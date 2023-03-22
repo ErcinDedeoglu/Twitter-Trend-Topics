@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-22 15:16:48 UTC`
+📆 Last Updated: `2023-03-22 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
-| 2 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 3 | [simon case](http://twitter.com/search?q=simon+case) | N/A |
-| 4 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 5 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
-| 6 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 7 | [#ToriesOut258](http://twitter.com/search?q=%23ToriesOut258) | N/A |
-| 8 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 9 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 10 | [Bone](http://twitter.com/search?q=Bone) | N/A |
-| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 12 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 13 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
-| 14 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
-| 15 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 16 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 17 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 18 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 19 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 21 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 22 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 23 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 24 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 25 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 26 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 27 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 28 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 29 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 30 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 31 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 32 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 33 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 34 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
-| 35 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 36 | [wilder](http://twitter.com/search?q=wilder) | N/A |
-| 37 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 38 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 39 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 40 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
-| 41 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 42 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 43 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
-| 44 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
-| 45 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
-| 46 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
-| 47 | [Leith](http://twitter.com/search?q=Leith) | N/A |
-| 48 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 49 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 50 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 1 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 2 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
+| 3 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 4 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 5 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 6 | [frank warren](http://twitter.com/search?q=frank+warren) | N/A |
+| 7 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 8 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
+| 9 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 10 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 11 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 12 | [#ToriesOut258](http://twitter.com/search?q=%23ToriesOut258) | N/A |
+| 13 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 14 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
+| 15 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
+| 16 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 17 | [Bone](http://twitter.com/search?q=Bone) | N/A |
+| 18 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
+| 19 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 20 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 21 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 22 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 23 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 24 | [Sir Bernard](http://twitter.com/search?q=Sir+Bernard) | N/A |
+| 25 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 26 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 27 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 28 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 29 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 30 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 31 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 32 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 33 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 34 | [Lee Cain](http://twitter.com/search?q=Lee+Cain) | N/A |
+| 35 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
+| 36 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 37 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 38 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 39 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 40 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 41 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 42 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 43 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 45 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
+| 46 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 47 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
+| 48 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 49 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 50 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
 
 
 

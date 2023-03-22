@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-22 15:17:05 UTC`
+📆 Last Updated: `2023-03-22 16:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 2 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 3 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 2 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 3 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 4 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
 | 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [#SMP2023](http://twitter.com/search?q=%23SMP2023) | N/A |
-| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 8 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 6 | [#smp2023](http://twitter.com/search?q=%23smp2023) | N/A |
+| 7 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 8 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 11 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 12 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 13 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 14 | [ONE NATION](http://twitter.com/search?q=ONE+NATION) | N/A |
-| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 16 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 17 | [Brad Hazzard](http://twitter.com/search?q=Brad+Hazzard) | N/A |
-| 18 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 20 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
-| 21 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 24 | [bronte](http://twitter.com/search?q=bronte) | N/A |
-| 25 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
-| 26 | [ron joseph](http://twitter.com/search?q=ron+joseph) | N/A |
-| 27 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 28 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 29 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 11 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 12 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 15 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 16 | [brad hazzard](http://twitter.com/search?q=brad+hazzard) | N/A |
+| 17 | [christian lives matter](http://twitter.com/search?q=christian+lives+matter) | N/A |
+| 18 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 19 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 20 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 22 | [Posie](http://twitter.com/search?q=Posie) | N/A |
+| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 24 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 25 | [ron joseph](http://twitter.com/search?q=ron+joseph) | N/A |
+| 26 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 27 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 28 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 29 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
 | 30 | [Hewett](http://twitter.com/search?q=Hewett) | N/A |
-| 31 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
-| 32 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 33 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 34 | [Belfield](http://twitter.com/search?q=Belfield) | N/A |
-| 35 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 36 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
-| 37 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 31 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 32 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 33 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 34 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 35 | [safeguard mechanism](http://twitter.com/search?q=safeguard+mechanism) | N/A |
+| 36 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 37 | [Ken Henry](http://twitter.com/search?q=Ken+Henry) | N/A |
 | 38 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 39 | [Ken Henry](http://twitter.com/search?q=Ken+Henry) | N/A |
-| 40 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 41 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 42 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
-| 43 | [safeguard mechanism](http://twitter.com/search?q=safeguard+mechanism) | N/A |
+| 39 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
+| 40 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 41 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 42 | [Belfield](http://twitter.com/search?q=Belfield) | N/A |
+| 43 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 | 44 | [TERDs](http://twitter.com/search?q=TERDs) | N/A |
-| 45 | [the afl](http://twitter.com/search?q=the+afl) | N/A |
-| 46 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 47 | [channel 10](http://twitter.com/search?q=channel+10) | N/A |
-| 48 | [royce hunt](http://twitter.com/search?q=royce+hunt) | N/A |
-| 49 | [Sarah Henderson](http://twitter.com/search?q=Sarah+Henderson) | N/A |
+| 45 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
+| 46 | [the afl](http://twitter.com/search?q=the+afl) | N/A |
+| 47 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 48 | [Sarah Henderson](http://twitter.com/search?q=Sarah+Henderson) | N/A |
+| 49 | [channel 10](http://twitter.com/search?q=channel+10) | N/A |
 
 
 

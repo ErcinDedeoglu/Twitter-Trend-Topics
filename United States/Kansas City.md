@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-22 15:17:25 UTC`
+📆 Last Updated: `2023-03-22 16:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 5 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
 | 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
 | 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 11 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 12 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 13 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 14 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 15 | [DIRECTV](http://twitter.com/search?q=DIRECTV) | N/A |
-| 16 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
-| 17 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 10 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 11 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 12 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 13 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 14 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 15 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 16 | [Puff Johnson](http://twitter.com/search?q=Puff+Johnson) | N/A |
+| 17 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
 | 18 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 19 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 20 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 21 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 22 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 23 | [Mr. Shatner](http://twitter.com/search?q=Mr.+Shatner) | N/A |
-| 24 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 25 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 26 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
-| 27 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 28 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 29 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 30 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 19 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 20 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 21 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 23 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 24 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
+| 25 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 26 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 27 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 28 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
+| 29 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
+| 30 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
 | 31 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 32 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 33 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 34 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 35 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 36 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 37 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 38 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
-| 39 | [92nd](http://twitter.com/search?q=92nd) | N/A |
-| 40 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 41 | [Bad Spaniels](http://twitter.com/search?q=Bad+Spaniels) | N/A |
-| 42 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
-| 43 | [Ashley Biden](http://twitter.com/search?q=Ashley+Biden) | N/A |
-| 44 | [Alcryst](http://twitter.com/search?q=Alcryst) | N/A |
-| 45 | [MMPR](http://twitter.com/search?q=MMPR) | N/A |
-| 46 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
-| 47 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 48 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
-| 49 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 50 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
+| 32 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 33 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 34 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 35 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
+| 36 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 37 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
+| 38 | [Karl-Anthony Towns](http://twitter.com/search?q=Karl-Anthony+Towns) | N/A |
+| 39 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
+| 40 | [Goten](http://twitter.com/search?q=Goten) | N/A |
+| 41 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 42 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 43 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 44 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 45 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 46 | [Maren Morris](http://twitter.com/search?q=Maren+Morris) | N/A |
+| 47 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 48 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 49 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 50 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
 
 
 

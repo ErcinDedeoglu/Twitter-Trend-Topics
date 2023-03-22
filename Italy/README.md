@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-22 15:17:33 UTC`
+📆 Last Updated: `2023-03-22 16:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#22marzo](http://twitter.com/search?q=%2322marzo) | N/A |
-| 2 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
-| 3 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 3 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
 | 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 5 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 6 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 7 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 8 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 9 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 10 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
+| 5 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 6 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 7 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 8 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 9 | [#TuttiAbbiamo](http://twitter.com/search?q=%23TuttiAbbiamo) | N/A |
+| 10 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
 | 11 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 12 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 13 | [Michela](http://twitter.com/search?q=Michela) | N/A |
-| 14 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 17 | [Lucy Salani](http://twitter.com/search?q=Lucy+Salani) | N/A |
-| 18 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 19 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 20 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 21 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
-| 22 | [enrica](http://twitter.com/search?q=enrica) | N/A |
-| 23 | [Adige](http://twitter.com/search?q=Adige) | N/A |
-| 24 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
-| 25 | [Claudio Amendola](http://twitter.com/search?q=Claudio+Amendola) | N/A |
-| 26 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 27 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 28 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 29 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 30 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 12 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
+| 15 | [Michela](http://twitter.com/search?q=Michela) | N/A |
+| 16 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 17 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 18 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 19 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 20 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 21 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 22 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
+| 23 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 24 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 25 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 26 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 27 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
+| 28 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
+| 29 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
+| 30 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 31 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 32 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 33 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
-| 34 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 35 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 36 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 37 | [citto maselli](http://twitter.com/search?q=citto+maselli) | N/A |
-| 38 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 39 | [Zaporizhzhia](http://twitter.com/search?q=Zaporizhzhia) | N/A |
-| 40 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
-| 41 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 42 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 43 | [miami vice](http://twitter.com/search?q=miami+vice) | N/A |
-| 44 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 45 | [thiago motta](http://twitter.com/search?q=thiago+motta) | N/A |
-| 46 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
-| 47 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 48 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 49 | [Dachau](http://twitter.com/search?q=Dachau) | N/A |
-| 50 | [Magnum](http://twitter.com/search?q=Magnum) | N/A |
+| 33 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 34 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 35 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 36 | [Citto Maselli](http://twitter.com/search?q=Citto+Maselli) | N/A |
+| 37 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 38 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 39 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 40 | [Adige](http://twitter.com/search?q=Adige) | N/A |
+| 41 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 42 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 43 | [Zaporizhzhia](http://twitter.com/search?q=Zaporizhzhia) | N/A |
+| 44 | [thiago motta](http://twitter.com/search?q=thiago+motta) | N/A |
+| 45 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
+| 46 | [Miami Vice](http://twitter.com/search?q=Miami+Vice) | N/A |
+| 47 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 48 | [Dachau](http://twitter.com/search?q=Dachau) | N/A |
+| 49 | [Paolo Carta](http://twitter.com/search?q=Paolo+Carta) | N/A |
+| 50 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
 
 
 
