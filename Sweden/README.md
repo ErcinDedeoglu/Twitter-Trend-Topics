@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-22 03:18:04 UTC`
+📆 Last Updated: `2023-03-22 04:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for Sweden
 | 6 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 7 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 8 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
-| 9 | [Folin](http://twitter.com/search?q=Folin) | N/A |
-| 10 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 11 | [#rdaplenary](http://twitter.com/search?q=%23rdaplenary) | N/A |
+| 9 | [folin](http://twitter.com/search?q=folin) | N/A |
+| 10 | [#rdaplenary](http://twitter.com/search?q=%23rdaplenary) | N/A |
+| 11 | [Kina](http://twitter.com/search?q=Kina) | N/A |
 | 12 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
 | 13 | [#rockasockorna](http://twitter.com/search?q=%23rockasockorna) | N/A |
 | 14 | [wessner](http://twitter.com/search?q=wessner) | N/A |
@@ -61,8 +61,8 @@ This is top 50 for Sweden
 | 44 | [nacka](http://twitter.com/search?q=nacka) | N/A |
 | 45 | [Elisabeth Svantesson](http://twitter.com/search?q=Elisabeth+Svantesson) | N/A |
 | 46 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 47 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 48 | [magashy](http://twitter.com/search?q=magashy) | N/A |
+| 47 | [magashy](http://twitter.com/search?q=magashy) | N/A |
+| 48 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
 | 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 50 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
 

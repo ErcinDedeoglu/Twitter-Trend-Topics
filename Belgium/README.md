@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-22 03:17:57 UTC`
+📆 Last Updated: `2023-03-22 04:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,17 +23,17 @@ This is top 50 for Belgium
 | 6 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
 | 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 8 | [Dalle](http://twitter.com/search?q=Dalle) | N/A |
-| 9 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 11 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 12 | [De Roma](http://twitter.com/search?q=De+Roma) | N/A |
-| 13 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 14 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 15 | [Telenet](http://twitter.com/search?q=Telenet) | N/A |
-| 16 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 17 | [studio 100](http://twitter.com/search?q=studio+100) | N/A |
-| 18 | [cathy berx](http://twitter.com/search?q=cathy+berx) | N/A |
-| 19 | [herman de croo](http://twitter.com/search?q=herman+de+croo) | N/A |
+| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 10 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 11 | [De Roma](http://twitter.com/search?q=De+Roma) | N/A |
+| 12 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 13 | [Telenet](http://twitter.com/search?q=Telenet) | N/A |
+| 14 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 15 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 16 | [studio 100](http://twitter.com/search?q=studio+100) | N/A |
+| 17 | [cathy berx](http://twitter.com/search?q=cathy+berx) | N/A |
+| 18 | [herman de croo](http://twitter.com/search?q=herman+de+croo) | N/A |
+| 19 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
 | 20 | [liberty global](http://twitter.com/search?q=liberty+global) | N/A |
 | 21 | [Oeganda](http://twitter.com/search?q=Oeganda) | N/A |
 | 22 | [MEPS](http://twitter.com/search?q=MEPS) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Belgium
 | 37 | [general affairs council](http://twitter.com/search?q=general+affairs+council) | N/A |
 | 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 39 | [kerkhof](http://twitter.com/search?q=kerkhof) | N/A |
-| 40 | [Weyts](http://twitter.com/search?q=Weyts) | N/A |
+| 40 | [weyts](http://twitter.com/search?q=weyts) | N/A |
 | 41 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 42 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 43 | [discriminatie](http://twitter.com/search?q=discriminatie) | N/A |
-| 44 | [raoul servais](http://twitter.com/search?q=raoul+servais) | N/A |
-| 45 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 47 | [kristof](http://twitter.com/search?q=kristof) | N/A |
-| 48 | [Directive](http://twitter.com/search?q=Directive) | N/A |
-| 49 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 50 | [steve van](http://twitter.com/search?q=steve+van) | N/A |
+| 42 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
+| 43 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 44 | [discriminatie](http://twitter.com/search?q=discriminatie) | N/A |
+| 45 | [raoul servais](http://twitter.com/search?q=raoul+servais) | N/A |
+| 46 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 47 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 48 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 49 | [kristof](http://twitter.com/search?q=kristof) | N/A |
+| 50 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 
 
 

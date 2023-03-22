@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-22 03:17:19 UTC`
+📆 Last Updated: `2023-03-22 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,9 +43,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 26 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 | 27 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
 | 28 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
-| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 30 | [tavu](http://twitter.com/search?q=tavu) | N/A |
-| 31 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 29 | [tavu](http://twitter.com/search?q=tavu) | N/A |
+| 30 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 31 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 32 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
 | 33 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
 | 34 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |

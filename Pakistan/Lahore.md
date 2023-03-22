@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-22 03:17:39 UTC`
+📆 Last Updated: `2023-03-22 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,10 +26,10 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
 | 10 | [Starc](http://twitter.com/search?q=Starc) | N/A |
 | 11 | [sdg secretariat](http://twitter.com/search?q=sdg+secretariat) | N/A |
-| 12 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
-| 13 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
+| 12 | [Zalmay Khalilzad](http://twitter.com/search?q=Zalmay+Khalilzad) | N/A |
+| 13 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
 | 14 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
-| 15 | [zalmay](http://twitter.com/search?q=zalmay) | N/A |
+| 15 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
 | 16 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 17 | [sensodyne and paradontax](http://twitter.com/search?q=sensodyne+and+paradontax) | N/A |
 | 18 | [Richter](http://twitter.com/search?q=Richter) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 25 | [Angoor Adda](http://twitter.com/search?q=Angoor+Adda) | N/A |
 | 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 27 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
-| 28 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 29 | [America](http://twitter.com/search?q=America) | N/A |
+| 28 | [America](http://twitter.com/search?q=America) | N/A |
+| 29 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
 | 30 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
 | 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 33 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 34 | [Visit Now](http://twitter.com/search?q=Visit+Now) | N/A |
-| 35 | [Syed](http://twitter.com/search?q=Syed) | N/A |
+| 32 | [Syed](http://twitter.com/search?q=Syed) | N/A |
+| 33 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 35 | [22nd March](http://twitter.com/search?q=22nd+March) | N/A |
 | 36 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
-| 37 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 38 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 39 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 40 | [22nd March](http://twitter.com/search?q=22nd+March) | N/A |
-| 41 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
-| 42 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 43 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 44 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 45 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
-| 46 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 47 | [E-11](http://twitter.com/search?q=E-11) | N/A |
-| 48 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
-| 49 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 50 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 37 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 38 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 39 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 40 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
+| 44 | [North](http://twitter.com/search?q=North) | N/A |
+| 45 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 46 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
+| 47 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 48 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
+| 49 | [Hypocrisy](http://twitter.com/search?q=Hypocrisy) | N/A |
+| 50 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
 
 
 

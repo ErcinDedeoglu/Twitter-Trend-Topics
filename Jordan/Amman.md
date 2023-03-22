@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-22 03:17:36 UTC`
+📆 Last Updated: `2023-03-22 04:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,22 +25,22 @@ This is top 50 for [Jordan](</Jordan>)
 | 8 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
 | 9 | [الجيش الاردني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
 | 10 | [شهداء الوطن](http://twitter.com/search?q=%d8%b4%d9%87%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 11 | [المركبات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 12 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 13 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 14 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 15 | [العربي المصطفوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b7%d9%81%d9%88%d9%8a) | N/A |
-| 16 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 17 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 18 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
-| 19 | [#يوم_السعاده_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 20 | [الذكري الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 21 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 22 | [القانون الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 23 | [#يوم_امي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%85%d9%8a) | N/A |
-| 24 | [علي قانون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
-| 25 | [عبدالله الثاني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [وزير عامل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%b9%d8%a7%d9%85%d9%84) | N/A |
+| 11 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 12 | [المركبات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
+| 13 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 14 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 15 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 16 | [العربي المصطفوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b7%d9%81%d9%88%d9%8a) | N/A |
+| 17 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 18 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 19 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
+| 20 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 21 | [#يوم_السعاده_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 22 | [الذكري الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
+| 23 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 24 | [القانون الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [علي قانون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
+| 26 | [عبدالله الثاني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 27 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
 | 28 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
 | 29 | [وزارة الخارجية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Jordan](</Jordan>)
 | 37 | [الاتحاد الأوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
 | 38 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
 | 39 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 40 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 41 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
-| 42 | [وزير ماليه الاحتلال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
-| 43 | [قاضي القضاه](http://twitter.com/search?q=%d9%82%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%87) | N/A |
-| 44 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | N/A |
-| 45 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 46 | [الاراضي الفلسطينيه المحتله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d9%87) | N/A |
-| 47 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 48 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 49 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 50 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 40 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
+| 41 | [وزير ماليه الاحتلال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 42 | [قاضي القضاه](http://twitter.com/search?q=%d9%82%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%87) | N/A |
+| 43 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | N/A |
+| 44 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 45 | [الاراضي الفلسطينيه المحتله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d9%87) | N/A |
+| 46 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 47 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 48 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 49 | [نبع الحنان](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%ad%d9%86%d8%a7%d9%86) | N/A |
+| 50 | [المسجد الاقصي المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-22 03:17:58 UTC`
+📆 Last Updated: `2023-03-22 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,20 +45,20 @@ This is top 50 for Denmark
 | 28 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 29 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 30 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 31 | [Hermansen](http://twitter.com/search?q=Hermansen) | N/A |
+| 31 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
 | 32 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
 | 33 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 34 | [torben](http://twitter.com/search?q=torben) | N/A |
-| 35 | [første](http://twitter.com/search?q=f%c3%b8rste) | N/A |
-| 36 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 37 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 38 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
-| 39 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 35 | [torben](http://twitter.com/search?q=torben) | N/A |
+| 36 | [første](http://twitter.com/search?q=f%c3%b8rste) | N/A |
+| 37 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 39 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
+| 40 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 42 | [Apropos](http://twitter.com/search?q=Apropos) | N/A |
 | 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 44 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
 | 45 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
 | 46 | [vavro](http://twitter.com/search?q=vavro) | N/A |
 | 47 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |

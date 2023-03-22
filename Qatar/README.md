@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-22 03:18:03 UTC`
+📆 Last Updated: `2023-03-22 04:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,10 +38,10 @@ This is top 50 for Qatar
 | 21 | [الديوان الاميري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%8a) | N/A |
 | 22 | [حمد الطبيه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d9%87) | N/A |
 | 23 | [الامير المفدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%81%d8%af%d9%8a) | N/A |
-| 24 | [علي المواطنين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
-| 25 | [التطوير الحكومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
-| 26 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 27 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 25 | [علي المواطنين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
+| 26 | [التطوير الحكومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a) | N/A |
+| 27 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 28 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 29 | [سردار بيردي](http://twitter.com/search?q=%d8%b3%d8%b1%d8%af%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d8%af%d9%8a) | N/A |
 | 30 | [America](http://twitter.com/search?q=America) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Qatar
 | 33 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 34 | [الرييس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
 | 35 | [الصحه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 36 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
-| 37 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 38 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
-| 39 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 40 | [انشلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%84%d9%88%d8%aa%d9%8a) | N/A |
-| 41 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
-| 42 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 43 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 45 | [والهلال](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 46 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
-| 47 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 49 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 50 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
+| 36 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
+| 37 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
+| 38 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 39 | [انشلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%84%d9%88%d8%aa%d9%8a) | N/A |
+| 40 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
+| 41 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
+| 42 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 43 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 44 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 46 | [والهلال](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 47 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 48 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
+| 49 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 50 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 
 
 

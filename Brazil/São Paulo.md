@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-22 03:17:09 UTC`
+📆 Last Updated: `2023-03-22 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 2 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
-| 3 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 3 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
 | 4 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 5 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 6 | [#TeamFred](http://twitter.com/search?q=%23TeamFred) | #TeamFred is a hashtag used to show support for Fred Rogers, the beloved host of the children's television show Mister Rogers' Neighborhood. It is often used to celebrate his legacy and to share stories of how he has impacted people's lives. |
-| 7 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
-| 8 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 5 | [#TeamFred](http://twitter.com/search?q=%23TeamFred) | #TeamFred is a hashtag used to show support for Fred Rogers, the beloved host of the children's television show Mister Rogers' Neighborhood. It is often used to celebrate his legacy and to share stories of how he has impacted people's lives. |
+| 6 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 8 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
 | 9 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
-| 10 | [chae](http://twitter.com/search?q=chae) | N/A |
-| 11 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 12 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
-| 13 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 14 | [o boninho](http://twitter.com/search?q=o+boninho) | N/A |
-| 15 | [Comercial](http://twitter.com/search?q=Comercial) | N/A |
-| 16 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 10 | [#VOLTAFOP](http://twitter.com/search?q=%23VOLTAFOP) | N/A |
+| 11 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
+| 12 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 13 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 14 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 15 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
+| 16 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
 | 17 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
-| 18 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 19 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 20 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 21 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 22 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 23 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
-| 24 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 25 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 26 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 27 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 28 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 29 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
-| 30 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 31 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 32 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
-| 33 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 34 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 35 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
-| 36 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 37 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 38 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 39 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
-| 40 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
-| 41 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 42 | [Neneco](http://twitter.com/search?q=Neneco) | N/A |
-| 43 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 44 | [Boa Fred](http://twitter.com/search?q=Boa+Fred) | N/A |
-| 45 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 46 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
-| 47 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 48 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 49 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 50 | [Leonardo Nogueira](http://twitter.com/search?q=Leonardo+Nogueira) | N/A |
+| 18 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 19 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 20 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 21 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 22 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 24 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 25 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 26 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 27 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 28 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 29 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 30 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 31 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 32 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
+| 33 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
+| 34 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 35 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 36 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 37 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 38 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 39 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 40 | [Boa Fred](http://twitter.com/search?q=Boa+Fred) | N/A |
+| 41 | [Neneco](http://twitter.com/search?q=Neneco) | N/A |
+| 42 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 43 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 44 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 45 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 46 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 47 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 48 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 49 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
+| 50 | [Parabéns Fred](http://twitter.com/search?q=Parab%c3%a9ns+Fred) | N/A |
 
 
 

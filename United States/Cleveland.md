@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-22 03:17:47 UTC`
+📆 Last Updated: `2023-03-22 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
 | 2 | [Newsome](http://twitter.com/search?q=Newsome) | N/A |
 | 3 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 4 | [LeVert](http://twitter.com/search?q=LeVert) | LeVert is a French term meaning "to turn over" or "to flip." It is often used in the context of flipping a pancake or omelette. |
-| 5 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 4 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 5 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 7 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 8 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 9 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 10 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 8 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 9 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 10 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
 | 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 12 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 13 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 14 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 12 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 13 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 14 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
 | 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 16 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 17 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 18 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 16 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 17 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 18 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
 | 19 | [#WBCfinal](http://twitter.com/search?q=%23WBCfinal) | N/A |
-| 20 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 20 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
 | 21 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
-| 22 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
-| 23 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 24 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 25 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 26 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 27 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 28 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 29 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 30 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 31 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
-| 32 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 33 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
-| 34 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 35 | [Top of the 9th](http://twitter.com/search?q=Top+of+the+9th) | N/A |
-| 36 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
-| 37 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 22 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 23 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 24 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 25 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 26 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 27 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 28 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 29 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
+| 30 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 31 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 32 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 33 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 34 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 35 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 36 | [jason adam](http://twitter.com/search?q=jason+adam) | N/A |
+| 37 | [Top of the 9th](http://twitter.com/search?q=Top+of+the+9th) | N/A |
 | 38 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
-| 39 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 40 | [Bryce Harper](http://twitter.com/search?q=Bryce+Harper) | N/A |
-| 41 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
-| 42 | [What a WBC](http://twitter.com/search?q=What+a+WBC) | N/A |
-| 43 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
-| 44 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 45 | [Lars Nootbaar](http://twitter.com/search?q=Lars+Nootbaar) | N/A |
-| 46 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
-| 47 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
-| 48 | [RISP](http://twitter.com/search?q=RISP) | N/A |
-| 49 | [WBC Championship](http://twitter.com/search?q=WBC+Championship) | N/A |
+| 39 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 40 | [What a WBC](http://twitter.com/search?q=What+a+WBC) | N/A |
+| 41 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 42 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 43 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 44 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 45 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 46 | [Bryce Harper](http://twitter.com/search?q=Bryce+Harper) | N/A |
+| 47 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 48 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
+| 49 | [schwarbs](http://twitter.com/search?q=schwarbs) | N/A |
 
 
 
