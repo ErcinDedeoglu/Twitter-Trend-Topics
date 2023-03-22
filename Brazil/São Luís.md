@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-22 12:17:57 UTC`
+📆 Last Updated: `2023-03-22 13:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 2 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 3 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 3 | [Moro](http://twitter.com/search?q=Moro) | N/A |
 | 4 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 5 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 6 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 7 | [#FreenbecXBirthdaymulty](http://twitter.com/search?q=%23FreenbecXBirthdaymulty) | N/A |
-| 8 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 10 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 11 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 12 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 13 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 14 | [louro josé](http://twitter.com/search?q=louro+jos%c3%a9) | N/A |
-| 15 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
-| 16 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 17 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 18 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 19 | [Percy](http://twitter.com/search?q=Percy) | N/A |
-| 20 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 21 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 22 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 23 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 24 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 25 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 26 | [O Lula](http://twitter.com/search?q=O+Lula) | N/A |
-| 27 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 28 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 29 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
-| 30 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 31 | [Carlinhos Somália](http://twitter.com/search?q=Carlinhos+Som%c3%a1lia) | N/A |
-| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 33 | [Selic](http://twitter.com/search?q=Selic) | N/A |
-| 34 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 35 | [russo](http://twitter.com/search?q=russo) | N/A |
-| 36 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
-| 37 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 38 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 39 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 40 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 41 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 42 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
-| 43 | [Clarice](http://twitter.com/search?q=Clarice) | N/A |
-| 44 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 45 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
-| 46 | [#ColdplayCuritiba](http://twitter.com/search?q=%23ColdplayCuritiba) | N/A |
-| 47 | [#CasaDoReencontro](http://twitter.com/search?q=%23CasaDoReencontro) | N/A |
+| 5 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 6 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 7 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
+| 8 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 9 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 10 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
+| 11 | [Primeira Comunhão](http://twitter.com/search?q=Primeira+Comunh%c3%a3o) | N/A |
+| 12 | [ÁGUA É DIREITO](http://twitter.com/search?q=%c3%81GUA+%c3%89+DIREITO) | N/A |
+| 13 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
+| 14 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 15 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 16 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 17 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 18 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 19 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
+| 20 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 21 | [Senador](http://twitter.com/search?q=Senador) | N/A |
+| 22 | [#FreenbecXBirthdaymulty](http://twitter.com/search?q=%23FreenbecXBirthdaymulty) | N/A |
+| 23 | [Facção](http://twitter.com/search?q=Fac%c3%a7%c3%a3o) | N/A |
+| 24 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
+| 25 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
+| 26 | [Percy](http://twitter.com/search?q=Percy) | N/A |
+| 27 | [louro josé](http://twitter.com/search?q=louro+jos%c3%a9) | N/A |
+| 28 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 29 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 30 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
+| 31 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 32 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 33 | [Flamengo - Assine](http://twitter.com/search?q=Flamengo+-+Assine) | N/A |
+| 34 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 35 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 36 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 37 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 38 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 39 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 40 | [Impeachment](http://twitter.com/search?q=Impeachment) | N/A |
+| 41 | [O Lula](http://twitter.com/search?q=O+Lula) | N/A |
+| 42 | [FODER](http://twitter.com/search?q=FODER) | N/A |
+| 43 | [Umbanda](http://twitter.com/search?q=Umbanda) | N/A |
+| 44 | [Presidente da República](http://twitter.com/search?q=Presidente+da+Rep%c3%bablica) | N/A |
+| 45 | [russo](http://twitter.com/search?q=russo) | N/A |
+| 46 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 47 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 48 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
+| 49 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 50 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-22 12:18:32 UTC`
+📆 Last Updated: `2023-03-22 13:20:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [モバイルICOCA](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%a4%e3%83%abICOCA) | N/A |
-| 2 | [#たつみコータローとつくる](http://twitter.com/search?q=%23%e3%81%9f%e3%81%a4%e3%81%bf%e3%82%b3%e3%83%bc%e3%82%bf%e3%83%ad%e3%83%bc%e3%81%a8%e3%81%a4%e3%81%8f%e3%82%8b) | N/A |
-| 3 | [高知ファイナル](http://twitter.com/search?q=%e9%ab%98%e7%9f%a5%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab) | 高知ファイナル is an annual high school baseball tournament held in Kochi Prefecture, Japan. It is a tournament for high school teams from the prefecture to compete for the title of "Kochi Prefecture Champion". The English translation of 高知ファイナル would be "Kochi Final". |
-| 4 | [正月カヨコ](http://twitter.com/search?q=%e6%ad%a3%e6%9c%88%e3%82%ab%e3%83%a8%e3%82%b3) | N/A |
-| 5 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 6 | [なりすまし](http://twitter.com/search?q=%e3%81%aa%e3%82%8a%e3%81%99%e3%81%be%e3%81%97) | N/A |
-| 7 | [バブさん](http://twitter.com/search?q=%e3%83%90%e3%83%96%e3%81%95%e3%82%93) | N/A |
-| 8 | [チョコミント](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88) | N/A |
-| 9 | [#人は夢を二度見る](http://twitter.com/search?q=%23%e4%ba%ba%e3%81%af%e5%a4%a2%e3%82%92%e4%ba%8c%e5%ba%a6%e8%a6%8b%e3%82%8b) | N/A |
-| 10 | [スケート](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%88) | N/A |
-| 11 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 12 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
-| 13 | [#プロスピA](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%b9%e3%83%94A) | N/A |
-| 14 | [Carat](http://twitter.com/search?q=Carat) | Carat is a unit of measurement used to measure the weight of gemstones, such as diamonds. One carat is equal to 0.2 grams or 200 milligrams. It is also used to measure the purity of gold, with 24 carats being pure gold and lower carats indicating a lower percentage of gold in the alloy. |
-| 15 | [#無駄遣いをやめる](http://twitter.com/search?q=%23%e7%84%a1%e9%a7%84%e9%81%a3%e3%81%84%e3%82%92%e3%82%84%e3%82%81%e3%82%8b) | N/A |
-| 16 | [シャンパンファイト](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%91%e3%83%b3%e3%83%95%e3%82%a1%e3%82%a4%e3%83%88) | N/A |
-| 17 | [プレバン](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%90%e3%83%b3) | プレバン is short for プレイバンド, which is a type of band that plays covers of popular songs. It is usually made up of amateur musicians who perform at events such as weddings and parties. The English translation would be "cover band". |
-| 18 | [#すのちゅーぶ](http://twitter.com/search?q=%23%e3%81%99%e3%81%ae%e3%81%a1%e3%82%85%e3%83%bc%e3%81%b6) | #すのちゅーぶ is a hashtag used on Twitter in Japan. It is a play on words, combining the Japanese words for "snow" (yuki) and "chuu" (a sound effect for a kiss). The hashtag roughly translates to "Snow Kiss". |
-| 19 | [一般市民](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e5%b8%82%e6%b0%91) | N/A |
-| 20 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
-| 21 | [MAJOR](http://twitter.com/search?q=MAJOR) | N/A |
-| 22 | [正月ハルカ](http://twitter.com/search?q=%e6%ad%a3%e6%9c%88%e3%83%8f%e3%83%ab%e3%82%ab) | N/A |
-| 23 | [優勝の瞬間](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%81%ae%e7%9e%ac%e9%96%93) | N/A |
-| 24 | [伝説勇者](http://twitter.com/search?q=%e4%bc%9d%e8%aa%ac%e5%8b%87%e8%80%85) | N/A |
-| 25 | [野球のルール](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
-| 26 | [姫様抱っこ](http://twitter.com/search?q=%e5%a7%ab%e6%a7%98%e6%8a%b1%e3%81%a3%e3%81%93) | N/A |
-| 27 | [グローバル](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab) | N/A |
-| 28 | [エピオン](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%82%aa%e3%83%b3) | N/A |
-| 29 | [レンタカー](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%ab%e3%83%bc) | N/A |
-| 30 | [バンダイ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
-| 31 | [優勝セール](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 32 | [ガブリアス](http://twitter.com/search?q=%e3%82%ac%e3%83%96%e3%83%aa%e3%82%a2%e3%82%b9) | N/A |
-| 33 | [うまい棒](http://twitter.com/search?q=%e3%81%86%e3%81%be%e3%81%84%e6%a3%92) | N/A |
-| 34 | [キャッチボール](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 35 | [野球優勝](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e5%84%aa%e5%8b%9d) | N/A |
-| 36 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
-| 37 | [すいちゃん](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | すいちゃん is a term of endearment used in Japan to refer to an older brother or male friend. It is a combination of the words "sui" (older brother) and "chan" (a suffix used to indicate familiarity or endearment). In English, it could be translated as "big brother" or "dear friend". |
-| 38 | [ブルアカ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab) | ブルアカ is a type of Japanese sweet potato. It is a variety of purple sweet potato that has a deep purple skin and white flesh. In English, it is sometimes referred to as "purple sweet potato". |
-| 39 | [舞依ちゃん](http://twitter.com/search?q=%e8%88%9e%e4%be%9d%e3%81%a1%e3%82%83%e3%82%93) | "舞依ちゃん" is a nickname for the Japanese virtual YouTuber, Mai Yuki. It is a combination of her name and the Japanese word for "girl". In English, it can be translated to "Mai Girl". |
-| 40 | [かおちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | かおちゃん is a term of endearment used in Japan to refer to an older woman, usually one who is close to the speaker. It can be translated as "Auntie" or "Granny". |
-| 41 | [エジル引退](http://twitter.com/search?q=%e3%82%a8%e3%82%b8%e3%83%ab%e5%bc%95%e9%80%80) | エジル引退 (Ejiru Intai) is a Japanese phrase that translates to "Ejiru Retirement". It refers to the retirement of former Japanese professional baseball player Ejiro Omi, who played for the Yomiuri Giants from 1985 to 2002. |
-| 42 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
-| 43 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
-| 44 | [PUFFY](http://twitter.com/search?q=PUFFY) | PUFFY is an adjective used to describe something that is swollen or inflated, usually with air or gas. It can also be used to describe something that is soft and fluffy. |
-| 45 | [ハルマル](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%9e%e3%83%ab) | ハルマル (harumaru) is a Japanese word that means "spring". It is often used to describe the season of spring, when nature comes alive and the weather becomes warmer. |
-| 46 | [ヘルヘル](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%98%e3%83%ab) | N/A |
-| 47 | [花譜ちゃん](http://twitter.com/search?q=%e8%8a%b1%e8%ad%9c%e3%81%a1%e3%82%83%e3%82%93) | 花譜ちゃん is a character created by the Japanese company Sanrio. She is a cute and cheerful girl who loves flowers and gardening. Her name literally translates to "flower record girl" in English. |
-| 48 | [ジャンボリ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa) | N/A |
-| 49 | [ちゃんのライブ](http://twitter.com/search?q=%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | ちゃんのライブ is a phrase used to refer to a live performance by a particular artist or group. In English, it would be translated as "the artist/group's live show". |
+| 2 | [プラナちゃん](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 3 | [怪物くん](http://twitter.com/search?q=%e6%80%aa%e7%89%a9%e3%81%8f%e3%82%93) | 怪物くん (Kaibutsu-kun) is a Japanese manga series written and illustrated by Fujiko Fujio. It follows the adventures of Kaibutsu-kun, a mischievous monster who lives in a castle with his friends. The title translates to "Mr. Monster" in English. |
+| 4 | [#トロピカーナW](http://twitter.com/search?q=%23%e3%83%88%e3%83%ad%e3%83%94%e3%82%ab%e3%83%bc%e3%83%8aW) | N/A |
+| 5 | [#ダブルでうれしい新生活](http://twitter.com/search?q=%23%e3%83%80%e3%83%96%e3%83%ab%e3%81%a7%e3%81%86%e3%82%8c%e3%81%97%e3%81%84%e6%96%b0%e7%94%9f%e6%b4%bb) | N/A |
+| 6 | [ハーマー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%9e%e3%83%bc) | ハーマー (Hāmā) is a Japanese word for hammer. It is used to refer to a tool used for pounding or striking. In English, it can be translated as "hammer". |
+| 7 | [神ちゃん](http://twitter.com/search?q=%e7%a5%9e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 8 | [魔王ノッブ](http://twitter.com/search?q=%e9%ad%94%e7%8e%8b%e3%83%8e%e3%83%83%e3%83%96) | N/A |
+| 9 | [アルちゃん](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [なりすまし](http://twitter.com/search?q=%e3%81%aa%e3%82%8a%e3%81%99%e3%81%be%e3%81%97) | N/A |
+| 11 | [#あなたを野球のポジションに例える](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e9%87%8e%e7%90%83%e3%81%ae%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b) | N/A |
+| 12 | [ヘアバンド](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%83%90%e3%83%b3%e3%83%89) | N/A |
+| 13 | [#世界フィギュア](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
+| 14 | [#映画ダンジョンズアンドドラゴンズ](http://twitter.com/search?q=%23%e6%98%a0%e7%94%bb%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%ba%e3%82%a2%e3%83%b3%e3%83%89%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 15 | [いちご大福パイ](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e5%a4%a7%e7%a6%8f%e3%83%91%e3%82%a4) | N/A |
+| 16 | [プレミュ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%83%a5) | N/A |
+| 17 | [高知ファイナル](http://twitter.com/search?q=%e9%ab%98%e7%9f%a5%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab) | 高知ファイナル is an annual high school baseball tournament held in Kochi Prefecture, Japan. It is a tournament for high school teams from the prefecture to compete for the title of "Kochi Prefecture Champion". The English translation of 高知ファイナル would be "Kochi Final". |
+| 18 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
+| 19 | [バブさん](http://twitter.com/search?q=%e3%83%90%e3%83%96%e3%81%95%e3%82%93) | N/A |
+| 20 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 21 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
+| 22 | [あべちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%b9%e3%81%a1%e3%82%83%e3%82%93) | あべちゃん is a nickname for the Japanese singer and actor Abe Hiroshi. It is derived from his given name, Hiroshi, and is used affectionately by his fans. In English, it could be translated as "Abe-chan". |
+| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 24 | [スケート](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%88) | N/A |
+| 25 | [正月カヨコ](http://twitter.com/search?q=%e6%ad%a3%e6%9c%88%e3%82%ab%e3%83%a8%e3%82%b3) | N/A |
+| 26 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 27 | [チョコミント](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88) | N/A |
+| 28 | [Carat](http://twitter.com/search?q=Carat) | Carat is a unit of measurement used to measure the weight of gemstones, such as diamonds. One carat is equal to 0.2 grams or 200 milligrams. It is also used to measure the purity of gold, with 24 carats being pure gold and lower carats indicating a lower percentage of gold in the alloy. |
+| 29 | [ヨドバシ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7) | N/A |
+| 30 | [一般市民](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e5%b8%82%e6%b0%91) | N/A |
+| 31 | [正月ハルカ](http://twitter.com/search?q=%e6%ad%a3%e6%9c%88%e3%83%8f%e3%83%ab%e3%82%ab) | N/A |
+| 32 | [MAJOR](http://twitter.com/search?q=MAJOR) | N/A |
+| 33 | [野球のルール](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e3%81%ae%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
+| 34 | [姫様抱っこ](http://twitter.com/search?q=%e5%a7%ab%e6%a7%98%e6%8a%b1%e3%81%a3%e3%81%93) | N/A |
+| 35 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 36 | [グローバル](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab) | N/A |
+| 37 | [伝説勇者](http://twitter.com/search?q=%e4%bc%9d%e8%aa%ac%e5%8b%87%e8%80%85) | N/A |
+| 38 | [レンタカー](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%ab%e3%83%bc) | N/A |
+| 39 | [バンダイ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%80%e3%82%a4) | N/A |
+| 40 | [優勝セール](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
+| 41 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | ジャンボリミッキー is a type of Japanese snack food made by Lotte. It is a biscuit shaped like Mickey Mouse and filled with a sweet bean paste. In English, it is known as Jumbo Mickey Biscuits. |
+| 42 | [ツキヨミ](http://twitter.com/search?q=%e3%83%84%e3%82%ad%e3%83%a8%e3%83%9f) | N/A |
+| 43 | [すいちゃん](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | すいちゃん is a term of endearment used in Japan to refer to an older brother or male friend. It is a combination of the words "sui" (older brother) and "chan" (a suffix used to indicate familiarity or endearment). In English, it could be translated as "big brother" or "dear friend". |
+| 44 | [ブルアカ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab) | ブルアカ is a type of Japanese sweet potato. It is a variety of purple sweet potato that has a deep purple skin and white flesh. In English, it is sometimes referred to as "purple sweet potato". |
+| 45 | [紫耀くん](http://twitter.com/search?q=%e7%b4%ab%e8%80%80%e3%81%8f%e3%82%93) | 紫耀くん is a character from the Japanese manga series, "Kuroko's Basketball". His real name is Aomine Daiki and he is known for his powerful and aggressive style of play. In English, his name translates to "Purple Glare". |
+| 46 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
+| 47 | [エジル引退](http://twitter.com/search?q=%e3%82%a8%e3%82%b8%e3%83%ab%e5%bc%95%e9%80%80) | エジル引退 (Ejiru Intai) is a Japanese phrase that translates to "Ejiru Retirement". It refers to the retirement of former Japanese professional baseball player Ejiro Omi, who played for the Yomiuri Giants from 1985 to 2002. |
+| 48 | [WBC再放送](http://twitter.com/search?q=WBC%e5%86%8d%e6%94%be%e9%80%81) | N/A |
+| 49 | [パロディ](http://twitter.com/search?q=%e3%83%91%e3%83%ad%e3%83%87%e3%82%a3) | N/A |
 
 
 

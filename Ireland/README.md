@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-22 12:18:35 UTC`
+📆 Last Updated: `2023-03-22 13:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldDownSyndromeDay](http://twitter.com/search?q=%23WorldDownSyndromeDay) | N/A |
-| 2 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 3 | [#WeConsent](http://twitter.com/search?q=%23WeConsent) | N/A |
-| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 5 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 2 | [#WorldDownSyndromeDay](http://twitter.com/search?q=%23WorldDownSyndromeDay) | N/A |
+| 3 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 4 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 6 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
 | 7 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 8 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 9 | [Gript](http://twitter.com/search?q=Gript) | N/A |
-| 10 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 11 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 12 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [edwin](http://twitter.com/search?q=edwin) | N/A |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 8 | [#WeConsent](http://twitter.com/search?q=%23WeConsent) | N/A |
+| 9 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 10 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 11 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 12 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 13 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 14 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 16 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
 | 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Brigid](http://twitter.com/search?q=Brigid) | N/A |
-| 19 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
-| 20 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 21 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 22 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 24 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 25 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 26 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 27 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 28 | [Late Late Show](http://twitter.com/search?q=Late+Late+Show) | N/A |
-| 29 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 18 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
+| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
+| 22 | [evan ferguson](http://twitter.com/search?q=evan+ferguson) | N/A |
+| 23 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 24 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 25 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 26 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 27 | [late late show](http://twitter.com/search?q=late+late+show) | N/A |
+| 28 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 29 | [electric ireland](http://twitter.com/search?q=electric+ireland) | N/A |
 | 30 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 31 | [matt doherty](http://twitter.com/search?q=matt+doherty) | N/A |
-| 32 | [miriam](http://twitter.com/search?q=miriam) | N/A |
-| 33 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 31 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 32 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 33 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
 | 34 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
-| 35 | [Mary Fitzpatrick](http://twitter.com/search?q=Mary+Fitzpatrick) | N/A |
+| 35 | [mary fitzpatrick](http://twitter.com/search?q=mary+fitzpatrick) | N/A |
 | 36 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
 | 37 | [Sinn Féin](http://twitter.com/search?q=Sinn+F%c3%a9in) | N/A |
 | 38 | [The Taoiseach](http://twitter.com/search?q=The+Taoiseach) | N/A |
 | 39 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 40 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 40 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 41 | [Catriona](http://twitter.com/search?q=Catriona) | Catriona is a Scottish female name derived from the Gaelic name Caitríona, which means "pure" or "chaste". |
 | 42 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
-| 43 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 44 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 46 | [clonmel](http://twitter.com/search?q=clonmel) | N/A |
-| 47 | [Revolut](http://twitter.com/search?q=Revolut) | N/A |
-| 48 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 49 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 50 | [Ben Scallan](http://twitter.com/search?q=Ben+Scallan) | N/A |
+| 43 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 44 | [Clonmel](http://twitter.com/search?q=Clonmel) | N/A |
+| 45 | [Revolut](http://twitter.com/search?q=Revolut) | N/A |
+| 46 | [LISTEN HERE](http://twitter.com/search?q=LISTEN+HERE) | N/A |
+| 47 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 48 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 49 | [Ben Scallan](http://twitter.com/search?q=Ben+Scallan) | N/A |
+| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 
 

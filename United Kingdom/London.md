@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-22 12:17:50 UTC`
+📆 Last Updated: `2023-03-22 13:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 2 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 3 | [Freddie Steward](http://twitter.com/search?q=Freddie+Steward) | N/A |
-| 4 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 5 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 6 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 7 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
-| 8 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 9 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 10 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 11 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 12 | [#AIUK](http://twitter.com/search?q=%23AIUK) | N/A |
-| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 14 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 15 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 16 | [Londoners](http://twitter.com/search?q=Londoners) | N/A |
-| 17 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 18 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 1 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 2 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 3 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 4 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 5 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 6 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 7 | [#netzero](http://twitter.com/search?q=%23netzero) | N/A |
+| 8 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 9 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
+| 10 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 11 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 12 | [#CostOfLivingCrisis](http://twitter.com/search?q=%23CostOfLivingCrisis) | N/A |
+| 13 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 14 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 15 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 16 | [#AIUK](http://twitter.com/search?q=%23AIUK) | N/A |
+| 17 | [Londoners](http://twitter.com/search?q=Londoners) | N/A |
+| 18 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
 | 19 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 20 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
 | 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 22 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 22 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
 | 23 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 24 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 25 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 26 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 27 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
-| 28 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
-| 29 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
-| 30 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 31 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 32 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 33 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 34 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
-| 35 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
-| 36 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 37 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
-| 38 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 39 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
-| 40 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 41 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 42 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 43 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
-| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 45 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 25 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 26 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 27 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 28 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 29 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 30 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
+| 31 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 33 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
+| 34 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
+| 35 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
+| 36 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 37 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
+| 38 | [Leith](http://twitter.com/search?q=Leith) | N/A |
+| 39 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
+| 40 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
+| 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 42 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 45 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
 | 46 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 47 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 48 | [Ray Wilkins](http://twitter.com/search?q=Ray+Wilkins) | N/A |
-| 49 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 47 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 48 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 49 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-22 12:17:48 UTC`
+📆 Last Updated: `2023-03-22 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 2 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 3 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 5 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 7 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 9 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 10 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
-| 11 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
-| 12 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
-| 13 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 14 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 15 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 2 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 3 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 4 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 6 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 8 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 9 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 10 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 11 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 12 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 13 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 14 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 15 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
 | 16 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 18 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
-| 19 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
-| 20 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 21 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
-| 22 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 23 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 24 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
-| 25 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 26 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 27 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 28 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
-| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 17 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 18 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
+| 19 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
+| 20 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
+| 21 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 22 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
+| 23 | [Leith](http://twitter.com/search?q=Leith) | N/A |
+| 24 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
+| 25 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
+| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 28 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 29 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 30 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
 | 31 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 32 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 33 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 32 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 33 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
 | 34 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 35 | [Leith](http://twitter.com/search?q=Leith) | N/A |
-| 36 | [ray wilkins](http://twitter.com/search?q=ray+wilkins) | N/A |
-| 37 | [10.4% in February](http://twitter.com/search?q=10.4%25+in+February) | N/A |
-| 38 | [PC Keith Palmer](http://twitter.com/search?q=PC+Keith+Palmer) | N/A |
-| 39 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 40 | [Freddie Steward](http://twitter.com/search?q=Freddie+Steward) | N/A |
-| 41 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 42 | [King James Bible](http://twitter.com/search?q=King+James+Bible) | N/A |
-| 43 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 44 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 45 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 46 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 47 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 48 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 35 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 36 | [Ray Wilkins](http://twitter.com/search?q=Ray+Wilkins) | N/A |
+| 37 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 38 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
+| 39 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 40 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 41 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 42 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 43 | [Freddie Steward](http://twitter.com/search?q=Freddie+Steward) | N/A |
+| 44 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 45 | [Keith Palmer](http://twitter.com/search?q=Keith+Palmer) | N/A |
+| 46 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 47 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 48 | [King James Bible](http://twitter.com/search?q=King+James+Bible) | N/A |
 
 
 

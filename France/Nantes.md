@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-22 12:18:00 UTC`
+📆 Last Updated: `2023-03-22 13:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,50 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 2 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
-| 3 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 4 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 5 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
-| 6 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
-| 7 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 8 | [Manuel Valls](http://twitter.com/search?q=Manuel+Valls) | N/A |
-| 9 | [Transformers](http://twitter.com/search?q=Transformers) | N/A |
-| 10 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 11 | [Bretons](http://twitter.com/search?q=Bretons) | N/A |
-| 12 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 13 | [Emmanuelle](http://twitter.com/search?q=Emmanuelle) | N/A |
-| 14 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 2 | [#JT13h](http://twitter.com/search?q=%23JT13h) | N/A |
+| 3 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
+| 4 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 5 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
+| 6 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 7 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 8 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 9 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
+| 10 | [Marie-Sophie Lacarrau](http://twitter.com/search?q=Marie-Sophie+Lacarrau) | N/A |
+| 11 | [France 2](http://twitter.com/search?q=France+2) | N/A |
+| 12 | [Didier Roustan](http://twitter.com/search?q=Didier+Roustan) | N/A |
+| 13 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 14 | [Transformers](http://twitter.com/search?q=Transformers) | N/A |
 | 15 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 16 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 17 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 18 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 19 | [Victor Hugo](http://twitter.com/search?q=Victor+Hugo) | N/A |
-| 20 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 21 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 22 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
-| 23 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 24 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 25 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 26 | [Gilets Jaunes](http://twitter.com/search?q=Gilets+Jaunes) | N/A |
-| 27 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 28 | [#AvecLePrésident](http://twitter.com/search?q=%23AvecLePr%c3%a9sident) | N/A |
-| 29 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 30 | [#JT13h](http://twitter.com/search?q=%23JT13h) | N/A |
-| 31 | [#DeLeauDansUnTitre](http://twitter.com/search?q=%23DeLeauDansUnTitre) | N/A |
-| 32 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
-| 33 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 34 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 35 | [#EmmanuelMacron](http://twitter.com/search?q=%23EmmanuelMacron) | N/A |
-| 36 | [#morningdedifool](http://twitter.com/search?q=%23morningdedifool) | N/A |
-| 37 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 38 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 39 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
-| 40 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 41 | [#ComeBackVilainSyndicaliste](http://twitter.com/search?q=%23ComeBackVilainSyndicaliste) | N/A |
-| 42 | [#environnement](http://twitter.com/search?q=%23environnement) | N/A |
+| 16 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 17 | [Bretons](http://twitter.com/search?q=Bretons) | N/A |
+| 18 | [Philippe Martinez](http://twitter.com/search?q=Philippe+Martinez) | N/A |
+| 19 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 20 | [Légende](http://twitter.com/search?q=L%c3%a9gende) | N/A |
+| 21 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 22 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 23 | [Lunaire](http://twitter.com/search?q=Lunaire) | N/A |
+| 24 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 25 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 26 | [Victor Hugo](http://twitter.com/search?q=Victor+Hugo) | N/A |
+| 27 | [Malik Oussekine](http://twitter.com/search?q=Malik+Oussekine) | N/A |
+| 28 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 29 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
+| 30 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 31 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 32 | [Thomas Pesquet](http://twitter.com/search?q=Thomas+Pesquet) | N/A |
+| 33 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 34 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
+| 35 | [#AvecLePrésident](http://twitter.com/search?q=%23AvecLePr%c3%a9sident) | N/A |
+| 36 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 37 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 38 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
+| 39 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 40 | [#CensurePopulaire](http://twitter.com/search?q=%23CensurePopulaire) | N/A |
+| 41 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
+| 42 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 43 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
+| 44 | [#ComeBackVilainSyndicaliste](http://twitter.com/search?q=%23ComeBackVilainSyndicaliste) | N/A |
+| 45 | [#environnement](http://twitter.com/search?q=%23environnement) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-22 12:18:29 UTC`
+📆 Last Updated: `2023-03-22 13:20:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Oregon](http://twitter.com/search?q=Oregon) | Oregon is a state in the Pacific Northwest region of the United States. It is bordered by Washington to the north, Idaho to the east, California to the south, and Nevada and Utah to the east. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The state's population was 4,217,737 as of 2019. Its capital is Salem and its largest city is Portland. |
-| 2 | [#Badgers](http://twitter.com/search?q=%23Badgers) | N/A |
-| 3 | [#OnWisconsin](http://twitter.com/search?q=%23OnWisconsin) | N/A |
-| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 5 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 2 | [Oregon](http://twitter.com/search?q=Oregon) | Oregon is a state in the Pacific Northwest region of the United States. It is bordered by Washington to the north, Idaho to the east, California to the south, and Nevada and Utah to the east. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The state's population was 4,217,737 as of 2019. Its capital is Salem and its largest city is Portland. |
+| 3 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 4 | [#Badgers](http://twitter.com/search?q=%23Badgers) | N/A |
+| 5 | [#OnWisconsin](http://twitter.com/search?q=%23OnWisconsin) | N/A |
 | 6 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 11 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 14 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 10 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 12 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 14 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
 | 15 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 16 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 17 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 18 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 19 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 20 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 22 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 23 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 25 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 26 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
-| 27 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
-| 28 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 29 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
-| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 31 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 32 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 33 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 34 | [damn pg](http://twitter.com/search?q=damn+pg) | N/A |
-| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 36 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 37 | [PG13](http://twitter.com/search?q=PG13) | N/A |
-| 38 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 39 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 40 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 41 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 42 | [Congrats to Japan](http://twitter.com/search?q=Congrats+to+Japan) | N/A |
-| 43 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 45 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 46 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 47 | [Van Halen](http://twitter.com/search?q=Van+Halen) | N/A |
-| 48 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
-| 49 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 50 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 16 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 17 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 18 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 19 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 20 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 21 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 22 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 25 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
+| 26 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
+| 27 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 29 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 30 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
+| 31 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 32 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 33 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 34 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
+| 35 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 36 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
+| 37 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 38 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 39 | [Trini](http://twitter.com/search?q=Trini) | N/A |
+| 40 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 41 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 42 | [Jerry Jeudy](http://twitter.com/search?q=Jerry+Jeudy) | N/A |
+| 43 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 44 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 45 | [GameStop](http://twitter.com/search?q=GameStop) | N/A |
+| 46 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 47 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 48 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 49 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 50 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-22 12:17:53 UTC`
+📆 Last Updated: `2023-03-22 13:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 2 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 1 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 2 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 3 | [#FreenbecXBirthdaymulty](http://twitter.com/search?q=%23FreenbecXBirthdaymulty) | N/A |
-| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 5 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 7 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 8 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 9 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 10 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
-| 11 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 13 | [#21demarzo](http://twitter.com/search?q=%2321demarzo) | N/A |
-| 14 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 15 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
-| 16 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [sniper reina azul](http://twitter.com/search?q=sniper+reina+azul) | N/A |
-| 19 | [randy arozarena](http://twitter.com/search?q=randy+arozarena) | N/A |
-| 20 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 21 | [leyes de reforma](http://twitter.com/search?q=leyes+de+reforma) | N/A |
-| 22 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
-| 23 | [hoy 21](http://twitter.com/search?q=hoy+21) | N/A |
-| 24 | [san pablo guelatao](http://twitter.com/search?q=san+pablo+guelatao) | N/A |
-| 25 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 26 | [octavio ocaña](http://twitter.com/search?q=octavio+oca%c3%b1a) | N/A |
+| 4 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 5 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 6 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 7 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 9 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 10 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 11 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 12 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 13 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 14 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 15 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 16 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
+| 17 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 20 | [ESENCIA OUT NOW](http://twitter.com/search?q=ESENCIA+OUT+NOW) | N/A |
+| 21 | [sniper reina azul](http://twitter.com/search?q=sniper+reina+azul) | N/A |
+| 22 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 23 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 24 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 25 | [leyes de reforma](http://twitter.com/search?q=leyes+de+reforma) | N/A |
+| 26 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
 | 27 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 28 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 29 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 30 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 31 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 32 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 33 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 34 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
-| 35 | [Himno](http://twitter.com/search?q=Himno) | N/A |
-| 36 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 37 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 38 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 39 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 40 | [Teatro del Pueblo](http://twitter.com/search?q=Teatro+del+Pueblo) | N/A |
-| 41 | [tu valor](http://twitter.com/search?q=tu+valor) | N/A |
-| 42 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 43 | [ricardo raphael](http://twitter.com/search?q=ricardo+raphael) | N/A |
-| 44 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 45 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 46 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 47 | [Carliz](http://twitter.com/search?q=Carliz) | N/A |
+| 28 | [hoy 21](http://twitter.com/search?q=hoy+21) | N/A |
+| 29 | [san pablo guelatao](http://twitter.com/search?q=san+pablo+guelatao) | N/A |
+| 30 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 31 | [surinam](http://twitter.com/search?q=surinam) | N/A |
+| 32 | [octavio ocaña](http://twitter.com/search?q=octavio+oca%c3%b1a) | N/A |
+| 33 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 34 | [Faby](http://twitter.com/search?q=Faby) | N/A |
+| 35 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 36 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 37 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
+| 38 | [Urquidy](http://twitter.com/search?q=Urquidy) | N/A |
+| 39 | [Himno](http://twitter.com/search?q=Himno) | N/A |
+| 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 41 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 42 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 43 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 44 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
+| 45 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 46 | [TU VALOR](http://twitter.com/search?q=TU+VALOR) | N/A |
+| 47 | [Teatro del Pueblo](http://twitter.com/search?q=Teatro+del+Pueblo) | N/A |
 | 48 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 49 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 50 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 49 | [corea del norte](http://twitter.com/search?q=corea+del+norte) | N/A |
+| 50 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
 
 
 

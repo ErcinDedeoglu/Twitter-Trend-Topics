@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-22 12:18:26 UTC`
+📆 Last Updated: `2023-03-22 13:20:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 2 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 3 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 6 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 7 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 10 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 11 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 14 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 2 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 3 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 5 | [#Themandalorian](http://twitter.com/search?q=%23Themandalorian) | N/A |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 11 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 13 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 14 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
 | 15 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 16 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 17 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 18 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 19 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 20 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 22 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 23 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 25 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 26 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
-| 27 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
-| 28 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 29 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
-| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 31 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 32 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 33 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 34 | [damn pg](http://twitter.com/search?q=damn+pg) | N/A |
-| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 36 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 37 | [PG13](http://twitter.com/search?q=PG13) | N/A |
-| 38 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 39 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 40 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 41 | [Congrats to Japan](http://twitter.com/search?q=Congrats+to+Japan) | N/A |
-| 42 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 43 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 44 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 45 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
-| 46 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 47 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
-| 48 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 49 | [Van Halen](http://twitter.com/search?q=Van+Halen) | N/A |
-| 50 | [#Wordle641](http://twitter.com/search?q=%23Wordle641) | N/A |
+| 16 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 17 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 18 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 19 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 20 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 21 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 22 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 25 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
+| 26 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
+| 27 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 29 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 30 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
+| 31 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 32 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 33 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 34 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
+| 35 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 36 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
+| 37 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 38 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 39 | [Trini](http://twitter.com/search?q=Trini) | N/A |
+| 40 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 41 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 42 | [Jerry Jeudy](http://twitter.com/search?q=Jerry+Jeudy) | N/A |
+| 43 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 44 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 45 | [GameStop](http://twitter.com/search?q=GameStop) | N/A |
+| 46 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 47 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 48 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 49 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 50 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
 
 
 

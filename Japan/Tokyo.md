@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-22 12:18:10 UTC`
+📆 Last Updated: `2023-03-22 13:19:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [東京タワー](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%82%bf%e3%83%af%e3%83%bc) | N/A |
-| 2 | [#sakutalk](http://twitter.com/search?q=%23sakutalk) | N/A |
-| 3 | [シニカルナイトプラン](http://twitter.com/search?q=%e3%82%b7%e3%83%8b%e3%82%ab%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%97%e3%83%a9%e3%83%b3) | N/A |
-| 4 | [ライトアップ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 5 | [#naotalk](http://twitter.com/search?q=%23naotalk) | #Naotalk is a Japanese hashtag used to express feelings of joy, happiness, and excitement. It is often used in response to something that has made someone feel good or happy. In English, it can be translated to mean "Yay!" or "Hooray!" |
-| 6 | [タイムテーブル](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab) | N/A |
-| 7 | [#ルミルミ](http://twitter.com/search?q=%23%e3%83%ab%e3%83%9f%e3%83%ab%e3%83%9f) | N/A |
-| 8 | [イチブトゼンブ](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%96%e3%83%88%e3%82%bc%e3%83%b3%e3%83%96) | N/A |
-| 9 | [ジロちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 10 | [天井ガチャ](http://twitter.com/search?q=%e5%a4%a9%e4%ba%95%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 11 | [無花果様](http://twitter.com/search?q=%e7%84%a1%e8%8a%b1%e6%9e%9c%e6%a7%98) | N/A |
-| 12 | [WBC日本優勝](http://twitter.com/search?q=WBC%e6%97%a5%e6%9c%ac%e5%84%aa%e5%8b%9d) | N/A |
-| 13 | [ステップアップガチャ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%83%e3%83%97%e3%82%a2%e3%83%83%e3%83%97%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 14 | [BIRTH](http://twitter.com/search?q=BIRTH) | N/A |
-| 15 | [ちゃんのLIVE](http://twitter.com/search?q=%e3%81%a1%e3%82%83%e3%82%93%e3%81%aeLIVE) | N/A |
-| 16 | [#言葉にできないそんな夜](http://twitter.com/search?q=%23%e8%a8%80%e8%91%89%e3%81%ab%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%81%9d%e3%82%93%e3%81%aa%e5%a4%9c) | N/A |
-| 17 | [MAJOR](http://twitter.com/search?q=MAJOR) | N/A |
-| 18 | [#星街すいせい5周年LIVE](http://twitter.com/search?q=%23%e6%98%9f%e8%a1%97%e3%81%99%e3%81%84%e3%81%9b%e3%81%845%e5%91%a8%e5%b9%b4LIVE) | N/A |
-| 19 | [すいちゃん](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | すいちゃん is a term of endearment used in Japan to refer to an older brother or male friend. It is a combination of the words "sui" (older brother) and "chan" (a suffix used to indicate familiarity or endearment). In English, it could be translated as "big brother" or "dear friend". |
-| 20 | [舞依ちゃん](http://twitter.com/search?q=%e8%88%9e%e4%be%9d%e3%81%a1%e3%82%83%e3%82%93) | "舞依ちゃん" is a nickname for the Japanese virtual YouTuber, Mai Yuki. It is a combination of her name and the Japanese word for "girl". In English, it can be translated to "Mai Girl". |
-| 21 | [かおちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | かおちゃん is a term of endearment used in Japan to refer to an older woman, usually one who is close to the speaker. It can be translated as "Auntie" or "Granny". |
-| 22 | [ブルアカ鯖落ち](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
-| 23 | [エジル引退](http://twitter.com/search?q=%e3%82%a8%e3%82%b8%e3%83%ab%e5%bc%95%e9%80%80) | エジル引退 (Ejiru Intai) is a Japanese phrase that translates to "Ejiru Retirement". It refers to the retirement of former Japanese professional baseball player Ejiro Omi, who played for the Yomiuri Giants from 1985 to 2002. |
-| 24 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
-| 25 | [PUFFY](http://twitter.com/search?q=PUFFY) | PUFFY is an adjective used to describe something that is swollen or inflated, usually with air or gas. It can also be used to describe something that is soft and fluffy. |
-| 26 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
-| 27 | [ハルマル](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%9e%e3%83%ab) | ハルマル (harumaru) is a Japanese word that means "spring". It is often used to describe the season of spring, when nature comes alive and the weather becomes warmer. |
-| 28 | [花譜ちゃん](http://twitter.com/search?q=%e8%8a%b1%e8%ad%9c%e3%81%a1%e3%82%83%e3%82%93) | 花譜ちゃん is a character created by the Japanese company Sanrio. She is a cute and cheerful girl who loves flowers and gardening. Her name literally translates to "flower record girl" in English. |
-| 29 | [ヘルヘル](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%98%e3%83%ab) | N/A |
-| 30 | [イブアン](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%82%a2%e3%83%b3) | イブアン is a Japanese term that refers to a person who is always cheerful and optimistic, even in difficult situations. In English, it can be translated as "ever-cheerful". |
-| 31 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
-| 32 | [Starry jet](http://twitter.com/search?q=Starry+jet) | N/A |
-| 33 | [忘却の空](http://twitter.com/search?q=%e5%bf%98%e5%8d%b4%e3%81%ae%e7%a9%ba) | N/A |
-| 34 | [ルナヘン](http://twitter.com/search?q=%e3%83%ab%e3%83%8a%e3%83%98%e3%83%b3) | N/A |
+| 2 | [電車ごっこ](http://twitter.com/search?q=%e9%9b%bb%e8%bb%8a%e3%81%94%e3%81%a3%e3%81%93) | N/A |
+| 3 | [Shining Memory](http://twitter.com/search?q=Shining+Memory) | N/A |
+| 4 | [ハリポタのチケット](http://twitter.com/search?q=%e3%83%8f%e3%83%aa%e3%83%9d%e3%82%bf%e3%81%ae%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 5 | [限定オファー](http://twitter.com/search?q=%e9%99%90%e5%ae%9a%e3%82%aa%e3%83%95%e3%82%a1%e3%83%bc) | N/A |
+| 6 | [#moramora](http://twitter.com/search?q=%23moramora) | N/A |
+| 7 | [ライトアップ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 8 | [リミシャル](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
+| 9 | [最初の100連](http://twitter.com/search?q=%e6%9c%80%e5%88%9d%e3%81%ae100%e9%80%a3) | N/A |
+| 10 | [織田哲郎さん](http://twitter.com/search?q=%e7%b9%94%e7%94%b0%e5%93%b2%e9%83%8e%e3%81%95%e3%82%93) | N/A |
+| 11 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
+| 12 | [#PremiumMusic2023](http://twitter.com/search?q=%23PremiumMusic2023) | N/A |
+| 13 | [#水曜日のダウンタウン](http://twitter.com/search?q=%23%e6%b0%b4%e6%9b%9c%e6%97%a5%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3) | #水曜日のダウンタウン is a Japanese variety show that has been airing since 1989. It is a weekly show that features comedians, celebrities, and other guests in a variety of skits and games. The title translates to "Wednesday Downtown" in English. |
+| 14 | [#水曜日のダウンタウン](http://twitter.com/search?q=%23%e6%b0%b4%e6%9b%9c%e6%97%a5%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3) | #水曜日のダウンタウン is a Japanese variety show that has been airing since 1989. It is a weekly show that features comedians, celebrities, and other guests in a variety of skits and games. The title translates to "Wednesday Downtown" in English. |
+| 15 | [#星街すいせい5周年LIVE](http://twitter.com/search?q=%23%e6%98%9f%e8%a1%97%e3%81%99%e3%81%84%e3%81%9b%e3%81%845%e5%91%a8%e5%b9%b4LIVE) | N/A |
+| 16 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | ジャンボリミッキー is a type of Japanese snack food made by Lotte. It is a biscuit shaped like Mickey Mouse and filled with a sweet bean paste. In English, it is known as Jumbo Mickey Biscuits. |
+| 17 | [ツキヨミ](http://twitter.com/search?q=%e3%83%84%e3%82%ad%e3%83%a8%e3%83%9f) | N/A |
+| 18 | [すいちゃん](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%81%a1%e3%82%83%e3%82%93) | すいちゃん is a term of endearment used in Japan to refer to an older brother or male friend. It is a combination of the words "sui" (older brother) and "chan" (a suffix used to indicate familiarity or endearment). In English, it could be translated as "big brother" or "dear friend". |
+| 19 | [ブルアカ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab) | ブルアカ is a type of Japanese sweet potato. It is a variety of purple sweet potato that has a deep purple skin and white flesh. In English, it is sometimes referred to as "purple sweet potato". |
+| 20 | [紫耀くん](http://twitter.com/search?q=%e7%b4%ab%e8%80%80%e3%81%8f%e3%82%93) | 紫耀くん is a character from the Japanese manga series, "Kuroko's Basketball". His real name is Aomine Daiki and he is known for his powerful and aggressive style of play. In English, his name translates to "Purple Glare". |
+| 21 | [Entertainment](http://twitter.com/search?q=Entertainment) | N/A |
+| 22 | [エジル引退](http://twitter.com/search?q=%e3%82%a8%e3%82%b8%e3%83%ab%e5%bc%95%e9%80%80) | エジル引退 (Ejiru Intai) is a Japanese phrase that translates to "Ejiru Retirement". It refers to the retirement of former Japanese professional baseball player Ejiro Omi, who played for the Yomiuri Giants from 1985 to 2002. |
+| 23 | [WBC再放送](http://twitter.com/search?q=WBC%e5%86%8d%e6%94%be%e9%80%81) | N/A |
+| 24 | [パロディ](http://twitter.com/search?q=%e3%83%91%e3%83%ad%e3%83%87%e3%82%a3) | N/A |
+| 25 | [淳太くん](http://twitter.com/search?q=%e6%b7%b3%e5%a4%aa%e3%81%8f%e3%82%93) | 淳太くん is a Japanese manga series written and illustrated by Tetsuya Chiba. It follows the adventures of Junichi, a young boy who dreams of becoming a great detective. The title literally translates to "Junichi-kun" in English. |
+| 26 | [舞依ちゃん](http://twitter.com/search?q=%e8%88%9e%e4%be%9d%e3%81%a1%e3%82%83%e3%82%93) | "舞依ちゃん" is a nickname for the Japanese virtual YouTuber, Mai Yuki. It is a combination of her name and the Japanese word for "girl". In English, it can be translated to "Mai Girl". |
+| 27 | [かおちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | かおちゃん is a term of endearment used in Japan to refer to an older woman, usually one who is close to the speaker. It can be translated as "Auntie" or "Granny". |
+| 28 | [臨時メンテ](http://twitter.com/search?q=%e8%87%a8%e6%99%82%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 29 | [平野くん](http://twitter.com/search?q=%e5%b9%b3%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
+| 30 | [未満都市](http://twitter.com/search?q=%e6%9c%aa%e6%ba%80%e9%83%bd%e5%b8%82) | N/A |
+| 31 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
+| 32 | [ハルマル](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%9e%e3%83%ab) | ハルマル (harumaru) is a Japanese word that means "spring". It is often used to describe the season of spring, when nature comes alive and the weather becomes warmer. |
+| 33 | [ウィークエンダー](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e3%82%a8%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
+| 34 | [イブアン](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%82%a2%e3%83%b3) | イブアン is a Japanese term that refers to a person who is always cheerful and optimistic, even in difficult situations. In English, it can be translated as "ever-cheerful". |
 | 35 | [ちゃんのライブ](http://twitter.com/search?q=%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | ちゃんのライブ is a phrase used to refer to a live performance by a particular artist or group. In English, it would be translated as "the artist/group's live show". |
-| 36 | [WBC再放送](http://twitter.com/search?q=WBC%e5%86%8d%e6%94%be%e9%80%81) | N/A |
-| 37 | [天井交換](http://twitter.com/search?q=%e5%a4%a9%e4%ba%95%e4%ba%a4%e6%8f%9b) | N/A |
-| 38 | [新米騎空士](http://twitter.com/search?q=%e6%96%b0%e7%b1%b3%e9%a8%8e%e7%a9%ba%e5%a3%ab) | N/A |
-| 39 | [リッチ斧](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%83%81%e6%96%a7) | リッチ斧 (Richi-Ono) is a type of Japanese axe used for woodworking. It is characterized by its long, curved blade and short handle. The name comes from the Japanese words "richi" (long) and "ono" (axe). In English, it is sometimes referred to as a "long-handled axe". |
-| 40 | [ガレヲン](http://twitter.com/search?q=%e3%82%ac%e3%83%ac%e3%83%b2%e3%83%b3) | N/A |
-| 41 | [ブルアカログイン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3) | N/A |
-| 42 | [ジャンボリ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa) | N/A |
-| 43 | [正月ムツキ](http://twitter.com/search?q=%e6%ad%a3%e6%9c%88%e3%83%a0%e3%83%84%e3%82%ad) | N/A |
-| 44 | [ハルモニア](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%a2%e3%83%8b%e3%82%a2) | N/A |
-| 45 | [清春さん](http://twitter.com/search?q=%e6%b8%85%e6%98%a5%e3%81%95%e3%82%93) | N/A |
-| 46 | [ヘインちゃん](http://twitter.com/search?q=%e3%83%98%e3%82%a4%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [新米ガチャ](http://twitter.com/search?q=%e6%96%b0%e7%b1%b3%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 48 | [織田哲郎さん](http://twitter.com/search?q=%e7%b9%94%e7%94%b0%e5%93%b2%e9%83%8e%e3%81%95%e3%82%93) | N/A |
-| 49 | [キンプリちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 50 | [Shining Memory](http://twitter.com/search?q=Shining+Memory) | N/A |
+| 36 | [西野カナ](http://twitter.com/search?q=%e8%a5%bf%e9%87%8e%e3%82%ab%e3%83%8a) | N/A |
+| 37 | [違法動画](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e5%8b%95%e7%94%bb) | N/A |
+| 38 | [花譜ちゃん](http://twitter.com/search?q=%e8%8a%b1%e8%ad%9c%e3%81%a1%e3%82%83%e3%82%93) | 花譜ちゃん is a character created by the Japanese company Sanrio. She is a cute and cheerful girl who loves flowers and gardening. Her name literally translates to "flower record girl" in English. |
+| 39 | [PUFFY](http://twitter.com/search?q=PUFFY) | PUFFY is an adjective used to describe something that is swollen or inflated, usually with air or gas. It can also be used to describe something that is soft and fluffy. |
+| 40 | [タキシード](http://twitter.com/search?q=%e3%82%bf%e3%82%ad%e3%82%b7%e3%83%bc%e3%83%89) | N/A |
+| 41 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
+| 42 | [WBC決勝の再放送](http://twitter.com/search?q=WBC%e6%b1%ba%e5%8b%9d%e3%81%ae%e5%86%8d%e6%94%be%e9%80%81) | N/A |
+| 43 | [ミニーちゃん](http://twitter.com/search?q=%e3%83%9f%e3%83%8b%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [緊急メンテ](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e3%83%a1%e3%83%b3%e3%83%86) | 緊急メンテ (Kinkyuu Mentei) is a Japanese term that translates to "emergency maintenance." It is used to describe a situation where a system or service needs to be taken offline for urgent repairs or updates. |
+| 45 | [ヘルヘル](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%98%e3%83%ab) | N/A |
+| 46 | [天井交換](http://twitter.com/search?q=%e5%a4%a9%e4%ba%95%e4%ba%a4%e6%8f%9b) | N/A |
+| 47 | [リッチ斧](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%83%81%e6%96%a7) | リッチ斧 (Richi-Ono) is a type of Japanese axe used for woodworking. It is characterized by its long, curved blade and short handle. The name comes from the Japanese words "richi" (long) and "ono" (axe). In English, it is sometimes referred to as a "long-handled axe". |
+| 48 | [チップとデール](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%83%97%e3%81%a8%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
+| 49 | [莉犬くん](http://twitter.com/search?q=%e8%8e%89%e7%8a%ac%e3%81%8f%e3%82%93) | N/A |
+| 50 | [ターン1](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%b31) | N/A |
 
 
 

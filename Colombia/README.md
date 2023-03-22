@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-22 12:18:34 UTC`
+📆 Last Updated: `2023-03-22 13:20:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [#EstaPatasArriba](http://twitter.com/search?q=%23EstaPatasArriba) | N/A |
 | 2 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
-| 3 | [#HastaCuando](http://twitter.com/search?q=%23HastaCuando) | N/A |
-| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 5 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
-| 6 | [#MePasoAlaFM](http://twitter.com/search?q=%23MePasoAlaFM) | N/A |
-| 7 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 8 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
-| 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 10 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 11 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 12 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 13 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
-| 14 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 15 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 16 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 17 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 18 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 19 | [arcángel](http://twitter.com/search?q=arc%c3%a1ngel) | N/A |
+| 3 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 4 | [#HastaCuando](http://twitter.com/search?q=%23HastaCuando) | N/A |
+| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 6 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 7 | [#MePasoAlaFM](http://twitter.com/search?q=%23MePasoAlaFM) | N/A |
+| 8 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 9 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
+| 10 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 11 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 14 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 15 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 16 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 17 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 18 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 19 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
 | 20 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 21 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
-| 22 | [Stefany](http://twitter.com/search?q=Stefany) | N/A |
-| 23 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 24 | [Con Colombia](http://twitter.com/search?q=Con+Colombia) | N/A |
-| 25 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 26 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 27 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 28 | [Alexandra Agudelo](http://twitter.com/search?q=Alexandra+Agudelo) | N/A |
+| 21 | [Stefany](http://twitter.com/search?q=Stefany) | N/A |
+| 22 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 23 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 24 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
+| 25 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 26 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 27 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 28 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
 | 29 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 30 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
-| 31 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 32 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 33 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 34 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 35 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 36 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 37 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 38 | [breiner](http://twitter.com/search?q=breiner) | N/A |
-| 39 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 40 | [hoy 21](http://twitter.com/search?q=hoy+21) | N/A |
-| 41 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 42 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
-| 43 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 44 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
-| 45 | [Guillermo Grosso](http://twitter.com/search?q=Guillermo+Grosso) | N/A |
-| 46 | [Clan Char](http://twitter.com/search?q=Clan+Char) | N/A |
-| 47 | [dareska](http://twitter.com/search?q=dareska) | N/A |
-| 48 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
-| 49 | [Amado Dios](http://twitter.com/search?q=Amado+Dios) | N/A |
-| 50 | [Bzrp](http://twitter.com/search?q=Bzrp) | N/A |
+| 30 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 31 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
+| 32 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
+| 33 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 34 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 35 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 36 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
+| 37 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 38 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 39 | [María Fernanda Cabal](http://twitter.com/search?q=Mar%c3%ada+Fernanda+Cabal) | N/A |
+| 40 | [breiner](http://twitter.com/search?q=breiner) | N/A |
+| 41 | [hoy 21](http://twitter.com/search?q=hoy+21) | N/A |
+| 42 | [Con Colombia](http://twitter.com/search?q=Con+Colombia) | N/A |
+| 43 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
+| 44 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
+| 45 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
+| 46 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
+| 47 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 48 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
+| 49 | [Guillermo Grosso](http://twitter.com/search?q=Guillermo+Grosso) | N/A |
+| 50 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
 
 
 
