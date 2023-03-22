@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-22 06:16:31 UTC`
+📆 Last Updated: `2023-03-22 07:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 2 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 3 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 4 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 2 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 5 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
 | 6 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
-| 7 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 7 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
 | 8 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 9 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
-| 10 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 9 | [gabriel fop](http://twitter.com/search?q=gabriel+fop) | N/A |
+| 10 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
 | 11 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
 | 12 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 13 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
-| 14 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
-| 15 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
-| 16 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 17 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 18 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
-| 19 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 13 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 14 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 15 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 16 | [DOUTOR FRED](http://twitter.com/search?q=DOUTOR+FRED) | DOUTOR FRED is a Brazilian television series that aired from 1975 to 1976. It follows the adventures of a doctor, Dr. Fred, who travels around Brazil helping people in need. The show's title translates to "Doctor Fred" in English. |
+| 17 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 18 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 19 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
 | 20 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 21 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 22 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 23 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 21 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 22 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 23 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
 | 24 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 25 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 26 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
-| 27 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
-| 28 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
-| 29 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
-| 30 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 31 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 32 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 33 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 34 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 25 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 26 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 27 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 28 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 29 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 30 | [fred boco](http://twitter.com/search?q=fred+boco) | N/A |
+| 31 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 32 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 33 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
+| 34 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
 | 35 | [neneco](http://twitter.com/search?q=neneco) | N/A |
-| 36 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 36 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
 | 37 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 38 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 39 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
-| 40 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 41 | [Parabéns Fred](http://twitter.com/search?q=Parab%c3%a9ns+Fred) | N/A |
-| 42 | [O Gabriel](http://twitter.com/search?q=O+Gabriel) | N/A |
-| 43 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 44 | [Vota](http://twitter.com/search?q=Vota) | N/A |
-| 45 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 46 | [Arrogante](http://twitter.com/search?q=Arrogante) | N/A |
-| 47 | [Minha Idade Mental](http://twitter.com/search?q=Minha+Idade+Mental) | N/A |
-| 48 | [#ColdplayCuritiba](http://twitter.com/search?q=%23ColdplayCuritiba) | N/A |
-| 49 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 50 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 38 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 39 | [Parabéns Fred](http://twitter.com/search?q=Parab%c3%a9ns+Fred) | N/A |
+| 40 | [O Gabriel](http://twitter.com/search?q=O+Gabriel) | N/A |
+| 41 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 42 | [Vota](http://twitter.com/search?q=Vota) | N/A |
+| 43 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 44 | [dani calabresa](http://twitter.com/search?q=dani+calabresa) | Dani Calabresa is a Brazilian comedian and actress. She is best known for her work on the comedy show CQC, where she was a regular cast member from 2008 to 2012. The phrase "Dani Calabresa" translates to "Dani from Calabria" in English, referring to her hometown of Calabria in Brazil. |
+| 45 | [leonardo nogueira](http://twitter.com/search?q=leonardo+nogueira) | N/A |
+| 46 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
+| 47 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 48 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
+| 49 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 50 | [#ColdplayCuritiba](http://twitter.com/search?q=%23ColdplayCuritiba) | N/A |
 
 
 

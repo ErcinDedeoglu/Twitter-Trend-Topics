@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-22 06:16:32 UTC`
+📆 Last Updated: `2023-03-22 07:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JednaLista](http://twitter.com/search?q=%23JednaLista) | N/A |
-| 2 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
-| 3 | [Downa](http://twitter.com/search?q=Downa) | N/A |
-| 4 | [#PiStoPRLbis](http://twitter.com/search?q=%23PiStoPRLbis) | N/A |
-| 5 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 6 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
-| 7 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
-| 8 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 9 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
-| 10 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 11 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 12 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 13 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
-| 14 | [starsza](http://twitter.com/search?q=starsza) | N/A |
-| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 16 | [Przyjaciele](http://twitter.com/search?q=Przyjaciele) | N/A |
-| 17 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 18 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 19 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
-| 20 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 21 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
-| 22 | [razem](http://twitter.com/search?q=razem) | N/A |
-| 23 | [wersow](http://twitter.com/search?q=wersow) | N/A |
-| 24 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 25 | [kołodziejczak](http://twitter.com/search?q=ko%c5%82odziejczak) | N/A |
-| 26 | [david badia](http://twitter.com/search?q=david+badia) | N/A |
-| 27 | [najmanem](http://twitter.com/search?q=najmanem) | N/A |
-| 28 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 29 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
-| 30 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
-| 31 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 32 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
-| 33 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
-| 34 | [lechii](http://twitter.com/search?q=lechii) | N/A |
-| 35 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 36 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
-| 37 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
-| 38 | [Ziemkiewicza](http://twitter.com/search?q=Ziemkiewicza) | N/A |
-| 39 | [Skorupski](http://twitter.com/search?q=Skorupski) | N/A |
+| 1 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
+| 2 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 3 | [#JednaLista](http://twitter.com/search?q=%23JednaLista) | N/A |
+| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 5 | [Downa](http://twitter.com/search?q=Downa) | N/A |
+| 6 | [#PiStoPRLbis](http://twitter.com/search?q=%23PiStoPRLbis) | N/A |
+| 7 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 8 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 9 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 10 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
+| 11 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 12 | [Seicento](http://twitter.com/search?q=Seicento) | N/A |
+| 13 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 14 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 15 | [Matysiak](http://twitter.com/search?q=Matysiak) | N/A |
+| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 17 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 18 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 19 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 20 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 21 | [Przyjaciele](http://twitter.com/search?q=Przyjaciele) | N/A |
+| 22 | [Starsza](http://twitter.com/search?q=Starsza) | N/A |
+| 23 | [Aguś](http://twitter.com/search?q=Agu%c5%9b) | N/A |
+| 24 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 26 | [wersow](http://twitter.com/search?q=wersow) | N/A |
+| 27 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
+| 28 | [Kosiniak](http://twitter.com/search?q=Kosiniak) | N/A |
+| 29 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 30 | [RAZEM](http://twitter.com/search?q=RAZEM) | N/A |
+| 31 | [Najmanem](http://twitter.com/search?q=Najmanem) | N/A |
+| 32 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 33 | [Heidelbergu](http://twitter.com/search?q=Heidelbergu) | N/A |
+| 34 | [Władek](http://twitter.com/search?q=W%c5%82adek) | N/A |
+| 35 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 36 | [Leon Zawodowiec](http://twitter.com/search?q=Leon+Zawodowiec) | N/A |
+| 37 | [David Badia](http://twitter.com/search?q=David+Badia) | N/A |
+| 38 | [Moskwa](http://twitter.com/search?q=Moskwa) | N/A |
+| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 40 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 41 | [Leon Zawodowiec](http://twitter.com/search?q=Leon+Zawodowiec) | N/A |
-| 42 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
-| 43 | [vako](http://twitter.com/search?q=vako) | N/A |
-| 44 | [Seba](http://twitter.com/search?q=Seba) | N/A |
-| 45 | [doktorze](http://twitter.com/search?q=doktorze) | N/A |
+| 41 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 42 | [lechię](http://twitter.com/search?q=lechi%c4%99) | N/A |
+| 43 | [czesia](http://twitter.com/search?q=czesia) | N/A |
+| 44 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 45 | [Lewicy](http://twitter.com/search?q=Lewicy) | N/A |
 | 46 | [kaczmarka](http://twitter.com/search?q=kaczmarka) | N/A |
-| 47 | [skin off you heathens](http://twitter.com/search?q=skin+off+you+heathens) | N/A |
-| 48 | [światowy dzień poezji](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+poezji) | N/A |
-| 49 | [skrót](http://twitter.com/search?q=skr%c3%b3t) | N/A |
+| 47 | [Ziemie Odzyskane](http://twitter.com/search?q=Ziemie+Odzyskane) | N/A |
+| 48 | [vako](http://twitter.com/search?q=vako) | N/A |
+| 49 | [Sawicki](http://twitter.com/search?q=Sawicki) | N/A |
 
 
 

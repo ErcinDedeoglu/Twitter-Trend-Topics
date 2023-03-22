@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-22 06:17:04 UTC`
+📆 Last Updated: `2023-03-22 07:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [United States](</United States>)
 | 6 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 7 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
 | 8 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 9 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 9 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
 | 10 | [Dort](http://twitter.com/search?q=Dort) | N/A |
 | 11 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
 | 12 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [United States](</United States>)
 | 15 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
 | 16 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
 | 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 18 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 18 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
 | 19 | [PG13](http://twitter.com/search?q=PG13) | N/A |
-| 20 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 21 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
-| 22 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 23 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 24 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 25 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 26 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 27 | [Prayers for PG](http://twitter.com/search?q=Prayers+for+PG) | N/A |
-| 28 | [Hope PG](http://twitter.com/search?q=Hope+PG) | N/A |
-| 29 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
-| 30 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 20 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 21 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 22 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 23 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 24 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 25 | [Prayers for PG](http://twitter.com/search?q=Prayers+for+PG) | N/A |
+| 26 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 27 | [Yuno](http://twitter.com/search?q=Yuno) | N/A |
+| 28 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 29 | [Hope PG](http://twitter.com/search?q=Hope+PG) | N/A |
+| 30 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
 | 31 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
 | 32 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
 | 33 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 34 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 35 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 36 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 34 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 35 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 36 | [Not PG](http://twitter.com/search?q=Not+PG) | N/A |
 | 37 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 38 | [Not PG](http://twitter.com/search?q=Not+PG) | N/A |
-| 39 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 40 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 41 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
-| 42 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 43 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 44 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 45 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 46 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 47 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 48 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 49 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 50 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 38 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 39 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 40 | [MMPR](http://twitter.com/search?q=MMPR) | N/A |
+| 41 | [Trini](http://twitter.com/search?q=Trini) | N/A |
+| 42 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 43 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
+| 44 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 45 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 46 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 47 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 48 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 49 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 50 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
 
 
 

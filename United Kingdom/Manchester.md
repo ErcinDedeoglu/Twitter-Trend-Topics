@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-22 06:16:22 UTC`
+📆 Last Updated: `2023-03-22 07:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
 | 2 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 3 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 5 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 6 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 7 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
-| 8 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 4 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 5 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 8 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
 | 9 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
 | 10 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 11 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 12 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 13 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 17 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 18 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 19 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 20 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 21 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 22 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
-| 23 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 25 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 26 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 27 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 28 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 29 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 30 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 31 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 32 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 34 | [oakwell](http://twitter.com/search?q=oakwell) | N/A |
-| 35 | [phoenix nights](http://twitter.com/search?q=phoenix+nights) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [mark rowley](http://twitter.com/search?q=mark+rowley) | N/A |
-| 38 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 11 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 15 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 16 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 17 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 18 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 19 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
+| 20 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 21 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 22 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 23 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 24 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 25 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 26 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 28 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 29 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 30 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 31 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
+| 32 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 33 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 36 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 37 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 38 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 39 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 40 | [iorfa](http://twitter.com/search?q=iorfa) | N/A |
-| 41 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 42 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 43 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 44 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 45 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 46 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 47 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 40 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
+| 41 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 42 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 43 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 44 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 45 | [iorfa](http://twitter.com/search?q=iorfa) | N/A |
+| 46 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 47 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
 
 
 
