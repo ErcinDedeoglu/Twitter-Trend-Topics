@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-22 11:16:19 UTC`
+📆 Last Updated: `2023-03-22 12:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 4 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
-| 5 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 6 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 7 | [paléo](http://twitter.com/search?q=pal%c3%a9o) | N/A |
-| 8 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
-| 9 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 10 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 11 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 12 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 13 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 14 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 15 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
+| 5 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 6 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 7 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 8 | [paléo](http://twitter.com/search?q=pal%c3%a9o) | N/A |
+| 9 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 10 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
+| 11 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 13 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 14 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
+| 15 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
 | 16 | [Gier](http://twitter.com/search?q=Gier) | N/A |
-| 17 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 18 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
-| 19 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
-| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 21 | [filz](http://twitter.com/search?q=filz) | N/A |
-| 22 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
-| 23 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 24 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 25 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 26 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 27 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 28 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 29 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 30 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 31 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 32 | [Ueli Maurer](http://twitter.com/search?q=Ueli+Maurer) | N/A |
-| 33 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 34 | [Commission of Inquiry](http://twitter.com/search?q=Commission+of+Inquiry) | N/A |
-| 35 | [Garantien](http://twitter.com/search?q=Garantien) | N/A |
-| 36 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 39 | [juso](http://twitter.com/search?q=juso) | N/A |
-| 40 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 41 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 42 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 43 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 44 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
-| 45 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 46 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 47 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 48 | [Stef](http://twitter.com/search?q=Stef) | N/A |
-| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 50 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
+| 17 | [Filz](http://twitter.com/search?q=Filz) | N/A |
+| 18 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 19 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 20 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 21 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 22 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 23 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
+| 24 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 25 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 26 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 27 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 28 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 29 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 30 | [Commission of Inquiry](http://twitter.com/search?q=Commission+of+Inquiry) | N/A |
+| 31 | [garantien](http://twitter.com/search?q=garantien) | N/A |
+| 32 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
+| 33 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 34 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 37 | [JuSo](http://twitter.com/search?q=JuSo) | N/A |
+| 38 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 39 | [pressekonferenz](http://twitter.com/search?q=pressekonferenz) | N/A |
+| 40 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 41 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
+| 42 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 43 | [ueli](http://twitter.com/search?q=ueli) | N/A |
+| 44 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 45 | [Stef](http://twitter.com/search?q=Stef) | N/A |
+| 46 | [finma](http://twitter.com/search?q=finma) | N/A |
+| 47 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
+| 48 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 49 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 50 | [Insel](http://twitter.com/search?q=Insel) | N/A |
 
 
 

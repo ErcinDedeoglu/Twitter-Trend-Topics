@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-03-22 11:16:36 UTC`
+📆 Last Updated: `2023-03-22 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ReelTokenListing](http://twitter.com/search?q=%23ReelTokenListing) | N/A |
-| 2 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 3 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
-| 4 | [#Prebook_realmeC55](http://twitter.com/search?q=%23Prebook_realmeC55) | N/A |
-| 5 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
-| 6 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
-| 7 | [Help Dhanbad Stay Safe](http://twitter.com/search?q=Help+Dhanbad+Stay+Safe) | N/A |
-| 8 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 9 | [Kuldeep](http://twitter.com/search?q=Kuldeep) | Kuldeep is a Hindu name derived from Sanskrit, meaning "light of the family". It is typically used as a masculine name. |
-| 10 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 11 | [ACTION IS BACK](http://twitter.com/search?q=ACTION+IS+BACK) | N/A |
-| 12 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 13 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 14 | [World Happiness Index](http://twitter.com/search?q=World+Happiness+Index) | N/A |
-| 15 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 16 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 17 | [बिलकिस बानो](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%bf%e0%a4%b8+%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%8b) | N/A |
-| 18 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 19 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 20 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 21 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 22 | [Poster](http://twitter.com/search?q=Poster) | N/A |
-| 23 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
-| 24 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
-| 25 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
-| 26 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 27 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 28 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 29 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
-| 30 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 31 | [Goddess Durga](http://twitter.com/search?q=Goddess+Durga) | N/A |
-| 32 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
-| 33 | [#EndExtortionInDhanbad](http://twitter.com/search?q=%23EndExtortionInDhanbad) | N/A |
-| 34 | [#e4Media_ClassHasNoClass](http://twitter.com/search?q=%23e4Media_ClassHasNoClass) | N/A |
+| 1 | [#HBDDhvaniBhanushali](http://twitter.com/search?q=%23HBDDhvaniBhanushali) | N/A |
+| 2 | [#MrsChatterjeeInspiring](http://twitter.com/search?q=%23MrsChatterjeeInspiring) | N/A |
+| 3 | [#StopFOPNL](http://twitter.com/search?q=%23StopFOPNL) | N/A |
+| 4 | [#ReelTokenListing](http://twitter.com/search?q=%23ReelTokenListing) | N/A |
+| 5 | [JalDiwas By ABP And Dhanuka](http://twitter.com/search?q=JalDiwas+By+ABP+And+Dhanuka) | N/A |
+| 6 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
+| 7 | [Kuldeep](http://twitter.com/search?q=Kuldeep) | Kuldeep is a Hindu name derived from Sanskrit, meaning "light of the family". It is typically used as a masculine name. |
+| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 9 | [Help Dhanbad Stay Safe](http://twitter.com/search?q=Help+Dhanbad+Stay+Safe) | N/A |
+| 10 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 11 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
+| 12 | [Madesh](http://twitter.com/search?q=Madesh) | N/A |
+| 13 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 14 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 15 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 16 | [ACTION IS BACK](http://twitter.com/search?q=ACTION+IS+BACK) | N/A |
+| 17 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 18 | [Yamuna](http://twitter.com/search?q=Yamuna) | N/A |
+| 19 | [World Happiness Index](http://twitter.com/search?q=World+Happiness+Index) | N/A |
+| 20 | [Mitchell Marsh](http://twitter.com/search?q=Mitchell+Marsh) | N/A |
+| 21 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 22 | [बिलकिस बानो](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%bf%e0%a4%b8+%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%8b) | N/A |
+| 23 | [Uncle Ji](http://twitter.com/search?q=Uncle+Ji) | N/A |
+| 24 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 25 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 26 | [travis head](http://twitter.com/search?q=travis+head) | N/A |
+| 27 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 28 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
+| 29 | [Poster](http://twitter.com/search?q=Poster) | N/A |
+| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 31 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
+| 32 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
+| 33 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 34 | [#EndExtortionInDhanbad](http://twitter.com/search?q=%23EndExtortionInDhanbad) | N/A |
 | 35 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 36 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
-| 37 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
-| 38 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
-| 39 | [#BiharDiwas2023](http://twitter.com/search?q=%23BiharDiwas2023) | N/A |
-| 40 | [#बिहार_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 41 | [#BilkisBano](http://twitter.com/search?q=%23BilkisBano) | N/A |
-| 42 | [#ArrestMeToo_stalin](http://twitter.com/search?q=%23ArrestMeToo_stalin) | N/A |
+| 36 | [#Prebook_realmeC55](http://twitter.com/search?q=%23Prebook_realmeC55) | N/A |
+| 37 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
+| 38 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
+| 39 | [#VNRTrio](http://twitter.com/search?q=%23VNRTrio) | N/A |
+| 40 | [#Ugadi](http://twitter.com/search?q=%23Ugadi) | N/A |
+| 41 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
+| 42 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
 | 43 | [#Chepauk](http://twitter.com/search?q=%23Chepauk) | N/A |
-| 44 | [#VNRTrio](http://twitter.com/search?q=%23VNRTrio) | N/A |
-| 45 | [#DelhiBudget2023](http://twitter.com/search?q=%23DelhiBudget2023) | N/A |
-| 46 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
-| 47 | [#नव_संवतसर_2080](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5_%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%a4%e0%a4%b8%e0%a4%b0_2080) | N/A |
-| 48 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 49 | [#navvarsh](http://twitter.com/search?q=%23navvarsh) | N/A |
-| 50 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
+| 44 | [#BiharDiwas](http://twitter.com/search?q=%23BiharDiwas) | N/A |
+| 45 | [#Kantara2](http://twitter.com/search?q=%23Kantara2) | N/A |
+| 46 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 47 | [#BritishHighCommission](http://twitter.com/search?q=%23BritishHighCommission) | N/A |
+| 48 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
+| 49 | [#DelhiBudget2023](http://twitter.com/search?q=%23DelhiBudget2023) | N/A |
+| 50 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
 
 
 

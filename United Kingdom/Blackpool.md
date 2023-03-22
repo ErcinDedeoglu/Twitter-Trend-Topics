@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-22 11:16:01 UTC`
+📆 Last Updated: `2023-03-22 12:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 2 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 3 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
-| 4 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 5 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 6 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 7 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
-| 8 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 9 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 10 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 11 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 12 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 13 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 14 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 15 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 16 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 17 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
-| 18 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
-| 19 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 20 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 21 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 22 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 23 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 24 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 25 | [Keith Palmer](http://twitter.com/search?q=Keith+Palmer) | N/A |
-| 26 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 27 | [10.4% in February](http://twitter.com/search?q=10.4%25+in+February) | N/A |
-| 28 | [Freddie Steward](http://twitter.com/search?q=Freddie+Steward) | N/A |
-| 29 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 30 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 31 | [King James Bible](http://twitter.com/search?q=King+James+Bible) | N/A |
-| 32 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 33 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 34 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 35 | [Surprise](http://twitter.com/search?q=Surprise) | N/A |
-| 36 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
-| 37 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 38 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 39 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 40 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 41 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 42 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
-| 43 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 44 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 45 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 46 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 47 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 49 | [Russia and China](http://twitter.com/search?q=Russia+and+China) | N/A |
-| 50 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 3 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 4 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 5 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 6 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
+| 7 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 8 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 9 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 10 | [#AIUK](http://twitter.com/search?q=%23AIUK) | N/A |
+| 11 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 12 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 13 | [#TowergateChick](http://twitter.com/search?q=%23TowergateChick) | N/A |
+| 14 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 15 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 16 | [#ClimateCrisis](http://twitter.com/search?q=%23ClimateCrisis) | N/A |
+| 17 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
+| 18 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 19 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 21 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 22 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 23 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 24 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 25 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 26 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
+| 27 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
+| 28 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
+| 29 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 30 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 31 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 33 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
+| 34 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
+| 35 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 36 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
+| 37 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
+| 38 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
+| 39 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
+| 40 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 41 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 42 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 43 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 44 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 45 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 46 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 47 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 48 | [ray wilkins](http://twitter.com/search?q=ray+wilkins) | N/A |
+| 49 | [Leith](http://twitter.com/search?q=Leith) | N/A |
+| 50 | [10.4% in February](http://twitter.com/search?q=10.4%25+in+February) | N/A |
 
 
 

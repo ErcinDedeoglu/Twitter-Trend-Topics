@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-22 11:16:13 UTC`
+📆 Last Updated: `2023-03-22 12:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 2 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 5 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
+| 1 | [#WorldDownSyndromeDay](http://twitter.com/search?q=%23WorldDownSyndromeDay) | N/A |
+| 2 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 3 | [#WeConsent](http://twitter.com/search?q=%23WeConsent) | N/A |
+| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 5 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 6 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 7 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 8 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 9 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 10 | [Gript](http://twitter.com/search?q=Gript) | N/A |
-| 11 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 12 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 13 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 14 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
-| 15 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 10 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [Steward](http://twitter.com/search?q=Steward) | N/A |
+| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 16 | [Brigid](http://twitter.com/search?q=Brigid) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Steward](http://twitter.com/search?q=Steward) | N/A |
-| 19 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 20 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 21 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 22 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 24 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 25 | [Matt Doherty](http://twitter.com/search?q=Matt+Doherty) | N/A |
-| 26 | [Late Late Show](http://twitter.com/search?q=Late+Late+Show) | N/A |
-| 27 | [Mary Fitzpatrick](http://twitter.com/search?q=Mary+Fitzpatrick) | N/A |
-| 28 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 30 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 31 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 32 | [Sinn Féin](http://twitter.com/search?q=Sinn+F%c3%a9in) | N/A |
-| 33 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 36 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 37 | [Catriona](http://twitter.com/search?q=Catriona) | Catriona is a Scottish female name derived from the Gaelic name Caitríona, which means "pure" or "chaste". |
-| 38 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 39 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
-| 40 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 41 | [Varadkar](http://twitter.com/search?q=Varadkar) | N/A |
-| 42 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 43 | [clonmel](http://twitter.com/search?q=clonmel) | N/A |
-| 44 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 45 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
-| 46 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 47 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 48 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 17 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 18 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
+| 19 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 21 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 22 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 23 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 25 | [Late Late Show](http://twitter.com/search?q=Late+Late+Show) | N/A |
+| 26 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 27 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 28 | [matt doherty](http://twitter.com/search?q=matt+doherty) | N/A |
+| 29 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 30 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 31 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
+| 32 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 33 | [Mary Fitzpatrick](http://twitter.com/search?q=Mary+Fitzpatrick) | N/A |
+| 34 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 35 | [Sinn Féin](http://twitter.com/search?q=Sinn+F%c3%a9in) | N/A |
+| 36 | [The Taoiseach](http://twitter.com/search?q=The+Taoiseach) | N/A |
+| 37 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 38 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 39 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 40 | [Catriona](http://twitter.com/search?q=Catriona) | Catriona is a Scottish female name derived from the Gaelic name Caitríona, which means "pure" or "chaste". |
+| 41 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
+| 42 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [clonmel](http://twitter.com/search?q=clonmel) | N/A |
+| 45 | [Revolut](http://twitter.com/search?q=Revolut) | N/A |
+| 46 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 47 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 48 | [Ben Scallan](http://twitter.com/search?q=Ben+Scallan) | N/A |
 
 
 

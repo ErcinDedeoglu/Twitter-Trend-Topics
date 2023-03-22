@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-22 11:16:34 UTC`
+📆 Last Updated: `2023-03-22 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
 | 5 | [#AmericanStoogeIK](http://twitter.com/search?q=%23AmericanStoogeIK) | N/A |
 | 6 | [ya allah reham](http://twitter.com/search?q=ya+allah+reham) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 8 | [smile train](http://twitter.com/search?q=smile+train) | N/A |
-| 9 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 10 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 11 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
+| 7 | [anwar maqsood](http://twitter.com/search?q=anwar+maqsood) | N/A |
+| 8 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
+| 9 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 10 | [Zalmay](http://twitter.com/search?q=Zalmay) | N/A |
+| 11 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
 | 12 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 13 | [Zalmay](http://twitter.com/search?q=Zalmay) | N/A |
-| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 15 | [brigadier mustafa kamal barki](http://twitter.com/search?q=brigadier+mustafa+kamal+barki) | N/A |
+| 13 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 14 | [faisalabad](http://twitter.com/search?q=faisalabad) | N/A |
+| 15 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
 | 16 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
-| 17 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 18 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
-| 19 | [stay safe everyone](http://twitter.com/search?q=stay+safe+everyone) | N/A |
-| 20 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
-| 21 | [Angoor Adda](http://twitter.com/search?q=Angoor+Adda) | N/A |
-| 22 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 23 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 24 | [Astaghfirullah](http://twitter.com/search?q=Astaghfirullah) | N/A |
-| 25 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 26 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
-| 27 | [Thek](http://twitter.com/search?q=Thek) | N/A |
-| 28 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 29 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 30 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 31 | [Infront](http://twitter.com/search?q=Infront) | N/A |
-| 32 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 33 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 34 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 35 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
-| 36 | [Sindhis](http://twitter.com/search?q=Sindhis) | N/A |
-| 37 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 38 | [Model Town](http://twitter.com/search?q=Model+Town) | N/A |
-| 39 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 40 | [Mazay](http://twitter.com/search?q=Mazay) | N/A |
-| 41 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
-| 42 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
-| 43 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 44 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 45 | [Truck](http://twitter.com/search?q=Truck) | N/A |
-| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 47 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
-| 48 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
-| 49 | [Location](http://twitter.com/search?q=Location) | N/A |
-| 50 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 17 | [stay safe everyone](http://twitter.com/search?q=stay+safe+everyone) | N/A |
+| 18 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
+| 19 | [Angoor Adda](http://twitter.com/search?q=Angoor+Adda) | N/A |
+| 20 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 21 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 22 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 23 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 24 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 25 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 26 | [TOSHAKHANA](http://twitter.com/search?q=TOSHAKHANA) | N/A |
+| 27 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 28 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 29 | [Truck](http://twitter.com/search?q=Truck) | N/A |
+| 30 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 31 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
+| 32 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 33 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 34 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
+| 35 | [Thek](http://twitter.com/search?q=Thek) | N/A |
+| 36 | [Mazay](http://twitter.com/search?q=Mazay) | N/A |
+| 37 | [Location](http://twitter.com/search?q=Location) | N/A |
+| 38 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 39 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 40 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
+| 41 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
+| 42 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 43 | [Masha](http://twitter.com/search?q=Masha) | N/A |
+| 44 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 45 | [Nailed](http://twitter.com/search?q=Nailed) | N/A |
+| 46 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 47 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
+| 48 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 50 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
 
 
 

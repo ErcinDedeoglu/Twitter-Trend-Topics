@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-22 11:16:47 UTC`
+📆 Last Updated: `2023-03-22 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 2 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 2 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 | 3 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 5 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 8 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 9 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 10 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 12 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 13 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 14 | [#推特代发](http://twitter.com/search?q=%23%e6%8e%a8%e7%89%b9%e4%bb%a3%e5%8f%91) | N/A |
-| 15 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 17 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
-| 18 | [Dort](http://twitter.com/search?q=Dort) | N/A |
-| 19 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 20 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 21 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
-| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 24 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 25 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
-| 26 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
-| 27 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 28 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 29 | [PG13](http://twitter.com/search?q=PG13) | N/A |
-| 30 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 31 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 32 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 33 | [Congrats to Japan](http://twitter.com/search?q=Congrats+to+Japan) | N/A |
-| 34 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 35 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 36 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 37 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 38 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 39 | [Betts](http://twitter.com/search?q=Betts) | N/A |
-| 40 | [KYLE SCHWARBER](http://twitter.com/search?q=KYLE+SCHWARBER) | N/A |
-| 41 | [Van Halen](http://twitter.com/search?q=Van+Halen) | N/A |
-| 42 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 43 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 44 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 45 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 46 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 47 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 48 | [Gumby](http://twitter.com/search?q=Gumby) | N/A |
-| 49 | [#Wordle641](http://twitter.com/search?q=%23Wordle641) | N/A |
-| 50 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 6 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 7 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 10 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 12 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 13 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 14 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 15 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 16 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 17 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 18 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 19 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 21 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 22 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 24 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 25 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
+| 26 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
+| 27 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 28 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 30 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 31 | [Trini](http://twitter.com/search?q=Trini) | N/A |
+| 32 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 33 | [damn pg](http://twitter.com/search?q=damn+pg) | N/A |
+| 34 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 35 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 36 | [PG13](http://twitter.com/search?q=PG13) | N/A |
+| 37 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 38 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 39 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 40 | [Congrats to Japan](http://twitter.com/search?q=Congrats+to+Japan) | N/A |
+| 41 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 42 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 43 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 44 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
+| 45 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 46 | [Springsteen](http://twitter.com/search?q=Springsteen) | N/A |
+| 47 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 48 | [Van Halen](http://twitter.com/search?q=Van+Halen) | N/A |
+| 49 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 50 | [#WVUDayofGiving](http://twitter.com/search?q=%23WVUDayofGiving) | N/A |
 
 
 

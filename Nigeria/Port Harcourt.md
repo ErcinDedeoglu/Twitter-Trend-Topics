@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-22 11:16:29 UTC`
+📆 Last Updated: `2023-03-22 12:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 1 | [#TOEat60](http://twitter.com/search?q=%23TOEat60) | N/A |
 | 2 | [#GoldenPennyNoodles](http://twitter.com/search?q=%23GoldenPennyNoodles) | N/A |
-| 3 | [#TOEat60](http://twitter.com/search?q=%23TOEat60) | N/A |
-| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 5 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
-| 6 | [Igbo](http://twitter.com/search?q=Igbo) | N/A |
-| 7 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 8 | [Yoruba](http://twitter.com/search?q=Yoruba) | N/A |
-| 9 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 10 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 11 | [Babcock](http://twitter.com/search?q=Babcock) | N/A |
-| 12 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 13 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 14 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
-| 15 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
-| 16 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
-| 17 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
-| 18 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 19 | [paripesa nigeria](http://twitter.com/search?q=paripesa+nigeria) | N/A |
-| 20 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 21 | [HE'S BACK](http://twitter.com/search?q=HE%27S+BACK) | N/A |
-| 22 | [Chicago University](http://twitter.com/search?q=Chicago+University) | N/A |
-| 23 | [SANs](http://twitter.com/search?q=SANs) | N/A |
-| 24 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
-| 25 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
-| 26 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 27 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 28 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
-| 29 | [Ibeto](http://twitter.com/search?q=Ibeto) | N/A |
-| 30 | [US DEA](http://twitter.com/search?q=US+DEA) | N/A |
-| 31 | [Olanipekun](http://twitter.com/search?q=Olanipekun) | N/A |
-| 32 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
-| 33 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 3 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 5 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 6 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 7 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 8 | [Twitter SAN](http://twitter.com/search?q=Twitter+SAN) | N/A |
+| 9 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 10 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 11 | [Obi and LP](http://twitter.com/search?q=Obi+and+LP) | N/A |
+| 12 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
+| 13 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
+| 14 | [Ibeto](http://twitter.com/search?q=Ibeto) | N/A |
+| 15 | [Olanipekun](http://twitter.com/search?q=Olanipekun) | N/A |
+| 16 | [Chicago University](http://twitter.com/search?q=Chicago+University) | N/A |
+| 17 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
+| 18 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 20 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 21 | [SANs](http://twitter.com/search?q=SANs) | N/A |
+| 22 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 23 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 24 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 25 | [Dangote](http://twitter.com/search?q=Dangote) | N/A |
+| 26 | [Victony](http://twitter.com/search?q=Victony) | N/A |
+| 27 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 28 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 29 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 30 | [Festus](http://twitter.com/search?q=Festus) | N/A |
+| 31 | [Ramadan Kareem](http://twitter.com/search?q=Ramadan+Kareem) | N/A |
+| 32 | [Abia and Enugu](http://twitter.com/search?q=Abia+and+Enugu) | N/A |
+| 33 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
 | 34 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 35 | [Go to Court](http://twitter.com/search?q=Go+to+Court) | N/A |
-| 36 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 37 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
-| 38 | [Okwute](http://twitter.com/search?q=Okwute) | N/A |
-| 39 | [Section 137](http://twitter.com/search?q=Section+137) | N/A |
-| 40 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 41 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 42 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 43 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 44 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 45 | [Onyeka](http://twitter.com/search?q=Onyeka) | N/A |
-| 46 | [Pastor Adeboye](http://twitter.com/search?q=Pastor+Adeboye) | N/A |
-| 47 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 48 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 35 | [Lawyer](http://twitter.com/search?q=Lawyer) | N/A |
+| 36 | [My Lord](http://twitter.com/search?q=My+Lord) | N/A |
+| 37 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 38 | [Biafran](http://twitter.com/search?q=Biafran) | N/A |
+| 39 | [Drug](http://twitter.com/search?q=Drug) | N/A |
+| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 41 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 42 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
+| 43 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 44 | [#KudaBankScam](http://twitter.com/search?q=%23KudaBankScam) | N/A |
+| 45 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 46 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 47 | [#Babcock](http://twitter.com/search?q=%23Babcock) | N/A |
+| 48 | [#ObiIsComing](http://twitter.com/search?q=%23ObiIsComing) | N/A |
 
 
 

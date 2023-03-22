@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-22 11:16:14 UTC`
+📆 Last Updated: `2023-03-22 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,49 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 2 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
-| 3 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 4 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
-| 5 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
-| 6 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 7 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 8 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 10 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 13 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 14 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 15 | [Eric Blanc](http://twitter.com/search?q=Eric+Blanc) | N/A |
-| 16 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 17 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 18 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 19 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 20 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
-| 21 | [9 voix](http://twitter.com/search?q=9+voix) | N/A |
-| 22 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 23 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 24 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
-| 25 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 26 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 27 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
-| 28 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 29 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
-| 30 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 31 | [Nabil Djellit](http://twitter.com/search?q=Nabil+Djellit) | N/A |
-| 32 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 33 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 34 | [Pesquet](http://twitter.com/search?q=Pesquet) | N/A |
-| 35 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
-| 36 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 37 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 38 | [Premier Baiser](http://twitter.com/search?q=Premier+Baiser) | N/A |
-| 39 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 40 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 41 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 43 | [MonMaster](http://twitter.com/search?q=MonMaster) | N/A |
-| 44 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 45 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 46 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 47 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 48 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 49 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 50 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 2 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
+| 3 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 4 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 5 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 6 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
+| 7 | [Manuel Valls](http://twitter.com/search?q=Manuel+Valls) | N/A |
+| 8 | [Transformers](http://twitter.com/search?q=Transformers) | N/A |
+| 9 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 10 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
+| 11 | [Bretons](http://twitter.com/search?q=Bretons) | N/A |
+| 12 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 13 | [Emmanuelle](http://twitter.com/search?q=Emmanuelle) | N/A |
+| 14 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 15 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 16 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 17 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 18 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 19 | [Victor Hugo](http://twitter.com/search?q=Victor+Hugo) | N/A |
+| 20 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 21 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 22 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
+| 23 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 24 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
+| 25 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 26 | [Gilets Jaunes](http://twitter.com/search?q=Gilets+Jaunes) | N/A |
+| 27 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
+| 28 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 29 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 30 | [#AvecLePrésident](http://twitter.com/search?q=%23AvecLePr%c3%a9sident) | N/A |
+| 31 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 32 | [#JT13h](http://twitter.com/search?q=%23JT13h) | N/A |
+| 33 | [#DeLeauDansUnTitre](http://twitter.com/search?q=%23DeLeauDansUnTitre) | N/A |
+| 34 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
+| 35 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 36 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 37 | [#EmmanuelMacron](http://twitter.com/search?q=%23EmmanuelMacron) | N/A |
+| 38 | [#morningdedifool](http://twitter.com/search?q=%23morningdedifool) | N/A |
+| 39 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 40 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 41 | [#PBW2023](http://twitter.com/search?q=%23PBW2023) | N/A |
+| 42 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 43 | [#ComeBackVilainSyndicaliste](http://twitter.com/search?q=%23ComeBackVilainSyndicaliste) | N/A |
+| 44 | [#environnement](http://twitter.com/search?q=%23environnement) | N/A |
 
 
 
