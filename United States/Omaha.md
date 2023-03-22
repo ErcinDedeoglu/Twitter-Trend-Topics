@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-03-22 16:17:47 UTC`
+📆 Last Updated: `2023-03-22 17:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 2 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 3 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 3 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
 | 4 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 5 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 10 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 11 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 12 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 13 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 14 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 15 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 16 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 17 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 18 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 20 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 21 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 22 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
-| 23 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 24 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 25 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 26 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
-| 27 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
-| 28 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
-| 29 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 30 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 31 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 32 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 33 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
-| 34 | [Goten](http://twitter.com/search?q=Goten) | N/A |
-| 35 | [Karl-Anthony Towns](http://twitter.com/search?q=Karl-Anthony+Towns) | N/A |
-| 36 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
-| 37 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 38 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 39 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 40 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 41 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 42 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 43 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 5 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 6 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 7 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 9 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 10 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 11 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 12 | [Puff](http://twitter.com/search?q=Puff) | N/A |
+| 13 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 14 | [CSGO 2](http://twitter.com/search?q=CSGO+2) | N/A |
+| 15 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 16 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 17 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 18 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 19 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 20 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 21 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 22 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
+| 25 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 26 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 27 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 28 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 29 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 30 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
+| 31 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 32 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
+| 33 | [State of Unreal](http://twitter.com/search?q=State+of+Unreal) | N/A |
+| 34 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
+| 35 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 36 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 37 | [Mamie](http://twitter.com/search?q=Mamie) | N/A |
+| 38 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 39 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 40 | [Goten](http://twitter.com/search?q=Goten) | N/A |
+| 41 | [Skyjay](http://twitter.com/search?q=Skyjay) | N/A |
+| 42 | [Summer 2023](http://twitter.com/search?q=Summer+2023) | N/A |
+| 43 | [Mary Poppins](http://twitter.com/search?q=Mary+Poppins) | N/A |
 | 44 | [Maren Morris](http://twitter.com/search?q=Maren+Morris) | N/A |
-| 45 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 46 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 47 | [Clue](http://twitter.com/search?q=Clue) | N/A |
-| 48 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 45 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 46 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
+| 47 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 48 | [Jalen Mills](http://twitter.com/search?q=Jalen+Mills) | N/A |
 
 
 

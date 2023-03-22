@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-22 16:17:07 UTC`
+📆 Last Updated: `2023-03-22 17:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 2 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
-| 3 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 4 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 5 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
-| 6 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 7 | [frank warren](http://twitter.com/search?q=frank+warren) | N/A |
-| 8 | [Simon Case](http://twitter.com/search?q=Simon+Case) | N/A |
-| 9 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
-| 10 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 11 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
-| 12 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 13 | [#ToriesOut258](http://twitter.com/search?q=%23ToriesOut258) | N/A |
-| 14 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 15 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
-| 16 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 17 | [Bone](http://twitter.com/search?q=Bone) | N/A |
-| 18 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
-| 19 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 20 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 22 | [Sir Bernard](http://twitter.com/search?q=Sir+Bernard) | N/A |
-| 23 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 24 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 25 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 26 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 27 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 28 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
-| 29 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 30 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 31 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 1 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 2 | [#kangaroocourt](http://twitter.com/search?q=%23kangaroocourt) | N/A |
+| 3 | [#O2SamsungS23](http://twitter.com/search?q=%23O2SamsungS23) | N/A |
+| 4 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Carrie](http://twitter.com/search?q=Carrie) | Carrie is a 1976 horror novel by American author Stephen King. It tells the story of Carrie White, a shy and troubled teenage girl who discovers she has telekinetic powers. The novel explores the themes of bullying, abuse, and revenge. |
+| 7 | [#BAFTATVAwards](http://twitter.com/search?q=%23BAFTATVAwards) | N/A |
+| 8 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 9 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 12 | [Chamberlain](http://twitter.com/search?q=Chamberlain) | Chamberlain is an old English word meaning "steward" or "manager". It was originally used to refer to a person who managed the household of a noble or royal family. Today, it is often used to refer to a person who is in charge of managing the affairs of a government or organization. |
+| 13 | [Lockdown](http://twitter.com/search?q=Lockdown) | N/A |
+| 14 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 15 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 16 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 18 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 19 | [Bernard Jenkin](http://twitter.com/search?q=Bernard+Jenkin) | N/A |
+| 20 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 21 | [Alberto Costa](http://twitter.com/search?q=Alberto+Costa) | N/A |
+| 22 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 23 | [Marsupials](http://twitter.com/search?q=Marsupials) | N/A |
+| 24 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 25 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 26 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 27 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 28 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 29 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 30 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
+| 31 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
 | 32 | [Lee Cain](http://twitter.com/search?q=Lee+Cain) | N/A |
-| 33 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
-| 34 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 35 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 36 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 37 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 38 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 39 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 40 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 41 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 42 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 43 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 44 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
-| 45 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 46 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
-| 47 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 48 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 49 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 33 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 34 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 35 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 36 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
+| 37 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 38 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 39 | [Eton](http://twitter.com/search?q=Eton) | N/A |
+| 40 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 41 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 42 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 43 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 44 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 45 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 46 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 47 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
+| 48 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 49 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
 
 
 

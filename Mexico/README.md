@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-22 16:17:54 UTC`
+📆 Last Updated: `2023-03-22 17:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,36 +18,48 @@ This is top 50 for Mexico
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
 | 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [#PoderosoFilosito](http://twitter.com/search?q=%23PoderosoFilosito) | N/A |
-| 5 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 6 | [#CuidaElAgua](http://twitter.com/search?q=%23CuidaElAgua) | N/A |
+| 4 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 5 | [#PoderosoFilosito](http://twitter.com/search?q=%23PoderosoFilosito) | N/A |
+| 6 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
 | 7 | [#HimnoDeKorno](http://twitter.com/search?q=%23HimnoDeKorno) | N/A |
-| 8 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 9 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 10 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 11 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
-| 12 | [Choix](http://twitter.com/search?q=Choix) | N/A |
-| 13 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 14 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 15 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 16 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 17 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 18 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
-| 19 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 20 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 21 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 22 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 23 | [ESENCIA](http://twitter.com/search?q=ESENCIA) | N/A |
-| 24 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 25 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 26 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 27 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 28 | [#22deMarzo](http://twitter.com/search?q=%2322deMarzo) | N/A |
-| 29 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
-| 30 | [#Jinx](http://twitter.com/search?q=%23Jinx) | N/A |
-| 31 | [#JusticiaParaBeatriz](http://twitter.com/search?q=%23JusticiaParaBeatriz) | N/A |
-| 32 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 33 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
+| 8 | [#CuidaElAgua](http://twitter.com/search?q=%23CuidaElAgua) | N/A |
+| 9 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 10 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
+| 11 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 12 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
+| 13 | [Cerocahui](http://twitter.com/search?q=Cerocahui) | N/A |
+| 14 | [Bodrio](http://twitter.com/search?q=Bodrio) | N/A |
+| 15 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 16 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 17 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 18 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 19 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 20 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
+| 21 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 22 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 23 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
+| 24 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 25 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 26 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 27 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 28 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 29 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 30 | [ESENCIA](http://twitter.com/search?q=ESENCIA) | N/A |
+| 31 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 32 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 33 | [WELCOME TO THE QSMP](http://twitter.com/search?q=WELCOME+TO+THE+QSMP) | N/A |
+| 34 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 35 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 36 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 37 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 38 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
+| 39 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 40 | [#FrenemosElAborto](http://twitter.com/search?q=%23FrenemosElAborto) | N/A |
+| 41 | [#22DeMarzo](http://twitter.com/search?q=%2322DeMarzo) | N/A |
+| 42 | [#sismo](http://twitter.com/search?q=%23sismo) | N/A |
+| 43 | [#Jinx](http://twitter.com/search?q=%23Jinx) | N/A |
+| 44 | [#JusticiaParaBeatriz](http://twitter.com/search?q=%23JusticiaParaBeatriz) | N/A |
+| 45 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
 
 
 

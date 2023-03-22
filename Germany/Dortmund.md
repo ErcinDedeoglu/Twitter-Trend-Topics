@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-22 16:17:17 UTC`
+📆 Last Updated: `2023-03-22 17:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
 | 2 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
-| 3 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 4 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
-| 5 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 6 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 3 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 4 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 5 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
+| 6 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
 | 7 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 8 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 9 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 11 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
 | 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 13 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 14 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 17 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 18 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 19 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
-| 20 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 21 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 22 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
-| 23 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 24 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 25 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 26 | [typisch söder](http://twitter.com/search?q=typisch+s%c3%b6der) | N/A |
-| 27 | [Welches Vertrauen](http://twitter.com/search?q=Welches+Vertrauen) | N/A |
-| 28 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 29 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 30 | [Polizeibeamte und Soldaten](http://twitter.com/search?q=Polizeibeamte+und+Soldaten) | N/A |
-| 31 | [Feinde der Demokratie](http://twitter.com/search?q=Feinde+der+Demokratie) | N/A |
-| 32 | [Migrantengewalt](http://twitter.com/search?q=Migrantengewalt) | N/A |
-| 33 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
-| 34 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 35 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 13 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
+| 14 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 15 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 16 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
+| 17 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 18 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 19 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 21 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 23 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
+| 24 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 25 | [Ausbau des Bundeskanzleramts](http://twitter.com/search?q=Ausbau+des+Bundeskanzleramts) | N/A |
+| 26 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 27 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 29 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
+| 30 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 31 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 32 | [Welches Vertrauen](http://twitter.com/search?q=Welches+Vertrauen) | N/A |
+| 33 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 34 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 35 | [typisch söder](http://twitter.com/search?q=typisch+s%c3%b6der) | N/A |
 | 36 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 37 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 38 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 39 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 40 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 41 | [Latinum](http://twitter.com/search?q=Latinum) | N/A |
-| 42 | [kasachstan](http://twitter.com/search?q=kasachstan) | N/A |
-| 43 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 44 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
-| 45 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 46 | [Fremdsprache](http://twitter.com/search?q=Fremdsprache) | N/A |
-| 47 | [Prostitution](http://twitter.com/search?q=Prostitution) | N/A |
-| 48 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 37 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
+| 38 | [Migrantengewalt](http://twitter.com/search?q=Migrantengewalt) | N/A |
+| 39 | [Latinum](http://twitter.com/search?q=Latinum) | N/A |
+| 40 | [Polizeibeamte und Soldaten](http://twitter.com/search?q=Polizeibeamte+und+Soldaten) | N/A |
+| 41 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 42 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
+| 43 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 44 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 45 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 46 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 47 | [Fremdsprache](http://twitter.com/search?q=Fremdsprache) | N/A |
+| 48 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 
 
 

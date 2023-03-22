@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-22 16:17:33 UTC`
+📆 Last Updated: `2023-03-22 17:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#التدريب_التقني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8_%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
-| 2 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 3 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 4 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 5 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 6 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 7 | [#رمضان](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 8 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 9 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 10 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
-| 11 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 12 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 13 | [لويز](http://twitter.com/search?q=%d9%84%d9%88%d9%8a%d8%b2) | N/A |
-| 14 | [علي الوجه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ac%d9%87) | N/A |
-| 15 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
-| 16 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 17 | [شهر الطاعات](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d8%b9%d8%a7%d8%aa) | N/A |
+| 1 | [#ولي_العهد](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 2 | [واليمن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a%d9%85%d9%86) | N/A |
+| 3 | [التوقيت الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
+| 4 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 5 | [#التدريب_التقني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8_%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
+| 6 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 7 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 8 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 9 | [#كل_عام_وانتم_بخير](http://twitter.com/search?q=%23%d9%83%d9%84_%d8%b9%d8%a7%d9%85_%d9%88%d8%a7%d9%86%d8%aa%d9%85_%d8%a8%d8%ae%d9%8a%d8%b1) | N/A |
+| 10 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 11 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 12 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 13 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 14 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 15 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 16 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 17 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
 | 18 | [الجميع الصيام](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 19 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 19 | [علي الوجه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ac%d9%87) | N/A |
 | 20 | [الشعب السعودي الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 21 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 22 | [الصايمين القايمين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d9%85%d9%8a%d9%86) | N/A |
-| 23 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 24 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 25 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 26 | [اسعد الليالي](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a) | N/A |
-| 27 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 28 | [الاعمال الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 29 | [لحسن العمل](http://twitter.com/search?q=%d9%84%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 30 | [باغي الخير](http://twitter.com/search?q=%d8%a8%d8%a7%d8%ba%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 31 | [غروب شمس](http://twitter.com/search?q=%d8%ba%d8%b1%d9%88%d8%a8+%d8%b4%d9%85%d8%b3) | N/A |
-| 32 | [الامتين العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 33 | [المقبولين الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
+| 21 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
+| 22 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 23 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 24 | [بابا سلمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 25 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
+| 26 | [يابو فهد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%87%d8%af) | N/A |
+| 27 | [الامتين العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 28 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 29 | [شهر الطاعات](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d8%b9%d8%a7%d8%aa) | N/A |
+| 30 | [الصايمين القايمين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 32 | [الاعمال الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 33 | [لويز](http://twitter.com/search?q=%d9%84%d9%88%d9%8a%d8%b2) | N/A |
 | 34 | [علي البلاغ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%ba) | N/A |
-| 35 | [شهر القران](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
-| 36 | [هلال رشد](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b1%d8%b4%d8%af) | N/A |
+| 35 | [اسعد الليالي](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a) | N/A |
+| 36 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 37 | [شهر غفران](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ba%d9%81%d8%b1%d8%a7%d9%86) | N/A |
-| 38 | [صالح القول](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%82%d9%88%d9%84) | N/A |
-| 39 | [الاعوام السابقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82%d9%87) | N/A |
-| 40 | [راي الهلال](http://twitter.com/search?q=%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 41 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 42 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | N/A |
-| 43 | [القصه الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d9%87+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 44 | [اجمل التهاني](http://twitter.com/search?q=%d8%a7%d8%ac%d9%85%d9%84+%d8%a7%d9%84%d8%aa%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 45 | [العمل الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 46 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 47 | [العادات السييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%8a%d9%8a%d9%87) | N/A |
-| 48 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 49 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 50 | [شهر العتق](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b9%d8%aa%d9%82) | N/A |
+| 38 | [المقبولين الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%88%d9%84%d9%8a%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
+| 39 | [سيدي ولي العهد](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 40 | [شهر القران](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 41 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 42 | [الصوامين القوامين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d9%88%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 43 | [صالح القول](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d9%82%d9%88%d9%84) | N/A |
+| 44 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | N/A |
+| 45 | [الاعوام السابقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82%d9%87) | N/A |
+| 46 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 47 | [باغي الخير](http://twitter.com/search?q=%d8%a8%d8%a7%d8%ba%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 48 | [لحسن العمل](http://twitter.com/search?q=%d9%84%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 49 | [شهره الفضيل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%87+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 50 | [هلال رشد](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b1%d8%b4%d8%af) | N/A |
 
 
 

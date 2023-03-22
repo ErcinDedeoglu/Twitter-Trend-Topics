@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-22 16:17:12 UTC`
+📆 Last Updated: `2023-03-22 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Rafinha](http://twitter.com/search?q=Rafinha) | Rafinha is a Portuguese nickname meaning "little refined one". It is often used as a term of endearment for someone who is small and delicate. |
 | 2 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
 | 3 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 4 | [BILLIERS COM BUD NO LOLLABR](http://twitter.com/search?q=BILLIERS+COM+BUD+NO+LOLLABR) | N/A |
-| 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 6 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 7 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 8 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 9 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
-| 10 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 11 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 12 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 13 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
-| 14 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 15 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 16 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 17 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 18 | [#TAYDAY](http://twitter.com/search?q=%23TAYDAY) | N/A |
-| 19 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
-| 20 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
-| 21 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 22 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 4 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 5 | [BILLIERS COM BUD NO LOLLABR](http://twitter.com/search?q=BILLIERS+COM+BUD+NO+LOLLABR) | N/A |
+| 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 7 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 8 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 9 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 10 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 11 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 12 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
+| 13 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 14 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 15 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 16 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
+| 17 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 18 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 19 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
+| 20 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
+| 21 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 22 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
 | 23 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 24 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
-| 25 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 26 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
-| 27 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
-| 28 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 29 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
-| 30 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
-| 31 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
-| 32 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 33 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 34 | [Fenômeno](http://twitter.com/search?q=Fen%c3%b4meno) | N/A |
-| 35 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
-| 36 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
-| 37 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
-| 38 | [FLOVERS MISS FROMIS](http://twitter.com/search?q=FLOVERS+MISS+FROMIS) | N/A |
-| 39 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 24 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 25 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 26 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 27 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
+| 28 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
+| 29 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 30 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
+| 31 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
+| 32 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 33 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 34 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
+| 35 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
+| 36 | [#TAYDAY](http://twitter.com/search?q=%23TAYDAY) | N/A |
+| 37 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 38 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 39 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
 | 40 | [Lesbianismo](http://twitter.com/search?q=Lesbianismo) | N/A |
-| 41 | [Glutonaria](http://twitter.com/search?q=Glutonaria) | N/A |
-| 42 | [Mania de Doença](http://twitter.com/search?q=Mania+de+Doen%c3%a7a) | N/A |
-| 43 | [Iracundo](http://twitter.com/search?q=Iracundo) | N/A |
-| 44 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 45 | [Primy](http://twitter.com/search?q=Primy) | N/A |
-| 46 | [Suicídio](http://twitter.com/search?q=Suic%c3%addio) | N/A |
-| 47 | [Facção](http://twitter.com/search?q=Fac%c3%a7%c3%a3o) | N/A |
-| 48 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 49 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
-| 50 | [IEMG](http://twitter.com/search?q=IEMG) | N/A |
+| 41 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
+| 42 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 44 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
+| 45 | [Fenômeno](http://twitter.com/search?q=Fen%c3%b4meno) | N/A |
+| 46 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
+| 47 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
+| 48 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 49 | [Mania de Doença](http://twitter.com/search?q=Mania+de+Doen%c3%a7a) | N/A |
+| 50 | [Suicídio](http://twitter.com/search?q=Suic%c3%addio) | N/A |
 
 
 

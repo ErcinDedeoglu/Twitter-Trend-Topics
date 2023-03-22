@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-22 16:17:12 UTC`
+📆 Last Updated: `2023-03-22 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 2 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
-| 3 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 4 | [BILLIERS COM BUD NO LOLLABR](http://twitter.com/search?q=BILLIERS+COM+BUD+NO+LOLLABR) | N/A |
-| 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 6 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 7 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 8 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 9 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
-| 10 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 11 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 12 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 13 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
-| 14 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 15 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 16 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 17 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 18 | [#TAYDAY](http://twitter.com/search?q=%23TAYDAY) | N/A |
-| 19 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
-| 20 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
-| 21 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 22 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 23 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 24 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
-| 25 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 26 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
-| 27 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
-| 28 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 29 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
-| 30 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
-| 31 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
-| 32 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 33 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 34 | [Fenômeno](http://twitter.com/search?q=Fen%c3%b4meno) | N/A |
-| 35 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
-| 36 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
-| 37 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
-| 38 | [FLOVERS MISS FROMIS](http://twitter.com/search?q=FLOVERS+MISS+FROMIS) | N/A |
+| 1 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 2 | [Hulk e Ronaldinho](http://twitter.com/search?q=Hulk+e+Ronaldinho) | N/A |
+| 3 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 4 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 5 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 6 | [BILLIERS COM BUD NO LOLLABR](http://twitter.com/search?q=BILLIERS+COM+BUD+NO+LOLLABR) | N/A |
+| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 8 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 9 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 10 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 11 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 12 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 13 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
+| 14 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 15 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 16 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 17 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
+| 18 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 19 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 20 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
+| 21 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
+| 22 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 23 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 24 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 25 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 26 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 27 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 28 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
+| 29 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
+| 30 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 31 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
+| 32 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
+| 33 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 34 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 35 | [Mia Colucci](http://twitter.com/search?q=Mia+Colucci) | N/A |
+| 36 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
+| 37 | [#TAYDAY](http://twitter.com/search?q=%23TAYDAY) | N/A |
+| 38 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
 | 39 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 40 | [Glutonaria](http://twitter.com/search?q=Glutonaria) | N/A |
+| 40 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
 | 41 | [Lesbianismo](http://twitter.com/search?q=Lesbianismo) | N/A |
-| 42 | [Mania de Doença](http://twitter.com/search?q=Mania+de+Doen%c3%a7a) | N/A |
-| 43 | [Facção](http://twitter.com/search?q=Fac%c3%a7%c3%a3o) | N/A |
-| 44 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 45 | [IEMG](http://twitter.com/search?q=IEMG) | N/A |
-| 46 | [Primy](http://twitter.com/search?q=Primy) | N/A |
-| 47 | [Suicídio](http://twitter.com/search?q=Suic%c3%addio) | N/A |
-| 48 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
-| 49 | [Iracundo](http://twitter.com/search?q=Iracundo) | N/A |
-| 50 | [Feitiçaria](http://twitter.com/search?q=Feiti%c3%a7aria) | N/A |
+| 42 | [Horóscopo](http://twitter.com/search?q=Hor%c3%b3scopo) | N/A |
+| 43 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 45 | [Retenção](http://twitter.com/search?q=Reten%c3%a7%c3%a3o) | N/A |
+| 46 | [Fenômeno](http://twitter.com/search?q=Fen%c3%b4meno) | N/A |
+| 47 | [Homossexualismo](http://twitter.com/search?q=Homossexualismo) | N/A |
+| 48 | [Pirataria](http://twitter.com/search?q=Pirataria) | N/A |
+| 49 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 50 | [Mania de Doença](http://twitter.com/search?q=Mania+de+Doen%c3%a7a) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-22 16:17:04 UTC`
+📆 Last Updated: `2023-03-22 17:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 2 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 4 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 5 | [#WorldDownSyndromeDay](http://twitter.com/search?q=%23WorldDownSyndromeDay) | N/A |
-| 6 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 7 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 4 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 7 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 8 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 9 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
 | 10 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 11 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
-| 12 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 13 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 14 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
-| 15 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 16 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 18 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 19 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 21 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 22 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 24 | [Captain Kirk](http://twitter.com/search?q=Captain+Kirk) | N/A |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 27 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
-| 28 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 29 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 30 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 31 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 32 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 33 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 34 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 35 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 36 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 37 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
-| 38 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 39 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 40 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 11 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 12 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 13 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
+| 14 | [#JournéeMondialeDelEau](http://twitter.com/search?q=%23Journ%c3%a9eMondialeDelEau) | N/A |
+| 15 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 16 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
+| 17 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 18 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 19 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 20 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 22 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 23 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 24 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 25 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
+| 26 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 27 | [Captain Kirk](http://twitter.com/search?q=Captain+Kirk) | N/A |
+| 28 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 29 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 30 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 31 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 32 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
+| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 34 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 35 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
+| 36 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 37 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 38 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 39 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
+| 40 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 41 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 42 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 43 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 44 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 45 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 46 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 47 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 48 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
-| 49 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 42 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 43 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 44 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 45 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 46 | [Dach](http://twitter.com/search?q=Dach) | N/A |
+| 47 | [The Spectator](http://twitter.com/search?q=The+Spectator) | N/A |
+| 48 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 49 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
 
 
 
