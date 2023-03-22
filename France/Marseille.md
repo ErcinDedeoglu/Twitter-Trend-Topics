@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-21 23:16:32 UTC`
+📆 Last Updated: `2023-03-22 00:26:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 3 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 4 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 5 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
-| 6 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 7 | [#ComeBackVilainSyndicaliste](http://twitter.com/search?q=%23ComeBackVilainSyndicaliste) | N/A |
-| 8 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 9 | [#reformedesrettaites](http://twitter.com/search?q=%23reformedesrettaites) | N/A |
-| 10 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 11 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
-| 12 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 13 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
-| 14 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 15 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 16 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 17 | [Marcia Cross](http://twitter.com/search?q=Marcia+Cross) | N/A |
-| 18 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 20 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
-| 21 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 22 | [Thomas Pesquet](http://twitter.com/search?q=Thomas+Pesquet) | N/A |
-| 23 | [Olivier Faure](http://twitter.com/search?q=Olivier+Faure) | N/A |
-| 24 | [Gogeta](http://twitter.com/search?q=Gogeta) | N/A |
-| 25 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
-| 26 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 27 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 28 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 29 | [Patrick Bruel](http://twitter.com/search?q=Patrick+Bruel) | N/A |
-| 30 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 3 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 4 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
+| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 6 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
+| 7 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 8 | [#MotionDeCensureTransPartisane](http://twitter.com/search?q=%23MotionDeCensureTransPartisane) | N/A |
+| 9 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 10 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 11 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 12 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 13 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 14 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
+| 15 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 17 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
+| 18 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 19 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 20 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 21 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 22 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
+| 23 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
+| 24 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 25 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 26 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 27 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
+| 28 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 29 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 30 | [9 voix](http://twitter.com/search?q=9+voix) | N/A |
 | 31 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 32 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
-| 33 | [Midjourney](http://twitter.com/search?q=Midjourney) | N/A |
-| 34 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 35 | [#Republique](http://twitter.com/search?q=%23Republique) | N/A |
-| 36 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 37 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 38 | [#mariagepourtous](http://twitter.com/search?q=%23mariagepourtous) | N/A |
-| 39 | [#manif21mars](http://twitter.com/search?q=%23manif21mars) | N/A |
-| 40 | [#MacronLaHonte](http://twitter.com/search?q=%23MacronLaHonte) | N/A |
-| 41 | [#AEWToonami](http://twitter.com/search?q=%23AEWToonami) | N/A |
-| 42 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
-| 43 | [#FreeFlorie](http://twitter.com/search?q=%23FreeFlorie) | N/A |
-| 44 | [#bacstmg](http://twitter.com/search?q=%23bacstmg) | N/A |
-| 45 | [#Darmanin](http://twitter.com/search?q=%23Darmanin) | N/A |
-| 46 | [#CensurePopulaire](http://twitter.com/search?q=%23CensurePopulaire) | N/A |
-| 47 | [#Grenoble](http://twitter.com/search?q=%23Grenoble) | N/A |
-| 48 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
-| 49 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 32 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
+| 33 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 34 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 35 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
+| 36 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
+| 37 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 38 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 39 | [Linval](http://twitter.com/search?q=Linval) | N/A |
+| 40 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 41 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 42 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 43 | [Marcia Cross](http://twitter.com/search?q=Marcia+Cross) | N/A |
+| 44 | [Anne Sophie](http://twitter.com/search?q=Anne+Sophie) | N/A |
+| 45 | [Contre les Français](http://twitter.com/search?q=Contre+les+Fran%c3%a7ais) | N/A |
+| 46 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 47 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 48 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 49 | [Diablox9](http://twitter.com/search?q=Diablox9) | N/A |
+| 50 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
 
 
 

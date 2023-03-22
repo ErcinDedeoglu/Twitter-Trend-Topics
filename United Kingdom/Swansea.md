@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-21 23:16:22 UTC`
+📆 Last Updated: `2023-03-22 00:26:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
 | 3 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
 | 4 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
-| 5 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
-| 6 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 6 | [#dnajourney](http://twitter.com/search?q=%23dnajourney) | N/A |
 | 7 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 8 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 8 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 9 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 10 | [Flint](http://twitter.com/search?q=Flint) | N/A |
 | 11 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
 | 12 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
 | 13 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 14 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
+| 14 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
 | 15 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 16 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 17 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
-| 18 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 19 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
-| 20 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 21 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 22 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 23 | [Smallwood](http://twitter.com/search?q=Smallwood) | N/A |
-| 24 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 26 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 27 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 28 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 29 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 30 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
-| 31 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
-| 32 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 33 | [Barbie Kardashian](http://twitter.com/search?q=Barbie+Kardashian) | N/A |
-| 34 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 35 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 36 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
-| 37 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 38 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 39 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 40 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 41 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 42 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 43 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
-| 44 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 45 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
-| 46 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 47 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 48 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 49 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 16 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
+| 17 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 18 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 20 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
+| 21 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 22 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 23 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
+| 24 | [Smallwood](http://twitter.com/search?q=Smallwood) | N/A |
+| 25 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 26 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 27 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 28 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
+| 29 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 30 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 31 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
+| 32 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 33 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 34 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 35 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 36 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 37 | [England C](http://twitter.com/search?q=England+C) | N/A |
+| 38 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 39 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 40 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
+| 41 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 42 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 43 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 44 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 45 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 46 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
+| 47 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 48 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
+| 49 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-21 23:17:00 UTC`
+📆 Last Updated: `2023-03-22 00:26:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 2 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 3 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 4 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 5 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 6 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 7 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 9 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 10 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 11 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 12 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 13 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 14 | [Drew Findling](http://twitter.com/search?q=Drew+Findling) | N/A |
-| 15 | [Jordan Marshall](http://twitter.com/search?q=Jordan+Marshall) | N/A |
-| 16 | [Paul Mills](http://twitter.com/search?q=Paul+Mills) | N/A |
-| 17 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 18 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 19 | [Bobby McCain](http://twitter.com/search?q=Bobby+McCain) | N/A |
-| 20 | [Ari Melber](http://twitter.com/search?q=Ari+Melber) | N/A |
-| 21 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
-| 22 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 23 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 24 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 25 | [Cornyn](http://twitter.com/search?q=Cornyn) | N/A |
-| 26 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 27 | [Sofia Coppola](http://twitter.com/search?q=Sofia+Coppola) | N/A |
-| 28 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 29 | [RIP Captain](http://twitter.com/search?q=RIP+Captain) | N/A |
-| 30 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 31 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 32 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
-| 33 | [Newsome](http://twitter.com/search?q=Newsome) | N/A |
-| 34 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
-| 35 | [LETS GO USA](http://twitter.com/search?q=LETS+GO+USA) | N/A |
-| 36 | [Super Tuesday](http://twitter.com/search?q=Super+Tuesday) | N/A |
-| 37 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 38 | [Dwayne](http://twitter.com/search?q=Dwayne) | N/A |
-| 39 | [Outkick](http://twitter.com/search?q=Outkick) | N/A |
-| 40 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 41 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 42 | [USA ML](http://twitter.com/search?q=USA+ML) | N/A |
-| 43 | [Tony Todd](http://twitter.com/search?q=Tony+Todd) | N/A |
-| 44 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
+| 1 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 2 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 3 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 4 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 5 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 6 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 7 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
+| 8 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 9 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 10 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 11 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 12 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 13 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 14 | [1-0 USA](http://twitter.com/search?q=1-0+USA) | N/A |
+| 15 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
+| 16 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 17 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 18 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 19 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
+| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 21 | [Ilya Sorokin](http://twitter.com/search?q=Ilya+Sorokin) | N/A |
+| 22 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 23 | [Tyler Motte](http://twitter.com/search?q=Tyler+Motte) | N/A |
+| 24 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 25 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 26 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 27 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
+| 28 | [Thomas Davis](http://twitter.com/search?q=Thomas+Davis) | N/A |
+| 29 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
+| 30 | [Lars Nootbaar](http://twitter.com/search?q=Lars+Nootbaar) | N/A |
+| 31 | [Let's Go USA](http://twitter.com/search?q=Let%27s+Go+USA) | N/A |
+| 32 | [American Hero](http://twitter.com/search?q=American+Hero) | N/A |
+| 33 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 34 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 35 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 36 | [Matt Duchene](http://twitter.com/search?q=Matt+Duchene) | N/A |
+| 37 | [Paul Mills](http://twitter.com/search?q=Paul+Mills) | N/A |
+| 38 | [Alex Ovechkin](http://twitter.com/search?q=Alex+Ovechkin) | N/A |
+| 39 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
+| 40 | [Ari Melber](http://twitter.com/search?q=Ari+Melber) | N/A |
+| 41 | [Jordan Marshall](http://twitter.com/search?q=Jordan+Marshall) | N/A |
+| 42 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
+| 43 | [NL East](http://twitter.com/search?q=NL+East) | NL East is an abbreviation for the National League East Division, which is one of the six divisions in Major League Baseball (MLB). It consists of teams from the eastern United States and Canada. The NL East teams are the Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, and Washington Nationals. |
+| 44 | [Jake DeBrusk](http://twitter.com/search?q=Jake+DeBrusk) | N/A |
+| 45 | [Sava](http://twitter.com/search?q=Sava) | N/A |
+| 46 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
+| 47 | [Newsome](http://twitter.com/search?q=Newsome) | N/A |
+| 48 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 49 | [WBC Championship](http://twitter.com/search?q=WBC+Championship) | N/A |
 
 
 

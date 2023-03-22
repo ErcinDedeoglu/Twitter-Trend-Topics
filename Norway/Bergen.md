@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-21 23:16:38 UTC`
+📆 Last Updated: `2023-03-22 00:26:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,17 +24,17 @@ This is top 50 for [Norway](</Norway>)
 | 7 | [#urixkonf](http://twitter.com/search?q=%23urixkonf) | N/A |
 | 8 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
 | 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 10 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 11 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 11 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 12 | [Haikin](http://twitter.com/search?q=Haikin) | N/A |
-| 13 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 14 | [Bergstø](http://twitter.com/search?q=Bergst%c3%b8) | N/A |
-| 15 | [Seljefløyte](http://twitter.com/search?q=Seljefl%c3%b8yte) | N/A |
-| 16 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 13 | [Bergstø](http://twitter.com/search?q=Bergst%c3%b8) | N/A |
+| 14 | [Seljefløyte](http://twitter.com/search?q=Seljefl%c3%b8yte) | N/A |
+| 15 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 16 | [Spania](http://twitter.com/search?q=Spania) | N/A |
 | 17 | [østlandet](http://twitter.com/search?q=%c3%b8stlandet) | N/A |
 | 18 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
 | 19 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 20 | [Spetalen](http://twitter.com/search?q=Spetalen) | N/A |
+| 20 | [spetalen](http://twitter.com/search?q=spetalen) | N/A |
 | 21 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 22 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
 | 23 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
@@ -44,25 +44,25 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 28 | [England](http://twitter.com/search?q=England) | N/A |
 | 29 | [Civita](http://twitter.com/search?q=Civita) | N/A |
-| 30 | [Dagbladet](http://twitter.com/search?q=Dagbladet) | N/A |
+| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 31 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [International](http://twitter.com/search?q=International) | N/A |
-| 34 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 35 | [Beste](http://twitter.com/search?q=Beste) | N/A |
-| 36 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 37 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 38 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
-| 41 | [#klima](http://twitter.com/search?q=%23klima) | N/A |
-| 42 | [Håper](http://twitter.com/search?q=H%c3%a5per) | N/A |
-| 43 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
-| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 45 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 46 | [Legg](http://twitter.com/search?q=Legg) | N/A |
-| 47 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 48 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 32 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 33 | [Beste](http://twitter.com/search?q=Beste) | N/A |
+| 34 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 35 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 36 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 37 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [#Klima](http://twitter.com/search?q=%23Klima) | N/A |
+| 41 | [Håper](http://twitter.com/search?q=H%c3%a5per) | N/A |
+| 42 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 45 | [Legg](http://twitter.com/search?q=Legg) | N/A |
+| 46 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 47 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 48 | [Virker](http://twitter.com/search?q=Virker) | N/A |
 
 
 

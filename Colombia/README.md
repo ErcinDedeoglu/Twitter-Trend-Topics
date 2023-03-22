@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-21 23:17:08 UTC`
+📆 Last Updated: `2023-03-22 00:26:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Colombia
 | 3 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
 | 4 | [#TocanAPetroNosTocanATodos](http://twitter.com/search?q=%23TocanAPetroNosTocanATodos) | N/A |
 | 5 | [#ColombiaVaBien](http://twitter.com/search?q=%23ColombiaVaBien) | N/A |
-| 6 | [#CabalNoMatesAJulianPalacios](http://twitter.com/search?q=%23CabalNoMatesAJulianPalacios) | N/A |
-| 7 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
+| 6 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
+| 7 | [#CabalNoMatesAJulianPalacios](http://twitter.com/search?q=%23CabalNoMatesAJulianPalacios) | N/A |
 | 8 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 9 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 10 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 11 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 10 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 11 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
 | 12 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
 | 13 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 14 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 15 | [Guillermo Grosso](http://twitter.com/search?q=Guillermo+Grosso) | N/A |
+| 14 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
+| 15 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 16 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 17 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 18 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 19 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 20 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
-| 21 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 22 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 23 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 24 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 25 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
-| 26 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 27 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
-| 28 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
-| 29 | [Alexandra Agudelo](http://twitter.com/search?q=Alexandra+Agudelo) | N/A |
-| 30 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 31 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 32 | [Pulso](http://twitter.com/search?q=Pulso) | N/A |
-| 33 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
-| 34 | [Dinas](http://twitter.com/search?q=Dinas) | N/A |
-| 35 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 36 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
-| 37 | [Martha Lucia](http://twitter.com/search?q=Martha+Lucia) | N/A |
-| 38 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 39 | [FARC](http://twitter.com/search?q=FARC) | N/A |
-| 40 | [Javier Pava](http://twitter.com/search?q=Javier+Pava) | N/A |
-| 41 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 42 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
-| 43 | [Luis Fernando Velasco](http://twitter.com/search?q=Luis+Fernando+Velasco) | N/A |
-| 44 | [Bobadas](http://twitter.com/search?q=Bobadas) | N/A |
-| 45 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
-| 46 | [Juan Felipe](http://twitter.com/search?q=Juan+Felipe) | N/A |
-| 47 | [Giulio Ciccone](http://twitter.com/search?q=Giulio+Ciccone) | N/A |
-| 48 | [Daniel Quintero](http://twitter.com/search?q=Daniel+Quintero) | N/A |
-| 49 | [Cínicos](http://twitter.com/search?q=C%c3%adnicos) | N/A |
-| 50 | [Balboa](http://twitter.com/search?q=Balboa) | N/A |
+| 17 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 18 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 19 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 20 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 21 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 22 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 23 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 24 | [Leonas](http://twitter.com/search?q=Leonas) | N/A |
+| 25 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 26 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 27 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
+| 28 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 29 | [Guillermo Grosso](http://twitter.com/search?q=Guillermo+Grosso) | N/A |
+| 30 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
+| 31 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 32 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 33 | [Alexandra Agudelo](http://twitter.com/search?q=Alexandra+Agudelo) | N/A |
+| 34 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
+| 35 | [BZRP](http://twitter.com/search?q=BZRP) | BZRP stands for "Battle Zone Role Play," which is an online role-playing game. Players create characters and take part in a virtual world where they can battle each other and complete missions. |
+| 36 | [Gobernadores](http://twitter.com/search?q=Gobernadores) | N/A |
+| 37 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 38 | [Telecom](http://twitter.com/search?q=Telecom) | N/A |
+| 39 | [Pulso](http://twitter.com/search?q=Pulso) | N/A |
+| 40 | [Dinas](http://twitter.com/search?q=Dinas) | N/A |
+| 41 | [FARC](http://twitter.com/search?q=FARC) | N/A |
+| 42 | [Martha Lucia](http://twitter.com/search?q=Martha+Lucia) | N/A |
+| 43 | [Vamos Cali](http://twitter.com/search?q=Vamos+Cali) | N/A |
+| 44 | [Javier Pava](http://twitter.com/search?q=Javier+Pava) | N/A |
+| 45 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
+| 46 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 47 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 48 | [Giulio Ciccone](http://twitter.com/search?q=Giulio+Ciccone) | N/A |
+| 49 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
+| 50 | [Cínicos](http://twitter.com/search?q=C%c3%adnicos) | N/A |
 
 
 

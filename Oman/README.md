@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-21 23:17:10 UTC`
+📆 Last Updated: `2023-03-22 00:26:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Oman
 | 1 | [#اخدود_السخاء](http://twitter.com/search?q=%23%d8%a7%d8%ae%d8%af%d9%88%d8%af_%d8%a7%d9%84%d8%b3%d8%ae%d8%a7%d8%a1) | N/A |
 | 2 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
 | 3 | [الطيران العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 4 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 5 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 4 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 5 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
 | 6 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 7 | [الخدمه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 8 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
@@ -53,8 +53,8 @@ This is top 50 for Oman
 | 36 | [قوس المطر](http://twitter.com/search?q=%d9%82%d9%88%d8%b3+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 37 | [الرويه الافقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d9%82%d9%8a%d9%87) | N/A |
 | 38 | [اللجنه الرييسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3%d9%87) | N/A |
-| 39 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 40 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 39 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 40 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 41 | [امي الجنه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
 | 42 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
 | 43 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |

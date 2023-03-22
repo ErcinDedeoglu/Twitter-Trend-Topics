@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-21 23:17:12 UTC`
+📆 Last Updated: `2023-03-22 00:26:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,25 +46,25 @@ This is top 50 for Qatar
 | 29 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
 | 30 | [الصحه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
 | 31 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
-| 32 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 33 | [21 مارس](http://twitter.com/search?q=21+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 34 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 35 | [سردار بيردي](http://twitter.com/search?q=%d8%b3%d8%b1%d8%af%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d8%af%d9%8a) | N/A |
-| 36 | [America](http://twitter.com/search?q=America) | N/A |
-| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 38 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 39 | [انشلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%84%d9%88%d8%aa%d9%8a) | N/A |
-| 40 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 41 | [والهلال](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 44 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
-| 45 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 46 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 47 | [اللغه الانجليزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d9%87) | N/A |
-| 48 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 49 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 50 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 32 | [21 مارس](http://twitter.com/search?q=21+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 33 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 34 | [سردار بيردي](http://twitter.com/search?q=%d8%b3%d8%b1%d8%af%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d8%af%d9%8a) | N/A |
+| 35 | [America](http://twitter.com/search?q=America) | N/A |
+| 36 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 37 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 38 | [انشلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%84%d9%88%d8%aa%d9%8a) | N/A |
+| 39 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
+| 40 | [والهلال](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 43 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
+| 44 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 45 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 46 | [اللغه الانجليزيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d9%87) | N/A |
+| 47 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 48 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 49 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 50 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
 
 
 

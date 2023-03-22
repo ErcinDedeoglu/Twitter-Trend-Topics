@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-21 23:17:07 UTC`
+📆 Last Updated: `2023-03-22 00:26:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
 | 2 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 3 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 4 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 3 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 4 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 5 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 6 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 7 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 8 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
-| 9 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 10 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 11 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 8 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 9 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 10 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 11 | [Zico](http://twitter.com/search?q=Zico) | N/A |
 | 12 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 13 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
-| 14 | [#ForaDomitilla](http://twitter.com/search?q=%23ForaDomitilla) | N/A |
-| 15 | [Chrystian Barletta](http://twitter.com/search?q=Chrystian+Barletta) | N/A |
-| 16 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
-| 17 | [#Monica60](http://twitter.com/search?q=%23Monica60) | N/A |
-| 18 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 19 | [Igapó](http://twitter.com/search?q=Igap%c3%b3) | N/A |
-| 20 | [Leda Nagle](http://twitter.com/search?q=Leda+Nagle) | N/A |
-| 21 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 22 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 23 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 24 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 25 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 26 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 27 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 28 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 29 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 30 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
-| 31 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 32 | [Navi](http://twitter.com/search?q=Navi) | N/A |
-| 33 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
-| 34 | [Noivado](http://twitter.com/search?q=Noivado) | N/A |
-| 35 | [Sylla](http://twitter.com/search?q=Sylla) | N/A |
-| 36 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 37 | [Mariana Ximenes](http://twitter.com/search?q=Mariana+Ximenes) | N/A |
-| 38 | [Grávida](http://twitter.com/search?q=Gr%c3%a1vida) | N/A |
-| 39 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 40 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
-| 41 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 42 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 43 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 44 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 45 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 46 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 47 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 48 | [Adão Negro](http://twitter.com/search?q=Ad%c3%a3o+Negro) | N/A |
-| 49 | [Oscar Wilde](http://twitter.com/search?q=Oscar+Wilde) | N/A |
-| 50 | [Roberto de Andrade](http://twitter.com/search?q=Roberto+de+Andrade) | N/A |
+| 13 | [Léo Matos](http://twitter.com/search?q=L%c3%a9o+Matos) | N/A |
+| 14 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 15 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 16 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 17 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
+| 18 | [#ForaDomitilla](http://twitter.com/search?q=%23ForaDomitilla) | N/A |
+| 19 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 20 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 21 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 22 | [João Vicente](http://twitter.com/search?q=Jo%c3%a3o+Vicente) | N/A |
+| 23 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
+| 24 | [UFRJ](http://twitter.com/search?q=UFRJ) | N/A |
+| 25 | [Leda Nagle](http://twitter.com/search?q=Leda+Nagle) | N/A |
+| 26 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 27 | [Duda Nagle](http://twitter.com/search?q=Duda+Nagle) | N/A |
+| 28 | [#Monica60](http://twitter.com/search?q=%23Monica60) | N/A |
+| 29 | [Mabel](http://twitter.com/search?q=Mabel) | N/A |
+| 30 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 31 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
+| 32 | [Emílio Dantas](http://twitter.com/search?q=Em%c3%adlio+Dantas) | N/A |
+| 33 | [Comercial](http://twitter.com/search?q=Comercial) | N/A |
+| 34 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 35 | [Iarley](http://twitter.com/search?q=Iarley) | N/A |
+| 36 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 37 | [funbabe](http://twitter.com/search?q=funbabe) | N/A |
+| 38 | [Cacetinho](http://twitter.com/search?q=Cacetinho) | N/A |
+| 39 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
+| 40 | [Igapó](http://twitter.com/search?q=Igap%c3%b3) | N/A |
+| 41 | [Grávida](http://twitter.com/search?q=Gr%c3%a1vida) | N/A |
+| 42 | [Noivado](http://twitter.com/search?q=Noivado) | N/A |
+| 43 | [Designer](http://twitter.com/search?q=Designer) | N/A |
+| 44 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 45 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 46 | [Plano B](http://twitter.com/search?q=Plano+B) | N/A |
+| 47 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 48 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 49 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 50 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
 
 
 

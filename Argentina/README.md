@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-21 23:17:06 UTC`
+📆 Last Updated: `2023-03-22 00:26:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 2 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
-| 3 | [Holder](http://twitter.com/search?q=Holder) | N/A |
-| 4 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
-| 5 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 6 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 7 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 8 | [Don Julio](http://twitter.com/search?q=Don+Julio) | N/A |
-| 9 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
-| 10 | [#elclubdelmoro](http://twitter.com/search?q=%23elclubdelmoro) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 13 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
-| 14 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 16 | [IVA al 24%](http://twitter.com/search?q=IVA+al+24%25) | N/A |
-| 17 | [Otoño](http://twitter.com/search?q=Oto%c3%b1o) | N/A |
-| 18 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 19 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 20 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 21 | [#HablaCristina](http://twitter.com/search?q=%23HablaCristina) | N/A |
-| 22 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 23 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 24 | [Ferraresi](http://twitter.com/search?q=Ferraresi) | Ferraresi is a surname of Italian origin. It is derived from the city of Ferrara, located in the Emilia-Romagna region of Italy. The literal translation of Ferraresi into English is "from Ferrara". |
-| 25 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 26 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 27 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 28 | [Guede](http://twitter.com/search?q=Guede) | N/A |
-| 29 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 30 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 31 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 32 | [HIPNOTIZADOS OUT NOW](http://twitter.com/search?q=HIPNOTIZADOS+OUT+NOW) | N/A |
-| 33 | [Pepe Galleta](http://twitter.com/search?q=Pepe+Galleta) | N/A |
-| 34 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
-| 35 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 36 | [Fecha 9](http://twitter.com/search?q=Fecha+9) | N/A |
-| 37 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 38 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
-| 39 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 1 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
+| 2 | [IVA al 24%](http://twitter.com/search?q=IVA+al+24%25) | N/A |
+| 3 | [#HablaCristina](http://twitter.com/search?q=%23HablaCristina) | N/A |
+| 4 | [Cristina Presidenta](http://twitter.com/search?q=Cristina+Presidenta) | N/A |
+| 5 | [Jorge D'Alessandro](http://twitter.com/search?q=Jorge+D%27Alessandro) | N/A |
+| 6 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 7 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 8 | [Rafael Correa](http://twitter.com/search?q=Rafael+Correa) | N/A |
+| 9 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 10 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 11 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 12 | [Pepe Galleta](http://twitter.com/search?q=Pepe+Galleta) | N/A |
+| 13 | [Corralito](http://twitter.com/search?q=Corralito) | N/A |
+| 14 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 15 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 16 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
+| 17 | [Curro](http://twitter.com/search?q=Curro) | N/A |
+| 18 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
+| 19 | [Denunciada](http://twitter.com/search?q=Denunciada) | N/A |
+| 20 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 21 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 22 | [Salario Mínimo](http://twitter.com/search?q=Salario+M%c3%adnimo) | N/A |
+| 23 | [Vital y Móvil](http://twitter.com/search?q=Vital+y+M%c3%b3vil) | N/A |
+| 24 | [Fantino](http://twitter.com/search?q=Fantino) | N/A |
+| 25 | [gilmore girls](http://twitter.com/search?q=gilmore+girls) | N/A |
+| 26 | [#DolarBlue](http://twitter.com/search?q=%23DolarBlue) | N/A |
+| 27 | [Pepín](http://twitter.com/search?q=Pep%c3%adn) | N/A |
+| 28 | [Fecha 9](http://twitter.com/search?q=Fecha+9) | N/A |
+| 29 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
+| 30 | [Flores Amarillas](http://twitter.com/search?q=Flores+Amarillas) | N/A |
+| 31 | [Wado](http://twitter.com/search?q=Wado) | N/A |
+| 32 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 33 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
+| 34 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 35 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
+| 36 | [Airbag](http://twitter.com/search?q=Airbag) | N/A |
+| 37 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
+| 38 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 39 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
 | 40 | [Otro 21](http://twitter.com/search?q=Otro+21) | N/A |
-| 41 | [Grupo de Puebla](http://twitter.com/search?q=Grupo+de+Puebla) | N/A |
-| 42 | [Corralito](http://twitter.com/search?q=Corralito) | N/A |
-| 43 | [Denunciada](http://twitter.com/search?q=Denunciada) | N/A |
-| 44 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 45 | [UNCuyo](http://twitter.com/search?q=UNCuyo) | N/A |
-| 46 | [GRACIAS NESRIN POR TULAY](http://twitter.com/search?q=GRACIAS+NESRIN+POR+TULAY) | N/A |
-| 47 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 48 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 49 | [Purita](http://twitter.com/search?q=Purita) | N/A |
-| 50 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 41 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
+| 42 | [Luna Park](http://twitter.com/search?q=Luna+Park) | N/A |
+| 43 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 44 | [Duggan](http://twitter.com/search?q=Duggan) | Duggan is an Irish surname derived from the Gaelic name Ó Dubhagáin, which means "descendant of Dubhagán". The name Dubhagán is composed of two elements: dubh, meaning "black" or "dark", and gan, meaning "little one". |
+| 45 | [San Nicolás](http://twitter.com/search?q=San+Nicol%c3%a1s) | N/A |
+| 46 | [Verdad y la Justicia](http://twitter.com/search?q=Verdad+y+la+Justicia) | N/A |
+| 47 | [#NuncaMas](http://twitter.com/search?q=%23NuncaMas) | N/A |
+| 48 | [#NatachaJaitt](http://twitter.com/search?q=%23NatachaJaitt) | N/A |
 
 
 

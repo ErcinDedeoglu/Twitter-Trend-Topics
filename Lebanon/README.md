@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-21 23:17:10 UTC`
+📆 Last Updated: `2023-03-22 00:26:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,25 +35,25 @@ This is top 50 for Lebanon
 | 18 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 19 | [فتح السير](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%8a%d8%b1) | N/A |
 | 20 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
-| 21 | [رييس الوزراء الياباني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [الحلقه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 23 | [علي منيف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%86%d9%8a%d9%81) | N/A |
-| 24 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 21 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 22 | [رييس الوزراء الياباني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 23 | [الحلقه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
+| 24 | [علي منيف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%86%d9%8a%d9%81) | N/A |
 | 25 | [نزار قباني](http://twitter.com/search?q=%d9%86%d8%b2%d8%a7%d8%b1+%d9%82%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 26 | [السوق السودا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7) | N/A |
 | 27 | [نداء الوطن](http://twitter.com/search?q=%d9%86%d8%af%d8%a7%d8%a1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
 | 28 | [العصيان المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 29 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 30 | [الرييس الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [وزير الاشغال العامه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 32 | ["Sayrafa"](http://twitter.com/search?q=%22Sayrafa%22) | N/A |
-| 33 | [جدول ثالث](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 34 | [السوق السودا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7) | N/A |
-| 35 | [نقيب الصيادله](http://twitter.com/search?q=%d9%86%d9%82%d9%8a%d8%a8+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d9%87) | N/A |
-| 36 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 37 | [وزارة الطاقة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9) | N/A |
-| 38 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 39 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 29 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 30 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 31 | [الرييس الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [وزير الاشغال العامه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 33 | ["Sayrafa"](http://twitter.com/search?q=%22Sayrafa%22) | N/A |
+| 34 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 35 | [جدول ثالث](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 36 | [نقيب الصيادله](http://twitter.com/search?q=%d9%86%d9%82%d9%8a%d8%a8+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d9%87) | N/A |
+| 37 | [الاتحاد الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 38 | [وزارة الطاقة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9) | N/A |
+| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 40 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 41 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 42 | [٢١ اذار](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%a7%d8%b0%d8%a7%d8%b1) | N/A |

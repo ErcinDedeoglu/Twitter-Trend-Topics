@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-03-21 23:16:42 UTC`
+📆 Last Updated: `2023-03-22 00:26:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
-| 2 | [ミカくん](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%81%8f%e3%82%93) | ミカくん is a character from the Japanese manga series, Yotsuba&!. His name is Mi-Kun and he is a small, green alien who befriends the main character, Yotsuba. He often helps her with her various adventures. |
-| 3 | [WBC決勝](http://twitter.com/search?q=WBC%e6%b1%ba%e5%8b%9d) | N/A |
-| 4 | [大谷とトラウト](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%a8%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
-| 5 | [千秋先輩](http://twitter.com/search?q=%e5%8d%83%e7%a7%8b%e5%85%88%e8%bc%a9) | N/A |
-| 6 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
-| 7 | [上野樹里](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e6%a8%b9%e9%87%8c) | N/A |
-| 8 | [三浦くん](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e3%81%8f%e3%82%93) | N/A |
-| 9 | [クックルン](http://twitter.com/search?q=%e3%82%af%e3%83%83%e3%82%af%e3%83%ab%e3%83%b3) | N/A |
-| 10 | [シエテ剣](http://twitter.com/search?q=%e3%82%b7%e3%82%a8%e3%83%86%e5%89%a3) | N/A |
-| 11 | [#マチカフェしよう](http://twitter.com/search?q=%23%e3%83%9e%e3%83%81%e3%82%ab%e3%83%95%e3%82%a7%e3%81%97%e3%82%88%e3%81%86) | N/A |
-| 12 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
-| 13 | [セレモニー](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
-| 14 | [#KATTUN17周年](http://twitter.com/search?q=%23KATTUN17%e5%91%a8%e5%b9%b4) | N/A |
-| 15 | [本物のラヴィットファン](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 16 | [#おは戦50322ms](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650322ms) | N/A |
-| 17 | [#WBC休暇](http://twitter.com/search?q=%23WBC%e4%bc%91%e6%9a%87) | N/A |
-| 18 | [のだめ役](http://twitter.com/search?q=%e3%81%ae%e3%81%a0%e3%82%81%e5%bd%b9) | N/A |
-| 19 | [世界水の日](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e6%b0%b4%e3%81%ae%e6%97%a5) | N/A |
-| 20 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
-| 21 | [六竜4凸](http://twitter.com/search?q=%e5%85%ad%e7%ab%9c4%e5%87%b8) | N/A |
-| 22 | [ターナー6番](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%8a%e3%83%bc6%e7%95%aa) | N/A |
-| 23 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
-| 24 | [ガオレンジャー](http://twitter.com/search?q=%e3%82%ac%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 25 | [ちゅきちゅきマンゴー味](http://twitter.com/search?q=%e3%81%a1%e3%82%85%e3%81%8d%e3%81%a1%e3%82%85%e3%81%8d%e3%83%9e%e3%83%b3%e3%82%b4%e3%83%bc%e5%91%b3) | N/A |
-| 26 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 27 | [のだめミュージカル](http://twitter.com/search?q=%e3%81%ae%e3%81%a0%e3%82%81%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
-| 28 | [自動探索](http://twitter.com/search?q=%e8%87%aa%e5%8b%95%e6%8e%a2%e7%b4%a2) | N/A |
-| 29 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
-| 30 | [放送記念日](http://twitter.com/search?q=%e6%94%be%e9%80%81%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 31 | [のだめカンタービレ](http://twitter.com/search?q=%e3%81%ae%e3%81%a0%e3%82%81%e3%82%ab%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%93%e3%83%ac) | N/A |
-| 32 | [ニッポン](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
-| 33 | [ルシフェル](http://twitter.com/search?q=%e3%83%ab%e3%82%b7%e3%83%95%e3%82%a7%e3%83%ab) | N/A |
-| 34 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
-| 35 | [三浦宏規](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e5%ae%8f%e8%a6%8f) | N/A |
-| 36 | [第425回](http://twitter.com/search?q=%e7%ac%ac425%e5%9b%9e) | N/A |
-| 37 | [KAT-TUN17](http://twitter.com/search?q=KAT-TUN17) | N/A |
-| 38 | [祝日明け](http://twitter.com/search?q=%e7%a5%9d%e6%97%a5%e6%98%8e%e3%81%91) | N/A |
-| 39 | [すいようび](http://twitter.com/search?q=%e3%81%99%e3%81%84%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 40 | [サブ加護40](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e5%8a%a0%e8%ad%b740) | N/A |
-| 41 | [ミスティーク](http://twitter.com/search?q=%e3%83%9f%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%82%af) | N/A |
-| 42 | [シエテ武器](http://twitter.com/search?q=%e3%82%b7%e3%82%a8%e3%83%86%e6%ad%a6%e5%99%a8) | N/A |
-| 43 | [休み明け](http://twitter.com/search?q=%e4%bc%91%e3%81%bf%e6%98%8e%e3%81%91) | N/A |
-| 44 | [王座奪還](http://twitter.com/search?q=%e7%8e%8b%e5%ba%a7%e5%a5%aa%e9%82%84) | N/A |
-| 45 | [めざましテレビ](http://twitter.com/search?q=%e3%82%81%e3%81%96%e3%81%be%e3%81%97%e3%83%86%e3%83%ac%e3%83%93) | N/A |
-| 46 | [六竜40](http://twitter.com/search?q=%e5%85%ad%e7%ab%9c40) | N/A |
-| 47 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
-| 48 | [週の真ん中水曜日](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad%e6%b0%b4%e6%9b%9c%e6%97%a5) | N/A |
-| 49 | [ラッピー](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%bc) | N/A |
+| 1 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
+| 2 | [ターナー](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%8a%e3%83%bc) | ターナー is a Japanese word that refers to a person who works with metal, such as a blacksmith or a machinist. In English, it can be translated as "turner". |
+| 3 | [トラウト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
+| 4 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 5 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
+| 6 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 7 | [勝ち越し](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e8%b6%8a%e3%81%97) | 勝ち越し is a Japanese phrase that literally translates to "winning over". It is used to describe a situation in which one person or group has an advantage over another. It can also be used to refer to a situation in which one person or group has achieved something that the other has not. |
+| 8 | [村上覚醒](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e8%a6%9a%e9%86%92) | N/A |
+| 9 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
+| 10 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
+| 11 | [今永くん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
+| 12 | [千秋先輩](http://twitter.com/search?q=%e5%8d%83%e7%a7%8b%e5%85%88%e8%bc%a9) | N/A |
+| 13 | [今永先生](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
+| 14 | [今永さん](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%95%e3%82%93) | N/A |
+| 15 | [USAコール](http://twitter.com/search?q=USA%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
+| 16 | [プレイボール](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
+| 17 | [リアルミュート](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%ab%e3%83%9f%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
+| 18 | [ワンアウト満塁](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
+| 19 | [村神さま](http://twitter.com/search?q=%e6%9d%91%e7%a5%9e%e3%81%95%e3%81%be) | N/A |
+| 20 | [ラヴィット](http://twitter.com/search?q=%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | ラヴィット is a Japanese word that means "love it". It is often used to express enthusiasm or approval for something. |
+| 21 | [上野樹里](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e6%a8%b9%e9%87%8c) | N/A |
+| 22 | [確信歩き](http://twitter.com/search?q=%e7%a2%ba%e4%bf%a1%e6%ad%a9%e3%81%8d) | N/A |
+| 23 | [エンゼルスの中継ぎ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9%e3%81%ae%e4%b8%ad%e7%b6%99%e3%81%8e) | N/A |
+| 24 | [三浦くん](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e3%81%8f%e3%82%93) | N/A |
+| 25 | [完全覚醒](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e8%a6%9a%e9%86%92) | N/A |
+| 26 | [ラッピー](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%94%e3%83%bc) | N/A |
+| 27 | [今永投手](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e6%8a%95%e6%89%8b) | N/A |
+| 28 | [#今永昇太](http://twitter.com/search?q=%23%e4%bb%8a%e6%b0%b8%e6%98%87%e5%a4%aa) | N/A |
+| 29 | [シエテ剣](http://twitter.com/search?q=%e3%82%b7%e3%82%a8%e3%83%86%e5%89%a3) | N/A |
+| 30 | [#マチカフェしよう](http://twitter.com/search?q=%23%e3%83%9e%e3%83%81%e3%82%ab%e3%83%95%e3%82%a7%e3%81%97%e3%82%88%e3%81%86) | N/A |
+| 31 | [ムーチョ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%81%e3%83%a7) | N/A |
+| 32 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
+| 33 | [セレモニー](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
+| 34 | [大会初三振](http://twitter.com/search?q=%e5%a4%a7%e4%bc%9a%e5%88%9d%e4%b8%89%e6%8c%af) | N/A |
+| 35 | [戸郷さん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%95%e3%82%93) | N/A |
+| 36 | [ゴールドシュミット](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b7%e3%83%a5%e3%83%9f%e3%83%83%e3%83%88) | N/A |
+| 37 | [ニッポン](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
+| 38 | [立ち上がり](http://twitter.com/search?q=%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%8c%e3%82%8a) | N/A |
+| 39 | [在宅勤務](http://twitter.com/search?q=%e5%9c%a8%e5%ae%85%e5%8b%a4%e5%8b%99) | N/A |
+| 40 | [今永のストレート](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e3%81%ae%e3%82%b9%e3%83%88%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
+| 41 | [村上復活](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e5%be%a9%e6%b4%bb) | N/A |
+| 42 | [永ナイスピッチング](http://twitter.com/search?q=%e6%b0%b8%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
+| 43 | [村上HR](http://twitter.com/search?q=%e6%9d%91%e4%b8%8aHR) | N/A |
+| 44 | [むらかみさま](http://twitter.com/search?q=%e3%82%80%e3%82%89%e3%81%8b%e3%81%bf%e3%81%95%e3%81%be) | N/A |
+| 45 | [樹里ちゃん](http://twitter.com/search?q=%e6%a8%b9%e9%87%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [#KATTUN17周年](http://twitter.com/search?q=%23KATTUN17%e5%91%a8%e5%b9%b4) | N/A |
+| 47 | [#村上宗隆](http://twitter.com/search?q=%23%e6%9d%91%e4%b8%8a%e5%ae%97%e9%9a%86) | N/A |
+| 48 | [初回無失点](http://twitter.com/search?q=%e5%88%9d%e5%9b%9e%e7%84%a1%e5%a4%b1%e7%82%b9) | N/A |
+| 49 | [今永選手](http://twitter.com/search?q=%e4%bb%8a%e6%b0%b8%e9%81%b8%e6%89%8b) | N/A |
+| 50 | [通勤電車](http://twitter.com/search?q=%e9%80%9a%e5%8b%a4%e9%9b%bb%e8%bb%8a) | N/A |
 
 
 

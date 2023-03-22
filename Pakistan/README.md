@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-21 23:17:11 UTC`
+📆 Last Updated: `2023-03-22 00:26:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Pakistan
 | 7 | [smile train](http://twitter.com/search?q=smile+train) | N/A |
 | 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 9 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 10 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 11 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 12 | [sdg secretariat](http://twitter.com/search?q=sdg+secretariat) | N/A |
-| 13 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
-| 14 | [7.7 Magnitude](http://twitter.com/search?q=7.7+Magnitude) | N/A |
-| 15 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 16 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
-| 17 | [sensodyne and paradontax](http://twitter.com/search?q=sensodyne+and+paradontax) | N/A |
-| 18 | [Stay Safe Everyone](http://twitter.com/search?q=Stay+Safe+Everyone) | N/A |
-| 19 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 20 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
-| 21 | [Astaghfirullah](http://twitter.com/search?q=Astaghfirullah) | N/A |
-| 22 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 24 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 25 | [Angoor Adda](http://twitter.com/search?q=Angoor+Adda) | N/A |
-| 26 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
-| 27 | [Abbottabad](http://twitter.com/search?q=Abbottabad) | N/A |
-| 28 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 29 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 31 | [Inter Services Intelligence](http://twitter.com/search?q=Inter+Services+Intelligence) | N/A |
-| 32 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 34 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 35 | [Thankfully](http://twitter.com/search?q=Thankfully) | N/A |
-| 36 | [Sialkot](http://twitter.com/search?q=Sialkot) | N/A |
-| 37 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 38 | [Scary](http://twitter.com/search?q=Scary) | Scary is an adjective used to describe something that is frightening or causes fear. It can be used to describe a person, place, thing, or situation. |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 41 | [Severe](http://twitter.com/search?q=Severe) | N/A |
-| 42 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
-| 43 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 44 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 47 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 48 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 49 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 50 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 10 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 11 | [sdg secretariat](http://twitter.com/search?q=sdg+secretariat) | N/A |
+| 12 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
+| 13 | [7.7 Magnitude](http://twitter.com/search?q=7.7+Magnitude) | N/A |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 15 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
+| 16 | [sensodyne and paradontax](http://twitter.com/search?q=sensodyne+and+paradontax) | N/A |
+| 17 | [Stay Safe Everyone](http://twitter.com/search?q=Stay+Safe+Everyone) | N/A |
+| 18 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 19 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 20 | [Astaghfirullah](http://twitter.com/search?q=Astaghfirullah) | N/A |
+| 21 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 23 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 24 | [Angoor Adda](http://twitter.com/search?q=Angoor+Adda) | N/A |
+| 25 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
+| 26 | [Abbottabad](http://twitter.com/search?q=Abbottabad) | N/A |
+| 27 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 28 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 29 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 30 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 31 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 32 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 33 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Severe](http://twitter.com/search?q=Severe) | N/A |
+| 36 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
+| 37 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 38 | [America](http://twitter.com/search?q=America) | N/A |
+| 39 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 40 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 41 | [ALHUMDULLILAH](http://twitter.com/search?q=ALHUMDULLILAH) | N/A |
+| 42 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 43 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 44 | [Gujrat](http://twitter.com/search?q=Gujrat) | N/A |
+| 45 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 46 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Sher](http://twitter.com/search?q=Sher) | N/A |
+| 49 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 50 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
 
 
 
