@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-22 13:19:32 UTC`
+📆 Last Updated: `2023-03-22 14:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EstaPatasArriba](http://twitter.com/search?q=%23EstaPatasArriba) | N/A |
-| 2 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
-| 3 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 1 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
+| 2 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 3 | [#EstaPatasArriba](http://twitter.com/search?q=%23EstaPatasArriba) | N/A |
 | 4 | [#HastaCuando](http://twitter.com/search?q=%23HastaCuando) | N/A |
 | 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 6 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 7 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 8 | [#MePasoAlaFM](http://twitter.com/search?q=%23MePasoAlaFM) | N/A |
-| 9 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
-| 10 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
-| 11 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 12 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
-| 13 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 14 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 15 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 16 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 17 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 18 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 7 | [#golazoes](http://twitter.com/search?q=%23golazoes) | N/A |
+| 8 | [Clan del Golfo](http://twitter.com/search?q=Clan+del+Golfo) | N/A |
+| 9 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 10 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 11 | [Diana Osorio](http://twitter.com/search?q=Diana+Osorio) | N/A |
+| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 13 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
+| 14 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 15 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 16 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 17 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 18 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
 | 19 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 20 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 21 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 22 | [Stefany](http://twitter.com/search?q=Stefany) | N/A |
-| 23 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
-| 24 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 25 | [Con Colombia](http://twitter.com/search?q=Con+Colombia) | N/A |
-| 26 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 27 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 28 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 29 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 30 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
-| 31 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 32 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 33 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 34 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 35 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 36 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 37 | [breiner](http://twitter.com/search?q=breiner) | N/A |
-| 38 | [hoy 21](http://twitter.com/search?q=hoy+21) | N/A |
-| 39 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
-| 40 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
-| 41 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
-| 42 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
-| 43 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
-| 44 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 45 | [Guillermo Grosso](http://twitter.com/search?q=Guillermo+Grosso) | N/A |
-| 46 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 47 | [Crack](http://twitter.com/search?q=Crack) | N/A |
-| 48 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 49 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
-| 50 | [dareska](http://twitter.com/search?q=dareska) | N/A |
+| 20 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 21 | [Stefany](http://twitter.com/search?q=Stefany) | N/A |
+| 22 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
+| 23 | [Aerocivil](http://twitter.com/search?q=Aerocivil) | N/A |
+| 24 | [Nutresa](http://twitter.com/search?q=Nutresa) | N/A |
+| 25 | [Patriota](http://twitter.com/search?q=Patriota) | N/A |
+| 26 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 27 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 28 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 29 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 30 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 31 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 32 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 33 | [elsa Noguera](http://twitter.com/search?q=elsa+Noguera) | N/A |
+| 34 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 35 | [Sena](http://twitter.com/search?q=Sena) | N/A |
+| 36 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 37 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 38 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
+| 39 | [el campin](http://twitter.com/search?q=el+campin) | N/A |
+| 40 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 41 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 42 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
+| 43 | [Pumarejo](http://twitter.com/search?q=Pumarejo) | N/A |
+| 44 | [breiner](http://twitter.com/search?q=breiner) | N/A |
+| 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 46 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
+| 47 | [Reunión](http://twitter.com/search?q=Reuni%c3%b3n) | N/A |
+| 48 | [Nilson](http://twitter.com/search?q=Nilson) | N/A |
+| 49 | [Cacarica](http://twitter.com/search?q=Cacarica) | N/A |
+| 50 | [Con Colombia](http://twitter.com/search?q=Con+Colombia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-22 13:20:20 UTC`
+📆 Last Updated: `2023-03-22 14:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Switzerland
 | 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
 | 5 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
 | 6 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 7 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 8 | [Paléo](http://twitter.com/search?q=Pal%c3%a9o) | N/A |
-| 9 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
-| 10 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 11 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
-| 14 | [Gier](http://twitter.com/search?q=Gier) | N/A |
-| 15 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 16 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 17 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 18 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 19 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 20 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 21 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 22 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 23 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
-| 24 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 25 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 26 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 27 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 28 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 29 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 30 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 31 | [garantien](http://twitter.com/search?q=garantien) | N/A |
-| 32 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
-| 33 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [JuSo](http://twitter.com/search?q=JuSo) | N/A |
-| 36 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 37 | [pressekonferenz](http://twitter.com/search?q=pressekonferenz) | N/A |
-| 38 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 7 | [Paléo](http://twitter.com/search?q=Pal%c3%a9o) | N/A |
+| 8 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
+| 11 | [stiftung](http://twitter.com/search?q=stiftung) | N/A |
+| 12 | [Gier](http://twitter.com/search?q=Gier) | N/A |
+| 13 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 14 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
+| 15 | [Idem](http://twitter.com/search?q=Idem) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
+| 18 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 19 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 20 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 21 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 22 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 23 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
+| 24 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 25 | [Konkurrenz](http://twitter.com/search?q=Konkurrenz) | N/A |
+| 26 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 27 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 28 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 29 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 30 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 32 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 33 | [Behandlung](http://twitter.com/search?q=Behandlung) | N/A |
+| 34 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 35 | [garantien](http://twitter.com/search?q=garantien) | N/A |
+| 36 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 37 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
+| 38 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 39 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
-| 40 | [ueli](http://twitter.com/search?q=ueli) | N/A |
-| 41 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 42 | [Stef](http://twitter.com/search?q=Stef) | N/A |
-| 43 | [finma](http://twitter.com/search?q=finma) | N/A |
-| 44 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 45 | [Muster](http://twitter.com/search?q=Muster) | N/A |
+| 40 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 43 | [ueli](http://twitter.com/search?q=ueli) | N/A |
+| 44 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
+| 45 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 46 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
-| 47 | [Insel](http://twitter.com/search?q=Insel) | N/A |
-| 48 | [Moscou](http://twitter.com/search?q=Moscou) | N/A |
-| 49 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 50 | [cs-aktien](http://twitter.com/search?q=cs-aktien) | N/A |
+| 47 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 48 | [Swiss League](http://twitter.com/search?q=Swiss+League) | N/A |
+| 49 | [Stef](http://twitter.com/search?q=Stef) | N/A |
+| 50 | [Moscou](http://twitter.com/search?q=Moscou) | N/A |
 
 
 

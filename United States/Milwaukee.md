@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-22 13:20:09 UTC`
+📆 Last Updated: `2023-03-22 14:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Oregon](http://twitter.com/search?q=Oregon) | Oregon is a state in the Pacific Northwest region of the United States. It is bordered by Washington to the north, Idaho to the east, California to the south, and Nevada and Utah to the east. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The state's population was 4,217,737 as of 2019. Its capital is Salem and its largest city is Portland. |
 | 3 | [Trout](http://twitter.com/search?q=Trout) | N/A |
 | 4 | [#Badgers](http://twitter.com/search?q=%23Badgers) | N/A |
-| 5 | [#OnWisconsin](http://twitter.com/search?q=%23OnWisconsin) | N/A |
+| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 6 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 8 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 10 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 9 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 11 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
 | 12 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 14 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 15 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 16 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 17 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 18 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 19 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 20 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 21 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 22 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 24 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 25 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
-| 26 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
-| 27 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 28 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 29 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 30 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
-| 31 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 32 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
-| 33 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 34 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
-| 35 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 36 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
-| 37 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 38 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 39 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 40 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 41 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 42 | [Jerry Jeudy](http://twitter.com/search?q=Jerry+Jeudy) | N/A |
-| 43 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 44 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 45 | [GameStop](http://twitter.com/search?q=GameStop) | N/A |
-| 46 | [USA Today](http://twitter.com/search?q=USA+Today) | N/A |
-| 47 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 48 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 49 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 50 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 13 | [good wednesday](http://twitter.com/search?q=good+wednesday) | N/A |
+| 14 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 16 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 17 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 19 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 20 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 22 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
+| 23 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 24 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 25 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 26 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 27 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 28 | [Jason David Frank](http://twitter.com/search?q=Jason+David+Frank) | N/A |
+| 29 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 30 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
+| 31 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
+| 32 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 33 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
+| 34 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 35 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
+| 36 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
+| 37 | [MMPR](http://twitter.com/search?q=MMPR) | N/A |
+| 38 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 39 | [Captain Kirk](http://twitter.com/search?q=Captain+Kirk) | N/A |
+| 40 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 41 | [Trini](http://twitter.com/search?q=Trini) | N/A |
+| 42 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
+| 43 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
+| 44 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
+| 45 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
+| 46 | [Great Morning](http://twitter.com/search?q=Great+Morning) | N/A |
+| 47 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
+| 48 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 49 | [paul george](http://twitter.com/search?q=paul+george) | N/A |
 
 
 

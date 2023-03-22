@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-22 13:19:40 UTC`
+📆 Last Updated: `2023-03-22 14:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CashGrab](http://twitter.com/search?q=%23CashGrab) | N/A |
+| 1 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
 | 2 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
 | 3 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
 | 4 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 5 | [#Reichsbürger](http://twitter.com/search?q=%23Reichsb%c3%bcrger) | N/A |
-| 6 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 7 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 8 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 9 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 10 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
-| 11 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 12 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 13 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 5 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 6 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
+| 7 | [#Heide](http://twitter.com/search?q=%23Heide) | N/A |
+| 8 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 9 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 10 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 11 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 12 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
+| 13 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 14 | [T-55](http://twitter.com/search?q=T-55) | N/A |
 | 15 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 18 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
-| 19 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 20 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 21 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 22 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
-| 23 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Karriereende](http://twitter.com/search?q=Karriereende) | N/A |
-| 27 | [Atemberaubend](http://twitter.com/search?q=Atemberaubend) | N/A |
-| 28 | [vertrauen in die regierung](http://twitter.com/search?q=vertrauen+in+die+regierung) | N/A |
-| 29 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 30 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 31 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
-| 32 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
-| 33 | [Beschuldigte](http://twitter.com/search?q=Beschuldigte) | N/A |
-| 34 | [Typisch Söder](http://twitter.com/search?q=Typisch+S%c3%b6der) | N/A |
-| 35 | [Welches Vertrauen](http://twitter.com/search?q=Welches+Vertrauen) | N/A |
-| 36 | [Durchsuchung](http://twitter.com/search?q=Durchsuchung) | N/A |
-| 37 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
-| 38 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 39 | [Polizeibeamte und Soldaten](http://twitter.com/search?q=Polizeibeamte+und+Soldaten) | N/A |
-| 40 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 41 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 42 | [Luise](http://twitter.com/search?q=Luise) | N/A |
-| 43 | [arbeitsverweigerung](http://twitter.com/search?q=arbeitsverweigerung) | N/A |
-| 44 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
-| 45 | [fremdsprache](http://twitter.com/search?q=fremdsprache) | N/A |
-| 46 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 16 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 17 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 19 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 20 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 21 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 22 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 23 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
+| 24 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 25 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 27 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 28 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 29 | [Welches Vertrauen](http://twitter.com/search?q=Welches+Vertrauen) | N/A |
+| 30 | [Nachnamen](http://twitter.com/search?q=Nachnamen) | N/A |
+| 31 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
+| 32 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
+| 33 | [Typisch Söder](http://twitter.com/search?q=Typisch+S%c3%b6der) | N/A |
+| 34 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 35 | [Atemberaubend](http://twitter.com/search?q=Atemberaubend) | N/A |
+| 36 | [Polizeibeamte und Soldaten](http://twitter.com/search?q=Polizeibeamte+und+Soldaten) | N/A |
+| 37 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 38 | [Luise](http://twitter.com/search?q=Luise) | N/A |
+| 39 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 40 | [Fremdsprache](http://twitter.com/search?q=Fremdsprache) | N/A |
+| 41 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
+| 42 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 43 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 44 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 45 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 46 | [Kasache](http://twitter.com/search?q=Kasache) | N/A |
 | 47 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 48 | [Sandmännchen](http://twitter.com/search?q=Sandm%c3%a4nnchen) | N/A |
-| 49 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 48 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 49 | [Kasachstan](http://twitter.com/search?q=Kasachstan) | N/A |
+| 50 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 
 
 

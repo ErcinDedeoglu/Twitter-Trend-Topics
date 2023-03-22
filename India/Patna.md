@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-22 13:20:00 UTC`
+📆 Last Updated: `2023-03-22 14:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PrakashBhakarMakrana](http://twitter.com/search?q=%23PrakashBhakarMakrana) | N/A |
-| 2 | [#StopFOPNL](http://twitter.com/search?q=%23StopFOPNL) | N/A |
-| 3 | [#HBDDhvaniBhanushali](http://twitter.com/search?q=%23HBDDhvaniBhanushali) | N/A |
-| 4 | [#MrsChatterjeeInspiring](http://twitter.com/search?q=%23MrsChatterjeeInspiring) | N/A |
+| 1 | [Aim To End TB](http://twitter.com/search?q=Aim+To+End+TB) | N/A |
+| 2 | [#PrakashBhakarMakrana](http://twitter.com/search?q=%23PrakashBhakarMakrana) | N/A |
+| 3 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
+| 4 | [#StopFOPNL](http://twitter.com/search?q=%23StopFOPNL) | N/A |
 | 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 6 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
-| 7 | [JalDiwas By ABP And Dhanuka](http://twitter.com/search?q=JalDiwas+By+ABP+And+Dhanuka) | N/A |
-| 8 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 9 | [Yamuna](http://twitter.com/search?q=Yamuna) | N/A |
-| 10 | [Uncle Ji](http://twitter.com/search?q=Uncle+Ji) | N/A |
-| 11 | [Madesh](http://twitter.com/search?q=Madesh) | N/A |
-| 12 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
-| 13 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 14 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 15 | [ACTION IS BACK](http://twitter.com/search?q=ACTION+IS+BACK) | N/A |
-| 16 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 17 | [Ravish](http://twitter.com/search?q=Ravish) | N/A |
-| 18 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 19 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 20 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 21 | [Ugadi](http://twitter.com/search?q=Ugadi) | N/A |
-| 22 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 23 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
-| 24 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 25 | [Maa Durga](http://twitter.com/search?q=Maa+Durga) | N/A |
-| 26 | [Poster](http://twitter.com/search?q=Poster) | N/A |
+| 6 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
+| 7 | [#MrsChatterjeeInspiring](http://twitter.com/search?q=%23MrsChatterjeeInspiring) | N/A |
+| 8 | [UNFAITHFUL ABDU ROZIK](http://twitter.com/search?q=UNFAITHFUL+ABDU+ROZIK) | N/A |
+| 9 | [FARHAD LEAVE HERAPHERI 3](http://twitter.com/search?q=FARHAD+LEAVE+HERAPHERI+3) | N/A |
+| 10 | [JalDiwas By ABP And Dhanuka](http://twitter.com/search?q=JalDiwas+By+ABP+And+Dhanuka) | N/A |
+| 11 | [Uncle ji](http://twitter.com/search?q=Uncle+ji) | N/A |
+| 12 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
+| 13 | [Yamuna](http://twitter.com/search?q=Yamuna) | N/A |
+| 14 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 15 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 16 | [Sunil Chhetri](http://twitter.com/search?q=Sunil+Chhetri) | N/A |
+| 17 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
+| 18 | [Madesh](http://twitter.com/search?q=Madesh) | N/A |
+| 19 | [मिथिला राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%a5%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 20 | [carey](http://twitter.com/search?q=carey) | N/A |
+| 21 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
+| 22 | [ACTION IS BACK](http://twitter.com/search?q=ACTION+IS+BACK) | N/A |
+| 23 | [Ravish](http://twitter.com/search?q=Ravish) | N/A |
+| 24 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 25 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 26 | [siraj](http://twitter.com/search?q=siraj) | N/A |
 | 27 | [Srilanka](http://twitter.com/search?q=Srilanka) | N/A |
-| 28 | [#ReelTokenListing](http://twitter.com/search?q=%23ReelTokenListing) | N/A |
-| 29 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 30 | [#KuldeepYadav](http://twitter.com/search?q=%23KuldeepYadav) | N/A |
-| 31 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
-| 32 | [#INDMYA](http://twitter.com/search?q=%23INDMYA) | N/A |
-| 33 | [#PadmaAwards2023](http://twitter.com/search?q=%23PadmaAwards2023) | N/A |
-| 34 | [#Prebook_realmeC55](http://twitter.com/search?q=%23Prebook_realmeC55) | N/A |
-| 35 | [#BritishHighCommission](http://twitter.com/search?q=%23BritishHighCommission) | N/A |
-| 36 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
-| 37 | [#Kantara2](http://twitter.com/search?q=%23Kantara2) | N/A |
-| 38 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
-| 39 | [#VNRTrio](http://twitter.com/search?q=%23VNRTrio) | N/A |
-| 40 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 41 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
-| 42 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 43 | [#rohitsharma𓃵](http://twitter.com/search?q=%23rohitsharma%f0%93%83%b5) | N/A |
-| 44 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
-| 45 | [#HappinessIndex](http://twitter.com/search?q=%23HappinessIndex) | N/A |
+| 28 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
+| 29 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 30 | [Poster](http://twitter.com/search?q=Poster) | N/A |
+| 31 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 32 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 33 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
+| 34 | [#reeltokenlisting](http://twitter.com/search?q=%23reeltokenlisting) | N/A |
+| 35 | [#PadmaAwards](http://twitter.com/search?q=%23PadmaAwards) | #PadmaAwards is an Indian civilian award given by the Government of India. It is one of the highest civilian awards in India, and is awarded in three categories: Padma Vibhushan, Padma Bhushan, and Padma Shri. The awards are given for exceptional and distinguished service in any field including art, literature, education, science, public affairs, social work, medicine, trade and industry. |
+| 36 | [#INDMYA](http://twitter.com/search?q=%23INDMYA) | N/A |
+| 37 | [#HBDDhvaniBhanushali](http://twitter.com/search?q=%23HBDDhvaniBhanushali) | N/A |
+| 38 | [#MaithilNotBihari](http://twitter.com/search?q=%23MaithilNotBihari) | N/A |
+| 39 | [#PragatiKaPMMitra](http://twitter.com/search?q=%23PragatiKaPMMitra) | N/A |
+| 40 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 41 | [#DroupadiMurmu](http://twitter.com/search?q=%23DroupadiMurmu) | N/A |
+| 42 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 43 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
+| 44 | [#kuldeepyadav](http://twitter.com/search?q=%23kuldeepyadav) | N/A |
+| 45 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
 | 46 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
-| 47 | [#Chepauk](http://twitter.com/search?q=%23Chepauk) | N/A |
-| 48 | [#BlueTigers](http://twitter.com/search?q=%23BlueTigers) | N/A |
-| 49 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
-| 50 | [#HeroTriNation](http://twitter.com/search?q=%23HeroTriNation) | N/A |
+| 47 | [#BoxOfficeKaBaap](http://twitter.com/search?q=%23BoxOfficeKaBaap) | N/A |
+| 48 | [#BritishHighCommission](http://twitter.com/search?q=%23BritishHighCommission) | N/A |
+| 49 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
+| 50 | [#HappinessIndex](http://twitter.com/search?q=%23HappinessIndex) | N/A |
 
 
 

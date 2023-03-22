@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-22 13:19:42 UTC`
+📆 Last Updated: `2023-03-22 14:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,51 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
-| 2 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
+| 2 | [Samson](http://twitter.com/search?q=Samson) | N/A |
 | 3 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 4 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 | 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 6 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 8 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 9 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 10 | [Renske](http://twitter.com/search?q=Renske) | N/A |
-| 11 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
-| 12 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
-| 13 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
-| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 17 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 18 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 19 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 20 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 21 | [Burgemeester](http://twitter.com/search?q=Burgemeester) | N/A |
-| 22 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 23 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 24 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
-| 25 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 26 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
-| 27 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 28 | [gefeliciteerd aad](http://twitter.com/search?q=gefeliciteerd+aad) | N/A |
-| 29 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 30 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 31 | [Gestemd](http://twitter.com/search?q=Gestemd) | N/A |
-| 32 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 33 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 34 | [overflakkee](http://twitter.com/search?q=overflakkee) | N/A |
-| 35 | [cda-top](http://twitter.com/search?q=cda-top) | N/A |
-| 36 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 37 | [voorlichting](http://twitter.com/search?q=voorlichting) | N/A |
-| 38 | [Madurodam](http://twitter.com/search?q=Madurodam) | N/A |
-| 39 | [Ernst Kuipers](http://twitter.com/search?q=Ernst+Kuipers) | N/A |
-| 40 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 41 | [Bezorgde VVD'ers](http://twitter.com/search?q=Bezorgde+VVD%27ers) | N/A |
-| 42 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 43 | [Advies](http://twitter.com/search?q=Advies) | N/A |
-| 44 | [Gerapporteerd](http://twitter.com/search?q=Gerapporteerd) | N/A |
-| 45 | [Nowruz](http://twitter.com/search?q=Nowruz) | N/A |
-| 46 | [Sander](http://twitter.com/search?q=Sander) | N/A |
-| 47 | [Jelle](http://twitter.com/search?q=Jelle) | N/A |
-| 48 | [van huffelen](http://twitter.com/search?q=van+huffelen) | N/A |
+| 6 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 7 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 8 | [europese commissie](http://twitter.com/search?q=europese+commissie) | N/A |
+| 9 | [Renske](http://twitter.com/search?q=Renske) | N/A |
+| 10 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 13 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
+| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 15 | [Janneke](http://twitter.com/search?q=Janneke) | N/A |
+| 16 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 17 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
+| 18 | [Gedaan](http://twitter.com/search?q=Gedaan) | N/A |
+| 19 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 20 | [Burgemeester](http://twitter.com/search?q=Burgemeester) | N/A |
+| 21 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
+| 22 | [Mores](http://twitter.com/search?q=Mores) | N/A |
+| 23 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 24 | [gestemd](http://twitter.com/search?q=gestemd) | N/A |
+| 25 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 26 | [gefeliciteerd aad](http://twitter.com/search?q=gefeliciteerd+aad) | N/A |
+| 27 | [Voorlichting](http://twitter.com/search?q=Voorlichting) | N/A |
+| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 29 | [Resident Evil](http://twitter.com/search?q=Resident+Evil) | N/A |
+| 30 | [cda-top](http://twitter.com/search?q=cda-top) | N/A |
+| 31 | [overflakkee](http://twitter.com/search?q=overflakkee) | N/A |
+| 32 | [goedemorgen wilco](http://twitter.com/search?q=goedemorgen+wilco) | N/A |
+| 33 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 34 | [Ernst Kuipers](http://twitter.com/search?q=Ernst+Kuipers) | N/A |
+| 35 | [Advies](http://twitter.com/search?q=Advies) | N/A |
+| 36 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
+| 37 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 38 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
+| 39 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 40 | [Nowruz](http://twitter.com/search?q=Nowruz) | N/A |
+| 41 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 42 | [Gerapporteerd](http://twitter.com/search?q=Gerapporteerd) | N/A |
+| 43 | [Bezorgde VVD'ers](http://twitter.com/search?q=Bezorgde+VVD%27ers) | N/A |
+| 44 | [sander schimmelpenninck](http://twitter.com/search?q=sander+schimmelpenninck) | N/A |
+| 45 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 46 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-03-22 13:19:59 UTC`
+📆 Last Updated: `2023-03-22 14:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Russia](</Russia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Китае](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b5) | N/A |
-| 2 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
-| 3 | [Clover Health Investments](http://twitter.com/search?q=Clover+Health+Investments) | N/A |
-| 4 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 5 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
-| 6 | [Bed Bath & Beyond](http://twitter.com/search?q=Bed+Bath+%26+Beyond) | N/A |
-| 7 | [Киеву](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d1%83) | N/A |
-| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 9 | [Си Цзиньпин](http://twitter.com/search?q=%d0%a1%d0%b8+%d0%a6%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd) | N/A |
-| 10 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
-| 11 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
-| 12 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
-| 13 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | N/A |
-| 14 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 15 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 16 | [С Днём Рождения](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc+%d0%a0%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 17 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
+| 2 | [clover health investments](http://twitter.com/search?q=clover+health+investments) | N/A |
+| 3 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 4 | [Zynerba Pharmaceuticals](http://twitter.com/search?q=Zynerba+Pharmaceuticals) | N/A |
+| 5 | [Bed Bath & Beyond](http://twitter.com/search?q=Bed+Bath+%26+Beyond) | N/A |
+| 6 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
+| 7 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
+| 8 | [Киеву](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d1%83) | N/A |
+| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 10 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
+| 11 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | N/A |
+| 12 | [Си Цзиньпин](http://twitter.com/search?q=%d0%a1%d0%b8+%d0%a6%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd) | N/A |
+| 13 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 14 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 15 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |
+| 16 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
+| 17 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
 | 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [WEST](http://twitter.com/search?q=WEST) | N/A |
-| 20 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 21 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | N/A |
-| 22 | [Польши](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b8) | N/A |
-| 23 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 24 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
-| 25 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 26 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
-| 27 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 28 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
-| 29 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
-| 30 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
-| 31 | [Запада](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
-| 32 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 33 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 34 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
-| 35 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 36 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 37 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
-| 38 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 39 | [Абсолютно](http://twitter.com/search?q=%d0%90%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
+| 19 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 20 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
+| 21 | [Арсений](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 22 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 23 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 24 | [West](http://twitter.com/search?q=West) | N/A |
+| 25 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 26 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
+| 27 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 28 | [Тбилиси](http://twitter.com/search?q=%d0%a2%d0%b1%d0%b8%d0%bb%d0%b8%d1%81%d0%b8) | N/A |
+| 29 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
+| 30 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 31 | [типа](http://twitter.com/search?q=%d1%82%d0%b8%d0%bf%d0%b0) | N/A |
+| 32 | [отлично](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 33 | [простите](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
+| 34 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
+| 35 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 36 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 37 | [Ждём](http://twitter.com/search?q=%d0%96%d0%b4%d1%91%d0%bc) | N/A |
+| 38 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 39 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 40 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
-| 41 | [трампа](http://twitter.com/search?q=%d1%82%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
-| 42 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 43 | [ОБОЖАЮ](http://twitter.com/search?q=%d0%9e%d0%91%d0%9e%d0%96%d0%90%d0%ae) | N/A |
-| 44 | [скорее](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 45 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 46 | [странно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 47 | [донбасса](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
-| 48 | [Байдена](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd%d0%b0) | N/A |
+| 41 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 44 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 45 | [Донбасса](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b0) | N/A |
+| 46 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 47 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
+| 48 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
+| 49 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
 
 
 
