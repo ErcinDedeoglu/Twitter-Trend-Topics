@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-22 19:17:20 UTC`
+📆 Last Updated: `2023-03-22 20:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 2 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
+| 3 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
+| 4 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
+| 5 | [Latein](http://twitter.com/search?q=Latein) | N/A |
 | 6 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 7 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 8 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 9 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 10 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 11 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 12 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
-| 13 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 14 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 15 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 16 | [Ablenkung](http://twitter.com/search?q=Ablenkung) | N/A |
-| 17 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 18 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 19 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 20 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 21 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
-| 22 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 23 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
-| 24 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 25 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 26 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 27 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
-| 28 | [#Source2](http://twitter.com/search?q=%23Source2) | N/A |
-| 29 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
-| 30 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 31 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 32 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 33 | [#StadtratC](http://twitter.com/search?q=%23StadtratC) | N/A |
-| 34 | [#Özil](http://twitter.com/search?q=%23%c3%96zil) | N/A |
-| 35 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
-| 36 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 37 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 38 | [#Reutlingen](http://twitter.com/search?q=%23Reutlingen) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 9 | [TT  AR44](http://twitter.com/search?q=TT++AR44) | N/A |
+| 10 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 11 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 12 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 13 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 14 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 15 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 16 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 17 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 18 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
+| 19 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
+| 20 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 21 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 23 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 24 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 25 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 28 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 29 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
+| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 31 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 32 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
+| 33 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 34 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
+| 35 | [Welches Vertrauen](http://twitter.com/search?q=Welches+Vertrauen) | N/A |
+| 36 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 37 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 38 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 39 | [Sommer 2023](http://twitter.com/search?q=Sommer+2023) | N/A |
+| 40 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
+| 41 | [Vorspeise](http://twitter.com/search?q=Vorspeise) | N/A |
+| 42 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
+| 43 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
+| 44 | [Feinde der Demokratie](http://twitter.com/search?q=Feinde+der+Demokratie) | N/A |
+| 45 | [Polizeibeamte und Soldaten](http://twitter.com/search?q=Polizeibeamte+und+Soldaten) | N/A |
+| 46 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 47 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 48 | [Latinum](http://twitter.com/search?q=Latinum) | N/A |
+| 49 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
 
 
 

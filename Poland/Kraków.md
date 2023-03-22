@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-22 19:17:16 UTC`
+📆 Last Updated: `2023-03-22 20:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
-| 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 3 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
-| 4 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
+| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 2 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
+| 3 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
+| 4 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
 | 5 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 6 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
-| 7 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 8 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 9 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 10 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 11 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
-| 12 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 13 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 14 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 15 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 6 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 7 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 8 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
+| 9 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 10 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 11 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 12 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
+| 13 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 14 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 15 | [Valve](http://twitter.com/search?q=Valve) | N/A |
 | 16 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 17 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 17 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
 | 18 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 19 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 20 | [Downa](http://twitter.com/search?q=Downa) | N/A |
-| 21 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 22 | [Japonia](http://twitter.com/search?q=Japonia) | N/A |
-| 23 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
+| 19 | [Downa](http://twitter.com/search?q=Downa) | N/A |
+| 20 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 21 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
+| 22 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
+| 23 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
 | 24 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 25 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
-| 26 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 27 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 25 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 26 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 27 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
 | 28 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 29 | [Sołowjow](http://twitter.com/search?q=So%c5%82owjow) | N/A |
-| 30 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 31 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 32 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 33 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 34 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 35 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 36 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 37 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 38 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 39 | [starsza](http://twitter.com/search?q=starsza) | N/A |
-| 40 | [Zawierciu](http://twitter.com/search?q=Zawierciu) | N/A |
-| 41 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 29 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 30 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 31 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 32 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 33 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 34 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 35 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
+| 36 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 37 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 38 | [starsza](http://twitter.com/search?q=starsza) | N/A |
+| 39 | [zawierciu](http://twitter.com/search?q=zawierciu) | N/A |
+| 40 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 41 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 42 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
 | 43 | [Dworzec PKP](http://twitter.com/search?q=Dworzec+PKP) | N/A |
 | 44 | [Bilewicz](http://twitter.com/search?q=Bilewicz) | N/A |
 | 45 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
-| 46 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
-| 47 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
+| 46 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
+| 47 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
 | 48 | [Angielski](http://twitter.com/search?q=Angielski) | N/A |
 
 

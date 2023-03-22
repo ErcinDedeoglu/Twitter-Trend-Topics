@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-22 19:17:14 UTC`
+📆 Last Updated: `2023-03-22 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 2 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 3 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 4 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 5 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 6 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 7 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 8 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 9 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 10 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 11 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 12 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 13 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 14 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 15 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 16 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 17 | [Ouro](http://twitter.com/search?q=Ouro) | N/A |
-| 18 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 19 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 20 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 21 | [HAILEE](http://twitter.com/search?q=HAILEE) | N/A |
-| 22 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 23 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 24 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 25 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 26 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 27 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 28 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 29 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 30 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 31 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 32 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
-| 33 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 34 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
-| 35 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
-| 36 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
-| 37 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 38 | [Primeira Comunhão](http://twitter.com/search?q=Primeira+Comunh%c3%a3o) | N/A |
-| 39 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 40 | [Pronografia](http://twitter.com/search?q=Pronografia) | N/A |
-| 41 | [WhatsApp 2](http://twitter.com/search?q=WhatsApp+2) | N/A |
-| 42 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 43 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 1 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
+| 2 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 3 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 5 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
+| 6 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 7 | [Bíblia](http://twitter.com/search?q=B%c3%adblia) | Bíblia is the Portuguese word for the Bible. It is derived from the Greek word biblia, which means "books". In English, it is used to refer to the Christian holy book that contains the Old and New Testaments. |
+| 8 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 9 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 10 | [Umbanda](http://twitter.com/search?q=Umbanda) | N/A |
+| 11 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 12 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 13 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 14 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 15 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 16 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 17 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 18 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 20 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 21 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 22 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 23 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 24 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 25 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 26 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 27 | [HAILEE](http://twitter.com/search?q=HAILEE) | N/A |
+| 28 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 29 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 30 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 31 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 32 | [Tranquiliza](http://twitter.com/search?q=Tranquiliza) | N/A |
+| 33 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 34 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
+| 35 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 36 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 37 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 38 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 39 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 40 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 41 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 42 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 43 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
 | 44 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 45 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 46 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 47 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 48 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
-| 49 | [Hellblade 2](http://twitter.com/search?q=Hellblade+2) | N/A |
-| 50 | [1 MILHÃO DA DOMITILA](http://twitter.com/search?q=1+MILH%c3%83O+DA+DOMITILA) | N/A |
+| 45 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 46 | [WhatsApp 2](http://twitter.com/search?q=WhatsApp+2) | N/A |
+| 47 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 48 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
+| 49 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 50 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
 
 
 

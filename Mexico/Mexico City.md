@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-22 19:17:07 UTC`
+📆 Last Updated: `2023-03-22 20:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 2 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 3 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
-| 4 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
+| 1 | [#JusticiaParaBeatriz](http://twitter.com/search?q=%23JusticiaParaBeatriz) | N/A |
+| 2 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 3 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 5 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 8 | [#PoderosoFilosito](http://twitter.com/search?q=%23PoderosoFilosito) | N/A |
-| 9 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
-| 10 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 11 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
-| 12 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 13 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
-| 14 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 15 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 16 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
-| 17 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 18 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
-| 19 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 20 | [Choix](http://twitter.com/search?q=Choix) | N/A |
-| 21 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 22 | [Bodrio](http://twitter.com/search?q=Bodrio) | N/A |
-| 23 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 24 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 25 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 26 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 27 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 28 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 29 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
-| 30 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 31 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 32 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 33 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 34 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 35 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 36 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
-| 37 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 38 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 39 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
-| 40 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 41 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 42 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 43 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 44 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 45 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 46 | [ESENCIA](http://twitter.com/search?q=ESENCIA) | N/A |
-| 47 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
-| 48 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
-| 49 | [#FrenemosElAborto](http://twitter.com/search?q=%23FrenemosElAborto) | N/A |
-| 50 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 6 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 7 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
+| 8 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 9 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 10 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
+| 11 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 12 | [SuJu](http://twitter.com/search?q=SuJu) | N/A |
+| 13 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 14 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
+| 15 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 16 | [Parque Bicentenario](http://twitter.com/search?q=Parque+Bicentenario) | N/A |
+| 17 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 18 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
+| 19 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 20 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 21 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 22 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
+| 23 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
+| 24 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 25 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 26 | [ES HOY ES HOY](http://twitter.com/search?q=ES+HOY+ES+HOY) | N/A |
+| 27 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 28 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 29 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 30 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
+| 31 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 32 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 33 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 34 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
+| 35 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
+| 36 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 37 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 38 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 39 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 40 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
+| 41 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 42 | [Infonavit](http://twitter.com/search?q=Infonavit) | N/A |
+| 43 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 44 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 45 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 46 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 47 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
+| 48 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
+| 49 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
+| 50 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
 
 
 

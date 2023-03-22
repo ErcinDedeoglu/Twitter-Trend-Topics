@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-22 19:17:33 UTC`
+📆 Last Updated: `2023-03-22 20:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,32 +38,32 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 21 | [chico malo mv out now](http://twitter.com/search?q=chico+malo+mv+out+now) | N/A |
 | 22 | [pre release](http://twitter.com/search?q=pre+release) | N/A |
 | 23 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
+| 24 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
+| 25 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 26 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
 | 27 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 28 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 29 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 30 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 31 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 32 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 29 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 31 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 32 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 | 33 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
 | 34 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 | 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 37 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 38 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 39 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 40 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 41 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 42 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 43 | [PEJUANG](http://twitter.com/search?q=PEJUANG) | N/A |
-| 44 | [Awal](http://twitter.com/search?q=Awal) | N/A |
-| 45 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
-| 46 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 47 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 48 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 49 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 36 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 37 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 38 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 39 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 40 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 41 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 42 | [PEJUANG](http://twitter.com/search?q=PEJUANG) | N/A |
+| 43 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 44 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 45 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 46 | [Awal](http://twitter.com/search?q=Awal) | N/A |
+| 47 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 48 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 49 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
 
 
 

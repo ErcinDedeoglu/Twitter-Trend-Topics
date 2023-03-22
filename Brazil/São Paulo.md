@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-22 19:17:14 UTC`
+📆 Last Updated: `2023-03-22 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CCXP](http://twitter.com/search?q=CCXP) | N/A |
-| 2 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 1 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
+| 2 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
 | 3 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
 | 4 | [#에이티즈](http://twitter.com/search?q=%23%ec%97%90%ec%9d%b4%ed%8b%b0%ec%a6%88) | N/A |
-| 5 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 6 | [Rafinha](http://twitter.com/search?q=Rafinha) | Rafinha is a Portuguese nickname meaning "little refined one". It is often used as a term of endearment for someone who is small and delicate. |
+| 5 | [Rafinha](http://twitter.com/search?q=Rafinha) | Rafinha is a Portuguese nickname meaning "little refined one". It is often used as a term of endearment for someone who is small and delicate. |
+| 6 | [Umbanda](http://twitter.com/search?q=Umbanda) | N/A |
 | 7 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 8 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 9 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 10 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 8 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 9 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 10 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
 | 11 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
 | 12 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
 | 13 | [Racista](http://twitter.com/search?q=Racista) | N/A |
-| 14 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 15 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 16 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 17 | [Juiz](http://twitter.com/search?q=Juiz) | N/A |
-| 18 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 19 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 20 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 21 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 22 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 23 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 14 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 15 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
+| 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 17 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 18 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 19 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 21 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 22 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 23 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 24 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 25 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 26 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 27 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 28 | [Ouro](http://twitter.com/search?q=Ouro) | N/A |
-| 29 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 30 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 31 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 32 | [HAILEE](http://twitter.com/search?q=HAILEE) | N/A |
-| 33 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 34 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 35 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 36 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
-| 37 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 38 | [Milio](http://twitter.com/search?q=Milio) | N/A |
-| 39 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 40 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 41 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 42 | [Crisma](http://twitter.com/search?q=Crisma) | N/A |
-| 43 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
-| 44 | [Nova Era](http://twitter.com/search?q=Nova+Era) | N/A |
-| 45 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
-| 46 | [Interlagos](http://twitter.com/search?q=Interlagos) | N/A |
-| 47 | [Drogras](http://twitter.com/search?q=Drogras) | N/A |
-| 48 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 49 | [Primeira Comunhão](http://twitter.com/search?q=Primeira+Comunh%c3%a3o) | N/A |
-| 50 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
+| 25 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 26 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 27 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 28 | [HAILEE](http://twitter.com/search?q=HAILEE) | N/A |
+| 29 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 30 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 31 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 32 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 33 | [Tranquiliza](http://twitter.com/search?q=Tranquiliza) | N/A |
+| 34 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 35 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 36 | [Mariele](http://twitter.com/search?q=Mariele) | N/A |
+| 37 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 38 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 39 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 40 | [Milio](http://twitter.com/search?q=Milio) | N/A |
+| 41 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 42 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 43 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 44 | [Religiosidade](http://twitter.com/search?q=Religiosidade) | N/A |
+| 45 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 46 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 47 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 48 | [WhatsApp 2](http://twitter.com/search?q=WhatsApp+2) | N/A |
+| 49 | [JOGO DA MORTE](http://twitter.com/search?q=JOGO+DA+MORTE) | N/A |
+| 50 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
 
 
 

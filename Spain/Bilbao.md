@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-03-22 19:17:22 UTC`
+📆 Last Updated: `2023-03-22 20:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 2 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 2 | [#Pasapalabra730](http://twitter.com/search?q=%23Pasapalabra730) | N/A |
 | 3 | [Guardia Civil](http://twitter.com/search?q=Guardia+Civil) | N/A |
-| 4 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 5 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 6 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
-| 7 | [#ElCazador686](http://twitter.com/search?q=%23ElCazador686) | N/A |
-| 8 | [#PcComponentesLG](http://twitter.com/search?q=%23PcComponentesLG) | N/A |
-| 9 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
-| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 11 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
-| 12 | [Chocho Volador](http://twitter.com/search?q=Chocho+Volador) | N/A |
-| 13 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 15 | [Ferreras](http://twitter.com/search?q=Ferreras) | N/A |
-| 16 | [María Gámez](http://twitter.com/search?q=Mar%c3%ada+G%c3%a1mez) | N/A |
-| 17 | [Pollon](http://twitter.com/search?q=Pollon) | N/A |
-| 18 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 19 | [Letonia](http://twitter.com/search?q=Letonia) | N/A |
-| 20 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 21 | [Creativo 2.0](http://twitter.com/search?q=Creativo+2.0) | N/A |
-| 22 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 23 | [Mercedes González](http://twitter.com/search?q=Mercedes+Gonz%c3%a1lez) | N/A |
-| 24 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 25 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 26 | [Cinesa](http://twitter.com/search?q=Cinesa) | N/A |
-| 27 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 28 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 29 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
-| 30 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 31 | [Orgullosos](http://twitter.com/search?q=Orgullosos) | N/A |
-| 32 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
-| 33 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 34 | [Banco de España](http://twitter.com/search?q=Banco+de+Espa%c3%b1a) | N/A |
-| 35 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
-| 36 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 37 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 38 | [13tv](http://twitter.com/search?q=13tv) | N/A |
-| 39 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 40 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 41 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
-| 42 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 43 | [Pablo Cambronero](http://twitter.com/search?q=Pablo+Cambronero) | N/A |
-| 44 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
-| 45 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
-| 46 | [Tajo](http://twitter.com/search?q=Tajo) | N/A |
-| 47 | [Españas](http://twitter.com/search?q=Espa%c3%b1as) | N/A |
+| 4 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 5 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 6 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 7 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 8 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
+| 9 | [#ElCazador686](http://twitter.com/search?q=%23ElCazador686) | N/A |
+| 10 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
+| 11 | [#ExpulsarAlReyYa](http://twitter.com/search?q=%23ExpulsarAlReyYa) | N/A |
+| 12 | [Snorlax](http://twitter.com/search?q=Snorlax) | N/A |
+| 13 | [Ferreras](http://twitter.com/search?q=Ferreras) | N/A |
+| 14 | [Chocho Volador](http://twitter.com/search?q=Chocho+Volador) | N/A |
+| 15 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 16 | [Pollon](http://twitter.com/search?q=Pollon) | N/A |
+| 17 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 18 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 19 | [Duval](http://twitter.com/search?q=Duval) | N/A |
+| 20 | [Charizard](http://twitter.com/search?q=Charizard) | N/A |
+| 21 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 22 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 23 | [María Gámez](http://twitter.com/search?q=Mar%c3%ada+G%c3%a1mez) | N/A |
+| 24 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 25 | [Ramadán](http://twitter.com/search?q=Ramad%c3%a1n) | N/A |
+| 26 | [Creativo 2.0](http://twitter.com/search?q=Creativo+2.0) | N/A |
+| 27 | [Letonia](http://twitter.com/search?q=Letonia) | N/A |
+| 28 | [Mercedes González](http://twitter.com/search?q=Mercedes+Gonz%c3%a1lez) | N/A |
+| 29 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 30 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 31 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
+| 32 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 33 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 34 | [Orgullosos](http://twitter.com/search?q=Orgullosos) | N/A |
+| 35 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 36 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
+| 37 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 38 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 39 | [El Banco de España](http://twitter.com/search?q=El+Banco+de+Espa%c3%b1a) | N/A |
+| 40 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 41 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 42 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 43 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
+| 44 | [Tajo](http://twitter.com/search?q=Tajo) | N/A |
+| 45 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
+| 46 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 47 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
 
 
 

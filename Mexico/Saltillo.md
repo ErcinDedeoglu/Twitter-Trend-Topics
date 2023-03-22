@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-22 19:17:09 UTC`
+📆 Last Updated: `2023-03-22 20:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
-| 3 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 6 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 7 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
-| 8 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 9 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
-| 10 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 11 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 12 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
-| 13 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 14 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
-| 15 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 16 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 5 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 6 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
+| 7 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 8 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
+| 9 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 10 | [SuJu](http://twitter.com/search?q=SuJu) | N/A |
+| 11 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 12 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
+| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 14 | [Parque Bicentenario](http://twitter.com/search?q=Parque+Bicentenario) | N/A |
+| 15 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 16 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
 | 17 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 18 | [Bodrio](http://twitter.com/search?q=Bodrio) | N/A |
-| 19 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 20 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 21 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 18 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 19 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 20 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
+| 21 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
 | 22 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 23 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 24 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 25 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
+| 23 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 24 | [ES HOY ES HOY](http://twitter.com/search?q=ES+HOY+ES+HOY) | N/A |
+| 25 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
 | 26 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 27 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 28 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 29 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 30 | [Richie](http://twitter.com/search?q=Richie) | N/A |
-| 31 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 32 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
-| 33 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 34 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 35 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
-| 36 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 27 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 28 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
+| 29 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 30 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 31 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 32 | [Don Ricardo](http://twitter.com/search?q=Don+Ricardo) | N/A |
+| 33 | [Banco del Bienestar](http://twitter.com/search?q=Banco+del+Bienestar) | N/A |
+| 34 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
+| 35 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 36 | [Richie](http://twitter.com/search?q=Richie) | N/A |
 | 37 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 38 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 39 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 40 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 41 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 42 | [Elektra](http://twitter.com/search?q=Elektra) | N/A |
-| 43 | [ESENCIA](http://twitter.com/search?q=ESENCIA) | N/A |
-| 44 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
-| 45 | [#YadiraEnConvoy](http://twitter.com/search?q=%23YadiraEnConvoy) | N/A |
-| 46 | [#AmericaLatinaEsProvida](http://twitter.com/search?q=%23AmericaLatinaEsProvida) | N/A |
+| 38 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 39 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
+| 40 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 41 | [Infonavit](http://twitter.com/search?q=Infonavit) | N/A |
+| 42 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 43 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 44 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 45 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 46 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
 
 
 

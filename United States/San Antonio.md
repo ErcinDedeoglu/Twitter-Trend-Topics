@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-22 19:17:57 UTC`
+📆 Last Updated: `2023-03-22 20:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 | 2 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
-| 3 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
-| 4 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 5 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 6 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 8 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 9 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 10 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 11 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
-| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 13 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 14 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 15 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 16 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 17 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 18 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 19 | [Jets or Browns](http://twitter.com/search?q=Jets+or+Browns) | N/A |
-| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 21 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 22 | [Armando Bacot](http://twitter.com/search?q=Armando+Bacot) | N/A |
-| 23 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 24 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 25 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 26 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 27 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 28 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 29 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 30 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 31 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 32 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 33 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 34 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 35 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 36 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 37 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 38 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 39 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 41 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
-| 42 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 43 | [JPow](http://twitter.com/search?q=JPow) | N/A |
-| 44 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 45 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 46 | [Hellblade 2](http://twitter.com/search?q=Hellblade+2) | N/A |
-| 47 | [Soroka](http://twitter.com/search?q=Soroka) | N/A |
-| 48 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 3 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 4 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
+| 5 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 6 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 7 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 8 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 9 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 10 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
+| 11 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 13 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 14 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 15 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 16 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 17 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 18 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 19 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 20 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 21 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 22 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 23 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 24 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 25 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 26 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 27 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 28 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 29 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 30 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 31 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
+| 32 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 33 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
+| 34 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 35 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 36 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 37 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 38 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 39 | [Austin Hooper](http://twitter.com/search?q=Austin+Hooper) | N/A |
+| 40 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 41 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 42 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 43 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
+| 44 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
+| 45 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 46 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
+| 47 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 48 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-03-22 19:17:39 UTC`
+📆 Last Updated: `2023-03-22 20:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 2 | [Ramadan Kareem](http://twitter.com/search?q=Ramadan+Kareem) | N/A |
-| 3 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 2 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 3 | [Ramadan Kareem](http://twitter.com/search?q=Ramadan+Kareem) | N/A |
 | 4 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 5 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 6 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 5 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 6 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
 | 7 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 8 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
 | 9 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 13 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
 | 14 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
 | 15 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 16 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
-| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 16 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 17 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
 | 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 19 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 20 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 21 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 22 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
-| 23 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 24 | [نبع العطاء](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
-| 25 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 26 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 27 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 28 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 29 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
-| 30 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 31 | [Happy Ugadi](http://twitter.com/search?q=Happy+Ugadi) | N/A |
-| 32 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 21 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 22 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 23 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 24 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 25 | [نبع العطاء](http://twitter.com/search?q=%d9%86%d8%a8%d8%b9+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
+| 26 | [سيده النساء](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1) | N/A |
+| 27 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 28 | [Happy Ugadi](http://twitter.com/search?q=Happy+Ugadi) | N/A |
+| 29 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 30 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
+| 31 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 32 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 33 | [مسعود أوزيل](http://twitter.com/search?q=%d9%85%d8%b3%d8%b9%d9%88%d8%af+%d8%a3%d9%88%d8%b2%d9%8a%d9%84) | N/A |
-| 34 | [الخلفاء الراشدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b4%d8%af%d9%8a%d9%86) | N/A |
-| 35 | [Elections](http://twitter.com/search?q=Elections) | N/A |
-| 36 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 37 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 38 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 39 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 40 | [القصه الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d9%87+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 41 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 42 | [المنشات الاصلاحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
-| 43 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 44 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 45 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 46 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 47 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 34 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 35 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 36 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 37 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 38 | [القصه الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d9%87+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 39 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 40 | [الخلفاء الراشدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b4%d8%af%d9%8a%d9%86) | N/A |
+| 41 | [المنشات الاصلاحيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad%d9%8a%d9%87) | N/A |
+| 42 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 43 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
+| 44 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 45 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 46 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 47 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
 | 48 | [المراه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 49 | [شهر الصوم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%88%d9%85) | N/A |
-| 50 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 49 | [صاحب السمو الشيخ الدكتور](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
+| 50 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 
 
 
