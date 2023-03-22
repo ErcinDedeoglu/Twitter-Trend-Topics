@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-22 14:17:25 UTC`
+📆 Last Updated: `2023-03-22 15:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PrivilegesCommittee](http://twitter.com/search?q=%23PrivilegesCommittee) | N/A |
-| 2 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 3 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
-| 4 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 5 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 6 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 7 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 8 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 9 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
-| 10 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
-| 11 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 12 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 13 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 14 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 15 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 16 | [Russia and China](http://twitter.com/search?q=Russia+and+China) | N/A |
-| 17 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 19 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 20 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 21 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 22 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 23 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 24 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 25 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 26 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 27 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 28 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 29 | [Leith](http://twitter.com/search?q=Leith) | N/A |
-| 30 | [Lindsay Hoyle](http://twitter.com/search?q=Lindsay+Hoyle) | N/A |
-| 31 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
-| 32 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
-| 33 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 34 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 35 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 36 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 37 | [Frank Warren](http://twitter.com/search?q=Frank+Warren) | N/A |
-| 38 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 39 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 40 | [Saturday Social](http://twitter.com/search?q=Saturday+Social) | N/A |
-| 41 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
-| 42 | [great age](http://twitter.com/search?q=great+age) | N/A |
-| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 44 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 45 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
-| 46 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 47 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 48 | [Boxing](http://twitter.com/search?q=Boxing) | N/A |
+| 1 | [GREAT AGE](http://twitter.com/search?q=GREAT+AGE) | N/A |
+| 2 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 3 | [simon case](http://twitter.com/search?q=simon+case) | N/A |
+| 4 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 5 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
+| 6 | [Brexiteer](http://twitter.com/search?q=Brexiteer) | N/A |
+| 7 | [#ToriesOut258](http://twitter.com/search?q=%23ToriesOut258) | N/A |
+| 8 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
+| 9 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 10 | [Bone](http://twitter.com/search?q=Bone) | N/A |
+| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 12 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 13 | [YouTubers](http://twitter.com/search?q=YouTubers) | N/A |
+| 14 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
+| 15 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 16 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 17 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 18 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
+| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 20 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 21 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 22 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 23 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 24 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 25 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 26 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 27 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 28 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
+| 29 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 31 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 33 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
+| 34 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 35 | [wilder](http://twitter.com/search?q=wilder) | N/A |
+| 36 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 37 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 38 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
+| 39 | [Nigel Farage](http://twitter.com/search?q=Nigel+Farage) | N/A |
+| 40 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
+| 41 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 42 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 43 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
+| 44 | [Fenners](http://twitter.com/search?q=Fenners) | N/A |
+| 45 | [Leith](http://twitter.com/search?q=Leith) | N/A |
+| 46 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 47 | [Hoyle](http://twitter.com/search?q=Hoyle) | N/A |
+| 48 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 49 | [Moylan](http://twitter.com/search?q=Moylan) | N/A |
+| 50 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-22 14:18:26 UTC`
+📆 Last Updated: `2023-03-22 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#22marzo](http://twitter.com/search?q=%2322marzo) | N/A |
 | 2 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
-| 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 5 | [#ilcommissarioricciardi2](http://twitter.com/search?q=%23ilcommissarioricciardi2) | N/A |
-| 6 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 7 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 8 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 9 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 10 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 11 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 13 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 14 | [Lucy Salani](http://twitter.com/search?q=Lucy+Salani) | N/A |
-| 15 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 16 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 17 | [claudia pandolfi](http://twitter.com/search?q=claudia+pandolfi) | N/A |
-| 18 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 19 | [Claudio Amendola](http://twitter.com/search?q=Claudio+Amendola) | N/A |
-| 20 | [Scalvini](http://twitter.com/search?q=Scalvini) | N/A |
-| 21 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 22 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 23 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 24 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
-| 25 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 26 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 27 | [Adige](http://twitter.com/search?q=Adige) | N/A |
-| 28 | [Paolo Carta](http://twitter.com/search?q=Paolo+Carta) | N/A |
-| 29 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 30 | [Citto Maselli](http://twitter.com/search?q=Citto+Maselli) | N/A |
+| 3 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 5 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 6 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 7 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 8 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 9 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 10 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
+| 11 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 12 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 13 | [Michela](http://twitter.com/search?q=Michela) | N/A |
+| 14 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 17 | [Lucy Salani](http://twitter.com/search?q=Lucy+Salani) | N/A |
+| 18 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
+| 19 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 20 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 21 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
+| 22 | [enrica](http://twitter.com/search?q=enrica) | N/A |
+| 23 | [Adige](http://twitter.com/search?q=Adige) | N/A |
+| 24 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
+| 25 | [Claudio Amendola](http://twitter.com/search?q=Claudio+Amendola) | N/A |
+| 26 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 27 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 28 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 29 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 30 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
 | 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 32 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
-| 33 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 34 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 35 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 36 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 37 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 38 | [thiago motta](http://twitter.com/search?q=thiago+motta) | N/A |
-| 39 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 40 | [pnrr](http://twitter.com/search?q=pnrr) | N/A |
-| 41 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 42 | [Miami Vice](http://twitter.com/search?q=Miami+Vice) | N/A |
-| 43 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 44 | [livia](http://twitter.com/search?q=livia) | N/A |
-| 45 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
-| 46 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 47 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
-| 48 | [Magnum](http://twitter.com/search?q=Magnum) | N/A |
-| 49 | [DeLorean](http://twitter.com/search?q=DeLorean) | N/A |
-| 50 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 32 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 33 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
+| 34 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 35 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 36 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 37 | [citto maselli](http://twitter.com/search?q=citto+maselli) | N/A |
+| 38 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 39 | [Zaporizhzhia](http://twitter.com/search?q=Zaporizhzhia) | N/A |
+| 40 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
+| 41 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 42 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
+| 43 | [miami vice](http://twitter.com/search?q=miami+vice) | N/A |
+| 44 | [Ariete](http://twitter.com/search?q=Ariete) | N/A |
+| 45 | [thiago motta](http://twitter.com/search?q=thiago+motta) | N/A |
+| 46 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 47 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 48 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 49 | [Dachau](http://twitter.com/search?q=Dachau) | N/A |
+| 50 | [Magnum](http://twitter.com/search?q=Magnum) | N/A |
 
 
 

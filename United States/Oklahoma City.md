@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-22 14:18:19 UTC`
+📆 Last Updated: `2023-03-22 15:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 2 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 3 | [isaiah joe](http://twitter.com/search?q=isaiah+joe) | N/A |
-| 4 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 5 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 10 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 13 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 14 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 15 | [good wednesday](http://twitter.com/search?q=good+wednesday) | N/A |
-| 16 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 17 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 18 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 19 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 20 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 21 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 22 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 24 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
-| 25 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 26 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 27 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 28 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 29 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 30 | [Jason David Frank](http://twitter.com/search?q=Jason+David+Frank) | N/A |
-| 31 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 32 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 33 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
-| 34 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 35 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
-| 36 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 37 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
-| 38 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
-| 39 | [MMPR](http://twitter.com/search?q=MMPR) | N/A |
-| 40 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 41 | [Captain Kirk](http://twitter.com/search?q=Captain+Kirk) | N/A |
-| 42 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 43 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 44 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
-| 45 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
-| 46 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
-| 47 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
-| 48 | [Great Morning](http://twitter.com/search?q=Great+Morning) | N/A |
-| 49 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
-| 50 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 4 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 5 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 8 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 9 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 10 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 13 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 15 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 16 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 17 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 18 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 19 | [DIRECTV](http://twitter.com/search?q=DIRECTV) | N/A |
+| 20 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 21 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
+| 22 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 23 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 24 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 25 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 26 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 27 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 28 | [Mr. Shatner](http://twitter.com/search?q=Mr.+Shatner) | N/A |
+| 29 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 30 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
+| 31 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 33 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 34 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 35 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 36 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 37 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 38 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 39 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 40 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 41 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 42 | [92nd](http://twitter.com/search?q=92nd) | N/A |
+| 43 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 44 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
+| 45 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
+| 46 | [Ashley Biden](http://twitter.com/search?q=Ashley+Biden) | N/A |
+| 47 | [Alcryst](http://twitter.com/search?q=Alcryst) | N/A |
+| 48 | [MMPR](http://twitter.com/search?q=MMPR) | N/A |
+| 49 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
+| 50 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
 
 
 

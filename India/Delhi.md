@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-22 14:18:22 UTC`
+📆 Last Updated: `2023-03-22 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 2 | [Aim To End TB](http://twitter.com/search?q=Aim+To+End+TB) | N/A |
-| 3 | [#PrakashBhakarMakrana](http://twitter.com/search?q=%23PrakashBhakarMakrana) | N/A |
-| 4 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
-| 5 | [#StopFOPNL](http://twitter.com/search?q=%23StopFOPNL) | N/A |
-| 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 7 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
-| 8 | [#MrsChatterjeeInspiring](http://twitter.com/search?q=%23MrsChatterjeeInspiring) | N/A |
+| 1 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 2 | [Happy Navratri](http://twitter.com/search?q=Happy+Navratri) | N/A |
+| 3 | [#gudipadwa2023](http://twitter.com/search?q=%23gudipadwa2023) | N/A |
+| 4 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 5 | [#EkKoriPremKatha](http://twitter.com/search?q=%23EkKoriPremKatha) | N/A |
+| 6 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 7 | [#TeesriBaarModiSarkar](http://twitter.com/search?q=%23TeesriBaarModiSarkar) | N/A |
+| 8 | [FARHAD LEAVE HERAPHERI 3](http://twitter.com/search?q=FARHAD+LEAVE+HERAPHERI+3) | N/A |
 | 9 | [UNFAITHFUL ABDU ROZIK](http://twitter.com/search?q=UNFAITHFUL+ABDU+ROZIK) | N/A |
-| 10 | [FARHAD LEAVE HERAPHERI 3](http://twitter.com/search?q=FARHAD+LEAVE+HERAPHERI+3) | N/A |
-| 11 | [JalDiwas By ABP And Dhanuka](http://twitter.com/search?q=JalDiwas+By+ABP+And+Dhanuka) | N/A |
-| 12 | [Uncle ji](http://twitter.com/search?q=Uncle+ji) | N/A |
-| 13 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
-| 14 | [Yamuna](http://twitter.com/search?q=Yamuna) | N/A |
-| 15 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 16 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
-| 17 | [Sunil Chhetri](http://twitter.com/search?q=Sunil+Chhetri) | N/A |
-| 18 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
-| 19 | [Madesh](http://twitter.com/search?q=Madesh) | N/A |
-| 20 | [मिथिला राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%a5%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 21 | [carey](http://twitter.com/search?q=carey) | N/A |
-| 22 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 23 | [Ravish](http://twitter.com/search?q=Ravish) | N/A |
-| 24 | [ACTION IS BACK](http://twitter.com/search?q=ACTION+IS+BACK) | N/A |
-| 25 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 26 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 27 | [siraj](http://twitter.com/search?q=siraj) | N/A |
-| 28 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 29 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
-| 30 | [Poster](http://twitter.com/search?q=Poster) | N/A |
-| 31 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 32 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 33 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
-| 34 | [#INDMYA](http://twitter.com/search?q=%23INDMYA) | N/A |
-| 35 | [#reeltokenlisting](http://twitter.com/search?q=%23reeltokenlisting) | N/A |
-| 36 | [#PadmaAwards](http://twitter.com/search?q=%23PadmaAwards) | #PadmaAwards is an Indian civilian award given by the Government of India. It is one of the highest civilian awards in India, and is awarded in three categories: Padma Vibhushan, Padma Bhushan, and Padma Shri. The awards are given for exceptional and distinguished service in any field including art, literature, education, science, public affairs, social work, medicine, trade and industry. |
-| 37 | [#HBDDhvaniBhanushali](http://twitter.com/search?q=%23HBDDhvaniBhanushali) | N/A |
-| 38 | [#MaithilNotBihari](http://twitter.com/search?q=%23MaithilNotBihari) | N/A |
-| 39 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 40 | [#PragatiKaPMMitra](http://twitter.com/search?q=%23PragatiKaPMMitra) | N/A |
-| 41 | [#DroupadiMurmu](http://twitter.com/search?q=%23DroupadiMurmu) | N/A |
-| 42 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 43 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
-| 44 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
-| 45 | [#kuldeepyadav](http://twitter.com/search?q=%23kuldeepyadav) | N/A |
-| 46 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
-| 47 | [#BoxOfficeKaBaap](http://twitter.com/search?q=%23BoxOfficeKaBaap) | N/A |
-| 48 | [#BritishHighCommission](http://twitter.com/search?q=%23BritishHighCommission) | N/A |
-| 49 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
-| 50 | [#HappinessIndex](http://twitter.com/search?q=%23HappinessIndex) | N/A |
+| 10 | [Aim To End TB](http://twitter.com/search?q=Aim+To+End+TB) | N/A |
+| 11 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 12 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 13 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
+| 14 | [Anirudh Thapa](http://twitter.com/search?q=Anirudh+Thapa) | N/A |
+| 15 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
+| 16 | [मिथिला राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%a5%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 17 | [Yamuna](http://twitter.com/search?q=Yamuna) | N/A |
+| 18 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
+| 19 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 20 | [Uncle ji](http://twitter.com/search?q=Uncle+ji) | N/A |
+| 21 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
+| 22 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 23 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
+| 24 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 25 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 26 | [Rashtrapati Bhavan](http://twitter.com/search?q=Rashtrapati+Bhavan) | N/A |
+| 27 | [Sunil Chhetri](http://twitter.com/search?q=Sunil+Chhetri) | N/A |
+| 28 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 29 | [Madesh](http://twitter.com/search?q=Madesh) | N/A |
+| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 31 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 32 | [Ravish](http://twitter.com/search?q=Ravish) | N/A |
+| 33 | [action is back](http://twitter.com/search?q=action+is+back) | N/A |
+| 34 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 35 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 36 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 37 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 38 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 39 | [#I_StandWith_PTR](http://twitter.com/search?q=%23I_StandWith_PTR) | N/A |
+| 40 | [#PadmaAwards2023](http://twitter.com/search?q=%23PadmaAwards2023) | N/A |
+| 41 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
+| 42 | [#prakashbhakarmakrana](http://twitter.com/search?q=%23prakashbhakarmakrana) | N/A |
+| 43 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 44 | [#MaithilNotBihari](http://twitter.com/search?q=%23MaithilNotBihari) | N/A |
+| 45 | [#INDMYA](http://twitter.com/search?q=%23INDMYA) | N/A |
+| 46 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
+| 47 | [#staraikelungal](http://twitter.com/search?q=%23staraikelungal) | N/A |
+| 48 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
+| 49 | [#mrschatterjeeinspiring](http://twitter.com/search?q=%23mrschatterjeeinspiring) | N/A |
+| 50 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
 
 
 

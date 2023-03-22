@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-22 14:18:07 UTC`
+📆 Last Updated: `2023-03-22 15:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 2 | [#قوم_کا_فیصلہ_عمران_خان](http://twitter.com/search?q=%23%d9%82%d9%88%d9%85_%da%a9%d8%a7_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 3 | [#زلزلہ](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d9%84%db%81) | N/A |
-| 4 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 5 | [ya allah reham](http://twitter.com/search?q=ya+allah+reham) | N/A |
-| 6 | [#هلال_رمضان](http://twitter.com/search?q=%23%d9%87%d9%84%d8%a7%d9%84_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 7 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
-| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 9 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
-| 10 | [Zalmay](http://twitter.com/search?q=Zalmay) | N/A |
-| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [Sabroso](http://twitter.com/search?q=Sabroso) | N/A |
-| 13 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 14 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 15 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 16 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
-| 17 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
-| 18 | [stay safe everyone](http://twitter.com/search?q=stay+safe+everyone) | N/A |
-| 19 | [faisalabad](http://twitter.com/search?q=faisalabad) | N/A |
-| 20 | [angoor adda](http://twitter.com/search?q=angoor+adda) | N/A |
-| 21 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 3 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 4 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 5 | [#زلزلہ](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d9%84%db%81) | N/A |
+| 6 | [ya allah reham](http://twitter.com/search?q=ya+allah+reham) | N/A |
+| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 8 | [Murtaza Bhutto](http://twitter.com/search?q=Murtaza+Bhutto) | N/A |
+| 9 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
+| 10 | [Stop Sunni Killing](http://twitter.com/search?q=Stop+Sunni+Killing) | N/A |
+| 11 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 12 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 13 | [Sabroso](http://twitter.com/search?q=Sabroso) | N/A |
+| 14 | [Zalmay](http://twitter.com/search?q=Zalmay) | N/A |
+| 15 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 16 | [faisalabad](http://twitter.com/search?q=faisalabad) | N/A |
+| 17 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 18 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
+| 19 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
+| 20 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
+| 21 | [stay safe everyone](http://twitter.com/search?q=stay+safe+everyone) | N/A |
 | 22 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 23 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
-| 24 | [islamkot](http://twitter.com/search?q=islamkot) | N/A |
-| 25 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 26 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 27 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 28 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 29 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
-| 33 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 34 | [Trash](http://twitter.com/search?q=Trash) | N/A |
-| 35 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 36 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 37 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 38 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 39 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 40 | [Jammu and Kashmir](http://twitter.com/search?q=Jammu+and+Kashmir) | N/A |
-| 41 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 42 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 43 | [Shia](http://twitter.com/search?q=Shia) | N/A |
-| 44 | [Patwaris](http://twitter.com/search?q=Patwaris) | N/A |
-| 45 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 23 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
+| 24 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 25 | [angoor adda](http://twitter.com/search?q=angoor+adda) | N/A |
+| 26 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 27 | [Donate Now](http://twitter.com/search?q=Donate+Now) | N/A |
+| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 29 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 30 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 31 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 32 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 33 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 34 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 35 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 36 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 37 | [Absolutely Not](http://twitter.com/search?q=Absolutely+Not) | N/A |
+| 38 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 39 | [Trash](http://twitter.com/search?q=Trash) | N/A |
+| 40 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 41 | [Jammu and Kashmir](http://twitter.com/search?q=Jammu+and+Kashmir) | N/A |
+| 42 | [Shia](http://twitter.com/search?q=Shia) | N/A |
+| 43 | [Patwaris](http://twitter.com/search?q=Patwaris) | N/A |
+| 44 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
+| 45 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
 | 46 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 47 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 48 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
-| 49 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 50 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 47 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 48 | [Amma](http://twitter.com/search?q=Amma) | N/A |
+| 49 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 50 | [Salute](http://twitter.com/search?q=Salute) | N/A |
 
 
 

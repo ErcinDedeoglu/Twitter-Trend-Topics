@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-03-22 14:17:49 UTC`
+📆 Last Updated: `2023-03-22 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Greece](</Greece>)
 | 1 | [#Protagonistes](http://twitter.com/search?q=%23Protagonistes) | N/A |
 | 2 | [#πρωταγωνιστες](http://twitter.com/search?q=%23%cf%80%cf%81%cf%89%cf%84%ce%b1%ce%b3%cf%89%ce%bd%ce%b9%cf%83%cf%84%ce%b5%cf%82) | N/A |
 | 3 | [#Θεοδωρακης](http://twitter.com/search?q=%23%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 4 | [#νερο](http://twitter.com/search?q=%23%ce%bd%ce%b5%cf%81%ce%bf) | N/A |
-| 5 | [#survivorGR](http://twitter.com/search?q=%23survivorGR) | #SurvivorGR is a hashtag used on social media to refer to the Greek version of the reality TV show Survivor. It is used to discuss the show, share updates, and connect with other fans. In English, it stands for "Survivor Greece". |
-| 6 | [Τακη](http://twitter.com/search?q=%ce%a4%ce%b1%ce%ba%ce%b7) | N/A |
-| 7 | [Μαιο](http://twitter.com/search?q=%ce%9c%ce%b1%ce%b9%ce%bf) | N/A |
-| 8 | [Μπελλος](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%bb%ce%bb%ce%bf%cf%82) | N/A |
-| 9 | [21 μαρτιου](http://twitter.com/search?q=21+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
-| 10 | [πολυξενη](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%ce%be%ce%b5%ce%bd%ce%b7) | N/A |
-| 11 | [Ακριτα](http://twitter.com/search?q=%ce%91%ce%ba%cf%81%ce%b9%cf%84%ce%b1) | N/A |
-| 12 | [Ρουβικωνα](http://twitter.com/search?q=%ce%a1%ce%bf%cf%85%ce%b2%ce%b9%ce%ba%cf%89%ce%bd%ce%b1) | N/A |
-| 13 | [ΕΥΔΑΠ](http://twitter.com/search?q=%ce%95%ce%a5%ce%94%ce%91%ce%a0) | N/A |
-| 14 | [Γκοτση](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7) | N/A |
-| 15 | [ματσουκαρου](http://twitter.com/search?q=%ce%bc%ce%b1%cf%84%cf%83%ce%bf%cf%85%ce%ba%ce%b1%cf%81%ce%bf%cf%85) | N/A |
-| 16 | [δακε](http://twitter.com/search?q=%ce%b4%ce%b1%ce%ba%ce%b5) | N/A |
-| 17 | [Μουτσινας](http://twitter.com/search?q=%ce%9c%ce%bf%cf%85%cf%84%cf%83%ce%b9%ce%bd%ce%b1%cf%82) | N/A |
-| 18 | [συνδρομο down](http://twitter.com/search?q=%cf%83%cf%85%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf+down) | N/A |
-| 19 | [Εφετειο](http://twitter.com/search?q=%ce%95%cf%86%ce%b5%cf%84%ce%b5%ce%b9%ce%bf) | N/A |
-| 20 | [τεντομας](http://twitter.com/search?q=%cf%84%ce%b5%ce%bd%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
-| 21 | [μπεη](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%b7) | N/A |
-| 22 | [λιανος](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 23 | [Πασχα](http://twitter.com/search?q=%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
-| 24 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
-| 25 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 26 | [φαρμακης](http://twitter.com/search?q=%cf%86%ce%b1%cf%81%ce%bc%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 27 | [νικητας](http://twitter.com/search?q=%ce%bd%ce%b9%ce%ba%ce%b7%cf%84%ce%b1%cf%82) | N/A |
-| 28 | [Γκλετσος](http://twitter.com/search?q=%ce%93%ce%ba%ce%bb%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
-| 29 | [ρατσισμου](http://twitter.com/search?q=%cf%81%ce%b1%cf%84%cf%83%ce%b9%cf%83%ce%bc%ce%bf%cf%85) | N/A |
-| 30 | [Γερασιμος](http://twitter.com/search?q=%ce%93%ce%b5%cf%81%ce%b1%cf%83%ce%b9%ce%bc%ce%bf%cf%82) | N/A |
-| 31 | [αταμαν](http://twitter.com/search?q=%ce%b1%cf%84%ce%b1%ce%bc%ce%b1%ce%bd) | N/A |
-| 32 | [πορφυρης](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7%cf%82) | N/A |
-| 33 | [Τεταρτης](http://twitter.com/search?q=%ce%a4%ce%b5%cf%84%ce%b1%cf%81%cf%84%ce%b7%cf%82) | N/A |
-| 34 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 35 | [λενη](http://twitter.com/search?q=%ce%bb%ce%b5%ce%bd%ce%b7) | N/A |
-| 36 | [Λαρισα](http://twitter.com/search?q=%ce%9b%ce%b1%cf%81%ce%b9%cf%83%ce%b1) | N/A |
-| 37 | [Χατζη](http://twitter.com/search?q=%ce%a7%ce%b1%cf%84%ce%b6%ce%b7) | N/A |
-| 38 | [Φενερ](http://twitter.com/search?q=%ce%a6%ce%b5%ce%bd%ce%b5%cf%81) | N/A |
-| 39 | [25ης Μαρτιου](http://twitter.com/search?q=25%ce%b7%cf%82+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
-| 40 | [μαστορακη](http://twitter.com/search?q=%ce%bc%ce%b1%cf%83%cf%84%ce%bf%cf%81%ce%b1%ce%ba%ce%b7) | N/A |
-| 41 | [Μυκονο](http://twitter.com/search?q=%ce%9c%cf%85%ce%ba%ce%bf%ce%bd%ce%bf) | N/A |
-| 42 | [Γιωρικα](http://twitter.com/search?q=%ce%93%ce%b9%cf%89%cf%81%ce%b9%ce%ba%ce%b1) | N/A |
-| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 44 | [Ηπειρο](http://twitter.com/search?q=%ce%97%cf%80%ce%b5%ce%b9%cf%81%ce%bf) | N/A |
-| 45 | [Ηλιουπολη](http://twitter.com/search?q=%ce%97%ce%bb%ce%b9%ce%bf%cf%85%cf%80%ce%bf%ce%bb%ce%b7) | N/A |
-| 46 | [η μαρινα](http://twitter.com/search?q=%ce%b7+%ce%bc%ce%b1%cf%81%ce%b9%ce%bd%ce%b1) | N/A |
-| 47 | [Πετρος](http://twitter.com/search?q=%ce%a0%ce%b5%cf%84%cf%81%ce%bf%cf%82) | N/A |
-| 48 | [Εθνικης](http://twitter.com/search?q=%ce%95%ce%b8%ce%bd%ce%b9%ce%ba%ce%b7%cf%82) | N/A |
-| 49 | [Λασο](http://twitter.com/search?q=%ce%9b%ce%b1%cf%83%ce%bf) | N/A |
-| 50 | [Κανεναν](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bd%ce%b5%ce%bd%ce%b1%ce%bd) | N/A |
+| 4 | [#shoppingstar](http://twitter.com/search?q=%23shoppingstar) | N/A |
+| 5 | [#νερο](http://twitter.com/search?q=%23%ce%bd%ce%b5%cf%81%ce%bf) | N/A |
+| 6 | [Μαιο](http://twitter.com/search?q=%ce%9c%ce%b1%ce%b9%ce%bf) | N/A |
+| 7 | [ακριτα](http://twitter.com/search?q=%ce%b1%ce%ba%cf%81%ce%b9%cf%84%ce%b1) | N/A |
+| 8 | [μπελλος](http://twitter.com/search?q=%ce%bc%cf%80%ce%b5%ce%bb%ce%bb%ce%bf%cf%82) | N/A |
+| 9 | [ΕΥΔΑΠ](http://twitter.com/search?q=%ce%95%ce%a5%ce%94%ce%91%ce%a0) | N/A |
+| 10 | [21 μαρτιου](http://twitter.com/search?q=21+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
+| 11 | [Ρουβικωνα](http://twitter.com/search?q=%ce%a1%ce%bf%cf%85%ce%b2%ce%b9%ce%ba%cf%89%ce%bd%ce%b1) | N/A |
+| 12 | [πολυξενη](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%ce%be%ce%b5%ce%bd%ce%b7) | N/A |
+| 13 | [ματσουκαρου](http://twitter.com/search?q=%ce%bc%ce%b1%cf%84%cf%83%ce%bf%cf%85%ce%ba%ce%b1%cf%81%ce%bf%cf%85) | N/A |
+| 14 | [δακε](http://twitter.com/search?q=%ce%b4%ce%b1%ce%ba%ce%b5) | N/A |
+| 15 | [Εφετειο](http://twitter.com/search?q=%ce%95%cf%86%ce%b5%cf%84%ce%b5%ce%b9%ce%bf) | N/A |
+| 16 | [Γκοτση](http://twitter.com/search?q=%ce%93%ce%ba%ce%bf%cf%84%cf%83%ce%b7) | N/A |
+| 17 | [συνδρομο down](http://twitter.com/search?q=%cf%83%cf%85%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf+down) | N/A |
+| 18 | [μουτσινας](http://twitter.com/search?q=%ce%bc%ce%bf%cf%85%cf%84%cf%83%ce%b9%ce%bd%ce%b1%cf%82) | N/A |
+| 19 | [τεντομας](http://twitter.com/search?q=%cf%84%ce%b5%ce%bd%cf%84%ce%bf%ce%bc%ce%b1%cf%82) | N/A |
+| 20 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
+| 21 | [Μπεη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b7) | N/A |
+| 22 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 23 | [ρατσισμου](http://twitter.com/search?q=%cf%81%ce%b1%cf%84%cf%83%ce%b9%cf%83%ce%bc%ce%bf%cf%85) | N/A |
+| 24 | [Πασχα](http://twitter.com/search?q=%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
+| 25 | [Γκλετσος](http://twitter.com/search?q=%ce%93%ce%ba%ce%bb%ce%b5%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 26 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 27 | [25ης Μαρτιου](http://twitter.com/search?q=25%ce%b7%cf%82+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
+| 28 | [Λιανος](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
+| 29 | [Τεταρτης](http://twitter.com/search?q=%ce%a4%ce%b5%cf%84%ce%b1%cf%81%cf%84%ce%b7%cf%82) | N/A |
+| 30 | [αφρο](http://twitter.com/search?q=%ce%b1%cf%86%cf%81%ce%bf) | N/A |
+| 31 | [Ελενη Ραντου](http://twitter.com/search?q=%ce%95%ce%bb%ce%b5%ce%bd%ce%b7+%ce%a1%ce%b1%ce%bd%cf%84%ce%bf%cf%85) | N/A |
+| 32 | [Χατζη](http://twitter.com/search?q=%ce%a7%ce%b1%cf%84%ce%b6%ce%b7) | N/A |
+| 33 | [φενερ](http://twitter.com/search?q=%cf%86%ce%b5%ce%bd%ce%b5%cf%81) | N/A |
+| 34 | [Λαρισα](http://twitter.com/search?q=%ce%9b%ce%b1%cf%81%ce%b9%cf%83%ce%b1) | N/A |
+| 35 | [Εθνικης](http://twitter.com/search?q=%ce%95%ce%b8%ce%bd%ce%b9%ce%ba%ce%b7%cf%82) | N/A |
+| 36 | [Ελισαβετ](http://twitter.com/search?q=%ce%95%ce%bb%ce%b9%cf%83%ce%b1%ce%b2%ce%b5%cf%84) | N/A |
+| 37 | [πετρος](http://twitter.com/search?q=%cf%80%ce%b5%cf%84%cf%81%ce%bf%cf%82) | N/A |
+| 38 | [Μαστορακη](http://twitter.com/search?q=%ce%9c%ce%b1%cf%83%cf%84%ce%bf%cf%81%ce%b1%ce%ba%ce%b7) | N/A |
+| 39 | [Αταμαν](http://twitter.com/search?q=%ce%91%cf%84%ce%b1%ce%bc%ce%b1%ce%bd) | N/A |
+| 40 | [Ηπειρο](http://twitter.com/search?q=%ce%97%cf%80%ce%b5%ce%b9%cf%81%ce%bf) | N/A |
+| 41 | [πορφυρη](http://twitter.com/search?q=%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7) | N/A |
+| 42 | [Νεα Σμυρνη](http://twitter.com/search?q=%ce%9d%ce%b5%ce%b1+%ce%a3%ce%bc%cf%85%cf%81%ce%bd%ce%b7) | N/A |
+| 43 | [η μαρινα](http://twitter.com/search?q=%ce%b7+%ce%bc%ce%b1%cf%81%ce%b9%ce%bd%ce%b1) | N/A |
+| 44 | [Γιωρικα](http://twitter.com/search?q=%ce%93%ce%b9%cf%89%cf%81%ce%b9%ce%ba%ce%b1) | N/A |
+| 45 | [φαρμακη](http://twitter.com/search?q=%cf%86%ce%b1%cf%81%ce%bc%ce%b1%ce%ba%ce%b7) | N/A |
+| 46 | [Τσαπανιδου](http://twitter.com/search?q=%ce%a4%cf%83%ce%b1%cf%80%ce%b1%ce%bd%ce%b9%ce%b4%ce%bf%cf%85) | N/A |
+| 47 | [Μαριαλενα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%b1%ce%bb%ce%b5%ce%bd%ce%b1) | N/A |
+| 48 | [καλημερα γρηγορη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%b3%cf%81%ce%b7%ce%b3%ce%bf%cf%81%ce%b7) | N/A |
+| 49 | [Υπερταμειο](http://twitter.com/search?q=%ce%a5%cf%80%ce%b5%cf%81%cf%84%ce%b1%ce%bc%ce%b5%ce%b9%ce%bf) | N/A |
+| 50 | [η στελλα](http://twitter.com/search?q=%ce%b7+%cf%83%cf%84%ce%b5%ce%bb%ce%bb%ce%b1) | N/A |
 
 
 

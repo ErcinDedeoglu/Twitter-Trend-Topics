@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-22 14:18:13 UTC`
+📆 Last Updated: `2023-03-22 15:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,46 @@ This is top 50 for [United States](</United States>)
 | 3 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 4 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
 | 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 6 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 | 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 11 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
 | 12 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 13 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 14 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 15 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 16 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 17 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 19 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 20 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 22 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
-| 23 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
-| 24 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 25 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 26 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 27 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 28 | [Jason David Frank](http://twitter.com/search?q=Jason+David+Frank) | N/A |
+| 13 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 14 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 15 | [DIRECTV](http://twitter.com/search?q=DIRECTV) | N/A |
+| 16 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 17 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
+| 18 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 19 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 20 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 21 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
+| 22 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 23 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 24 | [Mr. Shatner](http://twitter.com/search?q=Mr.+Shatner) | N/A |
+| 25 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 26 | [Denny Crane](http://twitter.com/search?q=Denny+Crane) | N/A |
+| 27 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 28 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 29 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 30 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 31 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
-| 32 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 33 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
-| 34 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 35 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
-| 36 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
-| 37 | [MMPR](http://twitter.com/search?q=MMPR) | N/A |
-| 38 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 39 | [Captain Kirk](http://twitter.com/search?q=Captain+Kirk) | N/A |
-| 40 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 41 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 42 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
-| 43 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
-| 44 | [Tekashi](http://twitter.com/search?q=Tekashi) | N/A |
-| 45 | [Snitches](http://twitter.com/search?q=Snitches) | N/A |
-| 46 | [Great Morning](http://twitter.com/search?q=Great+Morning) | N/A |
+| 30 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 31 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 32 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 33 | [George Benson](http://twitter.com/search?q=George+Benson) | N/A |
+| 34 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 35 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 36 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 37 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 38 | [92nd](http://twitter.com/search?q=92nd) | N/A |
+| 39 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 40 | [Mr. Pickles](http://twitter.com/search?q=Mr.+Pickles) | N/A |
+| 41 | [IHOP](http://twitter.com/search?q=IHOP) | N/A |
+| 42 | [Ashley Biden](http://twitter.com/search?q=Ashley+Biden) | N/A |
+| 43 | [Alcryst](http://twitter.com/search?q=Alcryst) | N/A |
+| 44 | [Team 1](http://twitter.com/search?q=Team+1) | N/A |
+| 45 | [Carl Weathers](http://twitter.com/search?q=Carl+Weathers) | N/A |
 
 
 

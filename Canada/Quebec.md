@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-22 14:17:24 UTC`
+📆 Last Updated: `2023-03-22 15:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 2 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 4 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 5 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 4 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 5 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
 | 6 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
 | 7 | [#WorldDownSyndromeDay](http://twitter.com/search?q=%23WorldDownSyndromeDay) | N/A |
-| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 8 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
 | 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 11 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 12 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 13 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
-| 14 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 15 | [#FightRacism](http://twitter.com/search?q=%23FightRacism) | N/A |
-| 16 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
-| 17 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 18 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 19 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 10 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 11 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
+| 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 13 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 14 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 15 | [#rockyoursocks](http://twitter.com/search?q=%23rockyoursocks) | N/A |
+| 16 | [#BudgetQc2023](http://twitter.com/search?q=%23BudgetQc2023) | N/A |
+| 17 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 18 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 19 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 20 | [Telford](http://twitter.com/search?q=Telford) | N/A |
 | 21 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
 | 22 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
 | 23 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 24 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 25 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 26 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
-| 27 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 28 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 29 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 30 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 31 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 32 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 24 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 25 | [sergachev](http://twitter.com/search?q=sergachev) | N/A |
+| 26 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 27 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 28 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 29 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 30 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 31 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 32 | [giec](http://twitter.com/search?q=giec) | N/A |
 | 33 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
-| 36 | [kirby dach](http://twitter.com/search?q=kirby+dach) | N/A |
-| 37 | [sorokin](http://twitter.com/search?q=sorokin) | N/A |
-| 38 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 39 | [Québec](http://twitter.com/search?q=Qu%c3%a9bec) | N/A |
+| 34 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 35 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 36 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 37 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 38 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 39 | [McGill](http://twitter.com/search?q=McGill) | N/A |
 | 40 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 41 | [McGill](http://twitter.com/search?q=McGill) | N/A |
-| 42 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 41 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 42 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
 | 43 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 44 | [Sylvie](http://twitter.com/search?q=Sylvie) | N/A |
-| 45 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 46 | [aaron loup](http://twitter.com/search?q=aaron+loup) | N/A |
-| 47 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
-| 48 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 49 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 50 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 44 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 45 | [Saunders](http://twitter.com/search?q=Saunders) | N/A |
+| 46 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 47 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 48 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 49 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 50 | [Bard](http://twitter.com/search?q=Bard) | N/A |
 
 
 
