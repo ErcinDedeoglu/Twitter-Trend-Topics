@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-22 04:17:19 UTC`
+📆 Last Updated: `2023-03-22 05:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetsGoCanes](http://twitter.com/search?q=%23LetsGoCanes) | N/A |
-| 2 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 4 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 1 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 2 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 3 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 4 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 7 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 8 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 9 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 10 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 11 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 12 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 13 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 15 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 16 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 17 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 18 | [#WBCfinal](http://twitter.com/search?q=%23WBCfinal) | N/A |
-| 19 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 20 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
-| 21 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 22 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
-| 23 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 24 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 25 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 26 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 27 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 28 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
-| 29 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 30 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 31 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 32 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 33 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 34 | [Terance Mann](http://twitter.com/search?q=Terance+Mann) | N/A |
-| 35 | [jason adam](http://twitter.com/search?q=jason+adam) | N/A |
-| 36 | [Top of the 9th](http://twitter.com/search?q=Top+of+the+9th) | N/A |
-| 37 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
-| 38 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 39 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 40 | [What a WBC](http://twitter.com/search?q=What+a+WBC) | N/A |
-| 41 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 7 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 8 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 9 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 10 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 11 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 12 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 13 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 14 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 15 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 16 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 17 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 18 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 19 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 20 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
+| 21 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 22 | [PG13](http://twitter.com/search?q=PG13) | N/A |
+| 23 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 24 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 25 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 26 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 27 | [Hope PG](http://twitter.com/search?q=Hope+PG) | N/A |
+| 28 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
+| 29 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 30 | [#WBCfinal](http://twitter.com/search?q=%23WBCfinal) | N/A |
+| 31 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
+| 32 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 33 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
+| 34 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 35 | [Prayers for PG](http://twitter.com/search?q=Prayers+for+PG) | N/A |
+| 36 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 37 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 38 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 39 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 40 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 41 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
 | 42 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 43 | [Davion Mitchell](http://twitter.com/search?q=Davion+Mitchell) | N/A |
-| 44 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 45 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
-| 46 | [Bryce Harper](http://twitter.com/search?q=Bryce+Harper) | N/A |
-| 47 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 48 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
-| 49 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 50 | [schwarbs](http://twitter.com/search?q=schwarbs) | N/A |
+| 43 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 44 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 45 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 46 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 47 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 48 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 49 | [Terrance Mann](http://twitter.com/search?q=Terrance+Mann) | N/A |
+| 50 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
 
 
 

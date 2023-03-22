@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-22 04:17:29 UTC`
+📆 Last Updated: `2023-03-22 05:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Denmark
 | 7 | [#Sldk](http://twitter.com/search?q=%23Sldk) | N/A |
 | 8 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
 | 9 | [#COP28](http://twitter.com/search?q=%23COP28) | N/A |
-| 10 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
+| 10 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
 | 11 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
 | 12 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
 | 13 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
@@ -37,17 +37,17 @@ This is top 50 for Denmark
 | 20 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
 | 21 | [lars friis](http://twitter.com/search?q=lars+friis) | N/A |
 | 22 | [mærsk](http://twitter.com/search?q=m%c3%a6rsk) | N/A |
-| 23 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
+| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 24 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
 | 25 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 27 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 28 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 29 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 30 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 31 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
-| 32 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
-| 33 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 26 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 27 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 28 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 30 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
+| 31 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
+| 32 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 33 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
 | 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 35 | [torben](http://twitter.com/search?q=torben) | N/A |
 | 36 | [første](http://twitter.com/search?q=f%c3%b8rste) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Denmark
 | 40 | [jelert](http://twitter.com/search?q=jelert) | N/A |
 | 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 42 | [Apropos](http://twitter.com/search?q=Apropos) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
-| 45 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
-| 46 | [vavro](http://twitter.com/search?q=vavro) | N/A |
-| 47 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 48 | [ankersen](http://twitter.com/search?q=ankersen) | N/A |
-| 49 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 50 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 43 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
+| 44 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
+| 45 | [vavro](http://twitter.com/search?q=vavro) | N/A |
+| 46 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 47 | [ankersen](http://twitter.com/search?q=ankersen) | N/A |
+| 48 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 

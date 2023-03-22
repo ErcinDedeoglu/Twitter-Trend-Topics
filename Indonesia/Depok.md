@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-22 04:16:56 UTC`
+📆 Last Updated: `2023-03-22 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,34 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 1 | [Selamat Hari Raya Nyepi](http://twitter.com/search?q=Selamat+Hari+Raya+Nyepi) | N/A |
 | 2 | [#KitaDukungGanjar](http://twitter.com/search?q=%23KitaDukungGanjar) | N/A |
 | 3 | [#DOJAEJUNG](http://twitter.com/search?q=%23DOJAEJUNG) | N/A |
 | 4 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 5 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 6 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 7 | [#StimunoSirupAman](http://twitter.com/search?q=%23StimunoSirupAman) | N/A |
-| 8 | [prabowo pilihanideal rakyat](http://twitter.com/search?q=prabowo+pilihanideal+rakyat) | N/A |
-| 9 | [terbukti prabowo bikinnyaman](http://twitter.com/search?q=terbukti+prabowo+bikinnyaman) | N/A |
-| 10 | [kunjungi dekade 08](http://twitter.com/search?q=kunjungi+dekade+08) | N/A |
-| 11 | [daya tahan tubuh](http://twitter.com/search?q=daya+tahan+tubuh) | N/A |
-| 12 | [pulung agustanto](http://twitter.com/search?q=pulung+agustanto) | N/A |
-| 13 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 14 | [Tiara](http://twitter.com/search?q=Tiara) | N/A |
-| 15 | [Tahun Baru Saka 1945](http://twitter.com/search?q=Tahun+Baru+Saka+1945) | N/A |
-| 16 | [Alshad](http://twitter.com/search?q=Alshad) | N/A |
-| 17 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 18 | [si paling micellar](http://twitter.com/search?q=si+paling+micellar) | N/A |
-| 19 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 20 | [Sedekah](http://twitter.com/search?q=Sedekah) | N/A |
-| 21 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
-| 22 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
-| 25 | [Bibble](http://twitter.com/search?q=Bibble) | N/A |
-| 26 | [BEATBOX ENGLISH VER OUT NOW](http://twitter.com/search?q=BEATBOX+ENGLISH+VER+OUT+NOW) | N/A |
-| 27 | [Staycation Jadi Hemat](http://twitter.com/search?q=Staycation+Jadi+Hemat) | N/A |
-| 28 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 29 | [Barongko](http://twitter.com/search?q=Barongko) | N/A |
-| 30 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 31 | [Libur](http://twitter.com/search?q=Libur) | N/A |
-| 32 | [Shiver](http://twitter.com/search?q=Shiver) | N/A |
-| 33 | [Klepon](http://twitter.com/search?q=Klepon) | N/A |
-| 34 | [Nissa](http://twitter.com/search?q=Nissa) | N/A |
-| 35 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 36 | [Penelope](http://twitter.com/search?q=Penelope) | N/A |
-| 37 | [Syabda](http://twitter.com/search?q=Syabda) | N/A |
-| 38 | [Angga](http://twitter.com/search?q=Angga) | N/A |
-| 39 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
-| 40 | [jeremy zucker](http://twitter.com/search?q=jeremy+zucker) | N/A |
-| 41 | [get well soon kun ge](http://twitter.com/search?q=get+well+soon+kun+ge) | N/A |
-| 42 | [lkhp](http://twitter.com/search?q=lkhp) | N/A |
-| 43 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 44 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 45 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 46 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 47 | [Gus Fuad](http://twitter.com/search?q=Gus+Fuad) | N/A |
-| 48 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 5 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 6 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 7 | [Tahun Baru Saka 1945](http://twitter.com/search?q=Tahun+Baru+Saka+1945) | N/A |
+| 8 | [Bibble](http://twitter.com/search?q=Bibble) | N/A |
+| 9 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 10 | [Sedekah](http://twitter.com/search?q=Sedekah) | N/A |
+| 11 | [Umroh](http://twitter.com/search?q=Umroh) | N/A |
+| 12 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 13 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 14 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 15 | [Maksa](http://twitter.com/search?q=Maksa) | N/A |
+| 16 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 17 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 18 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 19 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
+| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 23 | [Closingan](http://twitter.com/search?q=Closingan) | N/A |
+| 24 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 25 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 26 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
+| 27 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 28 | [#Bali](http://twitter.com/search?q=%23Bali) | N/A |
 
 
 

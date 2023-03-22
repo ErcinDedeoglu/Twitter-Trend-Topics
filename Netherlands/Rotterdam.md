@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-22 04:16:53 UTC`
+📆 Last Updated: `2023-03-22 05:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
 | 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [heleen](http://twitter.com/search?q=heleen) | N/A |
-| 12 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 13 | [goeree-overflakkee](http://twitter.com/search?q=goeree-overflakkee) | N/A |
-| 14 | [sander schimmelpenninck](http://twitter.com/search?q=sander+schimmelpenninck) | N/A |
-| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 16 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 17 | [discriminatie](http://twitter.com/search?q=discriminatie) | N/A |
-| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 19 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 20 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 21 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
-| 22 | [onbespreekbaar](http://twitter.com/search?q=onbespreekbaar) | N/A |
-| 23 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 24 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 25 | [betrouwbaar](http://twitter.com/search?q=betrouwbaar) | N/A |
-| 26 | [gijp](http://twitter.com/search?q=gijp) | N/A |
-| 27 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 28 | [hamstra](http://twitter.com/search?q=hamstra) | N/A |
-| 29 | [ouders](http://twitter.com/search?q=ouders) | N/A |
+| 12 | [Goedemorgen Harald](http://twitter.com/search?q=Goedemorgen+Harald) | N/A |
+| 13 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 14 | [goeree-overflakkee](http://twitter.com/search?q=goeree-overflakkee) | N/A |
+| 15 | [sander schimmelpenninck](http://twitter.com/search?q=sander+schimmelpenninck) | N/A |
+| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 17 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
+| 18 | [discriminatie](http://twitter.com/search?q=discriminatie) | N/A |
+| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 20 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 21 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 22 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
+| 23 | [onbespreekbaar](http://twitter.com/search?q=onbespreekbaar) | N/A |
+| 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 26 | [betrouwbaar](http://twitter.com/search?q=betrouwbaar) | N/A |
+| 27 | [gijp](http://twitter.com/search?q=gijp) | N/A |
+| 28 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 29 | [hamstra](http://twitter.com/search?q=hamstra) | N/A |
 | 30 | [internationale dag](http://twitter.com/search?q=internationale+dag) | N/A |
-| 31 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
+| 31 | [seksuele](http://twitter.com/search?q=seksuele) | N/A |
 | 32 | [tonge](http://twitter.com/search?q=tonge) | N/A |
 | 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 34 | [Happy Nowruz](http://twitter.com/search?q=Happy+Nowruz) | N/A |
-| 35 | [overheidsfout](http://twitter.com/search?q=overheidsfout) | N/A |
-| 36 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 34 | [overheidsfout](http://twitter.com/search?q=overheidsfout) | N/A |
+| 35 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 36 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
 | 37 | [jack van gelder](http://twitter.com/search?q=jack+van+gelder) | N/A |
 | 38 | [oranjevereniging](http://twitter.com/search?q=oranjevereniging) | N/A |
 | 39 | [bruls](http://twitter.com/search?q=bruls) | N/A |
-| 40 | [getekend](http://twitter.com/search?q=getekend) | N/A |
-| 41 | [Malediven](http://twitter.com/search?q=Malediven) | N/A |
-| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [boxtel](http://twitter.com/search?q=boxtel) | N/A |
-| 44 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
-| 45 | [gefeliciteerd fleur](http://twitter.com/search?q=gefeliciteerd+fleur) | N/A |
-| 46 | [blauw](http://twitter.com/search?q=blauw) | N/A |
-| 47 | [de landbouw](http://twitter.com/search?q=de+landbouw) | N/A |
-| 48 | [dodenherdenking](http://twitter.com/search?q=dodenherdenking) | N/A |
-| 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 50 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [malediven](http://twitter.com/search?q=malediven) | N/A |
+| 42 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 43 | [Nowruz](http://twitter.com/search?q=Nowruz) | N/A |
+| 44 | [boxtel](http://twitter.com/search?q=boxtel) | N/A |
+| 45 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
+| 46 | [gefeliciteerd fleur](http://twitter.com/search?q=gefeliciteerd+fleur) | N/A |
+| 47 | [blauw](http://twitter.com/search?q=blauw) | N/A |
+| 48 | [de landbouw](http://twitter.com/search?q=de+landbouw) | N/A |
+| 49 | [dodenherdenking](http://twitter.com/search?q=dodenherdenking) | N/A |
+| 50 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-22 04:17:23 UTC`
+📆 Last Updated: `2023-03-22 05:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United States](</United States>)
 | 5 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 6 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
 | 7 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 8 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 9 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 10 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 11 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 12 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 8 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 9 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 10 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 11 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 12 | [Levi](http://twitter.com/search?q=Levi) | N/A |
 | 13 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 14 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 15 | [Granato](http://twitter.com/search?q=Granato) | N/A |
-| 16 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 17 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 18 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 19 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 20 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 21 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 22 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 23 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 24 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 25 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 27 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 28 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 29 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 30 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 31 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 32 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 33 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 34 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 35 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 36 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 37 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 38 | [#WBCfinal](http://twitter.com/search?q=%23WBCfinal) | N/A |
-| 39 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 40 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
-| 41 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
-| 42 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 43 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 44 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 45 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 46 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 47 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
-| 48 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 49 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
-| 50 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 14 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 15 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 16 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 19 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 20 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 21 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 22 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 23 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 24 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 25 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 26 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 27 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 28 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 29 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 30 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 31 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 32 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
+| 33 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 34 | [PG13](http://twitter.com/search?q=PG13) | N/A |
+| 35 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 36 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 37 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 38 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 39 | [Hope PG](http://twitter.com/search?q=Hope+PG) | N/A |
+| 40 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
+| 41 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 42 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 43 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 44 | [Prayers for PG](http://twitter.com/search?q=Prayers+for+PG) | N/A |
+| 45 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 46 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 47 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 48 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 49 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 50 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
 
 
 

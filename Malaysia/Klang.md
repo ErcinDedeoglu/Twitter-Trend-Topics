@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-22 04:17:03 UTC`
+📆 Last Updated: `2023-03-22 05:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 2 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
 | 3 | [#Bobby_Drowning](http://twitter.com/search?q=%23Bobby_Drowning) | N/A |
 | 4 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 5 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 6 | [#ATEEZ_デュエマ_WIN_Limitless](http://twitter.com/search?q=%23ATEEZ_%e3%83%87%e3%83%a5%e3%82%a8%e3%83%9e_WIN_Limitless) | N/A |
-| 7 | [#エイティーズ](http://twitter.com/search?q=%23%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ba) | N/A |
-| 8 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 9 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 10 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 11 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 12 | [pejuang](http://twitter.com/search?q=pejuang) | N/A |
-| 13 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 14 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
-| 15 | [Hwiyoung](http://twitter.com/search?q=Hwiyoung) | N/A |
-| 16 | [Jaeyoon](http://twitter.com/search?q=Jaeyoon) | N/A |
-| 17 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 18 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
-| 19 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 20 | [pre release](http://twitter.com/search?q=pre+release) | N/A |
-| 21 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 5 | [#ATEEZ_デュエマ_WIN_Limitless](http://twitter.com/search?q=%23ATEEZ_%e3%83%87%e3%83%a5%e3%82%a8%e3%83%9e_WIN_Limitless) | N/A |
+| 6 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 7 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 8 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 9 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 10 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 11 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 12 | [Pejuang](http://twitter.com/search?q=Pejuang) | N/A |
+| 13 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 14 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 15 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 16 | [hwiyoung](http://twitter.com/search?q=hwiyoung) | N/A |
+| 17 | [CHICO MALO MV OUT NOW](http://twitter.com/search?q=CHICO+MALO+MV+OUT+NOW) | N/A |
+| 18 | [pre release](http://twitter.com/search?q=pre+release) | N/A |
+| 19 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 21 | [sowon](http://twitter.com/search?q=sowon) | N/A |
 | 22 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 23 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 24 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 25 | [LOVESTRUCK CLUB](http://twitter.com/search?q=LOVESTRUCK+CLUB) | N/A |
-| 26 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 27 | [11 years with ilhoon](http://twitter.com/search?q=11+years+with+ilhoon) | N/A |
-| 28 | [Winner's Page](http://twitter.com/search?q=Winner%27s+Page) | N/A |
-| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 30 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 23 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 24 | [FOREVER  AND ALWAYS WITH BTOB](http://twitter.com/search?q=FOREVER++AND+ALWAYS+WITH+BTOB) | N/A |
+| 25 | [lovestruck club](http://twitter.com/search?q=lovestruck+club) | N/A |
+| 26 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 27 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 28 | [11 years with ilhoon](http://twitter.com/search?q=11+years+with+ilhoon) | N/A |
+| 29 | [Winner's Page](http://twitter.com/search?q=Winner%27s+Page) | N/A |
+| 30 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
 | 31 | [ALWAYS HOLDING BUILD HAND](http://twitter.com/search?q=ALWAYS+HOLDING+BUILD+HAND) | N/A |
-| 32 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 33 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 34 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 35 | [inseong](http://twitter.com/search?q=inseong) | N/A |
-| 36 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 37 | [Relax](http://twitter.com/search?q=Relax) | N/A |
-| 38 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
-| 39 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
-| 40 | [Anthony Loke](http://twitter.com/search?q=Anthony+Loke) | N/A |
-| 41 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
-| 42 | [pledis](http://twitter.com/search?q=pledis) | N/A |
-| 43 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 44 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 45 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 46 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 47 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 48 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 49 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 32 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 33 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 34 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 35 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 36 | [inseong](http://twitter.com/search?q=inseong) | N/A |
+| 37 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 38 | [Relax](http://twitter.com/search?q=Relax) | N/A |
+| 39 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 40 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
+| 41 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
+| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 43 | [Anthony Loke](http://twitter.com/search?q=Anthony+Loke) | N/A |
+| 44 | [KAITO](http://twitter.com/search?q=KAITO) | N/A |
+| 45 | [Weibo](http://twitter.com/search?q=Weibo) | N/A |
+| 46 | [pledis](http://twitter.com/search?q=pledis) | N/A |
+| 47 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 48 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 49 | [Manila](http://twitter.com/search?q=Manila) | N/A |
 
 
 

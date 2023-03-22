@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-22 04:16:45 UTC`
+📆 Last Updated: `2023-03-22 05:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 2 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
 | 3 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 4 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 6 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 7 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 6 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 7 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
 | 8 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
 | 9 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
 | 10 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 11 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 12 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
-| 13 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 14 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 15 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
-| 16 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 17 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 18 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
-| 19 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
-| 20 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 21 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
-| 22 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 23 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
-| 24 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
-| 25 | [Boa Fred](http://twitter.com/search?q=Boa+Fred) | N/A |
-| 26 | [Neneco](http://twitter.com/search?q=Neneco) | N/A |
-| 27 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 28 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 29 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 30 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 31 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 32 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
-| 33 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 34 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 35 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 36 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 37 | [Parabéns Fred](http://twitter.com/search?q=Parab%c3%a9ns+Fred) | N/A |
-| 38 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
-| 39 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 40 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 41 | [Leonardo Nogueira](http://twitter.com/search?q=Leonardo+Nogueira) | N/A |
-| 42 | [Sarah e Aline](http://twitter.com/search?q=Sarah+e+Aline) | N/A |
-| 43 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 44 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 45 | [FELIZ ANIVERSÁRIO AMANDINHA](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+AMANDINHA) | N/A |
-| 46 | [#PorXatNoGNT](http://twitter.com/search?q=%23PorXatNoGNT) | N/A |
-| 47 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 48 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 49 | [#ondeestámeucoração](http://twitter.com/search?q=%23ondeest%c3%a1meucora%c3%a7%c3%a3o) | N/A |
-| 50 | [#BigBrotherBrasil](http://twitter.com/search?q=%23BigBrotherBrasil) | #BigBrotherBrasil is a Brazilian reality television series based on the international Big Brother franchise. It is broadcast by Rede Globo and premiered in 2002. The show follows a group of contestants, known as "housemates", who are isolated from the outside world for an extended period of time in a custom built house. Each week, one of the housemates is evicted by a public vote, with the last housemate remaining winning a cash prize. |
+| 11 | [Lari](http://twitter.com/search?q=Lari) | Lari is the official currency of Georgia. It is divided into 100 tetri and is abbreviated as GEL. In English, lari means "money". |
+| 12 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 13 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
+| 14 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 15 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
+| 16 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 17 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 18 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
+| 19 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 20 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
+| 21 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 22 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 23 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 24 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 25 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 26 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 27 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 28 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 29 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 30 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
+| 31 | [Boa Fred](http://twitter.com/search?q=Boa+Fred) | N/A |
+| 32 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 33 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 34 | [Neneco](http://twitter.com/search?q=Neneco) | N/A |
+| 35 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 36 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 37 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 38 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 39 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 40 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 41 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
+| 42 | [Parabéns Fred](http://twitter.com/search?q=Parab%c3%a9ns+Fred) | N/A |
+| 43 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 44 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 45 | [BOTA PRA GIRAR NO MODO STONE](http://twitter.com/search?q=BOTA+PRA+GIRAR+NO+MODO+STONE) | N/A |
+| 46 | [leonardo nogueira](http://twitter.com/search?q=leonardo+nogueira) | N/A |
+| 47 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 48 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 50 | [FELIZ ANIVERSÁRIO AMANDINHA](http://twitter.com/search?q=FELIZ+ANIVERS%c3%81RIO+AMANDINHA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-22 04:17:07 UTC`
+📆 Last Updated: `2023-03-22 05:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 2 | [#HumanRightsDay](http://twitter.com/search?q=%23HumanRightsDay) | N/A |
-| 3 | [#powerup](http://twitter.com/search?q=%23powerup) | N/A |
-| 4 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 5 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 6 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 7 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 9 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 10 | [#AdultingShowmax](http://twitter.com/search?q=%23AdultingShowmax) | N/A |
-| 11 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
-| 12 | [Vote Khosi](http://twitter.com/search?q=Vote+Khosi) | N/A |
-| 13 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 14 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
-| 15 | [2017 bmw](http://twitter.com/search?q=2017+bmw) | N/A |
-| 16 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
+| 2 | [#AdcoMayogel](http://twitter.com/search?q=%23AdcoMayogel) | N/A |
+| 3 | [#EnjoyLifeWithoutTheBurn](http://twitter.com/search?q=%23EnjoyLifeWithoutTheBurn) | N/A |
+| 4 | [#HumanRightsDay](http://twitter.com/search?q=%23HumanRightsDay) | N/A |
+| 5 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
+| 6 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 7 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 8 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 9 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 10 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 11 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 12 | [Stoan](http://twitter.com/search?q=Stoan) | N/A |
+| 13 | [Vote Khosi](http://twitter.com/search?q=Vote+Khosi) | N/A |
+| 14 | [2017 bmw](http://twitter.com/search?q=2017+bmw) | N/A |
+| 15 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
+| 16 | [Sharpeville](http://twitter.com/search?q=Sharpeville) | N/A |
 | 17 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 18 | [Sharpeville](http://twitter.com/search?q=Sharpeville) | N/A |
-| 19 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
-| 20 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 21 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 18 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
+| 19 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 20 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 21 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 22 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
 | 23 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
 | 24 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 25 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 26 | [tsatsii the finalist](http://twitter.com/search?q=tsatsii+the+finalist) | N/A |
-| 27 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 28 | [Athi](http://twitter.com/search?q=Athi) | N/A |
-| 29 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 30 | [welcome back blue aiva](http://twitter.com/search?q=welcome+back+blue+aiva) | N/A |
-| 31 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 25 | [tsatsii the finalist](http://twitter.com/search?q=tsatsii+the+finalist) | N/A |
+| 26 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 27 | [Shona](http://twitter.com/search?q=Shona) | N/A |
+| 28 | [WELCOME BACK BLUE AIVA](http://twitter.com/search?q=WELCOME+BACK+BLUE+AIVA) | N/A |
+| 29 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 30 | [Loadshedding](http://twitter.com/search?q=Loadshedding) | N/A |
+| 31 | [Carl](http://twitter.com/search?q=Carl) | N/A |
 | 32 | [Markram](http://twitter.com/search?q=Markram) | N/A |
 | 33 | [Thanks to EFF](http://twitter.com/search?q=Thanks+to+EFF) | N/A |
-| 34 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 35 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
-| 36 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 37 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
-| 38 | [de aar](http://twitter.com/search?q=de+aar) | N/A |
-| 39 | [Basic](http://twitter.com/search?q=Basic) | N/A |
-| 40 | [BMW 3](http://twitter.com/search?q=BMW+3) | N/A |
-| 41 | [pimville](http://twitter.com/search?q=pimville) | N/A |
-| 42 | [Idris Elba](http://twitter.com/search?q=Idris+Elba) | N/A |
-| 43 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 44 | [Obed](http://twitter.com/search?q=Obed) | N/A |
-| 45 | [Wena](http://twitter.com/search?q=Wena) | N/A |
-| 46 | [stage 6](http://twitter.com/search?q=stage+6) | N/A |
-| 47 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 48 | [Strawberries](http://twitter.com/search?q=Strawberries) | N/A |
-| 49 | [head of house tsatsii](http://twitter.com/search?q=head+of+house+tsatsii) | N/A |
-| 50 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
+| 34 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 35 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 36 | [The EFF](http://twitter.com/search?q=The+EFF) | N/A |
+| 37 | [de aar](http://twitter.com/search?q=de+aar) | N/A |
+| 38 | [Basic](http://twitter.com/search?q=Basic) | N/A |
+| 39 | [pimville](http://twitter.com/search?q=pimville) | N/A |
+| 40 | [Idris Elba](http://twitter.com/search?q=Idris+Elba) | N/A |
+| 41 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 42 | [Obed](http://twitter.com/search?q=Obed) | N/A |
+| 43 | [Wena](http://twitter.com/search?q=Wena) | N/A |
+| 44 | [Fikile](http://twitter.com/search?q=Fikile) | N/A |
+| 45 | [stage 6](http://twitter.com/search?q=stage+6) | N/A |
+| 46 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 47 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 48 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 49 | [Strawberries](http://twitter.com/search?q=Strawberries) | N/A |
+| 50 | [head of house tsatsii](http://twitter.com/search?q=head+of+house+tsatsii) | N/A |
 
 
 
