@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-22 10:17:14 UTC`
+📆 Last Updated: `2023-03-22 11:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -56,15 +56,15 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 39 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
 | 40 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
 | 41 | [Interior](http://twitter.com/search?q=Interior) | N/A |
-| 42 | [américa de quito](http://twitter.com/search?q=am%c3%a9rica+de+quito) | N/A |
-| 43 | [Seminario](http://twitter.com/search?q=Seminario) | N/A |
-| 44 | [El CAL](http://twitter.com/search?q=El+CAL) | N/A |
-| 45 | [churute](http://twitter.com/search?q=churute) | N/A |
-| 46 | [rafael cuesta](http://twitter.com/search?q=rafael+cuesta) | N/A |
-| 47 | [Puyo](http://twitter.com/search?q=Puyo) | N/A |
-| 48 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 49 | [esteban torres](http://twitter.com/search?q=esteban+torres) | N/A |
-| 50 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 42 | [Seminario](http://twitter.com/search?q=Seminario) | N/A |
+| 43 | [El CAL](http://twitter.com/search?q=El+CAL) | N/A |
+| 44 | [churute](http://twitter.com/search?q=churute) | N/A |
+| 45 | [rafael cuesta](http://twitter.com/search?q=rafael+cuesta) | N/A |
+| 46 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 47 | [esteban torres](http://twitter.com/search?q=esteban+torres) | N/A |
+| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 49 | [JISOO 2ND VISUAL FILM](http://twitter.com/search?q=JISOO+2ND+VISUAL+FILM) | N/A |
+| 50 | [ángeles duarte](http://twitter.com/search?q=%c3%a1ngeles+duarte) | N/A |
 
 
 

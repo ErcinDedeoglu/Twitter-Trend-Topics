@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-03-22 10:17:31 UTC`
+📆 Last Updated: `2023-03-22 11:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 1 | [侍JAPAN優勝](http://twitter.com/search?q=%e4%be%8dJAPAN%e5%84%aa%e5%8b%9d) | N/A |
 | 2 | [中日優勝](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e5%84%aa%e5%8b%9d) | N/A |
-| 3 | [ドラマチック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%81%e3%83%83%e3%82%af) | N/A |
-| 4 | [日本世界一](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%b8%96%e7%95%8c%e4%b8%80) | N/A |
-| 5 | [インタビュー](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 6 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
-| 7 | [#PremiumMusic2023](http://twitter.com/search?q=%23PremiumMusic2023) | N/A |
-| 8 | [#WBC優勝おめでとう](http://twitter.com/search?q=%23WBC%e5%84%aa%e5%8b%9d%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 9 | [日本優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%84%aa%e5%8b%9d) | N/A |
-| 10 | [侍ジャパン](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
-| 11 | [#映画ダンジョンズアンドドラゴンズ](http://twitter.com/search?q=%23%e6%98%a0%e7%94%bb%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%ba%e3%82%a2%e3%83%b3%e3%83%89%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
-| 12 | [怪物くん](http://twitter.com/search?q=%e6%80%aa%e7%89%a9%e3%81%8f%e3%82%93) | 怪物くん (Kaibutsu-kun) is a Japanese manga series written and illustrated by Fujiko Fujio. It follows the adventures of Kaibutsu-kun, a mischievous monster who lives in a castle with his friends. The title translates to "Mr. Monster" in English. |
-| 13 | [トラウト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
-| 14 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
-| 15 | [#異世界ダンジョンから生配信](http://twitter.com/search?q=%23%e7%95%b0%e4%b8%96%e7%95%8c%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%8b%e3%82%89%e7%94%9f%e9%85%8d%e4%bf%a1) | N/A |
-| 16 | [#WBC2023決勝](http://twitter.com/search?q=%23WBC2023%e6%b1%ba%e5%8b%9d) | N/A |
-| 17 | [ヘアバンド](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%83%90%e3%83%b3%e3%83%89) | N/A |
-| 18 | [Sunny Road](http://twitter.com/search?q=Sunny+Road) | N/A |
-| 19 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
-| 20 | [いちご大福パイ](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e5%a4%a7%e7%a6%8f%e3%83%91%e3%82%a4) | N/A |
-| 21 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 22 | [魔王ノッブ](http://twitter.com/search?q=%e9%ad%94%e7%8e%8b%e3%83%8e%e3%83%83%e3%83%96) | N/A |
-| 23 | [ジェルくん](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | ジェルくん is a character from the Japanese manga series "Gel-Shocker". He is a robotic creature created by the evil organization Gel-Shocker to help them take over the world. His name literally translates to "Gel Boy". |
-| 24 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 25 | [無職の杉谷拳士](http://twitter.com/search?q=%e7%84%a1%e8%81%b7%e3%81%ae%e6%9d%89%e8%b0%b7%e6%8b%b3%e5%a3%ab) | N/A |
-| 26 | [グローバル](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab) | N/A |
-| 27 | [フロイド](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%82%a4%e3%83%89) | フロイド is a Japanese surname. In English, it is pronounced "Fluh-oyd". |
-| 28 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 29 | [Carat棒](http://twitter.com/search?q=Carat%e6%a3%92) | N/A |
-| 30 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
-| 31 | [MAJOR](http://twitter.com/search?q=MAJOR) | N/A |
-| 32 | [企画なし](http://twitter.com/search?q=%e4%bc%81%e7%94%bb%e3%81%aa%e3%81%97) | N/A |
-| 33 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
-| 34 | [シャンパンファイト](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%91%e3%83%b3%e3%83%95%e3%82%a1%e3%82%a4%e3%83%88) | N/A |
-| 35 | [スポーツ](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
-| 36 | [ヨドバシ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7) | N/A |
-| 37 | [プレミュ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%83%a5) | N/A |
-| 38 | [メイドイットマム](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%89%e3%82%a4%e3%83%83%e3%83%88%e3%83%9e%e3%83%a0) | N/A |
-| 39 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
-| 40 | [パルムのチョコミント](http://twitter.com/search?q=%e3%83%91%e3%83%ab%e3%83%a0%e3%81%ae%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88) | N/A |
-| 41 | [優勝セール](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 42 | [能楽関係者](http://twitter.com/search?q=%e8%83%bd%e6%a5%bd%e9%96%a2%e4%bf%82%e8%80%85) | N/A |
-| 43 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 44 | [新商品B](http://twitter.com/search?q=%e6%96%b0%e5%95%86%e5%93%81B) | N/A |
-| 45 | [Vcut](http://twitter.com/search?q=Vcut) | N/A |
-| 46 | [木漏れ日と一緒](http://twitter.com/search?q=%e6%9c%a8%e6%bc%8f%e3%82%8c%e6%97%a5%e3%81%a8%e4%b8%80%e7%b7%92) | N/A |
-| 47 | [クラブウェア](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%96%e3%82%a6%e3%82%a7%e3%82%a2) | クラブウェア (Club Wear) is a type of clothing that is typically worn in nightclubs, bars, and other social settings. It usually consists of flashy, stylish, and often revealing clothing such as mini-skirts, tight-fitting tops, and high heels. The goal of club wear is to make the wearer stand out from the crowd and be noticed. |
-| 48 | [傀異素材](http://twitter.com/search?q=%e5%82%80%e7%95%b0%e7%b4%a0%e6%9d%90) | N/A |
-| 49 | [レンタカー](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%82%bf%e3%82%ab%e3%83%bc) | N/A |
-| 50 | [ロールシャッハ](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%83%e3%83%8f) | N/A |
+| 3 | [優勝の瞬間](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%81%ae%e7%9e%ac%e9%96%93) | N/A |
+| 4 | [#PremiumMusic2023](http://twitter.com/search?q=%23PremiumMusic2023) | N/A |
+| 5 | [#WBC優勝おめでとう](http://twitter.com/search?q=%23WBC%e5%84%aa%e5%8b%9d%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
+| 6 | [#星街すいせい5周年LIVE](http://twitter.com/search?q=%23%e6%98%9f%e8%a1%97%e3%81%99%e3%81%84%e3%81%9b%e3%81%845%e5%91%a8%e5%b9%b4LIVE) | N/A |
+| 7 | [忘却の空](http://twitter.com/search?q=%e5%bf%98%e5%8d%b4%e3%81%ae%e7%a9%ba) | N/A |
+| 8 | [日本優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%84%aa%e5%8b%9d) | N/A |
+| 9 | [#ミラクル9](http://twitter.com/search?q=%23%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab9) | N/A |
+| 10 | [怪物くん](http://twitter.com/search?q=%e6%80%aa%e7%89%a9%e3%81%8f%e3%82%93) | 怪物くん (Kaibutsu-kun) is a Japanese manga series written and illustrated by Fujiko Fujio. It follows the adventures of Kaibutsu-kun, a mischievous monster who lives in a castle with his friends. The title translates to "Mr. Monster" in English. |
+| 11 | [ブルアカ鯖落ち](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
+| 12 | [清春さん](http://twitter.com/search?q=%e6%b8%85%e6%98%a5%e3%81%95%e3%82%93) | N/A |
+| 13 | [未満警察](http://twitter.com/search?q=%e6%9c%aa%e6%ba%80%e8%ad%a6%e5%af%9f) | N/A |
+| 14 | [#映画ダンジョンズアンドドラゴンズ](http://twitter.com/search?q=%23%e6%98%a0%e7%94%bb%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%ba%e3%82%a2%e3%83%b3%e3%83%89%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 15 | [ムジカピッコリーノ](http://twitter.com/search?q=%e3%83%a0%e3%82%b8%e3%82%ab%e3%83%94%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%83%8e) | N/A |
+| 16 | [新米騎空士](http://twitter.com/search?q=%e6%96%b0%e7%b1%b3%e9%a8%8e%e7%a9%ba%e5%a3%ab) | N/A |
+| 17 | [倫果ちゃん](http://twitter.com/search?q=%e5%80%ab%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | 倫果ちゃん is a nickname for the Japanese singer and actress, Rena Matsui. It is derived from her given name, Rena (倫), and the Japanese word for fruit (果). In English, it can be translated to mean "Rena Fruit". |
+| 18 | [ハルマル](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%9e%e3%83%ab) | ハルマル (harumaru) is a Japanese word that means "spring". It is often used to describe the season of spring, when nature comes alive and the weather becomes warmer. |
+| 19 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
+| 20 | [WBC再放送](http://twitter.com/search?q=WBC%e5%86%8d%e6%94%be%e9%80%81) | N/A |
+| 21 | [魔王ノッブ](http://twitter.com/search?q=%e9%ad%94%e7%8e%8b%e3%83%8e%e3%83%83%e3%83%96) | N/A |
+| 22 | [ヘアバンド](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%83%90%e3%83%b3%e3%83%89) | N/A |
+| 23 | [最初の100連](http://twitter.com/search?q=%e6%9c%80%e5%88%9d%e3%81%ae100%e9%80%a3) | N/A |
+| 24 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 25 | [傀異素材](http://twitter.com/search?q=%e5%82%80%e7%95%b0%e7%b4%a0%e6%9d%90) | N/A |
+| 26 | [Sunny Road](http://twitter.com/search?q=Sunny+Road) | N/A |
+| 27 | [いちご大福パイ](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%81%94%e5%a4%a7%e7%a6%8f%e3%83%91%e3%82%a4) | N/A |
+| 28 | [リッチ斧](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%83%81%e6%96%a7) | リッチ斧 (Richi-Ono) is a type of Japanese axe used for woodworking. It is characterized by its long, curved blade and short handle. The name comes from the Japanese words "richi" (long) and "ono" (axe). In English, it is sometimes referred to as a "long-handled axe". |
+| 29 | [ガレヲン](http://twitter.com/search?q=%e3%82%ac%e3%83%ac%e3%83%b2%e3%83%b3) | N/A |
+| 30 | [正月ムツキ](http://twitter.com/search?q=%e6%ad%a3%e6%9c%88%e3%83%a0%e3%83%84%e3%82%ad) | N/A |
+| 31 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
+| 32 | [新米ガチャ](http://twitter.com/search?q=%e6%96%b0%e7%b1%b3%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 33 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 34 | [プレミュ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%83%a5) | N/A |
+| 35 | [ジェルくん](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | ジェルくん is a character from the Japanese manga series "Gel-Shocker". He is a robotic creature created by the evil organization Gel-Shocker to help them take over the world. His name literally translates to "Gel Boy". |
+| 36 | [IWGP](http://twitter.com/search?q=IWGP) | N/A |
+| 37 | [ヨドバシ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7) | N/A |
+| 38 | [ハルモニア](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%83%a2%e3%83%8b%e3%82%a2) | N/A |
+| 39 | [ジロちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [クラコワちゃん](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b3%e3%83%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [天井交換](http://twitter.com/search?q=%e5%a4%a9%e4%ba%95%e4%ba%a4%e6%8f%9b) | N/A |
+| 42 | [タイムテーブル](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab) | N/A |
+| 43 | [フロイド](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%82%a4%e3%83%89) | フロイド is a Japanese surname. In English, it is pronounced "Fluh-oyd". |
+| 44 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
+| 45 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
+| 46 | [BIRTH](http://twitter.com/search?q=BIRTH) | N/A |
+| 47 | [企画なし](http://twitter.com/search?q=%e4%bc%81%e7%94%bb%e3%81%aa%e3%81%97) | N/A |
+| 48 | [Carat](http://twitter.com/search?q=Carat) | Carat is a unit of measurement used to measure the weight of gemstones, such as diamonds. One carat is equal to 0.2 grams or 200 milligrams. It is also used to measure the purity of gold, with 24 carats being pure gold and lower carats indicating a lower percentage of gold in the alloy. |
+| 49 | [以蔵さん](http://twitter.com/search?q=%e4%bb%a5%e8%94%b5%e3%81%95%e3%82%93) | N/A |
+| 50 | [WBC決勝の再放送](http://twitter.com/search?q=WBC%e6%b1%ba%e5%8b%9d%e3%81%ae%e5%86%8d%e6%94%be%e9%80%81) | N/A |
 
 
 

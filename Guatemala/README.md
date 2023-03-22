@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-22 10:18:03 UTC`
+📆 Last Updated: `2023-03-22 11:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Guatemala
 | 12 | [Polo](http://twitter.com/search?q=Polo) | N/A |
 | 13 | [#YoutubeCorrupt](http://twitter.com/search?q=%23YoutubeCorrupt) | N/A |
 | 14 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
-| 15 | [Zury](http://twitter.com/search?q=Zury) | N/A |
+| 15 | [zury](http://twitter.com/search?q=zury) | N/A |
 | 16 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 17 | [tara stadium](http://twitter.com/search?q=tara+stadium) | N/A |
 | 18 | [Rovers FC](http://twitter.com/search?q=Rovers+FC) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Guatemala
 | 28 | [el mp](http://twitter.com/search?q=el+mp) | N/A |
 | 29 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
 | 30 | [francisco bermúdez](http://twitter.com/search?q=francisco+berm%c3%badez) | N/A |
-| 31 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
+| 31 | [villa nueva](http://twitter.com/search?q=villa+nueva) | N/A |
 | 32 | [cacif](http://twitter.com/search?q=cacif) | N/A |
 | 33 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 34 | [Aries](http://twitter.com/search?q=Aries) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Guatemala
 | 38 | [Conde](http://twitter.com/search?q=Conde) | N/A |
 | 39 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
 | 40 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 43 | [Jimmy Morales](http://twitter.com/search?q=Jimmy+Morales) | N/A |
-| 44 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 45 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
-| 46 | [Impunidad](http://twitter.com/search?q=Impunidad) | N/A |
-| 47 | [Lulis](http://twitter.com/search?q=Lulis) | N/A |
-| 48 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 49 | [Huehuetenango](http://twitter.com/search?q=Huehuetenango) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 41 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 42 | [Jimmy Morales](http://twitter.com/search?q=Jimmy+Morales) | N/A |
+| 43 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 44 | [Hospitales](http://twitter.com/search?q=Hospitales) | N/A |
+| 45 | [Impunidad](http://twitter.com/search?q=Impunidad) | N/A |
+| 46 | [lulis](http://twitter.com/search?q=lulis) | N/A |
+| 47 | [Huehuetenango](http://twitter.com/search?q=Huehuetenango) | N/A |
+| 48 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 49 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-22 10:17:58 UTC`
+📆 Last Updated: `2023-03-22 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 4 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 5 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 5 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
 | 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 9 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 10 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 11 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 12 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 13 | [#推特代发](http://twitter.com/search?q=%23%e6%8e%a8%e7%89%b9%e4%bb%a3%e5%8f%91) | N/A |
-| 14 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 15 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 16 | [Dort](http://twitter.com/search?q=Dort) | N/A |
-| 17 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
-| 18 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
-| 19 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
-| 20 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 21 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 22 | [Yuno](http://twitter.com/search?q=Yuno) | N/A |
-| 23 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 24 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
-| 25 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 26 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 27 | [PG13](http://twitter.com/search?q=PG13) | N/A |
-| 28 | [Congrats to Japan](http://twitter.com/search?q=Congrats+to+Japan) | N/A |
+| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 10 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 11 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 12 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 13 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 14 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 15 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 16 | [#推特代发](http://twitter.com/search?q=%23%e6%8e%a8%e7%89%b9%e4%bb%a3%e5%8f%91) | N/A |
+| 17 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 19 | [George Zimmerman](http://twitter.com/search?q=George+Zimmerman) | N/A |
+| 20 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 21 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 22 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 23 | [Chapter 20](http://twitter.com/search?q=Chapter+20) | N/A |
+| 24 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 25 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 26 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 27 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
+| 28 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
 | 29 | [Trini](http://twitter.com/search?q=Trini) | N/A |
-| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 31 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 32 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 33 | [Sanford](http://twitter.com/search?q=Sanford) | N/A |
-| 34 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 35 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 36 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 37 | [Congratulations to Japan](http://twitter.com/search?q=Congratulations+to+Japan) | N/A |
-| 38 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 39 | [Betts](http://twitter.com/search?q=Betts) | N/A |
+| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 31 | [PG13](http://twitter.com/search?q=PG13) | N/A |
+| 32 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 33 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 34 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 35 | [Congrats to Japan](http://twitter.com/search?q=Congrats+to+Japan) | N/A |
+| 36 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 37 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 38 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 39 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
 | 40 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 41 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 42 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 43 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 44 | [byers](http://twitter.com/search?q=byers) | N/A |
-| 45 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 46 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 47 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 48 | [Corcoran](http://twitter.com/search?q=Corcoran) | N/A |
-| 49 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 50 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 41 | [Betts](http://twitter.com/search?q=Betts) | N/A |
+| 42 | [KYLE SCHWARBER](http://twitter.com/search?q=KYLE+SCHWARBER) | N/A |
+| 43 | [Van Halen](http://twitter.com/search?q=Van+Halen) | N/A |
+| 44 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 45 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 46 | [Congratulations Japan](http://twitter.com/search?q=Congratulations+Japan) | N/A |
+| 47 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 48 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 49 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 50 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
 
 
 

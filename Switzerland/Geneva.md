@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-22 10:17:26 UTC`
+📆 Last Updated: `2023-03-22 11:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 5 | [paléo](http://twitter.com/search?q=pal%c3%a9o) | N/A |
 | 6 | [cs-rettung](http://twitter.com/search?q=cs-rettung) | N/A |
-| 7 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
-| 8 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 7 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 8 | [Ernstfall](http://twitter.com/search?q=Ernstfall) | N/A |
 | 9 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 10 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 11 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 12 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
-| 13 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 10 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 11 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 12 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 13 | [Stiftung](http://twitter.com/search?q=Stiftung) | N/A |
 | 14 | [Gier](http://twitter.com/search?q=Gier) | N/A |
 | 15 | [Westen](http://twitter.com/search?q=Westen) | N/A |
 | 16 | [Finanzminister](http://twitter.com/search?q=Finanzminister) | N/A |
 | 17 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
-| 18 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 19 | [Filz](http://twitter.com/search?q=Filz) | N/A |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 19 | [filz](http://twitter.com/search?q=filz) | N/A |
 | 20 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 21 | [Termin](http://twitter.com/search?q=Termin) | N/A |
 | 22 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
 | 23 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 24 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
-| 25 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 27 | [Nase](http://twitter.com/search?q=Nase) | N/A |
-| 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 29 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 30 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 31 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 32 | [Ueli Maurer](http://twitter.com/search?q=Ueli+Maurer) | N/A |
-| 33 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 34 | [Commission of Inquiry](http://twitter.com/search?q=Commission+of+Inquiry) | N/A |
-| 35 | [Garantien](http://twitter.com/search?q=Garantien) | N/A |
-| 36 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
-| 37 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 38 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 41 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
-| 42 | [juso](http://twitter.com/search?q=juso) | N/A |
-| 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 44 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 45 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 46 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 47 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 48 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 24 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 25 | [milliarden franken](http://twitter.com/search?q=milliarden+franken) | N/A |
+| 26 | [Nase](http://twitter.com/search?q=Nase) | N/A |
+| 27 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 28 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 29 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 30 | [Ueli Maurer](http://twitter.com/search?q=Ueli+Maurer) | N/A |
+| 31 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 32 | [Commission of Inquiry](http://twitter.com/search?q=Commission+of+Inquiry) | N/A |
+| 33 | [Garantien](http://twitter.com/search?q=Garantien) | N/A |
+| 34 | [Herausforderung](http://twitter.com/search?q=Herausforderung) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Rappen](http://twitter.com/search?q=Rappen) | N/A |
+| 37 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 38 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 39 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 40 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 41 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 42 | [Pressekonferenz](http://twitter.com/search?q=Pressekonferenz) | N/A |
+| 43 | [Fusion](http://twitter.com/search?q=Fusion) | N/A |
+| 44 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 45 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 46 | [Stef](http://twitter.com/search?q=Stef) | N/A |
+| 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 48 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
 
 
 
