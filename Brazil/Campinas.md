@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-22 02:30:22 UTC`
+📆 Last Updated: `2023-03-22 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
-| 2 | [Comercial](http://twitter.com/search?q=Comercial) | N/A |
-| 3 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 4 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 5 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 6 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 7 | [#SOCspinoff](http://twitter.com/search?q=%23SOCspinoff) | N/A |
-| 8 | [Ponte Preta](http://twitter.com/search?q=Ponte+Preta) | N/A |
-| 9 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 11 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
-| 12 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 13 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 14 | [chay](http://twitter.com/search?q=chay) | N/A |
-| 15 | [Youssef](http://twitter.com/search?q=Youssef) | N/A |
-| 16 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 17 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 18 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 20 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 21 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 22 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 24 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 25 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
-| 26 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
-| 27 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 28 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
-| 29 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 30 | [#PorXatNoGNT](http://twitter.com/search?q=%23PorXatNoGNT) | N/A |
-| 31 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 32 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 33 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 34 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 35 | [Sarah e Aline](http://twitter.com/search?q=Sarah+e+Aline) | N/A |
-| 36 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 37 | [Leonardo Nogueira](http://twitter.com/search?q=Leonardo+Nogueira) | N/A |
-| 38 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
-| 39 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 40 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 41 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 42 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 43 | [Edmundo](http://twitter.com/search?q=Edmundo) | N/A |
-| 44 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 45 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
-| 46 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 47 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 48 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 49 | [Intersexo](http://twitter.com/search?q=Intersexo) | N/A |
+| 1 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 2 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 3 | [#TeamFred](http://twitter.com/search?q=%23TeamFred) | #TeamFred is a hashtag used to show support for Fred Rogers, the beloved host of the children's television show Mister Rogers' Neighborhood. It is often used to celebrate his legacy and to share stories of how he has impacted people's lives. |
+| 4 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 5 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 6 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
+| 7 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
+| 8 | [chae](http://twitter.com/search?q=chae) | N/A |
+| 9 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
+| 10 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
+| 11 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 12 | [O Boninho](http://twitter.com/search?q=O+Boninho) | N/A |
+| 13 | [Comercial](http://twitter.com/search?q=Comercial) | N/A |
+| 14 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 15 | [Belzebu](http://twitter.com/search?q=Belzebu) | N/A |
+| 16 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 17 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 18 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 19 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 20 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 21 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
+| 22 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 23 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 24 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 25 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 26 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 27 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
+| 28 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 29 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 30 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 31 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 32 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 33 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 34 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 35 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 36 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
+| 37 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 38 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 39 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 40 | [Neneco](http://twitter.com/search?q=Neneco) | N/A |
+| 41 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 42 | [Boa Fred](http://twitter.com/search?q=Boa+Fred) | N/A |
+| 43 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 44 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 45 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 46 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 47 | [leonardo nogueira](http://twitter.com/search?q=leonardo+nogueira) | N/A |
+| 48 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
+| 49 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
 
 
 

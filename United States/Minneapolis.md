@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-22 02:30:56 UTC`
+📆 Last Updated: `2023-03-22 03:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marney](http://twitter.com/search?q=Marney) | N/A |
-| 2 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 4 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 5 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 6 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 8 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 1 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 4 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 5 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 6 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 7 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 8 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
 | 9 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 11 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 12 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 13 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
-| 14 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 15 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
-| 16 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 17 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 18 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
-| 19 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 20 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 21 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 22 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
-| 23 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 24 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 25 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
-| 26 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 27 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
-| 28 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 29 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
-| 30 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 31 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
-| 32 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 33 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 34 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 35 | [RISP](http://twitter.com/search?q=RISP) | N/A |
-| 36 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
-| 37 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
-| 38 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 39 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
-| 40 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 41 | [Betts](http://twitter.com/search?q=Betts) | N/A |
-| 42 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 43 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 44 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 46 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 47 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
-| 48 | [Ron Sharpe](http://twitter.com/search?q=Ron+Sharpe) | N/A |
-| 49 | [David Bednar](http://twitter.com/search?q=David+Bednar) | N/A |
-| 50 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 10 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 11 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 12 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 13 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 14 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 15 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 16 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 17 | [#WBCfinal](http://twitter.com/search?q=%23WBCfinal) | N/A |
+| 18 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 19 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
+| 20 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 21 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 22 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 23 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 24 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 25 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 26 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 27 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 28 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 29 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 30 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 31 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 32 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 33 | [Top of the 9th](http://twitter.com/search?q=Top+of+the+9th) | N/A |
+| 34 | [Davion Mitchell](http://twitter.com/search?q=Davion+Mitchell) | N/A |
+| 35 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 36 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 37 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
+| 38 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 39 | [What a WBC](http://twitter.com/search?q=What+a+WBC) | N/A |
+| 40 | [Bryce Harper](http://twitter.com/search?q=Bryce+Harper) | N/A |
+| 41 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
+| 42 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
+| 43 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
+| 44 | [Lars Nootbaar](http://twitter.com/search?q=Lars+Nootbaar) | N/A |
+| 45 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
+| 46 | [Jamie Benn](http://twitter.com/search?q=Jamie+Benn) | N/A |
+| 47 | [RISP](http://twitter.com/search?q=RISP) | N/A |
+| 48 | [WBC Championship](http://twitter.com/search?q=WBC+Championship) | N/A |
+| 49 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
+| 50 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
 
 
 

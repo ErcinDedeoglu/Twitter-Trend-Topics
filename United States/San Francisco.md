@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-22 02:30:59 UTC`
+📆 Last Updated: `2023-03-22 03:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GDC23](http://twitter.com/search?q=%23GDC23) | N/A |
+| 1 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
 | 2 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
-| 3 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 4 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 5 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 6 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 7 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 8 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 9 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 10 | [East Bay](http://twitter.com/search?q=East+Bay) | N/A |
-| 11 | [#storm](http://twitter.com/search?q=%23storm) | N/A |
-| 12 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 13 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 14 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 15 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 16 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 17 | [Joe Davis](http://twitter.com/search?q=Joe+Davis) | Joe Davis is a slang term used to describe someone who is a bit of a slacker or procrastinator. It is derived from the phrase "just do it," which implies that the person in question should take action and get things done. |
-| 18 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 19 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 20 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 21 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 22 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 23 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 24 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 25 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 26 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 27 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 3 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
+| 4 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 5 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 6 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 7 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 8 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 10 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 11 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 12 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 13 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 14 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 15 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 16 | [East Bay](http://twitter.com/search?q=East+Bay) | N/A |
+| 17 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 18 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 19 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 20 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 21 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 22 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 23 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 24 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 25 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 27 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 28 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 29 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 30 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
-| 31 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 32 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 33 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 34 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 35 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
-| 36 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 37 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 38 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
-| 39 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 40 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
-| 41 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 42 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 43 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 44 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 45 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 46 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
-| 47 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
-| 48 | [RISP](http://twitter.com/search?q=RISP) | N/A |
-| 49 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 50 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
+| 29 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 30 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 31 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 32 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 33 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 34 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 35 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 36 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 37 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 38 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 39 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 40 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 41 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 42 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 43 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 44 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 45 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 46 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 47 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 48 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 49 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 50 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
 
 
 

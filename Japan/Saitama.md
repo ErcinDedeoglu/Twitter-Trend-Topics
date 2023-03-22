@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saitama
 
-📆 Last Updated: `2023-03-22 02:30:34 UTC`
+📆 Last Updated: `2023-03-22 03:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [伊藤くん](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e3%81%8f%e3%82%93) | 伊藤くん is a Japanese nickname for someone whose family name is Ito. It can be used as a term of endearment, similar to "Mr. Ito" or "Ito-san". In English, it could be translated as "Mr. Ito" or "Ito-kun". |
-| 2 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
-| 3 | [ドキドキ](http://twitter.com/search?q=%e3%83%89%e3%82%ad%e3%83%89%e3%82%ad) | N/A |
-| 4 | [野球観戦](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e8%a6%b3%e6%88%a6) | N/A |
-| 5 | [ファイターズ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 6 | [フォーク](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af) | N/A |
-| 7 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
-| 8 | [村神さま](http://twitter.com/search?q=%e6%9d%91%e7%a5%9e%e3%81%95%e3%81%be) | N/A |
-| 9 | [村上さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%95%e3%82%93) | 村上さん is a Japanese honorific title used to refer to someone with the surname Murakami. It is similar to the English title of "Mr. Murakami". |
-| 10 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
-| 11 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
-| 12 | [トラウト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
-| 13 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 14 | [ブルペン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%9a%e3%83%b3) | N/A |
-| 15 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
-| 16 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 17 | [ダルさん](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%81%95%e3%82%93) | N/A |
-| 18 | [ターナー](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%8a%e3%83%bc) | ターナー is a Japanese word that refers to a person who works with metal, such as a blacksmith or a machinist. In English, it can be translated as "turner". |
-| 19 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 20 | [伊藤大海](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e5%a4%a7%e6%b5%b7) | N/A |
-| 21 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
-| 22 | [チェンジアップ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b8%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 23 | [高橋宏斗](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
-| 24 | [髙橋宏斗](http://twitter.com/search?q=%e9%ab%99%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
-| 25 | [ダル大谷](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e5%a4%a7%e8%b0%b7) | N/A |
-| 26 | [シュワーバー](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%af%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 27 | [#ダブルでうれしい新生活](http://twitter.com/search?q=%23%e3%83%80%e3%83%96%e3%83%ab%e3%81%a7%e3%81%86%e3%82%8c%e3%81%97%e3%81%84%e6%96%b0%e7%94%9f%e6%b4%bb) | N/A |
-| 28 | [#トロピカーナW](http://twitter.com/search?q=%23%e3%83%88%e3%83%ad%e3%83%94%e3%82%ab%e3%83%bc%e3%83%8aW) | N/A |
-| 29 | [ダルちゃん](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 30 | [日本リード](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%83%aa%e3%83%bc%e3%83%89) | N/A |
-| 31 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 32 | [マウンド](http://twitter.com/search?q=%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%89) | N/A |
-| 33 | [RGエピオン](http://twitter.com/search?q=RG%e3%82%a8%e3%83%94%e3%82%aa%e3%83%b3) | N/A |
-| 34 | [#大勢はガチ](http://twitter.com/search?q=%23%e5%a4%a7%e5%8b%a2%e3%81%af%e3%82%ac%e3%83%81) | N/A |
-| 35 | [エアベンダー](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc) | N/A |
-| 36 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 37 | [リアルミュート](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%ab%e3%83%9f%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
-| 38 | [戸郷くん](http://twitter.com/search?q=%e6%88%b8%e9%83%b7%e3%81%8f%e3%82%93) | N/A |
-| 39 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 40 | [ゴールドシュミット](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b7%e3%83%a5%e3%83%9f%e3%83%83%e3%83%88) | N/A |
-| 41 | [ナイスピッチング](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
-| 42 | [最後大谷](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e5%a4%a7%e8%b0%b7) | N/A |
-| 43 | [完全復活](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e5%be%a9%e6%b4%bb) | N/A |
-| 44 | [日本の投手陣](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e6%8a%95%e6%89%8b%e9%99%a3) | N/A |
-| 45 | [病院の待合室](http://twitter.com/search?q=%e7%97%85%e9%99%a2%e3%81%ae%e5%be%85%e5%90%88%e5%ae%a4) | N/A |
-| 46 | [ダイゼンガー](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%bc%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
-| 47 | [高橋くん](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e3%81%8f%e3%82%93) | N/A |
-| 48 | [日本優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%84%aa%e5%8b%9d) | N/A |
-| 49 | [大谷のリレー](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%ae%e3%83%aa%e3%83%ac%e3%83%bc) | N/A |
-| 50 | [ダブルプレー](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
+| 1 | [伊藤大海](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e5%a4%a7%e6%b5%b7) | N/A |
+| 2 | [コーチ陣](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%81%e9%99%a3) | N/A |
+| 3 | [白井さん](http://twitter.com/search?q=%e7%99%bd%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 4 | [栗山さん](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
+| 5 | [フィクション](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 6 | [高橋くん](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e3%81%8f%e3%82%93) | N/A |
+| 7 | [髙橋宏斗](http://twitter.com/search?q=%e9%ab%99%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
+| 8 | [伊藤くん](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e3%81%8f%e3%82%93) | 伊藤くん is a Japanese nickname for someone whose family name is Ito. It can be used as a term of endearment, similar to "Mr. Ito" or "Ito-san". In English, it could be translated as "Mr. Ito" or "Ito-kun". |
+| 9 | [ファイターズ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
+| 10 | [日ハムファン](http://twitter.com/search?q=%e6%97%a5%e3%83%8f%e3%83%a0%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 11 | [ナイスゲーム](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%82%b2%e3%83%bc%e3%83%a0) | ナイスゲーム (naisu geemu) is a Japanese phrase that translates to "nice game" in English. It is typically used as a congratulatory phrase after a game or match has been completed. |
+| 12 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 13 | [ドラマティック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%86%e3%82%a3%e3%83%83%e3%82%af) | N/A |
+| 14 | [かっこよすぎ](http://twitter.com/search?q=%e3%81%8b%e3%81%a3%e3%81%93%e3%82%88%e3%81%99%e3%81%8e) | N/A |
+| 15 | [ナイスピッチング](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
+| 16 | [ストライク](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%a9%e3%82%a4%e3%82%af) | N/A |
+| 17 | [サッカー](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc) | N/A |
+| 18 | [ドキドキ](http://twitter.com/search?q=%e3%83%89%e3%82%ad%e3%83%89%e3%82%ad) | N/A |
+| 19 | [テレビの前](http://twitter.com/search?q=%e3%83%86%e3%83%ac%e3%83%93%e3%81%ae%e5%89%8d) | N/A |
+| 20 | [リアルタイム](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
+| 21 | [野球観戦](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e8%a6%b3%e6%88%a6) | N/A |
+| 22 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
+| 23 | [野球好き](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e5%a5%bd%e3%81%8d) | N/A |
+| 24 | [最後の最後](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e6%9c%80%e5%be%8c) | N/A |
+| 25 | [#WBC決勝](http://twitter.com/search?q=%23WBC%e6%b1%ba%e5%8b%9d) | N/A |
+| 26 | [トラウト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
+| 27 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 28 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
+| 29 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
+| 30 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
+| 31 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
+| 32 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 33 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
+| 34 | [フルカウント](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88) | N/A |
+| 35 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
+| 36 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
+| 37 | [優勝の瞬間](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%81%ae%e7%9e%ac%e9%96%93) | N/A |
+| 38 | [中日ドラゴンズ](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 39 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 40 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
+| 41 | [ダブルプレー](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
+| 42 | [ドラマチック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%81%e3%83%83%e3%82%af) | N/A |
+| 43 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 44 | [空振り三振](http://twitter.com/search?q=%e7%a9%ba%e6%8c%af%e3%82%8a%e4%b8%89%e6%8c%af) | N/A |
+| 45 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
+| 46 | [最高の試合](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e8%a9%a6%e5%90%88) | N/A |
+| 47 | [トロフィー](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc) | N/A |
+| 48 | [ブルペン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%9a%e3%83%b3) | N/A |
+| 49 | [王座奪還](http://twitter.com/search?q=%e7%8e%8b%e5%ba%a7%e5%a5%aa%e9%82%84) | N/A |
+| 50 | [出来すぎ](http://twitter.com/search?q=%e5%87%ba%e6%9d%a5%e3%81%99%e3%81%8e) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-22 02:30:15 UTC`
+📆 Last Updated: `2023-03-22 03:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 2 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 3 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 4 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 5 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 6 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 8 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 9 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 10 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
-| 11 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
-| 12 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
-| 13 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 14 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 15 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 19 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 20 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 21 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 22 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 23 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 24 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 25 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
-| 26 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 27 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 28 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 1 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 2 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 3 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 5 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 6 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 7 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 8 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
+| 9 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 10 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
+| 11 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 15 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 16 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 17 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 18 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
+| 19 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 20 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
+| 21 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 22 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
+| 23 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
+| 24 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 25 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 26 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 27 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
+| 28 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
 | 29 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 30 | [Simon Jordan](http://twitter.com/search?q=Simon+Jordan) | N/A |
-| 31 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 32 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 34 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 35 | [Mark Francois](http://twitter.com/search?q=Mark+Francois) | N/A |
-| 36 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 30 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 31 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
+| 32 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 33 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 34 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [Daily Quordle 421](http://twitter.com/search?q=Daily+Quordle+421) | N/A |
 | 37 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 40 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 41 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 42 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 43 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 44 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
-| 45 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 46 | [Official Secrets](http://twitter.com/search?q=Official+Secrets) | N/A |
-| 47 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 38 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 39 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 40 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
+| 41 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 42 | [Mark Rowley](http://twitter.com/search?q=Mark+Rowley) | N/A |
+| 43 | [Official Secrets](http://twitter.com/search?q=Official+Secrets) | N/A |
+| 44 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 45 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 46 | [Stephen Lawrence](http://twitter.com/search?q=Stephen+Lawrence) | N/A |
+| 47 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 | 48 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 49 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 50 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 49 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 50 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
 
 
 

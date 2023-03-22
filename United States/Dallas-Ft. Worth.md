@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-22 02:30:54 UTC`
+📆 Last Updated: `2023-03-22 03:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 3 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
+| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 2 | [Stars](http://twitter.com/search?q=Stars) | N/A |
+| 3 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
 | 4 | [Lonesome Dove](http://twitter.com/search?q=Lonesome+Dove) | N/A |
-| 5 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
-| 6 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 7 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 8 | [#DrunkIntentions](http://twitter.com/search?q=%23DrunkIntentions) | N/A |
-| 9 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 11 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 13 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 14 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 16 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 17 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 18 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 19 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
-| 20 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 21 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 22 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
-| 23 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 24 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 25 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 26 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 27 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
-| 28 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 29 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
-| 30 | [Schwarbs](http://twitter.com/search?q=Schwarbs) | N/A |
-| 31 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
-| 32 | [Waltham](http://twitter.com/search?q=Waltham) | N/A |
-| 33 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 34 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 35 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 36 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 37 | [Kyle Tucker](http://twitter.com/search?q=Kyle+Tucker) | N/A |
-| 38 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
-| 39 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
-| 40 | [RISP](http://twitter.com/search?q=RISP) | N/A |
-| 41 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 42 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
-| 43 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 44 | [Betts](http://twitter.com/search?q=Betts) | N/A |
-| 45 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 46 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 48 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 49 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 50 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 5 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
+| 6 | [McCasland](http://twitter.com/search?q=McCasland) | N/A |
+| 7 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 8 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 10 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 11 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 12 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 13 | [#DrunkIntentions](http://twitter.com/search?q=%23DrunkIntentions) | N/A |
+| 14 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 15 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 16 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 17 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 18 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 19 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 20 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 21 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 22 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 23 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 24 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 25 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 26 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 27 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
+| 28 | [#WBCfinal](http://twitter.com/search?q=%23WBCfinal) | N/A |
+| 29 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 30 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 31 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 32 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 33 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 34 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 35 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 36 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 37 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 38 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 39 | [Mullins](http://twitter.com/search?q=Mullins) | N/A |
+| 40 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 41 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 42 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 43 | [Top of the 9th](http://twitter.com/search?q=Top+of+the+9th) | N/A |
+| 44 | [Davion Mitchell](http://twitter.com/search?q=Davion+Mitchell) | N/A |
+| 45 | [Schwarbomb](http://twitter.com/search?q=Schwarbomb) | N/A |
+| 46 | [Ichiro](http://twitter.com/search?q=Ichiro) | N/A |
+| 47 | [Mark DeRosa](http://twitter.com/search?q=Mark+DeRosa) | N/A |
+| 48 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 49 | [Bryce Harper](http://twitter.com/search?q=Bryce+Harper) | N/A |
+| 50 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
 
 
 

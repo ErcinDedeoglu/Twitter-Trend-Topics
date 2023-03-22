@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-22 02:30:47 UTC`
+📆 Last Updated: `2023-03-22 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [Anwar Maqsood](http://twitter.com/search?q=Anwar+Maqsood) | N/A |
 | 10 | [Starc](http://twitter.com/search?q=Starc) | N/A |
 | 11 | [sdg secretariat](http://twitter.com/search?q=sdg+secretariat) | N/A |
-| 12 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
-| 13 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
+| 12 | [7.7 magnitude](http://twitter.com/search?q=7.7+magnitude) | N/A |
+| 13 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
 | 14 | [Brigadier Mustafa Kamal Barki](http://twitter.com/search?q=Brigadier+Mustafa+Kamal+Barki) | N/A |
-| 15 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 16 | [sensodyne and paradontax](http://twitter.com/search?q=sensodyne+and+paradontax) | N/A |
-| 17 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 18 | [Stay Safe](http://twitter.com/search?q=Stay+Safe) | N/A |
-| 19 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 15 | [Zalmay](http://twitter.com/search?q=Zalmay) | N/A |
+| 16 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 17 | [sensodyne and paradontax](http://twitter.com/search?q=sensodyne+and+paradontax) | N/A |
+| 18 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 19 | [Stay Safe](http://twitter.com/search?q=Stay+Safe) | N/A |
 | 20 | [Astaghfirullah](http://twitter.com/search?q=Astaghfirullah) | N/A |
-| 21 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 22 | [America](http://twitter.com/search?q=America) | N/A |
-| 23 | [sitara-e-imtiaz](http://twitter.com/search?q=sitara-e-imtiaz) | N/A |
-| 24 | [angoor adda](http://twitter.com/search?q=angoor+adda) | N/A |
-| 25 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
-| 26 | [abbottabad](http://twitter.com/search?q=abbottabad) | N/A |
-| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 21 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 22 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 23 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 24 | [abbottabad](http://twitter.com/search?q=abbottabad) | N/A |
+| 25 | [Angoor Adda](http://twitter.com/search?q=Angoor+Adda) | N/A |
+| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 27 | [gujranwala](http://twitter.com/search?q=gujranwala) | N/A |
 | 28 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 29 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 30 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 31 | [Visit Now](http://twitter.com/search?q=Visit+Now) | N/A |
-| 32 | [Syed](http://twitter.com/search?q=Syed) | N/A |
-| 33 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 34 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
-| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 36 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 37 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 29 | [America](http://twitter.com/search?q=America) | N/A |
+| 30 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 33 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 34 | [Visit Now](http://twitter.com/search?q=Visit+Now) | N/A |
+| 35 | [Syed](http://twitter.com/search?q=Syed) | N/A |
+| 36 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 37 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
 | 38 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 39 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 40 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
-| 41 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 42 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 43 | [E-11](http://twitter.com/search?q=E-11) | N/A |
-| 44 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 45 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 46 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 47 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 48 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 39 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 40 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 41 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 42 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 43 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 44 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
+| 45 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 46 | [E-11](http://twitter.com/search?q=E-11) | N/A |
+| 47 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
+| 48 | [May God](http://twitter.com/search?q=May+God) | N/A |
 | 49 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 50 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 50 | [Heya](http://twitter.com/search?q=Heya) | N/A |
 
 
 
