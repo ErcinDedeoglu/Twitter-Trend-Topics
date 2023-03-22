@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-22 18:17:01 UTC`
+📆 Last Updated: `2023-03-22 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 2 | [#PcComponentesLG](http://twitter.com/search?q=%23PcComponentesLG) | N/A |
-| 3 | [Guardia Civil](http://twitter.com/search?q=Guardia+Civil) | N/A |
-| 4 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
-| 5 | [#Pecado22Mar](http://twitter.com/search?q=%23Pecado22Mar) | N/A |
-| 6 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 7 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 8 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
-| 9 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
-| 10 | [María Gámez](http://twitter.com/search?q=Mar%c3%ada+G%c3%a1mez) | N/A |
-| 11 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 12 | [Mercedes González](http://twitter.com/search?q=Mercedes+Gonz%c3%a1lez) | N/A |
-| 13 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 15 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 16 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 17 | [Cinesa](http://twitter.com/search?q=Cinesa) | N/A |
-| 18 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 19 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
-| 20 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
-| 21 | [Remco Evenepoel](http://twitter.com/search?q=Remco+Evenepoel) | N/A |
-| 22 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 23 | [Creativo 2.0](http://twitter.com/search?q=Creativo+2.0) | N/A |
-| 24 | [El Banco de España](http://twitter.com/search?q=El+Banco+de+Espa%c3%b1a) | N/A |
-| 25 | [13tv](http://twitter.com/search?q=13tv) | N/A |
-| 26 | [Orgullosos](http://twitter.com/search?q=Orgullosos) | N/A |
-| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 28 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
-| 29 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 30 | [Maka](http://twitter.com/search?q=Maka) | N/A |
-| 31 | [Adanero](http://twitter.com/search?q=Adanero) | N/A |
-| 32 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
-| 33 | [Pablo Cambronero](http://twitter.com/search?q=Pablo+Cambronero) | N/A |
-| 34 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 35 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 36 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
-| 37 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 38 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
-| 39 | [Pachi](http://twitter.com/search?q=Pachi) | N/A |
-| 40 | [COBARDES](http://twitter.com/search?q=COBARDES) | N/A |
-| 41 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
-| 42 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 43 | [Cayetana](http://twitter.com/search?q=Cayetana) | N/A |
-| 44 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
-| 45 | [Jurado](http://twitter.com/search?q=Jurado) | N/A |
+| 1 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 2 | [Guardia Civil](http://twitter.com/search?q=Guardia+Civil) | N/A |
+| 3 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 4 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 5 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
+| 6 | [#ElCazador686](http://twitter.com/search?q=%23ElCazador686) | N/A |
+| 7 | [#PcComponentesLG](http://twitter.com/search?q=%23PcComponentesLG) | N/A |
+| 8 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
+| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 10 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 11 | [Chocho Volador](http://twitter.com/search?q=Chocho+Volador) | N/A |
+| 12 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 14 | [Ferreras](http://twitter.com/search?q=Ferreras) | N/A |
+| 15 | [María Gámez](http://twitter.com/search?q=Mar%c3%ada+G%c3%a1mez) | N/A |
+| 16 | [Pollon](http://twitter.com/search?q=Pollon) | N/A |
+| 17 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 18 | [Letonia](http://twitter.com/search?q=Letonia) | N/A |
+| 19 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 20 | [Creativo 2.0](http://twitter.com/search?q=Creativo+2.0) | N/A |
+| 21 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 22 | [Mercedes González](http://twitter.com/search?q=Mercedes+Gonz%c3%a1lez) | N/A |
+| 23 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 24 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 25 | [Cinesa](http://twitter.com/search?q=Cinesa) | N/A |
+| 26 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 27 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 28 | [La Molina](http://twitter.com/search?q=La+Molina) | N/A |
+| 29 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 30 | [Orgullosos](http://twitter.com/search?q=Orgullosos) | N/A |
+| 31 | [Constitucional](http://twitter.com/search?q=Constitucional) | N/A |
+| 32 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 33 | [Banco de España](http://twitter.com/search?q=Banco+de+Espa%c3%b1a) | N/A |
+| 34 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
+| 35 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 36 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 37 | [13tv](http://twitter.com/search?q=13tv) | N/A |
+| 38 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 39 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 40 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
+| 41 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 42 | [Pablo Cambronero](http://twitter.com/search?q=Pablo+Cambronero) | N/A |
+| 43 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
+| 44 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
+| 45 | [Tajo](http://twitter.com/search?q=Tajo) | N/A |
 | 46 | [Españas](http://twitter.com/search?q=Espa%c3%b1as) | N/A |
-| 47 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 48 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 47 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
+| 48 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 
 
 

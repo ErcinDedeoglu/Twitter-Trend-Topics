@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-22 18:16:41 UTC`
+📆 Last Updated: `2023-03-22 19:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 2 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 4 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 5 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 8 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 9 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 10 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 6 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
+| 7 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 8 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 9 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 10 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 11 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 12 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
-| 13 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
-| 14 | [#BudgetQc2023](http://twitter.com/search?q=%23BudgetQc2023) | N/A |
-| 15 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 16 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 18 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 19 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 20 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 21 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 22 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 23 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 13 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 14 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 15 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 16 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 17 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 18 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 20 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 21 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 22 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
+| 23 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
 | 24 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 25 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 26 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
-| 27 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 26 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 27 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
 | 28 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 29 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 30 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 31 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 32 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 29 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 30 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
+| 31 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
+| 32 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
 | 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [CSGO 2](http://twitter.com/search?q=CSGO+2) | N/A |
-| 35 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 36 | [Sergachev](http://twitter.com/search?q=Sergachev) | N/A |
-| 37 | [Nordstrom](http://twitter.com/search?q=Nordstrom) | N/A |
-| 38 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 39 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 40 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 41 | [Lamb of God](http://twitter.com/search?q=Lamb+of+God) | N/A |
-| 42 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 43 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 44 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 45 | [Cypress Hill](http://twitter.com/search?q=Cypress+Hill) | N/A |
-| 46 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 47 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 48 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 49 | [Dach](http://twitter.com/search?q=Dach) | N/A |
+| 34 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 35 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
+| 36 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 37 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 38 | [CSGO 2](http://twitter.com/search?q=CSGO+2) | N/A |
+| 39 | [Cypress Hill](http://twitter.com/search?q=Cypress+Hill) | N/A |
+| 40 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 41 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 42 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 43 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 44 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 45 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 46 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
+| 47 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 48 | [WE LOVE YOU HADEER](http://twitter.com/search?q=WE+LOVE+YOU+HADEER) | N/A |
+| 49 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 
 
 

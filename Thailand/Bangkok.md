@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-22 18:17:11 UTC`
+📆 Last Updated: `2023-03-22 19:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#IMAXLaserXforcebook](http://twitter.com/search?q=%23IMAXLaserXforcebook) | N/A |
-| 2 | [#winynny](http://twitter.com/search?q=%23winynny) | N/A |
-| 3 | [#WangYibo](http://twitter.com/search?q=%23WangYibo) | N/A |
+| 2 | [#MISTINE春日出游季xTarBom](http://twitter.com/search?q=%23MISTINE%e6%98%a5%e6%97%a5%e5%87%ba%e6%b8%b8%e5%ad%a3xTarBom) | N/A |
+| 3 | [#winynny](http://twitter.com/search?q=%23winynny) | N/A |
 | 4 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 5 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
 | 6 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
-| 7 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
-| 8 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
-| 9 | [#กราดยิงเพชรบุรี](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%94%e0%b8%a2%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b5) | N/A |
-| 10 | [#รักน้องวินนะครับ](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b0%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a) | N/A |
-| 11 | [#อิงล็อตคุณน่ะเก่งที่สุดเลยนะ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%99%e0%b9%88%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%99%e0%b8%b0) | N/A |
-| 12 | [#TANONTGAME363](http://twitter.com/search?q=%23TANONTGAME363) | N/A |
+| 7 | [#กราดยิงเพชรบุรี](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%94%e0%b8%a2%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%9e%e0%b8%8a%e0%b8%a3%e0%b8%9a%e0%b8%b8%e0%b8%a3%e0%b8%b5) | N/A |
+| 8 | [#รักน้องวินนะครับ](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b0%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%9a) | N/A |
+| 9 | [#aisล่ม](http://twitter.com/search?q=%23ais%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
+| 10 | [#อิงล็อตคุณน่ะเก่งที่สุดเลยนะ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%99%e0%b9%88%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2%e0%b8%99%e0%b8%b0) | N/A |
+| 11 | [#บอลไทย](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b9%84%e0%b8%97%e0%b8%a2) | #บอลไทย is a hashtag used on social media to refer to Thai football. It translates to "Thai Football" in English. |
+| 12 | [#ช้างศึกU23](http://twitter.com/search?q=%23%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a8%e0%b8%b6%e0%b8%81U23) | N/A |
 | 13 | [#RangsitLifeFest](http://twitter.com/search?q=%23RangsitLifeFest) | N/A |
 | 14 | [#MEENPINGxiQIYIVIP](http://twitter.com/search?q=%23MEENPINGxiQIYIVIP) | N/A |
-| 15 | [#aisล่ม](http://twitter.com/search?q=%23ais%e0%b8%a5%e0%b9%88%e0%b8%a1) | N/A |
-| 16 | [#โดแจจอง](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b9%81%e0%b8%88%e0%b8%88%e0%b8%ad%e0%b8%87) | N/A |
-| 17 | [#ทริอาชTheSeries](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%ad%e0%b8%b2%e0%b8%8aTheSeries) | N/A |
-| 18 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 19 | [#SUGA_AgustD_TOUR_in_Bangkok](http://twitter.com/search?q=%23SUGA_AgustD_TOUR_in_Bangkok) | N/A |
-| 20 | [#PROXIEth](http://twitter.com/search?q=%23PROXIEth) | N/A |
-| 21 | [#อิงฟ้ามหาชน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99) | N/A |
-| 22 | [#PROXIEGorn](http://twitter.com/search?q=%23PROXIEGorn) | N/A |
-| 23 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 15 | [#ทริอาชTheSeries](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%ad%e0%b8%b2%e0%b8%8aTheSeries) | N/A |
+| 16 | [#TANONTGAME363](http://twitter.com/search?q=%23TANONTGAME363) | N/A |
+| 17 | [#โดแจจอง](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b9%81%e0%b8%88%e0%b8%88%e0%b8%ad%e0%b8%87) | N/A |
+| 18 | [#PROXIEGorn](http://twitter.com/search?q=%23PROXIEGorn) | N/A |
+| 19 | [#PROXIEth](http://twitter.com/search?q=%23PROXIEth) | N/A |
+| 20 | [#SUGA_AgustD_TOUR_in_Bangkok](http://twitter.com/search?q=%23SUGA_AgustD_TOUR_in_Bangkok) | N/A |
+| 21 | [#MakeaWishEp1](http://twitter.com/search?q=%23MakeaWishEp1) | N/A |
+| 22 | [#อิงฟ้ามหาชน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99) | N/A |
+| 23 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
 | 24 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 25 | [#mvเพื่อนพักใจ](http://twitter.com/search?q=%23mv%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%88) | N/A |
-| 26 | [#มาคุยกันกับบอสโนอึล](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%84%e0%b8%b8%e0%b8%a2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
-| 27 | [#MakeaWishEp1](http://twitter.com/search?q=%23MakeaWishEp1) | N/A |
-| 28 | [#บอลไทย](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b9%84%e0%b8%97%e0%b8%a2) | #บอลไทย is a hashtag used on social media to refer to Thai football. It translates to "Thai Football" in English. |
-| 29 | [#ช้างศึกU23](http://twitter.com/search?q=%23%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a8%e0%b8%b6%e0%b8%81U23) | N/A |
-| 30 | [#คลับฟรายแดง](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%9f%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%94%e0%b8%87) | N/A |
-| 31 | [#หน้ากากคิงโพดํา](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%84%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%9e%e0%b8%94%e0%b9%8d%e0%b8%b2) | N/A |
-| 32 | [#YSLBEAUTYSGBRIGHT](http://twitter.com/search?q=%23YSLBEAUTYSGBRIGHT) | N/A |
-| 33 | [#วินนี่สตางค์](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
-| 34 | [#TheMaskSinger12](http://twitter.com/search?q=%23TheMaskSinger12) | N/A |
-| 35 | [#AerthaXDrPong](http://twitter.com/search?q=%23AerthaXDrPong) | N/A |
-| 36 | [#BiblexPoloRed](http://twitter.com/search?q=%23BiblexPoloRed) | N/A |
-| 37 | [#ชาบูน้ําขิง](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%9a%e0%b8%b9%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%82%e0%b8%b4%e0%b8%87) | N/A |
-| 38 | [#MISTINE春日出游季xTarBom](http://twitter.com/search?q=%23MISTINE%e6%98%a5%e6%97%a5%e5%87%ba%e6%b8%b8%e5%ad%a3xTarBom) | N/A |
-| 39 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 40 | [#JamesSu](http://twitter.com/search?q=%23JamesSu) | N/A |
-| 41 | [#หน้ากากหมาบลูเทอร์เรียร์](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b9%80%e0%b8%97%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b9%8c) | N/A |
-| 42 | [#Mind4EVE](http://twitter.com/search?q=%23Mind4EVE) | N/A |
-| 43 | [#Jinx](http://twitter.com/search?q=%23Jinx) | N/A |
-| 44 | [#ralphlauren](http://twitter.com/search?q=%23ralphlauren) | N/A |
-| 45 | [#ฟ้องSMTrue](http://twitter.com/search?q=%23%e0%b8%9f%e0%b9%89%e0%b8%ad%e0%b8%87SMTrue) | N/A |
-| 46 | [#Aheye4EVE](http://twitter.com/search?q=%23Aheye4EVE) | N/A |
-| 47 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
-| 48 | [#FreenbecXBirthdaymulty](http://twitter.com/search?q=%23FreenbecXBirthdaymulty) | N/A |
-| 49 | [#JaeDo](http://twitter.com/search?q=%23JaeDo) | N/A |
-| 50 | [#TEeThanapon](http://twitter.com/search?q=%23TEeThanapon) | N/A |
+| 25 | [#มาคุยกันกับบอสโนอึล](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%84%e0%b8%b8%e0%b8%a2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
+| 26 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 27 | [#คลับฟรายแดง](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%9f%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b9%81%e0%b8%94%e0%b8%87) | N/A |
+| 28 | [#หน้ากากคิงโพดํา](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%84%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%9e%e0%b8%94%e0%b9%8d%e0%b8%b2) | N/A |
+| 29 | [#วินนี่สตางค์](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
+| 30 | [#YSLBEAUTYSGBRIGHT](http://twitter.com/search?q=%23YSLBEAUTYSGBRIGHT) | N/A |
+| 31 | [#MVเพื่อนพักใจ](http://twitter.com/search?q=%23MV%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%b1%e0%b8%81%e0%b9%83%e0%b8%88) | N/A |
+| 32 | [#TheMaskSinger12](http://twitter.com/search?q=%23TheMaskSinger12) | N/A |
+| 33 | [#AerthaXDrPong](http://twitter.com/search?q=%23AerthaXDrPong) | N/A |
+| 34 | [#ชาบูน้ําขิง](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%9a%e0%b8%b9%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%82%e0%b8%b4%e0%b8%87) | N/A |
+| 35 | [#Jinx](http://twitter.com/search?q=%23Jinx) | N/A |
+| 36 | [#หน้ากากหมาบลูเทอร์เรียร์](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%81%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b9%80%e0%b8%97%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%a3%e0%b9%8c) | N/A |
+| 37 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 38 | [#BiblexPoloRed](http://twitter.com/search?q=%23BiblexPoloRed) | N/A |
+| 39 | [#JamesSu](http://twitter.com/search?q=%23JamesSu) | N/A |
+| 40 | [#ฟ้องSMTrue](http://twitter.com/search?q=%23%e0%b8%9f%e0%b9%89%e0%b8%ad%e0%b8%87SMTrue) | N/A |
+| 41 | [#AgustDTOURBKK](http://twitter.com/search?q=%23AgustDTOURBKK) | N/A |
+| 42 | [#TEeThanapon](http://twitter.com/search?q=%23TEeThanapon) | N/A |
+| 43 | [#RalphLauren](http://twitter.com/search?q=%23RalphLauren) | N/A |
+| 44 | [#Aheye4EVE](http://twitter.com/search?q=%23Aheye4EVE) | N/A |
+| 45 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
+| 46 | [#JaeDo](http://twitter.com/search?q=%23JaeDo) | N/A |
+| 47 | [#โดทูเดอะแจทูเดอะจอง](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%94%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b9%81%e0%b8%88%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%88%e0%b8%ad%e0%b8%87) | N/A |
+| 48 | [#500KRestartWithOurPeat](http://twitter.com/search?q=%23500KRestartWithOurPeat) | N/A |
+| 49 | [#อิงฟ้าวราหะ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a3%e0%b8%b2%e0%b8%ab%e0%b8%b0) | N/A |
+| 50 | [#Mind4EVE](http://twitter.com/search?q=%23Mind4EVE) | N/A |
 
 
 

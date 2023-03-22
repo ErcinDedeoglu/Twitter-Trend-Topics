@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-22 18:16:58 UTC`
+📆 Last Updated: `2023-03-22 19:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
 | 4 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
 | 5 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 6 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 7 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 8 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 10 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 11 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
-| 12 | [ornella vanoni](http://twitter.com/search?q=ornella+vanoni) | N/A |
-| 13 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 14 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 15 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 16 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 17 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
-| 18 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 6 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 8 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 9 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 10 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 11 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 12 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 13 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 14 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 15 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 16 | [Vendi](http://twitter.com/search?q=Vendi) | N/A |
+| 17 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 18 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
 | 19 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
-| 20 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 21 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 22 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
-| 23 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
-| 24 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 25 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 26 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
-| 27 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
-| 28 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 29 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 20 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
+| 21 | [Roberto Mancini](http://twitter.com/search?q=Roberto+Mancini) | N/A |
+| 22 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 23 | [Simon Pietro](http://twitter.com/search?q=Simon+Pietro) | N/A |
+| 24 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 25 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 26 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 27 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 28 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 29 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
 | 30 | [Franchi](http://twitter.com/search?q=Franchi) | N/A |
-| 31 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
-| 32 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 33 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 34 | [Ilenia](http://twitter.com/search?q=Ilenia) | N/A |
-| 35 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
-| 36 | [Citto Maselli](http://twitter.com/search?q=Citto+Maselli) | N/A |
-| 37 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 38 | [Roberto Mancini](http://twitter.com/search?q=Roberto+Mancini) | N/A |
-| 39 | [Dachau](http://twitter.com/search?q=Dachau) | N/A |
-| 40 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
-| 41 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 42 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 43 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 31 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 32 | [Claudia Pandolfi](http://twitter.com/search?q=Claudia+Pandolfi) | N/A |
+| 33 | [Rapone](http://twitter.com/search?q=Rapone) | N/A |
+| 34 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 35 | [Citto Maselli](http://twitter.com/search?q=Citto+Maselli) | N/A |
+| 36 | [Casalino](http://twitter.com/search?q=Casalino) | N/A |
+| 37 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
+| 38 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
+| 39 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
+| 40 | [Dachau](http://twitter.com/search?q=Dachau) | N/A |
+| 41 | [Paolo Carta](http://twitter.com/search?q=Paolo+Carta) | N/A |
+| 42 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 43 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
 | 44 | [Miami Vice](http://twitter.com/search?q=Miami+Vice) | N/A |
-| 45 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
-| 46 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
-| 47 | [Enrica](http://twitter.com/search?q=Enrica) | N/A |
+| 45 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
+| 46 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 47 | [Alfredo](http://twitter.com/search?q=Alfredo) | N/A |
 
 
 

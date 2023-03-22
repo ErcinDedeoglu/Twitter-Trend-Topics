@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-22 18:16:57 UTC`
+📆 Last Updated: `2023-03-22 19:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,44 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 3 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 4 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
+| 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 2 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
+| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 4 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [#Source2](http://twitter.com/search?q=%23Source2) | N/A |
-| 7 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 8 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 9 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
-| 10 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 11 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 12 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 6 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 7 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 8 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 9 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 10 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 11 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 12 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
 | 13 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 14 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 15 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 16 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 17 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 18 | [Ablenkung](http://twitter.com/search?q=Ablenkung) | N/A |
-| 19 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
-| 20 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 21 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
+| 14 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 15 | [Ablenkung](http://twitter.com/search?q=Ablenkung) | N/A |
+| 16 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 17 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 18 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 19 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 20 | [Koalitionsvertrag](http://twitter.com/search?q=Koalitionsvertrag) | N/A |
+| 21 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
 | 22 | [Frau Wagenknecht](http://twitter.com/search?q=Frau+Wagenknecht) | N/A |
-| 23 | [Ministerium](http://twitter.com/search?q=Ministerium) | N/A |
-| 24 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 25 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 26 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 27 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 28 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
-| 29 | [#StadtratC](http://twitter.com/search?q=%23StadtratC) | N/A |
-| 30 | [#Özil](http://twitter.com/search?q=%23%c3%96zil) | N/A |
-| 31 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 32 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 33 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
-| 34 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 35 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
-| 36 | [#Reutlingen](http://twitter.com/search?q=%23Reutlingen) | N/A |
+| 23 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 24 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 25 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 26 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 27 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
+| 28 | [#Source2](http://twitter.com/search?q=%23Source2) | N/A |
+| 29 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
+| 30 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 31 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 32 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 33 | [#StadtratC](http://twitter.com/search?q=%23StadtratC) | N/A |
+| 34 | [#Özil](http://twitter.com/search?q=%23%c3%96zil) | N/A |
+| 35 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
+| 36 | [#FDPunter5Prozent](http://twitter.com/search?q=%23FDPunter5Prozent) | N/A |
 | 37 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 38 | [#Dresden](http://twitter.com/search?q=%23Dresden) | N/A |
+| 38 | [#Reutlingen](http://twitter.com/search?q=%23Reutlingen) | N/A |
 
 
 

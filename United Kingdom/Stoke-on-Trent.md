@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-22 18:16:45 UTC`
+📆 Last Updated: `2023-03-22 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 2 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 4 | [#YaGunnersYa](http://twitter.com/search?q=%23YaGunnersYa) | N/A |
-| 5 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [Tim and Helen](http://twitter.com/search?q=Tim+and+Helen) | N/A |
-| 8 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
-| 9 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 10 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 11 | [Giles Coren](http://twitter.com/search?q=Giles+Coren) | N/A |
-| 12 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 13 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 14 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 15 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 16 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 17 | [Charles Walker](http://twitter.com/search?q=Charles+Walker) | N/A |
+| 1 | [TT  AR44](http://twitter.com/search?q=TT++AR44) | N/A |
+| 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 3 | [#OneCancerVoice](http://twitter.com/search?q=%23OneCancerVoice) | N/A |
+| 4 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 5 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 6 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 7 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 9 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 10 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 13 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 14 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 15 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 16 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 18 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 19 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 20 | [Bernard Jenkin](http://twitter.com/search?q=Bernard+Jenkin) | N/A |
-| 21 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 22 | [Alberto Costa](http://twitter.com/search?q=Alberto+Costa) | N/A |
-| 23 | [Marsupials](http://twitter.com/search?q=Marsupials) | N/A |
-| 24 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
-| 25 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
-| 26 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 27 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 28 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 29 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 19 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 21 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 22 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 23 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 24 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 25 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 26 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
+| 27 | [Charles Walker](http://twitter.com/search?q=Charles+Walker) | N/A |
+| 28 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 29 | [Bernard Jenkin](http://twitter.com/search?q=Bernard+Jenkin) | N/A |
 | 30 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 31 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 32 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 33 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 34 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 35 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
-| 36 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
-| 37 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 38 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 39 | [Eton](http://twitter.com/search?q=Eton) | N/A |
-| 40 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 41 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 42 | [Lee Cain](http://twitter.com/search?q=Lee+Cain) | N/A |
-| 43 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 44 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 45 | [Beth Rigby](http://twitter.com/search?q=Beth+Rigby) | N/A |
-| 46 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 47 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 48 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 49 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 31 | [Alberto Costa](http://twitter.com/search?q=Alberto+Costa) | N/A |
+| 32 | [Marsupials](http://twitter.com/search?q=Marsupials) | N/A |
+| 33 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
+| 34 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
+| 35 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 36 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 37 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
+| 38 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 39 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 40 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 41 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 42 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 43 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 44 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 45 | [Congratulations Mike](http://twitter.com/search?q=Congratulations+Mike) | N/A |
+| 46 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 47 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 48 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 49 | [Rishi Sunak](http://twitter.com/search?q=Rishi+Sunak) | Rishi Sunak is the current Chancellor of the Exchequer in the United Kingdom. The Chancellor of the Exchequer is the British government minister responsible for all economic and financial matters. The name Rishi Sunak is derived from two words: Rishi, which means sage or saint in Sanskrit, and Sunak, which means treasurer or banker in Hindi. |
 
 
 

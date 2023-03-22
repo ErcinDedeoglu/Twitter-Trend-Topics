@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-22 18:17:24 UTC`
+📆 Last Updated: `2023-03-22 19:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 2 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 5 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 7 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 8 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 9 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 10 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 11 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 12 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 13 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 14 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 15 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 16 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 17 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 18 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 19 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 20 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 21 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 22 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
-| 23 | [Soroka](http://twitter.com/search?q=Soroka) | N/A |
-| 24 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 25 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 26 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 27 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 28 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
-| 29 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
-| 30 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 2 | [#GivingPack](http://twitter.com/search?q=%23GivingPack) | N/A |
+| 3 | [Day of Giving](http://twitter.com/search?q=Day+of+Giving) | N/A |
+| 4 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 5 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 8 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 9 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 10 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 11 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 13 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 14 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 15 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 16 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 17 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 18 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 19 | [Jets or Browns](http://twitter.com/search?q=Jets+or+Browns) | N/A |
+| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 21 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 22 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 23 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 24 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 25 | [Armando Bacot](http://twitter.com/search?q=Armando+Bacot) | N/A |
+| 26 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 27 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 28 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 29 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 30 | [Russo](http://twitter.com/search?q=Russo) | N/A |
 | 31 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 32 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
-| 33 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
-| 34 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 35 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
-| 36 | [Kimberly Guilfoyle](http://twitter.com/search?q=Kimberly+Guilfoyle) | N/A |
-| 37 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 38 | [Mr. Shatner](http://twitter.com/search?q=Mr.+Shatner) | N/A |
-| 39 | [Denzel Perryman](http://twitter.com/search?q=Denzel+Perryman) | N/A |
-| 40 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 41 | [Unreal Engine](http://twitter.com/search?q=Unreal+Engine) | N/A |
-| 42 | [Newsmax](http://twitter.com/search?q=Newsmax) | Newsmax is an American news media organization founded in 1998. It is a conservative-leaning news outlet that provides news and opinion from a right-wing perspective. The name Newsmax is derived from the words "news" and "maximum," suggesting that it provides the maximum amount of news coverage. |
-| 43 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 44 | [byers](http://twitter.com/search?q=byers) | N/A |
-| 45 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 46 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 47 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 48 | [Aaron Sorkin](http://twitter.com/search?q=Aaron+Sorkin) | N/A |
-| 49 | [Stellar Blade](http://twitter.com/search?q=Stellar+Blade) | N/A |
+| 32 | [Puff](http://twitter.com/search?q=Puff) | N/A |
+| 33 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 34 | [Mod Squad](http://twitter.com/search?q=Mod+Squad) | N/A |
+| 35 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 36 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 37 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 38 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 39 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
+| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 41 | [Kerr Kriisa](http://twitter.com/search?q=Kerr+Kriisa) | N/A |
+| 42 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 43 | [JPow](http://twitter.com/search?q=JPow) | N/A |
+| 44 | [Hellblade 2](http://twitter.com/search?q=Hellblade+2) | N/A |
+| 45 | [Soroka](http://twitter.com/search?q=Soroka) | N/A |
+| 46 | [Dick Van Dyke](http://twitter.com/search?q=Dick+Van+Dyke) | N/A |
+| 47 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 48 | [Power Rangers](http://twitter.com/search?q=Power+Rangers) | N/A |
 
 
 

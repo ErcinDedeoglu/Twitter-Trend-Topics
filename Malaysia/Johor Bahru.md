@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-22 18:17:09 UTC`
+📆 Last Updated: `2023-03-22 19:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 12 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
 | 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 14 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 15 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 16 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
-| 17 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 18 | [sowon](http://twitter.com/search?q=sowon) | N/A |
-| 19 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 20 | [thai hot guy](http://twitter.com/search?q=thai+hot+guy) | N/A |
-| 21 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 22 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 23 | [chico malo mv out now](http://twitter.com/search?q=chico+malo+mv+out+now) | N/A |
-| 24 | [pre release](http://twitter.com/search?q=pre+release) | N/A |
+| 15 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
+| 16 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 17 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 18 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 19 | [thai hot guy](http://twitter.com/search?q=thai+hot+guy) | N/A |
+| 20 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 21 | [chico malo mv out now](http://twitter.com/search?q=chico+malo+mv+out+now) | N/A |
+| 22 | [pre release](http://twitter.com/search?q=pre+release) | N/A |
+| 23 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 25 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
-| 26 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 27 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 26 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
+| 27 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 28 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 29 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 30 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 31 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
-| 32 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 33 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 34 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 35 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 36 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 37 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
-| 38 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 39 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 40 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 41 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 42 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 43 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 44 | [PEJUANG](http://twitter.com/search?q=PEJUANG) | N/A |
-| 45 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 46 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 47 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 48 | [Awal](http://twitter.com/search?q=Awal) | N/A |
-| 49 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 30 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 31 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 32 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 33 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
+| 34 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 36 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 37 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 38 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 39 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 40 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 41 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 42 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 43 | [PEJUANG](http://twitter.com/search?q=PEJUANG) | N/A |
+| 44 | [Awal](http://twitter.com/search?q=Awal) | N/A |
+| 45 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 46 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 47 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 48 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 49 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-03-22 18:17:22 UTC`
+📆 Last Updated: `2023-03-22 19:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 2 | [#BuOyunuBozacağız](http://twitter.com/search?q=%23BuOyunuBozaca%c4%9f%c4%b1z) | N/A |
-| 3 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
-| 4 | [TayiniOLUMLUaçıklaGSB](http://twitter.com/search?q=TayiniOLUMLUa%c3%a7%c4%b1klaGSB) | N/A |
-| 5 | [ŞartYok TayinVar](http://twitter.com/search?q=%c5%9eartYok+TayinVar) | N/A |
-| 6 | [#parayetmiyor](http://twitter.com/search?q=%23parayetmiyor) | N/A |
-| 7 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 8 | [#KamuMuhendisininHakkı](http://twitter.com/search?q=%23KamuMuhendisininHakk%c4%b1) | N/A |
-| 9 | [PomemYedeklere5Bin](http://twitter.com/search?q=PomemYedeklere5Bin) | N/A |
-| 10 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 2 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 3 | [#sahur](http://twitter.com/search?q=%23sahur) | N/A |
+| 4 | [#BuOyunuBozacağız](http://twitter.com/search?q=%23BuOyunuBozaca%c4%9f%c4%b1z) | N/A |
+| 5 | [TayiniOLUMLUaçıklaGSB](http://twitter.com/search?q=TayiniOLUMLUa%c3%a7%c4%b1klaGSB) | N/A |
+| 6 | [#Powell](http://twitter.com/search?q=%23Powell) | N/A |
+| 7 | [ŞartYok TayinVar](http://twitter.com/search?q=%c5%9eartYok+TayinVar) | N/A |
+| 8 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 9 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 10 | [Adaleti MumlaArıyoruz](http://twitter.com/search?q=Adaleti+MumlaAr%c4%b1yoruz) | N/A |
 | 11 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 12 | [YüzYıllıkMucize YarınStarda](http://twitter.com/search?q=Y%c3%bczY%c4%b1ll%c4%b1kMucize+Yar%c4%b1nStarda) | N/A |
-| 13 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 13 | [Ters Kelepçe](http://twitter.com/search?q=Ters+Kelep%c3%a7e) | N/A |
 | 14 | [Rabbimize](http://twitter.com/search?q=Rabbimize) | N/A |
-| 15 | [Fed 25](http://twitter.com/search?q=Fed+25) | N/A |
-| 16 | [Oyumuza SAHİPÇIKALIM](http://twitter.com/search?q=Oyumuza+SAH%c4%b0P%c3%87IKALIM) | N/A |
-| 17 | [ABD Merkez Bankası](http://twitter.com/search?q=ABD+Merkez+Bankas%c4%b1) | N/A |
-| 18 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 19 | [Muhammed Ali Fatih Erbakan](http://twitter.com/search?q=Muhammed+Ali+Fatih+Erbakan) | N/A |
-| 20 | [Cghİle DörtYıl](http://twitter.com/search?q=Cgh%c4%b0le+D%c3%b6rtY%c4%b1l) | N/A |
-| 21 | [Erzurum](http://twitter.com/search?q=Erzurum) | N/A |
-| 22 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 23 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
-| 24 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 25 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
-| 26 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
-| 27 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 28 | [Sonuç](http://twitter.com/search?q=Sonu%c3%a7) | N/A |
-| 29 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 30 | [Ahsen TV](http://twitter.com/search?q=Ahsen+TV) | N/A |
-| 31 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 15 | [Ha CHP Ha HDP](http://twitter.com/search?q=Ha+CHP+Ha+HDP) | N/A |
+| 16 | [Dursun Çiçek](http://twitter.com/search?q=Dursun+%c3%87i%c3%a7ek) | N/A |
+| 17 | [Fed 25](http://twitter.com/search?q=Fed+25) | N/A |
+| 18 | [Oyumuza SAHİPÇIKALIM](http://twitter.com/search?q=Oyumuza+SAH%c4%b0P%c3%87IKALIM) | N/A |
+| 19 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 20 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 21 | [ABD Merkez Bankası](http://twitter.com/search?q=ABD+Merkez+Bankas%c4%b1) | N/A |
+| 22 | [Mithat Sancar](http://twitter.com/search?q=Mithat+Sancar) | N/A |
+| 23 | [Erzurum](http://twitter.com/search?q=Erzurum) | N/A |
+| 24 | [Cenab-ı Allah'tan](http://twitter.com/search?q=Cenab-%c4%b1+Allah%27tan) | N/A |
+| 25 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 26 | [Muhammed Ali Fatih Erbakan](http://twitter.com/search?q=Muhammed+Ali+Fatih+Erbakan) | N/A |
+| 27 | [Rabbime](http://twitter.com/search?q=Rabbime) | N/A |
+| 28 | [Cghİle DörtYıl](http://twitter.com/search?q=Cgh%c4%b0le+D%c3%b6rtY%c4%b1l) | N/A |
+| 29 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
+| 30 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 31 | [Babamı](http://twitter.com/search?q=Babam%c4%b1) | N/A |
 | 32 | [CUMHUR TARİH YAZACAK](http://twitter.com/search?q=CUMHUR+TAR%c4%b0H+YAZACAK) | N/A |
-| 33 | [Mehmet Ali Çelebi](http://twitter.com/search?q=Mehmet+Ali+%c3%87elebi) | N/A |
-| 34 | [Rabbime](http://twitter.com/search?q=Rabbime) | N/A |
-| 35 | [Beşiktaş JK](http://twitter.com/search?q=Be%c5%9fikta%c5%9f+JK) | N/A |
-| 36 | [Türk'e Türk](http://twitter.com/search?q=T%c3%bcrk%27e+T%c3%bcrk) | N/A |
-| 37 | [#BenimOyumKEMALe](http://twitter.com/search?q=%23BenimOyumKEMALe) | N/A |
-| 38 | [#oruç](http://twitter.com/search?q=%23oru%c3%a7) | N/A |
-| 39 | [#Powell](http://twitter.com/search?q=%23Powell) | N/A |
-| 40 | [#ikielimyakandaisias](http://twitter.com/search?q=%23ikielimyakandaisias) | N/A |
-| 41 | [#Kraliçe](http://twitter.com/search?q=%23Krali%c3%a7e) | N/A |
-| 42 | [#sahur](http://twitter.com/search?q=%23sahur) | N/A |
+| 33 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 34 | [Ahsen TV](http://twitter.com/search?q=Ahsen+TV) | N/A |
+| 35 | [#Kraliçe](http://twitter.com/search?q=%23Krali%c3%a7e) | N/A |
+| 36 | [#oruç](http://twitter.com/search?q=%23oru%c3%a7) | N/A |
+| 37 | [#parayetmiyor](http://twitter.com/search?q=%23parayetmiyor) | N/A |
+| 38 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 39 | [#KamuMuhendisininHakkı](http://twitter.com/search?q=%23KamuMuhendisininHakk%c4%b1) | N/A |
+| 40 | [#BenimOyumKEMALe](http://twitter.com/search?q=%23BenimOyumKEMALe) | N/A |
+| 41 | [#ikielimyakandaisias](http://twitter.com/search?q=%23ikielimyakandaisias) | N/A |
+| 42 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
 | 43 | [#SizeOyYokEmekliden](http://twitter.com/search?q=%23SizeOyYokEmekliden) | N/A |
-| 44 | [#GeriSayım](http://twitter.com/search?q=%23GeriSay%c4%b1m) | N/A |
-| 45 | [#Cb45BiniRevizeEt](http://twitter.com/search?q=%23Cb45BiniRevizeEt) | N/A |
-| 46 | [#Nisandayuzyuzeicinsusma](http://twitter.com/search?q=%23Nisandayuzyuzeicinsusma) | N/A |
-| 47 | [#Teravih](http://twitter.com/search?q=%23Teravih) | N/A |
-| 48 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 44 | [#TarafsızBölge](http://twitter.com/search?q=%23Tarafs%c4%b1zB%c3%b6lge) | N/A |
+| 45 | [#Teravih](http://twitter.com/search?q=%23Teravih) | N/A |
+| 46 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
+| 47 | [#Cb45BiniRevizeEt](http://twitter.com/search?q=%23Cb45BiniRevizeEt) | N/A |
+| 48 | [#SGKdaEytmesaisi](http://twitter.com/search?q=%23SGKdaEytmesaisi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-22 18:17:31 UTC`
+📆 Last Updated: `2023-03-22 19:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 1 | [#London](http://twitter.com/search?q=%23London) | N/A |
 | 2 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 3 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 4 | [#BiharDiwas2023](http://twitter.com/search?q=%23BiharDiwas2023) | N/A |
-| 5 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
-| 6 | [#London](http://twitter.com/search?q=%23London) | N/A |
-| 7 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 3 | [#coronavirus](http://twitter.com/search?q=%23coronavirus) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
+| 6 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
+| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 8 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 9 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
 | 10 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 12 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 13 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 14 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 15 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 16 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
-| 17 | [कुमार यादव](http://twitter.com/search?q=%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 18 | [Dravid](http://twitter.com/search?q=Dravid) | N/A |
-| 19 | [CELEBRATING SHIV'S VENTURE](http://twitter.com/search?q=CELEBRATING+SHIV%27S+VENTURE) | N/A |
-| 20 | [Zampa](http://twitter.com/search?q=Zampa) | Zampa is a term used in Italian to describe someone who is clumsy or awkward. It can also be used to describe someone who is clumsy or foolish in their actions. In English, it could be translated as "clumsy" or "bumbling". |
-| 21 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [LIAR ABDU ROZIK](http://twitter.com/search?q=LIAR+ABDU+ROZIK) | N/A |
-| 23 | [Aim To End TB](http://twitter.com/search?q=Aim+To+End+TB) | N/A |
-| 24 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 25 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
-| 26 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 27 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
-| 28 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 11 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 12 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 13 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 14 | [CELEBRATING SHIV'S VENTURE](http://twitter.com/search?q=CELEBRATING+SHIV%27S+VENTURE) | N/A |
+| 15 | [कुमार यादव](http://twitter.com/search?q=%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 17 | [Grand Mufti](http://twitter.com/search?q=Grand+Mufti) | N/A |
+| 18 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
+| 19 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
+| 20 | [Dravid](http://twitter.com/search?q=Dravid) | N/A |
+| 21 | [WE LOVE YOU ABDU](http://twitter.com/search?q=WE+LOVE+YOU+ABDU) | N/A |
+| 22 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 23 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 24 | [Zampa](http://twitter.com/search?q=Zampa) | Zampa is a term used in Italian to describe someone who is clumsy or awkward. It can also be used to describe someone who is clumsy or foolish in their actions. In English, it could be translated as "clumsy" or "bumbling". |
+| 25 | [25 BPS](http://twitter.com/search?q=25+BPS) | N/A |
+| 26 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
+| 27 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 28 | [India in India](http://twitter.com/search?q=India+in+India) | N/A |
 | 29 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
-| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 31 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 32 | [25 BPS](http://twitter.com/search?q=25+BPS) | N/A |
-| 33 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 34 | [पद्म श्री](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 35 | [3 Golden Ducks](http://twitter.com/search?q=3+Golden+Ducks) | N/A |
-| 36 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 37 | [Agar](http://twitter.com/search?q=Agar) | N/A |
-| 38 | [FARHAD LEAVE HERAPHERI 3](http://twitter.com/search?q=FARHAD+LEAVE+HERAPHERI+3) | N/A |
-| 39 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 40 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 41 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
+| 30 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 31 | [पद्म श्री](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 33 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
+| 34 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 35 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
+| 36 | [FARHAD LEAVE HERAPHERI 3](http://twitter.com/search?q=FARHAD+LEAVE+HERAPHERI+3) | N/A |
+| 37 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
+| 38 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 39 | [Golden](http://twitter.com/search?q=Golden) | N/A |
+| 40 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
+| 41 | [Agar](http://twitter.com/search?q=Agar) | N/A |
 | 42 | [Indian Cricket](http://twitter.com/search?q=Indian+Cricket) | N/A |
-| 43 | [6YRS OF DREAMY KAIRA VIVAAH](http://twitter.com/search?q=6YRS+OF+DREAMY+KAIRA+VIVAAH) | N/A |
-| 44 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
+| 43 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 44 | [6YRS OF DREAMY KAIRA VIVAAH](http://twitter.com/search?q=6YRS+OF+DREAMY+KAIRA+VIVAAH) | N/A |
 | 45 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 46 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 47 | [रोहित शर्मा](http://twitter.com/search?q=%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 48 | [ODI WC](http://twitter.com/search?q=ODI+WC) | N/A |
-| 49 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
-| 50 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
+| 46 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
+| 47 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 48 | [T20s](http://twitter.com/search?q=T20s) | N/A |
+| 49 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 50 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
 
 
 
