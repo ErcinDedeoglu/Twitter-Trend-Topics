@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-03-22 22:17:00 UTC`
+📆 Last Updated: `2023-03-22 23:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
-| 2 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 3 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 2 | [#Ugadi](http://twitter.com/search?q=%23Ugadi) | N/A |
+| 3 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 4 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 5 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
-| 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 7 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 9 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 10 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 11 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
-| 12 | [CELEBRATING SHIV'S VENTURE](http://twitter.com/search?q=CELEBRATING+SHIV%27S+VENTURE) | N/A |
-| 13 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 15 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 16 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
-| 17 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
-| 18 | [WE LOVE YOU ABDU](http://twitter.com/search?q=WE+LOVE+YOU+ABDU) | N/A |
-| 19 | [Dravid](http://twitter.com/search?q=Dravid) | N/A |
-| 20 | [सूर्य कुमार यादव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 21 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [25 BPS](http://twitter.com/search?q=25+BPS) | N/A |
-| 23 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 24 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
-| 25 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 26 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
-| 27 | [Golden](http://twitter.com/search?q=Golden) | N/A |
-| 28 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
-| 29 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 30 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 31 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 32 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
-| 33 | [#BhagatSingh](http://twitter.com/search?q=%23BhagatSingh) | N/A |
-| 34 | [#HappyBirthdayKanganaRanaut](http://twitter.com/search?q=%23HappyBirthdayKanganaRanaut) | N/A |
-| 35 | [#PadmaAwards](http://twitter.com/search?q=%23PadmaAwards) | #PadmaAwards is an Indian civilian award given by the Government of India. It is one of the highest civilian awards in India, and is awarded in three categories: Padma Vibhushan, Padma Bhushan, and Padma Shri. The awards are given for exceptional and distinguished service in any field including art, literature, education, science, public affairs, social work, medicine, trade and industry. |
-| 36 | [#Rajguru](http://twitter.com/search?q=%23Rajguru) | N/A |
-| 37 | [#RohitSharma𓃵](http://twitter.com/search?q=%23RohitSharma%f0%93%83%b5) | N/A |
-| 38 | [#fedmeeting](http://twitter.com/search?q=%23fedmeeting) | N/A |
-| 39 | [#SanjuSamson](http://twitter.com/search?q=%23SanjuSamson) | N/A |
-| 40 | [#RajThackeray](http://twitter.com/search?q=%23RajThackeray) | N/A |
-| 41 | [#BCCI](http://twitter.com/search?q=%23BCCI) | N/A |
-| 42 | [#Chepaukstadium](http://twitter.com/search?q=%23Chepaukstadium) | N/A |
-| 43 | [#NothingEar2](http://twitter.com/search?q=%23NothingEar2) | N/A |
-| 44 | [#ModiHaiTohMumkinHai](http://twitter.com/search?q=%23ModiHaiTohMumkinHai) | N/A |
-| 45 | [#HappinessIndex](http://twitter.com/search?q=%23HappinessIndex) | N/A |
+| 6 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 7 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 9 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 10 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
+| 11 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 12 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 13 | [Goddess Durga](http://twitter.com/search?q=Goddess+Durga) | N/A |
+| 14 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
+| 15 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
+| 16 | [Maa Durga](http://twitter.com/search?q=Maa+Durga) | N/A |
+| 17 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 18 | [Aim To End TB](http://twitter.com/search?q=Aim+To+End+TB) | N/A |
+| 19 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
+| 20 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 22 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
+| 23 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
+| 24 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 25 | [शक्ति स्वरूपा](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%be) | N/A |
+| 26 | [कुमार यादव](http://twitter.com/search?q=%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [CELEBRATING SHIV'S VENTURE](http://twitter.com/search?q=CELEBRATING+SHIV%27S+VENTURE) | N/A |
+| 29 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 30 | [Grand Mufti](http://twitter.com/search?q=Grand+Mufti) | N/A |
+| 31 | [WE LOVE YOU ABDU](http://twitter.com/search?q=WE+LOVE+YOU+ABDU) | N/A |
+| 32 | [अमर शहीद भगत सिंह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 33 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 34 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 35 | [Khair Mubarak](http://twitter.com/search?q=Khair+Mubarak) | N/A |
+| 36 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 37 | [LIAR ABDU ROZIK](http://twitter.com/search?q=LIAR+ABDU+ROZIK) | N/A |
+| 38 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 39 | [Dravid](http://twitter.com/search?q=Dravid) | N/A |
+| 40 | [Zampa](http://twitter.com/search?q=Zampa) | Zampa is a term used in Italian to describe someone who is clumsy or awkward. It can also be used to describe someone who is clumsy or foolish in their actions. In English, it could be translated as "clumsy" or "bumbling". |
+| 41 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 42 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 43 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 44 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 45 | [Team India](http://twitter.com/search?q=Team+India) | N/A |
+| 46 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
+| 47 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 49 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 50 | [Vote for SRK](http://twitter.com/search?q=Vote+for+SRK) | N/A |
 
 
 

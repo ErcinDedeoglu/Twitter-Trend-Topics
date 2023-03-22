@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-22 22:16:55 UTC`
+📆 Last Updated: `2023-03-22 23:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 2 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 3 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
+| 2 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
+| 3 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 4 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
 | 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 7 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
+| 7 | [#theworldsnumberonecider](http://twitter.com/search?q=%23theworldsnumberonecider) | N/A |
 | 8 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 9 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 10 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
@@ -35,35 +35,35 @@ This is top 50 for [South Africa](</South Africa>)
 | 18 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
 | 19 | [Khosi and Ebubu](http://twitter.com/search?q=Khosi+and+Ebubu) | N/A |
 | 20 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 21 | [klaasen](http://twitter.com/search?q=klaasen) | N/A |
-| 22 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 23 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 24 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 21 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 22 | [klaasen](http://twitter.com/search?q=klaasen) | N/A |
+| 23 | [Vote for Khosi](http://twitter.com/search?q=Vote+for+Khosi) | N/A |
+| 24 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
 | 25 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
-| 26 | [Team Rema](http://twitter.com/search?q=Team+Rema) | N/A |
-| 27 | [Home-made](http://twitter.com/search?q=Home-made) | N/A |
-| 28 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
-| 29 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 30 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 31 | [Mrs R](http://twitter.com/search?q=Mrs+R) | N/A |
-| 32 | [Downer](http://twitter.com/search?q=Downer) | N/A |
-| 33 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 34 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
-| 35 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
-| 36 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 26 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 27 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 28 | [team rema](http://twitter.com/search?q=team+rema) | N/A |
+| 29 | [home-made](http://twitter.com/search?q=home-made) | N/A |
+| 30 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 31 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 32 | [Mrs R](http://twitter.com/search?q=Mrs+R) | N/A |
+| 33 | [Downer](http://twitter.com/search?q=Downer) | N/A |
+| 34 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 35 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 36 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
 | 37 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
-| 38 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
-| 39 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
-| 40 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
-| 41 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 38 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
+| 39 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 40 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
+| 41 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
 | 42 | [National Conference](http://twitter.com/search?q=National+Conference) | N/A |
-| 43 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 44 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
-| 45 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
-| 46 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 47 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 48 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 49 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 43 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
+| 44 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 45 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
+| 46 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
+| 47 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 48 | [Reservations](http://twitter.com/search?q=Reservations) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 
 
 

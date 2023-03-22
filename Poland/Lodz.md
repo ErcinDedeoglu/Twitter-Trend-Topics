@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-22 22:16:37 UTC`
+📆 Last Updated: `2023-03-22 23:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
 | 4 | [T-55](http://twitter.com/search?q=T-55) | N/A |
 | 5 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 6 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 7 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 8 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 9 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 10 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
-| 11 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 12 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 13 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 6 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 7 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 8 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
+| 9 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 10 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 11 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 12 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 13 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 14 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 15 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 16 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 17 | [Downa](http://twitter.com/search?q=Downa) | N/A |
-| 18 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
-| 19 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 20 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 21 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
-| 22 | [Japonia](http://twitter.com/search?q=Japonia) | N/A |
-| 23 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 24 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 25 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
-| 26 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 27 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 28 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 29 | [yanosik](http://twitter.com/search?q=yanosik) | N/A |
-| 30 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 15 | [downa](http://twitter.com/search?q=downa) | N/A |
+| 16 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 17 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 18 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 19 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
+| 20 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 21 | [Japonia](http://twitter.com/search?q=Japonia) | N/A |
+| 22 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 23 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 24 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 25 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 26 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 27 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
+| 28 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 29 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 30 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
 | 31 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 32 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 33 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 34 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 35 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 36 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 37 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 38 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 39 | [zawierciu](http://twitter.com/search?q=zawierciu) | N/A |
-| 40 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 41 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 42 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 43 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 44 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
-| 45 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 46 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 47 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
-| 48 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 32 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 33 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 34 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 35 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
+| 36 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 37 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 38 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 39 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 40 | [zawierciu](http://twitter.com/search?q=zawierciu) | N/A |
+| 41 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 42 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 43 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 44 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
+| 45 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 46 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 47 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
+| 48 | [bilewicz](http://twitter.com/search?q=bilewicz) | N/A |
 
 
 

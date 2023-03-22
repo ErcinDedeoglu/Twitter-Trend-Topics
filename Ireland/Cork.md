@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-22 22:16:38 UTC`
+📆 Last Updated: `2023-03-22 23:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
 | 2 | [Mikey Johnston](http://twitter.com/search?q=Mikey+Johnston) | N/A |
-| 3 | [#IRLLVA](http://twitter.com/search?q=%23IRLLVA) | N/A |
+| 3 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
 | 4 | [#IRLLAT](http://twitter.com/search?q=%23IRLLAT) | N/A |
-| 5 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 6 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 7 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 5 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 6 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
+| 7 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
 | 8 | [Kelleher](http://twitter.com/search?q=Kelleher) | Kelleher is an Irish surname derived from the Gaelic name Ó Ceileachair, which means "descendant of Ceileachar". The name is most commonly found in County Cork and County Kerry in Ireland. |
-| 9 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 10 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 11 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 12 | [Browne](http://twitter.com/search?q=Browne) | N/A |
-| 13 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 9 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
+| 10 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 11 | [Browne](http://twitter.com/search?q=Browne) | N/A |
+| 12 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 13 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
 | 14 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 15 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 16 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 16 | [Neasa](http://twitter.com/search?q=Neasa) | N/A |
+| 17 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 18 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
 | 19 | [Paddy Carr](http://twitter.com/search?q=Paddy+Carr) | N/A |
-| 20 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 21 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 22 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 23 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 24 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
-| 25 | [Neasa Hourigan](http://twitter.com/search?q=Neasa+Hourigan) | N/A |
-| 26 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 28 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 20 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 21 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 22 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 25 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 26 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 27 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 28 | [Government](http://twitter.com/search?q=Government) | N/A |
 | 29 | [McClean](http://twitter.com/search?q=McClean) | N/A |
-| 30 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 31 | [Gript](http://twitter.com/search?q=Gript) | N/A |
-| 32 | [The Green Party](http://twitter.com/search?q=The+Green+Party) | N/A |
-| 33 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 34 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 35 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 36 | [Robbie Keane](http://twitter.com/search?q=Robbie+Keane) | N/A |
-| 37 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 38 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
-| 39 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 40 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 41 | [O'Dowda](http://twitter.com/search?q=O%27Dowda) | N/A |
-| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 43 | [Fine Gael](http://twitter.com/search?q=Fine+Gael) | N/A |
-| 44 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 30 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 31 | [The Green Party](http://twitter.com/search?q=The+Green+Party) | N/A |
+| 32 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 33 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 34 | [O'Dowda](http://twitter.com/search?q=O%27Dowda) | N/A |
+| 35 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 37 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 38 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 39 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
+| 40 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 41 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 42 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 43 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 44 | [Cartamundi](http://twitter.com/search?q=Cartamundi) | N/A |
 | 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 46 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
-| 47 | [Cartamundi](http://twitter.com/search?q=Cartamundi) | N/A |
-| 48 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 46 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 47 | [Cathal Berry](http://twitter.com/search?q=Cathal+Berry) | N/A |
+| 48 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
 
 
 

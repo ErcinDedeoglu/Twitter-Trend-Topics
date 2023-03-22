@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-22 22:16:27 UTC`
+📆 Last Updated: `2023-03-22 23:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
 | 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 3 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 6 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 7 | [#ROHturandot](http://twitter.com/search?q=%23ROHturandot) | N/A |
-| 8 | [Cerberus](http://twitter.com/search?q=Cerberus) | N/A |
-| 9 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 10 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 11 | [Maureen Lipman](http://twitter.com/search?q=Maureen+Lipman) | N/A |
-| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 13 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 14 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 15 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 16 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 17 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 18 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 19 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 20 | [Janey](http://twitter.com/search?q=Janey) | N/A |
-| 21 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 22 | [Tim Sherwood](http://twitter.com/search?q=Tim+Sherwood) | N/A |
-| 23 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
-| 24 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 25 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 26 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 27 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 28 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 29 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 30 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 31 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 33 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
-| 34 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 35 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 36 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
-| 37 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
-| 38 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 39 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
-| 40 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 41 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 42 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 43 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 44 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 45 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 46 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 47 | [Marsupials](http://twitter.com/search?q=Marsupials) | N/A |
-| 48 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
-| 49 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 50 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
+| 3 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 4 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 6 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 7 | [Lord Greenhalgh](http://twitter.com/search?q=Lord+Greenhalgh) | N/A |
+| 8 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 9 | [Cerberus](http://twitter.com/search?q=Cerberus) | N/A |
+| 10 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 11 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 12 | [Mikey Johnston](http://twitter.com/search?q=Mikey+Johnston) | N/A |
+| 13 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
+| 14 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 15 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 16 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 17 | [Maureen Lipman](http://twitter.com/search?q=Maureen+Lipman) | N/A |
+| 18 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 19 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 20 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 21 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 22 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 23 | [Janey](http://twitter.com/search?q=Janey) | N/A |
+| 24 | [Sir Jim Ratcliffe](http://twitter.com/search?q=Sir+Jim+Ratcliffe) | Sir Jim Ratcliffe is an English billionaire businessman and the founder, chairman, and majority shareholder of the multinational chemicals company Ineos. He is one of the wealthiest people in the United Kingdom. |
+| 25 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 26 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
+| 27 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
+| 28 | [Tim Sherwood](http://twitter.com/search?q=Tim+Sherwood) | N/A |
+| 29 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
+| 30 | [Raine](http://twitter.com/search?q=Raine) | N/A |
+| 31 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 32 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 33 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 34 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 35 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 36 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 37 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 38 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 39 | [Taraweeh](http://twitter.com/search?q=Taraweeh) | N/A |
+| 40 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 41 | [Mogg](http://twitter.com/search?q=Mogg) | N/A |
+| 42 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 43 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 44 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 45 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 46 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 47 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
+| 48 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 49 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 50 | [Mansfield](http://twitter.com/search?q=Mansfield) | N/A |
 
 
 

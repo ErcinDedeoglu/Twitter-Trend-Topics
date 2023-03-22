@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-22 22:17:02 UTC`
+📆 Last Updated: `2023-03-22 23:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 2 | [#SizeOyYokEmekliden](http://twitter.com/search?q=%23SizeOyYokEmekliden) | N/A |
-| 3 | [#sahur](http://twitter.com/search?q=%23sahur) | N/A |
+| 2 | [#sahur](http://twitter.com/search?q=%23sahur) | N/A |
+| 3 | [#SizeOyYokEmekliden](http://twitter.com/search?q=%23SizeOyYokEmekliden) | N/A |
 | 4 | [#Uniacmayanaoyyok](http://twitter.com/search?q=%23Uniacmayanaoyyok) | N/A |
 | 5 | [#StajTalepDeğilHaktır](http://twitter.com/search?q=%23StajTalepDe%c4%9filHakt%c4%b1r) | N/A |
-| 6 | [#3nisandayuzyuze](http://twitter.com/search?q=%233nisandayuzyuze) | N/A |
-| 7 | [Hdp Eşittir Pkk](http://twitter.com/search?q=Hdp+E%c5%9fittir+Pkk) | N/A |
-| 8 | [Özel Yayın](http://twitter.com/search?q=%c3%96zel+Yay%c4%b1n) | N/A |
-| 9 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 10 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 11 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 12 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
-| 13 | [Yaparsa Reis](http://twitter.com/search?q=Yaparsa+Reis) | N/A |
-| 14 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 15 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
-| 16 | [Piston](http://twitter.com/search?q=Piston) | N/A |
-| 17 | [Dağılın](http://twitter.com/search?q=Da%c4%9f%c4%b1l%c4%b1n) | N/A |
-| 18 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
-| 19 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
-| 20 | [Yüksek](http://twitter.com/search?q=Y%c3%bcksek) | N/A |
-| 21 | [Rabbimize](http://twitter.com/search?q=Rabbimize) | N/A |
-| 22 | [Çorba](http://twitter.com/search?q=%c3%87orba) | N/A |
-| 23 | [Adaleti MumlaArıyoruz](http://twitter.com/search?q=Adaleti+MumlaAr%c4%b1yoruz) | N/A |
-| 24 | [Oyumuza SAHİPÇIKALIM](http://twitter.com/search?q=Oyumuza+SAH%c4%b0P%c3%87IKALIM) | N/A |
-| 25 | [Dursun Çiçek](http://twitter.com/search?q=Dursun+%c3%87i%c3%a7ek) | N/A |
-| 26 | [Ha CHP Ha HDP](http://twitter.com/search?q=Ha+CHP+Ha+HDP) | N/A |
-| 27 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 28 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
-| 29 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 30 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 6 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
+| 7 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 8 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 9 | [Özel Yayın](http://twitter.com/search?q=%c3%96zel+Yay%c4%b1n) | N/A |
+| 10 | [Hdp Eşittir Pkk](http://twitter.com/search?q=Hdp+E%c5%9fittir+Pkk) | N/A |
+| 11 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 12 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 13 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
+| 14 | [Yaparsa Reis](http://twitter.com/search?q=Yaparsa+Reis) | N/A |
+| 15 | [Tüm İslam](http://twitter.com/search?q=T%c3%bcm+%c4%b0slam) | Tüm İslam is a Turkish phrase that translates to "all of Islam" or "the entire Islamic world." It is often used to refer to the collective Muslim community, or Ummah. |
+| 16 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
+| 17 | [Piston](http://twitter.com/search?q=Piston) | N/A |
+| 18 | [Dağılın](http://twitter.com/search?q=Da%c4%9f%c4%b1l%c4%b1n) | N/A |
+| 19 | [Çorba](http://twitter.com/search?q=%c3%87orba) | N/A |
+| 20 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 21 | [Yüksek](http://twitter.com/search?q=Y%c3%bcksek) | N/A |
+| 22 | [Rabbime](http://twitter.com/search?q=Rabbime) | N/A |
+| 23 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
+| 24 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
+| 25 | [Adaleti MumlaArıyoruz](http://twitter.com/search?q=Adaleti+MumlaAr%c4%b1yoruz) | N/A |
+| 26 | [Rabbimize](http://twitter.com/search?q=Rabbimize) | N/A |
+| 27 | [Ha CHP Ha HDP](http://twitter.com/search?q=Ha+CHP+Ha+HDP) | N/A |
+| 28 | [Dursun Çiçek](http://twitter.com/search?q=Dursun+%c3%87i%c3%a7ek) | N/A |
+| 29 | [Oyumuza SAHİPÇIKALIM](http://twitter.com/search?q=Oyumuza+SAH%c4%b0P%c3%87IKALIM) | N/A |
+| 30 | [PKK'dır](http://twitter.com/search?q=PKK%27d%c4%b1r) | N/A |
 | 31 | [Yaparsa Erdoğan](http://twitter.com/search?q=Yaparsa+Erdo%c4%9fan) | N/A |
-| 32 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
-| 33 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
-| 34 | [ŞartYok TayinVar](http://twitter.com/search?q=%c5%9eartYok+TayinVar) | N/A |
-| 35 | [Yurtlar](http://twitter.com/search?q=Yurtlar) | N/A |
-| 36 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 37 | [Zibidi](http://twitter.com/search?q=Zibidi) | N/A |
-| 38 | [ABD Merkez Bankası](http://twitter.com/search?q=ABD+Merkez+Bankas%c4%b1) | N/A |
-| 39 | [#oruc](http://twitter.com/search?q=%23oruc) | N/A |
-| 40 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
-| 41 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 42 | [#RecepTayyipErdoğan](http://twitter.com/search?q=%23RecepTayyipErdo%c4%9fan) | N/A |
-| 43 | [#GönülDağı](http://twitter.com/search?q=%23G%c3%b6n%c3%bclDa%c4%9f%c4%b1) | N/A |
-| 44 | [#OnBirAyınSultanı](http://twitter.com/search?q=%23OnBirAy%c4%b1nSultan%c4%b1) | N/A |
-| 45 | [#HabertürkGündem](http://twitter.com/search?q=%23Habert%c3%bcrkG%c3%bcndem) | N/A |
-| 46 | [#ABOveMaaşZammıHakkımız](http://twitter.com/search?q=%23ABOveMaa%c5%9fZamm%c4%b1Hakk%c4%b1m%c4%b1z) | N/A |
-| 47 | [#cerkezkoey](http://twitter.com/search?q=%23cerkezkoey) | N/A |
-| 48 | [#Powell](http://twitter.com/search?q=%23Powell) | N/A |
-| 49 | [#infazkorumaerdoğanıbekliyor](http://twitter.com/search?q=%23infazkorumaerdo%c4%9fan%c4%b1bekliyor) | N/A |
-| 50 | [#kralice](http://twitter.com/search?q=%23kralice) | N/A |
+| 32 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 33 | [Mete Yarar](http://twitter.com/search?q=Mete+Yarar) | N/A |
+| 34 | [Yüce Allah'tan](http://twitter.com/search?q=Y%c3%bcce+Allah%27tan) | N/A |
+| 35 | [Erzurum](http://twitter.com/search?q=Erzurum) | N/A |
+| 36 | [Sayın Cumhurbaşkanım](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 37 | [Sezai Karakoç](http://twitter.com/search?q=Sezai+Karako%c3%a7) | N/A |
+| 38 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 39 | [Zibidi](http://twitter.com/search?q=Zibidi) | N/A |
+| 40 | [#3nisandayuzyuze](http://twitter.com/search?q=%233nisandayuzyuze) | N/A |
+| 41 | [#oruc](http://twitter.com/search?q=%23oruc) | N/A |
+| 42 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 43 | [#RecepTayyipErdoğan](http://twitter.com/search?q=%23RecepTayyipErdo%c4%9fan) | N/A |
+| 44 | [#GönülDağı](http://twitter.com/search?q=%23G%c3%b6n%c3%bclDa%c4%9f%c4%b1) | N/A |
+| 45 | [#ABOveMaaşZammıHakkımız](http://twitter.com/search?q=%23ABOveMaa%c5%9fZamm%c4%b1Hakk%c4%b1m%c4%b1z) | N/A |
+| 46 | [#HabertürkGündem](http://twitter.com/search?q=%23Habert%c3%bcrkG%c3%bcndem) | N/A |
+| 47 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
+| 48 | [#sonsayfa](http://twitter.com/search?q=%23sonsayfa) | N/A |
+| 49 | [#TastamamÇözümeOylar](http://twitter.com/search?q=%23Tastamam%c3%87%c3%b6z%c3%bcmeOylar) | N/A |
+| 50 | [#infazkorumaerdoğanıbekliyor](http://twitter.com/search?q=%23infazkorumaerdo%c4%9fan%c4%b1bekliyor) | N/A |
 
 
 

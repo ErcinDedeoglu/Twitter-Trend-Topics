@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-22 22:17:11 UTC`
+📆 Last Updated: `2023-03-22 23:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 2 | [#AntX](http://twitter.com/search?q=%23AntX) | N/A |
-| 3 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 4 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 5 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 6 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 8 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 9 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 1 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
+| 2 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 4 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 5 | [#AntX](http://twitter.com/search?q=%23AntX) | N/A |
+| 6 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 8 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 9 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
 | 10 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 11 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 12 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 13 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 14 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 15 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
-| 16 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
-| 17 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 18 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
-| 19 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
-| 20 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 21 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 22 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 23 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
-| 24 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 25 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 26 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 27 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 28 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 29 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 30 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 12 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 13 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 14 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 15 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 16 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 17 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
+| 18 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
+| 19 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
+| 20 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
+| 21 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 22 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 23 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 24 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 25 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 26 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 27 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
+| 28 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 29 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 30 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 31 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 32 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 33 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 34 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 35 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
-| 36 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
-| 37 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 38 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 39 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 40 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 41 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
-| 42 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 43 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 44 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 45 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 46 | [Tony Toni](http://twitter.com/search?q=Tony+Toni) | N/A |
-| 47 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 48 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 49 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 32 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 33 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 34 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 35 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
+| 36 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
+| 37 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 38 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 39 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
+| 40 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 41 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 42 | [Tony Toni](http://twitter.com/search?q=Tony+Toni) | N/A |
+| 43 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 44 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 45 | [Tonnye](http://twitter.com/search?q=Tonnye) | N/A |
+| 46 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 47 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 48 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 49 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
 
 
 

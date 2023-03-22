@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-03-22 22:16:46 UTC`
+📆 Last Updated: `2023-03-22 23:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#melbourneweather](http://twitter.com/search?q=%23melbourneweather) | N/A |
 | 2 | [#bcm325](http://twitter.com/search?q=%23bcm325) | N/A |
-| 3 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
-| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 5 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 8 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 9 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 10 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 11 | [Jervis Bay](http://twitter.com/search?q=Jervis+Bay) | N/A |
+| 3 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 4 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 5 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
+| 6 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 7 | [#ISHCA23](http://twitter.com/search?q=%23ISHCA23) | N/A |
+| 8 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 9 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 11 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
 | 12 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 14 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 15 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 16 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 17 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 18 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 13 | [Jervis Bay](http://twitter.com/search?q=Jervis+Bay) | N/A |
+| 14 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 15 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 18 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 19 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 20 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 21 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 23 | [SUVs](http://twitter.com/search?q=SUVs) | N/A |
+| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 22 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 23 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
 | 24 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Bob Brown](http://twitter.com/search?q=Bob+Brown) | N/A |
-| 27 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 28 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 25 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 26 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 27 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 28 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
 | 29 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 30 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 31 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
-| 32 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 33 | [Brad Hazzard](http://twitter.com/search?q=Brad+Hazzard) | N/A |
-| 34 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
-| 35 | [Ken Henry](http://twitter.com/search?q=Ken+Henry) | N/A |
-| 36 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 37 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 38 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 39 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 40 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 41 | [Belfield](http://twitter.com/search?q=Belfield) | N/A |
-| 42 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
-| 43 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 44 | [the afl](http://twitter.com/search?q=the+afl) | N/A |
-| 45 | [Ron Joseph](http://twitter.com/search?q=Ron+Joseph) | N/A |
-| 46 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 47 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 48 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 49 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 30 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 31 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 32 | [Brad Hazzard](http://twitter.com/search?q=Brad+Hazzard) | N/A |
+| 33 | [Ken Henry](http://twitter.com/search?q=Ken+Henry) | N/A |
+| 34 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 35 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 36 | [SUVs](http://twitter.com/search?q=SUVs) | N/A |
+| 37 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 38 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
+| 39 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 40 | [the afl](http://twitter.com/search?q=the+afl) | N/A |
+| 41 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 42 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 43 | [Ron Joseph](http://twitter.com/search?q=Ron+Joseph) | N/A |
+| 44 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
+| 45 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 46 | [TERDS](http://twitter.com/search?q=TERDS) | N/A |
+| 47 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 48 | [Bob Brown](http://twitter.com/search?q=Bob+Brown) | N/A |
+| 49 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
 
 
 
