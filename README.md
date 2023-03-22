@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-22 05:16:59 UTC`
+📆 Last Updated: `2023-03-22 06:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [日本優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%84%aa%e5%8b%9d) | N/A |
-| 2 | [日本優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%84%aa%e5%8b%9d) | N/A |
-| 3 | [トラウト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
-| 4 | [シャンパンファイト](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%91%e3%83%b3%e3%83%95%e3%82%a1%e3%82%a4%e3%83%88) | N/A |
-| 5 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 2 | [トラウト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a6%e3%83%88) | N/A |
+| 3 | [シャンパンファイト](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%91%e3%83%b3%e3%83%95%e3%82%a1%e3%82%a4%e3%83%88) | N/A |
+| 4 | [ダルビッシュ](http://twitter.com/search?q=%e3%83%80%e3%83%ab%e3%83%93%e3%83%83%e3%82%b7%e3%83%a5) | ダルビッシュ is the surname of Japanese baseball pitcher, Yu Darvish. In English, it is pronounced "Dahr-bish". |
+| 5 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
 | 6 | [侍JAPAN](http://twitter.com/search?q=%e4%be%8dJAPAN) | N/A |
-| 7 | [大谷翔平](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e7%bf%94%e5%b9%b3) | 大谷翔平 is the name of a Japanese professional baseball player. In English, it translates to Shohei Otani. |
-| 8 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
-| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 11 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 7 | [大谷さん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%95%e3%82%93) | 大谷さん (Otani-san) is a Japanese honorific used to refer to someone with the surname Otani. It is roughly equivalent to "Mr. Otani" in English. |
+| 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 9 | [日本代表](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 10 | [優勝の瞬間](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%81%ae%e7%9e%ac%e9%96%93) | N/A |
+| 11 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
 | 12 | [オオタニサン](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%bf%e3%83%8b%e3%82%b5%e3%83%b3) | N/A |
-| 13 | [優勝の瞬間](http://twitter.com/search?q=%e5%84%aa%e5%8b%9d%e3%81%ae%e7%9e%ac%e9%96%93) | N/A |
-| 14 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 15 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
-| 16 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 17 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
-| 18 | [中日ドラゴンズ](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
-| 19 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 13 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 14 | [大谷選手](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e9%81%b8%e6%89%8b) | 大谷選手 is a Japanese phrase meaning "Ohtani Player". It is used to refer to Shohei Ohtani, a professional baseball player for the Los Angeles Angels of Major League Baseball. |
+| 15 | [スポーツ](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
+| 16 | [中日ドラゴンズ](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 17 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 18 | [#Ugadi](http://twitter.com/search?q=%23Ugadi) | N/A |
+| 19 | [アメリカ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab) | N/A |
 | 20 | [ヌートバー](http://twitter.com/search?q=%e3%83%8c%e3%83%bc%e3%83%88%e3%83%90%e3%83%bc) | ヌートバー is a type of Japanese bar that specializes in serving alcoholic beverages such as beer, sake, and shochu. The word "nooto" comes from the Japanese word for "drinking," and "baa" means "bar." In English, it can be translated as "drinking bar." |
-| 21 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 22 | [スポーツ](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
-| 23 | [サマソニ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%bd%e3%83%8b) | サマソニ is short for "Summer Sonic", which is an annual music festival held in Japan. It features a variety of popular Japanese and international artists, and has been held since 2000. |
+| 21 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 22 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
+| 23 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
 | 24 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 25 | [スライダー](http://twitter.com/search?q=%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
-| 26 | [栗山監督](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3) | 栗山監督 is a Japanese term that refers to a director or supervisor. It literally translates to "Chestnut Mountain Director". |
-| 27 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
-| 28 | [日本🇯🇵優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%f0%9f%87%af%f0%9f%87%b5%e5%84%aa%e5%8b%9d) | N/A |
-| 29 | [フルカウント](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88) | N/A |
-| 30 | [最後大谷](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e5%a4%a7%e8%b0%b7) | N/A |
-| 31 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 32 | [ドラマチック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%81%e3%83%83%e3%82%af) | N/A |
-| 33 | [#Ugadi](http://twitter.com/search?q=%23Ugadi) | N/A |
-| 34 | [サッカー](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc) | N/A |
-| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 36 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 37 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
-| 38 | [全勝優勝](http://twitter.com/search?q=%e5%85%a8%e5%8b%9d%e5%84%aa%e5%8b%9d) | N/A |
-| 39 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
-| 40 | [リアルタイム](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
-| 41 | [最高の試合](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e8%a9%a6%e5%90%88) | N/A |
-| 42 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
-| 43 | [空振り三振](http://twitter.com/search?q=%e7%a9%ba%e6%8c%af%e3%82%8a%e4%b8%89%e6%8c%af) | N/A |
-| 44 | [野球優勝](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e5%84%aa%e5%8b%9d) | N/A |
-| 45 | [茂野吾郎](http://twitter.com/search?q=%e8%8c%82%e9%87%8e%e5%90%be%e9%83%8e) | N/A |
-| 46 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 47 | [ダブルプレー](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
-| 48 | [リアタイ](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
-| 49 | [ガミP退任](http://twitter.com/search?q=%e3%82%ac%e3%83%9fP%e9%80%80%e4%bb%bb) | N/A |
-| 50 | [日本の野球](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e9%87%8e%e7%90%83) | N/A |
+| 26 | [日本🇯🇵優勝](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%f0%9f%87%af%f0%9f%87%b5%e5%84%aa%e5%8b%9d) | N/A |
+| 27 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 28 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 29 | [大谷くん](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%81%8f%e3%82%93) | 大谷くん is a nickname for Japanese baseball player Shohei Ohtani. It translates to "Mr. Ohtani" in English. |
+| 30 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 31 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
+| 32 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 34 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 35 | [サッカー](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc) | N/A |
+| 36 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
+| 37 | [フルカウント](http://twitter.com/search?q=%e3%83%95%e3%83%ab%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88) | N/A |
+| 38 | [最後大谷](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e5%a4%a7%e8%b0%b7) | N/A |
+| 39 | [ドラマチック](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%83%81%e3%83%83%e3%82%af) | N/A |
+| 40 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 41 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
+| 42 | [野球優勝](http://twitter.com/search?q=%e9%87%8e%e7%90%83%e5%84%aa%e5%8b%9d) | N/A |
+| 43 | [メジャー](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 44 | [リアルタイム](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
+| 45 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
+| 46 | [茂野吾郎](http://twitter.com/search?q=%e8%8c%82%e9%87%8e%e5%90%be%e9%83%8e) | N/A |
+| 47 | [全勝優勝](http://twitter.com/search?q=%e5%85%a8%e5%8b%9d%e5%84%aa%e5%8b%9d) | N/A |
+| 48 | [最高の試合](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e8%a9%a6%e5%90%88) | N/A |
+| 49 | [アマプラ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%97%e3%83%a9) | N/A |
+| 50 | [リアタイ](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
 
 
 

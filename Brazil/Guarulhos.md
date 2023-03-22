@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-22 05:17:13 UTC`
+📆 Last Updated: `2023-03-22 06:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frederico](http://twitter.com/search?q=Frederico) | N/A |
-| 2 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 3 | [#TeamFred](http://twitter.com/search?q=%23TeamFred) | #TeamFred is a hashtag used to show support for Fred Rogers, the beloved host of the children's television show Mister Rogers' Neighborhood. It is often used to celebrate his legacy and to share stories of how he has impacted people's lives. |
+| 2 | [#TeamFred](http://twitter.com/search?q=%23TeamFred) | #TeamFred is a hashtag used to show support for Fred Rogers, the beloved host of the children's television show Mister Rogers' Neighborhood. It is often used to celebrate his legacy and to share stories of how he has impacted people's lives. |
+| 3 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
 | 4 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 5 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 6 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
-| 7 | [#VOLTAFOP](http://twitter.com/search?q=%23VOLTAFOP) | N/A |
-| 8 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
-| 9 | [#BeisebolNoBS](http://twitter.com/search?q=%23BeisebolNoBS) | N/A |
-| 10 | [Key Alves](http://twitter.com/search?q=Key+Alves) | Key Alves is a Portuguese phrase that translates to “key of life”. It is used to refer to the importance of having a positive attitude and outlook on life. It is often used as a reminder to stay positive and make the most out of every situation. |
-| 11 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 12 | [xiaomi](http://twitter.com/search?q=xiaomi) | N/A |
-| 13 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
-| 14 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 15 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 16 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 17 | [O Boninho](http://twitter.com/search?q=O+Boninho) | N/A |
-| 18 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 19 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 21 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 22 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 24 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 25 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
-| 26 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 27 | [Lari](http://twitter.com/search?q=Lari) | Lari is the official currency of Georgia. It is divided into 100 tetri and is abbreviated as GEL. In English, lari means "money". |
-| 28 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 29 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 30 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
-| 31 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 32 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
-| 33 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
-| 34 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 35 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 36 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 37 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 38 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
-| 39 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 40 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
-| 41 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 42 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
-| 43 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
-| 44 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
-| 45 | [Boa Fred](http://twitter.com/search?q=Boa+Fred) | N/A |
-| 46 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
-| 47 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
-| 48 | [Neneco](http://twitter.com/search?q=Neneco) | N/A |
-| 49 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 50 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 6 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
+| 7 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 8 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 9 | [O Boninho](http://twitter.com/search?q=O+Boninho) | N/A |
+| 10 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 11 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 12 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 13 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 14 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 15 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 16 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 17 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 18 | [#repescagem](http://twitter.com/search?q=%23repescagem) | N/A |
+| 19 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 20 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 21 | [Parabéns Amandinha](http://twitter.com/search?q=Parab%c3%a9ns+Amandinha) | N/A |
+| 22 | [Reencontro](http://twitter.com/search?q=Reencontro) | N/A |
+| 23 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 24 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 25 | [Cabrita](http://twitter.com/search?q=Cabrita) | N/A |
+| 26 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 27 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
+| 28 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 29 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 30 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 31 | [BUD COM OS BILLIERS NO LOLLABR](http://twitter.com/search?q=BUD+COM+OS+BILLIERS+NO+LOLLABR) | N/A |
+| 32 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 33 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 34 | [Carlin](http://twitter.com/search?q=Carlin) | N/A |
+| 35 | [#VoltaKey](http://twitter.com/search?q=%23VoltaKey) | N/A |
+| 36 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 37 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 38 | [BUD COM O NAS NO LOLLABR](http://twitter.com/search?q=BUD+COM+O+NAS+NO+LOLLABR) | N/A |
+| 39 | [Maria Bonita](http://twitter.com/search?q=Maria+Bonita) | "Maria Bonita" is a popular Mexican folk song about a beautiful woman. The literal translation of the phrase "Maria Bonita" is "Beautiful Mary". It is often used as a term of endearment for a beloved woman. |
+| 40 | [Lamarck](http://twitter.com/search?q=Lamarck) | N/A |
+| 41 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 42 | [neneco](http://twitter.com/search?q=neneco) | N/A |
+| 43 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 44 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 45 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 46 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 47 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 48 | [Parabéns Fred](http://twitter.com/search?q=Parab%c3%a9ns+Fred) | N/A |
+| 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 50 | [Vota](http://twitter.com/search?q=Vota) | N/A |
 
 
 

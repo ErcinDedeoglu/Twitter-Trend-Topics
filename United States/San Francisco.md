@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-22 05:17:55 UTC`
+📆 Last Updated: `2023-03-22 06:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 2 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 2 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
 | 3 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 4 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 5 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 6 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
-| 7 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 8 | [Davion](http://twitter.com/search?q=Davion) | N/A |
-| 9 | [Kessler Edwards](http://twitter.com/search?q=Kessler+Edwards) | N/A |
-| 10 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 11 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 12 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 13 | [#BayArea](http://twitter.com/search?q=%23BayArea) | N/A |
-| 14 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 15 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 16 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 19 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 20 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 21 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 22 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
-| 23 | [#SoCal](http://twitter.com/search?q=%23SoCal) | N/A |
-| 24 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 25 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 26 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 28 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 29 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 30 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 31 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 32 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 33 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
-| 34 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 35 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 36 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 37 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
-| 38 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 39 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
-| 40 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 41 | [PG13](http://twitter.com/search?q=PG13) | N/A |
-| 42 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 43 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
-| 44 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 45 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 46 | [Hope PG](http://twitter.com/search?q=Hope+PG) | N/A |
-| 47 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 48 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 49 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 50 | [Prayers for PG](http://twitter.com/search?q=Prayers+for+PG) | N/A |
+| 4 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 5 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
+| 6 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 7 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 8 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 9 | [#BayArea](http://twitter.com/search?q=%23BayArea) | N/A |
+| 10 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 11 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 12 | [Smoltz](http://twitter.com/search?q=Smoltz) | N/A |
+| 13 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 14 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 15 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 16 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 17 | [#AtmosphericRiver](http://twitter.com/search?q=%23AtmosphericRiver) | N/A |
+| 18 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 19 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 20 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 22 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 23 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 25 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 26 | [LA Fitness](http://twitter.com/search?q=LA+Fitness) | N/A |
+| 27 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 28 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 29 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 30 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 31 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 32 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 33 | [PG13](http://twitter.com/search?q=PG13) | N/A |
+| 34 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 35 | [Damn PG](http://twitter.com/search?q=Damn+PG) | N/A |
+| 36 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 37 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 38 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 39 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
+| 40 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
+| 41 | [Prayers for PG](http://twitter.com/search?q=Prayers+for+PG) | N/A |
+| 42 | [Hope PG](http://twitter.com/search?q=Hope+PG) | N/A |
+| 43 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 44 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 45 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 46 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 47 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 48 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 49 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 50 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
 
 
 

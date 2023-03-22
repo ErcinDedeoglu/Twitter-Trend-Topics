@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-22 05:17:24 UTC`
+📆 Last Updated: `2023-03-22 06:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,37 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Selamat Hari Raya Nyepi](http://twitter.com/search?q=Selamat+Hari+Raya+Nyepi) | N/A |
+| 1 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
 | 2 | [#KitaDukungGanjar](http://twitter.com/search?q=%23KitaDukungGanjar) | N/A |
-| 3 | [#DOJAEJUNG](http://twitter.com/search?q=%23DOJAEJUNG) | N/A |
+| 3 | [Selamat Hari Raya Nyepi](http://twitter.com/search?q=Selamat+Hari+Raya+Nyepi) | N/A |
 | 4 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 5 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 6 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 7 | [Tahun Baru Saka 1945](http://twitter.com/search?q=Tahun+Baru+Saka+1945) | N/A |
-| 8 | [Bibble](http://twitter.com/search?q=Bibble) | N/A |
-| 9 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 10 | [Sedekah](http://twitter.com/search?q=Sedekah) | N/A |
-| 11 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 12 | [Umroh](http://twitter.com/search?q=Umroh) | N/A |
-| 13 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
-| 14 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 15 | [Libur](http://twitter.com/search?q=Libur) | N/A |
-| 16 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
-| 17 | [Maksa](http://twitter.com/search?q=Maksa) | N/A |
-| 18 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
-| 19 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 20 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 21 | [Tolak](http://twitter.com/search?q=Tolak) | N/A |
-| 22 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 24 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 25 | [Closingan](http://twitter.com/search?q=Closingan) | N/A |
-| 26 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 27 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 28 | [#Bali](http://twitter.com/search?q=%23Bali) | N/A |
+| 5 | [#DOJAEJUNG](http://twitter.com/search?q=%23DOJAEJUNG) | N/A |
+| 6 | [Barongko](http://twitter.com/search?q=Barongko) | N/A |
+| 7 | [Bibble](http://twitter.com/search?q=Bibble) | N/A |
+| 8 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 9 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 10 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 11 | [Umroh](http://twitter.com/search?q=Umroh) | N/A |
+| 12 | [Tahun Baru Saka 1945](http://twitter.com/search?q=Tahun+Baru+Saka+1945) | N/A |
+| 13 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 14 | [Sedekah](http://twitter.com/search?q=Sedekah) | N/A |
+| 15 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 16 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 17 | [Closingan](http://twitter.com/search?q=Closingan) | N/A |
+| 18 | [HAECHAN FOR ARENA KOREA](http://twitter.com/search?q=HAECHAN+FOR+ARENA+KOREA) | N/A |
+| 19 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 20 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 21 | [Reply 1988](http://twitter.com/search?q=Reply+1988) | N/A |
+| 22 | [Maksa](http://twitter.com/search?q=Maksa) | N/A |
+| 23 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 24 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 27 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 28 | [#LouisVuittonxHAECHAN](http://twitter.com/search?q=%23LouisVuittonxHAECHAN) | N/A |
+| 29 | [#HBD23rdOHMPAWAT](http://twitter.com/search?q=%23HBD23rdOHMPAWAT) | N/A |
+| 30 | [#HAECHANxARENAHOMME](http://twitter.com/search?q=%23HAECHANxARENAHOMME) | N/A |
+| 31 | [#Bali](http://twitter.com/search?q=%23Bali) | N/A |
 
 
 

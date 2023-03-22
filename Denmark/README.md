@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-22 05:17:59 UTC`
+📆 Last Updated: `2023-03-22 06:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [kvist](http://twitter.com/search?q=kvist) | N/A |
-| 2 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
-| 3 | [gorms](http://twitter.com/search?q=gorms) | N/A |
-| 4 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 5 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
-| 6 | [ståle](http://twitter.com/search?q=st%c3%a5le) | N/A |
-| 7 | [#Sldk](http://twitter.com/search?q=%23Sldk) | N/A |
-| 8 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
-| 9 | [#COP28](http://twitter.com/search?q=%23COP28) | N/A |
-| 10 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
-| 11 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
-| 12 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
-| 13 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 2 | [gorms](http://twitter.com/search?q=gorms) | N/A |
+| 3 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
+| 4 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
+| 5 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
+| 6 | [#COP28](http://twitter.com/search?q=%23COP28) | N/A |
+| 7 | [#dkforsk](http://twitter.com/search?q=%23dkforsk) | N/A |
+| 8 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
+| 9 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 10 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 11 | [Ståle](http://twitter.com/search?q=St%c3%a5le) | N/A |
+| 12 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 13 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
 | 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 15 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 16 | [rado](http://twitter.com/search?q=rado) | N/A |
-| 17 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 18 | [rønnow](http://twitter.com/search?q=r%c3%b8nnow) | N/A |
-| 19 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 20 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
-| 21 | [lars friis](http://twitter.com/search?q=lars+friis) | N/A |
-| 22 | [mærsk](http://twitter.com/search?q=m%c3%a6rsk) | N/A |
-| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 24 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 25 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 26 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 27 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 28 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 30 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
-| 31 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
-| 32 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 33 | [Nye Borgerlige](http://twitter.com/search?q=Nye+Borgerlige) | N/A |
-| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 35 | [torben](http://twitter.com/search?q=torben) | N/A |
-| 36 | [første](http://twitter.com/search?q=f%c3%b8rste) | N/A |
-| 37 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 39 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
-| 40 | [jelert](http://twitter.com/search?q=jelert) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Apropos](http://twitter.com/search?q=Apropos) | N/A |
-| 43 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
-| 44 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
-| 45 | [vavro](http://twitter.com/search?q=vavro) | N/A |
-| 46 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 47 | [ankersen](http://twitter.com/search?q=ankersen) | N/A |
-| 48 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
+| 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 18 | [rado](http://twitter.com/search?q=rado) | N/A |
+| 19 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 20 | [mærsk](http://twitter.com/search?q=m%c3%a6rsk) | N/A |
+| 21 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 22 | [rønnow](http://twitter.com/search?q=r%c3%b8nnow) | N/A |
+| 23 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
+| 24 | [lars friis](http://twitter.com/search?q=lars+friis) | N/A |
+| 25 | [Norwegian](http://twitter.com/search?q=Norwegian) | N/A |
+| 26 | [torben](http://twitter.com/search?q=torben) | N/A |
+| 27 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 28 | [England](http://twitter.com/search?q=England) | N/A |
+| 29 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 31 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 32 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 33 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 34 | [Folketinget](http://twitter.com/search?q=Folketinget) | N/A |
+| 35 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
+| 36 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 37 | [ankersen](http://twitter.com/search?q=ankersen) | N/A |
+| 38 | [hermansen](http://twitter.com/search?q=hermansen) | N/A |
+| 39 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 40 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 41 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
+| 42 | [Personally](http://twitter.com/search?q=Personally) | N/A |
+| 43 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 44 | [vavro](http://twitter.com/search?q=vavro) | N/A |
+| 45 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 47 | [konservative](http://twitter.com/search?q=konservative) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [jelert](http://twitter.com/search?q=jelert) | N/A |
+| 50 | [Greve](http://twitter.com/search?q=Greve) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-22 05:18:03 UTC`
+📆 Last Updated: `2023-03-22 06:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Netherlands
 | 2 | [#langlevedeliefde](http://twitter.com/search?q=%23langlevedeliefde) | N/A |
 | 3 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 | 4 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
-| 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 6 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 7 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 8 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 9 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 11 | [heleen](http://twitter.com/search?q=heleen) | N/A |
-| 12 | [Goedemorgen Harald](http://twitter.com/search?q=Goedemorgen+Harald) | N/A |
-| 13 | [Goedemorgen Harald](http://twitter.com/search?q=Goedemorgen+Harald) | N/A |
-| 14 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 15 | [goeree-overflakkee](http://twitter.com/search?q=goeree-overflakkee) | N/A |
-| 16 | [sander schimmelpenninck](http://twitter.com/search?q=sander+schimmelpenninck) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 19 | [discriminatie](http://twitter.com/search?q=discriminatie) | N/A |
-| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 21 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 22 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 23 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
-| 24 | [onbespreekbaar](http://twitter.com/search?q=onbespreekbaar) | N/A |
-| 25 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 26 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 27 | [betrouwbaar](http://twitter.com/search?q=betrouwbaar) | N/A |
-| 28 | [gijp](http://twitter.com/search?q=gijp) | N/A |
-| 29 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 30 | [hamstra](http://twitter.com/search?q=hamstra) | N/A |
-| 31 | [internationale dag](http://twitter.com/search?q=internationale+dag) | N/A |
-| 32 | [seksuele](http://twitter.com/search?q=seksuele) | N/A |
-| 33 | [tonge](http://twitter.com/search?q=tonge) | N/A |
-| 34 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 35 | [overheidsfout](http://twitter.com/search?q=overheidsfout) | N/A |
-| 36 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 37 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 38 | [jack van gelder](http://twitter.com/search?q=jack+van+gelder) | N/A |
-| 39 | [oranjevereniging](http://twitter.com/search?q=oranjevereniging) | N/A |
-| 40 | [bruls](http://twitter.com/search?q=bruls) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [malediven](http://twitter.com/search?q=malediven) | N/A |
-| 43 | [Nowruz](http://twitter.com/search?q=Nowruz) | N/A |
-| 44 | [boxtel](http://twitter.com/search?q=boxtel) | N/A |
-| 45 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
-| 46 | [gefeliciteerd fleur](http://twitter.com/search?q=gefeliciteerd+fleur) | N/A |
-| 47 | [blauw](http://twitter.com/search?q=blauw) | N/A |
-| 48 | [de landbouw](http://twitter.com/search?q=de+landbouw) | N/A |
-| 49 | [dodenherdenking](http://twitter.com/search?q=dodenherdenking) | N/A |
-| 50 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 6 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 7 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 8 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 9 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 10 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
+| 13 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 14 | [goeree-overflakkee](http://twitter.com/search?q=goeree-overflakkee) | N/A |
+| 15 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 16 | [discriminatie](http://twitter.com/search?q=discriminatie) | N/A |
+| 17 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 18 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 19 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
+| 20 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 21 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 22 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
+| 23 | [onbespreekbaar](http://twitter.com/search?q=onbespreekbaar) | N/A |
+| 24 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 25 | [betrouwbaar](http://twitter.com/search?q=betrouwbaar) | N/A |
+| 26 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
+| 27 | [internationale dag](http://twitter.com/search?q=internationale+dag) | N/A |
+| 28 | [tonge](http://twitter.com/search?q=tonge) | N/A |
+| 29 | [hamstra](http://twitter.com/search?q=hamstra) | N/A |
+| 30 | [overheidsfout](http://twitter.com/search?q=overheidsfout) | N/A |
+| 31 | [Sander](http://twitter.com/search?q=Sander) | N/A |
+| 32 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 33 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 34 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 35 | [oranjevereniging](http://twitter.com/search?q=oranjevereniging) | N/A |
+| 36 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
+| 37 | [bruls](http://twitter.com/search?q=bruls) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [malediven](http://twitter.com/search?q=malediven) | N/A |
+| 40 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 41 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
+| 42 | [de landbouw](http://twitter.com/search?q=de+landbouw) | N/A |
+| 43 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 44 | [Nowruz](http://twitter.com/search?q=Nowruz) | N/A |
+| 45 | [boxtel](http://twitter.com/search?q=boxtel) | N/A |
+| 46 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 47 | [dodenherdenking](http://twitter.com/search?q=dodenherdenking) | N/A |
+| 48 | [Getekend](http://twitter.com/search?q=Getekend) | N/A |
+| 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 50 | [cda'er heerma](http://twitter.com/search?q=cda%27er+heerma) | N/A |
 
 
 

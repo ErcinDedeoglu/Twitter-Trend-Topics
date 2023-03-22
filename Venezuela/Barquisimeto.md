@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-22 05:17:13 UTC`
+📆 Last Updated: `2023-03-22 06:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#21Mar](http://twitter.com/search?q=%2321Mar) | N/A |
-| 2 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 3 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 2 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 4 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
 | 5 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
 | 6 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
 | 7 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
 | 8 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
-| 9 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 10 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 11 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 9 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 10 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 11 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
 | 12 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 13 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 13 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
 | 14 | [#JuntosContraLasMafias](http://twitter.com/search?q=%23JuntosContraLasMafias) | N/A |
 | 15 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 16 | [#ClasicoMundial2023](http://twitter.com/search?q=%23ClasicoMundial2023) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 17 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
 | 18 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
 | 19 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 20 | [Día Mundial de la Poesía](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Poes%c3%ada) | N/A |
+| 20 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
 | 21 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
 | 22 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | N/A |
 | 23 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
 | 24 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
 | 25 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 26 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 27 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 28 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
+| 26 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
+| 27 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 28 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
 | 29 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 32 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 33 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 34 | [Boleita Norte](http://twitter.com/search?q=Boleita+Norte) | N/A |
-| 35 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
-| 36 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 30 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 31 | [Boleita Norte](http://twitter.com/search?q=Boleita+Norte) | N/A |
+| 32 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 33 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
+| 34 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 35 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 36 | [Higos](http://twitter.com/search?q=Higos) | N/A |
 | 37 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 38 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 39 | [Higos](http://twitter.com/search?q=Higos) | N/A |
-| 40 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 38 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 39 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
+| 40 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
 | 41 | [Ladrones](http://twitter.com/search?q=Ladrones) | N/A |
-| 42 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
-| 43 | [Asamblea General](http://twitter.com/search?q=Asamblea+General) | N/A |
-| 44 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 45 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
-| 46 | [Alto Comisionado](http://twitter.com/search?q=Alto+Comisionado) | N/A |
-| 47 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
-| 48 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 49 | [Sharon Stone](http://twitter.com/search?q=Sharon+Stone) | Sharon Stone is an American actress, producer, and former fashion model. She is best known for her roles in films such as Basic Instinct, Casino, and Total Recall. The phrase "Sharon Stone" has come to be used as a shorthand for a woman who is strong, confident, and beautiful. |
-| 50 | [Las Tejerías](http://twitter.com/search?q=Las+Tejer%c3%adas) | N/A |
+| 42 | [Edwin Rojas](http://twitter.com/search?q=Edwin+Rojas) | N/A |
+| 43 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 44 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 45 | [Asamblea General](http://twitter.com/search?q=Asamblea+General) | N/A |
+| 46 | [Las Tejerías](http://twitter.com/search?q=Las+Tejer%c3%adas) | N/A |
+| 47 | [La 2](http://twitter.com/search?q=La+2) | N/A |
+| 48 | [Aryenis](http://twitter.com/search?q=Aryenis) | N/A |
+| 49 | [Alto Comisionado](http://twitter.com/search?q=Alto+Comisionado) | N/A |
+| 50 | [Contralor](http://twitter.com/search?q=Contralor) | N/A |
 
 
 
