@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-22 00:26:51 UTC`
+📆 Last Updated: `2023-03-22 01:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,8 +34,8 @@ This is top 50 for Lebanon
 | 17 | [21 اذار 2023](http://twitter.com/search?q=21+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
 | 18 | [مار يوسف](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 19 | [فتح السير](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%8a%d8%b1) | N/A |
-| 20 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
-| 21 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 20 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 21 | [زين العابدين](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
 | 22 | [رييس الوزراء الياباني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
 | 23 | [الحلقه الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
 | 24 | [علي منيف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%86%d9%8a%d9%81) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Lebanon
 | 30 | [وزير الماليه الاسراييلي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
 | 31 | [الرييس الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
 | 32 | [وزير الاشغال العامه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 33 | ["Sayrafa"](http://twitter.com/search?q=%22Sayrafa%22) | N/A |
+| 33 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
 | 34 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 35 | [جدول ثالث](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
 | 36 | [نقيب الصيادله](http://twitter.com/search?q=%d9%86%d9%82%d9%8a%d8%a8+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d9%87) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Lebanon
 | 46 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 47 | [دار الفتوي](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d9%81%d8%aa%d9%88%d9%8a) | N/A |
 | 48 | [علي الارجح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d8%ad) | N/A |
-| 49 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 50 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 49 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 50 | [بعلبك](http://twitter.com/search?q=%d8%a8%d8%b9%d9%84%d8%a8%d9%83) | N/A |
 
 
 

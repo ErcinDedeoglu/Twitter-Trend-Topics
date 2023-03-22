@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-22 00:26:44 UTC`
+📆 Last Updated: `2023-03-22 01:43:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 2 | [Granato](http://twitter.com/search?q=Granato) | N/A |
-| 3 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 5 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 6 | [Knick](http://twitter.com/search?q=Knick) | N/A |
-| 7 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 8 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
-| 9 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
-| 10 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 11 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 12 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 13 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
-| 14 | [#WBC2023](http://twitter.com/search?q=%23WBC2023) | N/A |
-| 15 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
-| 16 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
-| 17 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 18 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 19 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 20 | [1-0 USA](http://twitter.com/search?q=1-0+USA) | N/A |
-| 21 | [$GME](http://twitter.com/search?q=%24GME) | N/A |
-| 22 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 23 | [Goodman](http://twitter.com/search?q=Goodman) | N/A |
-| 24 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
-| 25 | [Father of the Bride](http://twitter.com/search?q=Father+of+the+Bride) | N/A |
-| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 27 | [Ilya Sorokin](http://twitter.com/search?q=Ilya+Sorokin) | N/A |
-| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 29 | [Tyler Motte](http://twitter.com/search?q=Tyler+Motte) | N/A |
-| 30 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
-| 31 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 32 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 33 | [Cam Newton](http://twitter.com/search?q=Cam+Newton) | N/A |
-| 34 | [Thomas Davis](http://twitter.com/search?q=Thomas+Davis) | N/A |
-| 35 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
-| 36 | [Lars Nootbaar](http://twitter.com/search?q=Lars+Nootbaar) | N/A |
-| 37 | [Let's Go USA](http://twitter.com/search?q=Let%27s+Go+USA) | N/A |
-| 38 | [American Hero](http://twitter.com/search?q=American+Hero) | N/A |
-| 39 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 40 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 41 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 42 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
-| 43 | [Matt Duchene](http://twitter.com/search?q=Matt+Duchene) | N/A |
-| 44 | [Paul Mills](http://twitter.com/search?q=Paul+Mills) | N/A |
-| 45 | [Alex Ovechkin](http://twitter.com/search?q=Alex+Ovechkin) | N/A |
-| 46 | [Ari Melber](http://twitter.com/search?q=Ari+Melber) | N/A |
-| 47 | [Portnoy](http://twitter.com/search?q=Portnoy) | N/A |
-| 48 | [Jordan Marshall](http://twitter.com/search?q=Jordan+Marshall) | N/A |
-| 49 | [NL East](http://twitter.com/search?q=NL+East) | NL East is an abbreviation for the National League East Division, which is one of the six divisions in Major League Baseball (MLB). It consists of teams from the eastern United States and Canada. The NL East teams are the Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, and Washington Nationals. |
-| 50 | [Jake DeBrusk](http://twitter.com/search?q=Jake+DeBrusk) | N/A |
+| 1 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 2 | [#Sabres](http://twitter.com/search?q=%23Sabres) | N/A |
+| 3 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 4 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
+| 5 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 6 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 7 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 8 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
+| 9 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 10 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 11 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 12 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 13 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
+| 14 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 15 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 16 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 17 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 18 | [Schwarber](http://twitter.com/search?q=Schwarber) | N/A |
+| 19 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 20 | [Merrill Kelly](http://twitter.com/search?q=Merrill+Kelly) | N/A |
+| 21 | [Kyle Freeland](http://twitter.com/search?q=Kyle+Freeland) | N/A |
+| 22 | [Bradley Beal](http://twitter.com/search?q=Bradley+Beal) | N/A |
+| 23 | [Team USA](http://twitter.com/search?q=Team+USA) | N/A |
+| 24 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 25 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 26 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 27 | [Aaron Loup](http://twitter.com/search?q=Aaron+Loup) | N/A |
+| 28 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 29 | [Takahashi](http://twitter.com/search?q=Takahashi) | N/A |
+| 30 | [John Smoltz](http://twitter.com/search?q=John+Smoltz) | N/A |
+| 31 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 32 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 33 | [Willis Reed](http://twitter.com/search?q=Willis+Reed) | N/A |
+| 34 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 35 | [Dragon Lee](http://twitter.com/search?q=Dragon+Lee) | N/A |
+| 36 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 37 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 38 | [Jason Adam](http://twitter.com/search?q=Jason+Adam) | N/A |
+| 39 | [1-0 USA](http://twitter.com/search?q=1-0+USA) | N/A |
+| 40 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 41 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 42 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
+| 43 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
+| 44 | [Bay Bridge](http://twitter.com/search?q=Bay+Bridge) | N/A |
+| 45 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
+| 46 | [Kasich](http://twitter.com/search?q=Kasich) | N/A |
+| 47 | [Go Mean Green](http://twitter.com/search?q=Go+Mean+Green) | N/A |
+| 48 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 49 | [Evangelista](http://twitter.com/search?q=Evangelista) | N/A |
+| 50 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
 
 
 

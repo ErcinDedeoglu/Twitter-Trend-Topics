@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-22 00:26:48 UTC`
+📆 Last Updated: `2023-03-22 01:43:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,9 +45,9 @@ This is top 50 for Bahrain
 | 28 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
 | 29 | [علي قلب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%84%d8%a8) | N/A |
 | 30 | [وزير العمل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 31 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 32 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 33 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 31 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 33 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 34 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
 | 35 | [الشراكه المجتمعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a%d9%87) | N/A |
 | 36 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Bahrain
 | 44 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
 | 45 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
 | 46 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 47 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
-| 48 | [للهلال](http://twitter.com/search?q=%d9%84%d9%84%d9%87%d9%84%d8%a7%d9%84) | للهلال is an Arabic phrase that translates to "For the National Team". It is often used as a rallying cry for supporters of the Saudi Arabian national football team. |
-| 49 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 50 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 47 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 48 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
+| 49 | [للهلال](http://twitter.com/search?q=%d9%84%d9%84%d9%87%d9%84%d8%a7%d9%84) | للهلال is an Arabic phrase that translates to "For the National Team". It is often used as a rallying cry for supporters of the Saudi Arabian national football team. |
+| 50 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
 
 
 

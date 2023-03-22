@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-22 00:26:49 UTC`
+📆 Last Updated: `2023-03-22 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kvist](http://twitter.com/search?q=Kvist) | N/A |
-| 2 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
-| 3 | [Gorms](http://twitter.com/search?q=Gorms) | N/A |
+| 2 | [gorms](http://twitter.com/search?q=gorms) | N/A |
+| 3 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
 | 4 | [Ståle](http://twitter.com/search?q=St%c3%a5le) | N/A |
 | 5 | [#IPCC](http://twitter.com/search?q=%23IPCC) | N/A |
 | 6 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
@@ -25,9 +25,9 @@ This is top 50 for Denmark
 | 8 | [#dkforsk](http://twitter.com/search?q=%23dkforsk) | N/A |
 | 9 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
 | 10 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 11 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
-| 12 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 13 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 11 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 12 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
+| 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 14 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 | 15 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
 | 16 | [Paris](http://twitter.com/search?q=Paris) | N/A |
@@ -51,8 +51,8 @@ This is top 50 for Denmark
 | 34 | [Bell](http://twitter.com/search?q=Bell) | N/A |
 | 35 | [ankersen](http://twitter.com/search?q=ankersen) | N/A |
 | 36 | [Hermansen](http://twitter.com/search?q=Hermansen) | N/A |
-| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 37 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 39 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 40 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
 | 41 | [Personally](http://twitter.com/search?q=Personally) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Denmark
 | 45 | [Jack](http://twitter.com/search?q=Jack) | N/A |
 | 46 | [Konservative](http://twitter.com/search?q=Konservative) | N/A |
 | 47 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 48 | [Jelert](http://twitter.com/search?q=Jelert) | N/A |
+| 48 | [jelert](http://twitter.com/search?q=jelert) | N/A |
 | 49 | [Greve](http://twitter.com/search?q=Greve) | N/A |
 | 50 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
 

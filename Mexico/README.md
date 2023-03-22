@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-22 00:26:51 UTC`
+📆 Last Updated: `2023-03-22 01:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EncuentroNacionalDeTeatro](http://twitter.com/search?q=%23EncuentroNacionalDeTeatro) | N/A |
-| 2 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 3 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 4 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 5 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
-| 6 | [XXII](http://twitter.com/search?q=XXII) | N/A |
-| 7 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
-| 8 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 9 | [Movimiento Antorchista](http://twitter.com/search?q=Movimiento+Antorchista) | N/A |
-| 10 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
-| 11 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
-| 12 | [#MeAcuerdoDeTiJS](http://twitter.com/search?q=%23MeAcuerdoDeTiJS) | N/A |
-| 13 | [Antorcha](http://twitter.com/search?q=Antorcha) | N/A |
-| 14 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 15 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 16 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 19 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 20 | [Trevi](http://twitter.com/search?q=Trevi) | N/A |
-| 21 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 22 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 23 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 24 | [TRATAR](http://twitter.com/search?q=TRATAR) | N/A |
-| 25 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 26 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 27 | [Tratando](http://twitter.com/search?q=Tratando) | N/A |
-| 28 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
-| 29 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
-| 30 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 31 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
-| 32 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 34 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 35 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 2 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 3 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
+| 4 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 5 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
+| 6 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 7 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 8 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 10 | [XXII](http://twitter.com/search?q=XXII) | N/A |
+| 11 | [#MeAcuerdoDeTiJS](http://twitter.com/search?q=%23MeAcuerdoDeTiJS) | N/A |
+| 12 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 13 | [Himno](http://twitter.com/search?q=Himno) | N/A |
+| 14 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 15 | [Movimiento Antorchista](http://twitter.com/search?q=Movimiento+Antorchista) | N/A |
+| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [Texcoco](http://twitter.com/search?q=Texcoco) | N/A |
+| 18 | [Antorcha](http://twitter.com/search?q=Antorcha) | N/A |
+| 19 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 20 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 21 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 22 | [Ayaka](http://twitter.com/search?q=Ayaka) | Ayaka is a Japanese female given name. It is composed of two kanji characters, 鮎 (aya) meaning "trout" and 香 (ka) meaning "fragrance". In English, it can be translated to mean "fragrant trout". |
+| 23 | [TRATAR](http://twitter.com/search?q=TRATAR) | N/A |
+| 24 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 25 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 26 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 27 | [Aeropuerto](http://twitter.com/search?q=Aeropuerto) | N/A |
+| 28 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 29 | [Trevi](http://twitter.com/search?q=Trevi) | N/A |
+| 30 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
+| 31 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 32 | [Alejandra del Moral](http://twitter.com/search?q=Alejandra+del+Moral) | N/A |
+| 33 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 34 | [Chumel](http://twitter.com/search?q=Chumel) | N/A |
+| 35 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
 | 36 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
-| 37 | [Guelatao](http://twitter.com/search?q=Guelatao) | N/A |
-| 38 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 39 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 40 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 41 | [El Financiero](http://twitter.com/search?q=El+Financiero) | N/A |
-| 42 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 43 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 44 | [Leyes de Reforma](http://twitter.com/search?q=Leyes+de+Reforma) | N/A |
-| 45 | [Este 21](http://twitter.com/search?q=Este+21) | N/A |
-| 46 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 47 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 48 | [#NormaPinaRepresentaALosNARCOS](http://twitter.com/search?q=%23NormaPinaRepresentaALosNARCOS) | N/A |
-| 49 | [#UnidosPorEdoméx](http://twitter.com/search?q=%23UnidosPorEdom%c3%a9x) | N/A |
-| 50 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
+| 37 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 40 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 41 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 42 | [#NormaPinaRepresentaALosNARCOS](http://twitter.com/search?q=%23NormaPinaRepresentaALosNARCOS) | N/A |
+| 43 | [#DiaMundialDelSindromeDeDown](http://twitter.com/search?q=%23DiaMundialDelSindromeDeDown) | N/A |
+| 44 | [#UnidosPorEdoméx](http://twitter.com/search?q=%23UnidosPorEdom%c3%a9x) | N/A |
+| 45 | [#FeriaDePuebla2023](http://twitter.com/search?q=%23FeriaDePuebla2023) | N/A |
+| 46 | [#AleDelMoral](http://twitter.com/search?q=%23AleDelMoral) | N/A |
+| 47 | [#21deMarzo](http://twitter.com/search?q=%2321deMarzo) | N/A |
+| 48 | [#AleNosUne](http://twitter.com/search?q=%23AleNosUne) | N/A |
+| 49 | [#DiadelaPoesia](http://twitter.com/search?q=%23DiadelaPoesia) | N/A |
+| 50 | [#DíaInternacionalDeLosBosques](http://twitter.com/search?q=%23D%c3%adaInternacionalDeLosBosques) | N/A |
 
 
 

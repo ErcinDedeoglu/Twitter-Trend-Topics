@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-22 00:26:02 UTC`
+📆 Last Updated: `2023-03-22 01:42:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
 | 2 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 3 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
-| 4 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [#dnajourney](http://twitter.com/search?q=%23dnajourney) | N/A |
-| 7 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 8 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
-| 9 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 10 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 11 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 12 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
-| 13 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 14 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
-| 15 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 16 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
-| 17 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 4 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 5 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 6 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 7 | [#BARSHW](http://twitter.com/search?q=%23BARSHW) | N/A |
+| 8 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
+| 9 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 10 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 13 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 16 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 17 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
 | 18 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 20 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
-| 21 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 22 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 23 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
-| 24 | [Smallwood](http://twitter.com/search?q=Smallwood) | N/A |
-| 25 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 26 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 27 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 28 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
+| 19 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
+| 20 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 21 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 22 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
+| 23 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 24 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 25 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 26 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
+| 27 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 29 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 30 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 31 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
-| 32 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 33 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 34 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 35 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 36 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 37 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 38 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 39 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 30 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 31 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 32 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 33 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 34 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 35 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 36 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 37 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 38 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 39 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
 | 40 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
-| 41 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 42 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 41 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 42 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
 | 43 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
-| 44 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 45 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 46 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
-| 47 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 48 | [Bradford](http://twitter.com/search?q=Bradford) | N/A |
-| 49 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 44 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 45 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
+| 46 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 47 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
+| 48 | [#dnajourney](http://twitter.com/search?q=%23dnajourney) | N/A |
+| 49 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
 
 
 

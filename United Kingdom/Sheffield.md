@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-22 00:26:04 UTC`
+📆 Last Updated: `2023-03-22 01:42:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 2 | [League One](http://twitter.com/search?q=League+One) | N/A |
+| 2 | [Byers](http://twitter.com/search?q=Byers) | N/A |
 | 3 | [#BorisTheLiar](http://twitter.com/search?q=%23BorisTheLiar) | N/A |
-| 4 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
+| 4 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
 | 5 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 6 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
-| 7 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 9 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
-| 10 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 11 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
-| 12 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 13 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
-| 14 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 16 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
-| 17 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
-| 18 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 19 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 20 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 21 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
-| 22 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 23 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 24 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
-| 25 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 26 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
-| 29 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 30 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 31 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
-| 32 | [Smallwood](http://twitter.com/search?q=Smallwood) | N/A |
-| 33 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
-| 34 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 35 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 36 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
-| 37 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 38 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 39 | [The Office](http://twitter.com/search?q=The+Office) | N/A |
+| 6 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 7 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 8 | [Ignorance](http://twitter.com/search?q=Ignorance) | N/A |
+| 9 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
+| 10 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 11 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 13 | [Phoenix Nights](http://twitter.com/search?q=Phoenix+Nights) | N/A |
+| 14 | [Father Ted](http://twitter.com/search?q=Father+Ted) | N/A |
+| 15 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 16 | [Oakwell](http://twitter.com/search?q=Oakwell) | N/A |
+| 17 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 18 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 19 | [Only Fools and Horses](http://twitter.com/search?q=Only+Fools+and+Horses) | N/A |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 22 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 23 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 24 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
+| 25 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 26 | [Fawlty Towers](http://twitter.com/search?q=Fawlty+Towers) | N/A |
+| 27 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
+| 28 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 29 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 30 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 31 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
+| 32 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 33 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 34 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 35 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 36 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 37 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 38 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 39 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
 | 40 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 41 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 42 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 43 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 44 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 45 | [England C](http://twitter.com/search?q=England+C) | N/A |
-| 46 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 47 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 48 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 49 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
-| 50 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 41 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 42 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 43 | [Mirror's Edge](http://twitter.com/search?q=Mirror%27s+Edge) | N/A |
+| 44 | [Accrington](http://twitter.com/search?q=Accrington) | N/A |
+| 45 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 46 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
+| 47 | [Whitney](http://twitter.com/search?q=Whitney) | N/A |
+| 48 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 49 | [#24hoursinpolicecustody](http://twitter.com/search?q=%2324hoursinpolicecustody) | N/A |
+| 50 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
 
 
 

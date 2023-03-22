@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-22 00:26:51 UTC`
+📆 Last Updated: `2023-03-22 01:43:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,24 +16,24 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#cashgrab](http://twitter.com/search?q=%23cashgrab) | N/A |
-| 2 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 3 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 4 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
-| 5 | [Jelgavā](http://twitter.com/search?q=Jelgav%c4%81) | N/A |
+| 2 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 3 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
+| 4 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 5 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
 | 6 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
-| 7 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
+| 7 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 8 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 9 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
 | 10 | [Ķīna](http://twitter.com/search?q=%c4%b6%c4%abna) | N/A |
 | 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [knab](http://twitter.com/search?q=knab) | N/A |
+| 13 | [Knab](http://twitter.com/search?q=Knab) | N/A |
 | 14 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
-| 15 | [Tavs](http://twitter.com/search?q=Tavs) | N/A |
+| 15 | [tavs](http://twitter.com/search?q=tavs) | N/A |
 | 16 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 17 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 18 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 19 | [Nevajag](http://twitter.com/search?q=Nevajag) | N/A |
+| 19 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
 | 20 | [tavā](http://twitter.com/search?q=tav%c4%81) | N/A |
 | 21 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 22 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
@@ -44,15 +44,15 @@ This is top 50 for Latvia
 | 27 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
 | 28 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
 | 29 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 30 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
+| 30 | [tavu](http://twitter.com/search?q=tavu) | N/A |
 | 31 | [sveiki](http://twitter.com/search?q=sveiki) | N/A |
-| 32 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
+| 32 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
 | 33 | [Latvijai](http://twitter.com/search?q=Latvijai) | N/A |
-| 34 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 35 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 36 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 34 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 35 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 36 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
 | 37 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 38 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
+| 38 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 39 | [ušakova](http://twitter.com/search?q=u%c5%a1akova) | N/A |
 | 40 | [tikko](http://twitter.com/search?q=tikko) | N/A |
 | 41 | [nekad](http://twitter.com/search?q=nekad) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Latvia
 | 43 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
 | 44 | [Visu](http://twitter.com/search?q=Visu) | N/A |
 | 45 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 46 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
+| 46 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
 | 47 | [bērnu](http://twitter.com/search?q=b%c4%93rnu) | N/A |
 | 48 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
-| 49 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
-| 50 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 49 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 50 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
 
 
 

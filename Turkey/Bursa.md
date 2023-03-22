@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-22 00:26:38 UTC`
+📆 Last Updated: `2023-03-22 01:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GeliyorumHe](http://twitter.com/search?q=%23GeliyorumHe) | N/A |
-| 2 | [#BenÖyle](http://twitter.com/search?q=%23Ben%c3%96yle) | N/A |
-| 3 | [#SenVarsan](http://twitter.com/search?q=%23SenVarsan) | N/A |
-| 4 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
-| 5 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 6 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 7 | [Vartolu](http://twitter.com/search?q=Vartolu) | N/A |
-| 8 | [HEP BİRLİKTE KURARIZ](http://twitter.com/search?q=HEP+B%c4%b0RL%c4%b0KTE+KURARIZ) | N/A |
-| 9 | [TOPRAĞIN ALTI SİZİN](http://twitter.com/search?q=TOPRA%c4%9eIN+ALTI+S%c4%b0Z%c4%b0N) | N/A |
-| 10 | [PFDK'ya](http://twitter.com/search?q=PFDK%27ya) | N/A |
-| 11 | [M. İnce](http://twitter.com/search?q=M.+%c4%b0nce) | N/A |
-| 12 | [Ünal](http://twitter.com/search?q=%c3%9cnal) | N/A |
-| 13 | [BİZ HAZIRIZ REİS HAZIR](http://twitter.com/search?q=B%c4%b0Z+HAZIRIZ+RE%c4%b0S+HAZIR) | N/A |
-| 14 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 15 | [GeçiciBitti SıraTaşeronda](http://twitter.com/search?q=Ge%c3%a7iciBitti+S%c4%b1raTa%c5%9feronda) | N/A |
-| 16 | [Kaset](http://twitter.com/search?q=Kaset) | N/A |
-| 17 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
-| 18 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 19 | [Nevzat](http://twitter.com/search?q=Nevzat) | N/A |
-| 20 | [İPSİZLER SESSİZ](http://twitter.com/search?q=%c4%b0PS%c4%b0ZLER+SESS%c4%b0Z) | N/A |
-| 21 | [Jahrein](http://twitter.com/search?q=Jahrein) | N/A |
-| 22 | [Oktrol](http://twitter.com/search?q=Oktrol) | N/A |
-| 23 | [Programı](http://twitter.com/search?q=Program%c4%b1) | N/A |
-| 24 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
-| 25 | [Nankör](http://twitter.com/search?q=Nank%c3%b6r) | N/A |
+| 2 | [#SenVarsan](http://twitter.com/search?q=%23SenVarsan) | N/A |
+| 3 | [#TEKETEK](http://twitter.com/search?q=%23TEKETEK) | N/A |
+| 4 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
+| 5 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 6 | [Ayasofya](http://twitter.com/search?q=Ayasofya) | N/A |
+| 7 | [gsbtayiniolumluaçıklayın](http://twitter.com/search?q=gsbtayiniolumlua%c3%a7%c4%b1klay%c4%b1n) | N/A |
+| 8 | [piktesinkadrosu nerede](http://twitter.com/search?q=piktesinkadrosu+nerede) | N/A |
+| 9 | [dibyedekleremüjde](http://twitter.com/search?q=dibyedeklerem%c3%bcjde) | N/A |
+| 10 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 11 | [Denkliği ErdoğanÇözer](http://twitter.com/search?q=Denkli%c4%9fi+Erdo%c4%9fan%c3%87%c3%b6zer) | N/A |
+| 12 | [asrın dayanışması](http://twitter.com/search?q=asr%c4%b1n+dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 13 | [Hilmi](http://twitter.com/search?q=Hilmi) | N/A |
+| 14 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 15 | [özelsektr öğrtmnkadro](http://twitter.com/search?q=%c3%b6zelsektr+%c3%b6%c4%9frtmnkadro) | N/A |
+| 16 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 17 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 18 | [30 bin emanet üye](http://twitter.com/search?q=30+bin+emanet+%c3%bcye) | N/A |
+| 19 | [sesinizi duyuyoruz](http://twitter.com/search?q=sesinizi+duyuyoruz) | N/A |
+| 20 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
+| 21 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 22 | [bitnorm kadroistiyor](http://twitter.com/search?q=bitnorm+kadroistiyor) | N/A |
+| 23 | [kıyamet geliyor](http://twitter.com/search?q=k%c4%b1yamet+geliyor) | N/A |
+| 24 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 25 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
 | 26 | [Ahmet Türk](http://twitter.com/search?q=Ahmet+T%c3%bcrk) | N/A |
-| 27 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
-| 28 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
-| 29 | [Cumhurbaşkanımız](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 30 | [Fatih Bey](http://twitter.com/search?q=Fatih+Bey) | N/A |
-| 31 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 32 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 33 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
-| 34 | [Haydi Bismillah](http://twitter.com/search?q=Haydi+Bismillah) | N/A |
-| 35 | [Namus](http://twitter.com/search?q=Namus) | N/A |
-| 36 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 37 | [Anayasayı](http://twitter.com/search?q=Anayasay%c4%b1) | N/A |
-| 38 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
-| 39 | [#SahipsizMalatya](http://twitter.com/search?q=%23SahipsizMalatya) | N/A |
-| 40 | [#vekilince](http://twitter.com/search?q=%23vekilince) | N/A |
-| 41 | [#Afganistan](http://twitter.com/search?q=%23Afganistan) | N/A |
-| 42 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 43 | [#StajyerSözünüTutar](http://twitter.com/search?q=%23StajyerS%c3%b6z%c3%bcn%c3%bcTutar) | N/A |
-| 44 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 45 | [#TürkiyedePolisOlmak](http://twitter.com/search?q=%23T%c3%bcrkiyedePolisOlmak) | N/A |
-| 46 | [#sonsayfa](http://twitter.com/search?q=%23sonsayfa) | N/A |
-| 47 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 48 | [#zorundamıyım](http://twitter.com/search?q=%23zorundam%c4%b1y%c4%b1m) | N/A |
-| 49 | [#MalatyaYalnızKaldı](http://twitter.com/search?q=%23MalatyaYaln%c4%b1zKald%c4%b1) | N/A |
+| 27 | [Kübra Par](http://twitter.com/search?q=K%c3%bcbra+Par) | N/A |
+| 28 | [Cumhurbaşkanı Adayı](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Aday%c4%b1) | N/A |
+| 29 | [Türker Ertürk](http://twitter.com/search?q=T%c3%bcrker+Ert%c3%bcrk) | N/A |
+| 30 | [Vartolu](http://twitter.com/search?q=Vartolu) | N/A |
+| 31 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 32 | [Carl Sagan](http://twitter.com/search?q=Carl+Sagan) | N/A |
+| 33 | [TOPRAĞIN ALTI SİZİN](http://twitter.com/search?q=TOPRA%c4%9eIN+ALTI+S%c4%b0Z%c4%b0N) | N/A |
+| 34 | [Ünal Karaman](http://twitter.com/search?q=%c3%9cnal+Karaman) | N/A |
+| 35 | [orman haftası](http://twitter.com/search?q=orman+haftas%c4%b1) | N/A |
+| 36 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
+| 37 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 38 | [GeçiciBitti SıraTaşeronda](http://twitter.com/search?q=Ge%c3%a7iciBitti+S%c4%b1raTa%c5%9feronda) | N/A |
+| 39 | [montajcı kemal](http://twitter.com/search?q=montajc%c4%b1+kemal) | N/A |
+| 40 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 41 | [Beypazarı](http://twitter.com/search?q=Beypazar%c4%b1) | N/A |
+| 42 | [Kilise](http://twitter.com/search?q=Kilise) | N/A |
+| 43 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 44 | [Muhabir](http://twitter.com/search?q=Muhabir) | N/A |
+| 45 | [Alavara](http://twitter.com/search?q=Alavara) | N/A |
+| 46 | [HEP BİRLİKTE KURARIZ](http://twitter.com/search?q=HEP+B%c4%b0RL%c4%b0KTE+KURARIZ) | N/A |
+| 47 | [Yeni Yüzyılda Güçlü Devleti](http://twitter.com/search?q=Yeni+Y%c3%bczy%c4%b1lda+G%c3%bc%c3%a7l%c3%bc+Devleti) | N/A |
+| 48 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 49 | [Jahrein](http://twitter.com/search?q=Jahrein) | N/A |
 
 
 
