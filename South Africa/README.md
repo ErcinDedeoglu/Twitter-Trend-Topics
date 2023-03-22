@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-22 21:17:34 UTC`
+📆 Last Updated: `2023-03-22 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for South Africa
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 2 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
-| 3 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 2 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 3 | [#YouBelong](http://twitter.com/search?q=%23YouBelong) | N/A |
 | 4 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
 | 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 7 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
+| 7 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 8 | [#TheWorldsNumberOneCider](http://twitter.com/search?q=%23TheWorldsNumberOneCider) | N/A |
-| 9 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 9 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
 | 10 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 11 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for South Africa
 | 14 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
 | 15 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 16 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
-| 17 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 18 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 17 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 18 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 19 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 20 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 21 | [Khosi and Ebubu](http://twitter.com/search?q=Khosi+and+Ebubu) | N/A |
-| 22 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
-| 23 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
-| 24 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 25 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 26 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
-| 27 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
-| 28 | [Team Rema](http://twitter.com/search?q=Team+Rema) | N/A |
-| 29 | [Home-made](http://twitter.com/search?q=Home-made) | N/A |
-| 30 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 31 | [Mrs R](http://twitter.com/search?q=Mrs+R) | N/A |
-| 32 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 20 | [Khosi and Ebubu](http://twitter.com/search?q=Khosi+and+Ebubu) | N/A |
+| 21 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 22 | [klaasen](http://twitter.com/search?q=klaasen) | N/A |
+| 23 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 24 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 25 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 26 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
+| 27 | [Team Rema](http://twitter.com/search?q=Team+Rema) | N/A |
+| 28 | [Home-made](http://twitter.com/search?q=Home-made) | N/A |
+| 29 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 30 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 31 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 32 | [Mrs R](http://twitter.com/search?q=Mrs+R) | N/A |
 | 33 | [Downer](http://twitter.com/search?q=Downer) | N/A |
-| 34 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 35 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 36 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 37 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
-| 38 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
-| 39 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
-| 40 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 41 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
-| 42 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
+| 34 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 35 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
+| 36 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
+| 37 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 38 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
+| 39 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
+| 40 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
+| 41 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
+| 42 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 43 | [National Conference](http://twitter.com/search?q=National+Conference) | N/A |
-| 44 | [Nedbank](http://twitter.com/search?q=Nedbank) | N/A |
-| 45 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
-| 46 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 47 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 48 | [Khobubu](http://twitter.com/search?q=Khobubu) | N/A |
-| 49 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 50 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
+| 44 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 45 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
+| 46 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
+| 47 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 48 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 49 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 50 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-22 21:17:36 UTC`
+📆 Last Updated: `2023-03-22 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Vietnam
 | 4 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
 | 5 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
 | 6 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
-| 7 | [always holding build hand](http://twitter.com/search?q=always+holding+build+hand) | N/A |
-| 8 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 9 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 10 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 11 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 12 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 13 | [West](http://twitter.com/search?q=West) | N/A |
-| 14 | [Happy Pawat](http://twitter.com/search?q=Happy+Pawat) | N/A |
-| 15 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
-| 16 | [nha trang](http://twitter.com/search?q=nha+trang) | N/A |
-| 17 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 18 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 19 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 22 | [hoài n.](http://twitter.com/search?q=ho%c3%a0i+n.) | N/A |
-| 23 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 24 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 25 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 26 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 27 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 28 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 30 | [Hông](http://twitter.com/search?q=H%c3%b4ng) | N/A |
-| 31 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 32 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 33 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
-| 34 | [MEXC](http://twitter.com/search?q=MEXC) | N/A |
-| 35 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 36 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
-| 37 | [SPACE ID Voyage Season 2](http://twitter.com/search?q=SPACE+ID+Voyage+Season+2) | N/A |
-| 38 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
-| 39 | [Trung](http://twitter.com/search?q=Trung) | N/A |
-| 40 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 41 | [Voyage Season 1](http://twitter.com/search?q=Voyage+Season+1) | N/A |
-| 42 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 43 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 44 | [America](http://twitter.com/search?q=America) | N/A |
-| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 8 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 9 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 11 | [West](http://twitter.com/search?q=West) | N/A |
+| 12 | [Happy Pawat](http://twitter.com/search?q=Happy+Pawat) | N/A |
+| 13 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
+| 14 | [Nha Trang](http://twitter.com/search?q=Nha+Trang) | N/A |
+| 15 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 16 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 17 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 18 | [hoài n.](http://twitter.com/search?q=ho%c3%a0i+n.) | N/A |
+| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 20 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 21 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 22 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 25 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 26 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 27 | [Hông](http://twitter.com/search?q=H%c3%b4ng) | N/A |
+| 28 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 29 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 30 | [MEXC](http://twitter.com/search?q=MEXC) | N/A |
+| 31 | [mông](http://twitter.com/search?q=m%c3%b4ng) | N/A |
+| 32 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 34 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 35 | [Voyage Season 1](http://twitter.com/search?q=Voyage+Season+1) | N/A |
+| 36 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 37 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 38 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 39 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
+| 40 | [muốn](http://twitter.com/search?q=mu%e1%bb%91n) | N/A |
+| 41 | [TO THE MOON](http://twitter.com/search?q=TO+THE+MOON) | N/A |
+| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 43 | [America](http://twitter.com/search?q=America) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 46 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 47 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 48 | [người](http://twitter.com/search?q=ng%c6%b0%e1%bb%9di) | N/A |
-| 49 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
-| 50 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
+| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 50 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-22 21:17:14 UTC`
+📆 Last Updated: `2023-03-22 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,20 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 2 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 1 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 2 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 3 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 4 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
-| 5 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 6 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 7 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 4 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 5 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 6 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 7 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 8 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
 | 9 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 10 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 11 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 12 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 13 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 14 | [Taraweeh](http://twitter.com/search?q=Taraweeh) | N/A |
+| 10 | [Pakistan Resolution Day](http://twitter.com/search?q=Pakistan+Resolution+Day) | N/A |
+| 11 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 12 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 13 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 14 | [Chand](http://twitter.com/search?q=Chand) | N/A |
 | 15 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
 | 16 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 17 | [#SupremeCourtOfPakistan](http://twitter.com/search?q=%23SupremeCourtOfPakistan) | N/A |
@@ -36,17 +36,15 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 19 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
 | 20 | [#PakistanDay](http://twitter.com/search?q=%23PakistanDay) | N/A |
 | 21 | [#آئین_ٹوٹ_گیا](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%b9%d9%88%d9%b9_%da%af%db%8c%d8%a7) | N/A |
-| 22 | [#PakistanResolutionDay](http://twitter.com/search?q=%23PakistanResolutionDay) | N/A |
-| 23 | [#کراچی_لہو_لہو](http://twitter.com/search?q=%23%da%a9%d8%b1%d8%a7%da%86%db%8c_%d9%84%db%81%d9%88_%d9%84%db%81%d9%88) | N/A |
+| 22 | [#کراچی_لہو_لہو](http://twitter.com/search?q=%23%da%a9%d8%b1%d8%a7%da%86%db%8c_%d9%84%db%81%d9%88_%d9%84%db%81%d9%88) | N/A |
+| 23 | [#23rdMarch](http://twitter.com/search?q=%2323rdMarch) | N/A |
 | 24 | [#Elections2023](http://twitter.com/search?q=%23Elections2023) | N/A |
 | 25 | [#عبدالخبیر_استعفی_دو](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ae%d8%a8%db%8c%d8%b1_%d8%a7%d8%b3%d8%aa%d8%b9%d9%81%db%8c_%d8%af%d9%88) | N/A |
-| 26 | [#23rdMarch](http://twitter.com/search?q=%2323rdMarch) | N/A |
-| 27 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 28 | [#Blessings](http://twitter.com/search?q=%23Blessings) | N/A |
-| 29 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 26 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
+| 27 | [#Blessings](http://twitter.com/search?q=%23Blessings) | N/A |
+| 28 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 29 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
 | 30 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 31 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 32 | [#خان_بمقابلہ_کرپٹ_نظام](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%86_%d8%a8%d9%85%d9%82%d8%a7%d8%a8%d9%84%db%81_%da%a9%d8%b1%d9%be%d9%b9_%d9%86%d8%b8%d8%a7%d9%85) | N/A |
 
 
 

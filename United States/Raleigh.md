@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-22 21:17:26 UTC`
+📆 Last Updated: `2023-03-22 22:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
-| 2 | [#GivingPack](http://twitter.com/search?q=%23GivingPack) | N/A |
-| 3 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 4 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 2 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 3 | [#GivingPack](http://twitter.com/search?q=%23GivingPack) | N/A |
+| 4 | [Puff](http://twitter.com/search?q=Puff) | N/A |
 | 5 | [#ncga](http://twitter.com/search?q=%23ncga) | N/A |
-| 6 | [Day of Giving](http://twitter.com/search?q=Day+of+Giving) | N/A |
-| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 8 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 9 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 10 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 11 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 6 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 7 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 9 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 10 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 11 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 14 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 15 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 16 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 19 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 20 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 14 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 15 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 16 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 17 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 18 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 19 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
+| 20 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
 | 21 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 22 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 23 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 24 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 25 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 26 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
-| 27 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 28 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 29 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
-| 30 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 31 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 32 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 22 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
+| 23 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 24 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 25 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 26 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 27 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 28 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 29 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 30 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 31 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 32 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
 | 33 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 34 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 35 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 36 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 37 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 38 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 39 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 40 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
-| 41 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 42 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 43 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 44 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 45 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 46 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 47 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 48 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 49 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 50 | [Hooper](http://twitter.com/search?q=Hooper) | N/A |
+| 34 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 35 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 36 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 37 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 38 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 39 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 40 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 41 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
+| 42 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 43 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 44 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 45 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
+| 46 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 47 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 48 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 49 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 50 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
 
 
 

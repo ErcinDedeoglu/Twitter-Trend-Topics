@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-22 21:17:20 UTC`
+📆 Last Updated: `2023-03-22 22:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Puff](http://twitter.com/search?q=Puff) | N/A |
 | 2 | [#GivingPack](http://twitter.com/search?q=%23GivingPack) | N/A |
-| 3 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 4 | [#ncga](http://twitter.com/search?q=%23ncga) | N/A |
-| 5 | [Day of Giving](http://twitter.com/search?q=Day+of+Giving) | N/A |
-| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 7 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 8 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 9 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 10 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 3 | [#ncga](http://twitter.com/search?q=%23ncga) | N/A |
+| 4 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 5 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
+| 6 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 8 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 9 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 10 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 12 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 13 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 13 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
 | 14 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 15 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 16 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
-| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 19 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 20 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 21 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 22 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 23 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 24 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 25 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 26 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
-| 27 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 28 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 29 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
-| 30 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 31 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 32 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 15 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 16 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 17 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 18 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
+| 19 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
+| 20 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 21 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 22 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
+| 23 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 24 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 25 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 26 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 27 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 28 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 29 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 30 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 31 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 32 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
 | 33 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 34 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 35 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 36 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 37 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 38 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 39 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 40 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
-| 41 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 42 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 43 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 44 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 45 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 46 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 47 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 34 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 35 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 36 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 37 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 38 | [Cleveland Jets](http://twitter.com/search?q=Cleveland+Jets) | N/A |
+| 39 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 40 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
+| 41 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 42 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 43 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
+| 44 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 45 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 46 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 47 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 
 
 

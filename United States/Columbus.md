@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-22 21:17:21 UTC`
+📆 Last Updated: `2023-03-22 22:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
-| 2 | [CJ Stroud](http://twitter.com/search?q=CJ+Stroud) | CJ Stroud is the name of an American football quarterback who currently plays for the Ohio State Buckeyes. He is known for his strong arm and accuracy, as well as his leadership skills. The name CJ Stroud is derived from his initials, C.J., and his last name, Stroud. |
-| 3 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 4 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 5 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 6 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 7 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 9 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 10 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 11 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 12 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 13 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
-| 14 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 15 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 16 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 17 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 18 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 19 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 20 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 21 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 22 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 23 | [Mims](http://twitter.com/search?q=Mims) | N/A |
-| 24 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 1 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 2 | [Zach Wilson](http://twitter.com/search?q=Zach+Wilson) | Zach Wilson is a name, typically used as a given name for males. It is of Hebrew origin, and its meaning is "God remembers". |
+| 3 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 4 | [Jaxon Smith](http://twitter.com/search?q=Jaxon+Smith) | N/A |
+| 5 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 6 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 8 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 9 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 10 | [#AntX](http://twitter.com/search?q=%23AntX) | N/A |
+| 11 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 14 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 15 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 16 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 17 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 18 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
+| 19 | [#EasyCarryContest](http://twitter.com/search?q=%23EasyCarryContest) | N/A |
+| 20 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 21 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
+| 22 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
+| 23 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 24 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
 | 25 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
-| 26 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 27 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
-| 28 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 29 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 30 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 31 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 32 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
-| 33 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
-| 34 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
-| 35 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
-| 36 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 37 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
-| 38 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
-| 39 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 40 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 41 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 42 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 43 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 44 | [Jeudy](http://twitter.com/search?q=Jeudy) | N/A |
-| 45 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 47 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 48 | [Hooper](http://twitter.com/search?q=Hooper) | N/A |
-| 49 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 50 | [Family Affair](http://twitter.com/search?q=Family+Affair) | N/A |
+| 26 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 27 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 28 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 29 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 30 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 31 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 32 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 33 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 34 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 35 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
+| 36 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
+| 37 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 38 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 39 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 40 | [Mims](http://twitter.com/search?q=Mims) | N/A |
+| 41 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
+| 42 | [Perry Ellis](http://twitter.com/search?q=Perry+Ellis) | N/A |
+| 43 | [Andrew Berry](http://twitter.com/search?q=Andrew+Berry) | N/A |
+| 44 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 45 | [East High School](http://twitter.com/search?q=East+High+School) | N/A |
+| 46 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
+| 47 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 48 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 49 | [Descendants](http://twitter.com/search?q=Descendants) | N/A |
+| 50 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-22 21:16:51 UTC`
+📆 Last Updated: `2023-03-22 22:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#22Mar](http://twitter.com/search?q=%2322Mar) | N/A |
 | 2 | [#CeroToleranciaALaCorrupción](http://twitter.com/search?q=%23CeroToleranciaALaCorrupci%c3%b3n) | N/A |
 | 3 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 4 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
-| 5 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 4 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 5 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
 | 6 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 8 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
-| 9 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
-| 10 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 11 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 12 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 13 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 14 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 15 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 16 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 8 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 9 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
+| 10 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
+| 11 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 12 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 13 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 14 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 15 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 16 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
 | 17 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 18 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 19 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 20 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 21 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 22 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 23 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
+| 18 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
+| 19 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 20 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 21 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
+| 22 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 24 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 25 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 25 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
 | 26 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
 | 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 28 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
-| 29 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 30 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 31 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 32 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 33 | [Higos](http://twitter.com/search?q=Higos) | N/A |
-| 34 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
-| 35 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 36 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 37 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
-| 38 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 39 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
-| 40 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 28 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
+| 29 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 30 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
+| 31 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 32 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 33 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 34 | [Higos](http://twitter.com/search?q=Higos) | N/A |
+| 35 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
+| 36 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 37 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
+| 38 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 39 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 40 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
 | 41 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
-| 42 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
-| 43 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 44 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
-| 45 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
-| 46 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
-| 47 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 48 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 49 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
+| 42 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 43 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 44 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
+| 45 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 46 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 47 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 48 | [Constructora HP](http://twitter.com/search?q=Constructora+HP) | N/A |
+| 49 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
 
 
 

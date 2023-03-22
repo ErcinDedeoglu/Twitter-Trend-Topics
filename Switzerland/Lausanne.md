@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-22 21:16:59 UTC`
+📆 Last Updated: `2023-03-22 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 2 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 5 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
+| 5 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 6 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 7 | [#DIAEurope2023](http://twitter.com/search?q=%23DIAEurope2023) | N/A |
-| 8 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 9 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 10 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 11 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 12 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 13 | [stiftung](http://twitter.com/search?q=stiftung) | N/A |
-| 14 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 15 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 16 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 7 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
+| 8 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 9 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 10 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 11 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 13 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 14 | [stiftung](http://twitter.com/search?q=stiftung) | N/A |
+| 15 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 16 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
 | 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 18 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 18 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
 | 19 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 20 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 21 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 22 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 24 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
-| 25 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 26 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 27 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
-| 28 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 29 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 30 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
-| 31 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 32 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 21 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 22 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 23 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 24 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 25 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 26 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 27 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 28 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
+| 29 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 30 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 31 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 32 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
 | 33 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
 | 34 | [WWII](http://twitter.com/search?q=WWII) | N/A |
 | 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 36 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 37 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 37 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 38 | [ueli](http://twitter.com/search?q=ueli) | N/A |
-| 39 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
-| 40 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 41 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 42 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 43 | [Gier](http://twitter.com/search?q=Gier) | N/A |
+| 39 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 40 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 41 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 42 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 43 | [Termin](http://twitter.com/search?q=Termin) | N/A |
 | 44 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 45 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 46 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 47 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 48 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 45 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 46 | [Lösung](http://twitter.com/search?q=L%c3%b6sung) | N/A |
+| 47 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 49 | [Gier](http://twitter.com/search?q=Gier) | N/A |
 
 
 

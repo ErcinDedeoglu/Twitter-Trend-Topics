@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-22 21:17:28 UTC`
+📆 Last Updated: `2023-03-22 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WBC優勝おめでとう](http://twitter.com/search?q=%23WBC%e5%84%aa%e5%8b%9d%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86) | N/A |
-| 2 | [ブルアカ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab) | ブルアカ is a type of Japanese sweet potato. It is a variety of purple sweet potato that has a deep purple skin and white flesh. In English, it is sometimes referred to as "purple sweet potato". |
-| 3 | [#おは戦50323mm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650323mm) | N/A |
-| 4 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 5 | [#転天アニメ](http://twitter.com/search?q=%23%e8%bb%a2%e5%a4%a9%e3%82%a2%e3%83%8b%e3%83%a1) | #転天アニメ is a hashtag used on social media to refer to anime series that feature characters who have been reincarnated into a different world. The literal translation of the phrase is "Reincarnation Anime". |
-| 6 | [第426回](http://twitter.com/search?q=%e7%ac%ac426%e5%9b%9e) | N/A |
-| 7 | [#reocz](http://twitter.com/search?q=%23reocz) | N/A |
-| 8 | [ビールのCM](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%81%aeCM) | ビールのCM is short for "ビールのコマーシャルメッセージ" which means "beer commercial message". It refers to a television or radio advertisement for beer. |
-| 9 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 10 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
-| 11 | [千ちゃん](http://twitter.com/search?q=%e5%8d%83%e3%81%a1%e3%82%83%e3%82%93) | 千ちゃん is a nickname for the Japanese singer Chisato Moritaka. It is derived from her given name, Chisato, and the Japanese word for "thousand," which is pronounced "sen." The nickname implies that she is beloved by thousands of fans. |
-| 12 | [パンサラッサ大外](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5%e5%a4%a7%e5%a4%96) | N/A |
-| 13 | [パウエル](http://twitter.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab) | N/A |
-| 14 | [水着スキン](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%82%b9%e3%82%ad%e3%83%b3) | N/A |
-| 15 | [ホームタップ](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%bf%e3%83%83%e3%83%97) | N/A |
-| 16 | [ツキヨミ](http://twitter.com/search?q=%e3%83%84%e3%82%ad%e3%83%a8%e3%83%9f) | N/A |
-| 17 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 1 | [Black Cherry](http://twitter.com/search?q=Black+Cherry) | N/A |
+| 2 | [#おは戦50323mm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650323mm) | N/A |
+| 3 | [ビールのCM](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%81%aeCM) | ビールのCM is short for "ビールのコマーシャルメッセージ" which means "beer commercial message". It refers to a television or radio advertisement for beer. |
+| 4 | [ブルアカ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab) | ブルアカ is a type of Japanese sweet potato. It is a variety of purple sweet potato that has a deep purple skin and white flesh. In English, it is sometimes referred to as "purple sweet potato". |
+| 5 | [第426回](http://twitter.com/search?q=%e7%ac%ac426%e5%9b%9e) | N/A |
+| 6 | [しげちゃん](http://twitter.com/search?q=%e3%81%97%e3%81%92%e3%81%a1%e3%82%83%e3%82%93) | しげちゃん is a nickname for the Japanese comedian Shigeo Nagashima. It is derived from his given name, Shigeo, and the suffix -chan, which is used as an affectionate term for someone close to you. In English, it could be translated as "Shigeo-chan". |
+| 7 | [千ちゃん](http://twitter.com/search?q=%e5%8d%83%e3%81%a1%e3%82%83%e3%82%93) | 千ちゃん is a nickname for the Japanese singer Chisato Moritaka. It is derived from her given name, Chisato, and the Japanese word for "thousand," which is pronounced "sen." The nickname implies that she is beloved by thousands of fans. |
+| 8 | [ホームタップ](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%bf%e3%83%83%e3%83%97) | N/A |
+| 9 | [世界気象デー](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e6%b0%97%e8%b1%a1%e3%83%87%e3%83%bc) | N/A |
+| 10 | [#千賀健永誕生祭](http://twitter.com/search?q=%23%e5%8d%83%e8%b3%80%e5%81%a5%e6%b0%b8%e8%aa%95%e7%94%9f%e7%a5%ad) | N/A |
+| 11 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 12 | [#転天アニメ](http://twitter.com/search?q=%23%e8%bb%a2%e5%a4%a9%e3%82%a2%e3%83%8b%e3%83%a1) | #転天アニメ is a hashtag used on social media to refer to anime series that feature characters who have been reincarnated into a different world. The literal translation of the phrase is "Reincarnation Anime". |
+| 13 | [#朝活書写_1259](http://twitter.com/search?q=%23%e6%9c%9d%e6%b4%bb%e6%9b%b8%e5%86%99_1259) | N/A |
+| 14 | [#Mondo296](http://twitter.com/search?q=%23Mondo296) | N/A |
+| 15 | [げちゃんCM](http://twitter.com/search?q=%e3%81%92%e3%81%a1%e3%82%83%e3%82%93CM) | N/A |
+| 16 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 17 | [パンサラッサ大外](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5%e5%a4%a7%e5%a4%96) | N/A |
 | 18 | [イエレン](http://twitter.com/search?q=%e3%82%a4%e3%82%a8%e3%83%ac%e3%83%b3) | N/A |
-| 19 | [CSGO2](http://twitter.com/search?q=CSGO2) | N/A |
-| 20 | [緊急メンテ](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e3%83%a1%e3%83%b3%e3%83%86) | 緊急メンテ (Kinkyuu Mentei) is a Japanese term that translates to "emergency maintenance." It is used to describe a situation where a system or service needs to be taken offline for urgent repairs or updates. |
-| 21 | [しげちゃん](http://twitter.com/search?q=%e3%81%97%e3%81%92%e3%81%a1%e3%82%83%e3%82%93) | しげちゃん is a nickname for the Japanese comedian Shigeo Nagashima. It is derived from his given name, Shigeo, and the suffix -chan, which is used as an affectionate term for someone close to you. In English, it could be translated as "Shigeo-chan". |
-| 22 | [違法アップロード](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
-| 23 | [AP消費](http://twitter.com/search?q=AP%e6%b6%88%e8%b2%bb) | N/A |
-| 24 | [ロンジュン](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
-| 25 | [こたちゃんお誕生日](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a1%e3%82%83%e3%82%93%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 26 | [ビールサーバー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 27 | [邪竜の章](http://twitter.com/search?q=%e9%82%aa%e7%ab%9c%e3%81%ae%e7%ab%a0) | N/A |
-| 28 | [げちゃんCM](http://twitter.com/search?q=%e3%81%92%e3%81%a1%e3%82%83%e3%82%93CM) | N/A |
-| 29 | [ライザ3](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b63) | N/A |
-| 30 | [サイレントヒル](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%ac%e3%83%b3%e3%83%88%e3%83%92%e3%83%ab) | N/A |
-| 31 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 32 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | ジャンボリミッキー is a type of Japanese snack food made by Lotte. It is a biscuit shaped like Mickey Mouse and filled with a sweet bean paste. In English, it is known as Jumbo Mickey Biscuits. |
-| 33 | [利上げ継続](http://twitter.com/search?q=%e5%88%a9%e4%b8%8a%e3%81%92%e7%b6%99%e7%b6%9a) | N/A |
-| 34 | [空き家税](http://twitter.com/search?q=%e7%a9%ba%e3%81%8d%e5%ae%b6%e7%a8%8e) | N/A |
-| 35 | [優里くん](http://twitter.com/search?q=%e5%84%aa%e9%87%8c%e3%81%8f%e3%82%93) | N/A |
-| 36 | [臨時メンテ](http://twitter.com/search?q=%e8%87%a8%e6%99%82%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 37 | [マスク男子アニメ化](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e7%94%b7%e5%ad%90%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
-| 38 | [百合アニメ](http://twitter.com/search?q=%e7%99%be%e5%90%88%e3%82%a2%e3%83%8b%e3%83%a1) | N/A |
-| 39 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
-| 40 | [アロナァ](http://twitter.com/search?q=%e3%82%a2%e3%83%ad%e3%83%8a%e3%82%a1) | N/A |
-| 41 | [玲於くん](http://twitter.com/search?q=%e7%8e%b2%e6%96%bc%e3%81%8f%e3%82%93) | 玲於くん is a Japanese nickname given to someone who is considered to be cute and innocent. It can be translated to English as "Cute Little Reo". |
-| 42 | [Wordle 642](http://twitter.com/search?q=Wordle+642) | N/A |
-| 43 | [AP消化](http://twitter.com/search?q=AP%e6%b6%88%e5%8c%96) | N/A |
-| 44 | [千賀くん](http://twitter.com/search?q=%e5%8d%83%e8%b3%80%e3%81%8f%e3%82%93) | 千賀くん is a nickname for the Japanese singer, Kaga Kaede. It is derived from his given name, Kaede, and the first character of his family name, Kaga. In English, it can be translated to mean "Kaede of the Kaga family". |
-| 45 | [エジル引退](http://twitter.com/search?q=%e3%82%a8%e3%82%b8%e3%83%ab%e5%bc%95%e9%80%80) | エジル引退 (Ejiru Intai) is a Japanese phrase that translates to "Ejiru Retirement". It refers to the retirement of former Japanese professional baseball player Ejiro Omi, who played for the Yomiuri Giants from 1985 to 2002. |
-| 46 | [重岡くん](http://twitter.com/search?q=%e9%87%8d%e5%b2%a1%e3%81%8f%e3%82%93) | 重岡くん is a nickname given to Japanese professional wrestler, Kazuchika Okada. It is a combination of his given name, Kazuchika, and the Japanese word for "heavy" (重). In English, it can be translated to mean "Heavy Okada". |
-| 47 | [ギヴン続編](http://twitter.com/search?q=%e3%82%ae%e3%83%b4%e3%83%b3%e7%b6%9a%e7%b7%a8) | N/A |
-| 48 | [大雪海のカイナ](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e6%b5%b7%e3%81%ae%e3%82%ab%e3%82%a4%e3%83%8a) | N/A |
-| 49 | [るろうに剣心](http://twitter.com/search?q=%e3%82%8b%e3%82%8d%e3%81%86%e3%81%ab%e5%89%a3%e5%bf%83) | N/A |
+| 19 | [重岡くんCM](http://twitter.com/search?q=%e9%87%8d%e5%b2%a1%e3%81%8f%e3%82%93CM) | N/A |
+| 20 | [yasu](http://twitter.com/search?q=yasu) | Yasu is a Japanese name meaning “peaceful” or “calm.” It can also be used as a nickname for Yasunari, which means “peaceful man.” |
+| 21 | [はあたしゃあこれ](http://twitter.com/search?q=%e3%81%af%e3%81%82%e3%81%9f%e3%81%97%e3%82%83%e3%81%82%e3%81%93%e3%82%8c) | N/A |
+| 22 | [DAIGOさん](http://twitter.com/search?q=DAIGO%e3%81%95%e3%82%93) | N/A |
+| 23 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 24 | [ビールサーバー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 25 | [年内利下げ](http://twitter.com/search?q=%e5%b9%b4%e5%86%85%e5%88%a9%e4%b8%8b%e3%81%92) | N/A |
+| 26 | [水着スキン](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%82%b9%e3%82%ad%e3%83%b3) | N/A |
+| 27 | [インフレ抑制](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e6%8a%91%e5%88%b6) | N/A |
+| 28 | [就労条件](http://twitter.com/search?q=%e5%b0%b1%e5%8a%b4%e6%9d%a1%e4%bb%b6) | N/A |
+| 29 | [タツマキ](http://twitter.com/search?q=%e3%82%bf%e3%83%84%e3%83%9e%e3%82%ad) | タツマキ is a type of Japanese traditional hat. It is a conical hat made of bamboo and straw, and it is worn by farmers and fishermen to protect them from the sun and rain. In English, it is known as a sedge hat. |
+| 30 | [こたちゃんお誕生日](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a1%e3%82%83%e3%82%93%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 31 | [育休給付](http://twitter.com/search?q=%e8%82%b2%e4%bc%91%e7%b5%a6%e4%bb%98) | N/A |
+| 32 | [濃霧注意報](http://twitter.com/search?q=%e6%bf%83%e9%9c%a7%e6%b3%a8%e6%84%8f%e5%a0%b1) | N/A |
+| 33 | [サイレントヒル](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%ac%e3%83%b3%e3%83%88%e3%83%92%e3%83%ab) | N/A |
+| 34 | [パウエル](http://twitter.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab) | N/A |
+| 35 | [空き家税](http://twitter.com/search?q=%e7%a9%ba%e3%81%8d%e5%ae%b6%e7%a8%8e) | N/A |
+| 36 | [保育所利用](http://twitter.com/search?q=%e4%bf%9d%e8%82%b2%e6%89%80%e5%88%a9%e7%94%a8) | N/A |
+| 37 | [CSGO2](http://twitter.com/search?q=CSGO2) | N/A |
+| 38 | [政策金利](http://twitter.com/search?q=%e6%94%bf%e7%ad%96%e9%87%91%e5%88%a9) | N/A |
+| 39 | [緊急メンテ](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e3%83%a1%e3%83%b3%e3%83%86) | 緊急メンテ (Kinkyuu Mentei) is a Japanese term that translates to "emergency maintenance." It is used to describe a situation where a system or service needs to be taken offline for urgent repairs or updates. |
+| 40 | [利上げ継続](http://twitter.com/search?q=%e5%88%a9%e4%b8%8a%e3%81%92%e7%b6%99%e7%b6%9a) | N/A |
+| 41 | [非正規労働者](http://twitter.com/search?q=%e9%9d%9e%e6%ad%a3%e8%a6%8f%e5%8a%b4%e5%83%8d%e8%80%85) | N/A |
+| 42 | [陸八魔アル](http://twitter.com/search?q=%e9%99%b8%e5%85%ab%e9%ad%94%e3%82%a2%e3%83%ab) | N/A |
+| 43 | [ロンジュン](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
+| 44 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
+| 45 | [千賀くん](http://twitter.com/search?q=%e5%8d%83%e8%b3%80%e3%81%8f%e3%82%93) | 千賀くん is a nickname for the Japanese singer, Kaga Kaede. It is derived from his given name, Kaede, and the first character of his family name, Kaga. In English, it can be translated to mean "Kaede of the Kaga family". |
+| 46 | [SSS2開催](http://twitter.com/search?q=SSS2%e9%96%8b%e5%82%ac) | N/A |
+| 47 | [ツキヨミ](http://twitter.com/search?q=%e3%83%84%e3%82%ad%e3%83%a8%e3%83%9f) | N/A |
+| 48 | [ライザ3](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b63) | N/A |
+| 49 | [GitHub Copilot X](http://twitter.com/search?q=GitHub+Copilot+X) | N/A |
 
 
 

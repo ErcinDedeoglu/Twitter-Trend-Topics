@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-22 21:16:56 UTC`
+📆 Last Updated: `2023-03-22 22:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GiornataMondialedellAcqua](http://twitter.com/search?q=%23GiornataMondialedellAcqua) | N/A |
+| 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 3 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 4 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
+| 3 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 5 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
-| 6 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 7 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 8 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 9 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 10 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
-| 11 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 12 | [Pierpaolo Pretelli](http://twitter.com/search?q=Pierpaolo+Pretelli) | N/A |
-| 13 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 14 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 15 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 16 | [Marchisio](http://twitter.com/search?q=Marchisio) | N/A |
-| 17 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 19 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 20 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
-| 21 | [Presidente del Consiglio](http://twitter.com/search?q=Presidente+del+Consiglio) | N/A |
-| 22 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 23 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 24 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
-| 25 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 26 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 27 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 28 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
-| 29 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
-| 30 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 31 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 32 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 33 | [#CinqueMinuti](http://twitter.com/search?q=%23CinqueMinuti) | N/A |
-| 34 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 35 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 36 | [#GiorgiaMeloni](http://twitter.com/search?q=%23GiorgiaMeloni) | N/A |
-| 37 | [#siccità](http://twitter.com/search?q=%23siccit%c3%a0) | N/A |
-| 38 | [#Conte](http://twitter.com/search?q=%23Conte) | N/A |
-| 39 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 40 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
-| 41 | [#uranioimpoverito](http://twitter.com/search?q=%23uranioimpoverito) | N/A |
-| 42 | [#nicotelli](http://twitter.com/search?q=%23nicotelli) | N/A |
-| 43 | [#Santoriello](http://twitter.com/search?q=%23Santoriello) | N/A |
-| 44 | [#ATAC](http://twitter.com/search?q=%23ATAC) | N/A |
+| 6 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 7 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 8 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 9 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 10 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
+| 11 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 12 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 13 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
+| 14 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
+| 15 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 16 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
+| 17 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 18 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 19 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 20 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 21 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 22 | [Domenico](http://twitter.com/search?q=Domenico) | N/A |
+| 23 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 24 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 25 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 26 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
+| 27 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 28 | [Marchisio](http://twitter.com/search?q=Marchisio) | N/A |
+| 29 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 30 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 31 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 32 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
+| 33 | [Presidente del Consiglio](http://twitter.com/search?q=Presidente+del+Consiglio) | N/A |
+| 34 | [Santoriello](http://twitter.com/search?q=Santoriello) | N/A |
+| 35 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 36 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
+| 37 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 38 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
+| 39 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 40 | [#latvdei100euno](http://twitter.com/search?q=%23latvdei100euno) | N/A |
+| 41 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 42 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 43 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 44 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 45 | [#superlega](http://twitter.com/search?q=%23superlega) | N/A |
+| 46 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
+| 47 | [#CinqueMinuti](http://twitter.com/search?q=%23CinqueMinuti) | N/A |
+| 48 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 49 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 50 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
 
 
 

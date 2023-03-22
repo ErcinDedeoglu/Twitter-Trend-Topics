@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-22 21:16:53 UTC`
+📆 Last Updated: `2023-03-22 22:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,49 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 2 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
-| 3 | [#lesfraudestwt](http://twitter.com/search?q=%23lesfraudestwt) | N/A |
-| 4 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [#lesfraudestwt](http://twitter.com/search?q=%23lesfraudestwt) | N/A |
+| 5 | [#PSGWOB](http://twitter.com/search?q=%23PSGWOB) | N/A |
+| 6 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
 | 7 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 8 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 9 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 10 | [Joey Starr](http://twitter.com/search?q=Joey+Starr) | N/A |
-| 11 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 12 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 13 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
-| 14 | [Karmine](http://twitter.com/search?q=Karmine) | N/A |
-| 15 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 16 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 17 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 18 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 19 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 21 | [Brevin](http://twitter.com/search?q=Brevin) | N/A |
-| 22 | [Bigard](http://twitter.com/search?q=Bigard) | N/A |
-| 23 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 8 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 9 | [Valls](http://twitter.com/search?q=Valls) | N/A |
+| 10 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 11 | [Joey Starr](http://twitter.com/search?q=Joey+Starr) | N/A |
+| 12 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
+| 13 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 14 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 15 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 16 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 18 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 19 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 21 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 22 | [Brevin](http://twitter.com/search?q=Brevin) | N/A |
+| 23 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
 | 24 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 25 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 27 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 28 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
-| 29 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 31 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
-| 32 | [Monsieur le Président](http://twitter.com/search?q=Monsieur+le+Pr%c3%a9sident) | N/A |
-| 33 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 34 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
-| 35 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 36 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 37 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
-| 38 | [#greve22mars](http://twitter.com/search?q=%23greve22mars) | N/A |
-| 39 | [#PSGWOB](http://twitter.com/search?q=%23PSGWOB) | N/A |
-| 40 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 41 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 42 | [#DonjonsetDragonsLeFilm](http://twitter.com/search?q=%23DonjonsetDragonsLeFilm) | N/A |
-| 43 | [#OLCHE](http://twitter.com/search?q=%23OLCHE) | N/A |
-| 44 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 45 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 46 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 47 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 48 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 49 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
-| 50 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 25 | [Musulmans](http://twitter.com/search?q=Musulmans) | N/A |
+| 26 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 27 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 28 | [Monsieur le Président](http://twitter.com/search?q=Monsieur+le+Pr%c3%a9sident) | N/A |
+| 29 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 30 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
+| 31 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
+| 32 | [#AntXBabydoge](http://twitter.com/search?q=%23AntXBabydoge) | N/A |
+| 33 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
+| 34 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
+| 35 | [#DonjonsetDragonsLeFilm](http://twitter.com/search?q=%23DonjonsetDragonsLeFilm) | N/A |
+| 36 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 37 | [#greve22mars](http://twitter.com/search?q=%23greve22mars) | N/A |
+| 38 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 39 | [#OLCHE](http://twitter.com/search?q=%23OLCHE) | N/A |
+| 40 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 41 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
+| 42 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 43 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 44 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 45 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
 
 
 
