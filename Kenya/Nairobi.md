@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-22 08:16:59 UTC`
+📆 Last Updated: `2023-03-22 09:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 2 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 3 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
-| 4 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 5 | [#LAPTRUSTatNSE](http://twitter.com/search?q=%23LAPTRUSTatNSE) | N/A |
-| 6 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
-| 7 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 2 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
+| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [#NewsNight](http://twitter.com/search?q=%23NewsNight) | N/A |
+| 5 | [#Maandamano](http://twitter.com/search?q=%23Maandamano) | N/A |
+| 6 | [Raila](http://twitter.com/search?q=Raila) | N/A |
+| 7 | [#LAPTRUSTatNSE](http://twitter.com/search?q=%23LAPTRUSTatNSE) | N/A |
 | 8 | [Safaricom](http://twitter.com/search?q=Safaricom) | N/A |
-| 9 | [#AbidjanGrandArrival](http://twitter.com/search?q=%23AbidjanGrandArrival) | N/A |
-| 10 | [Japap](http://twitter.com/search?q=Japap) | N/A |
-| 11 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 12 | [muhoho kenyatta](http://twitter.com/search?q=muhoho+kenyatta) | N/A |
-| 13 | [The Star](http://twitter.com/search?q=The+Star) | N/A |
+| 9 | [Japap](http://twitter.com/search?q=Japap) | N/A |
+| 10 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
+| 11 | [The Star](http://twitter.com/search?q=The+Star) | N/A |
+| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 13 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
 | 14 | [Radio Africa](http://twitter.com/search?q=Radio+Africa) | N/A |
 | 15 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 16 | [Kg to Ksh](http://twitter.com/search?q=Kg+to+Ksh) | N/A |
-| 17 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
-| 18 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
-| 19 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
-| 20 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 21 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 22 | [NO Handshake](http://twitter.com/search?q=NO+Handshake) | N/A |
-| 23 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
-| 24 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 16 | [Maseno University](http://twitter.com/search?q=Maseno+University) | N/A |
+| 17 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 19 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
+| 20 | [Boycott](http://twitter.com/search?q=Boycott) | N/A |
+| 21 | [UDA MPs](http://twitter.com/search?q=UDA+MPs) | N/A |
+| 22 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
+| 23 | [NO Handshake](http://twitter.com/search?q=NO+Handshake) | N/A |
+| 24 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
 | 25 | [Karigoh](http://twitter.com/search?q=Karigoh) | N/A |
-| 26 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 27 | [UDA MPs](http://twitter.com/search?q=UDA+MPs) | N/A |
-| 28 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 29 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
-| 30 | [Osama](http://twitter.com/search?q=Osama) | N/A |
-| 31 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
-| 32 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 26 | [Every Monday](http://twitter.com/search?q=Every+Monday) | N/A |
+| 27 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 28 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
+| 29 | [Kg to Ksh](http://twitter.com/search?q=Kg+to+Ksh) | N/A |
+| 30 | [Airtel](http://twitter.com/search?q=Airtel) | N/A |
+| 31 | [Adopt](http://twitter.com/search?q=Adopt) | N/A |
+| 32 | [Pilau](http://twitter.com/search?q=Pilau) | N/A |
 | 33 | [Kakamega](http://twitter.com/search?q=Kakamega) | N/A |
-| 34 | [Pilau](http://twitter.com/search?q=Pilau) | N/A |
-| 35 | [otero](http://twitter.com/search?q=otero) | N/A |
-| 36 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 37 | [Adopt](http://twitter.com/search?q=Adopt) | N/A |
+| 34 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
+| 35 | [DJ Evolve](http://twitter.com/search?q=DJ+Evolve) | N/A |
+| 36 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 37 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 38 | [Brookside](http://twitter.com/search?q=Brookside) | N/A |
-| 39 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 40 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
-| 41 | [DJ Evolve](http://twitter.com/search?q=DJ+Evolve) | N/A |
+| 39 | [otero](http://twitter.com/search?q=otero) | N/A |
+| 40 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 41 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
 | 42 | [Rong Rende](http://twitter.com/search?q=Rong+Rende) | N/A |
-| 43 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [tom mboya street](http://twitter.com/search?q=tom+mboya+street) | N/A |
-| 46 | [Unga](http://twitter.com/search?q=Unga) | N/A |
-| 47 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 48 | [chaos fm](http://twitter.com/search?q=chaos+fm) | N/A |
-| 49 | [Lindah](http://twitter.com/search?q=Lindah) | N/A |
-| 50 | [Monday and Friday](http://twitter.com/search?q=Monday+and+Friday) | N/A |
+| 43 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 44 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 45 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 46 | [Lindah](http://twitter.com/search?q=Lindah) | N/A |
+| 47 | [tom mboya street](http://twitter.com/search?q=tom+mboya+street) | N/A |
+| 48 | [Privatisation Bill](http://twitter.com/search?q=Privatisation+Bill) | N/A |
+| 49 | [Kilundeezy](http://twitter.com/search?q=Kilundeezy) | N/A |
+| 50 | [Serena](http://twitter.com/search?q=Serena) | N/A |
 
 
 

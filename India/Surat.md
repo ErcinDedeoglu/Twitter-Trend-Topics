@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-03-22 08:17:06 UTC`
+📆 Last Updated: `2023-03-22 09:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
-| 2 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 3 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
+| 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 2 | [#Navratri](http://twitter.com/search?q=%23Navratri) | N/A |
+| 3 | [#Prebook_realmeC55](http://twitter.com/search?q=%23Prebook_realmeC55) | N/A |
 | 4 | [#ModiHataoDeshBachao](http://twitter.com/search?q=%23ModiHataoDeshBachao) | N/A |
 | 5 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 6 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
-| 7 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 8 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 9 | [Jal Jeevan Conclave](http://twitter.com/search?q=Jal+Jeevan+Conclave) | N/A |
-| 10 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
-| 11 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 12 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 13 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
+| 6 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 7 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
+| 8 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
+| 9 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
+| 10 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 11 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 12 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 13 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
 | 14 | [World Happiness Index](http://twitter.com/search?q=World+Happiness+Index) | N/A |
-| 15 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 16 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 17 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
-| 18 | [WE DEMAND RC15 UPDATE](http://twitter.com/search?q=WE+DEMAND+RC15+UPDATE) | N/A |
-| 19 | [WAKE UP SV CREATIONS](http://twitter.com/search?q=WAKE+UP+SV+CREATIONS) | N/A |
-| 20 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 21 | [Poster](http://twitter.com/search?q=Poster) | N/A |
-| 22 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 23 | [शक्ति स्वरूपा](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%be) | N/A |
-| 24 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
-| 25 | [Iyer](http://twitter.com/search?q=Iyer) | Iyer is a Hindu Brahmin caste from South India. It is derived from the Sanskrit word “Arya”, meaning “noble” or “honorable”. Iyers are traditionally priests and scholars of the Vedas, the ancient Hindu scriptures. |
-| 26 | [#BiharDiwas](http://twitter.com/search?q=%23BiharDiwas) | N/A |
-| 27 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 28 | [#बिहार_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 29 | [#नवरात्रि](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
-| 30 | [#e4MediaClassHasNoClass](http://twitter.com/search?q=%23e4MediaClassHasNoClass) | N/A |
-| 31 | [#newyear](http://twitter.com/search?q=%23newyear) | N/A |
-| 32 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
-| 33 | [#हिन्दू_नूतन_वर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a5%82%e0%a4%a4%e0%a4%a8_%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
-| 34 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
-| 35 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
-| 36 | [#नव_संवतसर_2080](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5_%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%a4%e0%a4%b8%e0%a4%b0_2080) | N/A |
-| 37 | [#jaimatadi](http://twitter.com/search?q=%23jaimatadi) | N/A |
-| 38 | [#ChetiChand](http://twitter.com/search?q=%23ChetiChand) | N/A |
-| 39 | [#ArrestMeToo_stalin](http://twitter.com/search?q=%23ArrestMeToo_stalin) | N/A |
-| 40 | [#WaterIsLife](http://twitter.com/search?q=%23WaterIsLife) | N/A |
-| 41 | [#WaterConservation](http://twitter.com/search?q=%23WaterConservation) | N/A |
-| 42 | [#DelhiBudget2023](http://twitter.com/search?q=%23DelhiBudget2023) | N/A |
-| 43 | [#जय_माता_दी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be_%e0%a4%a6%e0%a5%80) | N/A |
-| 44 | [#Bawaal](http://twitter.com/search?q=%23Bawaal) | N/A |
-| 45 | [#गुड़ी_पड़वा](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%81%e0%a4%a1%e0%a4%bc%e0%a5%80_%e0%a4%aa%e0%a4%a1%e0%a4%bc%e0%a4%b5%e0%a4%be) | N/A |
-| 46 | [#Valimai](http://twitter.com/search?q=%23Valimai) | N/A |
-| 47 | [#durgapuja](http://twitter.com/search?q=%23durgapuja) | N/A |
-| 48 | [#विश्व_जल_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%9c%e0%a4%b2_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 49 | [#BilkisBano](http://twitter.com/search?q=%23BilkisBano) | N/A |
+| 15 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
+| 16 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 17 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
+| 18 | [दिल्ली बचाओ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 19 | [WE DEMAND RC15 UPDATE](http://twitter.com/search?q=WE+DEMAND+RC15+UPDATE) | N/A |
+| 20 | [Jal Jeevan Conclave](http://twitter.com/search?q=Jal+Jeevan+Conclave) | N/A |
+| 21 | [British High](http://twitter.com/search?q=British+High) | N/A |
+| 22 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
+| 23 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 24 | [WAKE UP SV CREATIONS](http://twitter.com/search?q=WAKE+UP+SV+CREATIONS) | N/A |
+| 25 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
+| 26 | [Poster](http://twitter.com/search?q=Poster) | N/A |
+| 27 | [INR 500](http://twitter.com/search?q=INR+500) | N/A |
+| 28 | [Power Blocking SSRCase](http://twitter.com/search?q=Power+Blocking+SSRCase) | N/A |
+| 29 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 30 | [शक्ति स्वरूपा](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%be) | N/A |
+| 31 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 32 | [#GudiPadwa](http://twitter.com/search?q=%23GudiPadwa) | N/A |
+| 33 | [#e4Media_ClassHasNoClass](http://twitter.com/search?q=%23e4Media_ClassHasNoClass) | N/A |
+| 34 | [#BiharDiwas2023](http://twitter.com/search?q=%23BiharDiwas2023) | N/A |
+| 35 | [#बिहार_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 36 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 37 | [#SaveWater](http://twitter.com/search?q=%23SaveWater) | N/A |
+| 38 | [#HinduNewYear](http://twitter.com/search?q=%23HinduNewYear) | N/A |
+| 39 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 40 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
+| 41 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
+| 42 | [#हिंदू_नववर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b5%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
+| 43 | [#नव_संवतसर_2080](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5_%e0%a4%b8%e0%a4%82%e0%a4%b5%e0%a4%a4%e0%a4%b8%e0%a4%b0_2080) | N/A |
+| 44 | [#ArrestMeToo_stalin](http://twitter.com/search?q=%23ArrestMeToo_stalin) | N/A |
+| 45 | [#हिन्दू_नूतन_वर्ष](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a5%82%e0%a4%a4%e0%a4%a8_%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7) | N/A |
+| 46 | [#नवरात्रि](http://twitter.com/search?q=%23%e0%a4%a8%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 47 | [#HinduNavVarsh](http://twitter.com/search?q=%23HinduNavVarsh) | N/A |
+| 48 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
+| 49 | [#ChetiChand](http://twitter.com/search?q=%23ChetiChand) | N/A |
 
 
 

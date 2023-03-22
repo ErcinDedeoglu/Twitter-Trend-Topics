@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-22 08:16:43 UTC`
+📆 Last Updated: `2023-03-22 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [#kohlanta](http://twitter.com/search?q=%23kohlanta) | N/A |
 | 2 | [#greve23mars](http://twitter.com/search?q=%23greve23mars) | N/A |
 | 3 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 4 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 5 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
+| 4 | [#JourneeMondialeDelEau](http://twitter.com/search?q=%23JourneeMondialeDelEau) | N/A |
+| 5 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
 | 6 | [#Manifestations](http://twitter.com/search?q=%23Manifestations) | N/A |
-| 7 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 8 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 9 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 7 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 8 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 9 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
 | 10 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
 | 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 13 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 14 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 12 | [STMG](http://twitter.com/search?q=STMG) | N/A |
+| 13 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 14 | [Tania](http://twitter.com/search?q=Tania) | N/A |
 | 15 | [Olivier Dubois](http://twitter.com/search?q=Olivier+Dubois) | N/A |
 | 16 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
 | 17 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
 | 18 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
-| 19 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 20 | [Niles](http://twitter.com/search?q=Niles) | N/A |
-| 21 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 22 | [9 voix](http://twitter.com/search?q=9+voix) | N/A |
+| 19 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 20 | [Premier Baiser](http://twitter.com/search?q=Premier+Baiser) | N/A |
+| 21 | [9 voix](http://twitter.com/search?q=9+voix) | N/A |
+| 22 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
 | 23 | [Réponse 1](http://twitter.com/search?q=R%c3%a9ponse+1) | N/A |
-| 24 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 25 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 26 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
-| 27 | [MAJOR](http://twitter.com/search?q=MAJOR) | N/A |
-| 28 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 29 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 30 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 31 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
-| 32 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 33 | [Riboku](http://twitter.com/search?q=Riboku) | N/A |
+| 24 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 25 | [A 13h](http://twitter.com/search?q=A+13h) | N/A |
+| 26 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
+| 27 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 28 | [Kanki](http://twitter.com/search?q=Kanki) | N/A |
+| 29 | [Niles](http://twitter.com/search?q=Niles) | N/A |
+| 30 | [MAJOR](http://twitter.com/search?q=MAJOR) | N/A |
+| 31 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 32 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 34 | [Victor Hugo](http://twitter.com/search?q=Victor+Hugo) | N/A |
-| 35 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
-| 36 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 37 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 38 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 39 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 40 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 35 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 36 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
+| 37 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 38 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
+| 39 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
+| 40 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 41 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 42 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
-| 43 | [Marcia Cross](http://twitter.com/search?q=Marcia+Cross) | N/A |
-| 44 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 45 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 46 | [Fos-sur-Mer](http://twitter.com/search?q=Fos-sur-Mer) | N/A |
-| 47 | [Borne](http://twitter.com/search?q=Borne) | N/A |
-| 48 | [Pyrrhus](http://twitter.com/search?q=Pyrrhus) | N/A |
-| 49 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
-| 50 | [Juliette](http://twitter.com/search?q=Juliette) | Juliette is a French female given name, derived from the Latin Julia. It is a diminutive form of Julia, meaning "youthful" or "downy". |
+| 42 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 43 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 44 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 45 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 46 | [Borne](http://twitter.com/search?q=Borne) | N/A |
+| 47 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 48 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
+| 49 | [Kephren](http://twitter.com/search?q=Kephren) | N/A |
+| 50 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
 
 
 

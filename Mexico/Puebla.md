@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-22 08:16:36 UTC`
+📆 Last Updated: `2023-03-22 09:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ESENCIA OUT NOW](http://twitter.com/search?q=ESENCIA+OUT+NOW) | N/A |
-| 2 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 3 | [TU VALOR](http://twitter.com/search?q=TU+VALOR) | N/A |
-| 4 | [#EsShow](http://twitter.com/search?q=%23EsShow) | N/A |
-| 5 | [#ExaBackstageRBD](http://twitter.com/search?q=%23ExaBackstageRBD) | N/A |
-| 6 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 7 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 8 | [#FeriaDePuebla2023](http://twitter.com/search?q=%23FeriaDePuebla2023) | N/A |
-| 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 10 | [#weloveyoutwice](http://twitter.com/search?q=%23weloveyoutwice) | N/A |
-| 11 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 12 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 13 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 14 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 15 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 16 | [Teatro del Pueblo](http://twitter.com/search?q=Teatro+del+Pueblo) | N/A |
-| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 18 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 19 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 20 | [VALDO](http://twitter.com/search?q=VALDO) | N/A |
-| 21 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 22 | [Himno](http://twitter.com/search?q=Himno) | N/A |
-| 23 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 24 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 25 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
-| 26 | [Shenhe](http://twitter.com/search?q=Shenhe) | N/A |
-| 27 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 28 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 29 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
-| 30 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 31 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 32 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 33 | [Juarez](http://twitter.com/search?q=Juarez) | N/A |
-| 34 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 35 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
-| 36 | [#weloveyouchaeyoung](http://twitter.com/search?q=%23weloveyouchaeyoung) | N/A |
-| 37 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 38 | [#3MillonesYuuki](http://twitter.com/search?q=%233MillonesYuuki) | N/A |
-| 39 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 40 | [#DiaMundialDeLaPoesia](http://twitter.com/search?q=%23DiaMundialDeLaPoesia) | N/A |
-| 41 | [#DiadelaPoesia](http://twitter.com/search?q=%23DiadelaPoesia) | N/A |
+| 2 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 3 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 4 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 5 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 6 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 8 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 9 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 10 | [#floresamarillas](http://twitter.com/search?q=%23floresamarillas) | N/A |
+| 11 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [#WorldBaseballClassic](http://twitter.com/search?q=%23WorldBaseballClassic) | N/A |
+| 14 | [#21deMarzo](http://twitter.com/search?q=%2321deMarzo) | N/A |
+| 15 | [#DiaMundialDeLaPoesia](http://twitter.com/search?q=%23DiaMundialDeLaPoesia) | N/A |
+| 16 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 17 | [TU VALOR](http://twitter.com/search?q=TU+VALOR) | N/A |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [sniper reina azul](http://twitter.com/search?q=sniper+reina+azul) | N/A |
+| 20 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
+| 21 | [Robertita](http://twitter.com/search?q=Robertita) | N/A |
+| 22 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 23 | [Leyes de Reforma](http://twitter.com/search?q=Leyes+de+Reforma) | N/A |
+| 24 | [Sasaki](http://twitter.com/search?q=Sasaki) | N/A |
+| 25 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 26 | [San Pablo Guelatao](http://twitter.com/search?q=San+Pablo+Guelatao) | N/A |
+| 27 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 28 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 29 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 30 | [Octavio Ocaña](http://twitter.com/search?q=Octavio+Oca%c3%b1a) | N/A |
+| 31 | [Te Lo Prometo](http://twitter.com/search?q=Te+Lo+Prometo) | N/A |
+| 32 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 33 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 34 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
+| 35 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 36 | [luis urías](http://twitter.com/search?q=luis+ur%c3%adas) | N/A |
+| 37 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 38 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 39 | [Teatro del Pueblo](http://twitter.com/search?q=Teatro+del+Pueblo) | N/A |
+| 40 | [urquidy](http://twitter.com/search?q=urquidy) | N/A |
+| 41 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 42 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 43 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 44 | [Himno](http://twitter.com/search?q=Himno) | N/A |
+| 45 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 46 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
+| 47 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 48 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 49 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

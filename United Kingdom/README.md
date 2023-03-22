@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-22 08:17:25 UTC`
+📆 Last Updated: `2023-03-22 09:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,43 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 2 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 3 | [#WorldPoetryDay](http://twitter.com/search?q=%23WorldPoetryDay) | N/A |
-| 4 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 5 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 6 | [10.4% in February](http://twitter.com/search?q=10.4%25+in+February) | N/A |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [#worlddownsyndromeday](http://twitter.com/search?q=%23worlddownsyndromeday) | N/A |
-| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
-| 11 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 12 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 13 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 14 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 15 | [The Met](http://twitter.com/search?q=The+Met) | The Met is short for The Metropolitan Museum of Art, which is an art museum located in New York City. It is one of the largest and most visited art museums in the world, and it houses a collection of over two million works of art from around the world. |
-| 16 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 17 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 18 | [10.1% in January](http://twitter.com/search?q=10.1%25+in+January) | N/A |
-| 19 | [Unexpectedly](http://twitter.com/search?q=Unexpectedly) | N/A |
-| 20 | [Feargal Sharkey](http://twitter.com/search?q=Feargal+Sharkey) | N/A |
-| 21 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [Surprise](http://twitter.com/search?q=Surprise) | N/A |
-| 24 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 25 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 27 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 28 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 29 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 30 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
-| 31 | [too much silence](http://twitter.com/search?q=too+much+silence) | N/A |
-| 32 | [Privileges Committee](http://twitter.com/search?q=Privileges+Committee) | N/A |
-| 33 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
-| 34 | [Star Chamber](http://twitter.com/search?q=Star+Chamber) | N/A |
-| 35 | [Keith Palmer](http://twitter.com/search?q=Keith+Palmer) | N/A |
-| 36 | [Mother's Day](http://twitter.com/search?q=Mother%27s+Day) | N/A |
-| 37 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 38 | [Hearn](http://twitter.com/search?q=Hearn) | N/A |
-| 39 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 40 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 41 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 42 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 43 | [Morning Tim](http://twitter.com/search?q=Morning+Tim) | N/A |
-| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 45 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Metropolitan Police](http://twitter.com/search?q=Metropolitan+Police) | N/A |
-| 48 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 49 | [King James Bible](http://twitter.com/search?q=King+James+Bible) | N/A |
-| 50 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
+| 2 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
+| 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 4 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 6 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 7 | [#FuryUsyk](http://twitter.com/search?q=%23FuryUsyk) | N/A |
+| 8 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
+| 9 | [10.4% in February](http://twitter.com/search?q=10.4%25+in+February) | N/A |
+| 10 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 11 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 12 | [Daily Quordle 422](http://twitter.com/search?q=Daily+Quordle+422) | N/A |
+| 13 | [Chisora](http://twitter.com/search?q=Chisora) | N/A |
+| 14 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 15 | [King James Bible](http://twitter.com/search?q=King+James+Bible) | N/A |
+| 16 | [Surprise](http://twitter.com/search?q=Surprise) | N/A |
+| 17 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 18 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 19 | [Stormont Brake](http://twitter.com/search?q=Stormont+Brake) | N/A |
+| 20 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
+| 21 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 23 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 24 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 25 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
+| 26 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 27 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 28 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 29 | [#ToriesOut258](http://twitter.com/search?q=%23ToriesOut258) | N/A |
+| 30 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
+| 31 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 32 | [#WhiskersWednesday](http://twitter.com/search?q=%23WhiskersWednesday) | N/A |
+| 33 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 34 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 35 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
+| 36 | [#PrivilegesCommittee](http://twitter.com/search?q=%23PrivilegesCommittee) | N/A |
+| 37 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 38 | [#barnsleyfc](http://twitter.com/search?q=%23barnsleyfc) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-22 08:16:51 UTC`
+📆 Last Updated: `2023-03-22 09:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 2 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 3 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 4 | [#SMP2023](http://twitter.com/search?q=%23SMP2023) | N/A |
-| 5 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 10 | [Hewett](http://twitter.com/search?q=Hewett) | N/A |
-| 11 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 12 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
-| 13 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 14 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 15 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 2 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 5 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 6 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 7 | [#SMP2023](http://twitter.com/search?q=%23SMP2023) | N/A |
+| 8 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 9 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 10 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 11 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 12 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 13 | [Ken Henry](http://twitter.com/search?q=Ken+Henry) | N/A |
+| 14 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 15 | [Hewett](http://twitter.com/search?q=Hewett) | N/A |
 | 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
-| 19 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 20 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 21 | [Brad Hazzard](http://twitter.com/search?q=Brad+Hazzard) | N/A |
-| 22 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 23 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 24 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 25 | [Ron Joseph](http://twitter.com/search?q=Ron+Joseph) | N/A |
-| 26 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 27 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
-| 28 | [Belfield](http://twitter.com/search?q=Belfield) | N/A |
-| 29 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
-| 30 | [Canberra](http://twitter.com/search?q=Canberra) | N/A |
-| 31 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
-| 32 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
-| 33 | [Bill Shorten](http://twitter.com/search?q=Bill+Shorten) | N/A |
-| 34 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 35 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
-| 36 | [Sarah Henderson](http://twitter.com/search?q=Sarah+Henderson) | N/A |
-| 37 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 38 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 39 | [The AFL](http://twitter.com/search?q=The+AFL) | N/A |
-| 40 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 41 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 42 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 43 | [Science Meets Parliament](http://twitter.com/search?q=Science+Meets+Parliament) | N/A |
-| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 45 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 46 | [Royce Hunt](http://twitter.com/search?q=Royce+Hunt) | N/A |
-| 47 | [Robodebt](http://twitter.com/search?q=Robodebt) | N/A |
-| 48 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 49 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
+| 17 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 18 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
+| 19 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 22 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 23 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 24 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 25 | [Brad Hazzard](http://twitter.com/search?q=Brad+Hazzard) | N/A |
+| 26 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 27 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 28 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 29 | [Ron Joseph](http://twitter.com/search?q=Ron+Joseph) | N/A |
+| 30 | [McAdam](http://twitter.com/search?q=McAdam) | N/A |
+| 31 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 32 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 33 | [Belfield](http://twitter.com/search?q=Belfield) | N/A |
+| 34 | [Harmony Day](http://twitter.com/search?q=Harmony+Day) | N/A |
+| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 36 | [Royce Hunt](http://twitter.com/search?q=Royce+Hunt) | N/A |
+| 37 | [Pocock](http://twitter.com/search?q=Pocock) | N/A |
+| 38 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 39 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 40 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 41 | [The AFL](http://twitter.com/search?q=The+AFL) | N/A |
+| 42 | [Sarah Henderson](http://twitter.com/search?q=Sarah+Henderson) | N/A |
+| 43 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
+| 44 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 45 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 46 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 47 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 48 | [Bill Shorten](http://twitter.com/search?q=Bill+Shorten) | N/A |
+| 49 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
 
 
 
