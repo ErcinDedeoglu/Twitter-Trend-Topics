@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-23 09:18:54 UTC`
+📆 Last Updated: `2023-03-23 10:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 2 | [#23marzo](http://twitter.com/search?q=%2323marzo) | N/A |
+| 2 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
 | 3 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
 | 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 5 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
 | 6 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 7 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 10 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 13 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 14 | [Buongiorno Vito](http://twitter.com/search?q=Buongiorno+Vito) | N/A |
-| 15 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 16 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 17 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 18 | [Ciro ricci](http://twitter.com/search?q=Ciro+ricci) | N/A |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 12 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 13 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 14 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 15 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 16 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 17 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
+| 18 | [freddie](http://twitter.com/search?q=freddie) | N/A |
 | 19 | [Linus](http://twitter.com/search?q=Linus) | N/A |
 | 20 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 21 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 22 | [Giuditta](http://twitter.com/search?q=Giuditta) | N/A |
-| 23 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 24 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
-| 25 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
-| 26 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 27 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 28 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 29 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 30 | [Ugo Tognazzi](http://twitter.com/search?q=Ugo+Tognazzi) | N/A |
-| 31 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 32 | [domenico cuomo](http://twitter.com/search?q=domenico+cuomo) | N/A |
-| 33 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 34 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 35 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 36 | [SPOILER AOTV](http://twitter.com/search?q=SPOILER+AOTV) | N/A |
-| 37 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 38 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
-| 39 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
-| 40 | [Chiattillo](http://twitter.com/search?q=Chiattillo) | N/A |
-| 41 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 42 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 43 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 44 | [Buongiorno Maurizio](http://twitter.com/search?q=Buongiorno+Maurizio) | N/A |
-| 45 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 46 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 47 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 48 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
-| 49 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
-| 50 | [Fabio Volo](http://twitter.com/search?q=Fabio+Volo) | N/A |
+| 21 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 22 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 23 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 24 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 25 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 26 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 27 | [Ugo Tognazzi](http://twitter.com/search?q=Ugo+Tognazzi) | N/A |
+| 28 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 29 | [domenico cuomo](http://twitter.com/search?q=domenico+cuomo) | N/A |
+| 30 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 31 | [Chiambretti](http://twitter.com/search?q=Chiambretti) | N/A |
+| 32 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 33 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 34 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 35 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 36 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 37 | [SPOILER AOTV](http://twitter.com/search?q=SPOILER+AOTV) | N/A |
+| 38 | [Buongiorno Maurizio](http://twitter.com/search?q=Buongiorno+Maurizio) | N/A |
+| 39 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 40 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 41 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 42 | [Fabio Volo](http://twitter.com/search?q=Fabio+Volo) | N/A |
+| 43 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 44 | [Buondi](http://twitter.com/search?q=Buondi) | N/A |
+| 45 | [Il 23](http://twitter.com/search?q=Il+23) | N/A |
+| 46 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
+| 47 | [Buongiorno Peppe](http://twitter.com/search?q=Buongiorno+Peppe) | N/A |
+| 48 | [Balcani](http://twitter.com/search?q=Balcani) | N/A |
+| 49 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
+| 50 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
 
 
 

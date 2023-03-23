@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-23 09:18:43 UTC`
+📆 Last Updated: `2023-03-23 10:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 2 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 2 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
 | 3 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
 | 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 5 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Mexico](</Mexico>)
 | 14 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 15 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
 | 16 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 17 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 17 | [floricienta](http://twitter.com/search?q=floricienta) | N/A |
 | 18 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
 | 19 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
 | 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
@@ -40,29 +40,30 @@ This is top 50 for [Mexico](</Mexico>)
 | 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 24 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
 | 25 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 26 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 27 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 26 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 27 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 28 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
-| 29 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 30 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 31 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 29 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 30 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 31 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
 | 32 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 33 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
-| 34 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 35 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 33 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 34 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 35 | [Sitilpech](http://twitter.com/search?q=Sitilpech) | N/A |
 | 36 | [Bambam](http://twitter.com/search?q=Bambam) | N/A |
 | 37 | [Whatsapp Web](http://twitter.com/search?q=Whatsapp+Web) | N/A |
 | 38 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 39 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 40 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 41 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
-| 42 | [Antony Blinken](http://twitter.com/search?q=Antony+Blinken) | N/A |
-| 43 | [Verónica del Castillo](http://twitter.com/search?q=Ver%c3%b3nica+del+Castillo) | N/A |
-| 44 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
-| 45 | [Conago](http://twitter.com/search?q=Conago) | N/A |
-| 46 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 47 | [PANTERA PROTEGIDA](http://twitter.com/search?q=PANTERA+PROTEGIDA) | N/A |
-| 48 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 39 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 40 | [music vibe](http://twitter.com/search?q=music+vibe) | N/A |
+| 41 | [Antony Blinken](http://twitter.com/search?q=Antony+Blinken) | N/A |
+| 42 | [Verónica del Castillo](http://twitter.com/search?q=Ver%c3%b3nica+del+Castillo) | N/A |
+| 43 | [Conago](http://twitter.com/search?q=Conago) | N/A |
+| 44 | [cuna de lobos](http://twitter.com/search?q=cuna+de+lobos) | N/A |
+| 45 | [PANTERA PROTEGIDA](http://twitter.com/search?q=PANTERA+PROTEGIDA) | N/A |
+| 46 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 47 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 48 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 49 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
 
 
 

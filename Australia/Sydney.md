@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-23 09:18:59 UTC`
+📆 Last Updated: `2023-03-23 10:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AFLBluesCats](http://twitter.com/search?q=%23AFLBluesCats) | N/A |
 | 2 | [#NRLEelsPanthers](http://twitter.com/search?q=%23NRLEelsPanthers) | N/A |
 | 3 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 4 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
-| 5 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 6 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 7 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 8 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
-| 9 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 10 | [Motlop](http://twitter.com/search?q=Motlop) | N/A |
-| 11 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 14 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 15 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 16 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
-| 17 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 18 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
-| 19 | [Cerra](http://twitter.com/search?q=Cerra) | N/A |
-| 20 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 21 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 22 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 23 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
-| 24 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 25 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
-| 26 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 27 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
-| 30 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 31 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
-| 32 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
-| 33 | [Lidiot](http://twitter.com/search?q=Lidiot) | N/A |
-| 34 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 35 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 36 | [Jono](http://twitter.com/search?q=Jono) | N/A |
-| 37 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 38 | [Jervis Bay](http://twitter.com/search?q=Jervis+Bay) | N/A |
-| 39 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
-| 40 | [narty](http://twitter.com/search?q=narty) | N/A |
-| 41 | [Babet](http://twitter.com/search?q=Babet) | N/A |
-| 42 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 43 | [Crawling](http://twitter.com/search?q=Crawling) | N/A |
-| 44 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 45 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 46 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 47 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
-| 48 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 49 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 50 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
+| 4 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 5 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 6 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
+| 7 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 8 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 9 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 10 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
+| 11 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 12 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 14 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 15 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 16 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 17 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 18 | [Motlop](http://twitter.com/search?q=Motlop) | N/A |
+| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 20 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 21 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 22 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
+| 23 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 24 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
+| 25 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 26 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 27 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 28 | [Ennis](http://twitter.com/search?q=Ennis) | Ennis is a name of Irish origin, derived from the Gaelic name Aonghus, meaning "one strength". It is also the name of a town in County Clare, Ireland. |
+| 29 | [De Koning](http://twitter.com/search?q=De+Koning) | N/A |
+| 30 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
+| 31 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 32 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 33 | [Cerra](http://twitter.com/search?q=Cerra) | N/A |
+| 34 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
+| 35 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 36 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 37 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 38 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 39 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 40 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 41 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 42 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 43 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 44 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
+| 45 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
+| 46 | [Lidiot](http://twitter.com/search?q=Lidiot) | N/A |
+| 47 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 48 | [Owies](http://twitter.com/search?q=Owies) | N/A |
+| 49 | [Jervis Bay](http://twitter.com/search?q=Jervis+Bay) | N/A |
+| 50 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
 
 
 

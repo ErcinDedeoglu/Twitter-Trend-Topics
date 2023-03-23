@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-23 09:19:31 UTC`
+📆 Last Updated: `2023-03-23 10:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Peru
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 2 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 3 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 4 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 5 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
+| 3 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 4 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
+| 5 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
 | 6 | [Paolo Hurtado](http://twitter.com/search?q=Paolo+Hurtado) | N/A |
 | 7 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 8 | [freddie](http://twitter.com/search?q=freddie) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for Peru
 | 17 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
 | 18 | [yuquitas](http://twitter.com/search?q=yuquitas) | N/A |
 | 19 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 20 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
+| 20 | [aníbal torres](http://twitter.com/search?q=an%c3%adbal+torres) | N/A |
 | 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 22 | [ester 7](http://twitter.com/search?q=ester+7) | N/A |
 | 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for Peru
 | 35 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
 | 36 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
 | 37 | [Christian Domínguez](http://twitter.com/search?q=Christian+Dom%c3%adnguez) | N/A |
-| 38 | [Epson](http://twitter.com/search?q=Epson) | N/A |
+| 38 | [epson](http://twitter.com/search?q=epson) | N/A |
 | 39 | [Gonzales](http://twitter.com/search?q=Gonzales) | N/A |
-| 40 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
+| 40 | [juanpi](http://twitter.com/search?q=juanpi) | N/A |
 | 41 | [interbank](http://twitter.com/search?q=interbank) | N/A |
 | 42 | [río rímac](http://twitter.com/search?q=r%c3%ado+r%c3%admac) | N/A |
 | 43 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |

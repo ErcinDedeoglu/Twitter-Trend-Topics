@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-23 09:19:29 UTC`
+📆 Last Updated: `2023-03-23 10:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 3 | [Mario Camposeco](http://twitter.com/search?q=Mario+Camposeco) | N/A |
+| 3 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
 | 4 | [casa de dios](http://twitter.com/search?q=casa+de+dios) | N/A |
 | 5 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
@@ -26,9 +26,9 @@ This is top 50 for Guatemala
 | 9 | [xelajú](http://twitter.com/search?q=xelaj%c3%ba) | N/A |
 | 10 | [MANUEL COLOM ARGUETA](http://twitter.com/search?q=MANUEL+COLOM+ARGUETA) | N/A |
 | 11 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 12 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
+| 12 | [mixco](http://twitter.com/search?q=mixco) | N/A |
 | 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 14 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 14 | [floricienta](http://twitter.com/search?q=floricienta) | N/A |
 | 15 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
 | 16 | [#locosporlaparrillagt](http://twitter.com/search?q=%23locosporlaparrillagt) | N/A |
 | 17 | [#CasoBeatriz](http://twitter.com/search?q=%23CasoBeatriz) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for Guatemala
 | 31 | [Tikal](http://twitter.com/search?q=Tikal) | N/A |
 | 32 | [el registro de ciudadanos](http://twitter.com/search?q=el+registro+de+ciudadanos) | N/A |
 | 33 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 34 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
+| 34 | [villa nueva](http://twitter.com/search?q=villa+nueva) | N/A |
 | 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 36 | [El 22](http://twitter.com/search?q=El+22) | N/A |
 | 37 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
