@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-23 08:17:51 UTC`
+📆 Last Updated: `2023-03-23 09:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for Guatemala
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 3 | [Mario Camposeco](http://twitter.com/search?q=Mario+Camposeco) | N/A |
-| 4 | [Casa de Dios](http://twitter.com/search?q=Casa+de+Dios) | N/A |
+| 4 | [casa de dios](http://twitter.com/search?q=casa+de+dios) | N/A |
 | 5 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 7 | [#siguelamúsica](http://twitter.com/search?q=%23siguelam%c3%basica) | N/A |
 | 8 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 9 | [Xelajú](http://twitter.com/search?q=Xelaj%c3%ba) | N/A |
-| 10 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
-| 11 | [MANUEL COLOM ARGUETA](http://twitter.com/search?q=MANUEL+COLOM+ARGUETA) | N/A |
-| 12 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 9 | [xelajú](http://twitter.com/search?q=xelaj%c3%ba) | N/A |
+| 10 | [MANUEL COLOM ARGUETA](http://twitter.com/search?q=MANUEL+COLOM+ARGUETA) | N/A |
+| 11 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 12 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
 | 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 14 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
 | 15 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Guatemala
 | 40 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
 | 41 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
 | 42 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 43 | [Francisco Arredondo](http://twitter.com/search?q=Francisco+Arredondo) | N/A |
+| 43 | [francisco arredondo](http://twitter.com/search?q=francisco+arredondo) | N/A |
 | 44 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
 | 45 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
 | 46 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-23 08:17:14 UTC`
+📆 Last Updated: `2023-03-23 09:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
 | 2 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
 | 3 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 4 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 5 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 4 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 6 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 7 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
 | 8 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 9 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 10 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 11 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 12 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 14 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 15 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 16 | [Hab Du](http://twitter.com/search?q=Hab+Du) | N/A |
-| 17 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 18 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
-| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 10 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 13 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 14 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 15 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 16 | [Vor 90 Jahren](http://twitter.com/search?q=Vor+90+Jahren) | N/A |
+| 17 | [Hirschhausen](http://twitter.com/search?q=Hirschhausen) | N/A |
+| 18 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
+| 19 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 20 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 21 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 22 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 23 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
-| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
-| 26 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 21 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 23 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 24 | [Guten Morgen Richard](http://twitter.com/search?q=Guten+Morgen+Richard) | N/A |
+| 25 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 26 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 27 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
-| 28 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 29 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 30 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 31 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 32 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
-| 33 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 34 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
-| 35 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 36 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 37 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 38 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 39 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
-| 40 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 41 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 42 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
-| 43 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
-| 44 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 45 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
-| 46 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 47 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
-| 48 | [Asyl](http://twitter.com/search?q=Asyl) | N/A |
+| 28 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
+| 29 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
+| 30 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 31 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
+| 32 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
+| 33 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 34 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 35 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
+| 36 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 37 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
+| 38 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 39 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
+| 40 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
+| 41 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 42 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
+| 43 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 44 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 45 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 46 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 48 | [Feinde der Demokratie](http://twitter.com/search?q=Feinde+der+Demokratie) | N/A |
 
 
 

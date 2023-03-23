@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-23 08:17:52 UTC`
+📆 Last Updated: `2023-03-23 09:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for Israel
 | 1 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
 | 2 | [סמל המחאה](http://twitter.com/search?q=%d7%a1%d7%9e%d7%9c+%d7%94%d7%9e%d7%97%d7%90%d7%94) | N/A |
 | 3 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 4 | [צומת רעננה](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a8%d7%a2%d7%a0%d7%a0%d7%94) | N/A |
-| 5 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 6 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 7 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 8 | [נמל אשדוד](http://twitter.com/search?q=%d7%a0%d7%9e%d7%9c+%d7%90%d7%a9%d7%93%d7%95%d7%93) | N/A |
-| 9 | [של קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%99%d7%a9) | N/A |
-| 10 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 11 | [כביש החוף](http://twitter.com/search?q=%d7%9b%d7%91%d7%99%d7%a9+%d7%94%d7%97%d7%95%d7%a3) | N/A |
-| 12 | [של דרעי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 13 | [של אריה דרעי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 14 | [בלי אלימות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
-| 15 | [יום שיתוק](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%aa%d7%95%d7%a7) | N/A |
-| 16 | [חולי נפש](http://twitter.com/search?q=%d7%97%d7%95%d7%9c%d7%99+%d7%a0%d7%a4%d7%a9) | N/A |
-| 17 | [חוק נבצרות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa) | N/A |
-| 18 | [#פושעי_ההפיכה_לדין](http://twitter.com/search?q=%23%d7%a4%d7%95%d7%a9%d7%a2%d7%99_%d7%94%d7%94%d7%a4%d7%99%d7%9b%d7%94_%d7%9c%d7%93%d7%99%d7%9f) | N/A |
-| 19 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
-| 20 | [משנה מי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a0%d7%94+%d7%9e%d7%99) | N/A |
-| 21 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
-| 22 | [עם ירדן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a8%d7%93%d7%9f) | N/A |
-| 23 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
-| 24 | [יום חופש](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
-| 25 | [היא נגד](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a0%d7%92%d7%93) | N/A |
-| 26 | [רם בן ברק](http://twitter.com/search?q=%d7%a8%d7%9d+%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
-| 27 | [עם ארה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%a8%d7%94) | N/A |
-| 28 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
-| 29 | [פרס ישראל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 30 | [רחל הבר](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%94%d7%91%d7%a8) | N/A |
-| 31 | [חודש מבורך](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 32 | [נגד חוק](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%95%d7%a7) | N/A |
-| 33 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 34 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
-| 35 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 36 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
-| 37 | [נגד חרדים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
-| 38 | [ראש חודש ניסן](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%a0%d7%99%d7%a1%d7%9f) | N/A |
-| 39 | [כתב משטרה](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%9e%d7%a9%d7%98%d7%a8%d7%94) | N/A |
-| 40 | [ברק היא](http://twitter.com/search?q=%d7%91%d7%a8%d7%a7+%d7%94%d7%99%d7%90) | N/A |
-| 41 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 42 | [קובי פרץ](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a4%d7%a8%d7%a5) | N/A |
-| 43 | [עם שמות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%9e%d7%95%d7%aa) | N/A |
-| 44 | [דם נשים אינו הפקר](http://twitter.com/search?q=%d7%93%d7%9d+%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%99%d7%a0%d7%95+%d7%94%d7%a4%d7%a7%d7%a8) | N/A |
-| 45 | [חברות הכנסת](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 4 | [של שקמה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a7%d7%9e%d7%94) | N/A |
+| 5 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
+| 6 | [נמל אשדוד](http://twitter.com/search?q=%d7%a0%d7%9e%d7%9c+%d7%90%d7%a9%d7%93%d7%95%d7%93) | N/A |
+| 7 | [צומת רעננה](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a8%d7%a2%d7%a0%d7%a0%d7%94) | N/A |
+| 8 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 9 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 10 | [בלי אלימות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
+| 11 | [יום שיתוק](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%aa%d7%95%d7%a7) | N/A |
+| 12 | [#פושעי_ההפיכה_לדין](http://twitter.com/search?q=%23%d7%a4%d7%95%d7%a9%d7%a2%d7%99_%d7%94%d7%94%d7%a4%d7%99%d7%9b%d7%94_%d7%9c%d7%93%d7%99%d7%9f) | N/A |
+| 13 | [פרס ישראל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 14 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 15 | [של דרעי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
+| 16 | [חוק ההתנתקות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%94%d7%94%d7%aa%d7%a0%d7%aa%d7%a7%d7%95%d7%aa) | N/A |
+| 17 | [היא נגד](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a0%d7%92%d7%93) | N/A |
+| 18 | [עם ארה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%a8%d7%94) | N/A |
+| 19 | [של קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%99%d7%a9) | N/A |
+| 20 | [ראש חודש ניסן](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%a0%d7%99%d7%a1%d7%9f) | N/A |
+| 21 | [רם בן ברק](http://twitter.com/search?q=%d7%a8%d7%9d+%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
+| 22 | [משנה מי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a0%d7%94+%d7%9e%d7%99) | N/A |
+| 23 | [חודש מבורך](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
+| 24 | [רחל הבר](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%94%d7%91%d7%a8) | N/A |
+| 25 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
+| 26 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
+| 27 | [נגד חוק](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%95%d7%a7) | N/A |
+| 28 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 29 | [יום חופש](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%95%d7%a4%d7%a9) | N/A |
+| 30 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
+| 31 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 32 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
+| 33 | [נגד חרדים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
+| 34 | [כתב משטרה](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%9e%d7%a9%d7%98%d7%a8%d7%94) | N/A |
+| 35 | [חולי נפש](http://twitter.com/search?q=%d7%97%d7%95%d7%9c%d7%99+%d7%a0%d7%a4%d7%a9) | N/A |
+| 36 | [ברק היא](http://twitter.com/search?q=%d7%91%d7%a8%d7%a7+%d7%94%d7%99%d7%90) | N/A |
+| 37 | [תל אביב](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
+| 38 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 39 | [קובי פרץ](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a4%d7%a8%d7%a5) | N/A |
+| 40 | [עם ירדן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a8%d7%93%d7%9f) | N/A |
+| 41 | [עם שמות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%9e%d7%95%d7%aa) | N/A |
+| 42 | [של אריה דרעי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
+| 43 | [דם נשים אינו הפקר](http://twitter.com/search?q=%d7%93%d7%9d+%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%99%d7%a0%d7%95+%d7%94%d7%a4%d7%a7%d7%a8) | N/A |
+| 44 | [חברות הכנסת](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 45 | [ד מ ו ק ר ט י ה](http://twitter.com/search?q=%d7%93+%d7%9e+%d7%95+%d7%a7+%d7%a8+%d7%98+%d7%99+%d7%94) | N/A |
 | 46 | [באום אל פחם](http://twitter.com/search?q=%d7%91%d7%90%d7%95%d7%9d+%d7%90%d7%9c+%d7%a4%d7%97%d7%9d) | N/A |
-| 47 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 48 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
-| 49 | [של זנדברג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%96%d7%a0%d7%93%d7%91%d7%a8%d7%92) | N/A |
+| 47 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 48 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 49 | [של המחאה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9e%d7%97%d7%90%d7%94) | N/A |
 | 50 | [זיהום אוויר](http://twitter.com/search?q=%d7%96%d7%99%d7%94%d7%95%d7%9d+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
 
 

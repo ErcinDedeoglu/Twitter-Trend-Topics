@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-23 08:17:54 UTC`
+📆 Last Updated: `2023-03-23 09:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Panama
 | 3 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 4 | [moscote](http://twitter.com/search?q=moscote) | N/A |
 | 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 6 | [disciplina](http://twitter.com/search?q=disciplina) | N/A |
-| 7 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 6 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 7 | [Disciplina](http://twitter.com/search?q=Disciplina) | N/A |
 | 8 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 9 | [javier caraballo](http://twitter.com/search?q=javier+caraballo) | N/A |
 | 10 | [idaan](http://twitter.com/search?q=idaan) | N/A |
@@ -35,23 +35,23 @@ This is top 50 for Panama
 | 18 | [Buenos Aires](http://twitter.com/search?q=Buenos+Aires) | N/A |
 | 19 | [#FrenemosElAborto](http://twitter.com/search?q=%23FrenemosElAborto) | N/A |
 | 20 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 21 | [Burunga](http://twitter.com/search?q=Burunga) | N/A |
+| 21 | [burunga](http://twitter.com/search?q=burunga) | N/A |
 | 22 | [#unminutoparadios](http://twitter.com/search?q=%23unminutoparadios) | N/A |
 | 23 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 24 | [#veraguas](http://twitter.com/search?q=%23veraguas) | N/A |
 | 25 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
 | 26 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
 | 27 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 28 | [Etelvina](http://twitter.com/search?q=Etelvina) | N/A |
-| 29 | [ana giselle rosas](http://twitter.com/search?q=ana+giselle+rosas) | N/A |
+| 28 | [ana giselle rosas](http://twitter.com/search?q=ana+giselle+rosas) | N/A |
+| 29 | [ETELVINA](http://twitter.com/search?q=ETELVINA) | N/A |
 | 30 | [Clásico Mundial de Béisbol](http://twitter.com/search?q=Cl%c3%a1sico+Mundial+de+B%c3%a9isbol) | N/A |
 | 31 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 32 | [Meduca](http://twitter.com/search?q=Meduca) | N/A |
+| 32 | [meduca](http://twitter.com/search?q=meduca) | N/A |
 | 33 | [Juez](http://twitter.com/search?q=Juez) | N/A |
 | 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Chilibre](http://twitter.com/search?q=Chilibre) | N/A |
+| 35 | [chilibre](http://twitter.com/search?q=chilibre) | N/A |
 | 36 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 37 | [romulo](http://twitter.com/search?q=romulo) | N/A |
+| 37 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
 | 38 | [Tremenda](http://twitter.com/search?q=Tremenda) | N/A |
 | 39 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 40 | [Seguimos](http://twitter.com/search?q=Seguimos) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Panama
 | 46 | [La Policía Nacional](http://twitter.com/search?q=La+Polic%c3%ada+Nacional) | N/A |
 | 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 48 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 49 | [Blandón](http://twitter.com/search?q=Bland%c3%b3n) | N/A |
+| 49 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
 | 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 
 

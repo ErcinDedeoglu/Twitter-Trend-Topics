@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-23 08:17:10 UTC`
+📆 Last Updated: `2023-03-23 09:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
-| 2 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 3 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 4 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 5 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 6 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 7 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 8 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 9 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 10 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 11 | [Bruna e Gabriel](http://twitter.com/search?q=Bruna+e+Gabriel) | N/A |
-| 12 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 13 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 14 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 15 | [Gossip](http://twitter.com/search?q=Gossip) | N/A |
-| 16 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 17 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 19 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 20 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 21 | [PAULO VIEIRA](http://twitter.com/search?q=PAULO+VIEIRA) | N/A |
-| 22 | [Pepe Moreno](http://twitter.com/search?q=Pepe+Moreno) | N/A |
-| 23 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 24 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 25 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 26 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 27 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 28 | [#CasaDoReencontro](http://twitter.com/search?q=%23CasaDoReencontro) | N/A |
-| 29 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
-| 30 | [Carmen Miranda](http://twitter.com/search?q=Carmen+Miranda) | N/A |
-| 31 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
-| 32 | [Copa do Nordeste](http://twitter.com/search?q=Copa+do+Nordeste) | N/A |
-| 33 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 34 | [Racista](http://twitter.com/search?q=Racista) | N/A |
-| 35 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 36 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
-| 37 | [Inês](http://twitter.com/search?q=In%c3%aas) | N/A |
-| 38 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
-| 39 | [NOJENTA](http://twitter.com/search?q=NOJENTA) | N/A |
-| 40 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 41 | [O Cristian](http://twitter.com/search?q=O+Cristian) | N/A |
-| 42 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 43 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 44 | [Saci](http://twitter.com/search?q=Saci) | N/A |
-| 45 | [#forakey](http://twitter.com/search?q=%23forakey) | N/A |
-| 46 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 47 | [MEU NOME É TINA](http://twitter.com/search?q=MEU+NOME+%c3%89+TINA) | N/A |
-| 48 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
-| 49 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 50 | [#RepescagemBBB23](http://twitter.com/search?q=%23RepescagemBBB23) | N/A |
+| 2 | [cauly](http://twitter.com/search?q=cauly) | N/A |
+| 3 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 5 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 6 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 7 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 8 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
+| 9 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 11 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 12 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 13 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 14 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 15 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 16 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 17 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 18 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 19 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 20 | [#antxbabydoge](http://twitter.com/search?q=%23antxbabydoge) | N/A |
+| 21 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 22 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
+| 23 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 24 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 25 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
+| 26 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 27 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
+| 28 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 29 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
+| 30 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 31 | [bud com o nas no lollabr](http://twitter.com/search?q=bud+com+o+nas+no+lollabr) | N/A |
+| 32 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
+| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 34 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 35 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 36 | [Pepe moreno](http://twitter.com/search?q=Pepe+moreno) | N/A |
+| 37 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 38 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 39 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 40 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
+| 41 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 42 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 43 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 44 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 45 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 46 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 47 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
+| 48 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 49 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 50 | [fred no multishow](http://twitter.com/search?q=fred+no+multishow) | N/A |
 
 
 

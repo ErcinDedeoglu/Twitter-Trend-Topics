@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-23 08:17:54 UTC`
+📆 Last Updated: `2023-03-23 09:19:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,19 +20,19 @@ This is top 50 for Peru
 | 3 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
 | 4 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
 | 5 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
-| 6 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 7 | [Paolo Hurtado](http://twitter.com/search?q=Paolo+Hurtado) | N/A |
-| 8 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 6 | [Paolo Hurtado](http://twitter.com/search?q=Paolo+Hurtado) | N/A |
+| 7 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 8 | [freddie](http://twitter.com/search?q=freddie) | N/A |
 | 9 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
-| 10 | [Rosalino Flores](http://twitter.com/search?q=Rosalino+Flores) | N/A |
-| 11 | [Jossmery Toledo](http://twitter.com/search?q=Jossmery+Toledo) | N/A |
+| 10 | [Jossmery Toledo](http://twitter.com/search?q=Jossmery+Toledo) | N/A |
+| 11 | [Rosalino Flores](http://twitter.com/search?q=Rosalino+Flores) | N/A |
 | 12 | [don gil](http://twitter.com/search?q=don+gil) | N/A |
 | 13 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
 | 14 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 15 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 16 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
 | 17 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 18 | [Yuquitas](http://twitter.com/search?q=Yuquitas) | N/A |
+| 18 | [yuquitas](http://twitter.com/search?q=yuquitas) | N/A |
 | 19 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
 | 20 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
 | 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
@@ -55,16 +55,16 @@ This is top 50 for Peru
 | 38 | [Epson](http://twitter.com/search?q=Epson) | N/A |
 | 39 | [Gonzales](http://twitter.com/search?q=Gonzales) | N/A |
 | 40 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
-| 41 | [Interbank](http://twitter.com/search?q=Interbank) | N/A |
-| 42 | [río Rímac](http://twitter.com/search?q=r%c3%ado+R%c3%admac) | N/A |
+| 41 | [interbank](http://twitter.com/search?q=interbank) | N/A |
+| 42 | [río rímac](http://twitter.com/search?q=r%c3%ado+r%c3%admac) | N/A |
 | 43 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
 | 44 | [Susel](http://twitter.com/search?q=Susel) | N/A |
-| 45 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 46 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
+| 45 | [yotun](http://twitter.com/search?q=yotun) | N/A |
+| 46 | [comizzo](http://twitter.com/search?q=comizzo) | N/A |
 | 47 | [Tabackus](http://twitter.com/search?q=Tabackus) | N/A |
-| 48 | [Comizzo](http://twitter.com/search?q=Comizzo) | N/A |
-| 49 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 50 | [Casal](http://twitter.com/search?q=Casal) | N/A |
+| 48 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 49 | [Casal](http://twitter.com/search?q=Casal) | N/A |
+| 50 | [murru](http://twitter.com/search?q=murru) | N/A |
 
 
 
