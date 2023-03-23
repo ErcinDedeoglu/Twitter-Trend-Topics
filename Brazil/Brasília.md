@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-23 14:18:04 UTC`
+📆 Last Updated: `2023-03-23 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 2 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
-| 3 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
-| 4 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 5 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 6 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 7 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 8 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 9 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 11 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 12 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
-| 13 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 14 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 15 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 16 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 17 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 18 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 19 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 20 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
-| 21 | [Greve](http://twitter.com/search?q=Greve) | N/A |
-| 22 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 23 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 24 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 25 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
-| 26 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 27 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 28 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
-| 29 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
-| 30 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 31 | [Costa do Marfim](http://twitter.com/search?q=Costa+do+Marfim) | N/A |
-| 32 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 33 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 34 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 35 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
-| 36 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 37 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 38 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 39 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 40 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 41 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
-| 42 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 43 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
-| 44 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 45 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 46 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 47 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 48 | [Senador](http://twitter.com/search?q=Senador) | N/A |
-| 49 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 50 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 2 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 3 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 4 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
+| 5 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 8 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 9 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 10 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 11 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 12 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 13 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 14 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
+| 15 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 16 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
+| 17 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 19 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 20 | [São João de Patos](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Patos) | N/A |
+| 21 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 22 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 23 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 24 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 25 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
+| 26 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
+| 27 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 28 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 29 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 30 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
+| 31 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 32 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 33 | [Junhyeon](http://twitter.com/search?q=Junhyeon) | N/A |
+| 34 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
+| 35 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 36 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
+| 37 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 38 | [Tirei Você](http://twitter.com/search?q=Tirei+Voc%c3%aa) | N/A |
+| 39 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 40 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 41 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
+| 42 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 43 | [Greve](http://twitter.com/search?q=Greve) | N/A |
+| 44 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 45 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 46 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 47 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
+| 48 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
+| 49 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
+| 50 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 
 
 

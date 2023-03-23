@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-23 14:18:51 UTC`
+📆 Last Updated: `2023-03-23 15:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 5 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
-| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 7 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 8 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 9 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 10 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 11 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
+| 1 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 2 | [#UNWaterConference](http://twitter.com/search?q=%23UNWaterConference) | N/A |
+| 3 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 5 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 9 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 10 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 11 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 13 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
 | 14 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 15 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
-| 16 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 17 | [Wordle 642 X](http://twitter.com/search?q=Wordle+642+X) | N/A |
-| 18 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 19 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 20 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 21 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 22 | [Summerfest](http://twitter.com/search?q=Summerfest) | N/A |
-| 23 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 24 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 25 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 26 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 16 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 18 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 19 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 20 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 21 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 22 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 23 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 24 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 25 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
+| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 27 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 29 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 30 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 31 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 32 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 33 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 34 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 35 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
-| 36 | [Happy Together](http://twitter.com/search?q=Happy+Together) | N/A |
-| 37 | [Patrick Henry](http://twitter.com/search?q=Patrick+Henry) | N/A |
-| 38 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
-| 39 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 40 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 41 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 42 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 44 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 45 | [Kari](http://twitter.com/search?q=Kari) | N/A |
-| 46 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 47 | [RIP Unc](http://twitter.com/search?q=RIP+Unc) | N/A |
-| 48 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
-| 49 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 50 | [Scientific American](http://twitter.com/search?q=Scientific+American) | N/A |
+| 28 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 29 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 30 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 31 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 32 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 33 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
+| 34 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 35 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 36 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 37 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
+| 38 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
+| 39 | [Wordle 642 X](http://twitter.com/search?q=Wordle+642+X) | N/A |
+| 40 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
+| 41 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
+| 42 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 43 | [Mugler](http://twitter.com/search?q=Mugler) | N/A |
+| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 45 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 46 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 47 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
+| 48 | [Summerfest](http://twitter.com/search?q=Summerfest) | N/A |
+| 49 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 50 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
 
 
 

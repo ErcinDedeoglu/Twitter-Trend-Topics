@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-23 14:18:10 UTC`
+📆 Last Updated: `2023-03-23 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 2 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
-| 3 | [#Bordeaux](http://twitter.com/search?q=%23Bordeaux) | N/A |
-| 4 | [Tours](http://twitter.com/search?q=Tours) | N/A |
-| 5 | [Havre](http://twitter.com/search?q=Havre) | N/A |
-| 6 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
-| 7 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 8 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 9 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 10 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 11 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 12 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 13 | [Assas](http://twitter.com/search?q=Assas) | N/A |
-| 14 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 15 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 16 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 17 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 18 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 19 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
-| 20 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
+| 2 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
+| 3 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
+| 4 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 5 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 6 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
+| 7 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 8 | [Havre](http://twitter.com/search?q=Havre) | N/A |
+| 9 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
+| 10 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 11 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 12 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 13 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 14 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 15 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 16 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 17 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 18 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
+| 19 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
+| 20 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
 | 21 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 22 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 23 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 24 | [Grève du 23](http://twitter.com/search?q=Gr%c3%a8ve+du+23) | N/A |
-| 25 | [Teach](http://twitter.com/search?q=Teach) | N/A |
-| 26 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
-| 27 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
-| 28 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
-| 29 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
-| 30 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 31 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 32 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 33 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 34 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 35 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
-| 36 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 37 | [#Lorient](http://twitter.com/search?q=%23Lorient) | N/A |
-| 38 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 39 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 24 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
+| 25 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 26 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
+| 27 | [Grève du 23](http://twitter.com/search?q=Gr%c3%a8ve+du+23) | N/A |
+| 28 | [Guide](http://twitter.com/search?q=Guide) | N/A |
+| 29 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
+| 30 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
+| 31 | [Teach](http://twitter.com/search?q=Teach) | N/A |
+| 32 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
+| 33 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
+| 34 | [Tours](http://twitter.com/search?q=Tours) | N/A |
+| 35 | [Bon Ramadan](http://twitter.com/search?q=Bon+Ramadan) | N/A |
+| 36 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 37 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 38 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
+| 39 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
 | 40 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 41 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
-| 42 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
-| 43 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 44 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
-| 45 | [#clermontferrand](http://twitter.com/search?q=%23clermontferrand) | N/A |
+| 41 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 42 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
+| 43 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
+| 44 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
+| 45 | [#Bordeaux](http://twitter.com/search?q=%23Bordeaux) | N/A |
+| 46 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
+| 47 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 48 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
+| 49 | [#ClermontFerrand](http://twitter.com/search?q=%23ClermontFerrand) | N/A |
+| 50 | [#Caen](http://twitter.com/search?q=%23Caen) | N/A |
 
 
 

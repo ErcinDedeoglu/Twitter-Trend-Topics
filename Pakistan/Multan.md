@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-23 14:18:38 UTC`
+📆 Last Updated: `2023-03-23 15:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 2 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 1 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 2 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
 | 3 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 4 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
 | 5 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
 | 6 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
-| 7 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 8 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 9 | [bol entertainment](http://twitter.com/search?q=bol+entertainment) | N/A |
-| 10 | [faysal quraishi](http://twitter.com/search?q=faysal+quraishi) | N/A |
+| 7 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 9 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 10 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
 | 11 | [Roza](http://twitter.com/search?q=Roza) | N/A |
 | 12 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 13 | [Lahore Resolution](http://twitter.com/search?q=Lahore+Resolution) | N/A |
-| 14 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
-| 15 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 16 | [Congratulations Captain](http://twitter.com/search?q=Congratulations+Captain) | N/A |
-| 17 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
-| 18 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 19 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 20 | [Weight](http://twitter.com/search?q=Weight) | N/A |
-| 21 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
-| 22 | [Amir Liaquat](http://twitter.com/search?q=Amir+Liaquat) | N/A |
-| 23 | [Mehwish Hayat](http://twitter.com/search?q=Mehwish+Hayat) | N/A |
-| 24 | [President](http://twitter.com/search?q=President) | N/A |
-| 25 | [begum nusrat bhutto](http://twitter.com/search?q=begum+nusrat+bhutto) | N/A |
-| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 27 | [Set Me Free Pt](http://twitter.com/search?q=Set+Me+Free+Pt) | N/A |
-| 28 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
-| 29 | [Naseem shah](http://twitter.com/search?q=Naseem+shah) | N/A |
-| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 31 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 32 | [Alvi](http://twitter.com/search?q=Alvi) | N/A |
-| 33 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
-| 34 | [Muslim League](http://twitter.com/search?q=Muslim+League) | N/A |
-| 35 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 37 | [Jokers](http://twitter.com/search?q=Jokers) | N/A |
-| 38 | [Samee](http://twitter.com/search?q=Samee) | N/A |
-| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 40 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 41 | [Boot](http://twitter.com/search?q=Boot) | N/A |
-| 42 | [Many Congratulations](http://twitter.com/search?q=Many+Congratulations) | N/A |
-| 43 | [U-turn](http://twitter.com/search?q=U-turn) | N/A |
-| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 45 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 46 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 47 | [Baat](http://twitter.com/search?q=Baat) | N/A |
-| 48 | [#PakistanDay](http://twitter.com/search?q=%23PakistanDay) | N/A |
-| 49 | [#Article6onECP](http://twitter.com/search?q=%23Article6onECP) | N/A |
-| 50 | [#Art6onECP](http://twitter.com/search?q=%23Art6onECP) | N/A |
+| 13 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
+| 14 | [Lahore Resolution](http://twitter.com/search?q=Lahore+Resolution) | N/A |
+| 15 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 16 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 17 | [Weight](http://twitter.com/search?q=Weight) | N/A |
+| 18 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
+| 19 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
+| 20 | [Amir Liaquat](http://twitter.com/search?q=Amir+Liaquat) | N/A |
+| 21 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
+| 22 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
+| 23 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 24 | [Mehwish Hayat](http://twitter.com/search?q=Mehwish+Hayat) | N/A |
+| 25 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 26 | [alvi](http://twitter.com/search?q=alvi) | N/A |
+| 27 | [Chai](http://twitter.com/search?q=Chai) | N/A |
+| 28 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 29 | [Many Many](http://twitter.com/search?q=Many+Many) | N/A |
+| 30 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
+| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 32 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 33 | [Samee](http://twitter.com/search?q=Samee) | N/A |
+| 34 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 35 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 36 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 37 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 38 | [Muslim League](http://twitter.com/search?q=Muslim+League) | N/A |
+| 39 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
+| 40 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 41 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
+| 42 | [Jokers](http://twitter.com/search?q=Jokers) | N/A |
+| 43 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 44 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 45 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 46 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
+| 47 | [Atta](http://twitter.com/search?q=Atta) | N/A |
+| 48 | [Halal](http://twitter.com/search?q=Halal) | N/A |
+| 49 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 50 | [Phir](http://twitter.com/search?q=Phir) | N/A |
 
 
 

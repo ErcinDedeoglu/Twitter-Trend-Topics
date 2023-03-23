@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-23 14:18:22 UTC`
+📆 Last Updated: `2023-03-23 15:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 2 | [カミナリ](http://twitter.com/search?q=%e3%82%ab%e3%83%9f%e3%83%8a%e3%83%aa) | N/A |
-| 3 | [#prime847](http://twitter.com/search?q=%23prime847) | N/A |
-| 4 | [#幻塔海開き](http://twitter.com/search?q=%23%e5%b9%bb%e5%a1%94%e6%b5%b7%e9%96%8b%e3%81%8d) | N/A |
-| 5 | [ダショちゃん](http://twitter.com/search?q=%e3%83%80%e3%82%b7%e3%83%a7%e3%81%a1%e3%82%83%e3%82%93) | ダショちゃん is a nickname for the Japanese cartoon character Doraemon, a robotic cat from the future. It is a combination of the words "dashi" (だし) which means "cat" and "chan" (ちゃん) which is an honorific suffix used to address someone in an affectionate way. In English, it can be translated as "Dashi-chan". |
-| 6 | [グリッドマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 7 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 8 | [栗山さん](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
-| 9 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 10 | [エルデンリング](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%87%e3%83%b3%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
-| 11 | [フィギュアスケート](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%88) | N/A |
-| 12 | [アズレン](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%ac%e3%83%b3) | N/A |
-| 13 | [神奈川県民](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e6%b0%91) | N/A |
-| 14 | [#世界フィギュア](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
-| 15 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
-| 16 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
-| 17 | [爆弾低気圧](http://twitter.com/search?q=%e7%88%86%e5%bc%be%e4%bd%8e%e6%b0%97%e5%9c%a7) | N/A |
-| 18 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
-| 19 | [バイオRE4](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aaRE4) | N/A |
-| 20 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [ライザ3](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b63) | N/A |
-| 22 | [全身麻酔](http://twitter.com/search?q=%e5%85%a8%e8%ba%ab%e9%ba%bb%e9%85%94) | N/A |
-| 23 | [深海少女](http://twitter.com/search?q=%e6%b7%b1%e6%b5%b7%e5%b0%91%e5%a5%b3) | N/A |
-| 24 | [おこちゃま戦争](http://twitter.com/search?q=%e3%81%8a%e3%81%93%e3%81%a1%e3%82%83%e3%81%be%e6%88%a6%e4%ba%89) | N/A |
-| 25 | [#報道ステーション](http://twitter.com/search?q=%23%e5%a0%b1%e9%81%93%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 26 | [ブルアカ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab) | ブルアカ is a type of Japanese sweet potato. It is a variety of purple sweet potato that has a deep purple skin and white flesh. In English, it is sometimes referred to as "purple sweet potato". |
-| 27 | [ログイン戦争](http://twitter.com/search?q=%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e6%88%a6%e4%ba%89) | ログイン戦争 (Rouginsenso) is a Japanese term that refers to the competition between companies to acquire customers by offering attractive login bonuses. It is similar to the concept of "bidding wars" in English, where companies compete with each other to offer the best deals and incentives in order to attract customers. |
-| 28 | [必勝しゃもじ](http://twitter.com/search?q=%e5%bf%85%e5%8b%9d%e3%81%97%e3%82%83%e3%82%82%e3%81%98) | N/A |
-| 29 | [プロセカ](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%bb%e3%82%ab) | プロセカ is a Japanese word that means "process". It is used to refer to a process or procedure that needs to be followed in order to achieve a certain goal. |
-| 30 | [スノーマン](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 31 | [栗山監督の話](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3%e3%81%ae%e8%a9%b1) | N/A |
-| 32 | [ユンジョンウ](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6) | N/A |
-| 33 | [インタビュア](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%82%a2) | N/A |
-| 34 | [いよわさん](http://twitter.com/search?q=%e3%81%84%e3%82%88%e3%82%8f%e3%81%95%e3%82%93) | N/A |
-| 35 | [キーガン](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%82%ac%e3%83%b3) | N/A |
-| 36 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 37 | [ヤケクソ補填](http://twitter.com/search?q=%e3%83%a4%e3%82%b1%e3%82%af%e3%82%bd%e8%a3%9c%e5%a1%ab) | N/A |
-| 38 | [TOP9](http://twitter.com/search?q=TOP9) | N/A |
-| 39 | [ミッドサマー](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%83%89%e3%82%b5%e3%83%9e%e3%83%bc) | ミッドサマー is a Japanese term that translates to "mid-summer". It is used to refer to the period of time in the summer when the weather is at its hottest. |
-| 40 | [ソウォン](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%82%a9%e3%83%b3) | N/A |
-| 41 | [ケンミンショー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%9f%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%bc) | ケンミンショー is a Japanese variety show hosted by comedians Ken Shimura and Masatoshi Hamada. The show has been running since 1989 and features various celebrity guests, comedy skits, and game shows. In English, the show is known as "Kenmin Show". |
-| 42 | [アイナちゃん大丈夫](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 43 | [ソンミン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
-| 44 | [イジョンヒョン](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 45 | [集合体恐怖症](http://twitter.com/search?q=%e9%9b%86%e5%90%88%e4%bd%93%e6%81%90%e6%80%96%e7%97%87) | N/A |
-| 46 | [テイフェス](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 47 | [旭ポン酢](http://twitter.com/search?q=%e6%97%ad%e3%83%9d%e3%83%b3%e9%85%a2) | N/A |
-| 48 | [カムデン](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%87%e3%83%b3) | N/A |
+| 1 | [#コアラジ](http://twitter.com/search?q=%23%e3%82%b3%e3%82%a2%e3%83%a9%e3%82%b8) | N/A |
+| 2 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 3 | [カミナリ](http://twitter.com/search?q=%e3%82%ab%e3%83%9f%e3%83%8a%e3%83%aa) | N/A |
+| 4 | [ライアー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%bc) | N/A |
+| 5 | [グリッドマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 6 | [宇野くん](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e3%81%8f%e3%82%93) | 宇野くん is a Japanese nickname for someone whose given name is Ueno. It is a term of endearment, similar to calling someone "Ueno-kun" in English. |
+| 7 | [リッキー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | リッキー (Rikki) is a Japanese given name, usually used for boys. It is derived from the English name Ricky and can be translated to mean "powerful ruler". |
+| 8 | [ジュンファン](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 9 | [#麺飯位決定戦](http://twitter.com/search?q=%23%e9%ba%ba%e9%a3%af%e4%bd%8d%e6%b1%ba%e5%ae%9a%e6%88%a6) | N/A |
+| 10 | [アトラクトライト](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%a9%e3%82%af%e3%83%88%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 11 | [マリニン](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8b%e3%83%b3) | マリニン is a type of Japanese candy made from maltose syrup and starch. It is usually shaped into small balls or cubes and has a sweet, chewy texture. The name comes from the Japanese words "mari" (ball) and "nin" (sticky). In English, it can be translated as "sticky ball candy". |
+| 12 | [友野くん](http://twitter.com/search?q=%e5%8f%8b%e9%87%8e%e3%81%8f%e3%82%93) | 友野くん is a Japanese nickname for boys. It is derived from the words "tomoni" (meaning "together") and "no" (meaning "field"). The literal translation of 友野くん is "together in the field". |
+| 13 | [まっすー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%99%e3%83%bc) | まっすー is an abbreviation of the Japanese phrase "まずはすべて" which means "first of all". It is often used as a way to introduce a topic or idea. |
+| 14 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 15 | [エルデンリング](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%87%e3%83%b3%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
+| 16 | [神奈川県民](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e6%b0%91) | N/A |
+| 17 | [#あなたを野球のポジションに例える](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e9%87%8e%e7%90%83%e3%81%ae%e3%83%9d%e3%82%b8%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b) | N/A |
+| 18 | [栗山さん](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
+| 19 | [アズレン](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%ac%e3%83%b3) | N/A |
+| 20 | [神奈川県知事選](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e7%9f%a5%e4%ba%8b%e9%81%b8) | N/A |
+| 21 | [#世界フィギュア](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
+| 22 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
+| 23 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [ログイン](http://twitter.com/search?q=%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3) | ログイン is a Japanese word meaning "login" in English. It is used to refer to the process of entering a username and password to gain access to a website or other online service. |
+| 25 | [全身麻酔](http://twitter.com/search?q=%e5%85%a8%e8%ba%ab%e9%ba%bb%e9%85%94) | N/A |
+| 26 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 27 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
+| 28 | [ムンジョンヒョン](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 29 | [アントニー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%8b%e3%83%bc) | アントニー is the Japanese version of the name Anthony. It is a masculine given name of Latin origin, derived from Antonius, a Roman family name. The meaning of Anthony in English is "priceless one". |
+| 30 | [必勝しゃもじ](http://twitter.com/search?q=%e5%bf%85%e5%8b%9d%e3%81%97%e3%82%83%e3%82%82%e3%81%98) | N/A |
+| 31 | [ソンミン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
+| 32 | [アイナちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [TOP9](http://twitter.com/search?q=TOP9) | N/A |
+| 34 | [深海少女](http://twitter.com/search?q=%e6%b7%b1%e6%b5%b7%e5%b0%91%e5%a5%b3) | N/A |
+| 35 | [おこちゃま戦争](http://twitter.com/search?q=%e3%81%8a%e3%81%93%e3%81%a1%e3%82%83%e3%81%be%e6%88%a6%e4%ba%89) | N/A |
+| 36 | [ハンビン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
+| 37 | [ガイさん](http://twitter.com/search?q=%e3%82%ac%e3%82%a4%e3%81%95%e3%82%93) | N/A |
+| 38 | [君のまま](http://twitter.com/search?q=%e5%90%9b%e3%81%ae%e3%81%be%e3%81%be) | N/A |
+| 39 | [プロセカ](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%bb%e3%82%ab) | プロセカ is a Japanese word that means "process". It is used to refer to a process or procedure that needs to be followed in order to achieve a certain goal. |
+| 40 | [アイナ大丈夫](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 41 | [ユンジョンウ](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a6) | N/A |
+| 42 | [アイナさん](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e3%81%95%e3%82%93) | N/A |
+| 43 | [イェダム](http://twitter.com/search?q=%e3%82%a4%e3%82%a7%e3%83%80%e3%83%a0) | N/A |
+| 44 | [栗山監督の話](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3%e3%81%ae%e8%a9%b1) | N/A |
+| 45 | [アニポケ最終回](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
+| 46 | [スノーマン](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 47 | [ヤケクソ補填](http://twitter.com/search?q=%e3%83%a4%e3%82%b1%e3%82%af%e3%82%bd%e8%a3%9c%e5%a1%ab) | N/A |
+| 48 | [集合体恐怖症](http://twitter.com/search?q=%e9%9b%86%e5%90%88%e4%bd%93%e6%81%90%e6%80%96%e7%97%87) | N/A |
 
 
 

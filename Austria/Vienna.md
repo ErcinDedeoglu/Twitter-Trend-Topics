@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-23 14:18:08 UTC`
+📆 Last Updated: `2023-03-23 15:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Austria](</Austria>)
 | 9 | [Einmalzahlung](http://twitter.com/search?q=Einmalzahlung) | N/A |
 | 10 | [Zuschuss](http://twitter.com/search?q=Zuschuss) | N/A |
 | 11 | [Almosen](http://twitter.com/search?q=Almosen) | N/A |
-| 12 | [Drittel](http://twitter.com/search?q=Drittel) | N/A |
-| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
 | 14 | [Syrer](http://twitter.com/search?q=Syrer) | N/A |
-| 15 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 16 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 17 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 18 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
-| 19 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 20 | [unternehmer](http://twitter.com/search?q=unternehmer) | N/A |
-| 21 | [Stellungnahme](http://twitter.com/search?q=Stellungnahme) | N/A |
-| 22 | [#oevpgameover](http://twitter.com/search?q=%23oevpgameover) | N/A |
-| 23 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 24 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
-| 25 | [#weltwassertag](http://twitter.com/search?q=%23weltwassertag) | N/A |
+| 15 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 16 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
+| 17 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 18 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 19 | [unternehmer](http://twitter.com/search?q=unternehmer) | N/A |
+| 20 | [Stellungnahme](http://twitter.com/search?q=Stellungnahme) | N/A |
+| 21 | [#oevpgameover](http://twitter.com/search?q=%23oevpgameover) | N/A |
+| 22 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 23 | [radwege](http://twitter.com/search?q=radwege) | N/A |
+| 24 | [#weltwassertag](http://twitter.com/search?q=%23weltwassertag) | N/A |
+| 25 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
 | 26 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 27 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 28 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 29 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 30 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
-| 31 | [Mittelschicht](http://twitter.com/search?q=Mittelschicht) | N/A |
-| 32 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 33 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 34 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 35 | [Verhetzung](http://twitter.com/search?q=Verhetzung) | N/A |
-| 36 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 37 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 38 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 39 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 40 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 41 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 27 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 28 | [Mittelschicht](http://twitter.com/search?q=Mittelschicht) | N/A |
+| 29 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
+| 30 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 31 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 32 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 33 | [Verhetzung](http://twitter.com/search?q=Verhetzung) | N/A |
+| 34 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 35 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 36 | [kowall](http://twitter.com/search?q=kowall) | N/A |
+| 37 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 38 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
+| 39 | [Haushalte](http://twitter.com/search?q=Haushalte) | N/A |
+| 40 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 41 | [Schönen Nachmittag](http://twitter.com/search?q=Sch%c3%b6nen+Nachmittag) | N/A |
 | 42 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 43 | [Standler](http://twitter.com/search?q=Standler) | N/A |
 | 44 | [Stadt Wien](http://twitter.com/search?q=Stadt+Wien) | N/A |
-| 45 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 46 | [hetze](http://twitter.com/search?q=hetze) | N/A |
-| 47 | [Wirtschaftspartei](http://twitter.com/search?q=Wirtschaftspartei) | N/A |
-| 48 | [Haushalte](http://twitter.com/search?q=Haushalte) | N/A |
-| 49 | [reichsbürger](http://twitter.com/search?q=reichsb%c3%bcrger) | N/A |
-| 50 | [Schellhorn](http://twitter.com/search?q=Schellhorn) | N/A |
+| 45 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
+| 46 | [Bewerbung](http://twitter.com/search?q=Bewerbung) | N/A |
+| 47 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
+| 48 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 49 | [Schellhorn](http://twitter.com/search?q=Schellhorn) | N/A |
+| 50 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-23 14:18:01 UTC`
+📆 Last Updated: `2023-03-23 15:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 2 | [#TatuameMaxiCarreras](http://twitter.com/search?q=%23TatuameMaxiCarreras) | N/A |
-| 3 | [ANSES](http://twitter.com/search?q=ANSES) | N/A |
-| 4 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 5 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
-| 6 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [#ConLosJubiladosNo](http://twitter.com/search?q=%23ConLosJubiladosNo) | N/A |
-| 9 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 10 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 11 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 12 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 13 | [EDELP](http://twitter.com/search?q=EDELP) | N/A |
-| 14 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Corazza](http://twitter.com/search?q=Corazza) | N/A |
-| 17 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 18 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 19 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 20 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 21 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 23 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 24 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 25 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 26 | [Palmira](http://twitter.com/search?q=Palmira) | N/A |
-| 27 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
-| 28 | [Guede](http://twitter.com/search?q=Guede) | N/A |
-| 29 | [Mundial 2023](http://twitter.com/search?q=Mundial+2023) | N/A |
-| 30 | [Marcelo D'Alessandro](http://twitter.com/search?q=Marcelo+D%27Alessandro) | N/A |
-| 31 | [PARQUE SARMIENTO](http://twitter.com/search?q=PARQUE+SARMIENTO) | N/A |
-| 32 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 33 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 34 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 35 | [Chad](http://twitter.com/search?q=Chad) | N/A |
-| 36 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 37 | [CIPOL](http://twitter.com/search?q=CIPOL) | N/A |
-| 38 | [Luis Caffarelli](http://twitter.com/search?q=Luis+Caffarelli) | N/A |
-| 39 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
-| 40 | [Palomar](http://twitter.com/search?q=Palomar) | N/A |
-| 41 | [el reino](http://twitter.com/search?q=el+reino) | N/A |
-| 42 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 43 | [Turbia](http://twitter.com/search?q=Turbia) | N/A |
-| 44 | [igualan](http://twitter.com/search?q=igualan) | N/A |
-| 45 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 46 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 47 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 48 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 49 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 50 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
+| 1 | [#TatuameMaxiCarreras](http://twitter.com/search?q=%23TatuameMaxiCarreras) | N/A |
+| 2 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 3 | [Lizy](http://twitter.com/search?q=Lizy) | N/A |
+| 4 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 6 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 7 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 8 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 9 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
+| 10 | [EDELP](http://twitter.com/search?q=EDELP) | N/A |
+| 11 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 12 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 13 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 14 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
+| 15 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 18 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 19 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
+| 20 | [Acuario](http://twitter.com/search?q=Acuario) | N/A |
+| 21 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 22 | [Campeones del Mundo](http://twitter.com/search?q=Campeones+del+Mundo) | N/A |
+| 23 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 24 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 25 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
+| 26 | [D'Alessandro](http://twitter.com/search?q=D%27Alessandro) | N/A |
+| 27 | [Verón](http://twitter.com/search?q=Ver%c3%b3n) | N/A |
+| 28 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 29 | [ANSES](http://twitter.com/search?q=ANSES) | N/A |
+| 30 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 31 | [#SociosDelEspectaculo](http://twitter.com/search?q=%23SociosDelEspectaculo) | N/A |
+| 32 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 33 | [#ConLosJubiladosNo](http://twitter.com/search?q=%23ConLosJubiladosNo) | N/A |
+| 34 | [#MemoriaVerdadYJusticia](http://twitter.com/search?q=%23MemoriaVerdadYJusticia) | N/A |
+| 35 | [#caballerodedia](http://twitter.com/search?q=%23caballerodedia) | N/A |
+| 36 | [#Haters](http://twitter.com/search?q=%23Haters) | N/A |
+| 37 | [#NuncaMás](http://twitter.com/search?q=%23NuncaM%c3%a1s) | N/A |
+| 38 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 39 | [#24deMarzo](http://twitter.com/search?q=%2324deMarzo) | N/A |
+| 40 | [#Messi](http://twitter.com/search?q=%23Messi) | N/A |
 
 
 

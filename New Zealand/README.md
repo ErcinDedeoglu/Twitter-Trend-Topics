@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-23 14:19:02 UTC`
+📆 Last Updated: `2023-03-23 15:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for New Zealand
 | 10 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 11 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 12 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 13 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
+| 13 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
 | 14 | [local government nz](http://twitter.com/search?q=local+government+nz) | N/A |
-| 15 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 16 | [immigration nz](http://twitter.com/search?q=immigration+nz) | N/A |
+| 15 | [immigration nz](http://twitter.com/search?q=immigration+nz) | N/A |
+| 16 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 17 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
 | 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 19 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for New Zealand
 | 21 | [golriz](http://twitter.com/search?q=golriz) | N/A |
 | 22 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
 | 23 | [#plunketshield](http://twitter.com/search?q=%23plunketshield) | N/A |
-| 24 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 25 | [gender minorities aotearoa](http://twitter.com/search?q=gender+minorities+aotearoa) | N/A |
-| 26 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 27 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 28 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 29 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 30 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
-| 31 | [Yawn](http://twitter.com/search?q=Yawn) | N/A |
-| 32 | [Razor](http://twitter.com/search?q=Razor) | N/A |
-| 33 | [Molloy](http://twitter.com/search?q=Molloy) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [byron clark](http://twitter.com/search?q=byron+clark) | N/A |
-| 36 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
-| 37 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 39 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 40 | [#NewMusic](http://twitter.com/search?q=%23NewMusic) | N/A |
-| 41 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 42 | [Queer](http://twitter.com/search?q=Queer) | N/A |
-| 43 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
-| 44 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 45 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 46 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 47 | [Strange](http://twitter.com/search?q=Strange) | N/A |
-| 48 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 49 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 24 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 25 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 26 | [gender minorities aotearoa](http://twitter.com/search?q=gender+minorities+aotearoa) | N/A |
+| 27 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 28 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 29 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 30 | [Tova](http://twitter.com/search?q=Tova) | N/A |
+| 31 | [te whatu ora](http://twitter.com/search?q=te+whatu+ora) | N/A |
+| 32 | [Yawn](http://twitter.com/search?q=Yawn) | N/A |
+| 33 | [Razor](http://twitter.com/search?q=Razor) | N/A |
+| 34 | [molloy](http://twitter.com/search?q=molloy) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [byron clark](http://twitter.com/search?q=byron+clark) | N/A |
+| 37 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
+| 38 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 41 | [#newmusic](http://twitter.com/search?q=%23newmusic) | N/A |
+| 42 | [foxy](http://twitter.com/search?q=foxy) | N/A |
+| 43 | [queer](http://twitter.com/search?q=queer) | N/A |
+| 44 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
+| 45 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 46 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 47 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 48 | [Strange](http://twitter.com/search?q=Strange) | N/A |
+| 49 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 50 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 
 
 

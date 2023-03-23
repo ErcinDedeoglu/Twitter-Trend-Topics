@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-03-23 14:18:41 UTC`
+📆 Last Updated: `2023-03-23 15:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [India](</India>)
 | 1 | [#Viranjali2023](http://twitter.com/search?q=%23Viranjali2023) | N/A |
 | 2 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
 | 3 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 4 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
-| 5 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 6 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 7 | [#AmitShahAtIGNCA](http://twitter.com/search?q=%23AmitShahAtIGNCA) | N/A |
+| 4 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 5 | [#shameonyouadda247](http://twitter.com/search?q=%23shameonyouadda247) | N/A |
+| 6 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
+| 7 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
 | 8 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
 | 9 | [चांद मुबारक](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%82%e0%a4%a6+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
 | 10 | [माहे रमज़ान](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8) | N/A |
 | 11 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 12 | [Block Inc](http://twitter.com/search?q=Block+Inc) | N/A |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 15 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 16 | [Mahesh Babu](http://twitter.com/search?q=Mahesh+Babu) | N/A |
-| 17 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 18 | [BHOLAA ACTION SEQUENCE](http://twitter.com/search?q=BHOLAA+ACTION+SEQUENCE) | N/A |
-| 19 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 20 | [दिल्ली प्रदेश](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 21 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 22 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 23 | [सम्राट चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 25 | [राजस्थान प्रदेश](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 26 | [Bail](http://twitter.com/search?q=Bail) | N/A |
-| 27 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 28 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 29 | [बिहार विधान परिषद](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 30 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 31 | [जेल जाओ](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%93) | N/A |
-| 32 | [श्री वीरेंद्र सचदेवा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b5%e0%a5%80%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%9a%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 33 | [भारतीय जनता पार्टी राजस्थान](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
-| 34 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
-| 35 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 36 | [श्री मनमोहन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8) | N/A |
-| 37 | [बिहार प्रदेश](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 38 | [#TheCrewBehindLEO](http://twitter.com/search?q=%23TheCrewBehindLEO) | N/A |
-| 39 | [#ThalapathyVijay𓃵](http://twitter.com/search?q=%23ThalapathyVijay%f0%93%83%b5) | N/A |
-| 40 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
+| 12 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
+| 13 | [Block Inc](http://twitter.com/search?q=Block+Inc) | N/A |
+| 14 | [Vote for MB](http://twitter.com/search?q=Vote+for+MB) | N/A |
+| 15 | [Mahesh Anna](http://twitter.com/search?q=Mahesh+Anna) | N/A |
+| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 17 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
+| 18 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 19 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 20 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 21 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 22 | [BHOLAA ACTION SEQUENCE](http://twitter.com/search?q=BHOLAA+ACTION+SEQUENCE) | N/A |
+| 23 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 24 | [राजस्थान प्रदेश](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 25 | [दिल्ली प्रदेश](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 26 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 27 | [श्री सम्राट चौधरी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 29 | [Modis](http://twitter.com/search?q=Modis) | N/A |
+| 30 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 31 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 32 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 33 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 34 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 35 | [श्री वीरेंद्र सचदेवा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b5%e0%a5%80%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%9a%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
+| 36 | [भारतीय जनता पार्टी राजस्थान](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
+| 37 | [C. Voice Focus](http://twitter.com/search?q=C.+Voice+Focus) | N/A |
+| 38 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 39 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
+| 40 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
 | 41 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
-| 42 | [#Accenture](http://twitter.com/search?q=%23Accenture) | N/A |
-| 43 | [#missindiaawardsnight2023](http://twitter.com/search?q=%23missindiaawardsnight2023) | N/A |
-| 44 | [#AmendPCA](http://twitter.com/search?q=%23AmendPCA) | N/A |
-| 45 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
-| 46 | [#KashmirScheduleWrap](http://twitter.com/search?q=%23KashmirScheduleWrap) | N/A |
-| 47 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
-| 48 | [#PleaseModiJi](http://twitter.com/search?q=%23PleaseModiJi) | N/A |
-| 49 | [#WeWantKiccha46Update](http://twitter.com/search?q=%23WeWantKiccha46Update) | N/A |
-| 50 | [#Kushi](http://twitter.com/search?q=%23Kushi) | N/A |
+| 42 | [#AmendPCA](http://twitter.com/search?q=%23AmendPCA) | N/A |
+| 43 | [#ThalapathyVijay𓃵](http://twitter.com/search?q=%23ThalapathyVijay%f0%93%83%b5) | N/A |
+| 44 | [#amitshahatignca](http://twitter.com/search?q=%23amitshahatignca) | N/A |
+| 45 | [#TheCrewBehindLEO](http://twitter.com/search?q=%23TheCrewBehindLEO) | N/A |
+| 46 | [#PleaseModiJi](http://twitter.com/search?q=%23PleaseModiJi) | N/A |
+| 47 | [#Accenture](http://twitter.com/search?q=%23Accenture) | N/A |
+| 48 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
+| 49 | [#missindiaawardsnight2023](http://twitter.com/search?q=%23missindiaawardsnight2023) | N/A |
+| 50 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
 
 
 

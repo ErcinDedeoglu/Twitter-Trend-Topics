@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-23 14:17:56 UTC`
+📆 Last Updated: `2023-03-23 15:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 2 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 4 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 5 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 6 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 1 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 2 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 3 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 4 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 5 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 7 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 8 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 9 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 10 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 11 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
-| 12 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
-| 13 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 14 | [Sedgefield](http://twitter.com/search?q=Sedgefield) | N/A |
-| 15 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 16 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 17 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
-| 18 | [Moffat](http://twitter.com/search?q=Moffat) | N/A |
-| 19 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 20 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 21 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 22 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 23 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 24 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
-| 25 | [Spotlight](http://twitter.com/search?q=Spotlight) | N/A |
-| 26 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 27 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 28 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
-| 29 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 30 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 31 | [Venn](http://twitter.com/search?q=Venn) | N/A |
-| 32 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 33 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 34 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 35 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 38 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
-| 39 | [#worldmathsday](http://twitter.com/search?q=%23worldmathsday) | N/A |
-| 40 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 41 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
-| 42 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
-| 43 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 44 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 8 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 10 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
+| 11 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
+| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 13 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 14 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 15 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
+| 16 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 17 | [Sedgefield](http://twitter.com/search?q=Sedgefield) | N/A |
+| 18 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 19 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
+| 20 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 21 | [Moffat](http://twitter.com/search?q=Moffat) | N/A |
+| 22 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
+| 23 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 24 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 25 | [sorcha](http://twitter.com/search?q=sorcha) | N/A |
+| 26 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 27 | [Spotlight](http://twitter.com/search?q=Spotlight) | N/A |
+| 28 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 29 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 30 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 31 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 35 | [Agile](http://twitter.com/search?q=Agile) | N/A |
+| 36 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 37 | [#worldmathsday](http://twitter.com/search?q=%23worldmathsday) | N/A |
+| 38 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 39 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
+| 40 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
+| 41 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 42 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 43 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
+| 44 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
 | 45 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
-| 46 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
-| 47 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 49 | [#ToriesOut259](http://twitter.com/search?q=%23ToriesOut259) | N/A |
+| 46 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 47 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 48 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
+| 49 | [#WxmAFC](http://twitter.com/search?q=%23WxmAFC) | N/A |
 
 
 

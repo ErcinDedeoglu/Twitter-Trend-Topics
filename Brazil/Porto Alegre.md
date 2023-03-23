@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-23 14:18:05 UTC`
+📆 Last Updated: `2023-03-23 15:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 3 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 4 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 5 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
-| 6 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 3 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 4 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 6 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
 | 7 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 8 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 9 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 10 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 11 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 12 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 13 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 14 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 15 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
-| 16 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 17 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 18 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 19 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 20 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 21 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 22 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 23 | [Greve](http://twitter.com/search?q=Greve) | N/A |
-| 24 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 25 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 26 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 27 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
-| 28 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 29 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
-| 30 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 31 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
-| 32 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
-| 33 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 34 | [Costa do Marfim](http://twitter.com/search?q=Costa+do+Marfim) | N/A |
-| 35 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 36 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 37 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 38 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
-| 39 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 40 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 41 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 42 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 43 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 44 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
-| 45 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 46 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
-| 47 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 48 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 49 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 50 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
+| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 9 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 10 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 11 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 12 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 13 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 14 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 15 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 16 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
+| 17 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 18 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
+| 19 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 22 | [São João de Patos](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Patos) | N/A |
+| 23 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 24 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 25 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 26 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
+| 27 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 28 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 29 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 30 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
+| 31 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 32 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
+| 33 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 34 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 35 | [Junhyeon](http://twitter.com/search?q=Junhyeon) | N/A |
+| 36 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
+| 37 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 38 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 39 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
+| 40 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 41 | [Tirei Você](http://twitter.com/search?q=Tirei+Voc%c3%aa) | N/A |
+| 42 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 43 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
+| 44 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 45 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 46 | [Greve](http://twitter.com/search?q=Greve) | N/A |
+| 47 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 48 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
+| 49 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
 
 
 
