@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-23 21:17:28 UTC`
+📆 Last Updated: `2023-03-23 22:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 3 | [England](http://twitter.com/search?q=England) | N/A |
-| 4 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 2 | [England](http://twitter.com/search?q=England) | N/A |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 5 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 6 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 7 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 8 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 10 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 12 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
-| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 16 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 17 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 18 | [Italians](http://twitter.com/search?q=Italians) | N/A |
-| 19 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
-| 20 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 21 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 22 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 23 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 24 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 25 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
-| 26 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
-| 27 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 28 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 29 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
-| 30 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 31 | [God Save the King](http://twitter.com/search?q=God+Save+the+King) | N/A |
-| 32 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
-| 33 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
-| 34 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 35 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 36 | [Adidas kit](http://twitter.com/search?q=Adidas+kit) | N/A |
-| 37 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 38 | [John Stones](http://twitter.com/search?q=John+Stones) | John Stones is a professional English footballer who plays as a centre-back for Premier League club Manchester City and the England national team. He is known for his ability to read the game, passing accuracy, and composure on the ball. |
-| 39 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 40 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 41 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 42 | [James Richardson](http://twitter.com/search?q=James+Richardson) | N/A |
-| 43 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 45 | [Homes Under the Hammer](http://twitter.com/search?q=Homes+Under+the+Hammer) | N/A |
-| 46 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 47 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 48 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 49 | [#SLHudStH](http://twitter.com/search?q=%23SLHudStH) | N/A |
-| 50 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 11 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 12 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 13 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
+| 14 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 15 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 16 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 17 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 18 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 19 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 20 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 21 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
+| 22 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 23 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 24 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 25 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 26 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 27 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 28 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 29 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 30 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 31 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 32 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 35 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 36 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 37 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 38 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 39 | [Jon Wilkin](http://twitter.com/search?q=Jon+Wilkin) | N/A |
+| 40 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 41 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
+| 42 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 43 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
+| 44 | [Jake Connor](http://twitter.com/search?q=Jake+Connor) | N/A |
+| 45 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 46 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 47 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 48 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
+| 49 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 50 | [#SLHudStH](http://twitter.com/search?q=%23SLHudStH) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-23 21:17:01 UTC`
+📆 Last Updated: `2023-03-23 22:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
 | 2 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
-| 3 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
+| 3 | [#guccihorsebit1955](http://twitter.com/search?q=%23guccihorsebit1955) | N/A |
 | 4 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 5 | [Loom](http://twitter.com/search?q=Loom) | N/A |
 | 6 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
-| 7 | [parfum](http://twitter.com/search?q=parfum) | N/A |
+| 7 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
 | 8 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
 | 9 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
 | 10 | [Claim](http://twitter.com/search?q=Claim) | N/A |
@@ -33,9 +33,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 16 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 18 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 19 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 20 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 21 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
+| 21 | [trông](http://twitter.com/search?q=tr%c3%b4ng) | N/A |
 | 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 23 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
@@ -55,14 +55,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 39 | [West](http://twitter.com/search?q=West) | N/A |
 | 40 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 41 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 41 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
 | 42 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 43 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 44 | [Childe](http://twitter.com/search?q=Childe) | N/A |
-| 45 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 45 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
 | 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 47 | [đông lào](http://twitter.com/search?q=%c4%91%c3%b4ng+l%c3%a0o) | N/A |
-| 48 | [Mong](http://twitter.com/search?q=Mong) | N/A |
+| 48 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
 
 
 

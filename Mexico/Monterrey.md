@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-23 21:16:38 UTC`
+📆 Last Updated: `2023-03-23 22:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 4 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 5 | [Luis Donaldo Colosio](http://twitter.com/search?q=Luis+Donaldo+Colosio) | N/A |
-| 6 | [#ProhibidoProhibir](http://twitter.com/search?q=%23ProhibidoProhibir) | N/A |
-| 7 | [Casa Virginia](http://twitter.com/search?q=Casa+Virginia) | N/A |
-| 8 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 9 | [Ciudad Mujeres](http://twitter.com/search?q=Ciudad+Mujeres) | N/A |
-| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [#SanMateoAtenco](http://twitter.com/search?q=%23SanMateoAtenco) | N/A |
-| 12 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 13 | [#Aliens](http://twitter.com/search?q=%23Aliens) | N/A |
-| 14 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 15 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 16 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 17 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 18 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
-| 19 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 20 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 21 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
-| 22 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 23 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 24 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Acuario](http://twitter.com/search?q=Acuario) | N/A |
-| 29 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 30 | [Calica](http://twitter.com/search?q=Calica) | N/A |
-| 31 | [Aeroméxico](http://twitter.com/search?q=Aerom%c3%a9xico) | N/A |
-| 32 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 33 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 34 | [Plutón](http://twitter.com/search?q=Plut%c3%b3n) | N/A |
-| 35 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 36 | [Senado de la República](http://twitter.com/search?q=Senado+de+la+Rep%c3%bablica) | N/A |
-| 37 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 38 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 39 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 40 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 41 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 42 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
-| 43 | [Añorve](http://twitter.com/search?q=A%c3%b1orve) | N/A |
-| 44 | [#NormaRaPiñaMalverde](http://twitter.com/search?q=%23NormaRaPi%c3%b1aMalverde) | N/A |
+| 3 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 7 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 8 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 9 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 10 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 11 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 12 | [#ProhibidoProhibir](http://twitter.com/search?q=%23ProhibidoProhibir) | N/A |
+| 13 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
+| 14 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 15 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 16 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 17 | [Casa Virginia](http://twitter.com/search?q=Casa+Virginia) | N/A |
+| 18 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 19 | [#SanMateoAtenco](http://twitter.com/search?q=%23SanMateoAtenco) | N/A |
+| 20 | [#Aliens](http://twitter.com/search?q=%23Aliens) | N/A |
+| 21 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 22 | [Ciudad Mujeres](http://twitter.com/search?q=Ciudad+Mujeres) | N/A |
+| 23 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 24 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
+| 25 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
+| 26 | [Diego Alonso](http://twitter.com/search?q=Diego+Alonso) | N/A |
+| 27 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 28 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
+| 31 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 32 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 34 | [Calica](http://twitter.com/search?q=Calica) | N/A |
+| 35 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 36 | [Acuario](http://twitter.com/search?q=Acuario) | N/A |
+| 37 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 38 | [Plutón](http://twitter.com/search?q=Plut%c3%b3n) | N/A |
+| 39 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 40 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 41 | [Senado de la República](http://twitter.com/search?q=Senado+de+la+Rep%c3%bablica) | N/A |
+| 42 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 43 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 44 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
 | 45 | [#ChileSeguro](http://twitter.com/search?q=%23ChileSeguro) | N/A |
-| 46 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 47 | [#Ovnis](http://twitter.com/search?q=%23Ovnis) | N/A |
-| 48 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 49 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
-| 50 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
+| 46 | [#Ovnis](http://twitter.com/search?q=%23Ovnis) | N/A |
+| 47 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 48 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 49 | [#DosBocas](http://twitter.com/search?q=%23DosBocas) | N/A |
+| 50 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
 
 
 

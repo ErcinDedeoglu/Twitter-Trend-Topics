@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-23 21:17:00 UTC`
+📆 Last Updated: `2023-03-23 22:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
 | 2 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
-| 3 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
+| 3 | [#guccihorsebit1955](http://twitter.com/search?q=%23guccihorsebit1955) | N/A |
 | 4 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 5 | [Loom](http://twitter.com/search?q=Loom) | N/A |
 | 6 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
 | 7 | [#ชาล็อตอุ้มxโสมควีน](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%b8%e0%b9%89%e0%b8%a1x%e0%b9%82%e0%b8%aa%e0%b8%a1%e0%b8%84%e0%b8%a7%e0%b8%b5%e0%b8%99) | N/A |
-| 8 | [parfum](http://twitter.com/search?q=parfum) | N/A |
+| 8 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
 | 9 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
 | 10 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
 | 11 | [Claim](http://twitter.com/search?q=Claim) | N/A |
@@ -34,9 +34,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 17 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 19 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 20 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 20 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 21 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 22 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
+| 22 | [trông](http://twitter.com/search?q=tr%c3%b4ng) | N/A |
 | 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 24 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
@@ -56,15 +56,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 39 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 40 | [West](http://twitter.com/search?q=West) | N/A |
 | 41 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 42 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 42 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
 | 43 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 44 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 45 | [Childe](http://twitter.com/search?q=Childe) | N/A |
-| 46 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 46 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
 | 47 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 48 | [đông lào](http://twitter.com/search?q=%c4%91%c3%b4ng+l%c3%a0o) | N/A |
-| 49 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 50 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 49 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 50 | [Mong](http://twitter.com/search?q=Mong) | N/A |
 
 
 

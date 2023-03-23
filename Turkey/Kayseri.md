@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-23 21:17:12 UTC`
+📆 Last Updated: `2023-03-23 22:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
-| 2 | [#AstsubaylarElele](http://twitter.com/search?q=%23AstsubaylarElele) | N/A |
+| 2 | [#Ankara](http://twitter.com/search?q=%23Ankara) | N/A |
 | 3 | [#KHKlıyaNetÇözüm](http://twitter.com/search?q=%23KHKl%c4%b1yaNet%c3%87%c3%b6z%c3%bcm) | N/A |
-| 4 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 5 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
-| 6 | [AşktanKaçılmaz ElSed](http://twitter.com/search?q=A%c5%9fktanKa%c3%a7%c4%b1lmaz+ElSed) | N/A |
-| 7 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
-| 8 | [PiktesÖğr Kadroya](http://twitter.com/search?q=Piktes%c3%96%c4%9fr+Kadroya) | N/A |
-| 9 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
-| 10 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
-| 11 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 12 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 15 | [Candan](http://twitter.com/search?q=Candan) | N/A |
-| 16 | [ŞartsızTayin Şart](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+%c5%9eart) | N/A |
-| 17 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
-| 18 | [Imoco](http://twitter.com/search?q=Imoco) | N/A |
-| 19 | [Bora Aydınlık](http://twitter.com/search?q=Bora+Ayd%c4%b1nl%c4%b1k) | N/A |
-| 20 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
-| 21 | [Etimesgut](http://twitter.com/search?q=Etimesgut) | N/A |
-| 22 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 23 | [Nursi](http://twitter.com/search?q=Nursi) | N/A |
-| 24 | [Birkan Sokullu](http://twitter.com/search?q=Birkan+Sokullu) | N/A |
-| 25 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
-| 26 | [AşkDeğilHastalık ElSed](http://twitter.com/search?q=A%c5%9fkDe%c4%9filHastal%c4%b1k+ElSed) | N/A |
+| 4 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
+| 7 | [Etimesgut](http://twitter.com/search?q=Etimesgut) | N/A |
+| 8 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
+| 9 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 10 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 11 | [AşktanKaçılmaz ElSed](http://twitter.com/search?q=A%c5%9fktanKa%c3%a7%c4%b1lmaz+ElSed) | N/A |
+| 12 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 13 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
+| 14 | [PiktesÖğr Kadroya](http://twitter.com/search?q=Piktes%c3%96%c4%9fr+Kadroya) | N/A |
+| 15 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 16 | [Eryaman](http://twitter.com/search?q=Eryaman) | N/A |
+| 17 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 18 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
+| 19 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 20 | [Ergin Ataman](http://twitter.com/search?q=Ergin+Ataman) | N/A |
+| 21 | [Nursi](http://twitter.com/search?q=Nursi) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Meryem](http://twitter.com/search?q=Meryem) | N/A |
+| 24 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 25 | [Imoco](http://twitter.com/search?q=Imoco) | N/A |
+| 26 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
 | 27 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 28 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
-| 29 | [Bahçeliye](http://twitter.com/search?q=Bah%c3%a7eliye) | N/A |
-| 30 | [Bahçelinin](http://twitter.com/search?q=Bah%c3%a7elinin) | N/A |
-| 31 | [Altıncısı](http://twitter.com/search?q=Alt%c4%b1nc%c4%b1s%c4%b1) | N/A |
-| 32 | [23te](http://twitter.com/search?q=23te) | N/A |
-| 33 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 34 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
-| 35 | [Fuat Yıldırım](http://twitter.com/search?q=Fuat+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 36 | [Ali Tahir](http://twitter.com/search?q=Ali+Tahir) | N/A |
-| 37 | [Nalan](http://twitter.com/search?q=Nalan) | N/A |
-| 38 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
-| 39 | [Jin-Ho Jo](http://twitter.com/search?q=Jin-Ho+Jo) | N/A |
-| 40 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
-| 41 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 42 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
-| 43 | [Ebru Şahin](http://twitter.com/search?q=Ebru+%c5%9eahin) | N/A |
-| 44 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 28 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 29 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
+| 30 | [Candan](http://twitter.com/search?q=Candan) | N/A |
+| 31 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 32 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
+| 33 | [Bora Aydınlık](http://twitter.com/search?q=Bora+Ayd%c4%b1nl%c4%b1k) | N/A |
+| 34 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
+| 35 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 36 | [Birkan Sokullu](http://twitter.com/search?q=Birkan+Sokullu) | N/A |
+| 37 | [HADEP](http://twitter.com/search?q=HADEP) | N/A |
+| 38 | [Altıncısı](http://twitter.com/search?q=Alt%c4%b1nc%c4%b1s%c4%b1) | N/A |
+| 39 | [23te](http://twitter.com/search?q=23te) | N/A |
+| 40 | [Fuat Yıldırım](http://twitter.com/search?q=Fuat+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 41 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
+| 42 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
+| 43 | [Ali Tahir](http://twitter.com/search?q=Ali+Tahir) | N/A |
+| 44 | [Nalan](http://twitter.com/search?q=Nalan) | N/A |
 | 45 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
-| 46 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 47 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 48 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
+| 46 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
+| 47 | [Ebru Şahin](http://twitter.com/search?q=Ebru+%c5%9eahin) | N/A |
+| 48 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-23 21:16:53 UTC`
+📆 Last Updated: `2023-03-23 22:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 2 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
-| 5 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 6 | [#sawityowit](http://twitter.com/search?q=%23sawityowit) | N/A |
-| 7 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 8 | [#RAYAkanYourWay](http://twitter.com/search?q=%23RAYAkanYourWay) | N/A |
-| 9 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
-| 10 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 11 | [Negara](http://twitter.com/search?q=Negara) | N/A |
-| 12 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 13 | [choi seungcheol](http://twitter.com/search?q=choi+seungcheol) | N/A |
-| 14 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [Nescafe](http://twitter.com/search?q=Nescafe) | N/A |
-| 17 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 18 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 19 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 20 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [BEM UI](http://twitter.com/search?q=BEM+UI) | N/A |
-| 23 | [Tarawih](http://twitter.com/search?q=Tarawih) | N/A |
-| 24 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 25 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 26 | [Lluvia](http://twitter.com/search?q=Lluvia) | N/A |
-| 27 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 28 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 29 | [Ripith](http://twitter.com/search?q=Ripith) | N/A |
-| 30 | [Looke](http://twitter.com/search?q=Looke) | N/A |
-| 31 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 32 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 33 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 34 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 35 | [dugaan gratifikasi wamenkumham](http://twitter.com/search?q=dugaan+gratifikasi+wamenkumham) | N/A |
-| 36 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 38 | [naura](http://twitter.com/search?q=naura) | N/A |
-| 39 | [Pevita](http://twitter.com/search?q=Pevita) | N/A |
-| 40 | [100x super resolution zoom](http://twitter.com/search?q=100x+super+resolution+zoom) | N/A |
-| 41 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 42 | [Golda](http://twitter.com/search?q=Golda) | N/A |
-| 43 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 44 | [Spain 2010](http://twitter.com/search?q=Spain+2010) | N/A |
-| 45 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 46 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 47 | [MasyaAllah](http://twitter.com/search?q=MasyaAllah) | N/A |
-| 48 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 49 | [Tari](http://twitter.com/search?q=Tari) | N/A |
-| 50 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
+| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 8 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 9 | [#sawityowit](http://twitter.com/search?q=%23sawityowit) | N/A |
+| 10 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
+| 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 12 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 13 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 14 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 15 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 16 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 17 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [choi seungcheol](http://twitter.com/search?q=choi+seungcheol) | N/A |
+| 20 | [Tinggian](http://twitter.com/search?q=Tinggian) | N/A |
+| 21 | [Jadi Muslim Bertaqwa](http://twitter.com/search?q=Jadi+Muslim+Bertaqwa) | N/A |
+| 22 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 23 | [Negara](http://twitter.com/search?q=Negara) | N/A |
+| 24 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 25 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 26 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 27 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 28 | [Nescafe](http://twitter.com/search?q=Nescafe) | N/A |
+| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 34 | [BEM UI](http://twitter.com/search?q=BEM+UI) | N/A |
+| 35 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [Lluvia](http://twitter.com/search?q=Lluvia) | N/A |
+| 38 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 39 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 40 | [Looke](http://twitter.com/search?q=Looke) | N/A |
+| 41 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
+| 42 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 43 | [RiPith](http://twitter.com/search?q=RiPith) | N/A |
+| 44 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 45 | [Tarawih](http://twitter.com/search?q=Tarawih) | N/A |
+| 46 | [Naura](http://twitter.com/search?q=Naura) | N/A |
+| 47 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 48 | [dugaan gratifikasi wamenkumham](http://twitter.com/search?q=dugaan+gratifikasi+wamenkumham) | N/A |
+| 49 | [Relis](http://twitter.com/search?q=Relis) | N/A |
 
 
 

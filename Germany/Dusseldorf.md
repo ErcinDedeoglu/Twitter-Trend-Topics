@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-23 21:16:47 UTC`
+📆 Last Updated: `2023-03-23 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 4 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 7 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
-| 10 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 11 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 12 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 13 | [Gero](http://twitter.com/search?q=Gero) | N/A |
-| 14 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 15 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 16 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
-| 17 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 18 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 19 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 20 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 21 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 22 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 23 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 24 | [Unterwäsche](http://twitter.com/search?q=Unterw%c3%a4sche) | N/A |
-| 25 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 26 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 27 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 28 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 29 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 31 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 32 | [Rechnerisch](http://twitter.com/search?q=Rechnerisch) | N/A |
-| 33 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 34 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 35 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 36 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
-| 37 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 38 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 39 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 40 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 41 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
-| 42 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 43 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 44 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 45 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 46 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 47 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 48 | [Mahlzeiten](http://twitter.com/search?q=Mahlzeiten) | N/A |
-| 49 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 1 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
+| 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 5 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 7 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 8 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 9 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 11 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 12 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 15 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 16 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 19 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 20 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 21 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
+| 22 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 23 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 24 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 25 | [Unterwäsche](http://twitter.com/search?q=Unterw%c3%a4sche) | N/A |
+| 26 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
+| 27 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 28 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 29 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 30 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 31 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 32 | [#Kretschmer](http://twitter.com/search?q=%23Kretschmer) | N/A |
+| 33 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 34 | [#Paris](http://twitter.com/search?q=%23Paris) | #Paris is a hashtag used on social media platforms such as Twitter and Instagram. It is used to tag posts related to the city of Paris, France. It can also be used to tag posts related to the culture, people, and lifestyle of Paris. |
+| 35 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 36 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
+| 37 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 38 | [#Bremen](http://twitter.com/search?q=%23Bremen) | N/A |
+| 39 | [#Verdi](http://twitter.com/search?q=%23Verdi) | N/A |
 
 
 

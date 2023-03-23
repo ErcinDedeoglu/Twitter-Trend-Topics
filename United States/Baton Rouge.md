@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-03-23 21:17:13 UTC`
+📆 Last Updated: `2023-03-23 22:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 2 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 5 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 6 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 7 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 9 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
-| 10 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 12 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 13 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
-| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 15 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 16 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 17 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 18 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 19 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 20 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 21 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
-| 22 | [Breece](http://twitter.com/search?q=Breece) | N/A |
-| 23 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 24 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 25 | [England](http://twitter.com/search?q=England) | N/A |
-| 26 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 27 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 29 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 30 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 31 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 32 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 33 | [Big Shark](http://twitter.com/search?q=Big+Shark) | N/A |
-| 34 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 35 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 36 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
-| 37 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 38 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 39 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 40 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 41 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 42 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
-| 43 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 44 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 45 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
-| 46 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 47 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 48 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
-| 49 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
+| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 8 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 10 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 11 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 12 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 13 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 14 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 15 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
+| 16 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 17 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
+| 18 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 19 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
+| 20 | [England](http://twitter.com/search?q=England) | N/A |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 24 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
+| 25 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 26 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 27 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 28 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 29 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 30 | [Breece](http://twitter.com/search?q=Breece) | N/A |
+| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 32 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 33 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 34 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 35 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 36 | [Tommy Wiseau](http://twitter.com/search?q=Tommy+Wiseau) | N/A |
+| 37 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 38 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 39 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 40 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 41 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 42 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
+| 43 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 44 | [Big Shark](http://twitter.com/search?q=Big+Shark) | N/A |
+| 45 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 46 | [GO WHITE](http://twitter.com/search?q=GO+WHITE) | N/A |
+| 47 | [Saint Omni](http://twitter.com/search?q=Saint+Omni) | N/A |
+| 48 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 49 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
 
 
 

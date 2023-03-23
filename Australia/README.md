@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-23 21:17:21 UTC`
+📆 Last Updated: `2023-03-23 22:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Australia
 | 1 | [#AFLBluesCats](http://twitter.com/search?q=%23AFLBluesCats) | N/A |
 | 2 | [#NRLEelsPanthers](http://twitter.com/search?q=%23NRLEelsPanthers) | N/A |
 | 3 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 4 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 7 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
-| 8 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 9 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 10 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 11 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 14 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
-| 15 | [Morning Narty](http://twitter.com/search?q=Morning+Narty) | N/A |
-| 16 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 17 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 18 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 19 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 20 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 22 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 23 | [Costello](http://twitter.com/search?q=Costello) | N/A |
-| 24 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 25 | [charlie curnow](http://twitter.com/search?q=charlie+curnow) | N/A |
-| 26 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
-| 27 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
-| 28 | [mitch moses](http://twitter.com/search?q=mitch+moses) | N/A |
-| 29 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
-| 30 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
-| 31 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 32 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 33 | [first peoples of australia](http://twitter.com/search?q=first+peoples+of+australia) | N/A |
-| 34 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
-| 35 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 36 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 37 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 38 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 39 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 40 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [gutho](http://twitter.com/search?q=gutho) | N/A |
-| 43 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 45 | [jervis bay](http://twitter.com/search?q=jervis+bay) | N/A |
-| 46 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
+| 4 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 5 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
+| 6 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 9 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 10 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 11 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [Tarryn Thomas](http://twitter.com/search?q=Tarryn+Thomas) | N/A |
+| 15 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 16 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 17 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 19 | [Morning Narty](http://twitter.com/search?q=Morning+Narty) | N/A |
+| 20 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 21 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 22 | [Peter Costello](http://twitter.com/search?q=Peter+Costello) | N/A |
+| 23 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 24 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 25 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 26 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 28 | [CHARLIE CURNOW](http://twitter.com/search?q=CHARLIE+CURNOW) | N/A |
+| 29 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 30 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 31 | [Warren Mundine](http://twitter.com/search?q=Warren+Mundine) | N/A |
+| 32 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 33 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 34 | [England](http://twitter.com/search?q=England) | N/A |
+| 35 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 36 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
+| 37 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 38 | [Greg Craven](http://twitter.com/search?q=Greg+Craven) | N/A |
+| 39 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 40 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 41 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
+| 42 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 43 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 44 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 45 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 46 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 47 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 48 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 49 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
-| 50 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
+| 48 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
+| 49 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
+| 50 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
 
 
 

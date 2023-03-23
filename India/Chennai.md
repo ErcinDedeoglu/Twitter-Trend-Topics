@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-23 21:17:10 UTC`
+📆 Last Updated: `2023-03-23 22:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,38 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 2 | [#ThalapathyVijay𓃵](http://twitter.com/search?q=%23ThalapathyVijay%f0%93%83%b5) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
-| 6 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
+| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 6 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
 | 7 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 8 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 9 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
-| 10 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 11 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
-| 12 | [Happy Birthday Emraan Hashmi](http://twitter.com/search?q=Happy+Birthday+Emraan+Hashmi) | N/A |
+| 8 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
+| 9 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 10 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 11 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 12 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
 | 13 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 15 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 14 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 16 | [India With Rahul](http://twitter.com/search?q=India+With+Rahul) | N/A |
-| 17 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
+| 17 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
 | 18 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
 | 19 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 20 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 20 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 21 | [माहे रमज़ान](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8) | N/A |
-| 22 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 23 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 24 | [चांद मुबारक](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%82%e0%a4%a6+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 26 | [Modis](http://twitter.com/search?q=Modis) | N/A |
-| 27 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 28 | [#BoycottAdda247](http://twitter.com/search?q=%23BoycottAdda247) | N/A |
-| 29 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
-| 30 | [#AsiaCup2023](http://twitter.com/search?q=%23AsiaCup2023) | N/A |
-| 31 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
-| 32 | [#Virushka](http://twitter.com/search?q=%23Virushka) | N/A |
-| 33 | [#KeanuReeves](http://twitter.com/search?q=%23KeanuReeves) | N/A |
-| 34 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
-| 35 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
-| 36 | [#Accenture](http://twitter.com/search?q=%23Accenture) | N/A |
-| 37 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
-| 38 | [#RaghavChadha](http://twitter.com/search?q=%23RaghavChadha) | N/A |
-| 39 | [#AmendPCA](http://twitter.com/search?q=%23AmendPCA) | N/A |
-| 40 | [#ParineetiChopra](http://twitter.com/search?q=%23ParineetiChopra) | N/A |
-| 41 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
-| 42 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
-| 43 | [#PleaseModiJi](http://twitter.com/search?q=%23PleaseModiJi) | N/A |
-| 44 | [#MaheshBabu𓃵](http://twitter.com/search?q=%23MaheshBabu%f0%93%83%b5) | N/A |
-| 45 | [#ThalapathyVijay𓃵](http://twitter.com/search?q=%23ThalapathyVijay%f0%93%83%b5) | N/A |
-| 46 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 47 | [#WWCHDelhi](http://twitter.com/search?q=%23WWCHDelhi) | N/A |
+| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 23 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
+| 24 | [#KeanuReeves](http://twitter.com/search?q=%23KeanuReeves) | N/A |
+| 25 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
+| 26 | [#BoycottAdda247](http://twitter.com/search?q=%23BoycottAdda247) | N/A |
+| 27 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
+| 28 | [#Virushka](http://twitter.com/search?q=%23Virushka) | N/A |
+| 29 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
+| 30 | [#RaghavChadha](http://twitter.com/search?q=%23RaghavChadha) | N/A |
+| 31 | [#ParineetiChopra](http://twitter.com/search?q=%23ParineetiChopra) | N/A |
+| 32 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
+| 33 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
 
 
 

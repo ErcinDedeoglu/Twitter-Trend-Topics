@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-23 21:16:50 UTC`
+📆 Last Updated: `2023-03-23 22:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#firstdates23m](http://twitter.com/search?q=%23firstdates23m) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 4 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 5 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 6 | [#Pasapalabra731](http://twitter.com/search?q=%23Pasapalabra731) | N/A |
-| 7 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 8 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 9 | [#ElCazador687](http://twitter.com/search?q=%23ElCazador687) | N/A |
-| 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 11 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 12 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [Estrella Roja](http://twitter.com/search?q=Estrella+Roja) | N/A |
-| 15 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 16 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
-| 17 | [Burdeos](http://twitter.com/search?q=Burdeos) | N/A |
-| 18 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 19 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
-| 20 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 21 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 22 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 23 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 24 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
-| 25 | [Torrelodones](http://twitter.com/search?q=Torrelodones) | N/A |
-| 26 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 27 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
-| 28 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 29 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 30 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 31 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 32 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
-| 33 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 34 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 35 | [Mérida](http://twitter.com/search?q=M%c3%a9rida) | N/A |
-| 36 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 37 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 38 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
-| 39 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
-| 40 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
-| 41 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 42 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 43 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 44 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 45 | [#SVGala4](http://twitter.com/search?q=%23SVGala4) | N/A |
-| 46 | [#IFVillanuevaViver](http://twitter.com/search?q=%23IFVillanuevaViver) | N/A |
-| 47 | [#CrisPorta23M](http://twitter.com/search?q=%23CrisPorta23M) | N/A |
-| 48 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 1 | [#SVGala4](http://twitter.com/search?q=%23SVGala4) | N/A |
+| 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 5 | [#firstdates23m](http://twitter.com/search?q=%23firstdates23m) | N/A |
+| 6 | [#SanzEH](http://twitter.com/search?q=%23SanzEH) | N/A |
+| 7 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 8 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 9 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
+| 12 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 13 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 16 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 17 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 18 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
+| 19 | [Burdeos](http://twitter.com/search?q=Burdeos) | N/A |
+| 20 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 21 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 22 | [Clara Sánchez](http://twitter.com/search?q=Clara+S%c3%a1nchez) | N/A |
+| 23 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 24 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 25 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 26 | [Estrella Roja](http://twitter.com/search?q=Estrella+Roja) | N/A |
+| 27 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 28 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 30 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 31 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
+| 32 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
+| 33 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 34 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 35 | [Isa Pi](http://twitter.com/search?q=Isa+Pi) | N/A |
+| 36 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
+| 37 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
+| 38 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 39 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
+| 40 | [Torrelodones](http://twitter.com/search?q=Torrelodones) | N/A |
+| 41 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 42 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 43 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 44 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
+| 45 | [Euroliga](http://twitter.com/search?q=Euroliga) | N/A |
+| 46 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 47 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 48 | [Ferri](http://twitter.com/search?q=Ferri) | N/A |
 
 
 
