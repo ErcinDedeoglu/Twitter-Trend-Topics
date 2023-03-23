@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-23 02:32:23 UTC`
+📆 Last Updated: `2023-03-23 03:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [SROs](http://twitter.com/search?q=SROs) | N/A |
 | 3 | [East](http://twitter.com/search?q=East) | N/A |
 | 4 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 7 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 8 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 9 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 10 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 11 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 12 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 13 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 14 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 15 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 16 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 17 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 18 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 21 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
-| 22 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 23 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 24 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 25 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 8 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 9 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 10 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 11 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 12 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 13 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 14 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 15 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 16 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 17 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 18 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 19 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 20 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 21 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 22 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 24 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 25 | [Foster](http://twitter.com/search?q=Foster) | N/A |
 | 26 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 27 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 28 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
-| 29 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 30 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 31 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
-| 32 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 33 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 34 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
-| 35 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 36 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
-| 37 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 38 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 39 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 40 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 41 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 42 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 43 | [Carver](http://twitter.com/search?q=Carver) | N/A |
-| 44 | [Dr. Now](http://twitter.com/search?q=Dr.+Now) | N/A |
-| 45 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 46 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 47 | [Sting](http://twitter.com/search?q=Sting) | N/A |
-| 48 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
-| 49 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 50 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
+| 27 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 28 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 29 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 30 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
+| 31 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 32 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 33 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
+| 34 | [Voight](http://twitter.com/search?q=Voight) | N/A |
+| 35 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 36 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 37 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
+| 38 | [Damn Unc](http://twitter.com/search?q=Damn+Unc) | N/A |
+| 39 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 40 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 41 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 42 | [Austin Reeves](http://twitter.com/search?q=Austin+Reeves) | N/A |
+| 43 | [Buckley](http://twitter.com/search?q=Buckley) | N/A |
+| 44 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 45 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
+| 46 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
+| 47 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 48 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 49 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
+| 50 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
 
 
 

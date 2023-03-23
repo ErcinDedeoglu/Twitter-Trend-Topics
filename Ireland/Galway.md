@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-23 02:31:47 UTC`
+📆 Last Updated: `2023-03-23 03:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
-| 2 | [#IRLLAT](http://twitter.com/search?q=%23IRLLAT) | N/A |
-| 3 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
-| 4 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 2 | [#irllat](http://twitter.com/search?q=%23irllat) | N/A |
+| 3 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 4 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
 | 5 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
 | 6 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
 | 7 | [Mikey Johnston](http://twitter.com/search?q=Mikey+Johnston) | N/A |
@@ -29,15 +29,15 @@ This is top 50 for [Ireland](</Ireland>)
 | 12 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
 | 13 | [Browne](http://twitter.com/search?q=Browne) | N/A |
 | 14 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 15 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
-| 16 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 17 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 19 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 20 | [Paddy Carr](http://twitter.com/search?q=Paddy+Carr) | N/A |
-| 21 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 22 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
-| 23 | [Neasa Hourigan](http://twitter.com/search?q=Neasa+Hourigan) | N/A |
+| 15 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 18 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 19 | [Paddy Carr](http://twitter.com/search?q=Paddy+Carr) | N/A |
+| 20 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 21 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
+| 22 | [Neasa Hourigan](http://twitter.com/search?q=Neasa+Hourigan) | N/A |
+| 23 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 24 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
 | 25 | [Gript](http://twitter.com/search?q=Gript) | N/A |
 | 26 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 33 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
 | 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 35 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 36 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 36 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
 | 37 | [O'Dowda](http://twitter.com/search?q=O%27Dowda) | N/A |
 | 38 | [Egan](http://twitter.com/search?q=Egan) | N/A |
 | 39 | [The Green Party](http://twitter.com/search?q=The+Green+Party) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 46 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
 | 47 | [Cathal Berry](http://twitter.com/search?q=Cathal+Berry) | N/A |
 | 48 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
-| 49 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 49 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
 
 
 

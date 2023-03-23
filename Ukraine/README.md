@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-23 02:32:42 UTC`
+📆 Last Updated: `2023-03-23 03:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Ukraine
 | 4 | [Rzhyshchiv](http://twitter.com/search?q=Rzhyshchiv) | N/A |
 | 5 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
 | 6 | [Sevastopol](http://twitter.com/search?q=Sevastopol) | N/A |
-| 7 | [#GenocideOfUkrainians](http://twitter.com/search?q=%23GenocideOfUkrainians) | N/A |
+| 7 | [#genocideofukrainians](http://twitter.com/search?q=%23genocideofukrainians) | N/A |
 | 8 | [T-54](http://twitter.com/search?q=T-54) | N/A |
 | 9 | [kyiv oblast](http://twitter.com/search?q=kyiv+oblast) | N/A |
 | 10 | [т-34](http://twitter.com/search?q=%d1%82-34) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Ukraine
 | 35 | [си цзиньпина](http://twitter.com/search?q=%d1%81%d0%b8+%d1%86%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd%d0%b0) | N/A |
 | 36 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 37 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 38 | [Avdiivka](http://twitter.com/search?q=Avdiivka) | N/A |
-| 39 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 40 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 41 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 42 | [Кремле](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 43 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
-| 44 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 45 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 46 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 48 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 49 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 50 | [Soviet Union](http://twitter.com/search?q=Soviet+Union) | N/A |
+| 38 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 39 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 40 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 41 | [Кремле](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 42 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
+| 43 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 46 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 47 | [Soviet Union](http://twitter.com/search?q=Soviet+Union) | N/A |
+| 48 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
+| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 
 
 

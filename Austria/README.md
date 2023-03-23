@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-23 02:32:33 UTC`
+📆 Last Updated: `2023-03-23 03:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
-| 2 | [#Mietpreisbremse](http://twitter.com/search?q=%23Mietpreisbremse) | N/A |
+| 2 | [#mietpreisbremse](http://twitter.com/search?q=%23mietpreisbremse) | N/A |
 | 3 | [Vermieter](http://twitter.com/search?q=Vermieter) | N/A |
 | 4 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
 | 5 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
@@ -26,12 +26,12 @@ This is top 50 for Austria
 | 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 11 | [syrer](http://twitter.com/search?q=syrer) | N/A |
-| 12 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
-| 13 | [almosen](http://twitter.com/search?q=almosen) | N/A |
-| 14 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 12 | [almosen](http://twitter.com/search?q=almosen) | N/A |
+| 13 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 14 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
 | 15 | [Stellungnahme](http://twitter.com/search?q=Stellungnahme) | N/A |
 | 16 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 17 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
+| 17 | [unternehmer](http://twitter.com/search?q=unternehmer) | N/A |
 | 18 | [#WeltWasserTag](http://twitter.com/search?q=%23WeltWasserTag) | N/A |
 | 19 | [Latein](http://twitter.com/search?q=Latein) | N/A |
 | 20 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
@@ -39,10 +39,10 @@ This is top 50 for Austria
 | 22 | [kowall](http://twitter.com/search?q=kowall) | N/A |
 | 23 | [Programmieren](http://twitter.com/search?q=Programmieren) | N/A |
 | 24 | [#wohnkostenhilfe](http://twitter.com/search?q=%23wohnkostenhilfe) | N/A |
-| 25 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 25 | [mitglied](http://twitter.com/search?q=mitglied) | N/A |
 | 26 | [vorsitz](http://twitter.com/search?q=vorsitz) | N/A |
 | 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 28 | [Radweg](http://twitter.com/search?q=Radweg) | N/A |
+| 28 | [radweg](http://twitter.com/search?q=radweg) | N/A |
 | 29 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
 | 30 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
 | 31 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Austria
 | 33 | [hure der reichen](http://twitter.com/search?q=hure+der+reichen) | N/A |
 | 34 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
 | 35 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 36 | [ÖVP Wien](http://twitter.com/search?q=%c3%96VP+Wien) | N/A |
+| 36 | [övp wien](http://twitter.com/search?q=%c3%b6vp+wien) | N/A |
 | 37 | [wien energie](http://twitter.com/search?q=wien+energie) | N/A |
 | 38 | [wirtschaftspartei](http://twitter.com/search?q=wirtschaftspartei) | N/A |
 | 39 | [stände](http://twitter.com/search?q=st%c3%a4nde) | N/A |
 | 40 | [Unterhose](http://twitter.com/search?q=Unterhose) | N/A |
-| 41 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 42 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 43 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
-| 44 | [mittelschicht](http://twitter.com/search?q=mittelschicht) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [hitze](http://twitter.com/search?q=hitze) | N/A |
-| 47 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 48 | [stadt wien](http://twitter.com/search?q=stadt+wien) | N/A |
-| 49 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 50 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 41 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 42 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
+| 43 | [mittelschicht](http://twitter.com/search?q=mittelschicht) | N/A |
+| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 45 | [hitze](http://twitter.com/search?q=hitze) | N/A |
+| 46 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 47 | [stadt wien](http://twitter.com/search?q=stadt+wien) | N/A |
+| 48 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 49 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 50 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
 
 
 

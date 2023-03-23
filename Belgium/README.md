@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-23 02:32:33 UTC`
+📆 Last Updated: `2023-03-23 03:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for Belgium
 | 28 | [borgerhout](http://twitter.com/search?q=borgerhout) | N/A |
 | 29 | [gezin van 7](http://twitter.com/search?q=gezin+van+7) | N/A |
 | 30 | [oeganda](http://twitter.com/search?q=oeganda) | N/A |
-| 31 | [Somers](http://twitter.com/search?q=Somers) | N/A |
+| 31 | [somers](http://twitter.com/search?q=somers) | N/A |
 | 32 | [Conference](http://twitter.com/search?q=Conference) | N/A |
 | 33 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
 | 34 | [Zuid-Afrika](http://twitter.com/search?q=Zuid-Afrika) | N/A |

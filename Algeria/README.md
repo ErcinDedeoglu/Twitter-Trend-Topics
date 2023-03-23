@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-23 02:32:32 UTC`
+📆 Last Updated: `2023-03-23 03:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,8 +44,8 @@ This is top 50 for Algeria
 | 27 | [الدول القليله](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%82%d9%84%d9%8a%d9%84%d9%87) | N/A |
 | 28 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
 | 29 | [23 مارس 2023](http://twitter.com/search?q=23+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 30 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 31 | [الشركه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 30 | [الشركه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 31 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 32 | [واليمن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a%d9%85%d9%86) | N/A |
 | 33 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
 | 34 | [علي الوجه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ac%d9%87) | N/A |

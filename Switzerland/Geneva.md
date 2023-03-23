@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-23 02:31:54 UTC`
+📆 Last Updated: `2023-03-23 03:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 5 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 6 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 | 7 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
@@ -40,7 +40,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 24 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 25 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 26 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 26 | [leistungen](http://twitter.com/search?q=leistungen) | N/A |
 | 27 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 28 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 29 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
@@ -53,13 +53,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 36 | [Firma](http://twitter.com/search?q=Firma) | N/A |
 | 37 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
 | 38 | [UELI](http://twitter.com/search?q=UELI) | N/A |
-| 39 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
+| 39 | [schweden](http://twitter.com/search?q=schweden) | N/A |
 | 40 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 41 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
 | 42 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 43 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
 | 44 | [Gier](http://twitter.com/search?q=Gier) | N/A |
-| 45 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
+| 45 | [scheitern](http://twitter.com/search?q=scheitern) | N/A |
 | 46 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 47 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
 | 48 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |

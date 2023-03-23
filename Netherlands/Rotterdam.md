@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-23 02:31:52 UTC`
+📆 Last Updated: `2023-03-23 03:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 | 10 | [Renske](http://twitter.com/search?q=Renske) | N/A |
 | 11 | [Zoutelande](http://twitter.com/search?q=Zoutelande) | N/A |
-| 12 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 12 | [europese commissie](http://twitter.com/search?q=europese+commissie) | N/A |
 | 13 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 14 | [Janneke de Bijl](http://twitter.com/search?q=Janneke+de+Bijl) | N/A |
+| 14 | [janneke de bijl](http://twitter.com/search?q=janneke+de+bijl) | N/A |
 | 15 | [gestemd](http://twitter.com/search?q=gestemd) | N/A |
 | 16 | [seksuele](http://twitter.com/search?q=seksuele) | N/A |
 | 17 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
 | 21 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 22 | [gefeliciteerd aad](http://twitter.com/search?q=gefeliciteerd+aad) | N/A |
-| 23 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
+| 23 | [heleen](http://twitter.com/search?q=heleen) | N/A |
 | 24 | [Natuurmonumenten](http://twitter.com/search?q=Natuurmonumenten) | N/A |
 | 25 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 26 | [cda-top](http://twitter.com/search?q=cda-top) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 31 | [Voorlichting](http://twitter.com/search?q=Voorlichting) | N/A |
 | 32 | [T-34](http://twitter.com/search?q=T-34) | N/A |
 | 33 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
-| 34 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
+| 34 | [ingeborg](http://twitter.com/search?q=ingeborg) | N/A |
 | 35 | [Van Roosmalen](http://twitter.com/search?q=Van+Roosmalen) | N/A |
 | 36 | [T-54](http://twitter.com/search?q=T-54) | N/A |
 | 37 | [Mores](http://twitter.com/search?q=Mores) | N/A |
 | 38 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 39 | [kenzy](http://twitter.com/search?q=kenzy) | N/A |
+| 39 | [Kenzy](http://twitter.com/search?q=Kenzy) | N/A |
 | 40 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
-| 41 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 42 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 41 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 42 | [derksen](http://twitter.com/search?q=derksen) | N/A |
 | 43 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 44 | [Moge Allah](http://twitter.com/search?q=Moge+Allah) | N/A |
 | 45 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
 | 46 | [advies](http://twitter.com/search?q=advies) | N/A |
-| 47 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 48 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 47 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 48 | [koningsdag](http://twitter.com/search?q=koningsdag) | N/A |
 
 
 
