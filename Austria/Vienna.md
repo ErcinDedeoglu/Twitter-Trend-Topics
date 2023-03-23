@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-23 01:44:02 UTC`
+📆 Last Updated: `2023-03-23 02:31:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,21 +22,21 @@ This is top 50 for [Austria](</Austria>)
 | 5 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 | 6 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 7 | [zuschuss](http://twitter.com/search?q=zuschuss) | N/A |
-| 8 | [einmalzahlung](http://twitter.com/search?q=einmalzahlung) | N/A |
+| 8 | [Einmalzahlung](http://twitter.com/search?q=Einmalzahlung) | N/A |
 | 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 11 | [Syrer](http://twitter.com/search?q=Syrer) | N/A |
+| 11 | [syrer](http://twitter.com/search?q=syrer) | N/A |
 | 12 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
-| 13 | [Almosen](http://twitter.com/search?q=Almosen) | N/A |
+| 13 | [almosen](http://twitter.com/search?q=almosen) | N/A |
 | 14 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 15 | [Stellungnahme](http://twitter.com/search?q=Stellungnahme) | N/A |
 | 16 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
 | 17 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
-| 18 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
+| 18 | [#WeltWasserTag](http://twitter.com/search?q=%23WeltWasserTag) | N/A |
 | 19 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 20 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 21 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
-| 22 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
+| 20 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
+| 21 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 22 | [kowall](http://twitter.com/search?q=kowall) | N/A |
 | 23 | [Programmieren](http://twitter.com/search?q=Programmieren) | N/A |
 | 24 | [#wohnkostenhilfe](http://twitter.com/search?q=%23wohnkostenhilfe) | N/A |
 | 25 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Austria](</Austria>)
 | 34 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
 | 35 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
 | 36 | [ÖVP Wien](http://twitter.com/search?q=%c3%96VP+Wien) | N/A |
-| 37 | [wirtschaftspartei](http://twitter.com/search?q=wirtschaftspartei) | N/A |
-| 38 | [stände](http://twitter.com/search?q=st%c3%a4nde) | N/A |
-| 39 | [Unterhose](http://twitter.com/search?q=Unterhose) | N/A |
-| 40 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 41 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 42 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
-| 43 | [Mittelschicht](http://twitter.com/search?q=Mittelschicht) | N/A |
-| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 45 | [hitze](http://twitter.com/search?q=hitze) | N/A |
-| 46 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 47 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 48 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 49 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 50 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
+| 37 | [wien energie](http://twitter.com/search?q=wien+energie) | N/A |
+| 38 | [wirtschaftspartei](http://twitter.com/search?q=wirtschaftspartei) | N/A |
+| 39 | [stände](http://twitter.com/search?q=st%c3%a4nde) | N/A |
+| 40 | [Unterhose](http://twitter.com/search?q=Unterhose) | N/A |
+| 41 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 42 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 43 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
+| 44 | [Mittelschicht](http://twitter.com/search?q=Mittelschicht) | N/A |
+| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 46 | [hitze](http://twitter.com/search?q=hitze) | N/A |
+| 47 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 48 | [stadt wien](http://twitter.com/search?q=stadt+wien) | N/A |
+| 49 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 50 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
 
 
 

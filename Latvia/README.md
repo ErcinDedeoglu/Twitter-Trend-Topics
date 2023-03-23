@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-23 01:44:39 UTC`
+📆 Last Updated: `2023-03-23 02:32:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Latvia
 | 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
 | 2 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 3 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 4 | [Deglava](http://twitter.com/search?q=Deglava) | N/A |
+| 4 | [deglava](http://twitter.com/search?q=deglava) | N/A |
 | 5 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 6 | [zviedrijas](http://twitter.com/search?q=zviedrijas) | N/A |
 | 7 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Latvia
 | 18 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 19 | [Ķīnu](http://twitter.com/search?q=%c4%b6%c4%abnu) | N/A |
 | 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
+| 21 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
 | 22 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 23 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 24 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
@@ -47,11 +47,11 @@ This is top 50 for Latvia
 | 30 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 31 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
 | 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 33 | [Nevajag](http://twitter.com/search?q=Nevajag) | N/A |
+| 33 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
 | 34 | [valsts](http://twitter.com/search?q=valsts) | N/A |
 | 35 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
 | 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 37 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 37 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
 | 38 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
 | 39 | [drīzāk](http://twitter.com/search?q=dr%c4%abz%c4%81k) | N/A |
 | 40 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Latvia
 | 46 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
 | 47 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
 | 48 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
-| 49 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 49 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 50 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 
 

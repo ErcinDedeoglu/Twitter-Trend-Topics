@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-23 01:44:08 UTC`
+📆 Last Updated: `2023-03-23 02:31:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 9 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
 | 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 11 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 12 | [It is Just](http://twitter.com/search?q=It+is+Just) | N/A |
+| 12 | [it is just](http://twitter.com/search?q=it+is+just) | N/A |
 | 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 14 | [Jonna Sima](http://twitter.com/search?q=Jonna+Sima) | N/A |
 | 15 | [Jean](http://twitter.com/search?q=Jean) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Sweden](</Sweden>)
 | 17 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
 | 18 | [Winter](http://twitter.com/search?q=Winter) | N/A |
 | 19 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
-| 20 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 21 | [Slow](http://twitter.com/search?q=Slow) | N/A |
-| 22 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 23 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 24 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
-| 25 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
-| 26 | [Supper](http://twitter.com/search?q=Supper) | N/A |
-| 27 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
-| 28 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 29 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 30 | [Rensfeldt](http://twitter.com/search?q=Rensfeldt) | N/A |
-| 31 | [henry ohlsson](http://twitter.com/search?q=henry+ohlsson) | N/A |
-| 32 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
-| 33 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
-| 34 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 35 | [Bless](http://twitter.com/search?q=Bless) | N/A |
-| 36 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
-| 37 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 38 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
-| 39 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 40 | [Margot Wallström](http://twitter.com/search?q=Margot+Wallstr%c3%b6m) | N/A |
-| 41 | [East](http://twitter.com/search?q=East) | N/A |
-| 42 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
-| 43 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 44 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 45 | [besara](http://twitter.com/search?q=besara) | N/A |
-| 46 | [vainio](http://twitter.com/search?q=vainio) | N/A |
-| 47 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 48 | [Buya](http://twitter.com/search?q=Buya) | N/A |
-| 49 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 50 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 20 | [Slow](http://twitter.com/search?q=Slow) | N/A |
+| 21 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 22 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 23 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
+| 24 | [komarek](http://twitter.com/search?q=komarek) | N/A |
+| 25 | [Supper](http://twitter.com/search?q=Supper) | N/A |
+| 26 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
+| 27 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 28 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 29 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
+| 30 | [henry ohlsson](http://twitter.com/search?q=henry+ohlsson) | N/A |
+| 31 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
+| 32 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 33 | [Bless](http://twitter.com/search?q=Bless) | N/A |
+| 34 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 35 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
+| 36 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 37 | [Margot Wallström](http://twitter.com/search?q=Margot+Wallstr%c3%b6m) | N/A |
+| 38 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
+| 39 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
+| 40 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 41 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 42 | [besara](http://twitter.com/search?q=besara) | N/A |
+| 43 | [vainio](http://twitter.com/search?q=vainio) | N/A |
+| 44 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 45 | [Buya](http://twitter.com/search?q=Buya) | N/A |
+| 46 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 47 | [sara skyttedal](http://twitter.com/search?q=sara+skyttedal) | N/A |
+| 48 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 49 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
+| 50 | [keita](http://twitter.com/search?q=keita) | N/A |
 
 
 

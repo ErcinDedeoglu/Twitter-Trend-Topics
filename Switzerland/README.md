@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-23 01:44:41 UTC`
+📆 Last Updated: `2023-03-23 02:32:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 3 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 5 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
 | 6 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 7 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |

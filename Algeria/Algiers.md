@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-23 01:44:16 UTC`
+📆 Last Updated: `2023-03-23 02:32:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 11 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
 | 12 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 13 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 14 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 15 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 14 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 15 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 16 | [النقل البحري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a) | N/A |
 | 17 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
 | 18 | [عبد العالي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
@@ -53,10 +53,10 @@ This is top 50 for [Algeria](</Algeria>)
 | 36 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 37 | [الامه المسلمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%87) | N/A |
 | 38 | [كندا](http://twitter.com/search?q=%d9%83%d9%86%d8%af%d8%a7) | N/A |
-| 39 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 40 | [مصطفى بن بولعيد](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%a8%d9%86+%d8%a8%d9%88%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 41 | [خديجة بن قنة](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d8%a9+%d8%a8%d9%86+%d9%82%d9%86%d8%a9) | N/A |
-| 42 | [الدرجه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 39 | [مصطفى بن بولعيد](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89+%d8%a8%d9%86+%d8%a8%d9%88%d9%84%d8%b9%d9%8a%d8%af) | N/A |
+| 40 | [خديجة بن قنة](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d8%a9+%d8%a8%d9%86+%d9%82%d9%86%d8%a9) | N/A |
+| 41 | [الدرجه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 42 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
 | 43 | [ايمان خليف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
 | 44 | [المدير العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |

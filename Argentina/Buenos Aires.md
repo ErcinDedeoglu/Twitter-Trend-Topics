@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-23 01:44:01 UTC`
+📆 Last Updated: `2023-03-23 02:31:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 2 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
-| 3 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 4 | [#ConLosJubiladosNo](http://twitter.com/search?q=%23ConLosJubiladosNo) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 7 | [Anses](http://twitter.com/search?q=Anses) | N/A |
-| 8 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
-| 9 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 10 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 11 | [Vamos Antonio](http://twitter.com/search?q=Vamos+Antonio) | N/A |
-| 12 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 13 | [cris mj](http://twitter.com/search?q=cris+mj) | N/A |
-| 14 | [Lago Escondido](http://twitter.com/search?q=Lago+Escondido) | N/A |
-| 15 | [#CorreaEnM1](http://twitter.com/search?q=%23CorreaEnM1) | N/A |
-| 16 | [Chad](http://twitter.com/search?q=Chad) | N/A |
-| 17 | [Pera](http://twitter.com/search?q=Pera) | N/A |
-| 18 | [Gonzalo Verón](http://twitter.com/search?q=Gonzalo+Ver%c3%b3n) | N/A |
-| 19 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 20 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 21 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 22 | [D'Alessandro](http://twitter.com/search?q=D%27Alessandro) | N/A |
-| 23 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 24 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 25 | [Eugenio Burzaco](http://twitter.com/search?q=Eugenio+Burzaco) | N/A |
-| 26 | [Malena](http://twitter.com/search?q=Malena) | N/A |
-| 27 | [Bonafini](http://twitter.com/search?q=Bonafini) | N/A |
-| 28 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
-| 29 | [El Reino](http://twitter.com/search?q=El+Reino) | N/A |
-| 30 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
-| 31 | [Obelisco](http://twitter.com/search?q=Obelisco) | N/A |
-| 32 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 33 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 34 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 35 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
-| 36 | [John Frusciante](http://twitter.com/search?q=John+Frusciante) | N/A |
-| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 38 | [HDRMP](http://twitter.com/search?q=HDRMP) | N/A |
-| 39 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 40 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 41 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 42 | [Boudou](http://twitter.com/search?q=Boudou) | N/A |
-| 43 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 44 | [Luis Caffarelli](http://twitter.com/search?q=Luis+Caffarelli) | N/A |
-| 45 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 46 | [Palmira](http://twitter.com/search?q=Palmira) | N/A |
-| 47 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 48 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 49 | [parque sarmiento](http://twitter.com/search?q=parque+sarmiento) | N/A |
-| 50 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 1 | [Obelisco](http://twitter.com/search?q=Obelisco) | N/A |
+| 2 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 3 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [#MasterChefArgentina](http://twitter.com/search?q=%23MasterChefArgentina) | N/A |
+| 6 | [#ConLosJubiladosNo](http://twitter.com/search?q=%23ConLosJubiladosNo) | N/A |
+| 7 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
+| 8 | [#Haters](http://twitter.com/search?q=%23Haters) | N/A |
+| 9 | [Anses](http://twitter.com/search?q=Anses) | N/A |
+| 10 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 11 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 12 | [Vamos Antonio](http://twitter.com/search?q=Vamos+Antonio) | N/A |
+| 13 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 14 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 15 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
+| 16 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 17 | [Vallejos](http://twitter.com/search?q=Vallejos) | N/A |
+| 18 | [Cone](http://twitter.com/search?q=Cone) | Cone is a three-dimensional geometric shape that tapers smoothly from a flat base to a point. It is a common shape in nature, such as the cone-shaped fruit of a pine tree or the cone-shaped petals of a flower. In English, the word "cone" can also refer to an ice cream cone or traffic cones used to direct traffic. |
+| 19 | [Pera](http://twitter.com/search?q=Pera) | N/A |
+| 20 | [cris mj](http://twitter.com/search?q=cris+mj) | N/A |
+| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 22 | [Gonzalo Verón](http://twitter.com/search?q=Gonzalo+Ver%c3%b3n) | N/A |
+| 23 | [Lago Escondido](http://twitter.com/search?q=Lago+Escondido) | N/A |
+| 24 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 25 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 26 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 27 | [El Reino](http://twitter.com/search?q=El+Reino) | N/A |
+| 28 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 29 | [D'Alessandro](http://twitter.com/search?q=D%27Alessandro) | N/A |
+| 30 | [Del Morbo](http://twitter.com/search?q=Del+Morbo) | N/A |
+| 31 | [Chad](http://twitter.com/search?q=Chad) | N/A |
+| 32 | [Malena](http://twitter.com/search?q=Malena) | N/A |
+| 33 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 34 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
+| 35 | [stray kids](http://twitter.com/search?q=stray+kids) | N/A |
+| 36 | [Eugenio Burzaco](http://twitter.com/search?q=Eugenio+Burzaco) | N/A |
+| 37 | [Bonafini](http://twitter.com/search?q=Bonafini) | N/A |
+| 38 | [Fer Dente](http://twitter.com/search?q=Fer+Dente) | N/A |
+| 39 | [Festeje](http://twitter.com/search?q=Festeje) | N/A |
+| 40 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 41 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
+| 42 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 43 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 44 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
+| 45 | [HDRMP](http://twitter.com/search?q=HDRMP) | N/A |
+| 46 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
+| 47 | [Boudou](http://twitter.com/search?q=Boudou) | N/A |
+| 48 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 49 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 50 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
 
 
 

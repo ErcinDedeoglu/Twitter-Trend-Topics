@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-23 01:44:42 UTC`
+📆 Last Updated: `2023-03-23 02:32:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Venezuela
 | 10 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 11 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
 | 12 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 13 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
-| 14 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 15 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 16 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 13 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 14 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
+| 15 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 16 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
 | 17 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 18 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 19 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
-| 20 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 21 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 22 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 23 | [Eyla Adrián](http://twitter.com/search?q=Eyla+Adri%c3%a1n) | N/A |
-| 24 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 25 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 26 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 27 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 28 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
-| 29 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 30 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 31 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 32 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 33 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 34 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 35 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
+| 18 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
+| 19 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 20 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
+| 21 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
+| 22 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 23 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 24 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
+| 25 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 26 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 27 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
+| 28 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 29 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 30 | [BZRP](http://twitter.com/search?q=BZRP) | BZRP stands for "Battle Zone Role Play," which is an online role-playing game. Players create characters and take part in a virtual world where they can battle each other and complete missions. |
+| 31 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 32 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
+| 33 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
+| 34 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 35 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
 | 36 | [Simios](http://twitter.com/search?q=Simios) | N/A |
-| 37 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
-| 38 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 39 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 40 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 37 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
+| 38 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 39 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 40 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
 | 41 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 42 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
-| 43 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
-| 44 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 45 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 46 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
-| 47 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
-| 48 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
-| 49 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 50 | [Higos](http://twitter.com/search?q=Higos) | N/A |
+| 42 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
+| 43 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 44 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 45 | [Eyla Adrián](http://twitter.com/search?q=Eyla+Adri%c3%a1n) | N/A |
+| 46 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
+| 47 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 48 | [Higos](http://twitter.com/search?q=Higos) | N/A |
+| 49 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
+| 50 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
 
 
 

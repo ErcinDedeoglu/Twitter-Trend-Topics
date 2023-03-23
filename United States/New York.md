@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-23 01:44:32 UTC`
+📆 Last Updated: `2023-03-23 02:32:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
 | 2 | [DeAndre Hopkins](http://twitter.com/search?q=DeAndre+Hopkins) | DeAndre Hopkins is an American football wide receiver for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Houston Texans in the first round of the 2013 NFL Draft. He has been selected to four Pro Bowls and was named First-Team All-Pro in 2017. |
-| 3 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 4 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 5 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 7 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 3 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 4 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 7 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 8 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 9 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 10 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 11 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
+| 9 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 10 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 11 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
 | 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
-| 14 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 15 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 16 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 17 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 18 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 19 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 20 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 21 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
-| 22 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 24 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
-| 25 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 26 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 27 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 28 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 29 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
-| 30 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
-| 31 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
-| 32 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 33 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
-| 34 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 35 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 36 | [Sting](http://twitter.com/search?q=Sting) | N/A |
-| 37 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 38 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 39 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 40 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
-| 41 | [Dr. Now](http://twitter.com/search?q=Dr.+Now) | N/A |
-| 42 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 14 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 15 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 16 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 17 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 18 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 19 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 20 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 21 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 22 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 23 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 24 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 25 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 26 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
+| 30 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 31 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 32 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 33 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 34 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
+| 35 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 36 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 37 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 38 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
+| 39 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 40 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 41 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 42 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
 | 43 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 44 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 45 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
-| 46 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 47 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 48 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 49 | [Alexa Bliss](http://twitter.com/search?q=Alexa+Bliss) | Alexa Bliss is the ring name of American professional wrestler and actress, Alexis Kaufman. She is currently signed to WWE, where she performs on the Raw brand. The name Alexa Bliss is derived from her real first name, Alexis, and her ring name Bliss. |
-| 50 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 44 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 45 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 46 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 47 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 48 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 49 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 50 | [Carver](http://twitter.com/search?q=Carver) | N/A |
 
 
 

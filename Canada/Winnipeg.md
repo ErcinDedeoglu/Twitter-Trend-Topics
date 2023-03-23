@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-23 01:43:49 UTC`
+📆 Last Updated: `2023-03-23 02:31:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,48 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 3 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
 | 4 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 6 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 7 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 9 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 10 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 11 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 5 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 6 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 7 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 8 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 9 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 10 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 11 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 12 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
 | 13 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 14 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
-| 15 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 16 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 17 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 18 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 19 | [Malachi](http://twitter.com/search?q=Malachi) | N/A |
-| 20 | [TJ McConnell](http://twitter.com/search?q=TJ+McConnell) | TJ McConnell is an American professional basketball player who currently plays for the Indiana Pacers of the National Basketball Association (NBA). He is known for his hustle and defensive intensity on the court. The initials "TJ" stand for Thomas Joseph, his given name. |
-| 21 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 14 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 15 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 16 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 17 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 18 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 19 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 20 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 21 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
 | 22 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 23 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 24 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
-| 25 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 26 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 27 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 28 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
-| 29 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 30 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 31 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 32 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 33 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 34 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 35 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 36 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 37 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 38 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 39 | [Meng Wanzhou](http://twitter.com/search?q=Meng+Wanzhou) | N/A |
-| 40 | [Emil Heineman](http://twitter.com/search?q=Emil+Heineman) | N/A |
-| 41 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 42 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 43 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 46 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 47 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 48 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 23 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 25 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 26 | [Liberal MP](http://twitter.com/search?q=Liberal+MP) | N/A |
+| 27 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 28 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 30 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 31 | [Rob Ford](http://twitter.com/search?q=Rob+Ford) | N/A |
+| 32 | [Bettman](http://twitter.com/search?q=Bettman) | N/A |
+| 33 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 34 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 35 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 36 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 37 | [#TrudeauOutOfControl](http://twitter.com/search?q=%23TrudeauOutOfControl) | N/A |
+| 38 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 39 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 40 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 41 | [#WorldWaterDay2023](http://twitter.com/search?q=%23WorldWaterDay2023) | N/A |
+| 42 | [#skpoli](http://twitter.com/search?q=%23skpoli) | N/A |
 
 
 

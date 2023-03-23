@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-23 01:44:08 UTC`
+📆 Last Updated: `2023-03-23 02:31:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Norway](</Norway>)
 | 4 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
 | 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 6 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
-| 7 | [haugen](http://twitter.com/search?q=haugen) | N/A |
+| 7 | [Haugen](http://twitter.com/search?q=Haugen) | N/A |
 | 8 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
 | 9 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
@@ -46,14 +46,14 @@ This is top 50 for [Norway](</Norway>)
 | 29 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 30 | [Nesten](http://twitter.com/search?q=Nesten) | N/A |
 | 31 | [spetalen](http://twitter.com/search?q=spetalen) | N/A |
-| 32 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 32 | [gratulerer](http://twitter.com/search?q=gratulerer) | N/A |
 | 33 | [Vestre](http://twitter.com/search?q=Vestre) | N/A |
 | 34 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 35 | [Christ](http://twitter.com/search?q=Christ) | N/A |
 | 36 | [Kai Eide](http://twitter.com/search?q=Kai+Eide) | N/A |
 | 37 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 38 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 39 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 39 | [Føler](http://twitter.com/search?q=F%c3%b8ler) | N/A |
 | 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 41 | [østlandet](http://twitter.com/search?q=%c3%b8stlandet) | N/A |
 | 42 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
@@ -61,7 +61,7 @@ This is top 50 for [Norway](</Norway>)
 | 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 45 | [Nakstad](http://twitter.com/search?q=Nakstad) | N/A |
 | 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 47 | [Viken](http://twitter.com/search?q=Viken) | N/A |
+| 47 | [viken](http://twitter.com/search?q=viken) | N/A |
 | 48 | [ønsker](http://twitter.com/search?q=%c3%b8nsker) | N/A |
 | 49 | [TPLF](http://twitter.com/search?q=TPLF) | N/A |
 

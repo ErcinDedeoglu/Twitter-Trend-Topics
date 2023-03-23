@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-03-23 01:44:32 UTC`
+📆 Last Updated: `2023-03-23 02:32:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
-| 3 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 6 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 7 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 8 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 9 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 10 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 11 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
-| 12 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 13 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 14 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
-| 15 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 16 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 17 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 18 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 19 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
-| 20 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
-| 21 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
-| 22 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 23 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
-| 24 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 25 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 26 | [Sting](http://twitter.com/search?q=Sting) | N/A |
-| 27 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 28 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 29 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 30 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
-| 31 | [Dr. Now](http://twitter.com/search?q=Dr.+Now) | N/A |
-| 32 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 5 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 6 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 7 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 8 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 9 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 10 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 11 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 13 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 14 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 15 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 17 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
+| 20 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 21 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 22 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 23 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 24 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 25 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 26 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
+| 27 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 28 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 29 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
+| 30 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 31 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 32 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
 | 33 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 34 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 35 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
-| 36 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 37 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 38 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 39 | [Alexa Bliss](http://twitter.com/search?q=Alexa+Bliss) | Alexa Bliss is the ring name of American professional wrestler and actress, Alexis Kaufman. She is currently signed to WWE, where she performs on the Raw brand. The name Alexa Bliss is derived from her real first name, Alexis, and her ring name Bliss. |
-| 40 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 41 | [Young Bucks](http://twitter.com/search?q=Young+Bucks) | Young Bucks is a slang term used to refer to young, ambitious, and successful people. It is often used to describe those who have achieved success at a young age or who have achieved success through hard work and determination. |
-| 42 | [Toni Storm](http://twitter.com/search?q=Toni+Storm) | Toni Storm is the ring name of a professional wrestler from New Zealand. Her real name is Stephanie Newell. She is currently signed to WWE and competes in their NXT UK brand. The name "Toni Storm" is derived from her initials, TS, and her last name, Storm. |
-| 43 | [Shaquille](http://twitter.com/search?q=Shaquille) | N/A |
-| 44 | [Tech N9ne](http://twitter.com/search?q=Tech+N9ne) | N/A |
-| 45 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 46 | [Holly Robinson Peete](http://twitter.com/search?q=Holly+Robinson+Peete) | N/A |
-| 47 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 34 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
+| 35 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 36 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 37 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 38 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 39 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 40 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 41 | [Carver](http://twitter.com/search?q=Carver) | N/A |
+| 42 | [Dr. Now](http://twitter.com/search?q=Dr.+Now) | N/A |
+| 43 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 44 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 45 | [Ben Taylor](http://twitter.com/search?q=Ben+Taylor) | N/A |
+| 46 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 47 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-23 01:44:07 UTC`
+📆 Last Updated: `2023-03-23 02:31:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,7 +63,6 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 46 | [Gier](http://twitter.com/search?q=Gier) | N/A |
 | 47 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
 | 48 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 49 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
 
 
 

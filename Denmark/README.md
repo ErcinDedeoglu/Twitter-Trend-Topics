@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-23 01:44:36 UTC`
+📆 Last Updated: `2023-03-23 02:32:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,22 +25,22 @@ This is top 50 for Denmark
 | 8 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
 | 9 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
 | 10 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 11 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 12 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
-| 13 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 14 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 15 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
-| 16 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 17 | [ståle](http://twitter.com/search?q=st%c3%a5le) | N/A |
-| 18 | [#ligestilling](http://twitter.com/search?q=%23ligestilling) | N/A |
-| 19 | [østersøen](http://twitter.com/search?q=%c3%b8sters%c3%b8en) | N/A |
-| 20 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 21 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
+| 11 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
+| 12 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 13 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 14 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
+| 15 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 16 | [ståle](http://twitter.com/search?q=st%c3%a5le) | N/A |
+| 17 | [#ligestilling](http://twitter.com/search?q=%23ligestilling) | N/A |
+| 18 | [østersøen](http://twitter.com/search?q=%c3%b8sters%c3%b8en) | N/A |
+| 19 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 20 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
+| 21 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 | 23 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 24 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 25 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
-| 26 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 24 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 25 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 26 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
 | 27 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
 | 28 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 29 | [#dksocial](http://twitter.com/search?q=%23dksocial) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Denmark
 | 37 | [pointen](http://twitter.com/search?q=pointen) | N/A |
 | 38 | [European](http://twitter.com/search?q=European) | N/A |
 | 39 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 40 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
+| 40 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
 | 41 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
 | 42 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 43 | [Legend](http://twitter.com/search?q=Legend) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-23 01:43:54 UTC`
+📆 Last Updated: `2023-03-23 02:31:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LadronelMiente](http://twitter.com/search?q=%23LadronelMiente) | N/A |
-| 2 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
-| 3 | [#TijeraSoberana](http://twitter.com/search?q=%23TijeraSoberana) | N/A |
-| 4 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 5 | [#LadronelTraidor](http://twitter.com/search?q=%23LadronelTraidor) | N/A |
-| 6 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
-| 7 | [Brea](http://twitter.com/search?q=Brea) | N/A |
-| 8 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 9 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
-| 10 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
-| 11 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
-| 12 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 13 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 14 | [Caroline Aquino](http://twitter.com/search?q=Caroline+Aquino) | N/A |
-| 15 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 16 | [Dotol](http://twitter.com/search?q=Dotol) | N/A |
-| 17 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
-| 18 | [Isaura](http://twitter.com/search?q=Isaura) | N/A |
-| 19 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 20 | [Andreina](http://twitter.com/search?q=Andreina) | N/A |
-| 21 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 22 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 23 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 24 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 25 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 26 | [Foke](http://twitter.com/search?q=Foke) | N/A |
-| 27 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
-| 28 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 29 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
-| 30 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 31 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 32 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
-| 33 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 34 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 35 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 36 | [Con Dios](http://twitter.com/search?q=Con+Dios) | N/A |
-| 37 | [cid gallup](http://twitter.com/search?q=cid+gallup) | N/A |
-| 38 | [Waze](http://twitter.com/search?q=Waze) | N/A |
-| 39 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 40 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 41 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
-| 42 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 43 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
-| 44 | [Participación Ciudadana](http://twitter.com/search?q=Participaci%c3%b3n+Ciudadana) | N/A |
-| 45 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 46 | [Jarabe](http://twitter.com/search?q=Jarabe) | N/A |
-| 47 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 48 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
-| 49 | [Indotel](http://twitter.com/search?q=Indotel) | N/A |
-| 50 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 1 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
+| 2 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
+| 3 | [#LadronelTraidor](http://twitter.com/search?q=%23LadronelTraidor) | N/A |
+| 4 | [Yiyo](http://twitter.com/search?q=Yiyo) | N/A |
+| 5 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 6 | [#TijeraSoberana](http://twitter.com/search?q=%23TijeraSoberana) | N/A |
+| 7 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
+| 8 | [Zoila Luna](http://twitter.com/search?q=Zoila+Luna) | N/A |
+| 9 | [Brea](http://twitter.com/search?q=Brea) | N/A |
+| 10 | [El Canario](http://twitter.com/search?q=El+Canario) | N/A |
+| 11 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
+| 12 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 13 | [#LadronelMiente](http://twitter.com/search?q=%23LadronelMiente) | N/A |
+| 14 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
+| 15 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
+| 16 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 17 | [Raulin](http://twitter.com/search?q=Raulin) | N/A |
+| 18 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 19 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 20 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 21 | [Milagros](http://twitter.com/search?q=Milagros) | N/A |
+| 22 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 23 | [Isaura](http://twitter.com/search?q=Isaura) | N/A |
+| 24 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 25 | [Tito Nieves](http://twitter.com/search?q=Tito+Nieves) | N/A |
+| 26 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 27 | [Jochy](http://twitter.com/search?q=Jochy) | N/A |
+| 28 | [Dotol](http://twitter.com/search?q=Dotol) | N/A |
+| 29 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 30 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 31 | [Nastra](http://twitter.com/search?q=Nastra) | N/A |
+| 32 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 33 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 34 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
+| 35 | [Luz Garcia](http://twitter.com/search?q=Luz+Garcia) | N/A |
+| 36 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 37 | [José Alberto](http://twitter.com/search?q=Jos%c3%a9+Alberto) | N/A |
+| 38 | [Andreina](http://twitter.com/search?q=Andreina) | N/A |
+| 39 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
+| 40 | [Elvis Martinez](http://twitter.com/search?q=Elvis+Martinez) | N/A |
+| 41 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 42 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 43 | [Luis Segura](http://twitter.com/search?q=Luis+Segura) | N/A |
+| 44 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 45 | [Santiago Matías](http://twitter.com/search?q=Santiago+Mat%c3%adas) | N/A |
+| 46 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
+| 47 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 48 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 49 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 50 | [cid gallup](http://twitter.com/search?q=cid+gallup) | N/A |
 
 
 

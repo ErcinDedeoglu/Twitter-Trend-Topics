@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-23 01:44:42 UTC`
+📆 Last Updated: `2023-03-23 02:32:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for Ukraine
 | 32 | [dzhankoy](http://twitter.com/search?q=dzhankoy) | N/A |
 | 33 | [сибири](http://twitter.com/search?q=%d1%81%d0%b8%d0%b1%d0%b8%d1%80%d0%b8) | N/A |
 | 34 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 35 | [Си Цзиньпина](http://twitter.com/search?q=%d0%a1%d0%b8+%d0%a6%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd%d0%b0) | N/A |
+| 35 | [си цзиньпина](http://twitter.com/search?q=%d1%81%d0%b8+%d1%86%d0%b7%d0%b8%d0%bd%d1%8c%d0%bf%d0%b8%d0%bd%d0%b0) | N/A |
 | 36 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 37 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
 | 38 | [Avdiivka](http://twitter.com/search?q=Avdiivka) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Ukraine
 | 41 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
 | 42 | [Кремле](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
 | 43 | [шойгу](http://twitter.com/search?q=%d1%88%d0%be%d0%b9%d0%b3%d1%83) | N/A |
-| 44 | [понятно](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 44 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
 | 45 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
 | 46 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-03-23 01:44:25 UTC`
+📆 Last Updated: `2023-03-23 02:32:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ViratKohli](http://twitter.com/search?q=%23ViratKohli) | N/A |
-| 2 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
-| 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [#TrueBloodPump](http://twitter.com/search?q=%23TrueBloodPump) | N/A |
-| 5 | [#Ugadi](http://twitter.com/search?q=%23Ugadi) | N/A |
-| 6 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
-| 7 | [महान क्रांतिकारी भगत सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 8 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 1 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 2 | [#Chepaukstadium](http://twitter.com/search?q=%23Chepaukstadium) | N/A |
+| 3 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 4 | [#ViratKohli](http://twitter.com/search?q=%23ViratKohli) | N/A |
+| 5 | [#TrueBloodPump](http://twitter.com/search?q=%23TrueBloodPump) | N/A |
+| 6 | [#शहीद_दिवस](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 7 | [#ShaheedDiwas](http://twitter.com/search?q=%23ShaheedDiwas) | N/A |
+| 8 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
 | 9 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 10 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 11 | [द्वितीय स्वरूप](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 13 | [केशव बलिराम हेडगेवार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%b5+%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 14 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 15 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
-| 16 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
-| 17 | [maa durga](http://twitter.com/search?q=maa+durga) | N/A |
-| 18 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 19 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
-| 20 | [Goddess Durga](http://twitter.com/search?q=Goddess+Durga) | N/A |
-| 21 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 22 | [शक्ति उपासना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 23 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 24 | [Aim To End TB](http://twitter.com/search?q=Aim+To+End+TB) | N/A |
-| 25 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 26 | [पद्म पुरस्कार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 27 | [Sushant Worked Wonders](http://twitter.com/search?q=Sushant+Worked+Wonders) | N/A |
-| 28 | [100 FIR](http://twitter.com/search?q=100+FIR) | N/A |
-| 29 | [कुमार यादव](http://twitter.com/search?q=%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 30 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 31 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 32 | [Grand Mufti](http://twitter.com/search?q=Grand+Mufti) | N/A |
-| 33 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 34 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 35 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 36 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
-| 37 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
-| 38 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 39 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 40 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 41 | [Yellen](http://twitter.com/search?q=Yellen) | N/A |
-| 42 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 43 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 44 | [Good Morning Sir](http://twitter.com/search?q=Good+Morning+Sir) | N/A |
-| 45 | [श्री दादी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a4%be%e0%a4%a6%e0%a5%80) | N/A |
-| 46 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 47 | [श्री स्वामी समर्थ](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5) | N/A |
-| 48 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 49 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 50 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 10 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 11 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 12 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 13 | [Ramadan Kareem](http://twitter.com/search?q=Ramadan+Kareem) | N/A |
+| 14 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 15 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
+| 16 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
+| 17 | [#BhagatSingh](http://twitter.com/search?q=%23BhagatSingh) | N/A |
+| 18 | [#Rajguru](http://twitter.com/search?q=%23Rajguru) | N/A |
+| 19 | [#सुखदेव](http://twitter.com/search?q=%23%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 20 | [#Sukhdev](http://twitter.com/search?q=%23Sukhdev) | N/A |
+| 21 | [#राजगुरु](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81) | N/A |
+| 22 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 23 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 24 | [#बलिदान_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 25 | [#MartyrsDay](http://twitter.com/search?q=%23MartyrsDay) | N/A |
+| 26 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
+| 27 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 28 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 29 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
+| 30 | [#NTR30Muhurtham](http://twitter.com/search?q=%23NTR30Muhurtham) | N/A |
+| 31 | [#जय__माता__दी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af__%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be__%e0%a4%a6%e0%a5%80) | N/A |
+| 32 | [#HappyBirthdayKanganaRanaut](http://twitter.com/search?q=%23HappyBirthdayKanganaRanaut) | N/A |
+| 33 | [#23_मार्च_बिहार_बंद](http://twitter.com/search?q=%2323_%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a_%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6) | N/A |
+| 34 | [#SuryakumarYadav](http://twitter.com/search?q=%23SuryakumarYadav) | #SuryakumarYadav is the name of an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. He is known for his aggressive batting style and is considered one of the most promising young batsmen in India. |
+| 35 | [#INDvsAUS3rdodi](http://twitter.com/search?q=%23INDvsAUS3rdodi) | N/A |
+| 36 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
+| 37 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 38 | [#PadmaAwards2023](http://twitter.com/search?q=%23PadmaAwards2023) | N/A |
 
 
 

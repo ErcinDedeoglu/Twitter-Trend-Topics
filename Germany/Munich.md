@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-23 01:44:05 UTC`
+📆 Last Updated: `2023-03-23 02:31:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
 | 2 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 5 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
-| 6 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
+| 3 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 4 | [#WeltWasserTag](http://twitter.com/search?q=%23WeltWasserTag) | N/A |
+| 5 | [#AktenzeichenXY](http://twitter.com/search?q=%23AktenzeichenXY) | N/A |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 8 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 9 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 10 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 11 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 12 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 13 | [Vertrauen in die Regierung](http://twitter.com/search?q=Vertrauen+in+die+Regierung) | N/A |
-| 14 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 15 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
-| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 17 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 18 | [peter urban](http://twitter.com/search?q=peter+urban) | N/A |
-| 19 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 20 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 21 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 10 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 11 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 12 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 14 | [vertrauen in die regierung](http://twitter.com/search?q=vertrauen+in+die+regierung) | N/A |
+| 15 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 16 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
+| 17 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 19 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 20 | [peter urban](http://twitter.com/search?q=peter+urban) | N/A |
+| 21 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
 | 22 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
 | 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 25 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
-| 26 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 27 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 28 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 29 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 30 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 31 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 24 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 25 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 26 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 27 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
+| 28 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 29 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 30 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 31 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
 | 32 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
-| 33 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 34 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 35 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
-| 36 | [Feinde der Demokratie](http://twitter.com/search?q=Feinde+der+Demokratie) | N/A |
-| 37 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 38 | [Möge Allah](http://twitter.com/search?q=M%c3%b6ge+Allah) | N/A |
-| 39 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 40 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 41 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 42 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 43 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 44 | [Migrantengewalt](http://twitter.com/search?q=Migrantengewalt) | N/A |
-| 45 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 46 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
-| 47 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 48 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 49 | [Amtseid](http://twitter.com/search?q=Amtseid) | N/A |
-| 50 | [Ausbau des Bundeskanzleramts](http://twitter.com/search?q=Ausbau+des+Bundeskanzleramts) | N/A |
+| 33 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 34 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 35 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 36 | ['Farbtupfer'](http://twitter.com/search?q=%27Farbtupfer%27) | N/A |
+| 37 | [Feinde der Demokratie](http://twitter.com/search?q=Feinde+der+Demokratie) | N/A |
+| 38 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 39 | [Möge Allah](http://twitter.com/search?q=M%c3%b6ge+Allah) | N/A |
+| 40 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 41 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 42 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 43 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 44 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
+| 45 | [migrantengewalt](http://twitter.com/search?q=migrantengewalt) | N/A |
+| 46 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
+| 47 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 48 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
+| 49 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 50 | [Amtseid](http://twitter.com/search?q=Amtseid) | N/A |
 
 
 
