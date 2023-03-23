@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-23 19:16:47 UTC`
+📆 Last Updated: `2023-03-23 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tarcisio](http://twitter.com/search?q=Tarcisio) | N/A |
-| 2 | [Claudinho](http://twitter.com/search?q=Claudinho) | N/A |
+| 1 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 2 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
 | 3 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 4 | [Impeachment](http://twitter.com/search?q=Impeachment) | N/A |
+| 4 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
 | 5 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 6 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 7 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 8 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 9 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 10 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 11 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 12 | [Floripa](http://twitter.com/search?q=Floripa) | N/A |
-| 13 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 14 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 16 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 17 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 18 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 19 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 20 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 21 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 22 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 23 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
-| 24 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 25 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 26 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 27 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
-| 28 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
-| 29 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
-| 30 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
-| 31 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 32 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 33 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 34 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
-| 35 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 36 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 37 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 38 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 39 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 40 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 41 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
-| 42 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 43 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 44 | [Luizinho](http://twitter.com/search?q=Luizinho) | N/A |
-| 45 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 46 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 47 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 48 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
-| 49 | [juliana nalu](http://twitter.com/search?q=juliana+nalu) | Juliana Nalu is a Hawaiian phrase meaning "beautiful day". It is often used as a greeting or to express appreciation for a beautiful day. |
-| 50 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 6 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 7 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
+| 8 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 9 | [Greve](http://twitter.com/search?q=Greve) | N/A |
+| 10 | [Primavera](http://twitter.com/search?q=Primavera) | N/A |
+| 11 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 12 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 13 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 14 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 15 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 16 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 17 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
+| 18 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 19 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 20 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 21 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 22 | [#EliminatoriasEuroNaESPN](http://twitter.com/search?q=%23EliminatoriasEuroNaESPN) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
+| 25 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 26 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 27 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 28 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 29 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 30 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 31 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
+| 32 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 33 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
+| 34 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
+| 35 | [Decência](http://twitter.com/search?q=Dec%c3%aancia) | N/A |
+| 36 | [RONALDO GORDÃO](http://twitter.com/search?q=RONALDO+GORD%c3%83O) | N/A |
+| 37 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
+| 38 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
+| 39 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 40 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
+| 41 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 42 | [#ludmillavilã](http://twitter.com/search?q=%23ludmillavil%c3%a3) | N/A |
+| 43 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 44 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
+| 45 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
+| 46 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 47 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 48 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 49 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 50 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
 
 
 

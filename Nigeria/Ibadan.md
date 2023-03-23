@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-23 19:17:06 UTC`
+📆 Last Updated: `2023-03-23 20:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 3 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 2 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 3 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
 | 4 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 6 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
-| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 8 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 10 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
-| 11 | [#MinimieXBBTitans](http://twitter.com/search?q=%23MinimieXBBTitans) | N/A |
-| 12 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 13 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
-| 14 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
-| 17 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 18 | [#TECNOxMTN](http://twitter.com/search?q=%23TECNOxMTN) | N/A |
-| 19 | [#fairmoneybyow](http://twitter.com/search?q=%23fairmoneybyow) | N/A |
-| 20 | [#Siddiqah](http://twitter.com/search?q=%23Siddiqah) | N/A |
-| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 22 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
-| 23 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 24 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
-| 25 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 26 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 28 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 29 | [The 800k](http://twitter.com/search?q=The+800k) | N/A |
-| 30 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
-| 31 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 32 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
-| 33 | [8 Senators](http://twitter.com/search?q=8+Senators) | N/A |
-| 34 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 35 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 36 | [What of Wike](http://twitter.com/search?q=What+of+Wike) | N/A |
-| 37 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
-| 38 | [Helper](http://twitter.com/search?q=Helper) | N/A |
-| 39 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 40 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
-| 41 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
-| 42 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
-| 43 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 44 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
-| 45 | [Fabregas](http://twitter.com/search?q=Fabregas) | N/A |
-| 46 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
-| 47 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 48 | [1 Governor](http://twitter.com/search?q=1+Governor) | N/A |
-| 49 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 50 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 5 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
+| 6 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 7 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 8 | [London](http://twitter.com/search?q=London) | N/A |
+| 9 | [Mathematics](http://twitter.com/search?q=Mathematics) | N/A |
+| 10 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 11 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
+| 12 | [#GCKinCameroon](http://twitter.com/search?q=%23GCKinCameroon) | N/A |
+| 13 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 14 | [Chief Justice of Nigeria](http://twitter.com/search?q=Chief+Justice+of+Nigeria) | N/A |
+| 15 | [England](http://twitter.com/search?q=England) | N/A |
+| 16 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 17 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 18 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 19 | [Senior Advocate of Nonsense](http://twitter.com/search?q=Senior+Advocate+of+Nonsense) | N/A |
+| 20 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
+| 21 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 22 | [The 800k](http://twitter.com/search?q=The+800k) | N/A |
+| 23 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 24 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 25 | [SANpaper](http://twitter.com/search?q=SANpaper) | N/A |
+| 26 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 27 | [Mr Mugu](http://twitter.com/search?q=Mr+Mugu) | N/A |
+| 28 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 29 | [Fabregas](http://twitter.com/search?q=Fabregas) | N/A |
+| 30 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 31 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 32 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
+| 33 | [United Kingdom](http://twitter.com/search?q=United+Kingdom) | N/A |
+| 34 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 35 | [Channels](http://twitter.com/search?q=Channels) | N/A |
+| 36 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
+| 37 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 39 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 40 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 41 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [Betting](http://twitter.com/search?q=Betting) | N/A |
+| 44 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
+| 45 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 46 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
+| 47 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 48 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 49 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 50 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
 
 
 

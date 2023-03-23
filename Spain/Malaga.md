@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-23 19:16:54 UTC`
+📆 Last Updated: `2023-03-23 20:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 2 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 3 | [#CrisPorta23M](http://twitter.com/search?q=%23CrisPorta23M) | N/A |
-| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 5 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
-| 6 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 7 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
-| 8 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 9 | [Torrelodones](http://twitter.com/search?q=Torrelodones) | N/A |
-| 10 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 11 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 12 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 13 | [Teide](http://twitter.com/search?q=Teide) | N/A |
-| 14 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
-| 15 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
-| 16 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
-| 17 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
-| 18 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 19 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 20 | [Mérida](http://twitter.com/search?q=M%c3%a9rida) | N/A |
-| 21 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
-| 22 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
-| 23 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 25 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
-| 26 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 27 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
-| 28 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
-| 29 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
-| 30 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 31 | [Junta de Andalucía](http://twitter.com/search?q=Junta+de+Andaluc%c3%ada) | N/A |
-| 32 | [Hades](http://twitter.com/search?q=Hades) | N/A |
-| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 34 | [Cinesa](http://twitter.com/search?q=Cinesa) | N/A |
-| 35 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 36 | [#IFVillanuevaViver](http://twitter.com/search?q=%23IFVillanuevaViver) | N/A |
-| 37 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 38 | [#yademasedobla](http://twitter.com/search?q=%23yademasedobla) | N/A |
-| 39 | [#Pecado23Mar](http://twitter.com/search?q=%23Pecado23Mar) | N/A |
-| 40 | [#PrimaveraHONORyTiendasMASlife](http://twitter.com/search?q=%23PrimaveraHONORyTiendasMASlife) | N/A |
-| 41 | [#YoMeRebelo23M](http://twitter.com/search?q=%23YoMeRebelo23M) | N/A |
-| 42 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
-| 43 | [#MadridEsCiencia](http://twitter.com/search?q=%23MadridEsCiencia) | N/A |
-| 44 | [#APOYOROCIO23M](http://twitter.com/search?q=%23APOYOROCIO23M) | N/A |
-| 45 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 46 | [#SoloParaValientes](http://twitter.com/search?q=%23SoloParaValientes) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#Pasapalabra731](http://twitter.com/search?q=%23Pasapalabra731) | N/A |
+| 3 | [#ElCazador687](http://twitter.com/search?q=%23ElCazador687) | N/A |
+| 4 | [#CrisPorta23M](http://twitter.com/search?q=%23CrisPorta23M) | N/A |
+| 5 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 6 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 7 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
+| 8 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 9 | [Estrella Roja](http://twitter.com/search?q=Estrella+Roja) | N/A |
+| 10 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
+| 11 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 12 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
+| 13 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 14 | [Torrelodones](http://twitter.com/search?q=Torrelodones) | N/A |
+| 15 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 16 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
+| 17 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 18 | [Mérida](http://twitter.com/search?q=M%c3%a9rida) | N/A |
+| 19 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
+| 20 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
+| 21 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 22 | [Teide](http://twitter.com/search?q=Teide) | N/A |
+| 23 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
+| 24 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
+| 25 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 26 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
+| 27 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 28 | [Castilla y León](http://twitter.com/search?q=Castilla+y+Le%c3%b3n) | N/A |
+| 29 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 30 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
+| 31 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
+| 32 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 33 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
+| 34 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
+| 35 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
+| 36 | [Junta de Andalucía](http://twitter.com/search?q=Junta+de+Andaluc%c3%ada) | N/A |
+| 37 | [Hades](http://twitter.com/search?q=Hades) | N/A |
+| 38 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 39 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 40 | [#IFVillanuevaViver](http://twitter.com/search?q=%23IFVillanuevaViver) | N/A |
+| 41 | [#yademasedobla](http://twitter.com/search?q=%23yademasedobla) | N/A |
+| 42 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 43 | [#Pecado23Mar](http://twitter.com/search?q=%23Pecado23Mar) | N/A |
+| 44 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 45 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 46 | [#YoMeRebelo23M](http://twitter.com/search?q=%23YoMeRebelo23M) | N/A |
+| 47 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
+| 48 | [#PrimaveraHONORyTiendasMASlife](http://twitter.com/search?q=%23PrimaveraHONORyTiendasMASlife) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-23 19:17:22 UTC`
+📆 Last Updated: `2023-03-23 20:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BoostCuse](http://twitter.com/search?q=%23BoostCuse) | N/A |
-| 2 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
-| 3 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
-| 4 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 5 | [#UNWaterConference](http://twitter.com/search?q=%23UNWaterConference) | N/A |
-| 6 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 7 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 8 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 10 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
-| 11 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 12 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 13 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 14 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 15 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 16 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
-| 17 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 18 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 20 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 21 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 22 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 23 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 24 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 25 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 26 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 27 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 28 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 29 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 30 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
-| 31 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 32 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 33 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
-| 34 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
-| 35 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 36 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 37 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
-| 38 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 39 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
-| 40 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 41 | [Sonic Origins](http://twitter.com/search?q=Sonic+Origins) | N/A |
-| 42 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 43 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 44 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
-| 45 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
-| 46 | [Luminosity](http://twitter.com/search?q=Luminosity) | N/A |
-| 47 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 48 | [Darick Hall](http://twitter.com/search?q=Darick+Hall) | N/A |
-| 49 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
-| 50 | [VOTA A RAGE RISING](http://twitter.com/search?q=VOTA+A+RAGE+RISING) | N/A |
+| 1 | [#UNWaterConference](http://twitter.com/search?q=%23UNWaterConference) | N/A |
+| 2 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
+| 3 | [#BoostCuse](http://twitter.com/search?q=%23BoostCuse) | N/A |
+| 4 | [Kari Lake](http://twitter.com/search?q=Kari+Lake) | N/A |
+| 5 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 6 | [DHop](http://twitter.com/search?q=DHop) | DHop is an acronym for "Drop Hop," which is a type of dance move. It involves dropping down to the ground and then hopping back up into the air. The move is often used in hip-hop and street dance styles. |
+| 7 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 8 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 9 | [Diggs](http://twitter.com/search?q=Diggs) | Diggs is a slang term used to describe someone who is very popular or well-liked. It can also be used to describe someone who is fashionable or stylish. |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 12 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 14 | [BECKY G](http://twitter.com/search?q=BECKY+G) | N/A |
+| 15 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
+| 16 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 17 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 18 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
+| 19 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 20 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 21 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 22 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 23 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 24 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 25 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 26 | [Breece](http://twitter.com/search?q=Breece) | N/A |
+| 27 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 29 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 30 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 31 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 32 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 33 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 34 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 35 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
+| 36 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 37 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 38 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 39 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
+| 40 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 41 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 42 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
+| 43 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 44 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 45 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 46 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 47 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 48 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
+| 49 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 50 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 

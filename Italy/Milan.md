@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-23 19:16:53 UTC`
+📆 Last Updated: `2023-03-23 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
-| 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 3 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 4 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 5 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 6 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 7 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
-| 8 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 9 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 13 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 14 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 15 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 16 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
-| 17 | [giovanna sannino](http://twitter.com/search?q=giovanna+sannino) | N/A |
-| 18 | [England](http://twitter.com/search?q=England) | N/A |
-| 19 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 20 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 21 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 22 | [Anbeta](http://twitter.com/search?q=Anbeta) | N/A |
-| 23 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 24 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 25 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 26 | [Mangiatela](http://twitter.com/search?q=Mangiatela) | N/A |
-| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 28 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 29 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 30 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 31 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 32 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 33 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 34 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 35 | [Toloi](http://twitter.com/search?q=Toloi) | N/A |
-| 36 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
-| 37 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 38 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 39 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 40 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 41 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 42 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 43 | [Piazza della Loggia](http://twitter.com/search?q=Piazza+della+Loggia) | N/A |
-| 44 | [James Key](http://twitter.com/search?q=James+Key) | N/A |
-| 45 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 46 | [Myrta](http://twitter.com/search?q=Myrta) | N/A |
-| 47 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 48 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 49 | [Ma Oriana](http://twitter.com/search?q=Ma+Oriana) | N/A |
-| 50 | [Cabrini](http://twitter.com/search?q=Cabrini) | N/A |
+| 1 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 2 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 3 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 4 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
+| 5 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 6 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 7 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 8 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 9 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Mameli](http://twitter.com/search?q=Mameli) | N/A |
+| 12 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 13 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 14 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 15 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 16 | [Vialli](http://twitter.com/search?q=Vialli) | N/A |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 18 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 19 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 20 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 21 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 22 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 23 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 25 | [England](http://twitter.com/search?q=England) | N/A |
+| 26 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 27 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 28 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
+| 29 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 30 | [giovanna sannino](http://twitter.com/search?q=giovanna+sannino) | N/A |
+| 31 | [Forza Azzurri](http://twitter.com/search?q=Forza+Azzurri) | N/A |
+| 32 | [Cabrini](http://twitter.com/search?q=Cabrini) | N/A |
+| 33 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 35 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 36 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 37 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 38 | [Anbeta](http://twitter.com/search?q=Anbeta) | N/A |
+| 39 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 40 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 41 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 42 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 43 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 44 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 45 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 46 | [carmine e filippo](http://twitter.com/search?q=carmine+e+filippo) | N/A |
+| 47 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 48 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 49 | [Mangiatela](http://twitter.com/search?q=Mangiatela) | N/A |
+| 50 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
 
 
 

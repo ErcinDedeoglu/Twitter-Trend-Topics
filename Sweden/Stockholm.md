@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-23 19:16:56 UTC`
+📆 Last Updated: `2023-03-23 20:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Sweden](</Sweden>)
 | 2 | [#鄂尔多斯](http://twitter.com/search?q=%23%e9%84%82%e5%b0%94%e5%a4%9a%e6%96%af) | N/A |
 | 3 | [#呼伦贝尔](http://twitter.com/search?q=%23%e5%91%bc%e4%bc%a6%e8%b4%9d%e5%b0%94) | N/A |
 | 4 | [#克拉玛依](http://twitter.com/search?q=%23%e5%85%8b%e6%8b%89%e7%8e%9b%e4%be%9d) | N/A |
-| 5 | [#齐齐哈尔](http://twitter.com/search?q=%23%e9%bd%90%e9%bd%90%e5%93%88%e5%b0%94) | N/A |
-| 6 | [#乌兰察布](http://twitter.com/search?q=%23%e4%b9%8c%e5%85%b0%e5%af%9f%e5%b8%83) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 8 | [It is JUST](http://twitter.com/search?q=It+is+JUST) | N/A |
-| 9 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 10 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 11 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 12 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
-| 13 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 14 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
-| 15 | [Widding](http://twitter.com/search?q=Widding) | N/A |
-| 16 | [högmo](http://twitter.com/search?q=h%c3%b6gmo) | N/A |
-| 17 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
-| 18 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
-| 19 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
-| 20 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
-| 21 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
-| 22 | [Nord](http://twitter.com/search?q=Nord) | N/A |
-| 23 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
-| 26 | [Buya](http://twitter.com/search?q=Buya) | N/A |
-| 27 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
-| 28 | [Supper](http://twitter.com/search?q=Supper) | N/A |
-| 29 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 30 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
-| 31 | [Sjukt](http://twitter.com/search?q=Sjukt) | N/A |
-| 32 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
-| 33 | [Slow](http://twitter.com/search?q=Slow) | N/A |
-| 34 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
-| 35 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 36 | [Folkhemsel](http://twitter.com/search?q=Folkhemsel) | N/A |
-| 37 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
-| 38 | [elin kjos](http://twitter.com/search?q=elin+kjos) | N/A |
-| 39 | [Bottoms](http://twitter.com/search?q=Bottoms) | N/A |
-| 40 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 41 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 42 | [Jonna Sima](http://twitter.com/search?q=Jonna+Sima) | N/A |
-| 43 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 44 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 45 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
-| 46 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 47 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 48 | [Bosnien](http://twitter.com/search?q=Bosnien) | N/A |
-| 49 | [Avgå](http://twitter.com/search?q=Avg%c3%a5) | N/A |
-| 50 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 5 | [Timashov](http://twitter.com/search?q=Timashov) | N/A |
+| 6 | [#齐齐哈尔](http://twitter.com/search?q=%23%e9%bd%90%e9%bd%90%e5%93%88%e5%b0%94) | N/A |
+| 7 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 8 | [Craft](http://twitter.com/search?q=Craft) | N/A |
+| 9 | [Westerholm](http://twitter.com/search?q=Westerholm) | N/A |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [It is JUST](http://twitter.com/search?q=It+is+JUST) | N/A |
+| 14 | [Hugo Larsson](http://twitter.com/search?q=Hugo+Larsson) | N/A |
+| 15 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 16 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 17 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 18 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 19 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
+| 20 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
+| 21 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 22 | [Widding](http://twitter.com/search?q=Widding) | N/A |
+| 23 | [högmo](http://twitter.com/search?q=h%c3%b6gmo) | N/A |
+| 24 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 25 | [Gnaget](http://twitter.com/search?q=Gnaget) | N/A |
+| 26 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
+| 27 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
+| 28 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
+| 29 | [Västerås](http://twitter.com/search?q=V%c3%a4ster%c3%a5s) | N/A |
+| 30 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
+| 31 | [England](http://twitter.com/search?q=England) | N/A |
+| 32 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 33 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 34 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
+| 35 | [Buya](http://twitter.com/search?q=Buya) | N/A |
+| 36 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 37 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
+| 38 | [Supper](http://twitter.com/search?q=Supper) | N/A |
+| 39 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 40 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 41 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
+| 42 | [Varmt](http://twitter.com/search?q=Varmt) | N/A |
+| 43 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 44 | [Slow](http://twitter.com/search?q=Slow) | N/A |
+| 45 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
+| 46 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 47 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
+| 48 | [Folkhemsel](http://twitter.com/search?q=Folkhemsel) | N/A |
+| 49 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
+| 50 | [elin kjos](http://twitter.com/search?q=elin+kjos) | N/A |
 
 
 

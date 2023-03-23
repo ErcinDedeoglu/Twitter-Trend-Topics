@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-23 19:17:05 UTC`
+📆 Last Updated: `2023-03-23 20:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 2 | [Angola](http://twitter.com/search?q=Angola) | N/A |
-| 3 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 4 | [Antoine Semenyo](http://twitter.com/search?q=Antoine+Semenyo) | N/A |
-| 5 | [#GHAANG](http://twitter.com/search?q=%23GHAANG) | N/A |
+| 1 | [Angola](http://twitter.com/search?q=Angola) | N/A |
+| 2 | [#GHAANG](http://twitter.com/search?q=%23GHAANG) | N/A |
+| 3 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 4 | [Semenyo](http://twitter.com/search?q=Semenyo) | N/A |
+| 5 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
 | 6 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
-| 7 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
-| 8 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
-| 9 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
-| 10 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 13 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 14 | [Afena Gyan](http://twitter.com/search?q=Afena+Gyan) | Afena Gyan is an Akan proverb from Ghana which translates to "Knowledge is power". It is a reminder that knowledge is the key to success and should be sought after. |
-| 15 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 16 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
-| 17 | [Salis](http://twitter.com/search?q=Salis) | N/A |
-| 18 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
-| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 20 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 21 | [Edmund Addo](http://twitter.com/search?q=Edmund+Addo) | N/A |
-| 22 | [Kumasi](http://twitter.com/search?q=Kumasi) | N/A |
+| 7 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
+| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 9 | [Afena Gyan](http://twitter.com/search?q=Afena+Gyan) | Afena Gyan is an Akan proverb from Ghana which translates to "Knowledge is power". It is a reminder that knowledge is the key to success and should be sought after. |
+| 10 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 11 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
+| 12 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 13 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
+| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 15 | [Salis](http://twitter.com/search?q=Salis) | N/A |
+| 16 | [Kumasi](http://twitter.com/search?q=Kumasi) | N/A |
+| 17 | [Edmund Addo](http://twitter.com/search?q=Edmund+Addo) | N/A |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 19 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
+| 20 | [Kim Grant](http://twitter.com/search?q=Kim+Grant) | N/A |
+| 21 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 22 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
 | 23 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 24 | [Bukari](http://twitter.com/search?q=Bukari) | N/A |
-| 25 | [Kim Grant](http://twitter.com/search?q=Kim+Grant) | N/A |
-| 26 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 27 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
-| 28 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
-| 29 | [#BringBackTheLove](http://twitter.com/search?q=%23BringBackTheLove) | N/A |
-| 30 | [#citicbs](http://twitter.com/search?q=%23citicbs) | N/A |
-| 31 | [Paintsil](http://twitter.com/search?q=Paintsil) | N/A |
-| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 33 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 34 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 35 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 36 | [U-23](http://twitter.com/search?q=U-23) | N/A |
+| 24 | [#citicbs](http://twitter.com/search?q=%23citicbs) | N/A |
+| 25 | [#BringBackTheLove](http://twitter.com/search?q=%23BringBackTheLove) | N/A |
+| 26 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 27 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 28 | [Paintsil](http://twitter.com/search?q=Paintsil) | N/A |
+| 29 | [#OwletForBusiness](http://twitter.com/search?q=%23OwletForBusiness) | N/A |
+| 30 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 31 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 32 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 33 | [England](http://twitter.com/search?q=England) | N/A |
+| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 35 | [U-23](http://twitter.com/search?q=U-23) | N/A |
+| 36 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
 | 37 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 38 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
-| 39 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 38 | [Bukari](http://twitter.com/search?q=Bukari) | N/A |
+| 39 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
 | 40 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 41 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
-| 42 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
-| 43 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 44 | [Helder Costa](http://twitter.com/search?q=Helder+Costa) | N/A |
-| 45 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 47 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 48 | [Mallam](http://twitter.com/search?q=Mallam) | N/A |
-| 49 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
-| 50 | [Useless](http://twitter.com/search?q=Useless) | N/A |
+| 41 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 42 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 43 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 44 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 45 | [Helder Costa](http://twitter.com/search?q=Helder+Costa) | N/A |
+| 46 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 48 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 49 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 
 
 

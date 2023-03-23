@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-23 19:17:26 UTC`
+📆 Last Updated: `2023-03-23 20:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Brazil
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 2 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 3 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 4 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 5 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 6 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 7 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 8 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 9 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 10 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
-| 11 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 12 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 13 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 14 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
-| 15 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
-| 16 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
-| 17 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 18 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
-| 19 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 20 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 21 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
-| 22 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 23 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
-| 24 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 25 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 26 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 27 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 28 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 29 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 30 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 31 | [Luizinho](http://twitter.com/search?q=Luizinho) | N/A |
-| 32 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 33 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 34 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 35 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
-| 36 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
-| 37 | [juliana nalu](http://twitter.com/search?q=juliana+nalu) | Juliana Nalu is a Hawaiian phrase meaning "beautiful day". It is often used as a greeting or to express appreciation for a beautiful day. |
-| 38 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 39 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
-| 40 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
-| 41 | [Galo Doido](http://twitter.com/search?q=Galo+Doido) | N/A |
-| 42 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 43 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 44 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 45 | [WILL NO FLAMENGO](http://twitter.com/search?q=WILL+NO+FLAMENGO) | N/A |
-| 46 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 47 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 48 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 49 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 50 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 4 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 5 | [#EliminatoriasEuroNaESPN](http://twitter.com/search?q=%23EliminatoriasEuroNaESPN) | N/A |
+| 6 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 7 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
+| 8 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 9 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 10 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 11 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 12 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 13 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 14 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
+| 15 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 16 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 17 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
+| 18 | [RONALDO GORDÃO](http://twitter.com/search?q=RONALDO+GORD%c3%83O) | N/A |
+| 19 | [Decência](http://twitter.com/search?q=Dec%c3%aancia) | N/A |
+| 20 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
+| 21 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
+| 22 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 23 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
+| 24 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
+| 25 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
+| 26 | [#ludmillavilã](http://twitter.com/search?q=%23ludmillavil%c3%a3) | N/A |
+| 27 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 28 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 29 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
+| 30 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 31 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 32 | [O JK](http://twitter.com/search?q=O+JK) | N/A |
+| 33 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 34 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
+| 35 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
+| 36 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
+| 37 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 38 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
+| 39 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
+| 40 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 41 | [Complexo do Salgueiro](http://twitter.com/search?q=Complexo+do+Salgueiro) | N/A |
+| 42 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 43 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 44 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 45 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 46 | [juliana nalu](http://twitter.com/search?q=juliana+nalu) | Juliana Nalu is a Hawaiian phrase meaning "beautiful day". It is often used as a greeting or to express appreciation for a beautiful day. |
+| 47 | [O Lula](http://twitter.com/search?q=O+Lula) | N/A |
+| 48 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
+| 49 | [Luizinho](http://twitter.com/search?q=Luizinho) | N/A |
+| 50 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
 
 
 

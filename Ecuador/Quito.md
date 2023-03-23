@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-23 19:16:45 UTC`
+📆 Last Updated: `2023-03-23 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [#CNECumplió](http://twitter.com/search?q=%23CNECumpli%c3%b3) | N/A |
 | 2 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
-| 3 | [#lluvia](http://twitter.com/search?q=%23lluvia) | N/A |
-| 4 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 5 | [#inundaciones](http://twitter.com/search?q=%23inundaciones) | N/A |
-| 6 | [Marcos Olmedo](http://twitter.com/search?q=Marcos+Olmedo) | N/A |
-| 7 | [Cynthia Viteri](http://twitter.com/search?q=Cynthia+Viteri) | N/A |
-| 8 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 9 | [#Pastaza](http://twitter.com/search?q=%23Pastaza) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#lluvia](http://twitter.com/search?q=%23lluvia) | N/A |
+| 5 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 6 | [#inundaciones](http://twitter.com/search?q=%23inundaciones) | N/A |
+| 7 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 8 | [#Pastaza](http://twitter.com/search?q=%23Pastaza) | N/A |
+| 9 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
 | 10 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 11 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 12 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
+| 11 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
+| 12 | [Cynthia Viteri](http://twitter.com/search?q=Cynthia+Viteri) | N/A |
 | 13 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
 | 14 | [Guayas](http://twitter.com/search?q=Guayas) | N/A |
-| 15 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
-| 16 | [Daule](http://twitter.com/search?q=Daule) | N/A |
-| 17 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 18 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 19 | [Samanes](http://twitter.com/search?q=Samanes) | N/A |
+| 15 | [Marcos Olmedo](http://twitter.com/search?q=Marcos+Olmedo) | N/A |
+| 16 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 17 | [Daule](http://twitter.com/search?q=Daule) | N/A |
+| 18 | [Samanes](http://twitter.com/search?q=Samanes) | N/A |
+| 19 | [Thor](http://twitter.com/search?q=Thor) | N/A |
 | 20 | [Lolo](http://twitter.com/search?q=Lolo) | N/A |
-| 21 | [Macará](http://twitter.com/search?q=Macar%c3%a1) | N/A |
-| 22 | [Inclusión Digital](http://twitter.com/search?q=Inclusi%c3%b3n+Digital) | N/A |
+| 21 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 22 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
 | 23 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 24 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
-| 25 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
-| 26 | [Francisco de Orellana](http://twitter.com/search?q=Francisco+de+Orellana) | N/A |
-| 27 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 28 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
-| 29 | [Gustavo Alfaro](http://twitter.com/search?q=Gustavo+Alfaro) | Gustavo Alfaro is a Spanish surname. It is derived from the Germanic personal name Alfaro, which means "nobleman". In English, the name Gustavo Alfaro would translate to "nobleman of Alfaro". |
-| 30 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 31 | [Sauces](http://twitter.com/search?q=Sauces) | N/A |
-| 32 | [50 Casas](http://twitter.com/search?q=50+Casas) | N/A |
-| 33 | [ganó henry](http://twitter.com/search?q=gan%c3%b3+henry) | N/A |
+| 24 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
+| 25 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 26 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 27 | [Francisco de Orellana](http://twitter.com/search?q=Francisco+de+Orellana) | N/A |
+| 28 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 29 | [Macará](http://twitter.com/search?q=Macar%c3%a1) | N/A |
+| 30 | [Inclusión Digital](http://twitter.com/search?q=Inclusi%c3%b3n+Digital) | N/A |
+| 31 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 32 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 33 | [Sauces](http://twitter.com/search?q=Sauces) | N/A |
 | 34 | [RRHH](http://twitter.com/search?q=RRHH) | N/A |
-| 35 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 35 | [ganó henry](http://twitter.com/search?q=gan%c3%b3+henry) | N/A |
 | 36 | [Febres Cordero](http://twitter.com/search?q=Febres+Cordero) | N/A |
-| 37 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 38 | [Chicaiza](http://twitter.com/search?q=Chicaiza) | N/A |
-| 39 | [Diego Castro](http://twitter.com/search?q=Diego+Castro) | N/A |
-| 40 | [Dragado](http://twitter.com/search?q=Dragado) | N/A |
-| 41 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 42 | [COE Cantonal](http://twitter.com/search?q=COE+Cantonal) | N/A |
-| 43 | [Fabián Bustos](http://twitter.com/search?q=Fabi%c3%a1n+Bustos) | N/A |
-| 44 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 45 | [Pascuales](http://twitter.com/search?q=Pascuales) | N/A |
-| 46 | [Independiente de Avellaneda](http://twitter.com/search?q=Independiente+de+Avellaneda) | N/A |
-| 47 | [Narcisa de Jesús](http://twitter.com/search?q=Narcisa+de+Jes%c3%bas) | N/A |
-| 48 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 49 | [Tlever](http://twitter.com/search?q=Tlever) | N/A |
-| 50 | [Camilo Sesto](http://twitter.com/search?q=Camilo+Sesto) | N/A |
+| 37 | [Fabián Bustos](http://twitter.com/search?q=Fabi%c3%a1n+Bustos) | N/A |
+| 38 | [50 Casas](http://twitter.com/search?q=50+Casas) | N/A |
+| 39 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
+| 40 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 41 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
+| 42 | [diego castro](http://twitter.com/search?q=diego+castro) | N/A |
+| 43 | [Dragado](http://twitter.com/search?q=Dragado) | N/A |
+| 44 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 46 | [COE Cantonal](http://twitter.com/search?q=COE+Cantonal) | N/A |
+| 47 | [Chicaiza](http://twitter.com/search?q=Chicaiza) | N/A |
+| 48 | [Independiente de Avellaneda](http://twitter.com/search?q=Independiente+de+Avellaneda) | N/A |
+| 49 | [Santa Clara](http://twitter.com/search?q=Santa+Clara) | N/A |
+| 50 | [Narcisa de Jesús](http://twitter.com/search?q=Narcisa+de+Jes%c3%bas) | N/A |
 
 
 

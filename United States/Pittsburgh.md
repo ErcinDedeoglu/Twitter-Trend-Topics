@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-23 19:17:22 UTC`
+📆 Last Updated: `2023-03-23 20:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
-| 2 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 3 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 5 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 6 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 7 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 8 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
-| 9 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 10 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 11 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 12 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 13 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 14 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
-| 15 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 16 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 17 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 19 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 20 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 21 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 22 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 23 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 24 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 25 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 26 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 27 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
-| 28 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
-| 29 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 30 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
-| 31 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 32 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 34 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 35 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
-| 36 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 37 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
-| 38 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 39 | [Sonic Origins](http://twitter.com/search?q=Sonic+Origins) | N/A |
-| 40 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 41 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 42 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
-| 43 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
-| 44 | [Luminosity](http://twitter.com/search?q=Luminosity) | N/A |
-| 45 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 46 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
-| 47 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
-| 48 | [VOTA A RAGE RISING](http://twitter.com/search?q=VOTA+A+RAGE+RISING) | N/A |
+| 1 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 2 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
+| 3 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 4 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 7 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 8 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 9 | [BECKY G](http://twitter.com/search?q=BECKY+G) | N/A |
+| 10 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
+| 11 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 12 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 13 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
+| 14 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 15 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 16 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 17 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 18 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 19 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 20 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 21 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 22 | [Breece](http://twitter.com/search?q=Breece) | N/A |
+| 23 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 24 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 25 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 26 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 27 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 28 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 29 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 30 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 31 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
+| 32 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 33 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 34 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 35 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
+| 36 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 37 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 38 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
+| 39 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 40 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 41 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 42 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 43 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 44 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
+| 45 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 46 | [England](http://twitter.com/search?q=England) | N/A |
+| 47 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 48 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
 | 49 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
 
 

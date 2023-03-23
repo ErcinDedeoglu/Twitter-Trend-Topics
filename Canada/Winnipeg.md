@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-23 19:16:36 UTC`
+📆 Last Updated: `2023-03-23 20:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 4 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 5 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 6 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 8 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 9 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 10 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
-| 11 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 12 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
-| 13 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 14 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 15 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
-| 16 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 17 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 18 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 20 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 4 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 5 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 7 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 8 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 9 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 10 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 11 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
+| 12 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 13 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 14 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
+| 15 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 16 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 17 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 18 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 20 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 | 22 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 23 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 23 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
 | 24 | [Lebreton](http://twitter.com/search?q=Lebreton) | N/A |
-| 25 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 25 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
 | 26 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
 | 27 | [Ohtani vs Trout](http://twitter.com/search?q=Ohtani+vs+Trout) | N/A |
-| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 29 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
-| 30 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 31 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 32 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 33 | [Maher Arar](http://twitter.com/search?q=Maher+Arar) | N/A |
-| 34 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 35 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 36 | [Meng](http://twitter.com/search?q=Meng) | N/A |
-| 37 | [Sonic Origins](http://twitter.com/search?q=Sonic+Origins) | N/A |
-| 38 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 39 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 40 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 41 | [Ahmed](http://twitter.com/search?q=Ahmed) | N/A |
-| 42 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 43 | [Askarov](http://twitter.com/search?q=Askarov) | N/A |
+| 28 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 29 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 30 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 31 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 32 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 33 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 34 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 35 | [Maher Arar](http://twitter.com/search?q=Maher+Arar) | N/A |
+| 36 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 37 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 38 | [Meng](http://twitter.com/search?q=Meng) | N/A |
+| 39 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 40 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 41 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 42 | [Askarov](http://twitter.com/search?q=Askarov) | N/A |
+| 43 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 44 | [Tyler Kleven](http://twitter.com/search?q=Tyler+Kleven) | N/A |
-| 45 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 46 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 47 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 48 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 49 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 45 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 46 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 47 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 48 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 49 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 
 
 

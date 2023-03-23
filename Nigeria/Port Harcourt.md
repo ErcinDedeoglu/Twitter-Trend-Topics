@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-23 19:17:06 UTC`
+📆 Last Updated: `2023-03-23 20:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 3 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 4 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 6 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
-| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 8 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 10 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
-| 11 | [#MinimieXBBTitans](http://twitter.com/search?q=%23MinimieXBBTitans) | N/A |
-| 12 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 13 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
-| 14 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
-| 17 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 18 | [#TECNOxMTN](http://twitter.com/search?q=%23TECNOxMTN) | N/A |
-| 19 | [#fairmoneybyow](http://twitter.com/search?q=%23fairmoneybyow) | N/A |
-| 20 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 21 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
-| 22 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 23 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
-| 24 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 25 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 26 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 27 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 28 | [The 800k](http://twitter.com/search?q=The+800k) | N/A |
-| 29 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
-| 30 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 31 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
-| 32 | [8 Senators](http://twitter.com/search?q=8+Senators) | N/A |
-| 33 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 34 | [What of Wike](http://twitter.com/search?q=What+of+Wike) | N/A |
-| 35 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
-| 36 | [Helper](http://twitter.com/search?q=Helper) | N/A |
-| 37 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 38 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
-| 39 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
-| 40 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
-| 41 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 42 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
-| 43 | [Fabregas](http://twitter.com/search?q=Fabregas) | N/A |
-| 44 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
-| 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 46 | [1 Governor](http://twitter.com/search?q=1+Governor) | N/A |
-| 47 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 48 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 1 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 2 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
+| 3 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 4 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
+| 5 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 6 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 7 | [London](http://twitter.com/search?q=London) | N/A |
+| 8 | [Mathematics](http://twitter.com/search?q=Mathematics) | N/A |
+| 9 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 10 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
+| 11 | [#GCKinCameroon](http://twitter.com/search?q=%23GCKinCameroon) | N/A |
+| 12 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 13 | [Chief Justice of Nigeria](http://twitter.com/search?q=Chief+Justice+of+Nigeria) | N/A |
+| 14 | [England](http://twitter.com/search?q=England) | N/A |
+| 15 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 16 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 17 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 18 | [Senior Advocate of Nonsense](http://twitter.com/search?q=Senior+Advocate+of+Nonsense) | N/A |
+| 19 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 20 | [The 800k](http://twitter.com/search?q=The+800k) | N/A |
+| 21 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
+| 22 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 23 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 24 | [SANpaper](http://twitter.com/search?q=SANpaper) | N/A |
+| 25 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 26 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 27 | [Mr Mugu](http://twitter.com/search?q=Mr+Mugu) | N/A |
+| 28 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 29 | [Fabregas](http://twitter.com/search?q=Fabregas) | N/A |
+| 30 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 32 | [United Kingdom](http://twitter.com/search?q=United+Kingdom) | N/A |
+| 33 | [Channels](http://twitter.com/search?q=Channels) | N/A |
+| 34 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
+| 35 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 38 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 39 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 41 | [Betting](http://twitter.com/search?q=Betting) | N/A |
+| 42 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
+| 43 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 44 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
+| 45 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
+| 46 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 47 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
+| 48 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
 
 
 

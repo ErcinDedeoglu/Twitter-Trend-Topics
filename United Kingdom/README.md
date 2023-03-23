@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-23 19:17:32 UTC`
+📆 Last Updated: `2023-03-23 20:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 2 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 3 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 4 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 5 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 6 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 7 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 8 | [#England](http://twitter.com/search?q=%23England) | N/A |
-| 9 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
-| 10 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 11 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 12 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 13 | [Seb Coe](http://twitter.com/search?q=Seb+Coe) | N/A |
-| 14 | [#SavingSessions](http://twitter.com/search?q=%23SavingSessions) | N/A |
-| 15 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 16 | [Caster Semenya](http://twitter.com/search?q=Caster+Semenya) | N/A |
-| 17 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
-| 18 | [Welsh Fire](http://twitter.com/search?q=Welsh+Fire) | N/A |
-| 19 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
-| 20 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 21 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 22 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 23 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 24 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 25 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 26 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 27 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 28 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
-| 29 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
-| 30 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 31 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 32 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 33 | [Paul Mitchell](http://twitter.com/search?q=Paul+Mitchell) | N/A |
-| 34 | [Marmite](http://twitter.com/search?q=Marmite) | N/A |
-| 35 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 36 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 37 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 38 | [Dross](http://twitter.com/search?q=Dross) | N/A |
-| 39 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 40 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
-| 41 | [Sega](http://twitter.com/search?q=Sega) | N/A |
-| 42 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 43 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 44 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
-| 45 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
-| 46 | [BAME](http://twitter.com/search?q=BAME) | N/A |
-| 47 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 48 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 49 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 50 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 1 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 2 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 3 | [#England](http://twitter.com/search?q=%23England) | N/A |
+| 4 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
+| 5 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 6 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 7 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 10 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 11 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
+| 12 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 13 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 14 | [God Save the King](http://twitter.com/search?q=God+Save+the+King) | N/A |
+| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 16 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 17 | [The Italian](http://twitter.com/search?q=The+Italian) | N/A |
+| 18 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 19 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 20 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 21 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 22 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 23 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 24 | [James Richardson](http://twitter.com/search?q=James+Richardson) | N/A |
+| 25 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
+| 26 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 27 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 28 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 29 | [Seb Coe](http://twitter.com/search?q=Seb+Coe) | N/A |
+| 30 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 31 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 32 | [Caster Semenya](http://twitter.com/search?q=Caster+Semenya) | N/A |
+| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 34 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
+| 35 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 36 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
+| 37 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 38 | [Welsh Fire](http://twitter.com/search?q=Welsh+Fire) | N/A |
+| 39 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 40 | [PH Urbane](http://twitter.com/search?q=PH+Urbane) | N/A |
+| 41 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
+| 42 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 43 | [Marmite](http://twitter.com/search?q=Marmite) | N/A |
+| 44 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 45 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 46 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 47 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 48 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 49 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
+| 50 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-23 19:16:52 UTC`
+📆 Last Updated: `2023-03-23 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lunaticsrising](http://twitter.com/search?q=%23lunaticsrising) | N/A |
-| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 5 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 6 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
-| 7 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 8 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 9 | [Gero](http://twitter.com/search?q=Gero) | N/A |
-| 10 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
-| 11 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 6 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 7 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 8 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
+| 9 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 10 | [Gero](http://twitter.com/search?q=Gero) | N/A |
+| 11 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
 | 12 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 13 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 14 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 15 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 13 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 14 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
+| 15 | [Munition](http://twitter.com/search?q=Munition) | N/A |
 | 16 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 17 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 18 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 17 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 18 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
 | 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 20 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 21 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 20 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 21 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
 | 22 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 23 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 24 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 25 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 26 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 27 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
-| 28 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 29 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 30 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
-| 31 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 32 | [Volle Solidarität](http://twitter.com/search?q=Volle+Solidarit%c3%a4t) | N/A |
-| 33 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 34 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 35 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 36 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 37 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
+| 23 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 24 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 25 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 26 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 27 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 28 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
+| 29 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 30 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 31 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
+| 32 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
+| 33 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 35 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 36 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 37 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
 | 38 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 39 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 40 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 39 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 40 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
 | 41 | [Kleiderordnung](http://twitter.com/search?q=Kleiderordnung) | N/A |
-| 42 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
-| 43 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
-| 44 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 45 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
+| 42 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
+| 43 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
+| 44 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
+| 45 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
 | 46 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
-| 47 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
-| 48 | [Bürgerschaftswahl](http://twitter.com/search?q=B%c3%bcrgerschaftswahl) | N/A |
-| 49 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 47 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 48 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
+| 49 | [Bademantel](http://twitter.com/search?q=Bademantel) | N/A |
 
 
 
