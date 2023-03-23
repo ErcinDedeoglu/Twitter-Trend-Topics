@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-23 00:29:30 UTC`
+📆 Last Updated: `2023-03-23 01:44:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ecuador
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 2 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 3 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 2 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 3 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
 | 4 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 5 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 5 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
 | 6 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
-| 7 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
-| 8 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 9 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 7 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 8 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
+| 9 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
 | 10 | [#justiciahijosdemayo](http://twitter.com/search?q=%23justiciahijosdemayo) | N/A |
 | 11 | [#bolívardecidió](http://twitter.com/search?q=%23bol%c3%advardecidi%c3%b3) | N/A |
-| 12 | [#presospoliticosenecuador](http://twitter.com/search?q=%23presospoliticosenecuador) | N/A |
-| 13 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 14 | [Lolo](http://twitter.com/search?q=Lolo) | N/A |
-| 15 | [Vargas Torres](http://twitter.com/search?q=Vargas+Torres) | N/A |
-| 16 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 17 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 18 | [río Guayas](http://twitter.com/search?q=r%c3%ado+Guayas) | N/A |
-| 19 | [Chicaiza](http://twitter.com/search?q=Chicaiza) | N/A |
-| 20 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 21 | [Independiente de Avellaneda](http://twitter.com/search?q=Independiente+de+Avellaneda) | N/A |
-| 22 | [Fabián Bustos](http://twitter.com/search?q=Fabi%c3%a1n+Bustos) | N/A |
-| 23 | [Guaranda](http://twitter.com/search?q=Guaranda) | N/A |
-| 24 | [Mujica](http://twitter.com/search?q=Mujica) | Mujica is a Spanish surname. It is derived from the Latin word "mucia," which means "soft." In English, the name Mujica can be translated to mean "gentle" or "tender." |
-| 25 | [Marco Angulo](http://twitter.com/search?q=Marco+Angulo) | N/A |
-| 26 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
-| 27 | [Johana](http://twitter.com/search?q=Johana) | N/A |
-| 28 | [Patria Grande](http://twitter.com/search?q=Patria+Grande) | N/A |
-| 29 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 30 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 31 | [Unasur](http://twitter.com/search?q=Unasur) | N/A |
-| 32 | [Diego Castro](http://twitter.com/search?q=Diego+Castro) | N/A |
-| 33 | [Pedido Nacional](http://twitter.com/search?q=Pedido+Nacional) | N/A |
-| 34 | [Priscila](http://twitter.com/search?q=Priscila) | N/A |
-| 35 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
-| 36 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 37 | [Pabel](http://twitter.com/search?q=Pabel) | N/A |
-| 38 | [Oyarte](http://twitter.com/search?q=Oyarte) | N/A |
-| 39 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 40 | [Liceo Policial](http://twitter.com/search?q=Liceo+Policial) | N/A |
+| 12 | [Lolo Miño](http://twitter.com/search?q=Lolo+Mi%c3%b1o) | N/A |
+| 13 | [#presospoliticosenecuador](http://twitter.com/search?q=%23presospoliticosenecuador) | N/A |
+| 14 | [río Guayas](http://twitter.com/search?q=r%c3%ado+Guayas) | N/A |
+| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 16 | [Independiente de Avellaneda](http://twitter.com/search?q=Independiente+de+Avellaneda) | N/A |
+| 17 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 18 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 19 | [Fabián Bustos](http://twitter.com/search?q=Fabi%c3%a1n+Bustos) | N/A |
+| 20 | [guaranda](http://twitter.com/search?q=guaranda) | N/A |
+| 21 | [Mujica](http://twitter.com/search?q=Mujica) | Mujica is a Spanish surname. It is derived from the Latin word "mucia," which means "soft." In English, the name Mujica can be translated to mean "gentle" or "tender." |
+| 22 | [marco angulo](http://twitter.com/search?q=marco+angulo) | N/A |
+| 23 | [Chicaiza](http://twitter.com/search?q=Chicaiza) | N/A |
+| 24 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
+| 25 | [Diego Castro](http://twitter.com/search?q=Diego+Castro) | N/A |
+| 26 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 27 | [Rausch](http://twitter.com/search?q=Rausch) | N/A |
+| 28 | [Johana](http://twitter.com/search?q=Johana) | N/A |
+| 29 | [Patria Grande](http://twitter.com/search?q=Patria+Grande) | N/A |
+| 30 | [Fundamedios](http://twitter.com/search?q=Fundamedios) | N/A |
+| 31 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 32 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 33 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 34 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 35 | [Pedido Nacional](http://twitter.com/search?q=Pedido+Nacional) | N/A |
+| 36 | [Mashi](http://twitter.com/search?q=Mashi) | N/A |
+| 37 | [Unasur](http://twitter.com/search?q=Unasur) | N/A |
+| 38 | [Pabel](http://twitter.com/search?q=Pabel) | N/A |
+| 39 | [Vargas Torres](http://twitter.com/search?q=Vargas+Torres) | N/A |
+| 40 | [liceo policial](http://twitter.com/search?q=liceo+policial) | N/A |
 | 41 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 42 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 43 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 44 | [Pídele](http://twitter.com/search?q=P%c3%addele) | N/A |
-| 45 | [Cuniburo](http://twitter.com/search?q=Cuniburo) | N/A |
-| 46 | [Banca](http://twitter.com/search?q=Banca) | N/A |
-| 47 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 48 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 49 | [estero salado](http://twitter.com/search?q=estero+salado) | N/A |
-| 50 | [Erika](http://twitter.com/search?q=Erika) | N/A |
+| 42 | [Sinohydro](http://twitter.com/search?q=Sinohydro) | N/A |
+| 43 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 44 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 45 | [Oyarte](http://twitter.com/search?q=Oyarte) | N/A |
+| 46 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 47 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 48 | [cuniburo](http://twitter.com/search?q=cuniburo) | N/A |
+| 49 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 50 | [estero salado](http://twitter.com/search?q=estero+salado) | N/A |
 
 
 

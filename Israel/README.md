@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-23 00:29:31 UTC`
+📆 Last Updated: `2023-03-23 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for Israel
 | 9 | [משנה מי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a0%d7%94+%d7%9e%d7%99) | N/A |
 | 10 | [שגריר ישראל](http://twitter.com/search?q=%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
 | 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
-| 13 | [שר משפטים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d) | N/A |
-| 14 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 12 | [שר משפטים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d) | N/A |
+| 13 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 14 | [מיקי זוהר](http://twitter.com/search?q=%d7%9e%d7%99%d7%a7%d7%99+%d7%96%d7%95%d7%94%d7%a8) | N/A |
 | 15 | [רחל הבר](http://twitter.com/search?q=%d7%a8%d7%97%d7%9c+%d7%94%d7%91%d7%a8) | N/A |
 | 16 | [רם בן ברק](http://twitter.com/search?q=%d7%a8%d7%9d+%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
 | 17 | [חברות הכנסת](http://twitter.com/search?q=%d7%97%d7%91%d7%a8%d7%95%d7%aa+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Israel
 | 21 | [יואב פרנק](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%a4%d7%a8%d7%a0%d7%a7) | N/A |
 | 22 | [ראש חודש ניסן](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%a0%d7%99%d7%a1%d7%9f) | N/A |
 | 23 | [כתב משטרה](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%9e%d7%a9%d7%98%d7%a8%d7%94) | N/A |
-| 24 | [של זנדברג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%96%d7%a0%d7%93%d7%91%d7%a8%d7%92) | N/A |
-| 25 | [נגד גברים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%92%d7%91%d7%a8%d7%99%d7%9d) | N/A |
-| 26 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 27 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
-| 28 | [נגד חוק](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%95%d7%a7) | N/A |
-| 29 | [קובי פרץ](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a4%d7%a8%d7%a5) | N/A |
-| 30 | [אלימות נגד נשים](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa+%d7%a0%d7%92%d7%93+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
-| 31 | [עם שמות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%9e%d7%95%d7%aa) | N/A |
-| 32 | [סימה קדמון](http://twitter.com/search?q=%d7%a1%d7%99%d7%9e%d7%94+%d7%a7%d7%93%d7%9e%d7%95%d7%9f) | N/A |
-| 33 | [היא נגד](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a0%d7%92%d7%93) | N/A |
-| 34 | [בעל בית](http://twitter.com/search?q=%d7%91%d7%a2%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
-| 35 | [חיי נשים](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
-| 36 | [דם נשים אינו הפקר](http://twitter.com/search?q=%d7%93%d7%9d+%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%99%d7%a0%d7%95+%d7%94%d7%a4%d7%a7%d7%a8) | N/A |
-| 37 | [פרס ישראל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 38 | [יוסי שלי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%a9%d7%9c%d7%99) | N/A |
-| 39 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 40 | [עם דובאי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%93%d7%95%d7%91%d7%90%d7%99) | N/A |
-| 41 | [מחר יום](http://twitter.com/search?q=%d7%9e%d7%97%d7%a8+%d7%99%d7%95%d7%9d) | N/A |
-| 42 | [#يوم_الام](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d9%85) | N/A |
+| 24 | [נגד גברים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%92%d7%91%d7%a8%d7%99%d7%9d) | N/A |
+| 25 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 26 | [אבי מעוז](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 27 | [קובי פרץ](http://twitter.com/search?q=%d7%a7%d7%95%d7%91%d7%99+%d7%a4%d7%a8%d7%a5) | N/A |
+| 28 | [אלימות נגד נשים](http://twitter.com/search?q=%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa+%d7%a0%d7%92%d7%93+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
+| 29 | [עם שמות](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a9%d7%9e%d7%95%d7%aa) | N/A |
+| 30 | [סימה קדמון](http://twitter.com/search?q=%d7%a1%d7%99%d7%9e%d7%94+%d7%a7%d7%93%d7%9e%d7%95%d7%9f) | N/A |
+| 31 | [היא נגד](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a0%d7%92%d7%93) | N/A |
+| 32 | [בעל בית](http://twitter.com/search?q=%d7%91%d7%a2%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
+| 33 | [חיי נשים](http://twitter.com/search?q=%d7%97%d7%99%d7%99+%d7%a0%d7%a9%d7%99%d7%9d) | N/A |
+| 34 | [דם נשים אינו הפקר](http://twitter.com/search?q=%d7%93%d7%9d+%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%99%d7%a0%d7%95+%d7%94%d7%a4%d7%a7%d7%a8) | N/A |
+| 35 | [של זנדברג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%96%d7%a0%d7%93%d7%91%d7%a8%d7%92) | N/A |
+| 36 | [פרס ישראל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 37 | [נגד חוק](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%95%d7%a7) | N/A |
+| 38 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 39 | [יוסי שלי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%a9%d7%9c%d7%99) | N/A |
+| 40 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 41 | [עם דובאי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%93%d7%95%d7%91%d7%90%d7%99) | N/A |
+| 42 | [מחר יום](http://twitter.com/search?q=%d7%9e%d7%97%d7%a8+%d7%99%d7%95%d7%9d) | N/A |
 | 43 | [רק נגד](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a0%d7%92%d7%93) | N/A |
 | 44 | [גבול רומניה](http://twitter.com/search?q=%d7%92%d7%91%d7%95%d7%9c+%d7%a8%d7%95%d7%9e%d7%a0%d7%99%d7%94) | N/A |
 | 45 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 46 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 47 | [רגב אמרה](http://twitter.com/search?q=%d7%a8%d7%92%d7%91+%d7%90%d7%9e%d7%a8%d7%94) | N/A |
-| 48 | [ילדים של](http://twitter.com/search?q=%d7%99%d7%9c%d7%93%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
-| 49 | [אבי שמחון](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%a9%d7%9e%d7%97%d7%95%d7%9f) | N/A |
-| 50 | [עם עבריין](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a2%d7%91%d7%a8%d7%99%d7%99%d7%9f) | N/A |
+| 46 | [רגב אמרה](http://twitter.com/search?q=%d7%a8%d7%92%d7%91+%d7%90%d7%9e%d7%a8%d7%94) | N/A |
+| 47 | [ילדים של](http://twitter.com/search?q=%d7%99%d7%9c%d7%93%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
+| 48 | [אבי שמחון](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%a9%d7%9e%d7%97%d7%95%d7%9f) | N/A |
+| 49 | [עם עבריין](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a2%d7%91%d7%a8%d7%99%d7%99%d7%9f) | N/A |
+| 50 | [שר תחבורה](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%aa%d7%97%d7%91%d7%95%d7%a8%d7%94) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-23 00:29:03 UTC`
+📆 Last Updated: `2023-03-23 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for [Kenya](</Kenya>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 3 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
+| 2 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
+| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 4 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 5 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 6 | [#DoMoreWithMpesa](http://twitter.com/search?q=%23DoMoreWithMpesa) | N/A |
+| 6 | [#domorewithmpesa](http://twitter.com/search?q=%23domorewithmpesa) | N/A |
 | 7 | [#TheFutureofMoney](http://twitter.com/search?q=%23TheFutureofMoney) | N/A |
 | 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 9 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for [Kenya](</Kenya>)
 | 16 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 | 17 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
 | 18 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 19 | [Maseno](http://twitter.com/search?q=Maseno) | N/A |
+| 19 | [maseno](http://twitter.com/search?q=maseno) | N/A |
 | 20 | [adopt a tree program](http://twitter.com/search?q=adopt+a+tree+program) | N/A |
 | 21 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
 | 22 | [Chiloba](http://twitter.com/search?q=Chiloba) | N/A |
@@ -52,17 +52,17 @@ This is top 50 for [Kenya](</Kenya>)
 | 35 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
 | 36 | [The Star](http://twitter.com/search?q=The+Star) | N/A |
 | 37 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
-| 38 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 39 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 40 | [Osama](http://twitter.com/search?q=Osama) | N/A |
-| 41 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 42 | [kg to ksh](http://twitter.com/search?q=kg+to+ksh) | N/A |
-| 43 | [Mini](http://twitter.com/search?q=Mini) | N/A |
-| 44 | [Mansfield](http://twitter.com/search?q=Mansfield) | N/A |
-| 45 | [KenGen](http://twitter.com/search?q=KenGen) | N/A |
-| 46 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
-| 47 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 48 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
+| 38 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 39 | [Osama](http://twitter.com/search?q=Osama) | N/A |
+| 40 | [kg to ksh](http://twitter.com/search?q=kg+to+ksh) | N/A |
+| 41 | [Mini](http://twitter.com/search?q=Mini) | N/A |
+| 42 | [Mansfield](http://twitter.com/search?q=Mansfield) | N/A |
+| 43 | [KenGen](http://twitter.com/search?q=KenGen) | N/A |
+| 44 | [Whatssapp](http://twitter.com/search?q=Whatssapp) | N/A |
+| 45 | [Marburg](http://twitter.com/search?q=Marburg) | N/A |
+| 46 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 47 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
+| 48 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 49 | [pilau](http://twitter.com/search?q=pilau) | N/A |
 
 

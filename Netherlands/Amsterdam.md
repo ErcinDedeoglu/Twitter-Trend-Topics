@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-23 00:28:46 UTC`
+📆 Last Updated: `2023-03-23 01:44:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,11 +22,11 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 6 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 7 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 9 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 10 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 11 | [#ratw](http://twitter.com/search?q=%23ratw) | N/A |
-| 12 | [Renske](http://twitter.com/search?q=Renske) | N/A |
+| 11 | [Renske](http://twitter.com/search?q=Renske) | N/A |
+| 12 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
 | 13 | [Zoutelande](http://twitter.com/search?q=Zoutelande) | N/A |
 | 14 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
 | 15 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
@@ -37,8 +37,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
 | 21 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
 | 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 24 | [Natuurmonumenten](http://twitter.com/search?q=Natuurmonumenten) | N/A |
+| 23 | [Natuurmonumenten](http://twitter.com/search?q=Natuurmonumenten) | N/A |
+| 24 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
 | 25 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 26 | [gefeliciteerd aad](http://twitter.com/search?q=gefeliciteerd+aad) | N/A |
 | 27 | [Heleen](http://twitter.com/search?q=Heleen) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 33 | [burgemeester](http://twitter.com/search?q=burgemeester) | N/A |
 | 34 | [Voorlichting](http://twitter.com/search?q=Voorlichting) | N/A |
 | 35 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 36 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 37 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
+| 36 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
+| 37 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
 | 38 | [Van Roosmalen](http://twitter.com/search?q=Van+Roosmalen) | N/A |
-| 39 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 40 | [Tjeerd de Groot](http://twitter.com/search?q=Tjeerd+de+Groot) | N/A |
-| 41 | [Kees](http://twitter.com/search?q=Kees) | N/A |
+| 39 | [ouders](http://twitter.com/search?q=ouders) | N/A |
+| 40 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 41 | [Tjeerd de Groot](http://twitter.com/search?q=Tjeerd+de+Groot) | N/A |
 | 42 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
 | 43 | [Mores](http://twitter.com/search?q=Mores) | N/A |
 | 44 | [Kenzy](http://twitter.com/search?q=Kenzy) | N/A |
 | 45 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
 | 46 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 47 | [taarten van abel](http://twitter.com/search?q=taarten+van+abel) | N/A |
-| 48 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 47 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 48 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
 | 49 | [Moge Allah](http://twitter.com/search?q=Moge+Allah) | N/A |
-| 50 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 50 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
 
 
 

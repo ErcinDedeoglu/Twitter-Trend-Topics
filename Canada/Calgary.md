@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-03-23 00:28:24 UTC`
+📆 Last Updated: `2023-03-23 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 3 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 5 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 9 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 10 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 11 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 12 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 13 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 14 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
-| 15 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 16 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 1 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 2 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 3 | [Jagmeet](http://twitter.com/search?q=Jagmeet) | N/A |
+| 4 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 6 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 7 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 9 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 10 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 13 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 14 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 15 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
+| 16 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
 | 17 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 18 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 19 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
-| 20 | [#WorldBaseballClassic2023](http://twitter.com/search?q=%23WorldBaseballClassic2023) | N/A |
-| 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 22 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 24 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 25 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 26 | [Somali](http://twitter.com/search?q=Somali) | N/A |
-| 27 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 28 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
-| 29 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
-| 30 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 31 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 32 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
-| 33 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 34 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 35 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
-| 36 | [Opposition Conservatives](http://twitter.com/search?q=Opposition+Conservatives) | N/A |
-| 37 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 38 | [Micheals](http://twitter.com/search?q=Micheals) | N/A |
-| 39 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 40 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 41 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 42 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 43 | [William Shatner](http://twitter.com/search?q=William+Shatner) | N/A |
-| 44 | [Han Tao](http://twitter.com/search?q=Han+Tao) | N/A |
+| 18 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 19 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
+| 20 | [Malachi](http://twitter.com/search?q=Malachi) | N/A |
+| 21 | [TJ McConnell](http://twitter.com/search?q=TJ+McConnell) | TJ McConnell is an American professional basketball player who currently plays for the Indiana Pacers of the National Basketball Association (NBA). He is known for his hustle and defensive intensity on the court. The initials "TJ" stand for Thomas Joseph, his given name. |
+| 22 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 23 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 24 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 25 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 26 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 27 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 28 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 29 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 30 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 31 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 32 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 33 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 34 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 35 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 36 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 37 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 38 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 39 | [Meng Wanzhou](http://twitter.com/search?q=Meng+Wanzhou) | N/A |
+| 40 | [Emil Heineman](http://twitter.com/search?q=Emil+Heineman) | N/A |
+| 41 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 42 | [International Day](http://twitter.com/search?q=International+Day) | N/A |
+| 43 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 44 | [Somali](http://twitter.com/search?q=Somali) | N/A |
 | 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 47 | [Meng](http://twitter.com/search?q=Meng) | N/A |
-| 48 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 49 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 46 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 47 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 48 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 49 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
 
 
 

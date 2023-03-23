@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-23 00:28:48 UTC`
+📆 Last Updated: `2023-03-23 01:44:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,38 +25,38 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 8 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 9 | [Uran](http://twitter.com/search?q=Uran) | N/A |
 | 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 11 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 13 | [stiftung](http://twitter.com/search?q=stiftung) | N/A |
-| 14 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 15 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
-| 16 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 17 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [stiftung](http://twitter.com/search?q=stiftung) | N/A |
+| 13 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 14 | [Bonus](http://twitter.com/search?q=Bonus) | N/A |
+| 15 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
+| 16 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 17 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 18 | [Bank](http://twitter.com/search?q=Bank) | N/A |
 | 19 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 20 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 21 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 22 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 24 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
+| 20 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
+| 21 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 23 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 24 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 25 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 26 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
 | 27 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 28 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 29 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 30 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
+| 29 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
+| 30 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
 | 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 32 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
 | 33 | [WWII](http://twitter.com/search?q=WWII) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 37 | [UELI](http://twitter.com/search?q=UELI) | N/A |
-| 38 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
-| 39 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 40 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 41 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 42 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 34 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 37 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 38 | [UELI](http://twitter.com/search?q=UELI) | N/A |
+| 39 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
+| 40 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 41 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 42 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 43 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
 | 44 | [Gier](http://twitter.com/search?q=Gier) | N/A |
 | 45 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |

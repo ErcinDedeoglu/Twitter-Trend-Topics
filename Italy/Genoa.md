@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-23 00:28:45 UTC`
+📆 Last Updated: `2023-03-23 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,52 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 3 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 4 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 7 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 8 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 9 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 10 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 11 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
-| 12 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 13 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 14 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
-| 15 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 16 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 17 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
-| 18 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
-| 19 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 20 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 21 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 22 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
-| 23 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 24 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 25 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 27 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 28 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
-| 29 | [#latvdei100euno](http://twitter.com/search?q=%23latvdei100euno) | N/A |
-| 30 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 31 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
-| 32 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
-| 33 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
-| 34 | [#UnArmadioPerDue](http://twitter.com/search?q=%23UnArmadioPerDue) | N/A |
-| 35 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 36 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
-| 37 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 38 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 39 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
-| 40 | [#superlega](http://twitter.com/search?q=%23superlega) | N/A |
-| 41 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
-| 42 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 43 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
-| 44 | [#uranioimpoverito](http://twitter.com/search?q=%23uranioimpoverito) | N/A |
-| 45 | [#GiorgiaMeloni](http://twitter.com/search?q=%23GiorgiaMeloni) | N/A |
+| 4 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 5 | [#22marzo](http://twitter.com/search?q=%2322marzo) | N/A |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 7 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 8 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 9 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 10 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 11 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 13 | [Giacomo Giorgio](http://twitter.com/search?q=Giacomo+Giorgio) | N/A |
+| 14 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 15 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 16 | [SPOILER AOTV](http://twitter.com/search?q=SPOILER+AOTV) | N/A |
+| 17 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 18 | [Rosa Ricci](http://twitter.com/search?q=Rosa+Ricci) | N/A |
+| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 20 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 21 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 22 | [Chiattillo](http://twitter.com/search?q=Chiattillo) | N/A |
+| 23 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 24 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 25 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 26 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
+| 27 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 28 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 29 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 30 | [lipsia](http://twitter.com/search?q=lipsia) | N/A |
+| 31 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 32 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 33 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 34 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 35 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 36 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 37 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 38 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 39 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 40 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
+| 41 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 42 | [L'uranio](http://twitter.com/search?q=L%27uranio) | N/A |
+| 43 | [Kubra](http://twitter.com/search?q=Kubra) | N/A |
+| 44 | [Beccaria](http://twitter.com/search?q=Beccaria) | N/A |
+| 45 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
+| 46 | [Fiorello](http://twitter.com/search?q=Fiorello) | N/A |
+| 47 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 48 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 49 | [Fabio Volo](http://twitter.com/search?q=Fabio+Volo) | N/A |
 
 
 

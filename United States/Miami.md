@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-23 00:29:22 UTC`
+📆 Last Updated: `2023-03-23 01:44:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
-| 2 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
-| 5 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 6 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 8 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 9 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 10 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 11 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 12 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 13 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 14 | [Sting](http://twitter.com/search?q=Sting) | N/A |
-| 15 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 16 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 17 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 18 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 19 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
-| 20 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 21 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
-| 22 | [Young Bucks](http://twitter.com/search?q=Young+Bucks) | Young Bucks is a slang term used to refer to young, ambitious, and successful people. It is often used to describe those who have achieved success at a young age or who have achieved success through hard work and determination. |
-| 23 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
-| 24 | [DeAndre Hopkins](http://twitter.com/search?q=DeAndre+Hopkins) | DeAndre Hopkins is an American football wide receiver for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Houston Texans in the first round of the 2013 NFL Draft. He has been selected to four Pro Bowls and was named First-Team All-Pro in 2017. |
-| 25 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
-| 26 | [Kip Sabian](http://twitter.com/search?q=Kip+Sabian) | N/A |
-| 27 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 28 | [Ángel Pérez](http://twitter.com/search?q=%c3%81ngel+P%c3%a9rez) | N/A |
-| 29 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 30 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
-| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 32 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
-| 33 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
-| 34 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 35 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
-| 36 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 37 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 38 | [Double or Nothing](http://twitter.com/search?q=Double+or+Nothing) | N/A |
-| 39 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 40 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
-| 41 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 42 | [Butcher](http://twitter.com/search?q=Butcher) | N/A |
-| 43 | [Jodie](http://twitter.com/search?q=Jodie) | N/A |
-| 44 | [Tony Toni](http://twitter.com/search?q=Tony+Toni) | N/A |
-| 45 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 46 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 47 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 48 | [Once a Raider](http://twitter.com/search?q=Once+a+Raider) | Once a Raider is a phrase used to describe someone who has been associated with the Oakland Raiders, an American professional football team based in Oakland, California. It is often used to express loyalty and pride in being part of the Raiders organization. The phrase can also be used to refer to former players, coaches, and staff members who have been associated with the team. |
+| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 2 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 3 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 4 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [Don't Say Gay](http://twitter.com/search?q=Don%27t+Say+Gay) | N/A |
+| 7 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
+| 10 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 11 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 12 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 13 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 14 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 15 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 16 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 17 | [Stokely](http://twitter.com/search?q=Stokely) | Stokely is a given name of English origin, derived from the Old English words "stoc" (meaning "tree trunk") and "leah" (meaning "woodland clearing"). It is also a surname. The name can be used as both a first name and a surname. In English, it means "from the tree trunk clearing". |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 20 | [Daniel Garcia](http://twitter.com/search?q=Daniel+Garcia) | N/A |
+| 21 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 22 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 23 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 24 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 25 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
+| 26 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 27 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
+| 28 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 29 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
+| 30 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
+| 31 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 32 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 33 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 34 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 35 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 36 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
+| 37 | [Dr. Now](http://twitter.com/search?q=Dr.+Now) | N/A |
+| 38 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 39 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 40 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
+| 41 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
+| 42 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 43 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 44 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 45 | [Alexa Bliss](http://twitter.com/search?q=Alexa+Bliss) | Alexa Bliss is the ring name of American professional wrestler and actress, Alexis Kaufman. She is currently signed to WWE, where she performs on the Raw brand. The name Alexa Bliss is derived from her real first name, Alexis, and her ring name Bliss. |
+| 46 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 47 | [Young Bucks](http://twitter.com/search?q=Young+Bucks) | Young Bucks is a slang term used to refer to young, ambitious, and successful people. It is often used to describe those who have achieved success at a young age or who have achieved success through hard work and determination. |
+| 48 | [Toni Storm](http://twitter.com/search?q=Toni+Storm) | Toni Storm is the ring name of a professional wrestler from New Zealand. Her real name is Stephanie Newell. She is currently signed to WWE and competes in their NXT UK brand. The name "Toni Storm" is derived from her initials, TS, and her last name, Storm. |
 
 
 

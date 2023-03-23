@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-23 00:29:33 UTC`
+📆 Last Updated: `2023-03-23 01:44:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,20 +26,20 @@ This is top 50 for Lebanon
 | 9 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 10 | [زياد حواط](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%ad%d9%88%d8%a7%d8%b7) | N/A |
 | 11 | [علي القضاء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
-| 12 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 13 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 12 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 13 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
 | 14 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 15 | [العسكريين المتقاعدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86) | N/A |
 | 16 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
 | 17 | [مجلس النواب الاردني](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a) | N/A |
-| 18 | [واصف الحركه](http://twitter.com/search?q=%d9%88%d8%a7%d8%b5%d9%81+%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d9%87) | N/A |
-| 19 | [حسين الشامي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
-| 20 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 18 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 19 | [واصف الحركه](http://twitter.com/search?q=%d9%88%d8%a7%d8%b5%d9%81+%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d9%87) | N/A |
+| 20 | [حسين الشامي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
 | 21 | [ميشال حايك](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
 | 22 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 23 | [السفير الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 24 | [علي القانون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
-| 25 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 24 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 25 | [علي القانون](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
 | 26 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 27 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 28 | [علي النايب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8) | N/A |

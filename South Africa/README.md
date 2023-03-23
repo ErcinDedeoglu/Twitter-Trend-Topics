@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-23 00:29:36 UTC`
+📆 Last Updated: `2023-03-23 01:44:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for South Africa
 | 10 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 11 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
-| 14 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
-| 15 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 13 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 14 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 15 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
 | 16 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
 | 17 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 18 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 19 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
 | 20 | [Khosi and Ebubu](http://twitter.com/search?q=Khosi+and+Ebubu) | N/A |
-| 21 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 21 | [klaasen](http://twitter.com/search?q=klaasen) | N/A |
 | 22 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 23 | [klaasen](http://twitter.com/search?q=klaasen) | N/A |
-| 24 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 25 | [Vote for Khosi](http://twitter.com/search?q=Vote+for+Khosi) | N/A |
-| 26 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
-| 27 | [Athi](http://twitter.com/search?q=Athi) | N/A |
-| 28 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 29 | [team rema](http://twitter.com/search?q=team+rema) | N/A |
-| 30 | [home-made](http://twitter.com/search?q=home-made) | N/A |
-| 31 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
-| 32 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 33 | [Mrs R](http://twitter.com/search?q=Mrs+R) | N/A |
-| 34 | [Downer](http://twitter.com/search?q=Downer) | N/A |
-| 35 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 36 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 37 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 38 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
-| 39 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
-| 40 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
-| 41 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
-| 42 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
+| 23 | [mabusi](http://twitter.com/search?q=mabusi) | N/A |
+| 24 | [Vote for Khosi](http://twitter.com/search?q=Vote+for+Khosi) | N/A |
+| 25 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
+| 26 | [Athi](http://twitter.com/search?q=Athi) | N/A |
+| 27 | [team rema](http://twitter.com/search?q=team+rema) | N/A |
+| 28 | [Home-made](http://twitter.com/search?q=Home-made) | N/A |
+| 29 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 31 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 32 | [mrs r](http://twitter.com/search?q=mrs+r) | N/A |
+| 33 | [Downer](http://twitter.com/search?q=Downer) | N/A |
+| 34 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 35 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 36 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
+| 37 | [Nzima](http://twitter.com/search?q=Nzima) | N/A |
+| 38 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 39 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
+| 40 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
+| 41 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
+| 42 | [team burna](http://twitter.com/search?q=team+burna) | N/A |
 | 43 | [National Conference](http://twitter.com/search?q=National+Conference) | N/A |
-| 44 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 45 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
-| 46 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
-| 47 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 48 | [Reservations](http://twitter.com/search?q=Reservations) | N/A |
-| 49 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
-| 50 | [Khobubu](http://twitter.com/search?q=Khobubu) | N/A |
+| 44 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
+| 45 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 46 | [focus on tsatsii](http://twitter.com/search?q=focus+on+tsatsii) | N/A |
+| 47 | [influential tsatsii madiba](http://twitter.com/search?q=influential+tsatsii+madiba) | N/A |
+| 48 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 49 | [Reservations](http://twitter.com/search?q=Reservations) | N/A |
+| 50 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
 
 
 

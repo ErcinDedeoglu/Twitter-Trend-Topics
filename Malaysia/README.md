@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-23 00:29:33 UTC`
+📆 Last Updated: `2023-03-23 01:44:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,18 +23,18 @@ This is top 50 for Malaysia
 | 6 | [Happy Fasting](http://twitter.com/search?q=Happy+Fasting) | N/A |
 | 7 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
 | 8 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 9 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
-| 10 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
-| 11 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 12 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 13 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 14 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
+| 9 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 10 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 11 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
+| 12 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 13 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 14 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
 | 15 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
-| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 17 | [sowon](http://twitter.com/search?q=sowon) | N/A |
-| 18 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 19 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 20 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 16 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 18 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 19 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 20 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
 | 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
 | 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 23 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Malaysia
 | 32 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 | 34 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 35 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 36 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 37 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
-| 38 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
-| 39 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 40 | [ops lalang](http://twitter.com/search?q=ops+lalang) | N/A |
-| 41 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 42 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 43 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 44 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 45 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 35 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
+| 36 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
+| 37 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 38 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 39 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 40 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 41 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 43 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 44 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 45 | [felix](http://twitter.com/search?q=felix) | N/A |
 | 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 47 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 49 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 50 | [Malay Mail](http://twitter.com/search?q=Malay+Mail) | N/A |
+| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 48 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 49 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
+| 50 | [Quran](http://twitter.com/search?q=Quran) | N/A |
 
 
 
