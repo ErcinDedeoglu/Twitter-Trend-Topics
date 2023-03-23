@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-23 07:16:49 UTC`
+📆 Last Updated: `2023-03-23 08:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
-| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 3 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 4 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 6 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 2 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
+| 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 5 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 6 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
 | 7 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 8 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 9 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
-| 10 | [światowy dzień wody](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+wody) | N/A |
+| 8 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 9 | [światowy dzień wody](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+wody) | N/A |
+| 10 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
 | 11 | [T-54](http://twitter.com/search?q=T-54) | N/A |
 | 12 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 13 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 14 | [Mierzei Wiślanej](http://twitter.com/search?q=Mierzei+Wi%c5%9blanej) | N/A |
+| 14 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 15 | [downa](http://twitter.com/search?q=downa) | N/A |
-| 16 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 17 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 18 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 16 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 17 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
+| 18 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
 | 19 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 21 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 22 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
-| 23 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 24 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 25 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
-| 26 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
-| 27 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 28 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 29 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 30 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 31 | [zawierciu](http://twitter.com/search?q=zawierciu) | N/A |
-| 32 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 33 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
-| 34 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 35 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
-| 36 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 37 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 38 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 39 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
-| 40 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 41 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 42 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 43 | [Wielkopolsce](http://twitter.com/search?q=Wielkopolsce) | N/A |
-| 44 | [tacik](http://twitter.com/search?q=tacik) | N/A |
-| 45 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 46 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 47 | [angielski](http://twitter.com/search?q=angielski) | N/A |
-| 48 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 20 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 21 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 22 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 23 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 24 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
+| 25 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
+| 26 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 27 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
+| 28 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 29 | [Rydzyka](http://twitter.com/search?q=Rydzyka) | N/A |
+| 30 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
+| 31 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 32 | [Cudownego](http://twitter.com/search?q=Cudownego) | N/A |
+| 33 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 34 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 35 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 36 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 37 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 38 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
+| 39 | [Interii](http://twitter.com/search?q=Interii) | N/A |
+| 40 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 41 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
+| 42 | [Krysiu](http://twitter.com/search?q=Krysiu) | N/A |
+| 43 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 44 | [Wielkopolsce](http://twitter.com/search?q=Wielkopolsce) | N/A |
+| 45 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 46 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 47 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 48 | [Minister](http://twitter.com/search?q=Minister) | N/A |
 
 
 

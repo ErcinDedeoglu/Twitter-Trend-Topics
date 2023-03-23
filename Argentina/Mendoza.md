@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-23 07:16:44 UTC`
+📆 Last Updated: `2023-03-23 08:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for [Argentina](</Argentina>)
 | 18 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
 | 19 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
 | 20 | [Guede](http://twitter.com/search?q=Guede) | N/A |
-| 21 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 22 | [parque sarmiento](http://twitter.com/search?q=parque+sarmiento) | N/A |
-| 23 | [#VorterixARG](http://twitter.com/search?q=%23VorterixARG) | N/A |
+| 21 | [parque sarmiento](http://twitter.com/search?q=parque+sarmiento) | N/A |
+| 22 | [#vorterixarg](http://twitter.com/search?q=%23vorterixarg) | N/A |
+| 23 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
 | 24 | [LO CORTARON](http://twitter.com/search?q=LO+CORTARON) | N/A |
-| 25 | [Palmira](http://twitter.com/search?q=Palmira) | N/A |
-| 26 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 27 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
-| 28 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 25 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
+| 26 | [Palmira](http://twitter.com/search?q=Palmira) | N/A |
+| 27 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 28 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
 | 29 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 30 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
-| 31 | [Chad](http://twitter.com/search?q=Chad) | N/A |
+| 30 | [Chad](http://twitter.com/search?q=Chad) | N/A |
+| 31 | [Natacha](http://twitter.com/search?q=Natacha) | N/A |
 | 32 | [Poggi](http://twitter.com/search?q=Poggi) | N/A |
-| 33 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 34 | [Igualan](http://twitter.com/search?q=Igualan) | N/A |
-| 35 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 33 | [Igualan](http://twitter.com/search?q=Igualan) | N/A |
+| 34 | [Primavera Sound](http://twitter.com/search?q=Primavera+Sound) | N/A |
+| 35 | [IVA al 24%](http://twitter.com/search?q=IVA+al+24%25) | N/A |
 | 36 | [Holder](http://twitter.com/search?q=Holder) | N/A |
-| 37 | [IVA al 24%](http://twitter.com/search?q=IVA+al+24%25) | N/A |
-| 38 | [El Reino](http://twitter.com/search?q=El+Reino) | N/A |
-| 39 | [Galehaut](http://twitter.com/search?q=Galehaut) | N/A |
-| 40 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 41 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
-| 42 | [Luis Caffarelli](http://twitter.com/search?q=Luis+Caffarelli) | N/A |
-| 43 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 44 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
-| 45 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 46 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 47 | [Marcelo D'Alessandro](http://twitter.com/search?q=Marcelo+D%27Alessandro) | N/A |
-| 48 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 49 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 50 | [Turbia](http://twitter.com/search?q=Turbia) | N/A |
+| 37 | [El Reino](http://twitter.com/search?q=El+Reino) | N/A |
+| 38 | [Luis Caffarelli](http://twitter.com/search?q=Luis+Caffarelli) | N/A |
+| 39 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 40 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 41 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
+| 42 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 43 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 44 | [Marcelo D'Alessandro](http://twitter.com/search?q=Marcelo+D%27Alessandro) | N/A |
+| 45 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 46 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 47 | [Galehaut](http://twitter.com/search?q=Galehaut) | N/A |
+| 48 | [Turbia](http://twitter.com/search?q=Turbia) | N/A |
+| 49 | [Julieta Lanteri](http://twitter.com/search?q=Julieta+Lanteri) | N/A |
+| 50 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
 
 
 

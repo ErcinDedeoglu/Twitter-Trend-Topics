@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-23 07:17:30 UTC`
+📆 Last Updated: `2023-03-23 08:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Malaysia
 | 7 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 8 | [Happy Fasting](http://twitter.com/search?q=Happy+Fasting) | N/A |
 | 9 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 10 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
-| 13 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 14 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 15 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 16 | [LIMITLESS IS OUT](http://twitter.com/search?q=LIMITLESS+IS+OUT) | N/A |
-| 17 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 18 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 19 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
-| 20 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 23 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 24 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Awal](http://twitter.com/search?q=Awal) | N/A |
-| 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 28 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 29 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 30 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 10 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 11 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
+| 12 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 13 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 15 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 16 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
+| 17 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 18 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 19 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
+| 20 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 22 | [Awal](http://twitter.com/search?q=Awal) | N/A |
+| 23 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 24 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 25 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 26 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 27 | [Sowon](http://twitter.com/search?q=Sowon) | N/A |
+| 28 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 30 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
 | 31 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 32 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 32 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
 | 33 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
-| 34 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
-| 35 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 36 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 37 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
-| 38 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
-| 39 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 40 | [Thai Hot Guy](http://twitter.com/search?q=Thai+Hot+Guy) | N/A |
-| 41 | [NAIM](http://twitter.com/search?q=NAIM) | N/A |
-| 42 | [Johor](http://twitter.com/search?q=Johor) | N/A |
-| 43 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 45 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 46 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 47 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 50 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
+| 34 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 35 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 37 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
+| 38 | [Thai Hot Guy](http://twitter.com/search?q=Thai+Hot+Guy) | N/A |
+| 39 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 40 | [Ops Lalang](http://twitter.com/search?q=Ops+Lalang) | N/A |
+| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 43 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 44 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 45 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 46 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
+| 47 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 48 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 49 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
+| 50 | [Minister](http://twitter.com/search?q=Minister) | N/A |
 
 
 

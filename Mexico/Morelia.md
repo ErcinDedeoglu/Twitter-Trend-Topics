@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-03-23 07:16:43 UTC`
+📆 Last Updated: `2023-03-23 08:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 2 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 5 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 6 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 7 | [#EnYucatánSíPasa](http://twitter.com/search?q=%23EnYucat%c3%a1nS%c3%adPasa) | N/A |
-| 8 | [#Sitilpech](http://twitter.com/search?q=%23Sitilpech) | N/A |
-| 9 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 10 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
-| 11 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
-| 12 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 13 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 14 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
-| 15 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 18 | [Valery](http://twitter.com/search?q=Valery) | N/A |
-| 19 | [Coordinador](http://twitter.com/search?q=Coordinador) | N/A |
-| 20 | [Verónica del Castillo](http://twitter.com/search?q=Ver%c3%b3nica+del+Castillo) | N/A |
-| 21 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 22 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 23 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 24 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 25 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 26 | [PRIMOR](http://twitter.com/search?q=PRIMOR) | N/A |
-| 27 | [Lorenzo Antonio](http://twitter.com/search?q=Lorenzo+Antonio) | N/A |
-| 28 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 29 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 30 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 31 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 32 | [Rebeca](http://twitter.com/search?q=Rebeca) | N/A |
-| 33 | [Albert](http://twitter.com/search?q=Albert) | N/A |
-| 34 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 35 | [#MiercolesDeEliminacion](http://twitter.com/search?q=%23MiercolesDeEliminacion) | N/A |
-| 36 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 37 | [#CalabozosYDragones](http://twitter.com/search?q=%23CalabozosYDragones) | N/A |
-| 38 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 39 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 40 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 41 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 42 | [#qsmpfanart](http://twitter.com/search?q=%23qsmpfanart) | N/A |
-| 43 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 44 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
+| 2 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 3 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 6 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 7 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 8 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 9 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 10 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 11 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 14 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 15 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 16 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
+| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 18 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 19 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 20 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 21 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 22 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 23 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
+| 24 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 25 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 26 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 27 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 28 | [Celeste](http://twitter.com/search?q=Celeste) | Celeste is a French word meaning "heavenly" or "sky blue". It is often used to describe something that is beautiful, delicate, and serene. |
+| 29 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 30 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 31 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
+| 32 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
+| 33 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 34 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 35 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 36 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 37 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 38 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
+| 39 | [war is over](http://twitter.com/search?q=war+is+over) | N/A |
+| 40 | [Valery](http://twitter.com/search?q=Valery) | N/A |
+| 41 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 42 | [Coordinador](http://twitter.com/search?q=Coordinador) | N/A |
+| 43 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 44 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 45 | [Pujitos](http://twitter.com/search?q=Pujitos) | N/A |
+| 46 | [Whatsapp Web](http://twitter.com/search?q=Whatsapp+Web) | N/A |
+| 47 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 48 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 49 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
 
 
 

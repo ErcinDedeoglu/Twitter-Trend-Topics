@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-23 07:17:29 UTC`
+📆 Last Updated: `2023-03-23 08:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,17 +36,17 @@ This is top 50 for Guatemala
 | 19 | [rovers fc](http://twitter.com/search?q=rovers+fc) | N/A |
 | 20 | [Polo](http://twitter.com/search?q=Polo) | N/A |
 | 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Belice](http://twitter.com/search?q=Belice) | N/A |
-| 23 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 24 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 25 | [Granada](http://twitter.com/search?q=Granada) | N/A |
-| 26 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 27 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 28 | [la cc](http://twitter.com/search?q=la+cc) | N/A |
-| 29 | [Hace 3](http://twitter.com/search?q=Hace+3) | N/A |
+| 22 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 23 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 24 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 25 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 26 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 27 | [la cc](http://twitter.com/search?q=la+cc) | N/A |
+| 28 | [Hace 3](http://twitter.com/search?q=Hace+3) | N/A |
+| 29 | [Belice](http://twitter.com/search?q=Belice) | N/A |
 | 30 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 31 | [tikal](http://twitter.com/search?q=tikal) | N/A |
-| 32 | [El Registro de Ciudadanos](http://twitter.com/search?q=El+Registro+de+Ciudadanos) | N/A |
+| 31 | [Tikal](http://twitter.com/search?q=Tikal) | N/A |
+| 32 | [el registro de ciudadanos](http://twitter.com/search?q=el+registro+de+ciudadanos) | N/A |
 | 33 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
 | 34 | [Villa Nueva](http://twitter.com/search?q=Villa+Nueva) | N/A |
 | 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
