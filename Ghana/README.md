@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-23 12:19:15 UTC`
+📆 Last Updated: `2023-03-23 13:20:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ghana
 | 3 | [Angola](http://twitter.com/search?q=Angola) | N/A |
 | 4 | [Afena Gyan](http://twitter.com/search?q=Afena+Gyan) | Afena Gyan is an Akan proverb from Ghana which translates to "Knowledge is power". It is a reminder that knowledge is the key to success and should be sought after. |
 | 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 6 | [Black Stars](http://twitter.com/search?q=Black+Stars) | N/A |
+| 6 | [cremonese](http://twitter.com/search?q=cremonese) | N/A |
 | 7 | [Black Stars](http://twitter.com/search?q=Black+Stars) | N/A |
-| 8 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 9 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
+| 8 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
+| 9 | [Edem](http://twitter.com/search?q=Edem) | N/A |
 | 10 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 11 | [Edem](http://twitter.com/search?q=Edem) | N/A |
-| 12 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
-| 13 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 14 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 15 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 11 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
+| 12 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 13 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 14 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 15 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
 | 16 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 17 | [#CitiCBS](http://twitter.com/search?q=%23CitiCBS) | N/A |
-| 18 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
-| 19 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 18 | [Dede Ayew](http://twitter.com/search?q=Dede+Ayew) | N/A |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 20 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 | 21 | [team burna](http://twitter.com/search?q=team+burna) | N/A |
 | 22 | [U-23](http://twitter.com/search?q=U-23) | N/A |
-| 23 | [Dede Ayew](http://twitter.com/search?q=Dede+Ayew) | N/A |
-| 24 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 25 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
-| 26 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 27 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 28 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 29 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 30 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 31 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 32 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 33 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 34 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 35 | [Charlotte Osei](http://twitter.com/search?q=Charlotte+Osei) | N/A |
-| 36 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 37 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 38 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
-| 39 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 40 | [Amerado](http://twitter.com/search?q=Amerado) | N/A |
-| 41 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 42 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 43 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 44 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
-| 45 | [Qataris](http://twitter.com/search?q=Qataris) | N/A |
-| 46 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
-| 47 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 48 | [Omah](http://twitter.com/search?q=Omah) | N/A |
-| 49 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 50 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 23 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 24 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
+| 25 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 26 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 27 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 28 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 29 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
+| 30 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 31 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 32 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 33 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 34 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 35 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 36 | [Charlotte Osei](http://twitter.com/search?q=Charlotte+Osei) | N/A |
+| 37 | [Amerado](http://twitter.com/search?q=Amerado) | N/A |
+| 38 | [Vote Khosi](http://twitter.com/search?q=Vote+Khosi) | N/A |
+| 39 | [Qataris](http://twitter.com/search?q=Qataris) | N/A |
+| 40 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
+| 41 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 42 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
+| 43 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 44 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 45 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 46 | [lauren james](http://twitter.com/search?q=lauren+james) | N/A |
+| 47 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 48 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 49 | [England](http://twitter.com/search?q=England) | N/A |
+| 50 | [GOIL](http://twitter.com/search?q=GOIL) | N/A |
 
 
 

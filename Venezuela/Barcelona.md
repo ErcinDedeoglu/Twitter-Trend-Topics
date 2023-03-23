@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-23 12:18:34 UTC`
+📆 Last Updated: `2023-03-23 13:20:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#23Mar](http://twitter.com/search?q=%2323Mar) | N/A |
 | 2 | [#NiCorrupciónNiPrivatización](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiPrivatizaci%c3%b3n) | N/A |
 | 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
-| 5 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
-| 6 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
-| 7 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 8 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 9 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
-| 10 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 11 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 12 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 13 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 4 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
+| 5 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 6 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
+| 7 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 8 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
+| 9 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 10 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
+| 11 | [Himno Nacional de Venezuela](http://twitter.com/search?q=Himno+Nacional+de+Venezuela) | N/A |
+| 12 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 13 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
 | 14 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 15 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 16 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 17 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 18 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 19 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 20 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 21 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 22 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
-| 23 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 24 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 25 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 26 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 27 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 28 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
-| 29 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 30 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 31 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 32 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 33 | [Simios](http://twitter.com/search?q=Simios) | N/A |
-| 34 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
-| 35 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 36 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
-| 37 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 38 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 39 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
-| 40 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
-| 41 | [caridad canelón](http://twitter.com/search?q=caridad+canel%c3%b3n) | N/A |
+| 15 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 16 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 17 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 18 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 19 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
+| 20 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 21 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 22 | [El 23](http://twitter.com/search?q=El+23) | N/A |
+| 23 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
+| 24 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 25 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
+| 26 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 27 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 28 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 29 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 31 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 32 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 33 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 34 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
+| 35 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
+| 36 | [pedro vargas](http://twitter.com/search?q=pedro+vargas) | N/A |
+| 37 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 38 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 39 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
+| 40 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
+| 41 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
 | 42 | [Katherine Haringhton](http://twitter.com/search?q=Katherine+Haringhton) | N/A |
-| 43 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 44 | [Babe Ruth](http://twitter.com/search?q=Babe+Ruth) | N/A |
-| 45 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 46 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 47 | [Opción C](http://twitter.com/search?q=Opci%c3%b3n+C) | N/A |
-| 48 | [Pequiven](http://twitter.com/search?q=Pequiven) | N/A |
-| 49 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 43 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 44 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 45 | [caridad canelón](http://twitter.com/search?q=caridad+canel%c3%b3n) | N/A |
+| 46 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
+| 47 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
+| 48 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 49 | [Pequiven](http://twitter.com/search?q=Pequiven) | N/A |
 
 
 

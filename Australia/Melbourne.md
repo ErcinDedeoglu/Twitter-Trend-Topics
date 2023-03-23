@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-23 12:18:47 UTC`
+📆 Last Updated: `2023-03-23 13:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,32 +20,31 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [#NRLEelsPanthers](http://twitter.com/search?q=%23NRLEelsPanthers) | N/A |
 | 4 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
 | 5 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 6 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 7 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 6 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 7 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
 | 8 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 9 | [#baggers](http://twitter.com/search?q=%23baggers) | N/A |
-| 10 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 9 | [#Baggers](http://twitter.com/search?q=%23Baggers) | N/A |
+| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 11 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
-| 12 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 12 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
 | 13 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 14 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
-| 15 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 14 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 15 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
 | 16 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 17 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
-| 18 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
-| 19 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 20 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 21 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 22 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 17 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 18 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
+| 19 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 20 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
+| 21 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 22 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
 | 23 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
-| 24 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
-| 25 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 26 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 24 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 25 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
+| 26 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
 | 27 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
 | 28 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
 | 29 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
 | 30 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
-| 31 | [#SheffieldShield](http://twitter.com/search?q=%23SheffieldShield) | N/A |
 
 
 

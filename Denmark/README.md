@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-23 12:19:14 UTC`
+📆 Last Updated: `2023-03-23 13:20:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Thomasberg](http://twitter.com/search?q=Thomasberg) | N/A |
-| 2 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 2 | [#FL23](http://twitter.com/search?q=%23FL23) | N/A |
 | 3 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
-| 4 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 5 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
+| 4 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 5 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 8 | [kvist](http://twitter.com/search?q=kvist) | N/A |
+| 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 8 | [Randers](http://twitter.com/search?q=Randers) | N/A |
 | 9 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
 | 10 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 11 | [#dkbiz](http://twitter.com/search?q=%23dkbiz) | N/A |
-| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 13 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 14 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 15 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 16 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 17 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 18 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 19 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 20 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
-| 21 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 23 | [Børsen](http://twitter.com/search?q=B%c3%b8rsen) | N/A |
-| 24 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
-| 25 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 26 | [FC Midtjylland](http://twitter.com/search?q=FC+Midtjylland) | N/A |
-| 27 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 28 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 29 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 30 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
-| 31 | [struer](http://twitter.com/search?q=struer) | N/A |
-| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 34 | [Lars Aagaard](http://twitter.com/search?q=Lars+Aagaard) | N/A |
-| 35 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 36 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 37 | [A-kraft](http://twitter.com/search?q=A-kraft) | N/A |
-| 38 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
-| 39 | [pointen](http://twitter.com/search?q=pointen) | N/A |
-| 40 | [European](http://twitter.com/search?q=European) | N/A |
-| 41 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 42 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 43 | [Håber](http://twitter.com/search?q=H%c3%a5ber) | N/A |
-| 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 45 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 46 | [Desværre](http://twitter.com/search?q=Desv%c3%a6rre) | N/A |
-| 47 | [vesterbro](http://twitter.com/search?q=vesterbro) | N/A |
-| 48 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
-| 49 | [Island](http://twitter.com/search?q=Island) | N/A |
-| 50 | [Sjovt](http://twitter.com/search?q=Sjovt) | N/A |
+| 11 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 12 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 13 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 14 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 15 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 16 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 17 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
+| 18 | [Børsen](http://twitter.com/search?q=B%c3%b8rsen) | N/A |
+| 19 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
+| 20 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 21 | [FC Midtjylland](http://twitter.com/search?q=FC+Midtjylland) | N/A |
+| 22 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
+| 23 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
+| 24 | [struer](http://twitter.com/search?q=struer) | N/A |
+| 25 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 26 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 27 | [Lars Aagaard](http://twitter.com/search?q=Lars+Aagaard) | N/A |
+| 28 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 29 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 30 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 31 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 32 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 33 | [Vanopslagh](http://twitter.com/search?q=Vanopslagh) | N/A |
+| 34 | [Pointen](http://twitter.com/search?q=Pointen) | N/A |
+| 35 | [European](http://twitter.com/search?q=European) | N/A |
+| 36 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 37 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 38 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
+| 39 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
+| 40 | [Desværre](http://twitter.com/search?q=Desv%c3%a6rre) | N/A |
+| 41 | [A-kraft](http://twitter.com/search?q=A-kraft) | N/A |
+| 42 | [vesterbro](http://twitter.com/search?q=vesterbro) | N/A |
+| 43 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 44 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
+| 45 | [Island](http://twitter.com/search?q=Island) | N/A |
+| 46 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 49 | [Faktisk](http://twitter.com/search?q=Faktisk) | N/A |
+| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

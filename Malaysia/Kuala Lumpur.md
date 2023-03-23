@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-23 12:18:51 UTC`
+📆 Last Updated: `2023-03-23 13:20:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 2 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 3 | [Happy Iftar](http://twitter.com/search?q=Happy+Iftar) | N/A |
-| 4 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 3 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 4 | [#SwissOpen2023](http://twitter.com/search?q=%23SwissOpen2023) | N/A |
 | 5 | [#SetMeFreePt2FirstWin](http://twitter.com/search?q=%23SetMeFreePt2FirstWin) | N/A |
-| 6 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 7 | [#ViuUpFront2023](http://twitter.com/search?q=%23ViuUpFront2023) | N/A |
-| 8 | [#SwissOpen2023](http://twitter.com/search?q=%23SwissOpen2023) | N/A |
-| 9 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 10 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
-| 11 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 13 | [Happy Fasting](http://twitter.com/search?q=Happy+Fasting) | N/A |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 15 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
-| 16 | [mrsm](http://twitter.com/search?q=mrsm) | N/A |
-| 17 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 18 | [difflam](http://twitter.com/search?q=difflam) | N/A |
-| 19 | [Awal](http://twitter.com/search?q=Awal) | N/A |
-| 20 | [Sowon](http://twitter.com/search?q=Sowon) | N/A |
-| 21 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 22 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 23 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 24 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 25 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 26 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 27 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 28 | [INSEONG](http://twitter.com/search?q=INSEONG) | N/A |
-| 29 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 30 | [Khairul Aming](http://twitter.com/search?q=Khairul+Aming) | N/A |
-| 31 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 32 | [the notebook](http://twitter.com/search?q=the+notebook) | N/A |
-| 33 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
-| 34 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 35 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 37 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
-| 38 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 39 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 40 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
-| 41 | [thai hot guy](http://twitter.com/search?q=thai+hot+guy) | N/A |
-| 42 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 43 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 45 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 46 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 47 | [ops lalang](http://twitter.com/search?q=ops+lalang) | N/A |
-| 48 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 49 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 50 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 6 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 7 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 8 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 10 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
+| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 12 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 13 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 14 | [Happy Fasting](http://twitter.com/search?q=Happy+Fasting) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 18 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 19 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 20 | [selamat berpuasa](http://twitter.com/search?q=selamat+berpuasa) | N/A |
+| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 22 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
+| 23 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 24 | [Difflam](http://twitter.com/search?q=Difflam) | N/A |
+| 25 | [Awal](http://twitter.com/search?q=Awal) | N/A |
+| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 27 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 28 | [Minseok](http://twitter.com/search?q=Minseok) | N/A |
+| 29 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 30 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 31 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 33 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 34 | [Khairul Aming](http://twitter.com/search?q=Khairul+Aming) | N/A |
+| 35 | [INSEONG](http://twitter.com/search?q=INSEONG) | N/A |
+| 36 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 37 | [the notebook](http://twitter.com/search?q=the+notebook) | N/A |
+| 38 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 39 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 40 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
+| 41 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 43 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 44 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 45 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
+| 46 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
+| 47 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 48 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
+| 49 | [thai hot guy](http://twitter.com/search?q=thai+hot+guy) | N/A |
+| 50 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 
 
 

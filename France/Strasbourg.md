@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-23 12:18:39 UTC`
+📆 Last Updated: `2023-03-23 13:20:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 2 | [#Greve23Mars](http://twitter.com/search?q=%23Greve23Mars) | N/A |
-| 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 4 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 5 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 6 | [Assas](http://twitter.com/search?q=Assas) | N/A |
-| 7 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 8 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 9 | [#lesfraudestwt](http://twitter.com/search?q=%23lesfraudestwt) | N/A |
-| 10 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 11 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 12 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
-| 13 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
-| 14 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 15 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 16 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 17 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
-| 18 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 19 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 20 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 1 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
+| 2 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 3 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 4 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 5 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 6 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 7 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 8 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
+| 9 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
+| 10 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 11 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
+| 12 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 13 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
+| 14 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 15 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
+| 16 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 18 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
+| 19 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
+| 20 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
 | 21 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 22 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
-| 23 | [Mireille Knoll](http://twitter.com/search?q=Mireille+Knoll) | N/A |
-| 24 | [nadir](http://twitter.com/search?q=nadir) | N/A |
-| 25 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
-| 26 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 27 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 28 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
-| 29 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
-| 30 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 31 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 32 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 34 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 35 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
-| 36 | [Claude Lorius](http://twitter.com/search?q=Claude+Lorius) | N/A |
-| 37 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
-| 38 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 39 | [Barbe Noire](http://twitter.com/search?q=Barbe+Noire) | N/A |
-| 40 | [Egghead](http://twitter.com/search?q=Egghead) | N/A |
-| 41 | [Trèbes](http://twitter.com/search?q=Tr%c3%a8bes) | N/A |
-| 42 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 43 | [Chemin 4](http://twitter.com/search?q=Chemin+4) | N/A |
-| 44 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 45 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 46 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 47 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 48 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 49 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 50 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 22 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
+| 23 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 24 | [Grève du 23](http://twitter.com/search?q=Gr%c3%a8ve+du+23) | N/A |
+| 25 | [Tours](http://twitter.com/search?q=Tours) | N/A |
+| 26 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
+| 27 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 28 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 29 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 31 | [roger](http://twitter.com/search?q=roger) | N/A |
+| 32 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 33 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 34 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
+| 35 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
+| 36 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 37 | [#ClermontFerrand](http://twitter.com/search?q=%23ClermontFerrand) | N/A |
+| 38 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 39 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
+| 40 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 41 | [#Lorient](http://twitter.com/search?q=%23Lorient) | N/A |
+| 42 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
+| 43 | [#blocage](http://twitter.com/search?q=%23blocage) | N/A |
 
 
 

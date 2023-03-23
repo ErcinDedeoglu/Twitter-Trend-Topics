@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-23 12:19:20 UTC`
+📆 Last Updated: `2023-03-23 13:21:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 2 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 3 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 2 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 3 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
 | 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
 | 5 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 6 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
-| 7 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 6 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 7 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
 | 8 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 9 | [Nathan Cleary](http://twitter.com/search?q=Nathan+Cleary) | N/A |
-| 10 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
-| 11 | [The Bank of England](http://twitter.com/search?q=The+Bank+of+England) | N/A |
-| 12 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 13 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 14 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 15 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 16 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 17 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 18 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 19 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 20 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
-| 21 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
-| 22 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
-| 23 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 24 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 25 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 26 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 27 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 29 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 31 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
-| 32 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 33 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 34 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 35 | [Kangaroo Court](http://twitter.com/search?q=Kangaroo+Court) | N/A |
-| 36 | [#ASongOrMovieForAnythingSmall](http://twitter.com/search?q=%23ASongOrMovieForAnythingSmall) | N/A |
-| 37 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 38 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
-| 39 | [#Busted20](http://twitter.com/search?q=%23Busted20) | N/A |
-| 40 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 41 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
-| 42 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
-| 43 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 44 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
-| 45 | [#ToriesOut259](http://twitter.com/search?q=%23ToriesOut259) | N/A |
-| 46 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
-| 47 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 48 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 49 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 50 | [#BorisIsALiar](http://twitter.com/search?q=%23BorisIsALiar) | N/A |
+| 9 | [The Bank of England](http://twitter.com/search?q=The+Bank+of+England) | N/A |
+| 10 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 11 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
+| 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 13 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
+| 14 | [Nathan Cleary](http://twitter.com/search?q=Nathan+Cleary) | N/A |
+| 15 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
+| 16 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
+| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 18 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 19 | [Moffat](http://twitter.com/search?q=Moffat) | N/A |
+| 20 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 21 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 22 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
+| 23 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 24 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 25 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 26 | [Agile](http://twitter.com/search?q=Agile) | N/A |
+| 27 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
+| 28 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
+| 29 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 30 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 31 | [Venn](http://twitter.com/search?q=Venn) | N/A |
+| 32 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 33 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 35 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 36 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 37 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 38 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 39 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 40 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 41 | [#worldmathsday](http://twitter.com/search?q=%23worldmathsday) | N/A |
+| 42 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 43 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
+| 44 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 45 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
+| 46 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 47 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 48 | [#ToriesOut259](http://twitter.com/search?q=%23ToriesOut259) | N/A |
+| 49 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
+| 50 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
 
 
 

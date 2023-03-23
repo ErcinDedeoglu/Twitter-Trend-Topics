@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-23 12:18:36 UTC`
+📆 Last Updated: `2023-03-23 13:20:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 2 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 3 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 4 | [Nordeste](http://twitter.com/search?q=Nordeste) | N/A |
-| 5 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 6 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 7 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 8 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 9 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 2 | [VITOR GABRIEL](http://twitter.com/search?q=VITOR+GABRIEL) | N/A |
+| 3 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 4 | [pikachu](http://twitter.com/search?q=pikachu) | N/A |
+| 5 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 6 | [Nordeste](http://twitter.com/search?q=Nordeste) | N/A |
+| 7 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 8 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 10 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
 | 11 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 12 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 13 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 15 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 16 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 17 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 18 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 19 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 20 | [#antxbabydoge](http://twitter.com/search?q=%23antxbabydoge) | N/A |
-| 21 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 22 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
-| 23 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 24 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 25 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 26 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
-| 27 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 28 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 29 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 30 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 31 | [Marfim](http://twitter.com/search?q=Marfim) | N/A |
-| 32 | [bud com o nas no lollabr](http://twitter.com/search?q=bud+com+o+nas+no+lollabr) | N/A |
-| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 34 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 35 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 36 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 37 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 38 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 39 | [Pepe Moreno](http://twitter.com/search?q=Pepe+Moreno) | N/A |
-| 40 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 41 | [bud com os billiers no lollabr](http://twitter.com/search?q=bud+com+os+billiers+no+lollabr) | N/A |
-| 42 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 43 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 44 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 45 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 46 | [DIA MUNDIAL DA ÁGUA](http://twitter.com/search?q=DIA+MUNDIAL+DA+%c3%81GUA) | N/A |
-| 47 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 48 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 49 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 50 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 12 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 13 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 14 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 15 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 16 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 17 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 18 | [Greve](http://twitter.com/search?q=Greve) | N/A |
+| 19 | [Marfim](http://twitter.com/search?q=Marfim) | N/A |
+| 20 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 21 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
+| 22 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 23 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 24 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 25 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 26 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 27 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
+| 28 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 29 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 30 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 31 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 32 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 33 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 34 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
+| 35 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 36 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
+| 37 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 38 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 39 | [Senador](http://twitter.com/search?q=Senador) | N/A |
+| 40 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 41 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 42 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 43 | [Preocupante](http://twitter.com/search?q=Preocupante) | N/A |
+| 44 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 45 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
+| 46 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 47 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 48 | [BACEN](http://twitter.com/search?q=BACEN) | N/A |
+| 49 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
 
 
 

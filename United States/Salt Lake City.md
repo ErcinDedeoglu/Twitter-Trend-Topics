@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-23 12:19:11 UTC`
+📆 Last Updated: `2023-03-23 13:20:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
 | 2 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 3 | [#TakeNote](http://twitter.com/search?q=%23TakeNote) | N/A |
-| 4 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 5 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 3 | [#takenote](http://twitter.com/search?q=%23takenote) | N/A |
+| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 7 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
 | 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 10 | [JESUS CHRIST IS ALIVE](http://twitter.com/search?q=JESUS+CHRIST+IS+ALIVE) | N/A |
-| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 12 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 13 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 14 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 15 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 16 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 17 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 18 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 20 | [Joan Crawford](http://twitter.com/search?q=Joan+Crawford) | N/A |
-| 21 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 22 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 23 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 24 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 25 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 26 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 27 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 28 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 30 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 31 | [Damn Unc](http://twitter.com/search?q=Damn+Unc) | N/A |
-| 32 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 33 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 34 | [Atari](http://twitter.com/search?q=Atari) | N/A |
-| 35 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 36 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 37 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 38 | [connor mcdavid](http://twitter.com/search?q=connor+mcdavid) | N/A |
-| 39 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 40 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 41 | [Bubbles](http://twitter.com/search?q=Bubbles) | N/A |
-| 42 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 43 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 44 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 45 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
-| 46 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 47 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 48 | [#Wordle642](http://twitter.com/search?q=%23Wordle642) | N/A |
-| 49 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
+| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 10 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 11 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 12 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 13 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 14 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 15 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
+| 16 | [Happy Together](http://twitter.com/search?q=Happy+Together) | N/A |
+| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 18 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 19 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 20 | [Summerfest](http://twitter.com/search?q=Summerfest) | N/A |
+| 21 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 23 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 24 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 25 | [Joan Crawford](http://twitter.com/search?q=Joan+Crawford) | N/A |
+| 26 | [Patrick Henry](http://twitter.com/search?q=Patrick+Henry) | N/A |
+| 27 | [RIP Unc](http://twitter.com/search?q=RIP+Unc) | N/A |
+| 28 | [Kari](http://twitter.com/search?q=Kari) | N/A |
+| 29 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 31 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 32 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 33 | [Scientific American](http://twitter.com/search?q=Scientific+American) | N/A |
+| 34 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 35 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 36 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
+| 37 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
+| 38 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 39 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 40 | [Porterhouse](http://twitter.com/search?q=Porterhouse) | N/A |
+| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 42 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 43 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 44 | [Bubbles](http://twitter.com/search?q=Bubbles) | N/A |
+| 45 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
+| 46 | [Filet](http://twitter.com/search?q=Filet) | N/A |
+| 47 | [AZ Supreme Court](http://twitter.com/search?q=AZ+Supreme+Court) | N/A |
+| 48 | [Atari](http://twitter.com/search?q=Atari) | N/A |
 
 
 
