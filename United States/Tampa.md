@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-23 18:18:04 UTC`
+📆 Last Updated: `2023-03-23 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HHN32](http://twitter.com/search?q=%23HHN32) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 5 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 6 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 7 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 8 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 9 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 10 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 11 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 12 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 13 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 14 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 15 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 16 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 17 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 19 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 20 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 21 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
-| 22 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
-| 23 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
-| 24 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 25 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 26 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 2 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 3 | [Kari Lake](http://twitter.com/search?q=Kari+Lake) | N/A |
+| 4 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 5 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 6 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 7 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 8 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
+| 9 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 10 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 11 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 12 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 13 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 14 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
+| 15 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 16 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 17 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 19 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 20 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 21 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 22 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 23 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 24 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 25 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 26 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
 | 27 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
-| 28 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
-| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 30 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
-| 31 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 32 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 33 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
-| 34 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 35 | [The Archer](http://twitter.com/search?q=The+Archer) | N/A |
-| 36 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 37 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
-| 38 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
-| 39 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 40 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 41 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
-| 42 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
-| 43 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 44 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 45 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 46 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 47 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 48 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
-| 49 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 28 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
+| 29 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 30 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 31 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 32 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 34 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 35 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
+| 36 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 37 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
+| 38 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 39 | [Sonic Origins](http://twitter.com/search?q=Sonic+Origins) | N/A |
+| 40 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 41 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 42 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
+| 43 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
+| 44 | [Luminosity](http://twitter.com/search?q=Luminosity) | N/A |
+| 45 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 46 | [Darick Hall](http://twitter.com/search?q=Darick+Hall) | N/A |
+| 47 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
+| 48 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
+| 49 | [VOTA A RAGE RISING](http://twitter.com/search?q=VOTA+A+RAGE+RISING) | N/A |
 
 
 

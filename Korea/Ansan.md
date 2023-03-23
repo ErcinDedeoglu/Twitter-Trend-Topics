@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ansan
 
-📆 Last Updated: `2023-03-23 18:17:36 UTC`
+📆 Last Updated: `2023-03-23 19:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#보이즈플래닛_트친소](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 2 | [꼬들 447](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+447) | N/A |
-| 3 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 4 | [투표 타래](http://twitter.com/search?q=%ed%88%ac%ed%91%9c+%ed%83%80%eb%9e%98) | N/A |
-| 5 | [플래닛패스](http://twitter.com/search?q=%ed%94%8c%eb%9e%98%eb%8b%9b%ed%8c%a8%ec%8a%a4) | N/A |
-| 6 | [#아미가마주하는_지민FACE](http://twitter.com/search?q=%23%ec%95%84%eb%af%b8%ea%b0%80%eb%a7%88%ec%a3%bc%ed%95%98%eb%8a%94_%ec%a7%80%eb%af%bcFACE) | N/A |
-| 7 | [#WeStreamLikeCrazy](http://twitter.com/search?q=%23WeStreamLikeCrazy) | N/A |
-| 8 | [서바이벌](http://twitter.com/search?q=%ec%84%9c%eb%b0%94%ec%9d%b4%eb%b2%8c) | N/A |
-| 9 | [브라이언](http://twitter.com/search?q=%eb%b8%8c%eb%9d%bc%ec%9d%b4%ec%96%b8) | N/A |
-| 10 | [악몽 난이도](http://twitter.com/search?q=%ec%95%85%eb%aa%bd+%eb%82%9c%ec%9d%b4%eb%8f%84) | N/A |
-| 11 | [천지안위](http://twitter.com/search?q=%ec%b2%9c%ec%a7%80%ec%95%88%ec%9c%84) | N/A |
-| 12 | [뉴아티스트](http://twitter.com/search?q=%eb%89%b4%ec%95%84%ed%8b%b0%ec%8a%a4%ed%8a%b8) | N/A |
-| 13 | [위에화즈](http://twitter.com/search?q=%ec%9c%84%ec%97%90%ed%99%94%ec%a6%88) | N/A |
-| 14 | [투표 인증](http://twitter.com/search?q=%ed%88%ac%ed%91%9c+%ec%9d%b8%ec%a6%9d) | N/A |
-| 15 | [크리에이터](http://twitter.com/search?q=%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0) | N/A |
-| 16 | [웅덩이들](http://twitter.com/search?q=%ec%9b%85%eb%8d%a9%ec%9d%b4%eb%93%a4) | N/A |
-| 17 | [월드투어](http://twitter.com/search?q=%ec%9b%94%eb%93%9c%ed%88%ac%ec%96%b4) | N/A |
-| 18 | [제로콜라](http://twitter.com/search?q=%ec%a0%9c%eb%a1%9c%ec%bd%9c%eb%9d%bc) | N/A |
-| 19 | [킬링파트](http://twitter.com/search?q=%ed%82%ac%eb%a7%81%ed%8c%8c%ed%8a%b8) | N/A |
-| 20 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 21 | [슈퍼차저](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%b0%a8%ec%a0%80) | N/A |
-| 22 | [엠비셔스](http://twitter.com/search?q=%ec%97%a0%eb%b9%84%ec%85%94%ec%8a%a4) | N/A |
-| 23 | [자기 기억](http://twitter.com/search?q=%ec%9e%90%ea%b8%b0+%ea%b8%b0%ec%96%b5) | N/A |
-| 24 | [심해소녀](http://twitter.com/search?q=%ec%8b%ac%ed%95%b4%ec%86%8c%eb%85%80) | N/A |
-| 25 | [시험지 낙서](http://twitter.com/search?q=%ec%8b%9c%ed%97%98%ec%a7%80+%eb%82%99%ec%84%9c) | N/A |
-| 26 | [마징시앙](http://twitter.com/search?q=%eb%a7%88%ec%a7%95%ec%8b%9c%ec%95%99) | N/A |
-| 27 | [능력 계열](http://twitter.com/search?q=%eb%8a%a5%eb%a0%a5+%ea%b3%84%ec%97%b4) | N/A |
-| 28 | [팬들의 한마디](http://twitter.com/search?q=%ed%8c%ac%eb%93%a4%ec%9d%98+%ed%95%9c%eb%a7%88%eb%94%94) | N/A |
-| 29 | [상대 기억](http://twitter.com/search?q=%ec%83%81%eb%8c%80+%ea%b8%b0%ec%96%b5) | N/A |
-| 30 | [마도대전](http://twitter.com/search?q=%eb%a7%88%eb%8f%84%eb%8c%80%ec%a0%84) | N/A |
-| 31 | [드림 씨피](http://twitter.com/search?q=%eb%93%9c%eb%a6%bc+%ec%94%a8%ed%94%bc) | N/A |
-| 32 | [복귀유저](http://twitter.com/search?q=%eb%b3%b5%ea%b7%80%ec%9c%a0%ec%a0%80) | N/A |
-| 33 | [대한 기억](http://twitter.com/search?q=%eb%8c%80%ed%95%9c+%ea%b8%b0%ec%96%b5) | N/A |
+| 1 | [국제 강아지](http://twitter.com/search?q=%ea%b5%ad%ec%a0%9c+%ea%b0%95%ec%95%84%ec%a7%80) | N/A |
+| 2 | [모의고사](http://twitter.com/search?q=%eb%aa%a8%ec%9d%98%ea%b3%a0%ec%82%ac) | N/A |
+| 3 | [#아미가마주하는_지민FACE](http://twitter.com/search?q=%23%ec%95%84%eb%af%b8%ea%b0%80%eb%a7%88%ec%a3%bc%ed%95%98%eb%8a%94_%ec%a7%80%eb%af%bcFACE) | N/A |
+| 4 | [#WeStreamLikeCrazy](http://twitter.com/search?q=%23WeStreamLikeCrazy) | N/A |
+| 5 | [#셋미프리Pt2_엠카1위축하해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%acPt2_%ec%97%a0%ec%b9%b41%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 6 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
+| 7 | [#보이즈플래닛_트친소](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 8 | [고1 3모](http://twitter.com/search?q=%ea%b3%a01+3%eb%aa%a8) | N/A |
+| 9 | [포타 연성 문장](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%97%b0%ec%84%b1+%eb%ac%b8%ec%9e%a5) | N/A |
+| 10 | [자기 기억](http://twitter.com/search?q=%ec%9e%90%ea%b8%b0+%ea%b8%b0%ec%96%b5) | N/A |
+| 11 | [상대 기억](http://twitter.com/search?q=%ec%83%81%eb%8c%80+%ea%b8%b0%ec%96%b5) | N/A |
+| 12 | [드림 씨피](http://twitter.com/search?q=%eb%93%9c%eb%a6%bc+%ec%94%a8%ed%94%bc) | N/A |
+| 13 | [심해소녀](http://twitter.com/search?q=%ec%8b%ac%ed%95%b4%ec%86%8c%eb%85%80) | N/A |
+| 14 | [검수완박](http://twitter.com/search?q=%ea%b2%80%ec%88%98%ec%99%84%eb%b0%95) | N/A |
+| 15 | [강아지들](http://twitter.com/search?q=%ea%b0%95%ec%95%84%ec%a7%80%eb%93%a4) | N/A |
+| 16 | [대한 기억](http://twitter.com/search?q=%eb%8c%80%ed%95%9c+%ea%b8%b0%ec%96%b5) | N/A |
+| 17 | [파우스트](http://twitter.com/search?q=%ed%8c%8c%ec%9a%b0%ec%8a%a4%ed%8a%b8) | N/A |
+| 18 | [꼬들 447](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+447) | N/A |
+| 19 | [시험지 낙서](http://twitter.com/search?q=%ec%8b%9c%ed%97%98%ec%a7%80+%eb%82%99%ec%84%9c) | N/A |
+| 20 | [영어 듣기](http://twitter.com/search?q=%ec%98%81%ec%96%b4+%eb%93%a3%ea%b8%b0) | N/A |
+| 21 | [국어 비문학](http://twitter.com/search?q=%ea%b5%ad%ec%96%b4+%eb%b9%84%eb%ac%b8%ed%95%99) | N/A |
+| 22 | [런쥔날 런쥔시](http://twitter.com/search?q=%eb%9f%b0%ec%a5%94%eb%82%a0+%eb%9f%b0%ec%a5%94%ec%8b%9c) | N/A |
+| 23 | [악몽 난이도](http://twitter.com/search?q=%ec%95%85%eb%aa%bd+%eb%82%9c%ec%9d%b4%eb%8f%84) | N/A |
+| 24 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
+| 25 | [슈퍼차저](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%b0%a8%ec%a0%80) | N/A |
+| 26 | [투표 타래](http://twitter.com/search?q=%ed%88%ac%ed%91%9c+%ed%83%80%eb%9e%98) | N/A |
+| 27 | [플래닛패스](http://twitter.com/search?q=%ed%94%8c%eb%9e%98%eb%8b%9b%ed%8c%a8%ec%8a%a4) | N/A |
+| 28 | [브라이언](http://twitter.com/search?q=%eb%b8%8c%eb%9d%bc%ec%9d%b4%ec%96%b8) | N/A |
+| 29 | [어린이대](http://twitter.com/search?q=%ec%96%b4%eb%a6%b0%ec%9d%b4%eb%8c%80) | N/A |
+| 30 | [헌법재판소](http://twitter.com/search?q=%ed%97%8c%eb%b2%95%ec%9e%ac%ed%8c%90%ec%86%8c) | N/A |
+| 31 | [국어 등급컷](http://twitter.com/search?q=%ea%b5%ad%ec%96%b4+%eb%93%b1%ea%b8%89%ec%bb%b7) | N/A |
+| 32 | [킬링파트](http://twitter.com/search?q=%ed%82%ac%eb%a7%81%ed%8c%8c%ed%8a%b8) | N/A |
+| 33 | [서바이벌](http://twitter.com/search?q=%ec%84%9c%eb%b0%94%ec%9d%b4%eb%b2%8c) | N/A |
 | 34 | [홍김동전](http://twitter.com/search?q=%ed%99%8d%ea%b9%80%eb%8f%99%ec%a0%84) | N/A |
-| 35 | [#김태래](http://twitter.com/search?q=%23%ea%b9%80%ed%83%9c%eb%9e%98) | N/A |
-| 36 | [#김지웅](http://twitter.com/search?q=%23%ea%b9%80%ec%a7%80%ec%9b%85) | N/A |
-| 37 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
-| 38 | [#이회택](http://twitter.com/search?q=%23%ec%9d%b4%ed%9a%8c%ed%83%9d) | N/A |
-| 39 | [#장하오](http://twitter.com/search?q=%23%ec%9e%a5%ed%95%98%ec%98%a4) | N/A |
-| 40 | [#한유진](http://twitter.com/search?q=%23%ed%95%9c%ec%9c%a0%ec%a7%84) | N/A |
-| 41 | [#성한빈](http://twitter.com/search?q=%23%ec%84%b1%ed%95%9c%eb%b9%88) | N/A |
-| 42 | [#멘션온무언가좋은점싫은점](http://twitter.com/search?q=%23%eb%a9%98%ec%85%98%ec%98%a8%eb%ac%b4%ec%96%b8%ea%b0%80%ec%a2%8b%ec%9d%80%ec%a0%90%ec%8b%ab%ec%9d%80%ec%a0%90) | N/A |
-| 43 | [#우리지민상받았네](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%a7%80%eb%af%bc%ec%83%81%eb%b0%9b%ec%95%98%eb%84%a4) | N/A |
+| 35 | [어린이전쟁](http://twitter.com/search?q=%ec%96%b4%eb%a6%b0%ec%9d%b4%ec%a0%84%ec%9f%81) | N/A |
+| 36 | [국어 1등](http://twitter.com/search?q=%ea%b5%ad%ec%96%b4+1%eb%93%b1) | N/A |
+| 37 | [국어 1컷](http://twitter.com/search?q=%ea%b5%ad%ec%96%b4+1%ec%bb%b7) | N/A |
+| 38 | [스타크리에이터](http://twitter.com/search?q=%ec%8a%a4%ed%83%80%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0) | N/A |
+| 39 | [신라한복](http://twitter.com/search?q=%ec%8b%a0%eb%9d%bc%ed%95%9c%eb%b3%b5) | N/A |
+| 40 | [심야영화](http://twitter.com/search?q=%ec%8b%ac%ec%95%bc%ec%98%81%ed%99%94) | N/A |
+| 41 | [딸기농장](http://twitter.com/search?q=%eb%94%b8%ea%b8%b0%eb%86%8d%ec%9e%a5) | N/A |
+| 42 | [마도대전](http://twitter.com/search?q=%eb%a7%88%eb%8f%84%eb%8c%80%ec%a0%84) | N/A |
+| 43 | [라이레이](http://twitter.com/search?q=%eb%9d%bc%ec%9d%b4%eb%a0%88%ec%9d%b4) | N/A |
+| 44 | [동아시아사](http://twitter.com/search?q=%eb%8f%99%ec%95%84%ec%8b%9c%ec%95%84%ec%82%ac) | N/A |
+| 45 | [천지안위](http://twitter.com/search?q=%ec%b2%9c%ec%a7%80%ec%95%88%ec%9c%84) | N/A |
+| 46 | [랜덤질문](http://twitter.com/search?q=%eb%9e%9c%eb%8d%a4%ec%a7%88%eb%ac%b8) | N/A |
+| 47 | [민규 생박](http://twitter.com/search?q=%eb%af%bc%ea%b7%9c+%ec%83%9d%eb%b0%95) | N/A |
+| 48 | [능력 계열](http://twitter.com/search?q=%eb%8a%a5%eb%a0%a5+%ea%b3%84%ec%97%b4) | N/A |
+| 49 | [팬들의 한마디](http://twitter.com/search?q=%ed%8c%ac%eb%93%a4%ec%9d%98+%ed%95%9c%eb%a7%88%eb%94%94) | N/A |
 
 
 

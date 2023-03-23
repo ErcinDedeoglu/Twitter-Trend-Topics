@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-23 18:18:14 UTC`
+📆 Last Updated: `2023-03-23 19:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,28 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 2 | [#AlwaysWithDHH](http://twitter.com/search?q=%23AlwaysWithDHH) | N/A |
-| 3 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
-| 4 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
-| 5 | [#KhunENBesideNanon](http://twitter.com/search?q=%23KhunENBesideNanon) | N/A |
-| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 7 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 8 | [Loom](http://twitter.com/search?q=Loom) | N/A |
-| 9 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
-| 10 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 11 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
-| 12 | [Claim](http://twitter.com/search?q=Claim) | N/A |
-| 13 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 14 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 2 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
+| 3 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
+| 4 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 5 | [#DANGHONGHAI](http://twitter.com/search?q=%23DANGHONGHAI) | N/A |
+| 6 | [#당홍하이](http://twitter.com/search?q=%23%eb%8b%b9%ed%99%8d%ed%95%98%ec%9d%b4) | N/A |
+| 7 | [Loom](http://twitter.com/search?q=Loom) | N/A |
+| 8 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
+| 9 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 10 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
+| 11 | [Claim](http://twitter.com/search?q=Claim) | N/A |
+| 12 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 13 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 14 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 17 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
 | 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 19 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 22 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 23 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
+| 20 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 21 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 22 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
+| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 24 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 26 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
@@ -46,9 +46,9 @@ This is top 50 for Vietnam
 | 29 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
 | 30 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 33 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
-| 34 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 32 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 33 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 34 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
 | 35 | [vũng tàu](http://twitter.com/search?q=v%c5%a9ng+t%c3%a0u) | N/A |
 | 36 | [Thai](http://twitter.com/search?q=Thai) | N/A |
 | 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Vietnam
 | 45 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 46 | [Childe](http://twitter.com/search?q=Childe) | N/A |
 | 47 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 48 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
+| 48 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
 | 49 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 50 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 50 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 
 
 

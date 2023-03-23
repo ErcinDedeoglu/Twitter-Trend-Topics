@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-03-23 18:17:58 UTC`
+📆 Last Updated: `2023-03-23 19:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
-| 2 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 5 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 6 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 7 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 8 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 9 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
-| 10 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 11 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 13 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 14 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 15 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 16 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 17 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 18 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 19 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 20 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 22 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 23 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 24 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
-| 25 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
-| 26 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
-| 27 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 28 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 29 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 30 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
-| 31 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
-| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 33 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
-| 34 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 35 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
-| 36 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 37 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 38 | [The Archer](http://twitter.com/search?q=The+Archer) | N/A |
-| 39 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 40 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
-| 41 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 42 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 43 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
-| 44 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
-| 45 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
-| 46 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 47 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 48 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 49 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 50 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 2 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 3 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 5 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 6 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 7 | [becky g](http://twitter.com/search?q=becky+g) | N/A |
+| 8 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 9 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 10 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 11 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 12 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 13 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
+| 14 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 15 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 16 | [#canvacreate2023](http://twitter.com/search?q=%23canvacreate2023) | N/A |
+| 17 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 18 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 20 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 21 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 22 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 23 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 24 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 25 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 26 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 27 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 28 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
+| 29 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 30 | [Cancel Spring Training](http://twitter.com/search?q=Cancel+Spring+Training) | N/A |
+| 31 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
+| 32 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 33 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 34 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 35 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 36 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
+| 37 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 38 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
+| 39 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 40 | [Sonic Origins](http://twitter.com/search?q=Sonic+Origins) | N/A |
+| 41 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 42 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 43 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
+| 44 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
+| 45 | [Luminosity](http://twitter.com/search?q=Luminosity) | N/A |
+| 46 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 47 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
+| 48 | [VOTA A RAGE RISING](http://twitter.com/search?q=VOTA+A+RAGE+RISING) | N/A |
+| 49 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
+| 50 | [Garry](http://twitter.com/search?q=Garry) | N/A |
 
 
 

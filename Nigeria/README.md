@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-23 18:18:11 UTC`
+📆 Last Updated: `2023-03-23 19:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
-| 2 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 3 | [#MinimieXBBTitans](http://twitter.com/search?q=%23MinimieXBBTitans) | N/A |
-| 4 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 5 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
-| 6 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 7 | [The 800k](http://twitter.com/search?q=The+800k) | N/A |
-| 8 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
-| 9 | [#Siddiqah](http://twitter.com/search?q=%23Siddiqah) | N/A |
-| 10 | [Fabregas](http://twitter.com/search?q=Fabregas) | N/A |
-| 11 | [Mr Mugu](http://twitter.com/search?q=Mr+Mugu) | N/A |
-| 12 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 13 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 14 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 15 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
-| 16 | [United Kingdom](http://twitter.com/search?q=United+Kingdom) | N/A |
-| 17 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
-| 18 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 19 | [Betting](http://twitter.com/search?q=Betting) | N/A |
-| 20 | [Senior Advocate of Nonsense](http://twitter.com/search?q=Senior+Advocate+of+Nonsense) | N/A |
-| 21 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
-| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 23 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 27 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 28 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 29 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
-| 30 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 3 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 4 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 6 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
+| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 8 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 10 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
+| 11 | [#MinimieXBBTitans](http://twitter.com/search?q=%23MinimieXBBTitans) | N/A |
+| 12 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 13 | [Festus Keyamo](http://twitter.com/search?q=Festus+Keyamo) | N/A |
+| 14 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
+| 15 | [London](http://twitter.com/search?q=London) | N/A |
+| 16 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
+| 17 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 18 | [#fairmoneybyow](http://twitter.com/search?q=%23fairmoneybyow) | N/A |
+| 19 | [#TECNOxMTN](http://twitter.com/search?q=%23TECNOxMTN) | N/A |
+| 20 | [#Siddiqah](http://twitter.com/search?q=%23Siddiqah) | N/A |
+| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 22 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
+| 23 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 24 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
+| 25 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 26 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 28 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 29 | [The 800k](http://twitter.com/search?q=The+800k) | N/A |
+| 30 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
 | 31 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 32 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
-| 33 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
-| 34 | [Mimiko](http://twitter.com/search?q=Mimiko) | N/A |
-| 35 | [#LGBTQ](http://twitter.com/search?q=%23LGBTQ) | N/A |
-| 36 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 37 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 38 | [#ASUU](http://twitter.com/search?q=%23ASUU) | N/A |
-| 39 | [#TECNOxMTN](http://twitter.com/search?q=%23TECNOxMTN) | N/A |
-| 40 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 41 | [#Liquorose](http://twitter.com/search?q=%23Liquorose) | N/A |
-| 42 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 32 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
+| 33 | [8 Senators](http://twitter.com/search?q=8+Senators) | N/A |
+| 34 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 35 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 36 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
+| 37 | [Helper](http://twitter.com/search?q=Helper) | N/A |
+| 38 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 39 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
+| 40 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
+| 41 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
+| 42 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 43 | [Fabregas](http://twitter.com/search?q=Fabregas) | N/A |
+| 44 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
+| 45 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
+| 46 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 47 | [1 Governor](http://twitter.com/search?q=1+Governor) | N/A |
+| 48 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 49 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 50 | [What of Wike](http://twitter.com/search?q=What+of+Wike) | N/A |
 
 
 

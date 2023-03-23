@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-23 18:17:21 UTC`
+📆 Last Updated: `2023-03-23 19:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [Tarcisio](http://twitter.com/search?q=Tarcisio) | N/A |
-| 3 | [Claudinho](http://twitter.com/search?q=Claudinho) | N/A |
-| 4 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 5 | [Primavera](http://twitter.com/search?q=Primavera) | N/A |
-| 6 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 7 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
-| 8 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
-| 9 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 10 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 13 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 14 | [Floripa](http://twitter.com/search?q=Floripa) | N/A |
-| 15 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 16 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 17 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 18 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 19 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 20 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 21 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 22 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 23 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 24 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
-| 25 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
-| 26 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
-| 27 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 28 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
+| 1 | [Tarcisio](http://twitter.com/search?q=Tarcisio) | N/A |
+| 2 | [Claudinho](http://twitter.com/search?q=Claudinho) | N/A |
+| 3 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 4 | [Impeachment](http://twitter.com/search?q=Impeachment) | N/A |
+| 5 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 6 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 7 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 8 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 9 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 10 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 11 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 12 | [Floripa](http://twitter.com/search?q=Floripa) | N/A |
+| 13 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
+| 14 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 16 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 17 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
+| 18 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 19 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 20 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 21 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 22 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 23 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
+| 24 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
+| 25 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 26 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 27 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
+| 28 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
 | 29 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
-| 30 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 31 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 32 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 33 | [LUIZINHO](http://twitter.com/search?q=LUIZINHO) | N/A |
-| 34 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 35 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
-| 36 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 38 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
-| 39 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 40 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 41 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
-| 42 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 43 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 30 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
+| 31 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 32 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 33 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 34 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
+| 35 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 36 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
+| 37 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 38 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 39 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 40 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 41 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 42 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 43 | [Luizinho](http://twitter.com/search?q=Luizinho) | N/A |
 | 44 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 45 | [juliana nalu](http://twitter.com/search?q=juliana+nalu) | Juliana Nalu is a Hawaiian phrase meaning "beautiful day". It is often used as a greeting or to express appreciation for a beautiful day. |
-| 46 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
-| 47 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 48 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 45 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 46 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
+| 47 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 48 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
+| 49 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
 
 
 

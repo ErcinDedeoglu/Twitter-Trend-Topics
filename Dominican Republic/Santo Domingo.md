@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-23 18:17:13 UTC`
+📆 Last Updated: `2023-03-23 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 3 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
 | 4 | [#ladronelmiente](http://twitter.com/search?q=%23ladronelmiente) | N/A |
 | 5 | [Luis Segura](http://twitter.com/search?q=Luis+Segura) | N/A |
-| 6 | [#TijeraSoberana](http://twitter.com/search?q=%23TijeraSoberana) | N/A |
-| 7 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 8 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 6 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 7 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 8 | [#tijerasoberana2023](http://twitter.com/search?q=%23tijerasoberana2023) | N/A |
 | 9 | [eddy herrera](http://twitter.com/search?q=eddy+herrera) | N/A |
 | 10 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
 | 11 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
 | 12 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
 | 13 | [Alicia Ortega](http://twitter.com/search?q=Alicia+Ortega) | N/A |
-| 14 | [Vicente](http://twitter.com/search?q=Vicente) | N/A |
-| 15 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 14 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 15 | [Vicente](http://twitter.com/search?q=Vicente) | N/A |
 | 16 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 17 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 18 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
-| 19 | [Wason](http://twitter.com/search?q=Wason) | N/A |
+| 17 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 18 | [Wason](http://twitter.com/search?q=Wason) | N/A |
+| 19 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
 | 20 | [Yiyo](http://twitter.com/search?q=Yiyo) | N/A |
-| 21 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 22 | [Marcelo Rebelo De Sousa](http://twitter.com/search?q=Marcelo+Rebelo+De+Sousa) | N/A |
+| 21 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 22 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
 | 23 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
 | 24 | [Luz García](http://twitter.com/search?q=Luz+Garc%c3%ada) | N/A |
-| 25 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 25 | [Marcelo Rebelo De Sousa](http://twitter.com/search?q=Marcelo+Rebelo+De+Sousa) | N/A |
 | 26 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
 | 27 | [Kiskeya Life](http://twitter.com/search?q=Kiskeya+Life) | N/A |
 | 28 | [Brea](http://twitter.com/search?q=Brea) | N/A |
-| 29 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 30 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 31 | [Jandy](http://twitter.com/search?q=Jandy) | N/A |
-| 32 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
-| 33 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 34 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 29 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
+| 30 | [Jandy](http://twitter.com/search?q=Jandy) | N/A |
+| 31 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
+| 32 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 33 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 34 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
 | 35 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 36 | [Jochy](http://twitter.com/search?q=Jochy) | N/A |
-| 37 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 38 | [elvis martinez](http://twitter.com/search?q=elvis+martinez) | N/A |
-| 39 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 40 | [Canario](http://twitter.com/search?q=Canario) | N/A |
-| 41 | [Zoila Luna](http://twitter.com/search?q=Zoila+Luna) | N/A |
-| 42 | [Sergio Vargas](http://twitter.com/search?q=Sergio+Vargas) | N/A |
-| 43 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 44 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
-| 45 | [Techy](http://twitter.com/search?q=Techy) | N/A |
-| 46 | [Gerald Ogando](http://twitter.com/search?q=Gerald+Ogando) | N/A |
-| 47 | [Andreina](http://twitter.com/search?q=Andreina) | N/A |
-| 48 | [Isaura Taveras](http://twitter.com/search?q=Isaura+Taveras) | N/A |
-| 49 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 50 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 37 | [elvis martinez](http://twitter.com/search?q=elvis+martinez) | N/A |
+| 38 | [Canario](http://twitter.com/search?q=Canario) | N/A |
+| 39 | [Sergio Vargas](http://twitter.com/search?q=Sergio+Vargas) | N/A |
+| 40 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 41 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
+| 42 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 43 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 44 | [Zoila Luna](http://twitter.com/search?q=Zoila+Luna) | N/A |
+| 45 | [Gerald Ogando](http://twitter.com/search?q=Gerald+Ogando) | N/A |
+| 46 | [Andreina](http://twitter.com/search?q=Andreina) | N/A |
+| 47 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
+| 48 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 49 | [Dotol](http://twitter.com/search?q=Dotol) | N/A |
+| 50 | [Techy](http://twitter.com/search?q=Techy) | N/A |
 
 
 

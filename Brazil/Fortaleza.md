@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-23 18:17:20 UTC`
+📆 Last Updated: `2023-03-23 19:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nordeste](http://twitter.com/search?q=Nordeste) | N/A |
-| 2 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 3 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 4 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 2 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 3 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 4 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 5 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
-| 6 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 7 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 8 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 9 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
-| 10 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
-| 11 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
-| 12 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 13 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
-| 14 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
-| 15 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 16 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 17 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 18 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
-| 19 | [LUIZINHO](http://twitter.com/search?q=LUIZINHO) | N/A |
-| 20 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 21 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 6 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 7 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 8 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 9 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 10 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 11 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
+| 12 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
+| 13 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 14 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 15 | [Regis Tadeu](http://twitter.com/search?q=Regis+Tadeu) | N/A |
+| 16 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
+| 17 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
+| 18 | [Arcade Fire](http://twitter.com/search?q=Arcade+Fire) | N/A |
+| 19 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 21 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
 | 22 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
-| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 24 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 25 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 26 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 27 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
-| 28 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 29 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 30 | [juliana nalu](http://twitter.com/search?q=juliana+nalu) | Juliana Nalu is a Hawaiian phrase meaning "beautiful day". It is often used as a greeting or to express appreciation for a beautiful day. |
-| 31 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
-| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 33 | [WILL NO FLAMENGO](http://twitter.com/search?q=WILL+NO+FLAMENGO) | N/A |
-| 34 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
-| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 36 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 37 | [Galo Doido](http://twitter.com/search?q=Galo+Doido) | N/A |
-| 38 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 39 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 40 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 41 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
-| 42 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 43 | [victoria pedretti](http://twitter.com/search?q=victoria+pedretti) | N/A |
-| 44 | [Lonzo Ball](http://twitter.com/search?q=Lonzo+Ball) | N/A |
-| 45 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
-| 46 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
-| 47 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 48 | [Perdida](http://twitter.com/search?q=Perdida) | N/A |
-| 49 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 50 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 23 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 24 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 25 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 26 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
+| 27 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 28 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 30 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 31 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 32 | [Luizinho](http://twitter.com/search?q=Luizinho) | N/A |
+| 33 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 34 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 35 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
+| 36 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
+| 37 | [#estudioi](http://twitter.com/search?q=%23estudioi) | N/A |
+| 38 | [juliana nalu](http://twitter.com/search?q=juliana+nalu) | Juliana Nalu is a Hawaiian phrase meaning "beautiful day". It is often used as a greeting or to express appreciation for a beautiful day. |
+| 39 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 40 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
+| 41 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 42 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 43 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 44 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 45 | [WILL NO FLAMENGO](http://twitter.com/search?q=WILL+NO+FLAMENGO) | N/A |
+| 46 | [Galo Doido](http://twitter.com/search?q=Galo+Doido) | N/A |
+| 47 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 48 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 49 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 50 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-23 18:17:27 UTC`
+📆 Last Updated: `2023-03-23 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
 | 2 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 3 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 4 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 5 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
-| 6 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 7 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 4 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 5 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 6 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 7 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
 | 8 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
 | 9 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
 | 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [Anbeta](http://twitter.com/search?q=Anbeta) | N/A |
-| 12 | [Marlene Kuntz](http://twitter.com/search?q=Marlene+Kuntz) | N/A |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 15 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
-| 16 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 17 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 18 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 19 | [giovanna sannino](http://twitter.com/search?q=giovanna+sannino) | N/A |
-| 20 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 21 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 22 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 23 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 24 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 25 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
-| 26 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 27 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 28 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 29 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 31 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 33 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 34 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 35 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 36 | [Mangiatela](http://twitter.com/search?q=Mangiatela) | N/A |
-| 37 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 38 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 12 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 13 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 14 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 15 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 16 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
+| 17 | [giovanna sannino](http://twitter.com/search?q=giovanna+sannino) | N/A |
+| 18 | [England](http://twitter.com/search?q=England) | N/A |
+| 19 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 20 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 21 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 22 | [Anbeta](http://twitter.com/search?q=Anbeta) | N/A |
+| 23 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 24 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 25 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 26 | [Mangiatela](http://twitter.com/search?q=Mangiatela) | N/A |
+| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 28 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 29 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 30 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 31 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 32 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 33 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 34 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 35 | [Toloi](http://twitter.com/search?q=Toloi) | N/A |
+| 36 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 37 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 38 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
 | 39 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 40 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 41 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 40 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 41 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
 | 42 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 43 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 44 | [Forza Inghilterra](http://twitter.com/search?q=Forza+Inghilterra) | N/A |
-| 45 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 46 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 47 | [Balcani](http://twitter.com/search?q=Balcani) | N/A |
-| 48 | [grassani](http://twitter.com/search?q=grassani) | N/A |
-| 49 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 50 | [Ciro Ricci](http://twitter.com/search?q=Ciro+Ricci) | N/A |
+| 43 | [Piazza della Loggia](http://twitter.com/search?q=Piazza+della+Loggia) | N/A |
+| 44 | [James Key](http://twitter.com/search?q=James+Key) | N/A |
+| 45 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 46 | [Myrta](http://twitter.com/search?q=Myrta) | N/A |
+| 47 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 48 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 49 | [Ma Oriana](http://twitter.com/search?q=Ma+Oriana) | N/A |
+| 50 | [Cabrini](http://twitter.com/search?q=Cabrini) | N/A |
 
 
 

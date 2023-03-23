@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-23 18:18:07 UTC`
+📆 Last Updated: `2023-03-23 19:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Thomasberg](http://twitter.com/search?q=Thomasberg) | N/A |
-| 2 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
-| 3 | [#FL23](http://twitter.com/search?q=%23FL23) | N/A |
+| 2 | [#FL23](http://twitter.com/search?q=%23FL23) | N/A |
+| 3 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
 | 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 7 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
-| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 9 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
-| 10 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 11 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 12 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
-| 13 | [FC Midtjylland](http://twitter.com/search?q=FC+Midtjylland) | N/A |
-| 14 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
-| 15 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 16 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 17 | [Randers FC](http://twitter.com/search?q=Randers+FC) | N/A |
-| 18 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
-| 19 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 20 | [børsen](http://twitter.com/search?q=b%c3%b8rsen) | N/A |
-| 21 | [Folketingets](http://twitter.com/search?q=Folketingets) | N/A |
-| 22 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 23 | [struer](http://twitter.com/search?q=struer) | N/A |
-| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 26 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 27 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 28 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 5 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 8 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 9 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 10 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
+| 11 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 12 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 13 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
+| 14 | [FC Midtjylland](http://twitter.com/search?q=FC+Midtjylland) | N/A |
+| 15 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 16 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 18 | [Randers FC](http://twitter.com/search?q=Randers+FC) | N/A |
+| 19 | [Nordic](http://twitter.com/search?q=Nordic) | N/A |
+| 20 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 21 | [børsen](http://twitter.com/search?q=b%c3%b8rsen) | N/A |
+| 22 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
+| 23 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 25 | [struer](http://twitter.com/search?q=struer) | N/A |
+| 26 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 27 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 28 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
 | 29 | [Åbenbart](http://twitter.com/search?q=%c3%85benbart) | N/A |
 | 30 | [lars aagaard](http://twitter.com/search?q=lars+aagaard) | N/A |
 | 31 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 32 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 33 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 32 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 33 | [Danske](http://twitter.com/search?q=Danske) | N/A |
 | 34 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
 | 35 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 36 | [Pointen](http://twitter.com/search?q=Pointen) | N/A |
+| 36 | [pointen](http://twitter.com/search?q=pointen) | N/A |
 | 37 | [Faktisk](http://twitter.com/search?q=Faktisk) | N/A |
 | 38 | [Kina](http://twitter.com/search?q=Kina) | N/A |
 | 39 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 40 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 41 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 42 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
-| 43 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 44 | [vesterbro](http://twitter.com/search?q=vesterbro) | N/A |
-| 45 | [Thorup](http://twitter.com/search?q=Thorup) | N/A |
-| 46 | [Kvist](http://twitter.com/search?q=Kvist) | N/A |
-| 47 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 48 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
-| 49 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 50 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 41 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 42 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
+| 43 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
+| 44 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 45 | [Corner](http://twitter.com/search?q=Corner) | N/A |
+| 46 | [vesterbro](http://twitter.com/search?q=vesterbro) | N/A |
+| 47 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 48 | [Thorup](http://twitter.com/search?q=Thorup) | N/A |
+| 49 | [Kvist](http://twitter.com/search?q=Kvist) | N/A |
+| 50 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
 
 
 
