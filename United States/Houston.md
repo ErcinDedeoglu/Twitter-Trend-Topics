@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-23 22:17:53 UTC`
+📆 Last Updated: `2023-03-23 23:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 2 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 3 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
-| 4 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 5 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 7 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 11 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
+| 4 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 5 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 6 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 7 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 8 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 9 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 10 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 12 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 13 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 15 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
 | 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 17 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 18 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 19 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 20 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 21 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
-| 22 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
-| 23 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 24 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
-| 25 | [England](http://twitter.com/search?q=England) | N/A |
-| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 27 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 28 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
-| 29 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 30 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 31 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 32 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 33 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 34 | [Breece](http://twitter.com/search?q=Breece) | N/A |
-| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 36 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 38 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 39 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 40 | [Tommy Wiseau](http://twitter.com/search?q=Tommy+Wiseau) | N/A |
-| 41 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 42 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 43 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 44 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 45 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 46 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 47 | [Big Shark](http://twitter.com/search?q=Big+Shark) | N/A |
-| 48 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
-| 49 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 20 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 21 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 22 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 23 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 24 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 26 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
+| 27 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
+| 28 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 29 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
+| 30 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 31 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 32 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
+| 33 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 34 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 37 | [Rocky 3](http://twitter.com/search?q=Rocky+3) | N/A |
+| 38 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 39 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 40 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 41 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 42 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
+| 43 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 44 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 45 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 46 | [England](http://twitter.com/search?q=England) | N/A |
+| 47 | [Breece](http://twitter.com/search?q=Breece) | N/A |
+| 48 | [Meltzer](http://twitter.com/search?q=Meltzer) | N/A |
+| 49 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 50 | [GO WHITE](http://twitter.com/search?q=GO+WHITE) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-23 22:17:39 UTC`
+📆 Last Updated: `2023-03-23 23:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for [Kenya](</Kenya>)
 | 14 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 15 | [Millie Odhiambo](http://twitter.com/search?q=Millie+Odhiambo) | N/A |
 | 16 | [HELB](http://twitter.com/search?q=HELB) | N/A |
-| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 20 | [Brother Paul](http://twitter.com/search?q=Brother+Paul) | N/A |
-| 21 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
 | 23 | [Nyaberih](http://twitter.com/search?q=Nyaberih) | N/A |
-| 24 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 26 | [Nuru Okanga](http://twitter.com/search?q=Nuru+Okanga) | N/A |
-| 27 | [Governor Irungu](http://twitter.com/search?q=Governor+Irungu) | N/A |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [Nuru Okanga](http://twitter.com/search?q=Nuru+Okanga) | N/A |
+| 26 | [governor irungu](http://twitter.com/search?q=governor+irungu) | N/A |
+| 27 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 28 | [Chiloba](http://twitter.com/search?q=Chiloba) | N/A |
-| 29 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 30 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
-| 31 | [didmus barasa](http://twitter.com/search?q=didmus+barasa) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [pulpit](http://twitter.com/search?q=pulpit) | N/A |
-| 34 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 35 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 36 | [Minne](http://twitter.com/search?q=Minne) | N/A |
-| 37 | [Send Money for Free](http://twitter.com/search?q=Send+Money+for+Free) | N/A |
-| 38 | [Holiness](http://twitter.com/search?q=Holiness) | N/A |
-| 39 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
-| 40 | [the eternal gospel](http://twitter.com/search?q=the+eternal+gospel) | N/A |
-| 41 | [mr apudo](http://twitter.com/search?q=mr+apudo) | N/A |
-| 42 | [Kingdom of God](http://twitter.com/search?q=Kingdom+of+God) | N/A |
-| 43 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
-| 44 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 45 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 46 | [Japap](http://twitter.com/search?q=Japap) | N/A |
-| 47 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 48 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 49 | [Radisson Blu Hotel](http://twitter.com/search?q=Radisson+Blu+Hotel) | N/A |
+| 29 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
+| 30 | [didmus barasa](http://twitter.com/search?q=didmus+barasa) | N/A |
+| 31 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 32 | [pulpit](http://twitter.com/search?q=pulpit) | N/A |
+| 33 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
+| 34 | [Minne](http://twitter.com/search?q=Minne) | N/A |
+| 35 | [Send Money for Free](http://twitter.com/search?q=Send+Money+for+Free) | N/A |
+| 36 | [Holiness](http://twitter.com/search?q=Holiness) | N/A |
+| 37 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 38 | [the eternal gospel](http://twitter.com/search?q=the+eternal+gospel) | N/A |
+| 39 | [mr apudo](http://twitter.com/search?q=mr+apudo) | N/A |
+| 40 | [Kingdom of God](http://twitter.com/search?q=Kingdom+of+God) | N/A |
+| 41 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 42 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 43 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 44 | [Japap](http://twitter.com/search?q=Japap) | N/A |
+| 45 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 46 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 47 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
+| 48 | [radisson blu hotel](http://twitter.com/search?q=radisson+blu+hotel) | N/A |
+| 49 | [Muslim Brothers and Sisters](http://twitter.com/search?q=Muslim+Brothers+and+Sisters) | N/A |
 
 
 

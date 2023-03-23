@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-23 22:17:21 UTC`
+📆 Last Updated: `2023-03-23 23:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,46 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
 | 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 5 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 7 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 8 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 9 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 3 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 6 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 7 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 8 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 9 | [#Kretschmer](http://twitter.com/search?q=%23Kretschmer) | N/A |
 | 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 11 | [#Kretschmer](http://twitter.com/search?q=%23Kretschmer) | N/A |
-| 12 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 13 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 16 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 17 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 11 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 12 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 13 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 14 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 15 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 16 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
+| 19 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
 | 20 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 21 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 22 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 24 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 25 | [Streik](http://twitter.com/search?q=Streik) | N/A |
-| 26 | [Unterwäsche](http://twitter.com/search?q=Unterw%c3%a4sche) | N/A |
-| 27 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
-| 28 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 29 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 30 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 31 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 32 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 34 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 35 | [#Paris](http://twitter.com/search?q=%23Paris) | #Paris is a hashtag used on social media platforms such as Twitter and Instagram. It is used to tag posts related to the city of Paris, France. It can also be used to tag posts related to the culture, people, and lifestyle of Paris. |
-| 36 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 37 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
-| 38 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 39 | [#Bremen](http://twitter.com/search?q=%23Bremen) | N/A |
-| 40 | [#Verdi](http://twitter.com/search?q=%23Verdi) | N/A |
+| 21 | [Ablöse](http://twitter.com/search?q=Abl%c3%b6se) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Pokal](http://twitter.com/search?q=Pokal) | N/A |
+| 24 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
+| 25 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 26 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
+| 27 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 28 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 29 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 30 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 31 | [Unterwäsche](http://twitter.com/search?q=Unterw%c3%a4sche) | N/A |
+| 32 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 33 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
+| 34 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 35 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 36 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
+| 37 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 38 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 39 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
+| 40 | [#Paris](http://twitter.com/search?q=%23Paris) | #Paris is a hashtag used on social media platforms such as Twitter and Instagram. It is used to tag posts related to the city of Paris, France. It can also be used to tag posts related to the culture, people, and lifestyle of Paris. |
+| 41 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 42 | [#Verdi](http://twitter.com/search?q=%23Verdi) | N/A |
 
 
 
