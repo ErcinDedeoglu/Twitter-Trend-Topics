@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-23 15:17:47 UTC`
+📆 Last Updated: `2023-03-23 16:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
 | 2 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
 | 3 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
-| 4 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
-| 5 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
-| 6 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
-| 7 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 8 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 9 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
-| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 11 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 13 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 14 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 15 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 16 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 18 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 19 | [A'TIN MISSES SB19](http://twitter.com/search?q=A%27TIN+MISSES+SB19) | N/A |
-| 20 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 21 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
-| 22 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 4 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
+| 5 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
+| 8 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 9 | [#WILD_TONIGHT_1MViews](http://twitter.com/search?q=%23WILD_TONIGHT_1MViews) | N/A |
+| 10 | [Minari](http://twitter.com/search?q=Minari) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 13 | [Imelda Marcos](http://twitter.com/search?q=Imelda+Marcos) | N/A |
+| 14 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 15 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 16 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 18 | [a'tin misses sb19](http://twitter.com/search?q=a%27tin+misses+sb19) | N/A |
+| 19 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 20 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 21 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 22 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
 | 23 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 24 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 25 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 26 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 27 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 28 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 29 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 30 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 31 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
-| 32 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 33 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
-| 34 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 35 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 36 | [Dash](http://twitter.com/search?q=Dash) | N/A |
+| 24 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 28 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 29 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 30 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 31 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 32 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
+| 33 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 34 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
+| 35 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 36 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
 | 37 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 38 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 39 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
-| 40 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 41 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
-| 42 | [#DLConvince](http://twitter.com/search?q=%23DLConvince) | N/A |
-| 43 | [#UrdujaPanganib](http://twitter.com/search?q=%23UrdujaPanganib) | N/A |
-| 44 | [#HOIEmotionalBaggage](http://twitter.com/search?q=%23HOIEmotionalBaggage) | N/A |
-| 45 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 46 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 47 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
+| 38 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 39 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 40 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
+| 41 | [#DLConvince](http://twitter.com/search?q=%23DLConvince) | N/A |
+| 42 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
+| 43 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 44 | [#JeremyG_Bini](http://twitter.com/search?q=%23JeremyG_Bini) | N/A |
+| 45 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
+| 46 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
+| 47 | [#HOIEmotionalBaggage](http://twitter.com/search?q=%23HOIEmotionalBaggage) | N/A |
 
 
 

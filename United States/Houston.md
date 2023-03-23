@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-23 15:18:02 UTC`
+📆 Last Updated: `2023-03-23 16:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 2 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 6 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 7 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
-| 8 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 9 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 10 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 11 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 12 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 2 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 5 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 6 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
+| 9 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 10 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 11 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 13 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 14 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
 | 15 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 16 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 16 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
 | 17 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 19 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 20 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 21 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 22 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 23 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 25 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 26 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 27 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 28 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 29 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 30 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 31 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 32 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 33 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 34 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 35 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
-| 36 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 37 | [Wordle 642 X](http://twitter.com/search?q=Wordle+642+X) | N/A |
-| 38 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
-| 39 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
-| 40 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 41 | [Mugler](http://twitter.com/search?q=Mugler) | N/A |
-| 42 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 43 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 44 | [Summerfest](http://twitter.com/search?q=Summerfest) | N/A |
-| 45 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 46 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
-| 47 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 48 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 49 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 50 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 19 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 20 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 21 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 22 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 24 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 25 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 26 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
+| 27 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
+| 28 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
+| 29 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 30 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 31 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 32 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 33 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 34 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
+| 35 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 37 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 38 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
+| 39 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
+| 40 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
+| 41 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
+| 42 | [Lake](http://twitter.com/search?q=Lake) | N/A |
+| 43 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 44 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 45 | [Merrily](http://twitter.com/search?q=Merrily) | N/A |
+| 46 | [Kazee](http://twitter.com/search?q=Kazee) | N/A |
+| 47 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 48 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 49 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
+| 50 | [Mugler](http://twitter.com/search?q=Mugler) | N/A |
 
 
 

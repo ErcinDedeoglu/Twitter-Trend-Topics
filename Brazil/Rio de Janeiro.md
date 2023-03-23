@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-23 15:17:29 UTC`
+📆 Last Updated: `2023-03-23 16:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 2 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 3 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 4 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 6 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
-| 7 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
-| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 9 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 10 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 11 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 12 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 13 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 14 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
-| 15 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 16 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
-| 17 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 18 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 19 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 21 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 22 | [São João de Patos](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Patos) | N/A |
-| 23 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 24 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 25 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 26 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
-| 27 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 28 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 29 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 30 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
-| 31 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 32 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
-| 33 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 34 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 35 | [Junhyeon](http://twitter.com/search?q=Junhyeon) | N/A |
-| 36 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
-| 37 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 38 | [Tirei Você](http://twitter.com/search?q=Tirei+Voc%c3%aa) | N/A |
-| 39 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 40 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
-| 41 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 42 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 43 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
-| 44 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 45 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 46 | [Greve](http://twitter.com/search?q=Greve) | N/A |
-| 47 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 48 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
-| 49 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
-| 50 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 1 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 2 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 3 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 4 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 5 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 6 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 7 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 8 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 9 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 11 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
+| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 13 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 14 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 15 | [arcade fire](http://twitter.com/search?q=arcade+fire) | N/A |
+| 16 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 17 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
+| 18 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
+| 19 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 20 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 21 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
+| 22 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 23 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 24 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 25 | [LUIZINHO](http://twitter.com/search?q=LUIZINHO) | N/A |
+| 26 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 27 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
+| 28 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 30 | [São João de Patos](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Patos) | N/A |
+| 31 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 32 | [Lonzo Ball](http://twitter.com/search?q=Lonzo+Ball) | N/A |
+| 33 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 34 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
+| 35 | [Galo Doido](http://twitter.com/search?q=Galo+Doido) | N/A |
+| 36 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
+| 37 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
+| 38 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 39 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 40 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
+| 41 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 42 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 43 | [nabor](http://twitter.com/search?q=nabor) | N/A |
+| 44 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 45 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 46 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 47 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 48 | [Shuaibo](http://twitter.com/search?q=Shuaibo) | N/A |
+| 49 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
+| 50 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
 
 
 

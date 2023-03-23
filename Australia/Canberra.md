@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-23 15:17:41 UTC`
+📆 Last Updated: `2023-03-23 16:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#NRLEelsPanthers](http://twitter.com/search?q=%23NRLEelsPanthers) | N/A |
 | 3 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
 | 4 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
-| 5 | [#voteyes](http://twitter.com/search?q=%23voteyes) | N/A |
-| 6 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 7 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 8 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 9 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 10 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 11 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 5 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 6 | [#baggers](http://twitter.com/search?q=%23baggers) | N/A |
+| 7 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 8 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 12 | [marcia langton](http://twitter.com/search?q=marcia+langton) | N/A |
 | 13 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 15 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 16 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 18 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 19 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
+| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 15 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 16 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 17 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
+| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 19 | [Parra](http://twitter.com/search?q=Parra) | N/A |
 | 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 21 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 22 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 21 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 22 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
 | 23 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 24 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 25 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 26 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 24 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 25 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 26 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
 | 27 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 28 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 29 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
-| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 28 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
+| 29 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 30 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
 | 31 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 32 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 32 | [mitch moses](http://twitter.com/search?q=mitch+moses) | N/A |
 | 33 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
-| 34 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 35 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 36 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 37 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 38 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
-| 39 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
-| 40 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 41 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 42 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
-| 43 | [Ennis](http://twitter.com/search?q=Ennis) | Ennis is a name of Irish origin, derived from the Gaelic name Aonghus, meaning "one strength". It is also the name of a town in County Clare, Ireland. |
-| 44 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 34 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 35 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 36 | [Selwood](http://twitter.com/search?q=Selwood) | N/A |
+| 37 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
+| 38 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 39 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 40 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
+| 41 | [Ennis](http://twitter.com/search?q=Ennis) | Ennis is a name of Irish origin, derived from the Gaelic name Aonghus, meaning "one strength". It is also the name of a town in County Clare, Ireland. |
+| 42 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 43 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 45 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 46 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 47 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 48 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 46 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 47 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 48 | [Cam Guthrie](http://twitter.com/search?q=Cam+Guthrie) | N/A |
 
 
 

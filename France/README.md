@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-23 15:18:10 UTC`
+📆 Last Updated: `2023-03-23 16:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
 | 2 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 3 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 4 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 5 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 6 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 7 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 8 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 9 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
-| 10 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 11 | [Assas](http://twitter.com/search?q=Assas) | N/A |
-| 12 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 13 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
-| 14 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 15 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 16 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
-| 17 | [Abou Diaby](http://twitter.com/search?q=Abou+Diaby) | N/A |
-| 18 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 20 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 3 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 4 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 5 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 8 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
+| 9 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 10 | [Rouen](http://twitter.com/search?q=Rouen) | N/A |
+| 11 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 13 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 14 | [Abou Diaby](http://twitter.com/search?q=Abou+Diaby) | N/A |
+| 15 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
+| 16 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 17 | [Umbrella](http://twitter.com/search?q=Umbrella) | N/A |
+| 18 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
+| 19 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 20 | [Guide](http://twitter.com/search?q=Guide) | N/A |
 | 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 22 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 23 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
-| 24 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 25 | [Grève du 23](http://twitter.com/search?q=Gr%c3%a8ve+du+23) | N/A |
-| 26 | [Guide](http://twitter.com/search?q=Guide) | N/A |
-| 27 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
-| 28 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
+| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 23 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
+| 24 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 25 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
+| 26 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
+| 27 | [Wano](http://twitter.com/search?q=Wano) | N/A |
+| 28 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 29 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
-| 30 | [Teach](http://twitter.com/search?q=Teach) | N/A |
+| 30 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
 | 31 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
-| 32 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
-| 33 | [Tours](http://twitter.com/search?q=Tours) | N/A |
-| 34 | [Bon Ramadan](http://twitter.com/search?q=Bon+Ramadan) | N/A |
-| 35 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 36 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 37 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 38 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 39 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
-| 40 | [#Bordeaux](http://twitter.com/search?q=%23Bordeaux) | N/A |
-| 41 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
-| 42 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
-| 43 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
-| 44 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 45 | [#Lorient](http://twitter.com/search?q=%23Lorient) | N/A |
-| 46 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
+| 32 | [Tours](http://twitter.com/search?q=Tours) | N/A |
+| 33 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
+| 34 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 35 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
+| 36 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
+| 37 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
+| 38 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
+| 39 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 40 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
+| 41 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
+| 42 | [#Bordeaux](http://twitter.com/search?q=%23Bordeaux) | N/A |
+| 43 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
+| 44 | [#Caen](http://twitter.com/search?q=%23Caen) | N/A |
+| 45 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 46 | [#Lorient](http://twitter.com/search?q=%23Lorient) | N/A |
 | 47 | [#ClermontFerrand](http://twitter.com/search?q=%23ClermontFerrand) | N/A |
-| 48 | [#Caen](http://twitter.com/search?q=%23Caen) | N/A |
-| 49 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
-| 50 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 48 | [#onlacherien](http://twitter.com/search?q=%23onlacherien) | N/A |
+| 49 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 50 | [#Republique](http://twitter.com/search?q=%23Republique) | N/A |
 
 
 

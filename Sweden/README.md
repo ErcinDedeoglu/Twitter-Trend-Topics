@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-23 15:18:15 UTC`
+📆 Last Updated: `2023-03-23 16:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for Sweden
 | 9 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 10 | [it is just](http://twitter.com/search?q=it+is+just) | N/A |
 | 11 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 12 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 13 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
+| 12 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
+| 13 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 | 14 | [jonna sima](http://twitter.com/search?q=jonna+sima) | N/A |
-| 15 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
-| 16 | [Högmo](http://twitter.com/search?q=H%c3%b6gmo) | N/A |
-| 17 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
-| 18 | [Buya](http://twitter.com/search?q=Buya) | N/A |
-| 19 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
-| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 21 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 22 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 23 | [Ludvig Nilsson](http://twitter.com/search?q=Ludvig+Nilsson) | N/A |
-| 24 | [Supper](http://twitter.com/search?q=Supper) | N/A |
-| 25 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 27 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
-| 28 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
-| 29 | [Folkhemsel](http://twitter.com/search?q=Folkhemsel) | N/A |
-| 30 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 31 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
-| 32 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 33 | [Slow](http://twitter.com/search?q=Slow) | N/A |
-| 34 | [per bolund](http://twitter.com/search?q=per+bolund) | N/A |
-| 35 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
-| 36 | [Bottoms](http://twitter.com/search?q=Bottoms) | N/A |
-| 37 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 38 | [Nord](http://twitter.com/search?q=Nord) | N/A |
-| 39 | [tidöavtalet](http://twitter.com/search?q=tid%c3%b6avtalet) | N/A |
-| 40 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 41 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 42 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
-| 43 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 44 | [elin kjos](http://twitter.com/search?q=elin+kjos) | N/A |
-| 45 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 46 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
-| 47 | [wallström](http://twitter.com/search?q=wallstr%c3%b6m) | N/A |
-| 48 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 15 | [Högmo](http://twitter.com/search?q=H%c3%b6gmo) | N/A |
+| 16 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
+| 17 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
+| 18 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
+| 19 | [Widding](http://twitter.com/search?q=Widding) | N/A |
+| 20 | [Buya](http://twitter.com/search?q=Buya) | N/A |
+| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 22 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 23 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 24 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 25 | [Ludvig Nilsson](http://twitter.com/search?q=Ludvig+Nilsson) | N/A |
+| 26 | [Supper](http://twitter.com/search?q=Supper) | N/A |
+| 27 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
+| 28 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
+| 29 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
+| 30 | [Folkhemsel](http://twitter.com/search?q=Folkhemsel) | N/A |
+| 31 | [Slow](http://twitter.com/search?q=Slow) | N/A |
+| 32 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
+| 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 34 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 35 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 36 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
+| 37 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 38 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 39 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
+| 40 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 41 | [elin kjos](http://twitter.com/search?q=elin+kjos) | N/A |
+| 42 | [Bottoms](http://twitter.com/search?q=Bottoms) | N/A |
+| 43 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 44 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 45 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 46 | [Bolund](http://twitter.com/search?q=Bolund) | N/A |
+| 47 | [Eritrea](http://twitter.com/search?q=Eritrea) | N/A |
+| 48 | [margot wallström](http://twitter.com/search?q=margot+wallstr%c3%b6m) | N/A |
 | 49 | [wessner](http://twitter.com/search?q=wessner) | N/A |
 | 50 | [bosnien](http://twitter.com/search?q=bosnien) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-23 15:17:23 UTC`
+📆 Last Updated: `2023-03-23 16:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 4 | [#ComoKornoEnPrimavera](http://twitter.com/search?q=%23ComoKornoEnPrimavera) | N/A |
-| 5 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
-| 6 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 9 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 10 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 11 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
-| 12 | [Luis Donaldo Colosio](http://twitter.com/search?q=Luis+Donaldo+Colosio) | N/A |
-| 13 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 14 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 15 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 2 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 3 | [#ComoKornoEnPrimavera](http://twitter.com/search?q=%23ComoKornoEnPrimavera) | N/A |
+| 4 | [#PoderosoQuejumbroso](http://twitter.com/search?q=%23PoderosoQuejumbroso) | N/A |
+| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 7 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 8 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 9 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 10 | [Luis Donaldo Colosio](http://twitter.com/search?q=Luis+Donaldo+Colosio) | N/A |
+| 11 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 12 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
+| 13 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 14 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 15 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
+| 16 | [Calica](http://twitter.com/search?q=Calica) | N/A |
 | 17 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
-| 18 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 19 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 20 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 21 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 22 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 18 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 19 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 20 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 21 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
+| 22 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
 | 23 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 24 | [Choix](http://twitter.com/search?q=Choix) | N/A |
-| 25 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 26 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 25 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 26 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
 | 27 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 28 | [Calica](http://twitter.com/search?q=Calica) | N/A |
-| 29 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
-| 30 | [vegetta](http://twitter.com/search?q=vegetta) | N/A |
-| 31 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 32 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 33 | [Beltrones](http://twitter.com/search?q=Beltrones) | N/A |
-| 34 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 35 | [Farro](http://twitter.com/search?q=Farro) | N/A |
-| 36 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
-| 37 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 38 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
-| 39 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 40 | [Raymundo Ramos](http://twitter.com/search?q=Raymundo+Ramos) | N/A |
-| 41 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 28 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
+| 29 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 30 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 32 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 33 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 34 | [José Noriel Portillo](http://twitter.com/search?q=Jos%c3%a9+Noriel+Portillo) | N/A |
+| 35 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
+| 36 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 37 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
+| 38 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 39 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 40 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
+| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 42 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 43 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 44 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 45 | [Hoy 23](http://twitter.com/search?q=Hoy+23) | N/A |
-| 46 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 47 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
-| 48 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 49 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 50 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 43 | [Farro](http://twitter.com/search?q=Farro) | N/A |
+| 44 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 45 | [Verónica del Castillo](http://twitter.com/search?q=Ver%c3%b3nica+del+Castillo) | N/A |
+| 46 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 47 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 48 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 49 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 50 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
 
 
 

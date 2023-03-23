@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-03-23 15:17:55 UTC`
+📆 Last Updated: `2023-03-23 16:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
 | 3 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 4 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 5 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
+| 5 | [#پاکستان_زندہ_باد_ہے](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b2%d9%86%d8%af%db%81_%d8%a8%d8%a7%d8%af_%db%81%db%92) | N/A |
 | 6 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
 | 7 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 9 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 10 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 11 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 10 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 11 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
 | 12 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 13 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
-| 14 | [Lahore Resolution](http://twitter.com/search?q=Lahore+Resolution) | N/A |
-| 15 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 16 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 13 | [Congratulations King](http://twitter.com/search?q=Congratulations+King) | N/A |
+| 14 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
+| 15 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
+| 16 | [Chand](http://twitter.com/search?q=Chand) | N/A |
 | 17 | [Weight](http://twitter.com/search?q=Weight) | N/A |
-| 18 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
+| 18 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
 | 19 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
-| 20 | [Chai](http://twitter.com/search?q=Chai) | N/A |
-| 21 | [Amir Liaquat](http://twitter.com/search?q=Amir+Liaquat) | N/A |
-| 22 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
-| 23 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
-| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [Congratulations Captain](http://twitter.com/search?q=Congratulations+Captain) | N/A |
+| 21 | [Chai](http://twitter.com/search?q=Chai) | N/A |
+| 22 | [Amir Liaquat](http://twitter.com/search?q=Amir+Liaquat) | N/A |
+| 23 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 24 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
 | 25 | [Mehwish Hayat](http://twitter.com/search?q=Mehwish+Hayat) | N/A |
-| 26 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 27 | [alvi](http://twitter.com/search?q=alvi) | N/A |
-| 28 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 29 | [Many Many](http://twitter.com/search?q=Many+Many) | N/A |
-| 30 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
-| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 32 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
-| 33 | [Samee](http://twitter.com/search?q=Samee) | N/A |
-| 34 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
-| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 36 | [Muslim League](http://twitter.com/search?q=Muslim+League) | N/A |
-| 37 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 38 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 39 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 40 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 41 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 42 | [Jokers](http://twitter.com/search?q=Jokers) | N/A |
-| 43 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 44 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 45 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 46 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 47 | [Atta](http://twitter.com/search?q=Atta) | N/A |
-| 48 | [Halal](http://twitter.com/search?q=Halal) | N/A |
-| 49 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
-| 50 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 26 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
+| 27 | [Many Many](http://twitter.com/search?q=Many+Many) | N/A |
+| 28 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
+| 29 | [Mention](http://twitter.com/search?q=Mention) | N/A |
+| 30 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 31 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 32 | [Asif](http://twitter.com/search?q=Asif) | N/A |
+| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 34 | [England](http://twitter.com/search?q=England) | N/A |
+| 35 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
+| 36 | [Chalo](http://twitter.com/search?q=Chalo) | N/A |
+| 37 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 38 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 39 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 40 | [Muslim League](http://twitter.com/search?q=Muslim+League) | N/A |
+| 41 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 42 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 43 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 44 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 45 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 46 | [Hostel](http://twitter.com/search?q=Hostel) | N/A |
+| 47 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
+| 48 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 49 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 50 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
 
 
 

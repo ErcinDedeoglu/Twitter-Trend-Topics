@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-23 15:17:18 UTC`
+📆 Last Updated: `2023-03-23 16:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 2 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 3 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
 | 4 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 6 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 9 | [Tyler Kleven](http://twitter.com/search?q=Tyler+Kleven) | N/A |
-| 10 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 12 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [#HanDong](http://twitter.com/search?q=%23HanDong) | N/A |
-| 15 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 16 | [Louis Jean](http://twitter.com/search?q=Louis+Jean) | N/A |
-| 17 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
-| 18 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 19 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 20 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 21 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 22 | [LeBreton Flats](http://twitter.com/search?q=LeBreton+Flats) | N/A |
-| 23 | [Denis](http://twitter.com/search?q=Denis) | N/A |
-| 24 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 25 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 26 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 27 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 28 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 29 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 30 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 31 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 32 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 7 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 8 | [zellers](http://twitter.com/search?q=zellers) | N/A |
+| 9 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 10 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 11 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
+| 12 | [#MessiahHasCome](http://twitter.com/search?q=%23MessiahHasCome) | N/A |
+| 13 | [#HanDong](http://twitter.com/search?q=%23HanDong) | N/A |
+| 14 | [Askarov](http://twitter.com/search?q=Askarov) | N/A |
+| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 16 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 17 | [Tyler Kleven](http://twitter.com/search?q=Tyler+Kleven) | N/A |
+| 18 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [Denis](http://twitter.com/search?q=Denis) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 23 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 24 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 25 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 26 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 27 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
+| 28 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 29 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 30 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 31 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 32 | [frum](http://twitter.com/search?q=frum) | N/A |
 | 33 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 34 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 35 | [Chicago Blackhawks](http://twitter.com/search?q=Chicago+Blackhawks) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 38 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 39 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 40 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 41 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 42 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 43 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 44 | [Wordle 642 X](http://twitter.com/search?q=Wordle+642+X) | N/A |
-| 45 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 46 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 34 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 35 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 36 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 37 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 38 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 39 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 40 | [Wordle 642 X](http://twitter.com/search?q=Wordle+642+X) | N/A |
+| 41 | [Iggy](http://twitter.com/search?q=Iggy) | N/A |
+| 42 | [Lebreton](http://twitter.com/search?q=Lebreton) | N/A |
+| 43 | [Cassivi](http://twitter.com/search?q=Cassivi) | N/A |
+| 44 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 45 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 46 | [Moira](http://twitter.com/search?q=Moira) | N/A |
 | 47 | [Ahmed](http://twitter.com/search?q=Ahmed) | N/A |
 | 48 | [Micheals](http://twitter.com/search?q=Micheals) | N/A |
-| 49 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 50 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 49 | [Maher Arar](http://twitter.com/search?q=Maher+Arar) | N/A |
+| 50 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-23 15:17:35 UTC`
+📆 Last Updated: `2023-03-23 16:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 3 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
 | 4 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
-| 5 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
+| 5 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
 | 6 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 7 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
+| 7 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
 | 8 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 10 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 11 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 12 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 14 | [Bürgerschaftswahl](http://twitter.com/search?q=B%c3%bcrgerschaftswahl) | N/A |
-| 15 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
-| 16 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 17 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
-| 18 | [Finanzielle Bildung](http://twitter.com/search?q=Finanzielle+Bildung) | N/A |
-| 19 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 20 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 23 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
+| 9 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 10 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 15 | [Finanzielle Bildung](http://twitter.com/search?q=Finanzielle+Bildung) | N/A |
+| 16 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 17 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 18 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 20 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 21 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
+| 22 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
+| 23 | [peter fischer](http://twitter.com/search?q=peter+fischer) | N/A |
 | 24 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 25 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 26 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 27 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 27 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
 | 28 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 29 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
-| 30 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 29 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
+| 30 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
 | 31 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 32 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 33 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
-| 34 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 35 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 36 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
-| 37 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 38 | [peter urban](http://twitter.com/search?q=peter+urban) | N/A |
-| 39 | [Gewerkschaft](http://twitter.com/search?q=Gewerkschaft) | N/A |
-| 40 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 41 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 42 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 44 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
-| 45 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
-| 46 | [feinde der demokratie](http://twitter.com/search?q=feinde+der+demokratie) | N/A |
-| 47 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 48 | [Straßenbahnen](http://twitter.com/search?q=Stra%c3%9fenbahnen) | N/A |
-| 49 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
+| 32 | [Gewerkschaft](http://twitter.com/search?q=Gewerkschaft) | N/A |
+| 33 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 34 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 35 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 36 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 37 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 38 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 39 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
+| 40 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 41 | [peter urban](http://twitter.com/search?q=peter+urban) | N/A |
+| 42 | [Bürgerschaftswahl](http://twitter.com/search?q=B%c3%bcrgerschaftswahl) | N/A |
+| 43 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
+| 44 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 45 | [Kleiderordnung](http://twitter.com/search?q=Kleiderordnung) | N/A |
+| 46 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 47 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
+| 48 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
+| 49 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
 
 
 

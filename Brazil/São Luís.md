@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-23 15:17:30 UTC`
+📆 Last Updated: `2023-03-23 16:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 2 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
-| 3 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 4 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 5 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
+| 3 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 4 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 6 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
 | 7 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 8 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
-| 9 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 10 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 11 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 12 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 13 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
-| 14 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 15 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
-| 16 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 17 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 18 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 20 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 21 | [São João de Patos](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Patos) | N/A |
-| 22 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 23 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
-| 24 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 25 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 26 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
-| 27 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
-| 28 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 29 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 30 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 31 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
-| 32 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
-| 33 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 34 | [Junhyeon](http://twitter.com/search?q=Junhyeon) | N/A |
-| 35 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
-| 36 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 37 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
-| 38 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 39 | [Tirei Você](http://twitter.com/search?q=Tirei+Voc%c3%aa) | N/A |
-| 40 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 41 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 42 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
-| 43 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 44 | [Greve](http://twitter.com/search?q=Greve) | N/A |
-| 45 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 46 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 47 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 48 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
-| 49 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
+| 9 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 10 | [arcade fire](http://twitter.com/search?q=arcade+fire) | N/A |
+| 11 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 12 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
+| 13 | [HAPPY MINA DAY](http://twitter.com/search?q=HAPPY+MINA+DAY) | N/A |
+| 14 | [Krystian](http://twitter.com/search?q=Krystian) | N/A |
+| 15 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
+| 16 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 18 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 19 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 20 | [LUIZINHO](http://twitter.com/search?q=LUIZINHO) | N/A |
+| 21 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 22 | [LULA SALVOU MORO](http://twitter.com/search?q=LULA+SALVOU+MORO) | N/A |
+| 23 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 25 | [São João de Patos](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Patos) | N/A |
+| 26 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 27 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 28 | [Lonzo Ball](http://twitter.com/search?q=Lonzo+Ball) | N/A |
+| 29 | [Peçanha](http://twitter.com/search?q=Pe%c3%a7anha) | N/A |
+| 30 | [Galo Doido](http://twitter.com/search?q=Galo+Doido) | N/A |
+| 31 | [Mascote](http://twitter.com/search?q=Mascote) | N/A |
+| 32 | [Lulu da Pomerânia](http://twitter.com/search?q=Lulu+da+Pomer%c3%a2nia) | N/A |
+| 33 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 34 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 35 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
+| 36 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 37 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 38 | [nabor](http://twitter.com/search?q=nabor) | N/A |
+| 39 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 40 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 41 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
+| 42 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 43 | [Shuaibo](http://twitter.com/search?q=Shuaibo) | N/A |
+| 44 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
+| 45 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 46 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 47 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 48 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 49 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
 
 
 
