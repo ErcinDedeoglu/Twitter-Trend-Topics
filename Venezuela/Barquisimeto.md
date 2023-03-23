@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-23 16:18:29 UTC`
+📆 Last Updated: `2023-03-23 17:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#NiCorrupciónNiPrivatización](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiPrivatizaci%c3%b3n) | N/A |
 | 3 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
 | 4 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
-| 5 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [Himno Nacional de Venezuela](http://twitter.com/search?q=Himno+Nacional+de+Venezuela) | N/A |
-| 8 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
-| 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 10 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 11 | [Bravo Pueblo](http://twitter.com/search?q=Bravo+Pueblo) | N/A |
+| 5 | [#ExperienceCaribe](http://twitter.com/search?q=%23ExperienceCaribe) | N/A |
+| 6 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 7 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
+| 8 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 9 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
+| 10 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 11 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 12 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 13 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
-| 14 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
-| 15 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
-| 16 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
-| 17 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 18 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 19 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 20 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
-| 21 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 22 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 23 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
-| 24 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
-| 25 | [richard gómez](http://twitter.com/search?q=richard+g%c3%b3mez) | N/A |
-| 26 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 27 | [Katherine Haringhton](http://twitter.com/search?q=Katherine+Haringhton) | N/A |
-| 28 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 29 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 30 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 31 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 32 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 33 | [El 23](http://twitter.com/search?q=El+23) | N/A |
-| 34 | [pedro vargas](http://twitter.com/search?q=pedro+vargas) | N/A |
-| 35 | [Ricardo Montaner](http://twitter.com/search?q=Ricardo+Montaner) | N/A |
-| 36 | [Banco Mercantil](http://twitter.com/search?q=Banco+Mercantil) | N/A |
-| 37 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 38 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 39 | [Leones del Caracas](http://twitter.com/search?q=Leones+del+Caracas) | N/A |
-| 40 | [atilano](http://twitter.com/search?q=atilano) | N/A |
-| 41 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
-| 42 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 43 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
-| 44 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 45 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
-| 46 | [Linda Carter](http://twitter.com/search?q=Linda+Carter) | N/A |
-| 47 | [Simios](http://twitter.com/search?q=Simios) | N/A |
-| 48 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 49 | [Plataforma Unitaria](http://twitter.com/search?q=Plataforma+Unitaria) | N/A |
+| 13 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
+| 14 | [Himno Nacional de Venezuela](http://twitter.com/search?q=Himno+Nacional+de+Venezuela) | N/A |
+| 15 | [Mare Abajo](http://twitter.com/search?q=Mare+Abajo) | N/A |
+| 16 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 17 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 18 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 19 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 20 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 21 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 22 | [Bravo Pueblo](http://twitter.com/search?q=Bravo+Pueblo) | N/A |
+| 23 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
+| 24 | [Katherine Haringhton](http://twitter.com/search?q=Katherine+Haringhton) | N/A |
+| 25 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
+| 26 | [richard gómez](http://twitter.com/search?q=richard+g%c3%b3mez) | N/A |
+| 27 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
+| 28 | [Banco Mercantil](http://twitter.com/search?q=Banco+Mercantil) | N/A |
+| 29 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 30 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
+| 31 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 32 | [Ricardo Montaner](http://twitter.com/search?q=Ricardo+Montaner) | N/A |
+| 33 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
+| 34 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 35 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 36 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 37 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 38 | [El 23](http://twitter.com/search?q=El+23) | N/A |
+| 39 | [atilano](http://twitter.com/search?q=atilano) | N/A |
+| 40 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 41 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 42 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
+| 43 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 44 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
+| 45 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 46 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 47 | [Linda Carter](http://twitter.com/search?q=Linda+Carter) | N/A |
+| 48 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 49 | [Caribe Wave 2023](http://twitter.com/search?q=Caribe+Wave+2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-23 16:18:30 UTC`
+📆 Last Updated: `2023-03-23 17:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
-| 2 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
-| 3 | [#HHnapapierze](http://twitter.com/search?q=%23HHnapapierze) | N/A |
-| 4 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 5 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 6 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 7 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 8 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 1 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
+| 2 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
+| 3 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
+| 4 | [#HHnapapierze](http://twitter.com/search?q=%23HHnapapierze) | N/A |
+| 5 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
+| 6 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 7 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
+| 8 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 9 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 11 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 14 | [Węgry](http://twitter.com/search?q=W%c4%99gry) | N/A |
+| 12 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 13 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 14 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
 | 15 | [japonii](http://twitter.com/search?q=japonii) | N/A |
-| 16 | [jasionce](http://twitter.com/search?q=jasionce) | N/A |
-| 17 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 18 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 16 | [Neurologii](http://twitter.com/search?q=Neurologii) | N/A |
+| 17 | [Parteya](http://twitter.com/search?q=Parteya) | N/A |
+| 18 | [JASIONCE](http://twitter.com/search?q=JASIONCE) | N/A |
 | 19 | [światowy dzień wody](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+wody) | N/A |
-| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 21 | [Parteya](http://twitter.com/search?q=Parteya) | N/A |
-| 22 | [bartosiak](http://twitter.com/search?q=bartosiak) | N/A |
-| 23 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 24 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
-| 25 | [Walii](http://twitter.com/search?q=Walii) | N/A |
-| 26 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
-| 27 | [tarczyński](http://twitter.com/search?q=tarczy%c5%84ski) | N/A |
-| 28 | [Ambasada USA](http://twitter.com/search?q=Ambasada+USA) | N/A |
-| 29 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 30 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 31 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 32 | [Neurologii](http://twitter.com/search?q=Neurologii) | N/A |
-| 33 | [Głosując](http://twitter.com/search?q=G%c5%82osuj%c4%85c) | N/A |
+| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 21 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 22 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 23 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 25 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
+| 26 | [Węgry](http://twitter.com/search?q=W%c4%99gry) | N/A |
+| 27 | [Walii](http://twitter.com/search?q=Walii) | N/A |
+| 28 | [Instytut Psychiatrii](http://twitter.com/search?q=Instytut+Psychiatrii) | N/A |
+| 29 | [yanosik](http://twitter.com/search?q=yanosik) | N/A |
+| 30 | [Ambasada USA](http://twitter.com/search?q=Ambasada+USA) | N/A |
+| 31 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 32 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 33 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
 | 34 | [T-62](http://twitter.com/search?q=T-62) | N/A |
 | 35 | [izraelem](http://twitter.com/search?q=izraelem) | N/A |
-| 36 | [Madagaskar](http://twitter.com/search?q=Madagaskar) | N/A |
-| 37 | [Wilhelm](http://twitter.com/search?q=Wilhelm) | N/A |
-| 38 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 39 | [Instytut Psychiatrii](http://twitter.com/search?q=Instytut+Psychiatrii) | N/A |
+| 36 | [Wilhelm](http://twitter.com/search?q=Wilhelm) | N/A |
+| 37 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 38 | [Głosując](http://twitter.com/search?q=G%c5%82osuj%c4%85c) | N/A |
+| 39 | [Andrzejem Dudą](http://twitter.com/search?q=Andrzejem+Dud%c4%85) | N/A |
 | 40 | [elbląg](http://twitter.com/search?q=elbl%c4%85g) | N/A |
 | 41 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 42 | [izraela](http://twitter.com/search?q=izraela) | N/A |
-| 43 | [Grobie Nieznanego Żołnierza](http://twitter.com/search?q=Grobie+Nieznanego+%c5%bbo%c5%82nierza) | N/A |
-| 44 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 45 | [puszcza karpacka](http://twitter.com/search?q=puszcza+karpacka) | N/A |
-| 46 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 47 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
-| 48 | [Jerzy Dudek](http://twitter.com/search?q=Jerzy+Dudek) | N/A |
+| 42 | [Grobie Nieznanego Żołnierza](http://twitter.com/search?q=Grobie+Nieznanego+%c5%bbo%c5%82nierza) | N/A |
+| 43 | [Madagaskar](http://twitter.com/search?q=Madagaskar) | N/A |
+| 44 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 45 | [Jerzy Dudek](http://twitter.com/search?q=Jerzy+Dudek) | N/A |
+| 46 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
+| 47 | [Wielkanocą](http://twitter.com/search?q=Wielkanoc%c4%85) | N/A |
+| 48 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
 
 
 

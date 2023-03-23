@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-23 16:19:05 UTC`
+📆 Last Updated: `2023-03-23 17:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 2 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
-| 3 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 5 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 1 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
+| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 3 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 5 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
 | 6 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
-| 9 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 10 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 11 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 14 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 15 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 7 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 8 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 9 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
+| 10 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 11 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 12 | [#ThankYouAshAndPikachu](http://twitter.com/search?q=%23ThankYouAshAndPikachu) | N/A |
+| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 15 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
 | 16 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 17 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 19 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 20 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 21 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 22 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 24 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 25 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 26 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
-| 27 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
-| 28 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
-| 29 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 30 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 31 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 32 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 33 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 34 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 35 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 36 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 37 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
-| 38 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
-| 39 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 40 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
-| 41 | [Lake](http://twitter.com/search?q=Lake) | N/A |
-| 42 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
-| 43 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 44 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 45 | [Merrily](http://twitter.com/search?q=Merrily) | N/A |
-| 46 | [Kazee](http://twitter.com/search?q=Kazee) | N/A |
-| 47 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 48 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 49 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
+| 17 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 18 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
+| 19 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
+| 20 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
+| 21 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 22 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
+| 23 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 24 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 26 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 27 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
+| 28 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 29 | [Knuckles Chaotix](http://twitter.com/search?q=Knuckles+Chaotix) | N/A |
+| 30 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 31 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
+| 32 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 33 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
+| 34 | [Joe Judge](http://twitter.com/search?q=Joe+Judge) | N/A |
+| 35 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 36 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 37 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 38 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 39 | [Sonic Blast](http://twitter.com/search?q=Sonic+Blast) | N/A |
+| 40 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 41 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 42 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
+| 43 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
+| 44 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
+| 45 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
+| 46 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
+| 47 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
+| 48 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
+| 49 | [6lack](http://twitter.com/search?q=6lack) | N/A |
 
 
 

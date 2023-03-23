@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-23 16:18:35 UTC`
+📆 Last Updated: `2023-03-23 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 4 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 5 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 6 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 7 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
-| 8 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 5 | [Acda](http://twitter.com/search?q=Acda) | N/A |
+| 6 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 7 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 8 | [#kipkerrie](http://twitter.com/search?q=%23kipkerrie) | N/A |
 | 9 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 10 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [#fos23](http://twitter.com/search?q=%23fos23) | N/A |
+| 10 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 11 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
+| 12 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 13 | [#oranje](http://twitter.com/search?q=%23oranje) | N/A |
+| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 15 | [Ali B](http://twitter.com/search?q=Ali+B) | N/A |
-| 16 | [#oranje](http://twitter.com/search?q=%23oranje) | N/A |
-| 17 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 18 | [renske](http://twitter.com/search?q=renske) | N/A |
-| 19 | [veldzicht-therapeute](http://twitter.com/search?q=veldzicht-therapeute) | N/A |
-| 20 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 21 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 22 | [Janneke](http://twitter.com/search?q=Janneke) | N/A |
-| 23 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 24 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 25 | [Zoutelande](http://twitter.com/search?q=Zoutelande) | N/A |
-| 26 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
-| 27 | [natuurmonumenten](http://twitter.com/search?q=natuurmonumenten) | N/A |
-| 28 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 29 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 32 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
-| 33 | [burgemeester](http://twitter.com/search?q=burgemeester) | N/A |
-| 34 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 35 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 36 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
-| 37 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 38 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
-| 39 | [Klaas Knot](http://twitter.com/search?q=Klaas+Knot) | N/A |
-| 40 | [eu-top](http://twitter.com/search?q=eu-top) | N/A |
-| 41 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 42 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 43 | [Roosmalen](http://twitter.com/search?q=Roosmalen) | N/A |
-| 44 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 45 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 46 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 47 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 48 | [Kennis](http://twitter.com/search?q=Kennis) | N/A |
-| 49 | [Verbruggen](http://twitter.com/search?q=Verbruggen) | N/A |
-| 50 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 16 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 17 | [Knot](http://twitter.com/search?q=Knot) | N/A |
+| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 20 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 21 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 22 | [veldzicht-therapeute](http://twitter.com/search?q=veldzicht-therapeute) | N/A |
+| 23 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
+| 24 | [Bijl](http://twitter.com/search?q=Bijl) | N/A |
+| 25 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 26 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 27 | [Renske](http://twitter.com/search?q=Renske) | N/A |
+| 28 | [Zoutelande](http://twitter.com/search?q=Zoutelande) | N/A |
+| 29 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
+| 30 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 31 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 33 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
+| 34 | [Natuurmonumenten](http://twitter.com/search?q=Natuurmonumenten) | N/A |
+| 35 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 36 | [ADO Den Haag](http://twitter.com/search?q=ADO+Den+Haag) | N/A |
+| 37 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 38 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 39 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 41 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 42 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 43 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
+| 44 | [eu-top](http://twitter.com/search?q=eu-top) | N/A |
+| 45 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 46 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 47 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 48 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 49 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 50 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
 
 
 

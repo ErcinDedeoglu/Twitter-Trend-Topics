@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-23 16:18:39 UTC`
+📆 Last Updated: `2023-03-23 17:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 2 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
-| 3 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 4 | [#해피_주_데이](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc_%ec%a3%bc_%eb%8d%b0%ec%9d%b4) | N/A |
-| 5 | [#ceritataraweh](http://twitter.com/search?q=%23ceritataraweh) | N/A |
-| 6 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 7 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 8 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 9 | [#ZALORATurns11](http://twitter.com/search?q=%23ZALORATurns11) | N/A |
+| 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 2 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 3 | [#해피_주_데이](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc_%ec%a3%bc_%eb%8d%b0%ec%9d%b4) | N/A |
+| 4 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
+| 5 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 6 | [#eaJLAstars](http://twitter.com/search?q=%23eaJLAstars) | N/A |
+| 7 | [#ceritataraweh](http://twitter.com/search?q=%23ceritataraweh) | N/A |
+| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 9 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
 | 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 11 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 12 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 13 | [Top 9](http://twitter.com/search?q=Top+9) | N/A |
-| 14 | [Patung](http://twitter.com/search?q=Patung) | N/A |
-| 15 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 16 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 17 | [Pevita](http://twitter.com/search?q=Pevita) | N/A |
+| 11 | [HAPPY ZUU DAY](http://twitter.com/search?q=HAPPY+ZUU+DAY) | N/A |
+| 12 | [Patung](http://twitter.com/search?q=Patung) | N/A |
+| 13 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 14 | [Top 9](http://twitter.com/search?q=Top+9) | N/A |
+| 15 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 16 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 17 | [Imannya](http://twitter.com/search?q=Imannya) | N/A |
 | 18 | [Woodz](http://twitter.com/search?q=Woodz) | N/A |
-| 19 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 21 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 22 | [ormas](http://twitter.com/search?q=ormas) | N/A |
+| 19 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
+| 20 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
+| 21 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 22 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 | 23 | [Happy Wedding](http://twitter.com/search?q=Happy+Wedding) | N/A |
-| 24 | [naura](http://twitter.com/search?q=naura) | N/A |
-| 25 | [Lancar](http://twitter.com/search?q=Lancar) | N/A |
-| 26 | [looke](http://twitter.com/search?q=looke) | N/A |
-| 27 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 24 | [Looke](http://twitter.com/search?q=Looke) | N/A |
+| 25 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 26 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 27 | [naura](http://twitter.com/search?q=naura) | N/A |
 | 28 | [Usir](http://twitter.com/search?q=Usir) | N/A |
-| 29 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 30 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 31 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 29 | [Lancar](http://twitter.com/search?q=Lancar) | N/A |
+| 30 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 31 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 | 32 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 33 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 34 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
-| 35 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 36 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
-| 37 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 38 | [Lemah](http://twitter.com/search?q=Lemah) | N/A |
-| 39 | [Tanggal](http://twitter.com/search?q=Tanggal) | N/A |
-| 40 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 41 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 42 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 43 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 44 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
-| 45 | [#HappyZUUniverseDay](http://twitter.com/search?q=%23HappyZUUniverseDay) | N/A |
-| 46 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
+| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 34 | [choi seungcheol](http://twitter.com/search?q=choi+seungcheol) | N/A |
+| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 36 | [Lemah](http://twitter.com/search?q=Lemah) | N/A |
+| 37 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
+| 38 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 39 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 40 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
+| 41 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 42 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 43 | [Tanggal](http://twitter.com/search?q=Tanggal) | N/A |
+| 44 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
+| 45 | [#smileforasecond](http://twitter.com/search?q=%23smileforasecond) | N/A |
+| 46 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
 | 47 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 48 | [#eaJLAstars](http://twitter.com/search?q=%23eaJLAstars) | N/A |
-| 49 | [#smileforasecond](http://twitter.com/search?q=%23smileforasecond) | N/A |
+| 48 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
+| 49 | [#HappyZUUniverseDay](http://twitter.com/search?q=%23HappyZUUniverseDay) | N/A |
 
 
 

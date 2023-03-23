@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-23 16:18:20 UTC`
+📆 Last Updated: `2023-03-23 17:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FastFoodSongsOrFilms](http://twitter.com/search?q=%23FastFoodSongsOrFilms) | N/A |
+| 1 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 5 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 7 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 8 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 9 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 10 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
-| 11 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 12 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 13 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 14 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 15 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 16 | [#worldmathsday](http://twitter.com/search?q=%23worldmathsday) | N/A |
-| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 18 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
-| 19 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 20 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
-| 21 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 22 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 23 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 24 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 25 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 26 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 27 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
-| 28 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 29 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 30 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 31 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 33 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 34 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 35 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 36 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 37 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
-| 38 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 39 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 40 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 41 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 42 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
-| 43 | [#PeoplesPlanForNature](http://twitter.com/search?q=%23PeoplesPlanForNature) | N/A |
+| 3 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
+| 4 | [#FastFoodSongsOrFilms](http://twitter.com/search?q=%23FastFoodSongsOrFilms) | N/A |
+| 5 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 6 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 9 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 10 | [Welsh Fire](http://twitter.com/search?q=Welsh+Fire) | N/A |
+| 11 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 12 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
+| 13 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
+| 14 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 15 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 16 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 17 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 18 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 19 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 20 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 21 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
+| 22 | [Marmite](http://twitter.com/search?q=Marmite) | N/A |
+| 23 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 24 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
+| 25 | [Paul Mitchell](http://twitter.com/search?q=Paul+Mitchell) | N/A |
+| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 27 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 28 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
+| 29 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 30 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 31 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 32 | [Sorcha](http://twitter.com/search?q=Sorcha) | N/A |
+| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 34 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 35 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 36 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 37 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 38 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 39 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 40 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 41 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 42 | [#worldmathsday](http://twitter.com/search?q=%23worldmathsday) | N/A |
+| 43 | [#WorldBearDay](http://twitter.com/search?q=%23WorldBearDay) | N/A |
 | 44 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
 | 45 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 46 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 47 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
-| 48 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
+| 46 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 47 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 48 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
 
 
 

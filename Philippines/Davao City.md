@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-23 16:18:46 UTC`
+📆 Last Updated: `2023-03-23 17:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,42 +26,42 @@ This is top 50 for [Philippines](</Philippines>)
 | 9 | [#WILD_TONIGHT_1MViews](http://twitter.com/search?q=%23WILD_TONIGHT_1MViews) | N/A |
 | 10 | [Minari](http://twitter.com/search?q=Minari) | N/A |
 | 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 12 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 12 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
 | 13 | [Imelda Marcos](http://twitter.com/search?q=Imelda+Marcos) | N/A |
-| 14 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 15 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 16 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 18 | [a'tin misses sb19](http://twitter.com/search?q=a%27tin+misses+sb19) | N/A |
-| 19 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 20 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 21 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 22 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
-| 23 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 24 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 26 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [a'tin misses sb19](http://twitter.com/search?q=a%27tin+misses+sb19) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 20 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 22 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 24 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 25 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
+| 26 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 27 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 28 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
 | 29 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 30 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 31 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 31 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
 | 32 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 33 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 34 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
-| 35 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 36 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 37 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 38 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 39 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 40 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
-| 41 | [#DLConvince](http://twitter.com/search?q=%23DLConvince) | N/A |
-| 42 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
+| 33 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 34 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 35 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
+| 36 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 37 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
+| 38 | [#JeremyG_Bini](http://twitter.com/search?q=%23JeremyG_Bini) | N/A |
+| 39 | [#DLConvince](http://twitter.com/search?q=%23DLConvince) | N/A |
+| 40 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
+| 41 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
+| 42 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
 | 43 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 44 | [#JeremyG_Bini](http://twitter.com/search?q=%23JeremyG_Bini) | N/A |
-| 45 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
-| 46 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
-| 47 | [#HOIEmotionalBaggage](http://twitter.com/search?q=%23HOIEmotionalBaggage) | N/A |
+| 44 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 45 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 46 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 47 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
 
 
 

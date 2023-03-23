@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-23 16:19:15 UTC`
+📆 Last Updated: `2023-03-23 17:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 2 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 3 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 4 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 5 | [#پاکستان_زندہ_باد_ہے](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b2%d9%86%d8%af%db%81_%d8%a8%d8%a7%d8%af_%db%81%db%92) | N/A |
+| 1 | [#ReleaseAzharMashwani](http://twitter.com/search?q=%23ReleaseAzharMashwani) | N/A |
+| 2 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 3 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 4 | [#پاکستان_زندہ_باد_ہے](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b2%d9%86%d8%af%db%81_%d8%a8%d8%a7%d8%af_%db%81%db%92) | N/A |
+| 5 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 6 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
 | 7 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for Pakistan
 | 12 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 | 13 | [Congratulations King](http://twitter.com/search?q=Congratulations+King) | N/A |
 | 14 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
-| 15 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
-| 16 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 15 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 16 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
 | 17 | [Weight](http://twitter.com/search?q=Weight) | N/A |
 | 18 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
 | 19 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
 | 20 | [Congratulations Captain](http://twitter.com/search?q=Congratulations+Captain) | N/A |
 | 21 | [Chai](http://twitter.com/search?q=Chai) | N/A |
-| 22 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
-| 23 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 24 | [Mehwish Hayat](http://twitter.com/search?q=Mehwish+Hayat) | N/A |
+| 22 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 23 | [England](http://twitter.com/search?q=England) | N/A |
+| 24 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
 | 25 | [Many Many](http://twitter.com/search?q=Many+Many) | N/A |
-| 26 | [England](http://twitter.com/search?q=England) | N/A |
-| 27 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 28 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 29 | [Mention](http://twitter.com/search?q=Mention) | N/A |
-| 30 | [Asif](http://twitter.com/search?q=Asif) | N/A |
-| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 32 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
-| 33 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 34 | [Chalo](http://twitter.com/search?q=Chalo) | N/A |
-| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 36 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 37 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 38 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 39 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
-| 40 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
-| 41 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 42 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 43 | [Hostel](http://twitter.com/search?q=Hostel) | N/A |
-| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 45 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 46 | [pdm govt](http://twitter.com/search?q=pdm+govt) | N/A |
-| 47 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
-| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 49 | [NADRA](http://twitter.com/search?q=NADRA) | N/A |
-| 50 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 26 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 28 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
+| 29 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 30 | [Mention](http://twitter.com/search?q=Mention) | N/A |
+| 31 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 32 | [Asif](http://twitter.com/search?q=Asif) | N/A |
+| 33 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
+| 34 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 35 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
+| 36 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
+| 37 | [Qur'an](http://twitter.com/search?q=Qur%27an) | N/A |
+| 38 | [Subhan Allah](http://twitter.com/search?q=Subhan+Allah) | N/A |
+| 39 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 40 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 41 | [Chalo](http://twitter.com/search?q=Chalo) | N/A |
+| 42 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 43 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 44 | [Arif Alvi](http://twitter.com/search?q=Arif+Alvi) | N/A |
+| 45 | [Highly](http://twitter.com/search?q=Highly) | N/A |
+| 46 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
+| 47 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 48 | [Halal](http://twitter.com/search?q=Halal) | N/A |
+| 49 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 50 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
 
 
 

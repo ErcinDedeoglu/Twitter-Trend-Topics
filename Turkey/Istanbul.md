@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-23 16:18:59 UTC`
+📆 Last Updated: `2023-03-23 17:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kitap](http://twitter.com/search?q=Kitap) | N/A |
-| 2 | [#SesimiziDuyanVarMı](http://twitter.com/search?q=%23SesimiziDuyanVarM%c4%b1) | N/A |
-| 3 | [#EmekliyeEşitZam](http://twitter.com/search?q=%23EmekliyeE%c5%9fitZam) | N/A |
-| 4 | [#inadınasorguluyorum](http://twitter.com/search?q=%23inad%c4%b1nasorguluyorum) | N/A |
-| 5 | [#ya2000sonrası](http://twitter.com/search?q=%23ya2000sonras%c4%b1) | N/A |
-| 6 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
-| 7 | [#iftar](http://twitter.com/search?q=%23iftar) | N/A |
-| 8 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 9 | [Nazım](http://twitter.com/search?q=Naz%c4%b1m) | N/A |
-| 10 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 11 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 12 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 13 | [SinanOğana İmzaVer](http://twitter.com/search?q=SinanO%c4%9fana+%c4%b0mzaVer) | N/A |
-| 14 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
-| 15 | [Şeymanur](http://twitter.com/search?q=%c5%9eeymanur) | N/A |
-| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 17 | [Pide](http://twitter.com/search?q=Pide) | N/A |
-| 18 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 19 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 20 | [Papaz](http://twitter.com/search?q=Papaz) | N/A |
-| 21 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 22 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
-| 23 | [Ayhan Bilgen](http://twitter.com/search?q=Ayhan+Bilgen) | N/A |
-| 24 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 25 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
-| 26 | [İlkbahar](http://twitter.com/search?q=%c4%b0lkbahar) | N/A |
-| 27 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
-| 28 | [Daha 100](http://twitter.com/search?q=Daha+100) | N/A |
-| 29 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
-| 30 | [Zekat](http://twitter.com/search?q=Zekat) | N/A |
-| 31 | [Ramazanın](http://twitter.com/search?q=Ramazan%c4%b1n) | N/A |
-| 32 | [Ramazan'da](http://twitter.com/search?q=Ramazan%27da) | N/A |
-| 33 | [Hafta](http://twitter.com/search?q=Hafta) | N/A |
-| 34 | [Erkan Trükten](http://twitter.com/search?q=Erkan+Tr%c3%bckten) | N/A |
-| 35 | [#AnaokullarınaAyrı20Bin](http://twitter.com/search?q=%23Anaokullar%c4%b1naAyr%c4%b120Bin) | N/A |
-| 36 | [#AsrınDayanışması](http://twitter.com/search?q=%23Asr%c4%b1nDayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 37 | [#100binince](http://twitter.com/search?q=%23100binince) | N/A |
-| 38 | [#BalGibiYönetir](http://twitter.com/search?q=%23BalGibiY%c3%b6netir) | N/A |
-| 39 | [#StajTalepDeğilHaktır](http://twitter.com/search?q=%23StajTalepDe%c4%9filHakt%c4%b1r) | N/A |
-| 40 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 41 | [#MebSayıRevizeKontnjanAdil](http://twitter.com/search?q=%23MebSay%c4%b1RevizeKontnjanAdil) | N/A |
-| 42 | [#Universitelilersandikta](http://twitter.com/search?q=%23Universitelilersandikta) | N/A |
-| 43 | [#SaidNursi](http://twitter.com/search?q=%23SaidNursi) | N/A |
-| 44 | [#luna](http://twitter.com/search?q=%23luna) | N/A |
-| 45 | [#2000lerİsyanda](http://twitter.com/search?q=%232000ler%c4%b0syanda) | N/A |
-| 46 | [#Bediüzzaman](http://twitter.com/search?q=%23Bedi%c3%bczzaman) | N/A |
-| 47 | [#HerşeydenÖnce5000veKısmi](http://twitter.com/search?q=%23Her%c5%9feyden%c3%96nce5000veK%c4%b1smi) | N/A |
-| 48 | [#tcmb](http://twitter.com/search?q=%23tcmb) | N/A |
-| 49 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
-| 50 | [#RamazanRuhunuYasat](http://twitter.com/search?q=%23RamazanRuhunuYasat) | N/A |
+| 1 | [Ramazan'da](http://twitter.com/search?q=Ramazan%27da) | N/A |
+| 2 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 3 | [Kitap](http://twitter.com/search?q=Kitap) | N/A |
+| 4 | [GSBtayinlerOLUMLUolsun](http://twitter.com/search?q=GSBtayinlerOLUMLUolsun) | N/A |
+| 5 | [#inadınasorguluyorum](http://twitter.com/search?q=%23inad%c4%b1nasorguluyorum) | N/A |
+| 6 | [EsnafSuçlu DeğilBorçlu](http://twitter.com/search?q=EsnafSu%c3%a7lu+De%c4%9filBor%c3%a7lu) | EsnafSuçlu DeğilBorçlu is a Turkish phrase that translates to "The Merchant is Not Guilty, He is in Debt". It is a proverb that suggests that merchants should not be blamed for their debts, but rather they should be given the opportunity to pay them off. |
+| 7 | [#SesimiziDuyanVarMı](http://twitter.com/search?q=%23SesimiziDuyanVarM%c4%b1) | N/A |
+| 8 | [#EmekliyeEşitZam](http://twitter.com/search?q=%23EmekliyeE%c5%9fitZam) | N/A |
+| 9 | [#iftar](http://twitter.com/search?q=%23iftar) | N/A |
+| 10 | [#Ya2000Sonrası](http://twitter.com/search?q=%23Ya2000Sonras%c4%b1) | N/A |
+| 11 | [Jin-Ho Jo](http://twitter.com/search?q=Jin-Ho+Jo) | N/A |
+| 12 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 13 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
+| 14 | [Joao Pedro](http://twitter.com/search?q=Joao+Pedro) | N/A |
+| 15 | [Nazım](http://twitter.com/search?q=Naz%c4%b1m) | N/A |
+| 16 | [Mert Hakan Yandaş](http://twitter.com/search?q=Mert+Hakan+Yanda%c5%9f) | N/A |
+| 17 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 18 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 19 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
+| 20 | [Edilir](http://twitter.com/search?q=Edilir) | N/A |
+| 21 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
+| 22 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 23 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
+| 24 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
+| 25 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 26 | [Allah Kabul Etsin](http://twitter.com/search?q=Allah+Kabul+Etsin) | N/A |
+| 27 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 28 | [Pide](http://twitter.com/search?q=Pide) | N/A |
+| 29 | [Şeymanur](http://twitter.com/search?q=%c5%9eeymanur) | N/A |
+| 30 | [SinanOğana İmzaVer](http://twitter.com/search?q=SinanO%c4%9fana+%c4%b0mzaVer) | N/A |
+| 31 | [Ayhan Bilgen](http://twitter.com/search?q=Ayhan+Bilgen) | N/A |
+| 32 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 33 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
+| 34 | [Papaz](http://twitter.com/search?q=Papaz) | N/A |
+| 35 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 36 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 37 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 38 | [İlkbahar](http://twitter.com/search?q=%c4%b0lkbahar) | N/A |
+| 39 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
+| 40 | [Daha 100](http://twitter.com/search?q=Daha+100) | N/A |
+| 41 | [Ramazanın](http://twitter.com/search?q=Ramazan%c4%b1n) | N/A |
+| 42 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
+| 43 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
+| 44 | [Zekat](http://twitter.com/search?q=Zekat) | N/A |
+| 45 | [Hafta](http://twitter.com/search?q=Hafta) | N/A |
+| 46 | [Cumartesi](http://twitter.com/search?q=Cumartesi) | N/A |
+| 47 | [Erkan Trükten](http://twitter.com/search?q=Erkan+Tr%c3%bckten) | N/A |
+| 48 | [#AnaokullarınaAyrı20Bin](http://twitter.com/search?q=%23Anaokullar%c4%b1naAyr%c4%b120Bin) | N/A |
+| 49 | [#FBvZNT](http://twitter.com/search?q=%23FBvZNT) | N/A |
+| 50 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
 
 
 

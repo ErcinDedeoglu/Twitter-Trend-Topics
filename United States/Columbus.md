@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-23 16:19:01 UTC`
+📆 Last Updated: `2023-03-23 17:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 | 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
-| 4 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
-| 7 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 8 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 9 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 11 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 12 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 13 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 14 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 15 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 17 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 18 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 19 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 20 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 22 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 23 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 24 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
-| 25 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 26 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
-| 27 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
-| 28 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 29 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 30 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 31 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 32 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
-| 33 | [sungmin](http://twitter.com/search?q=sungmin) | N/A |
-| 34 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 35 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 36 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
-| 37 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
-| 38 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 39 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
-| 40 | [Lake](http://twitter.com/search?q=Lake) | N/A |
-| 41 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 42 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 43 | [Merrily](http://twitter.com/search?q=Merrily) | N/A |
-| 44 | [Kazee](http://twitter.com/search?q=Kazee) | N/A |
-| 45 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 46 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 47 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
-| 48 | [Mugler](http://twitter.com/search?q=Mugler) | N/A |
+| 3 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 5 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
+| 6 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 7 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 8 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 9 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
+| 10 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 11 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 12 | [#ThankYouAshAndPikachu](http://twitter.com/search?q=%23ThankYouAshAndPikachu) | N/A |
+| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 14 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 15 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 16 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 17 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 18 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
+| 19 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
+| 20 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
+| 21 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 22 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
+| 23 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 25 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
+| 26 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 27 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 28 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 29 | [Knuckles Chaotix](http://twitter.com/search?q=Knuckles+Chaotix) | N/A |
+| 30 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 31 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
+| 32 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
+| 33 | [Joe Judge](http://twitter.com/search?q=Joe+Judge) | N/A |
+| 34 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 35 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 36 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 37 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 38 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 39 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 40 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 41 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
+| 42 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
+| 43 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
+| 44 | [Sonic Blast](http://twitter.com/search?q=Sonic+Blast) | N/A |
+| 45 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
+| 46 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
+| 47 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
+| 48 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
 
 
 
