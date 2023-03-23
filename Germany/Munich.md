@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-23 11:16:57 UTC`
+📆 Last Updated: `2023-03-23 12:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 2 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 3 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
 | 4 | [#Kubicki](http://twitter.com/search?q=%23Kubicki) | N/A |
 | 5 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
-| 6 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 7 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 8 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 9 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 10 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 6 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
+| 7 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 8 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 9 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 10 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
 | 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 12 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
-| 13 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 14 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 15 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 16 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 17 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 19 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 20 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 21 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 23 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
-| 24 | [U-Bahnen](http://twitter.com/search?q=U-Bahnen) | N/A |
-| 25 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
-| 26 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 27 | [vertrauen in die regierung](http://twitter.com/search?q=vertrauen+in+die+regierung) | N/A |
-| 28 | [Kartenzahlung](http://twitter.com/search?q=Kartenzahlung) | N/A |
-| 29 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 30 | [Freiheit und Leben](http://twitter.com/search?q=Freiheit+und+Leben) | N/A |
-| 31 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
-| 32 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 33 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 34 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 35 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
-| 36 | [Feinde der Demokratie](http://twitter.com/search?q=Feinde+der+Demokratie) | N/A |
-| 37 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
-| 38 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 39 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 40 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
-| 41 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 42 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 43 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 12 | [Uterus](http://twitter.com/search?q=Uterus) | N/A |
+| 13 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 14 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
+| 15 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 16 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 17 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 18 | [U-Bahnen](http://twitter.com/search?q=U-Bahnen) | N/A |
+| 19 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
+| 20 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 23 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
+| 24 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 25 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 26 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 27 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
+| 28 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
+| 29 | [vertrauen in die regierung](http://twitter.com/search?q=vertrauen+in+die+regierung) | N/A |
+| 30 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 31 | [Lafontaine](http://twitter.com/search?q=Lafontaine) | N/A |
+| 32 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 33 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 34 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 35 | [Straßenbahnen](http://twitter.com/search?q=Stra%c3%9fenbahnen) | N/A |
+| 36 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
+| 37 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 38 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
+| 39 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 40 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
+| 41 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 42 | [Peter Urban](http://twitter.com/search?q=Peter+Urban) | N/A |
+| 43 | [feinde der demokratie](http://twitter.com/search?q=feinde+der+demokratie) | N/A |
 | 44 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
 | 45 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
-| 46 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 47 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 48 | [Ehrentag](http://twitter.com/search?q=Ehrentag) | N/A |
-| 49 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 46 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 47 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 48 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 49 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
 
 
 

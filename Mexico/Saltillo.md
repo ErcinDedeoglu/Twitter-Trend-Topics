@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-23 11:16:47 UTC`
+📆 Last Updated: `2023-03-23 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
-| 2 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 3 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 6 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 4 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 6 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
 | 7 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 8 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 8 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
 | 9 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 10 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 11 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
-| 12 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 13 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 14 | [el chueco](http://twitter.com/search?q=el+chueco) | N/A |
-| 15 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 16 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 10 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
+| 11 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 12 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 13 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 16 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
 | 17 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 18 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 18 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
 | 19 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
 | 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 21 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 21 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
 | 22 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 23 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 24 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [scarlett camberos](http://twitter.com/search?q=scarlett+camberos) | N/A |
+| 24 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
+| 25 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
 | 26 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 27 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 28 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 29 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 29 | [john kerry](http://twitter.com/search?q=john+kerry) | N/A |
 | 30 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
-| 31 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 32 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 33 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 34 | [Sitilpech](http://twitter.com/search?q=Sitilpech) | N/A |
-| 35 | [Bambam](http://twitter.com/search?q=Bambam) | N/A |
-| 36 | [Whatsapp Web](http://twitter.com/search?q=Whatsapp+Web) | N/A |
-| 37 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 38 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 39 | [music vibe](http://twitter.com/search?q=music+vibe) | N/A |
-| 40 | [Antony Blinken](http://twitter.com/search?q=Antony+Blinken) | N/A |
-| 41 | [Verónica del Castillo](http://twitter.com/search?q=Ver%c3%b3nica+del+Castillo) | N/A |
-| 42 | [Conago](http://twitter.com/search?q=Conago) | N/A |
-| 43 | [cuna de lobos](http://twitter.com/search?q=cuna+de+lobos) | N/A |
+| 31 | [Añorve](http://twitter.com/search?q=A%c3%b1orve) | N/A |
+| 32 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 33 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
+| 34 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 35 | [sitilpech](http://twitter.com/search?q=sitilpech) | N/A |
+| 36 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 37 | [Whatsapp Web](http://twitter.com/search?q=Whatsapp+Web) | N/A |
+| 38 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 39 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 40 | [music vibe](http://twitter.com/search?q=music+vibe) | N/A |
+| 41 | [Conago](http://twitter.com/search?q=Conago) | N/A |
+| 42 | [Verónica del Castillo](http://twitter.com/search?q=Ver%c3%b3nica+del+Castillo) | N/A |
+| 43 | [Cuna de Lobos](http://twitter.com/search?q=Cuna+de+Lobos) | N/A |
 | 44 | [PANTERA PROTEGIDA](http://twitter.com/search?q=PANTERA+PROTEGIDA) | N/A |
-| 45 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
-| 46 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 47 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
+| 45 | [Antony Blinken](http://twitter.com/search?q=Antony+Blinken) | N/A |
+| 46 | [hoy 22](http://twitter.com/search?q=hoy+22) | N/A |
+| 47 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 48 | [Lorenzo Antonio](http://twitter.com/search?q=Lorenzo+Antonio) | N/A |
-| 49 | [semana santa](http://twitter.com/search?q=semana+santa) | N/A |
+| 49 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
 
 
 

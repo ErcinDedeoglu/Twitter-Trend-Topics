@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-23 11:17:11 UTC`
+📆 Last Updated: `2023-03-23 12:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pedi](http://twitter.com/search?q=Pedi) | N/A |
+| 1 | [pedi](http://twitter.com/search?q=pedi) | N/A |
 | 2 | [#EFFPresser](http://twitter.com/search?q=%23EFFPresser) | N/A |
 | 3 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 4 | [#OwnYourCrown](http://twitter.com/search?q=%23OwnYourCrown) | N/A |
+| 4 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
 | 5 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 6 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 7 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 6 | [#JusticeForAKA](http://twitter.com/search?q=%23JusticeForAKA) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 10 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 11 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
-| 12 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 12 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 13 | [khosi and ebubu](http://twitter.com/search?q=khosi+and+ebubu) | N/A |
-| 14 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 15 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 16 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
+| 14 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 15 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
+| 16 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 17 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
 | 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 19 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 20 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 21 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 19 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 20 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 21 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 22 | [team rema](http://twitter.com/search?q=team+rema) | N/A |
 | 23 | [home-made](http://twitter.com/search?q=home-made) | N/A |
-| 24 | [Vote for Khosi](http://twitter.com/search?q=Vote+for+Khosi) | N/A |
-| 25 | [Sambulo](http://twitter.com/search?q=Sambulo) | N/A |
-| 26 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 27 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 28 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 29 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 30 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 31 | [Al Jazeera](http://twitter.com/search?q=Al+Jazeera) | N/A |
-| 32 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 33 | [team burna](http://twitter.com/search?q=team+burna) | N/A |
-| 34 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
-| 35 | [Tswana](http://twitter.com/search?q=Tswana) | N/A |
-| 36 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
-| 37 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
-| 38 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 39 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 40 | [AFRICA FOR IPELENG](http://twitter.com/search?q=AFRICA+FOR+IPELENG) | N/A |
-| 41 | [Nhlelo](http://twitter.com/search?q=Nhlelo) | N/A |
-| 42 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
-| 43 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 24 | [Al Jazeera](http://twitter.com/search?q=Al+Jazeera) | N/A |
+| 25 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 26 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 27 | [Sambulo](http://twitter.com/search?q=Sambulo) | N/A |
+| 28 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 29 | [tswana](http://twitter.com/search?q=tswana) | N/A |
+| 30 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 31 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
+| 32 | [Tshedi](http://twitter.com/search?q=Tshedi) | N/A |
+| 33 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 34 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 35 | [team burna](http://twitter.com/search?q=team+burna) | N/A |
+| 36 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 37 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
+| 38 | [focus on tsatsii](http://twitter.com/search?q=focus+on+tsatsii) | N/A |
+| 39 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
+| 40 | [Free State](http://twitter.com/search?q=Free+State) | N/A |
+| 41 | [AFRICA FOR IPELENG](http://twitter.com/search?q=AFRICA+FOR+IPELENG) | N/A |
+| 42 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 43 | [Nhlelo](http://twitter.com/search?q=Nhlelo) | N/A |
 | 44 | [Downer](http://twitter.com/search?q=Downer) | N/A |
-| 45 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 46 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
-| 47 | [khobubu](http://twitter.com/search?q=khobubu) | N/A |
-| 48 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 49 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 45 | [Triplets](http://twitter.com/search?q=Triplets) | N/A |
+| 46 | [Bane](http://twitter.com/search?q=Bane) | Bane is a noun that means a cause of great distress or annoyance. It can also refer to something that causes ruin or destruction. |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [IPELENG THE PRESENTER](http://twitter.com/search?q=IPELENG+THE+PRESENTER) | N/A |
+| 49 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-23 11:16:58 UTC`
+📆 Last Updated: `2023-03-23 12:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 2 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 3 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
-| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 5 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
+| 2 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
+| 3 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 4 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
+| 5 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 6 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 7 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
+| 7 | [andreotti](http://twitter.com/search?q=andreotti) | N/A |
 | 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 9 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 12 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
 | 13 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
 | 14 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 15 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
-| 16 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 15 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 16 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
 | 17 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 18 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
+| 18 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
 | 19 | [Linus](http://twitter.com/search?q=Linus) | N/A |
 | 20 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 21 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 22 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 23 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 24 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 21 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 22 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 23 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 24 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
 | 25 | [lino e silvia](http://twitter.com/search?q=lino+e+silvia) | N/A |
-| 26 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 27 | [L'uranio](http://twitter.com/search?q=L%27uranio) | N/A |
-| 28 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 29 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 30 | [domenico cuomo](http://twitter.com/search?q=domenico+cuomo) | N/A |
-| 31 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 32 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 33 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 34 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 35 | [SPOILER AOTV](http://twitter.com/search?q=SPOILER+AOTV) | N/A |
-| 36 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
-| 37 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 38 | [Spal](http://twitter.com/search?q=Spal) | N/A |
-| 39 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
-| 40 | [Balcani](http://twitter.com/search?q=Balcani) | N/A |
-| 41 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 42 | [Lipsia](http://twitter.com/search?q=Lipsia) | N/A |
-| 43 | [Buongiorno Peppe](http://twitter.com/search?q=Buongiorno+Peppe) | N/A |
-| 44 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 45 | [Fabio Volo](http://twitter.com/search?q=Fabio+Volo) | N/A |
-| 46 | [Buongiorno Giulia](http://twitter.com/search?q=Buongiorno+Giulia) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
-| 49 | [Chiambretti](http://twitter.com/search?q=Chiambretti) | N/A |
-| 50 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 26 | [L'uranio](http://twitter.com/search?q=L%27uranio) | N/A |
+| 27 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 28 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 29 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
+| 30 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 31 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 32 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 33 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 34 | [SPOILER AOTV](http://twitter.com/search?q=SPOILER+AOTV) | N/A |
+| 35 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 36 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 37 | [Forza Stefano](http://twitter.com/search?q=Forza+Stefano) | N/A |
+| 38 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 39 | [Spal](http://twitter.com/search?q=Spal) | N/A |
+| 40 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
+| 41 | [Balcani](http://twitter.com/search?q=Balcani) | N/A |
+| 42 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 43 | [Chiambretti](http://twitter.com/search?q=Chiambretti) | N/A |
+| 44 | [Armageddon](http://twitter.com/search?q=Armageddon) | N/A |
+| 45 | [The Wall](http://twitter.com/search?q=The+Wall) | N/A |
+| 46 | [Myrta](http://twitter.com/search?q=Myrta) | N/A |
+| 47 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 48 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 49 | [Garda](http://twitter.com/search?q=Garda) | N/A |
+| 50 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-23 11:17:33 UTC`
+📆 Last Updated: `2023-03-23 12:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 2 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 3 | [#TECNOxMTN](http://twitter.com/search?q=%23TECNOxMTN) | N/A |
-| 4 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
+| 1 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 2 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 3 | [#FairMoneyBYOW](http://twitter.com/search?q=%23FairMoneyBYOW) | N/A |
+| 4 | [#TECNOxMTN](http://twitter.com/search?q=%23TECNOxMTN) | N/A |
 | 5 | [Ramadan Kareem](http://twitter.com/search?q=Ramadan+Kareem) | N/A |
-| 6 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 7 | [Helper](http://twitter.com/search?q=Helper) | N/A |
-| 8 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 9 | [#AccessBankIWD2023](http://twitter.com/search?q=%23AccessBankIWD2023) | N/A |
-| 10 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 11 | [Emeka Offor](http://twitter.com/search?q=Emeka+Offor) | N/A |
-| 12 | [I HAVE MY VICTORY](http://twitter.com/search?q=I+HAVE+MY+VICTORY) | N/A |
-| 13 | [8 SENATORS](http://twitter.com/search?q=8+SENATORS) | N/A |
-| 14 | [Boss Mustapha](http://twitter.com/search?q=Boss+Mustapha) | N/A |
-| 15 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 16 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 17 | [Abundance](http://twitter.com/search?q=Abundance) | N/A |
-| 18 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 19 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 20 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 21 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 22 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 23 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 24 | [1 GOVERNOR](http://twitter.com/search?q=1+GOVERNOR) | N/A |
-| 25 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
-| 26 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
-| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 28 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
-| 29 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
-| 30 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 31 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
-| 32 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
-| 33 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
-| 34 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
-| 35 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 36 | [Peter Mbah](http://twitter.com/search?q=Peter+Mbah) | N/A |
-| 37 | [Mimiko](http://twitter.com/search?q=Mimiko) | N/A |
-| 38 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 39 | [Frank Nweke](http://twitter.com/search?q=Frank+Nweke) | N/A |
-| 40 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
-| 41 | [Ikpeazu](http://twitter.com/search?q=Ikpeazu) | N/A |
-| 42 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 44 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 45 | [Qur'an](http://twitter.com/search?q=Qur%27an) | N/A |
-| 46 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 47 | [Nkanu](http://twitter.com/search?q=Nkanu) | N/A |
-| 48 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 49 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 6 | [#SPARK10series](http://twitter.com/search?q=%23SPARK10series) | N/A |
+| 7 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
+| 8 | [#KATO](http://twitter.com/search?q=%23KATO) | N/A |
+| 9 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 10 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 11 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
+| 12 | [#AccessBankIWD2023](http://twitter.com/search?q=%23AccessBankIWD2023) | N/A |
+| 13 | [Helper](http://twitter.com/search?q=Helper) | N/A |
+| 14 | [Emeka Offor](http://twitter.com/search?q=Emeka+Offor) | N/A |
+| 15 | [Boss Mustapha](http://twitter.com/search?q=Boss+Mustapha) | N/A |
+| 16 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 17 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
+| 18 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 19 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 20 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 21 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 22 | [8 SENATORS](http://twitter.com/search?q=8+SENATORS) | N/A |
+| 23 | [25% in the FCT](http://twitter.com/search?q=25%25+in+the+FCT) | N/A |
+| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 25 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 26 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 27 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 28 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 29 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
+| 30 | [1 GOVERNOR](http://twitter.com/search?q=1+GOVERNOR) | N/A |
+| 31 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 32 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
+| 33 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
+| 34 | [Mimiko](http://twitter.com/search?q=Mimiko) | N/A |
+| 35 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 36 | [Edeoga](http://twitter.com/search?q=Edeoga) | N/A |
+| 37 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
+| 38 | [Peter Mbah](http://twitter.com/search?q=Peter+Mbah) | N/A |
+| 39 | [Fasting](http://twitter.com/search?q=Fasting) | N/A |
+| 40 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 41 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 42 | [Qur'an](http://twitter.com/search?q=Qur%27an) | N/A |
+| 43 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 44 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 45 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 46 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
 
 
 

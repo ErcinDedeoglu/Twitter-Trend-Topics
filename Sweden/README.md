@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-23 11:17:35 UTC`
+📆 Last Updated: `2023-03-23 12:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Sweden
 | 11 | [It is Just](http://twitter.com/search?q=It+is+Just) | N/A |
 | 12 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
 | 13 | [Högmo](http://twitter.com/search?q=H%c3%b6gmo) | N/A |
-| 14 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
-| 15 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 14 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 15 | [Rahimi](http://twitter.com/search?q=Rahimi) | N/A |
 | 16 | [Jonna Sima](http://twitter.com/search?q=Jonna+Sima) | N/A |
 | 17 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 18 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
-| 19 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
+| 18 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
+| 19 | [Knowledge](http://twitter.com/search?q=Knowledge) | N/A |
 | 20 | [Buya](http://twitter.com/search?q=Buya) | N/A |
 | 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 22 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
 | 23 | [Jean](http://twitter.com/search?q=Jean) | N/A |
-| 24 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
-| 25 | [Supper](http://twitter.com/search?q=Supper) | N/A |
-| 26 | [Natomedlemskap](http://twitter.com/search?q=Natomedlemskap) | N/A |
-| 27 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
-| 28 | [henry ohlsson](http://twitter.com/search?q=henry+ohlsson) | N/A |
-| 29 | [Folkhemsel](http://twitter.com/search?q=Folkhemsel) | N/A |
-| 30 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
-| 31 | [Willys](http://twitter.com/search?q=Willys) | N/A |
+| 24 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
+| 25 | [supper](http://twitter.com/search?q=supper) | N/A |
+| 26 | [Uppdrag](http://twitter.com/search?q=Uppdrag) | N/A |
+| 27 | [Natomedlemskap](http://twitter.com/search?q=Natomedlemskap) | N/A |
+| 28 | [rensfeldt](http://twitter.com/search?q=rensfeldt) | N/A |
+| 29 | [henry ohlsson](http://twitter.com/search?q=henry+ohlsson) | N/A |
+| 30 | [Folkhemsel](http://twitter.com/search?q=Folkhemsel) | N/A |
+| 31 | [Tidöavtalet](http://twitter.com/search?q=Tid%c3%b6avtalet) | N/A |
 | 32 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 33 | [Clothes](http://twitter.com/search?q=Clothes) | N/A |
-| 34 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 35 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 36 | [Slow](http://twitter.com/search?q=Slow) | N/A |
-| 37 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 38 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 39 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
-| 40 | [elin kjos](http://twitter.com/search?q=elin+kjos) | N/A |
-| 41 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 42 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 34 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 35 | [Slow](http://twitter.com/search?q=Slow) | N/A |
+| 36 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 37 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 38 | [komarek](http://twitter.com/search?q=komarek) | N/A |
+| 39 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 40 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 41 | [elin kjos](http://twitter.com/search?q=elin+kjos) | N/A |
+| 42 | [Winter](http://twitter.com/search?q=Winter) | N/A |
 | 43 | [vainios](http://twitter.com/search?q=vainios) | N/A |
 | 44 | [Bottoms](http://twitter.com/search?q=Bottoms) | N/A |
-| 45 | [glazers](http://twitter.com/search?q=glazers) | N/A |
+| 45 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 46 | [Wallström](http://twitter.com/search?q=Wallstr%c3%b6m) | N/A |
 | 47 | [T-34](http://twitter.com/search?q=T-34) | N/A |
 | 48 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
 | 49 | [Besara](http://twitter.com/search?q=Besara) | N/A |
-| 50 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
+| 50 | [Bless](http://twitter.com/search?q=Bless) | N/A |
 
 
 

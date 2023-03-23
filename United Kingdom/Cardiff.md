@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-23 11:16:42 UTC`
+📆 Last Updated: `2023-03-23 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [Nathan Cleary](http://twitter.com/search?q=Nathan+Cleary) | N/A |
-| 4 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
-| 5 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 6 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 7 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 8 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 9 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 10 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 11 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 12 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 13 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 14 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
-| 15 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 16 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 17 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 18 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 20 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 21 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 22 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
-| 23 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 24 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 25 | [Kangaroo Court](http://twitter.com/search?q=Kangaroo+Court) | N/A |
-| 26 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 27 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 28 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 29 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 30 | [#ASongOrMovieForAnythingSmall](http://twitter.com/search?q=%23ASongOrMovieForAnythingSmall) | N/A |
-| 31 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 32 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
-| 33 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 34 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
-| 35 | [#ToriesOut259](http://twitter.com/search?q=%23ToriesOut259) | N/A |
-| 36 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
-| 37 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
-| 38 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 39 | [#BorisIsALiar](http://twitter.com/search?q=%23BorisIsALiar) | N/A |
-| 40 | [#partygatehearing](http://twitter.com/search?q=%23partygatehearing) | N/A |
-| 41 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
-| 42 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 2 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 4 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 5 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
+| 6 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 7 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 8 | [Nathan Cleary](http://twitter.com/search?q=Nathan+Cleary) | N/A |
+| 9 | [Sherice](http://twitter.com/search?q=Sherice) | N/A |
+| 10 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 11 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 12 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 13 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 14 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 15 | [Agile](http://twitter.com/search?q=Agile) | N/A |
+| 16 | [The Bank of England](http://twitter.com/search?q=The+Bank+of+England) | N/A |
+| 17 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 18 | [Freeports](http://twitter.com/search?q=Freeports) | N/A |
+| 19 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
+| 20 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 21 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 22 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 23 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 24 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 25 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 26 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 27 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 28 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
+| 29 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 30 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 31 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 32 | [Kangaroo Court](http://twitter.com/search?q=Kangaroo+Court) | N/A |
+| 33 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
+| 34 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 35 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 36 | [#ASongOrMovieForAnythingSmall](http://twitter.com/search?q=%23ASongOrMovieForAnythingSmall) | N/A |
+| 37 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 38 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
+| 39 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 40 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
+| 41 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 42 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
+| 43 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
+| 44 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
+| 45 | [#ToriesOut259](http://twitter.com/search?q=%23ToriesOut259) | N/A |
+| 46 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 47 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
+| 48 | [#BorisIsALiar](http://twitter.com/search?q=%23BorisIsALiar) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-23 11:16:51 UTC`
+📆 Last Updated: `2023-03-23 12:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 3 | [Moro](http://twitter.com/search?q=Moro) | N/A |
 | 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 5 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 5 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
 | 6 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 7 | [#LunaticsRising](http://twitter.com/search?q=%23LunaticsRising) | N/A |
-| 8 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 10 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 11 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 12 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 13 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 14 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 7 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 8 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 9 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 11 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 12 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 13 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 14 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 15 | [#antxbabydoge](http://twitter.com/search?q=%23antxbabydoge) | N/A |
-| 16 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 17 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 18 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 19 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
-| 20 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 21 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 22 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 23 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 24 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 25 | [bud com o nas no lollabr](http://twitter.com/search?q=bud+com+o+nas+no+lollabr) | N/A |
-| 26 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 27 | [Marfim](http://twitter.com/search?q=Marfim) | N/A |
-| 28 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 29 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 30 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 31 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 32 | [Dia Mundial da Água](http://twitter.com/search?q=Dia+Mundial+da+%c3%81gua) | N/A |
-| 33 | [pepe moreno](http://twitter.com/search?q=pepe+moreno) | N/A |
-| 34 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 35 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 36 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 37 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 38 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 39 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 16 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 17 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 18 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 19 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 20 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 21 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
+| 22 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 23 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 24 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 25 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 26 | [Marfim](http://twitter.com/search?q=Marfim) | N/A |
+| 27 | [bud com o nas no lollabr](http://twitter.com/search?q=bud+com+o+nas+no+lollabr) | N/A |
+| 28 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 29 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 30 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 31 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 32 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
+| 33 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 34 | [Pepe Moreno](http://twitter.com/search?q=Pepe+Moreno) | N/A |
+| 35 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 36 | [bud com os billiers no lollabr](http://twitter.com/search?q=bud+com+os+billiers+no+lollabr) | N/A |
+| 37 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 38 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 39 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
 | 40 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 41 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 42 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
-| 43 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 44 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
-| 45 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 46 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 47 | [Intelectualismo](http://twitter.com/search?q=Intelectualismo) | N/A |
-| 48 | [fred no multishow](http://twitter.com/search?q=fred+no+multishow) | N/A |
-| 49 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 50 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
+| 41 | [DIA MUNDIAL DA ÁGUA](http://twitter.com/search?q=DIA+MUNDIAL+DA+%c3%81GUA) | N/A |
+| 42 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 43 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 44 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 45 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 46 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
+| 47 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 48 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 49 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
+| 50 | [Racionalismo](http://twitter.com/search?q=Racionalismo) | N/A |
 
 
 

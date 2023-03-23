@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-23 11:16:53 UTC`
+📆 Last Updated: `2023-03-23 12:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
-| 2 | [#papieroweSML](http://twitter.com/search?q=%23papieroweSML) | N/A |
-| 3 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
-| 4 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 5 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 2 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
+| 3 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
+| 4 | [#papieroweSML](http://twitter.com/search?q=%23papieroweSML) | N/A |
+| 5 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
 | 6 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 7 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 8 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 9 | [downa](http://twitter.com/search?q=downa) | N/A |
-| 10 | [miłego](http://twitter.com/search?q=mi%c5%82ego) | N/A |
-| 11 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 12 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
-| 13 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 15 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 16 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 17 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 18 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 19 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 20 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 21 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
-| 22 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 23 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
-| 24 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
-| 25 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 26 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 27 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 28 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
-| 29 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
-| 30 | [iem dallas](http://twitter.com/search?q=iem+dallas) | N/A |
-| 31 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 32 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 33 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
-| 34 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 35 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
-| 36 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 37 | [Elbląg](http://twitter.com/search?q=Elbl%c4%85g) | N/A |
-| 38 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 39 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 40 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 41 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 42 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 43 | [Żydom](http://twitter.com/search?q=%c5%bbydom) | N/A |
-| 44 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 45 | [Napoleona](http://twitter.com/search?q=Napoleona) | N/A |
-| 46 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 47 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
-| 48 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
+| 7 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 8 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
+| 11 | [jasionce](http://twitter.com/search?q=jasionce) | N/A |
+| 12 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 13 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 14 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 15 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 16 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 17 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 18 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
+| 19 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 20 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
+| 21 | [głupio](http://twitter.com/search?q=g%c5%82upio) | N/A |
+| 22 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 23 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 24 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 25 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
+| 26 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 27 | [iem dallas](http://twitter.com/search?q=iem+dallas) | N/A |
+| 28 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
+| 29 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 30 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 31 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 32 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 33 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 34 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
+| 35 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 36 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 37 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
+| 38 | [Elbląg](http://twitter.com/search?q=Elbl%c4%85g) | N/A |
+| 39 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 40 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 41 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 42 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 43 | [Napoleona](http://twitter.com/search?q=Napoleona) | N/A |
+| 44 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 45 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 46 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
+| 47 | [Walii](http://twitter.com/search?q=Walii) | N/A |
+| 48 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
 
 
 

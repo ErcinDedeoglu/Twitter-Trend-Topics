@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-23 11:17:24 UTC`
+📆 Last Updated: `2023-03-23 12:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
 | 3 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
 | 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 5 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
+| 5 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
 | 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 10 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 11 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 12 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 13 | [#Wordle642](http://twitter.com/search?q=%23Wordle642) | N/A |
-| 14 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 15 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 16 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 10 | [JESUS CHRIST IS ALIVE](http://twitter.com/search?q=JESUS+CHRIST+IS+ALIVE) | N/A |
+| 11 | [#Snowfallfx](http://twitter.com/search?q=%23Snowfallfx) | N/A |
+| 12 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 13 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 14 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
+| 15 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 16 | [Louie](http://twitter.com/search?q=Louie) | N/A |
 | 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 20 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 21 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 22 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 23 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 25 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 26 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 28 | [Damn Unc](http://twitter.com/search?q=Damn+Unc) | N/A |
-| 29 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 30 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 31 | [Scott foster](http://twitter.com/search?q=Scott+foster) | N/A |
-| 32 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 33 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 34 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 35 | [yunho](http://twitter.com/search?q=yunho) | N/A |
+| 18 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 19 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 20 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 22 | [RIP Unc](http://twitter.com/search?q=RIP+Unc) | N/A |
+| 23 | [Joan Crawford](http://twitter.com/search?q=Joan+Crawford) | N/A |
+| 24 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 25 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 26 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 29 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 30 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 33 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 34 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 35 | [Damn Unc](http://twitter.com/search?q=Damn+Unc) | N/A |
 | 36 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 37 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 38 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 39 | [Bubbles](http://twitter.com/search?q=Bubbles) | N/A |
-| 40 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
-| 41 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 42 | [Atari](http://twitter.com/search?q=Atari) | N/A |
-| 43 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
-| 44 | [Jerry Rice](http://twitter.com/search?q=Jerry+Rice) | Jerry Rice is a former American football player who is widely regarded as one of the greatest wide receivers in NFL history. He played for the San Francisco 49ers, Oakland Raiders, and Seattle Seahawks during his 20-year career. The phrase "Jerry Rice" has come to mean excellence in football, particularly in the area of receiving. |
-| 45 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
-| 46 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 47 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 48 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 49 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 50 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 37 | [Atari](http://twitter.com/search?q=Atari) | N/A |
+| 38 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 39 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 40 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 41 | [connor mcdavid](http://twitter.com/search?q=connor+mcdavid) | N/A |
+| 42 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 43 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 44 | [Bubbles](http://twitter.com/search?q=Bubbles) | N/A |
+| 45 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 46 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 47 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 49 | [#Wordle642](http://twitter.com/search?q=%23Wordle642) | N/A |
+| 50 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
 
 
 

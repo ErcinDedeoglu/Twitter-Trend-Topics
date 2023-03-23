@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-23 11:17:15 UTC`
+📆 Last Updated: `2023-03-23 12:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
 | 4 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
 | 5 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 6 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 7 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
-| 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 6 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
+| 7 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 8 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
 | 9 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 10 | [Weight](http://twitter.com/search?q=Weight) | N/A |
-| 11 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 12 | [lahore resolution](http://twitter.com/search?q=lahore+resolution) | N/A |
-| 13 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
-| 14 | [ya allah reham](http://twitter.com/search?q=ya+allah+reham) | N/A |
-| 15 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 16 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 10 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 11 | [Congratulations Captain](http://twitter.com/search?q=Congratulations+Captain) | N/A |
+| 12 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
+| 13 | [Lahore Resolution](http://twitter.com/search?q=Lahore+Resolution) | N/A |
+| 14 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
+| 15 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 16 | [Weight](http://twitter.com/search?q=Weight) | N/A |
 | 17 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 18 | [Congratulations Skipper](http://twitter.com/search?q=Congratulations+Skipper) | N/A |
-| 19 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
-| 20 | [President](http://twitter.com/search?q=President) | N/A |
-| 21 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
-| 22 | [Republic Day](http://twitter.com/search?q=Republic+Day) | N/A |
-| 23 | [Be United](http://twitter.com/search?q=Be+United) | N/A |
-| 24 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 18 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 19 | [Mehwish Hayat](http://twitter.com/search?q=Mehwish+Hayat) | N/A |
+| 20 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
+| 21 | [President](http://twitter.com/search?q=President) | N/A |
+| 22 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 23 | [republic day](http://twitter.com/search?q=republic+day) | N/A |
+| 24 | [Set Me Free Pt](http://twitter.com/search?q=Set+Me+Free+Pt) | N/A |
 | 25 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 26 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 27 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 28 | [Boot](http://twitter.com/search?q=Boot) | N/A |
-| 29 | [My Name](http://twitter.com/search?q=My+Name) | N/A |
-| 30 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 31 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
-| 32 | [Nation](http://twitter.com/search?q=Nation) | N/A |
-| 33 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 34 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 26 | [Be United](http://twitter.com/search?q=Be+United) | N/A |
+| 27 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 28 | [Naseem shah](http://twitter.com/search?q=Naseem+shah) | N/A |
+| 29 | [Quaid e Azam](http://twitter.com/search?q=Quaid+e+Azam) | N/A |
+| 30 | [My Name](http://twitter.com/search?q=My+Name) | N/A |
+| 31 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 32 | [Many Congratulations](http://twitter.com/search?q=Many+Congratulations) | N/A |
+| 33 | [Jokers](http://twitter.com/search?q=Jokers) | N/A |
+| 34 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
 | 35 | [Ameeeeeen](http://twitter.com/search?q=Ameeeeeen) | N/A |
-| 36 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 37 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 38 | [Arif Alvi](http://twitter.com/search?q=Arif+Alvi) | N/A |
-| 39 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 40 | [Many Congratulations](http://twitter.com/search?q=Many+Congratulations) | N/A |
-| 41 | [Pathetic](http://twitter.com/search?q=Pathetic) | N/A |
-| 42 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 43 | [#BabarAzam](http://twitter.com/search?q=%23BabarAzam) | N/A |
+| 36 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 37 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 38 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 39 | [Samee](http://twitter.com/search?q=Samee) | N/A |
+| 40 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 41 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 42 | [Atta](http://twitter.com/search?q=Atta) | N/A |
+| 43 | [#PakistanDay](http://twitter.com/search?q=%23PakistanDay) | N/A |
 | 44 | [#Article6onECP](http://twitter.com/search?q=%23Article6onECP) | N/A |
-| 45 | [#ReachingHigherwithZong4G](http://twitter.com/search?q=%23ReachingHigherwithZong4G) | N/A |
+| 45 | [#BabarAzam](http://twitter.com/search?q=%23BabarAzam) | N/A |
 | 46 | [#Art6onECP](http://twitter.com/search?q=%23Art6onECP) | N/A |
 | 47 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
-| 48 | [#Democracy_Derailed](http://twitter.com/search?q=%23Democracy_Derailed) | N/A |
+| 48 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
 | 49 | [#23rdMarch](http://twitter.com/search?q=%2323rdMarch) | N/A |
-| 50 | [#قوم_کا_فیصلہ_عمران_خان](http://twitter.com/search?q=%23%d9%82%d9%88%d9%85_%da%a9%d8%a7_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 50 | [#Democracy_Derailed](http://twitter.com/search?q=%23Democracy_Derailed) | N/A |
 
 
 
