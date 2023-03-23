@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-03-23 04:25:50 UTC`
+📆 Last Updated: `2023-03-23 06:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 2 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 1 | [#رمضان_كريم](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 2 | [#اول_يوم_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%84_%d9%8a%d9%88%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 3 | [#عبدالسلام_الحارثي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85_%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab%d9%8a) | N/A |
-| 4 | [#اول_يوم_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%84_%d9%8a%d9%88%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 4 | [#حاله_1](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%84%d9%87_1) | N/A |
 | 5 | [#مسابقه_طرق_الرياض1](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b61) | N/A |
 | 6 | [محمد يوسف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 7 | [#مسابقه_المربع_نت1](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa1) | N/A |
-| 8 | [١ رمضان](http://twitter.com/search?q=%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [السبع المثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%b9+%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 10 | [المكعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 11 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
-| 12 | [داون تاون الرياض](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d9%86+%d8%aa%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 13 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 14 | [فجر رمضان](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 15 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 16 | [شهرك الفضيل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 7 | [١ رمضان](http://twitter.com/search?q=%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 8 | [السبع المثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%b9+%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 9 | [المكعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 10 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 11 | [داون تاون الرياض](http://twitter.com/search?q=%d8%af%d8%a7%d9%88%d9%86+%d8%aa%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 12 | [شهرك الفضيل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 13 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
+| 14 | [مشروع جديد](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 15 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 16 | [فجر رمضان](http://twitter.com/search?q=%d9%81%d8%ac%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 17 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 18 | [مشروع جديد](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 19 | [اذن الفجر](http://twitter.com/search?q=%d8%a7%d8%b0%d9%86+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 20 | [شهر الجبر](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a8%d8%b1) | N/A |
-| 21 | [علي الاذان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
-| 22 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 23 | [رمضان اللهم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 24 | [الكفاءه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 25 | [سعد بن معاذ رضي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0+%d8%b1%d8%b6%d9%8a) | N/A |
-| 26 | [علي السحور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%ad%d9%88%d8%b1) | N/A |
-| 27 | [تايم رمضان](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%85+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 28 | [رفعت الايادي](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
-| 29 | [ثالث رمضان](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 30 | [لوكا](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7) | N/A |
-| 31 | [الاعوام السابقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82%d9%87) | N/A |
-| 32 | [الدعوات اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 33 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 18 | [شهر الجبر](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a8%d8%b1) | N/A |
+| 19 | [رمضان اللهم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 20 | [اذن الفجر](http://twitter.com/search?q=%d8%a7%d8%b0%d9%86+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
+| 21 | [الكفاءه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 22 | [سعد بن معاذ رضي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0+%d8%b1%d8%b6%d9%8a) | N/A |
+| 23 | [علي السحور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%ad%d9%88%d8%b1) | N/A |
+| 24 | [الاعوام السابقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82%d9%87) | N/A |
+| 25 | [ثالث رمضان](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 26 | [رفعت الايادي](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
+| 27 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 28 | [رات عين](http://twitter.com/search?q=%d8%b1%d8%a7%d8%aa+%d8%b9%d9%8a%d9%86) | N/A |
+| 29 | [اسعد الليالي](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a) | N/A |
+| 30 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 31 | [علي الذين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 32 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
+| 33 | [رمضان شهر الخير](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 34 | [صيام رمضان](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 35 | [رات عين](http://twitter.com/search?q=%d8%b1%d8%a7%d8%aa+%d8%b9%d9%8a%d9%86) | N/A |
-| 36 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
-| 37 | [اسعد الليالي](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a) | N/A |
-| 38 | [رجل الامن](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 39 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
-| 40 | [رمضان غير](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%ba%d9%8a%d8%b1) | N/A |
-| 41 | [رمضان السنه](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%86%d9%87) | N/A |
-| 42 | [خامس رمضان](http://twitter.com/search?q=%d8%ae%d8%a7%d9%85%d8%b3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 43 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 44 | [شهر غفران](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ba%d9%81%d8%b1%d8%a7%d9%86) | N/A |
-| 45 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 46 | [شهرك مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 47 | [رمضان شهر الخير](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 48 | [علي الذين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
-| 49 | [رمضان الجاي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 50 | [شهر القران](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 35 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 36 | [الدعوات اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 37 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
+| 38 | [شهر غفران](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ba%d9%81%d8%b1%d8%a7%d9%86) | N/A |
+| 39 | [الايام العاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 40 | [لويز](http://twitter.com/search?q=%d9%84%d9%88%d9%8a%d8%b2) | N/A |
+| 41 | [#بنتكم_روان1](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%aa%d9%83%d9%85_%d8%b1%d9%88%d8%a7%d9%861) | N/A |
+| 42 | [#مسابقه_المربع_نت1](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa1) | N/A |
+| 43 | [#من_الوصول_الي_الحصول1](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%841) | N/A |
+| 44 | [#خطوه_للخير](http://twitter.com/search?q=%23%d8%ae%d8%b7%d9%88%d9%87_%d9%84%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 45 | [#عبايات_اوتار](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%a7%d9%8a%d8%a7%d8%aa_%d8%a7%d9%88%d8%aa%d8%a7%d8%b1) | N/A |
+| 46 | [#تجاره_رابحه](http://twitter.com/search?q=%23%d8%aa%d8%ac%d8%a7%d8%b1%d9%87_%d8%b1%d8%a7%d8%a8%d8%ad%d9%87) | N/A |
+| 47 | [#كثيب](http://twitter.com/search?q=%23%d9%83%d8%ab%d9%8a%d8%a8) | N/A |
+| 48 | [#قروب_سي](http://twitter.com/search?q=%23%d9%82%d8%b1%d9%88%d8%a8_%d8%b3%d9%8a) | N/A |
+| 49 | [#مسابقه_العنود_الرمضانيه](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b9%d9%86%d9%88%d8%af_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 50 | [#مسابقه_تكوين](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%aa%d9%83%d9%88%d9%8a%d9%86) | N/A |
 
 
 

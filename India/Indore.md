@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-23 04:25:56 UTC`
+📆 Last Updated: `2023-03-23 06:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShaheedDiwas](http://twitter.com/search?q=%23ShaheedDiwas) | N/A |
+| 1 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
 | 2 | [#BhagatSingh](http://twitter.com/search?q=%23BhagatSingh) | N/A |
-| 3 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 3 | [#ShaheedDiwas](http://twitter.com/search?q=%23ShaheedDiwas) | N/A |
 | 4 | [#Rajguru](http://twitter.com/search?q=%23Rajguru) | N/A |
-| 5 | [#शहीद_दिवस](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 6 | [#सुखदेव](http://twitter.com/search?q=%23%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 7 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 8 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 9 | [केंद्रीय मंत्री श्रीमती](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80) | N/A |
-| 10 | [No Parallel To SSR Case](http://twitter.com/search?q=No+Parallel+To+SSR+Case) | N/A |
-| 11 | [द्वितीय स्वरूप](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 12 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 13 | [Inquilab Zindabad](http://twitter.com/search?q=Inquilab+Zindabad) | N/A |
-| 14 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 15 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 16 | [मार्च शहीद](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 17 | [पक्षी विहार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
-| 18 | [श्री हरि विष्णु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
-| 19 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 20 | [कोटि प्रणाम](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a3%e0%a4%be%e0%a4%ae) | N/A |
-| 21 | [Chaitra Navratri](http://twitter.com/search?q=Chaitra+Navratri) | N/A |
-| 22 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 23 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
-| 24 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 25 | [प्रभु श्रीराम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 26 | [Ramzan](http://twitter.com/search?q=Ramzan) | N/A |
-| 27 | [Prabhas](http://twitter.com/search?q=Prabhas) | N/A |
-| 28 | [#राजगुरु](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81) | N/A |
-| 29 | [#NTR30StormBegins](http://twitter.com/search?q=%23NTR30StormBegins) | N/A |
-| 30 | [#TrueBloodPump](http://twitter.com/search?q=%23TrueBloodPump) | N/A |
-| 31 | [#MartyrsDay](http://twitter.com/search?q=%23MartyrsDay) | N/A |
-| 32 | [#चेटीचंड](http://twitter.com/search?q=%23%e0%a4%9a%e0%a5%87%e0%a4%9f%e0%a5%80%e0%a4%9a%e0%a4%82%e0%a4%a1) | N/A |
-| 33 | [#23March1931](http://twitter.com/search?q=%2323March1931) | N/A |
-| 34 | [#बलिदान_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 35 | [#बिहार_बंद_नहीं_होगा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%b9%e0%a5%8b%e0%a4%97%e0%a4%be) | N/A |
+| 5 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 6 | [#शहीद_दिवस](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 7 | [#सुखदेव](http://twitter.com/search?q=%23%e0%a4%b8%e0%a5%81%e0%a4%96%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 8 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 9 | [राहुल गांधी दोषी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
+| 10 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 11 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 13 | [केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 14 | [No Parallel To SSR Case](http://twitter.com/search?q=No+Parallel+To+SSR+Case) | N/A |
+| 15 | [पक्षी विहार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
+| 16 | [द्वितीय स्वरूप](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 17 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 18 | [श्रीमती स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 19 | [Martyrdom Day](http://twitter.com/search?q=Martyrdom+Day) | N/A |
+| 20 | [मार्च शहीद](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 21 | [Smriti Zubin Irani](http://twitter.com/search?q=Smriti+Zubin+Irani) | N/A |
+| 22 | [Vedanta](http://twitter.com/search?q=Vedanta) | N/A |
+| 23 | [महान समाजवादी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80) | N/A |
+| 24 | [अमर दीप](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%a6%e0%a5%80%e0%a4%aa) | N/A |
+| 25 | [तेज प्रताप](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa) | N/A |
+| 26 | [बसंती चोला](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b8%e0%a4%82%e0%a4%a4%e0%a5%80+%e0%a4%9a%e0%a5%8b%e0%a4%b2%e0%a4%be) | N/A |
+| 27 | [#राजगुरु](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81) | N/A |
+| 28 | [#e4Media_Class_HasNo_Class](http://twitter.com/search?q=%23e4Media_Class_HasNo_Class) | N/A |
+| 29 | [#MartyrsDay](http://twitter.com/search?q=%23MartyrsDay) | N/A |
+| 30 | [#NTR30](http://twitter.com/search?q=%23NTR30) | N/A |
+| 31 | [#शिव_राज_में_विश्वास](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5_%e0%a4%b0%e0%a4%be%e0%a4%9c_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
+| 32 | [#बिहार_बंद_नहीं_होगा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82_%e0%a4%b9%e0%a5%8b%e0%a4%97%e0%a4%be) | N/A |
+| 33 | [#23_मार्च_बिहार_बंद](http://twitter.com/search?q=%2323_%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a_%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6) | N/A |
+| 34 | [#पतंजलिसंन्यासी](http://twitter.com/search?q=%23%e0%a4%aa%e0%a4%a4%e0%a4%82%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%b8%e0%a4%82%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
+| 35 | [#बलिदान_दिवस](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
 | 36 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 37 | [#balidandiwas](http://twitter.com/search?q=%23balidandiwas) | N/A |
-| 38 | [#RamManoharLohia](http://twitter.com/search?q=%23RamManoharLohia) | N/A |
-| 39 | [#HindenburgReport](http://twitter.com/search?q=%23HindenburgReport) | N/A |
-| 40 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
-| 41 | [#KoratalaSiva](http://twitter.com/search?q=%23KoratalaSiva) | N/A |
-| 42 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 37 | [#शर्म_करो_राजवीर](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
+| 38 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
+| 39 | [#balidandiwas](http://twitter.com/search?q=%23balidandiwas) | N/A |
+| 40 | [#SuratCourt](http://twitter.com/search?q=%23SuratCourt) | N/A |
+| 41 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
+| 42 | [#KoratalaSiva](http://twitter.com/search?q=%23KoratalaSiva) | N/A |
 | 43 | [#WorldMeteorologicalDay](http://twitter.com/search?q=%23WorldMeteorologicalDay) | N/A |
-| 44 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 45 | [#3rdG_टीचर_मांगे_ट्रांसफर](http://twitter.com/search?q=%233rdG_%e0%a4%9f%e0%a5%80%e0%a4%9a%e0%a4%b0_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%ab%e0%a4%b0) | N/A |
-| 46 | [#23_मार्च_बिहार_बंद](http://twitter.com/search?q=%2323_%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a_%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%ac%e0%a4%82%e0%a4%a6) | N/A |
-| 47 | [#JaiHind](http://twitter.com/search?q=%23JaiHind) | N/A |
-| 48 | [#ब्रह्मचारिणी](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%a3%e0%a5%80) | N/A |
-| 49 | [#TheElephantsWhisperers](http://twitter.com/search?q=%23TheElephantsWhisperers) | N/A |
-| 50 | [#HappyBirthdayKanganaRanaut](http://twitter.com/search?q=%23HappyBirthdayKanganaRanaut) | N/A |
+| 44 | [#TrueBloodPump](http://twitter.com/search?q=%23TrueBloodPump) | N/A |
+| 45 | [#ModiSurname](http://twitter.com/search?q=%23ModiSurname) | N/A |
+| 46 | [#RamManoharLohia](http://twitter.com/search?q=%23RamManoharLohia) | N/A |
+| 47 | [#PakistanDayMourning](http://twitter.com/search?q=%23PakistanDayMourning) | N/A |
+| 48 | [#FreedomFighters](http://twitter.com/search?q=%23FreedomFighters) | N/A |
+| 49 | [#HindenburgReport](http://twitter.com/search?q=%23HindenburgReport) | N/A |
+| 50 | [#TheElephantsWhisperers](http://twitter.com/search?q=%23TheElephantsWhisperers) | N/A |
 
 
 
