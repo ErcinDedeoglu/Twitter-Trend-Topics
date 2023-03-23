@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-23 20:17:30 UTC`
+📆 Last Updated: `2023-03-23 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Philippines](</Philippines>)
 | 8 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
 | 9 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
 | 10 | [donny binisita si belle](http://twitter.com/search?q=donny+binisita+si+belle) | N/A |
-| 11 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
+| 11 | [kaia charlotte concept teaser](http://twitter.com/search?q=kaia+charlotte+concept+teaser) | N/A |
 | 12 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
 | 13 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 15 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 16 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 20 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 21 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 22 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 23 | [chico dl seatmates](http://twitter.com/search?q=chico+dl+seatmates) | N/A |
-| 24 | [Time Out](http://twitter.com/search?q=Time+Out) | N/A |
-| 25 | [Minari](http://twitter.com/search?q=Minari) | N/A |
-| 26 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
-| 27 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 28 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
-| 29 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 30 | [setmefree second win](http://twitter.com/search?q=setmefree+second+win) | N/A |
-| 31 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 32 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
-| 33 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 34 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 35 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
-| 36 | [AndreaB New Serye](http://twitter.com/search?q=AndreaB+New+Serye) | N/A |
-| 37 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 38 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 39 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 40 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 41 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 42 | [kaia angela concept teaser](http://twitter.com/search?q=kaia+angela+concept+teaser) | N/A |
-| 43 | [VXON VINCE COMEBACK TEASER](http://twitter.com/search?q=VXON+VINCE+COMEBACK+TEASER) | N/A |
-| 44 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 45 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
-| 46 | [STREAM BOBBY DROWNING](http://twitter.com/search?q=STREAM+BOBBY+DROWNING) | N/A |
-| 47 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
-| 48 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 49 | [pharmally](http://twitter.com/search?q=pharmally) | N/A |
-| 50 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 17 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 19 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 20 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 21 | [Time Out](http://twitter.com/search?q=Time+Out) | N/A |
+| 22 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 23 | [Minari](http://twitter.com/search?q=Minari) | N/A |
+| 24 | [ang init](http://twitter.com/search?q=ang+init) | N/A |
+| 25 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
+| 26 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 27 | [setmefree second win](http://twitter.com/search?q=setmefree+second+win) | N/A |
+| 28 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 29 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
+| 30 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 31 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 32 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
+| 33 | [AndreaB New Serye](http://twitter.com/search?q=AndreaB+New+Serye) | N/A |
+| 34 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 35 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
+| 36 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 37 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 38 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 39 | [kaia angela concept teaser](http://twitter.com/search?q=kaia+angela+concept+teaser) | N/A |
+| 40 | [VXON VINCE COMEBACK TEASER](http://twitter.com/search?q=VXON+VINCE+COMEBACK+TEASER) | N/A |
+| 41 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 43 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
+| 44 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
+| 45 | [STREAM BOBBY DROWNING](http://twitter.com/search?q=STREAM+BOBBY+DROWNING) | N/A |
+| 46 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 47 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 48 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 49 | [ford allan](http://twitter.com/search?q=ford+allan) | N/A |
+| 50 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-23 20:17:53 UTC`
+📆 Last Updated: `2023-03-23 21:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 2 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 3 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
-| 4 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 5 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 8 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 10 | [BECKY G](http://twitter.com/search?q=BECKY+G) | N/A |
-| 11 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
-| 12 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 13 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 14 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
-| 15 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 16 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 17 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 18 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 19 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 20 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 21 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 22 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 23 | [Breece](http://twitter.com/search?q=Breece) | N/A |
-| 24 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 25 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 26 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 27 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 28 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 29 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 30 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 31 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 32 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 33 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
-| 34 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 35 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 36 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 37 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
-| 38 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
-| 39 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 40 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 41 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 42 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 44 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 45 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 46 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
-| 47 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 48 | [England](http://twitter.com/search?q=England) | N/A |
-| 49 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 50 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 1 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 2 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
+| 3 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 4 | [Harper](http://twitter.com/search?q=Harper) | N/A |
+| 5 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 6 | [#Phillies](http://twitter.com/search?q=%23Phillies) | N/A |
+| 7 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 8 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 11 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 12 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 13 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 18 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 19 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
+| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 21 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 22 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 23 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 24 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 25 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 26 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 27 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
+| 28 | [Breece](http://twitter.com/search?q=Breece) | N/A |
+| 29 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 30 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 31 | [England](http://twitter.com/search?q=England) | N/A |
+| 32 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 33 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 34 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 35 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 36 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 37 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 38 | [Big Shark](http://twitter.com/search?q=Big+Shark) | N/A |
+| 39 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 40 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 41 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
+| 42 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
+| 43 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 44 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
+| 45 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 46 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 47 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 48 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 49 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 50 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-23 20:17:02 UTC`
+📆 Last Updated: `2023-03-23 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
-| 2 | [Common](http://twitter.com/search?q=Common) | N/A |
-| 3 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
-| 4 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 5 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 6 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 10 | [#interestrates](http://twitter.com/search?q=%23interestrates) | N/A |
-| 11 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 12 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 13 | [#England](http://twitter.com/search?q=%23England) | N/A |
-| 14 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 15 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 18 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 19 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 20 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 21 | [God Save the King](http://twitter.com/search?q=God+Save+the+King) | N/A |
-| 22 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 23 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 24 | [The Italian](http://twitter.com/search?q=The+Italian) | N/A |
-| 25 | [Italians](http://twitter.com/search?q=Italians) | N/A |
-| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 27 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
-| 28 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 29 | [James Richardson](http://twitter.com/search?q=James+Richardson) | N/A |
-| 30 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 31 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 32 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 33 | [Seb Coe](http://twitter.com/search?q=Seb+Coe) | N/A |
-| 34 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 35 | [Caster Semenya](http://twitter.com/search?q=Caster+Semenya) | N/A |
-| 36 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 37 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
-| 38 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 39 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 40 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
-| 41 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 42 | [Welsh Fire](http://twitter.com/search?q=Welsh+Fire) | N/A |
-| 43 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 44 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 45 | [PH Urbane](http://twitter.com/search?q=PH+Urbane) | N/A |
-| 46 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
-| 47 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 48 | [Marmite](http://twitter.com/search?q=Marmite) | N/A |
-| 49 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 50 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 1 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 2 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 3 | [#womaninbizhour](http://twitter.com/search?q=%23womaninbizhour) | N/A |
+| 4 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 5 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 6 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 7 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 8 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 9 | [#FastFoodSongsOrFilms](http://twitter.com/search?q=%23FastFoodSongsOrFilms) | N/A |
+| 10 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
+| 11 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 12 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 13 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
+| 14 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 15 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 16 | [Common](http://twitter.com/search?q=Common) | N/A |
+| 17 | [Marmite](http://twitter.com/search?q=Marmite) | N/A |
+| 18 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 19 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 21 | [England](http://twitter.com/search?q=England) | N/A |
+| 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 23 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 24 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
+| 25 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 26 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 27 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 32 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 33 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 34 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 35 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 36 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
+| 37 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 38 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 39 | [God Save the King](http://twitter.com/search?q=God+Save+the+King) | N/A |
+| 40 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 41 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 42 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
+| 43 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 44 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 45 | [Adidas kit](http://twitter.com/search?q=Adidas+kit) | N/A |
+| 46 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 47 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 48 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 49 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 50 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
 
 
 

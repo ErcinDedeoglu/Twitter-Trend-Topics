@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-23 20:18:02 UTC`
+📆 Last Updated: `2023-03-23 21:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 3 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 4 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
 | 5 | [#SwissOpen2023](http://twitter.com/search?q=%23SwissOpen2023) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for Malaysia
 | 13 | [takuto](http://twitter.com/search?q=takuto) | N/A |
 | 14 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 15 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 17 | [aaron aziz](http://twitter.com/search?q=aaron+aziz) | N/A |
-| 18 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 20 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 21 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
-| 22 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 23 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 24 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 25 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 26 | [WOOSEOK](http://twitter.com/search?q=WOOSEOK) | N/A |
-| 27 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 28 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 29 | [difflam](http://twitter.com/search?q=difflam) | N/A |
-| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 31 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 32 | [khairul aming](http://twitter.com/search?q=khairul+aming) | N/A |
-| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 34 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
-| 35 | [Inseong](http://twitter.com/search?q=Inseong) | N/A |
-| 36 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 37 | [Selamat berpuasa](http://twitter.com/search?q=Selamat+berpuasa) | N/A |
-| 38 | [sowon](http://twitter.com/search?q=sowon) | N/A |
-| 39 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
-| 40 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 41 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 42 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 43 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 44 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 45 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 46 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 47 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
-| 48 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 49 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
-| 50 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 16 | [Aaron Aziz](http://twitter.com/search?q=Aaron+Aziz) | N/A |
+| 17 | [Mcountdown](http://twitter.com/search?q=Mcountdown) | N/A |
+| 18 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 19 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
+| 20 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 21 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 22 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
+| 23 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 24 | [WOOSEOK](http://twitter.com/search?q=WOOSEOK) | N/A |
+| 25 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 26 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 27 | [difflam](http://twitter.com/search?q=difflam) | N/A |
+| 28 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 31 | [khairul aming](http://twitter.com/search?q=khairul+aming) | N/A |
+| 32 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 33 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 34 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 35 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
+| 36 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 37 | [inseong](http://twitter.com/search?q=inseong) | N/A |
+| 38 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 39 | [Selamat berpuasa](http://twitter.com/search?q=Selamat+berpuasa) | N/A |
+| 40 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 41 | [seungcheol](http://twitter.com/search?q=seungcheol) | N/A |
+| 42 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 44 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 45 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 46 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 47 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 48 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 49 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
+| 50 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
 
 
 

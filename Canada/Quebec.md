@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-23 20:16:57 UTC`
+📆 Last Updated: `2023-03-23 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 5 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 4 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 5 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 6 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
 | 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 8 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 9 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 10 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 11 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 12 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
-| 13 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 14 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 15 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 16 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 17 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 18 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
-| 19 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 24 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 25 | [Lebreton](http://twitter.com/search?q=Lebreton) | N/A |
-| 26 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
-| 27 | [Ohtani vs Trout](http://twitter.com/search?q=Ohtani+vs+Trout) | N/A |
-| 28 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
-| 29 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 30 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 31 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 32 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 33 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 34 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 35 | [Maher Arar](http://twitter.com/search?q=Maher+Arar) | N/A |
-| 36 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 37 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 38 | [Meng](http://twitter.com/search?q=Meng) | N/A |
-| 39 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 40 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 41 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
-| 42 | [Askarov](http://twitter.com/search?q=Askarov) | N/A |
-| 43 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 44 | [Tyler Kleven](http://twitter.com/search?q=Tyler+Kleven) | N/A |
-| 45 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 46 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 47 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 48 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 49 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 9 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 10 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 13 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 14 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
+| 15 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 16 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 17 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 18 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 19 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 22 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 23 | [Toloi](http://twitter.com/search?q=Toloi) | N/A |
+| 24 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 27 | [England](http://twitter.com/search?q=England) | N/A |
+| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 29 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 31 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 32 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 33 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 34 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 35 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
+| 36 | [Lebreton](http://twitter.com/search?q=Lebreton) | N/A |
+| 37 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 38 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 39 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 40 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 41 | [Ohtani vs Trout](http://twitter.com/search?q=Ohtani+vs+Trout) | N/A |
+| 42 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 43 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 44 | [Maher Arar](http://twitter.com/search?q=Maher+Arar) | N/A |
+| 45 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 46 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 47 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 48 | [Meng](http://twitter.com/search?q=Meng) | N/A |
+| 49 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
 
 
 

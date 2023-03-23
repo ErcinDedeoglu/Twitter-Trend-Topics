@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-23 20:17:33 UTC`
+📆 Last Updated: `2023-03-23 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Angola](http://twitter.com/search?q=Angola) | N/A |
-| 2 | [#GHAANG](http://twitter.com/search?q=%23GHAANG) | N/A |
-| 3 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 4 | [Semenyo](http://twitter.com/search?q=Semenyo) | N/A |
+| 1 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 2 | [Angola](http://twitter.com/search?q=Angola) | N/A |
+| 3 | [#GHAANG](http://twitter.com/search?q=%23GHAANG) | N/A |
+| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 5 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
-| 6 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
-| 7 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Afena Gyan](http://twitter.com/search?q=Afena+Gyan) | Afena Gyan is an Akan proverb from Ghana which translates to "Knowledge is power". It is a reminder that knowledge is the key to success and should be sought after. |
-| 10 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 11 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
-| 12 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 13 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
-| 14 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 15 | [Salis](http://twitter.com/search?q=Salis) | N/A |
-| 16 | [Kumasi](http://twitter.com/search?q=Kumasi) | N/A |
-| 17 | [Edmund Addo](http://twitter.com/search?q=Edmund+Addo) | N/A |
-| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 19 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
-| 20 | [Kim Grant](http://twitter.com/search?q=Kim+Grant) | N/A |
-| 21 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
-| 22 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 23 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 24 | [#citicbs](http://twitter.com/search?q=%23citicbs) | N/A |
-| 25 | [#BringBackTheLove](http://twitter.com/search?q=%23BringBackTheLove) | N/A |
-| 26 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 27 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 28 | [Paintsil](http://twitter.com/search?q=Paintsil) | N/A |
-| 29 | [#OwletForBusiness](http://twitter.com/search?q=%23OwletForBusiness) | N/A |
-| 30 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 31 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 32 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 33 | [England](http://twitter.com/search?q=England) | N/A |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [U-23](http://twitter.com/search?q=U-23) | N/A |
-| 36 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
-| 37 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 38 | [Bukari](http://twitter.com/search?q=Bukari) | N/A |
-| 39 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
-| 40 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 41 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
-| 42 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
-| 43 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
-| 44 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 45 | [Helder Costa](http://twitter.com/search?q=Helder+Costa) | N/A |
-| 46 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 48 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 49 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 6 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
+| 7 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 12 | [Semenyo](http://twitter.com/search?q=Semenyo) | N/A |
+| 13 | [Afena Gyan](http://twitter.com/search?q=Afena+Gyan) | Afena Gyan is an Akan proverb from Ghana which translates to "Knowledge is power". It is a reminder that knowledge is the key to success and should be sought after. |
+| 14 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 15 | [Baba Yara Sports Stadium](http://twitter.com/search?q=Baba+Yara+Sports+Stadium) | N/A |
+| 16 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
+| 17 | [Salis](http://twitter.com/search?q=Salis) | N/A |
+| 18 | [England](http://twitter.com/search?q=England) | N/A |
+| 19 | [Kumasi](http://twitter.com/search?q=Kumasi) | N/A |
+| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 21 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [Kim Grant](http://twitter.com/search?q=Kim+Grant) | N/A |
+| 24 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 25 | [Edmund Addo](http://twitter.com/search?q=Edmund+Addo) | N/A |
+| 26 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
+| 27 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 29 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 30 | [#citicbs](http://twitter.com/search?q=%23citicbs) | N/A |
+| 31 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 32 | [#BringBackTheLove](http://twitter.com/search?q=%23BringBackTheLove) | N/A |
+| 33 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 34 | [#owletforbusiness](http://twitter.com/search?q=%23owletforbusiness) | N/A |
+| 35 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 36 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 37 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 38 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 39 | [U-23](http://twitter.com/search?q=U-23) | N/A |
+| 40 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 41 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 42 | [Bukari](http://twitter.com/search?q=Bukari) | N/A |
+| 43 | [YEMI CREGX OUR PRIDE](http://twitter.com/search?q=YEMI+CREGX+OUR+PRIDE) | N/A |
+| 44 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 45 | [Paintsil](http://twitter.com/search?q=Paintsil) | N/A |
+| 46 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 47 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 49 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
 | 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 
 

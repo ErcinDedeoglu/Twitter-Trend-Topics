@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-23 20:17:32 UTC`
+📆 Last Updated: `2023-03-23 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
 | 3 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
 | 4 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 5 | [#DANGHONGHAI](http://twitter.com/search?q=%23DANGHONGHAI) | N/A |
-| 6 | [Loom](http://twitter.com/search?q=Loom) | N/A |
-| 7 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
+| 5 | [Loom](http://twitter.com/search?q=Loom) | N/A |
+| 6 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
+| 7 | [parfum](http://twitter.com/search?q=parfum) | N/A |
 | 8 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
 | 9 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
 | 10 | [Claim](http://twitter.com/search?q=Claim) | N/A |
@@ -44,9 +44,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 27 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
 | 28 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 30 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 31 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 32 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
+| 30 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 31 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
+| 32 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 33 | [vũng tàu](http://twitter.com/search?q=v%c5%a9ng+t%c3%a0u) | N/A |
 | 34 | [Thai](http://twitter.com/search?q=Thai) | N/A |
 | 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
@@ -54,14 +54,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 37 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 38 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 39 | [West](http://twitter.com/search?q=West) | N/A |
-| 40 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 40 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
 | 41 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
 | 42 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 43 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 44 | [Childe](http://twitter.com/search?q=Childe) | N/A |
 | 45 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
 | 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 47 | [Đông Lào](http://twitter.com/search?q=%c4%90%c3%b4ng+L%c3%a0o) | N/A |
+| 47 | [đông lào](http://twitter.com/search?q=%c4%91%c3%b4ng+l%c3%a0o) | N/A |
 | 48 | [Mong](http://twitter.com/search?q=Mong) | N/A |
 
 

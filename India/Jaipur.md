@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-23 20:17:42 UTC`
+📆 Last Updated: `2023-03-23 21:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 2 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 3 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#UAEAlcoholTax](http://twitter.com/search?q=%23UAEAlcoholTax) | N/A |
-| 6 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
-| 7 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
-| 8 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 9 | [Happy Birthday Emraan Hashmi](http://twitter.com/search?q=Happy+Birthday+Emraan+Hashmi) | N/A |
-| 10 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
-| 11 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 2 | [#पूनिया_में_क्या_बुराई_थी](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be_%e0%a4%ac%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%88_%e0%a4%a5%e0%a5%80) | N/A |
+| 3 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 4 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
+| 9 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
+| 10 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 11 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
 | 12 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 13 | [India With Rahul](http://twitter.com/search?q=India+With+Rahul) | N/A |
-| 14 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 13 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 14 | [Happy Birthday Emraan Hashmi](http://twitter.com/search?q=Happy+Birthday+Emraan+Hashmi) | N/A |
 | 15 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 16 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
-| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 19 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
-| 20 | [Ankit Sharma](http://twitter.com/search?q=Ankit+Sharma) | N/A |
-| 21 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 22 | [नवीन पालीवाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b5%e0%a5%80%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 23 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 24 | [चांद मुबारक](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%82%e0%a4%a6+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 26 | [Modis](http://twitter.com/search?q=Modis) | N/A |
-| 27 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 28 | [Surat](http://twitter.com/search?q=Surat) | N/A |
-| 29 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 30 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 31 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 32 | [सिंधी समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 33 | [#BoycottAdda247](http://twitter.com/search?q=%23BoycottAdda247) | N/A |
-| 34 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
+| 16 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 17 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 18 | [India With Rahul](http://twitter.com/search?q=India+With+Rahul) | N/A |
+| 19 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
+| 20 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
+| 21 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 22 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 23 | [माहे रमज़ान](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8) | N/A |
+| 24 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
+| 25 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 26 | [चांद मुबारक](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%82%e0%a4%a6+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 28 | [Modis](http://twitter.com/search?q=Modis) | N/A |
+| 29 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 30 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
+| 31 | [#BoycottAdda247](http://twitter.com/search?q=%23BoycottAdda247) | N/A |
+| 32 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
+| 33 | [#AsiaCup2023](http://twitter.com/search?q=%23AsiaCup2023) | N/A |
+| 34 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
 | 35 | [#Virushka](http://twitter.com/search?q=%23Virushka) | N/A |
-| 36 | [#AsiaCup2023](http://twitter.com/search?q=%23AsiaCup2023) | N/A |
-| 37 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
+| 36 | [#KeanuReeves](http://twitter.com/search?q=%23KeanuReeves) | N/A |
+| 37 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
 | 38 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
-| 39 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
-| 40 | [#KeanuReeves](http://twitter.com/search?q=%23KeanuReeves) | N/A |
-| 41 | [#Accenture](http://twitter.com/search?q=%23Accenture) | N/A |
-| 42 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
-| 43 | [#AmendPCA](http://twitter.com/search?q=%23AmendPCA) | N/A |
-| 44 | [#RaghavChadha](http://twitter.com/search?q=%23RaghavChadha) | N/A |
-| 45 | [#ParineetiChopra](http://twitter.com/search?q=%23ParineetiChopra) | N/A |
-| 46 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 47 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
-| 48 | [#Hindenburg](http://twitter.com/search?q=%23Hindenburg) | N/A |
-| 49 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
-| 50 | [#PleaseModiJi](http://twitter.com/search?q=%23PleaseModiJi) | N/A |
+| 39 | [#Accenture](http://twitter.com/search?q=%23Accenture) | N/A |
+| 40 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
+| 41 | [#RaghavChadha](http://twitter.com/search?q=%23RaghavChadha) | N/A |
+| 42 | [#AmendPCA](http://twitter.com/search?q=%23AmendPCA) | N/A |
+| 43 | [#ParineetiChopra](http://twitter.com/search?q=%23ParineetiChopra) | N/A |
+| 44 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
+| 45 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
+| 46 | [#PleaseModiJi](http://twitter.com/search?q=%23PleaseModiJi) | N/A |
+| 47 | [#MaheshBabu𓃵](http://twitter.com/search?q=%23MaheshBabu%f0%93%83%b5) | N/A |
+| 48 | [#ThalapathyVijay𓃵](http://twitter.com/search?q=%23ThalapathyVijay%f0%93%83%b5) | N/A |
+| 49 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
+| 50 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
 
 
 

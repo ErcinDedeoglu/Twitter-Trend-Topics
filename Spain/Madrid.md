@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-23 20:17:19 UTC`
+📆 Last Updated: `2023-03-23 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 2 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 3 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#Pasapalabra731](http://twitter.com/search?q=%23Pasapalabra731) | N/A |
-| 6 | [#ElCazador687](http://twitter.com/search?q=%23ElCazador687) | N/A |
-| 7 | [#CrisPorta23M](http://twitter.com/search?q=%23CrisPorta23M) | N/A |
-| 8 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 9 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 11 | [#IFVillanuevaViver](http://twitter.com/search?q=%23IFVillanuevaViver) | N/A |
-| 12 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
-| 13 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 14 | [Estrella Roja](http://twitter.com/search?q=Estrella+Roja) | N/A |
-| 15 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 16 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
-| 17 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 18 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 19 | [Torrelodones](http://twitter.com/search?q=Torrelodones) | N/A |
-| 20 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 21 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
-| 22 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 23 | [Mérida](http://twitter.com/search?q=M%c3%a9rida) | N/A |
-| 24 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
-| 25 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
-| 26 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 27 | [Teide](http://twitter.com/search?q=Teide) | N/A |
-| 28 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 29 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
-| 30 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
-| 31 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
-| 32 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
-| 33 | [Castilla y León](http://twitter.com/search?q=Castilla+y+Le%c3%b3n) | N/A |
-| 34 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 35 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 36 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
-| 37 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 38 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
-| 39 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
-| 40 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
-| 41 | [Junta de Andalucía](http://twitter.com/search?q=Junta+de+Andaluc%c3%ada) | N/A |
-| 42 | [Hades](http://twitter.com/search?q=Hades) | N/A |
-| 43 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 44 | [#yademasedobla](http://twitter.com/search?q=%23yademasedobla) | N/A |
-| 45 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 46 | [#Pecado23Mar](http://twitter.com/search?q=%23Pecado23Mar) | N/A |
-| 47 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 48 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 49 | [#YoMeRebelo23M](http://twitter.com/search?q=%23YoMeRebelo23M) | N/A |
-| 50 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
+| 2 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 3 | [Castilla y León](http://twitter.com/search?q=Castilla+y+Le%c3%b3n) | N/A |
+| 4 | [#firstdates23m](http://twitter.com/search?q=%23firstdates23m) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 7 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 8 | [Efes](http://twitter.com/search?q=Efes) | N/A |
+| 9 | [#Pasapalabra731](http://twitter.com/search?q=%23Pasapalabra731) | N/A |
+| 10 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 11 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 12 | [#ElCazador687](http://twitter.com/search?q=%23ElCazador687) | N/A |
+| 13 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 14 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 15 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [#SVGala4](http://twitter.com/search?q=%23SVGala4) | N/A |
+| 18 | [#IFVillanuevaViver](http://twitter.com/search?q=%23IFVillanuevaViver) | N/A |
+| 19 | [Estrella Roja](http://twitter.com/search?q=Estrella+Roja) | N/A |
+| 20 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 21 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
+| 22 | [Burdeos](http://twitter.com/search?q=Burdeos) | N/A |
+| 23 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 24 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
+| 25 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 26 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 27 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
+| 28 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
+| 29 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
+| 30 | [Torrelodones](http://twitter.com/search?q=Torrelodones) | N/A |
+| 31 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 32 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
+| 33 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 34 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 35 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 36 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 37 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
+| 38 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 39 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 40 | [Mérida](http://twitter.com/search?q=M%c3%a9rida) | N/A |
+| 41 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 42 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 43 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
+| 44 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
+| 45 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
+| 46 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 47 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 48 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
+| 49 | [#CrisPorta23M](http://twitter.com/search?q=%23CrisPorta23M) | N/A |
+| 50 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
 
 
 

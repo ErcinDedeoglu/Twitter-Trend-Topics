@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-23 20:17:17 UTC`
+📆 Last Updated: `2023-03-23 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 2 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 3 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 4 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
-| 5 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 6 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 7 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 8 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 3 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 4 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 5 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 6 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 7 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 8 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
 | 9 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Mameli](http://twitter.com/search?q=Mameli) | N/A |
-| 12 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 13 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 10 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 11 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 12 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 14 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 15 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 16 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
-| 19 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 20 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 22 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 23 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 24 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 25 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 26 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 27 | [England](http://twitter.com/search?q=England) | N/A |
-| 28 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
-| 29 | [Cabrini](http://twitter.com/search?q=Cabrini) | N/A |
-| 30 | [giovanna sannino](http://twitter.com/search?q=giovanna+sannino) | N/A |
-| 31 | [Forza Azzurri](http://twitter.com/search?q=Forza+Azzurri) | N/A |
-| 32 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 33 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 35 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 36 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 37 | [Anbeta](http://twitter.com/search?q=Anbeta) | N/A |
-| 38 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 39 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 40 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 41 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 42 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 43 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 44 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 45 | [AMICI ANTICIPAZIONI](http://twitter.com/search?q=AMICI+ANTICIPAZIONI) | N/A |
-| 46 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 47 | [carmine e filippo](http://twitter.com/search?q=carmine+e+filippo) | N/A |
-| 48 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 49 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 50 | [Mangiatela](http://twitter.com/search?q=Mangiatela) | N/A |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 17 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 18 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 19 | [Mameli](http://twitter.com/search?q=Mameli) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
+| 22 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 23 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 24 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 25 | [Vialli](http://twitter.com/search?q=Vialli) | N/A |
+| 26 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 27 | [Macedonia](http://twitter.com/search?q=Macedonia) | N/A |
+| 28 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 29 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 30 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 31 | [Europei](http://twitter.com/search?q=Europei) | N/A |
+| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 33 | [Romagnoli](http://twitter.com/search?q=Romagnoli) | N/A |
+| 34 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 35 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 36 | [Mondiali](http://twitter.com/search?q=Mondiali) | N/A |
+| 37 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 38 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 39 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 40 | [Francesi](http://twitter.com/search?q=Francesi) | N/A |
+| 41 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 42 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 43 | [#drittoerovescio](http://twitter.com/search?q=%23drittoerovescio) | N/A |
+| 44 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 45 | [#SplendidaCornice](http://twitter.com/search?q=%23SplendidaCornice) | N/A |
+| 46 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 47 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 48 | [#gfvipradio](http://twitter.com/search?q=%23gfvipradio) | N/A |
+| 49 | [#vorreiParlarti](http://twitter.com/search?q=%23vorreiParlarti) | N/A |
+| 50 | [#GravinaOut](http://twitter.com/search?q=%23GravinaOut) | N/A |
 
 
 

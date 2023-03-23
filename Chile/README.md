@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-23 20:17:58 UTC`
+📆 Last Updated: `2023-03-23 21:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Chile
 | 5 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
 | 6 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
 | 7 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 8 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 9 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 8 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 9 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
 | 10 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
-| 11 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 12 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
-| 13 | [#TeEchoDeMenos](http://twitter.com/search?q=%23TeEchoDeMenos) | N/A |
-| 14 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
-| 15 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 16 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 17 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
-| 18 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
-| 19 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 20 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 21 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 22 | [Vistima](http://twitter.com/search?q=Vistima) | N/A |
-| 23 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 24 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 25 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 26 | [Johannes Kaiser](http://twitter.com/search?q=Johannes+Kaiser) | N/A |
-| 27 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 28 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
-| 29 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
+| 11 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 12 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 13 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
+| 14 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 15 | [#TeEchoDeMenos](http://twitter.com/search?q=%23TeEchoDeMenos) | N/A |
+| 16 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 17 | [#Mario](http://twitter.com/search?q=%23Mario) | N/A |
+| 18 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 19 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 20 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
+| 23 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 24 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 25 | [Vistima](http://twitter.com/search?q=Vistima) | N/A |
+| 26 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 27 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 28 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
+| 29 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
 | 30 | [Ale Valle](http://twitter.com/search?q=Ale+Valle) | N/A |
-| 31 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 32 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 33 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 34 | [Marcos Giron](http://twitter.com/search?q=Marcos+Giron) | N/A |
-| 35 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 36 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 37 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 38 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 39 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 40 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
-| 41 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 42 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 43 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 31 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
+| 32 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 33 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
+| 34 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 35 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 37 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 38 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 39 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 40 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 41 | [La Haya](http://twitter.com/search?q=La+Haya) | N/A |
+| 42 | [Chahuan](http://twitter.com/search?q=Chahuan) | N/A |
+| 43 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
 | 44 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
-| 45 | [Renovación Nacional](http://twitter.com/search?q=Renovaci%c3%b3n+Nacional) | N/A |
-| 46 | [Chahuan](http://twitter.com/search?q=Chahuan) | N/A |
-| 47 | [Sabrina Sosa](http://twitter.com/search?q=Sabrina+Sosa) | N/A |
-| 48 | [Ciega](http://twitter.com/search?q=Ciega) | N/A |
-| 49 | [Meiggs](http://twitter.com/search?q=Meiggs) | N/A |
-| 50 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
+| 45 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
+| 46 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 47 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 48 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 49 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 50 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
 
 
 

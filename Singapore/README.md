@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-23 20:18:04 UTC`
+📆 Last Updated: `2023-03-23 21:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for Singapore
 | 23 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
 | 24 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Changkyun](http://twitter.com/search?q=Changkyun) | N/A |
+| 26 | [changkyun](http://twitter.com/search?q=changkyun) | N/A |
 | 27 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
 | 28 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 29 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 29 | [Mcountdown](http://twitter.com/search?q=Mcountdown) | N/A |
 | 30 | [Mike](http://twitter.com/search?q=Mike) | N/A |
 | 31 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 32 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 33 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 34 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
-| 35 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 36 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 37 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 38 | [Gundam](http://twitter.com/search?q=Gundam) | N/A |
-| 39 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 40 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 41 | [Event Page Updated](http://twitter.com/search?q=Event+Page+Updated) | N/A |
-| 42 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 33 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 34 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 35 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 36 | [Southeast Asia](http://twitter.com/search?q=Southeast+Asia) | N/A |
+| 37 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 38 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 39 | [Event Page Updated](http://twitter.com/search?q=Event+Page+Updated) | N/A |
+| 40 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 41 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 42 | [Government](http://twitter.com/search?q=Government) | N/A |
 | 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 44 | [FDIC](http://twitter.com/search?q=FDIC) | N/A |
 | 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 47 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 48 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 49 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 50 | [Asians](http://twitter.com/search?q=Asians) | N/A |
+| 46 | [England](http://twitter.com/search?q=England) | N/A |
+| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 48 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 49 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 50 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-23 20:18:05 UTC`
+📆 Last Updated: `2023-03-23 21:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Turkey
 | 1 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
 | 2 | [#AstsubaylarElele](http://twitter.com/search?q=%23AstsubaylarElele) | N/A |
 | 3 | [#KHKlıyaNetÇözüm](http://twitter.com/search?q=%23KHKl%c4%b1yaNet%c3%87%c3%b6z%c3%bcm) | N/A |
-| 4 | [#KardeşiminYanındayım](http://twitter.com/search?q=%23Karde%c5%9fiminYan%c4%b1nday%c4%b1m) | N/A |
-| 5 | [DenkliğimiziKimVerecek](http://twitter.com/search?q=Denkli%c4%9fimiziKimVerecek) | N/A |
-| 6 | [#camdakikız](http://twitter.com/search?q=%23camdakik%c4%b1z) | N/A |
-| 7 | [PiktesÖğr Kadroya](http://twitter.com/search?q=Piktes%c3%96%c4%9fr+Kadroya) | N/A |
+| 4 | [#camdakikız](http://twitter.com/search?q=%23camdakik%c4%b1z) | N/A |
+| 5 | [#KardeşiminYanındayım](http://twitter.com/search?q=%23Karde%c5%9fiminYan%c4%b1nday%c4%b1m) | N/A |
+| 6 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 7 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
 | 8 | [AşktanKaçılmaz ElSed](http://twitter.com/search?q=A%c5%9fktanKa%c3%a7%c4%b1lmaz+ElSed) | N/A |
-| 9 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
-| 10 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 11 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Bora Aydınlık](http://twitter.com/search?q=Bora+Ayd%c4%b1nl%c4%b1k) | N/A |
-| 14 | [Candan](http://twitter.com/search?q=Candan) | N/A |
-| 15 | [Profiilimize Bakiyolar](http://twitter.com/search?q=Profiilimize+Bakiyolar) | N/A |
-| 16 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
-| 17 | [EsnafSuçlu DeğilBorçlu](http://twitter.com/search?q=EsnafSu%c3%a7lu+De%c4%9filBor%c3%a7lu) | EsnafSuçlu DeğilBorçlu is a Turkish phrase that translates to "The Merchant is Not Guilty, He is in Debt". It is a proverb that suggests that merchants should not be blamed for their debts, but rather they should be given the opportunity to pay them off. |
-| 18 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 19 | [ŞartsızTayin Şart](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+%c5%9eart) | N/A |
-| 20 | [Birkan Sokullu](http://twitter.com/search?q=Birkan+Sokullu) | N/A |
-| 21 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 22 | [Dünyanın Sonu](http://twitter.com/search?q=D%c3%bcnyan%c4%b1n+Sonu) | N/A |
-| 23 | [AşkDeğilHastalık ElSed](http://twitter.com/search?q=A%c5%9fkDe%c4%9filHastal%c4%b1k+ElSed) | N/A |
-| 24 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 25 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
-| 26 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
-| 27 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 28 | [Nursi](http://twitter.com/search?q=Nursi) | N/A |
-| 29 | [Altıncısı](http://twitter.com/search?q=Alt%c4%b1nc%c4%b1s%c4%b1) | N/A |
-| 30 | [Fuat Yıldırım](http://twitter.com/search?q=Fuat+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 31 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
-| 32 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 33 | [Ali Tahir](http://twitter.com/search?q=Ali+Tahir) | N/A |
-| 34 | [Jin-Ho Jo](http://twitter.com/search?q=Jin-Ho+Jo) | N/A |
-| 35 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
-| 36 | [Ebru Şahin](http://twitter.com/search?q=Ebru+%c5%9eahin) | N/A |
-| 37 | [Edilir](http://twitter.com/search?q=Edilir) | N/A |
-| 38 | [Malcom](http://twitter.com/search?q=Malcom) | N/A |
-| 39 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 40 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 41 | [Joao Pedro](http://twitter.com/search?q=Joao+Pedro) | N/A |
-| 42 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
-| 43 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 9 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
+| 10 | [PiktesÖğr Kadroya](http://twitter.com/search?q=Piktes%c3%96%c4%9fr+Kadroya) | N/A |
+| 11 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 12 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
+| 13 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 14 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 17 | [Candan](http://twitter.com/search?q=Candan) | N/A |
+| 18 | [ŞartsızTayin Şart](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+%c5%9eart) | N/A |
+| 19 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
+| 20 | [Imoco](http://twitter.com/search?q=Imoco) | N/A |
+| 21 | [Bora Aydınlık](http://twitter.com/search?q=Bora+Ayd%c4%b1nl%c4%b1k) | N/A |
+| 22 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 23 | [Etimesgut](http://twitter.com/search?q=Etimesgut) | N/A |
+| 24 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 25 | [Nursi](http://twitter.com/search?q=Nursi) | N/A |
+| 26 | [Birkan Sokullu](http://twitter.com/search?q=Birkan+Sokullu) | N/A |
+| 27 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
+| 28 | [AşkDeğilHastalık ElSed](http://twitter.com/search?q=A%c5%9fkDe%c4%9filHastal%c4%b1k+ElSed) | N/A |
+| 29 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 30 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
+| 31 | [Bahçeliye](http://twitter.com/search?q=Bah%c3%a7eliye) | N/A |
+| 32 | [Bahçelinin](http://twitter.com/search?q=Bah%c3%a7elinin) | N/A |
+| 33 | [Altıncısı](http://twitter.com/search?q=Alt%c4%b1nc%c4%b1s%c4%b1) | N/A |
+| 34 | [23te](http://twitter.com/search?q=23te) | N/A |
+| 35 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 36 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
+| 37 | [Fuat Yıldırım](http://twitter.com/search?q=Fuat+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 38 | [Ali Tahir](http://twitter.com/search?q=Ali+Tahir) | N/A |
+| 39 | [Nalan](http://twitter.com/search?q=Nalan) | N/A |
+| 40 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
+| 41 | [Jin-Ho Jo](http://twitter.com/search?q=Jin-Ho+Jo) | N/A |
+| 42 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 43 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
 | 44 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
-| 45 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
-| 46 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 47 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
-| 48 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 49 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
-| 50 | [Ayhan Bilgen](http://twitter.com/search?q=Ayhan+Bilgen) | N/A |
+| 45 | [Ebru Şahin](http://twitter.com/search?q=Ebru+%c5%9eahin) | N/A |
+| 46 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 47 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
+| 48 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 49 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 50 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
 
 
 

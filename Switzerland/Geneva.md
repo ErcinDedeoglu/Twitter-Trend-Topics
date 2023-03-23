@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-23 20:17:20 UTC`
+📆 Last Updated: `2023-03-23 21:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 4 | [#sh2023](http://twitter.com/search?q=%23sh2023) | N/A |
-| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 6 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 5 | [#sh2023](http://twitter.com/search?q=%23sh2023) | N/A |
+| 6 | [Salt](http://twitter.com/search?q=Salt) | N/A |
 | 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 8 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 9 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 10 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 9 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 10 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
 | 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 12 | [Uran](http://twitter.com/search?q=Uran) | N/A |
 | 13 | [Amin](http://twitter.com/search?q=Amin) | N/A |
@@ -36,9 +36,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
 | 20 | [Dach](http://twitter.com/search?q=Dach) | N/A |
 | 21 | [Historiker](http://twitter.com/search?q=Historiker) | N/A |
-| 22 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 23 | [Wahrscheinlichkeit](http://twitter.com/search?q=Wahrscheinlichkeit) | N/A |
-| 24 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 22 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 23 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 24 | [Wahrscheinlichkeit](http://twitter.com/search?q=Wahrscheinlichkeit) | N/A |
 | 25 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 27 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
@@ -46,23 +46,23 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 29 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
 | 30 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 31 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
-| 32 | [WWII](http://twitter.com/search?q=WWII) | N/A |
-| 33 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 34 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 35 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 36 | [London](http://twitter.com/search?q=London) | N/A |
-| 37 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 39 | [J'aimerais](http://twitter.com/search?q=J%27aimerais) | N/A |
-| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 41 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 32 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 33 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 34 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 35 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 36 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 37 | [J'aimerais](http://twitter.com/search?q=J%27aimerais) | N/A |
+| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 39 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 40 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 41 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
 | 42 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
-| 43 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 44 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 45 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 43 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 44 | [Anlagen](http://twitter.com/search?q=Anlagen) | N/A |
+| 45 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
 | 46 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 47 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 48 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 47 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 48 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 
 
 

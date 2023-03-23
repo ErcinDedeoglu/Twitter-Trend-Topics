@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-23 20:17:17 UTC`
+📆 Last Updated: `2023-03-23 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 7 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 8 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
-| 9 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 10 | [Gero](http://twitter.com/search?q=Gero) | N/A |
-| 11 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 12 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 13 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
-| 14 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 15 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 17 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 18 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 19 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 20 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 21 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 22 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 23 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 24 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 25 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 26 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 27 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 28 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
-| 29 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 30 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 31 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 32 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
-| 33 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 36 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 37 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 38 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 39 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
-| 40 | [Kleiderordnung](http://twitter.com/search?q=Kleiderordnung) | N/A |
-| 41 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
-| 42 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
-| 43 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
-| 44 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
-| 45 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
-| 46 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
-| 47 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
-| 48 | [Bademantel](http://twitter.com/search?q=Bademantel) | N/A |
-| 49 | [Finanzielle Bildung](http://twitter.com/search?q=Finanzielle+Bildung) | N/A |
+| 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
+| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 4 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
+| 9 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 10 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 11 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
+| 12 | [Gero](http://twitter.com/search?q=Gero) | N/A |
+| 13 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 14 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 15 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 16 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 17 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 18 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 19 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 20 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
+| 21 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 22 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 23 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 24 | [Unterwäsche](http://twitter.com/search?q=Unterw%c3%a4sche) | N/A |
+| 25 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 26 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 27 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 28 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 29 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 30 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 31 | [Rechnerisch](http://twitter.com/search?q=Rechnerisch) | N/A |
+| 32 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 33 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 34 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 35 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 36 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 37 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
+| 38 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 39 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 40 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
+| 41 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 42 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
+| 43 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 44 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 45 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 46 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 47 | [Mahlzeiten](http://twitter.com/search?q=Mahlzeiten) | N/A |
+| 48 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 49 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
 
 
 

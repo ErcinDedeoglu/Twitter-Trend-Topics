@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-23 20:17:55 UTC`
+📆 Last Updated: `2023-03-23 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 2 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 3 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 4 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 5 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 8 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 10 | [BECKY G](http://twitter.com/search?q=BECKY+G) | N/A |
+| 3 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 4 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 7 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 8 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 9 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 11 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
-| 12 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 13 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 14 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
-| 15 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 16 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 17 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 18 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
-| 19 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
-| 20 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 21 | [Breece](http://twitter.com/search?q=Breece) | N/A |
-| 22 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 23 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 24 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 25 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 26 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 27 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 28 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 29 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 30 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 31 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
-| 32 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 33 | [Bryce Young](http://twitter.com/search?q=Bryce+Young) | Bryce Young is a name of a person. It is derived from the Old English words "bryce" meaning "proud" and "young" meaning "youthful". The name can be used for both males and females. |
-| 34 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 35 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
-| 36 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
-| 37 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 14 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 15 | [Jason Whitlock](http://twitter.com/search?q=Jason+Whitlock) | Jason Whitlock is an American sports journalist and television personality. He is best known for his work as a columnist for ESPN and Fox Sports. He is also the host of the podcast "Speak For Yourself" on Fox Sports 1. The phrase "Jason Whitlock" is used to refer to his work as a sports journalist and commentator. |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 18 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
+| 19 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
+| 20 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 21 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 22 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 23 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
+| 24 | [Breece](http://twitter.com/search?q=Breece) | N/A |
+| 25 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 26 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 27 | [England](http://twitter.com/search?q=England) | N/A |
+| 28 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 29 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 30 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 31 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 32 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 33 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 34 | [Big Shark](http://twitter.com/search?q=Big+Shark) | N/A |
+| 35 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 36 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 37 | [Hitchcock](http://twitter.com/search?q=Hitchcock) | N/A |
 | 38 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 39 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 40 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
-| 41 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 42 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
-| 43 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 44 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
-| 45 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
-| 46 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 47 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 48 | [England](http://twitter.com/search?q=England) | N/A |
-| 49 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 39 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 40 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 41 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 42 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 43 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
+| 44 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 45 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 46 | [Mr. Chew](http://twitter.com/search?q=Mr.+Chew) | N/A |
+| 47 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 48 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 49 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
 
 
 

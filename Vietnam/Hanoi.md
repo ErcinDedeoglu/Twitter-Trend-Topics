@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-23 20:17:32 UTC`
+📆 Last Updated: `2023-03-23 21:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
 | 3 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
 | 4 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 5 | [#DANGHONGHAI](http://twitter.com/search?q=%23DANGHONGHAI) | N/A |
-| 6 | [Loom](http://twitter.com/search?q=Loom) | N/A |
-| 7 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
-| 8 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
+| 5 | [Loom](http://twitter.com/search?q=Loom) | N/A |
+| 6 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
+| 7 | [#ชาล็อตอุ้มxโสมควีน](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%b8%e0%b9%89%e0%b8%a1x%e0%b9%82%e0%b8%aa%e0%b8%a1%e0%b8%84%e0%b8%a7%e0%b8%b5%e0%b8%99) | N/A |
+| 8 | [parfum](http://twitter.com/search?q=parfum) | N/A |
 | 9 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
 | 10 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
 | 11 | [Claim](http://twitter.com/search?q=Claim) | N/A |
@@ -45,9 +45,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 28 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
 | 29 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 32 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 33 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
+| 31 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 32 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
+| 33 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 34 | [vũng tàu](http://twitter.com/search?q=v%c5%a9ng+t%c3%a0u) | N/A |
 | 35 | [Thai](http://twitter.com/search?q=Thai) | N/A |
 | 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
@@ -55,14 +55,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 39 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 40 | [West](http://twitter.com/search?q=West) | N/A |
-| 41 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 41 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
 | 42 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
 | 43 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 44 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 45 | [Childe](http://twitter.com/search?q=Childe) | N/A |
 | 46 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
 | 47 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 48 | [Đông Lào](http://twitter.com/search?q=%c4%90%c3%b4ng+L%c3%a0o) | N/A |
+| 48 | [đông lào](http://twitter.com/search?q=%c4%91%c3%b4ng+l%c3%a0o) | N/A |
 | 49 | [Mong](http://twitter.com/search?q=Mong) | N/A |
 | 50 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
 

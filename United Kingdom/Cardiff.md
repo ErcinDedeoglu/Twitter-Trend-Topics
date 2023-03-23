@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-23 20:16:59 UTC`
+📆 Last Updated: `2023-03-23 21:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 2 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 3 | [#England](http://twitter.com/search?q=%23England) | N/A |
-| 4 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 5 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 8 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 9 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 10 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 11 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
-| 12 | [God Save the King](http://twitter.com/search?q=God+Save+the+King) | N/A |
-| 13 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 14 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 15 | [The Italian](http://twitter.com/search?q=The+Italian) | N/A |
-| 16 | [Italians](http://twitter.com/search?q=Italians) | N/A |
-| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 18 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
-| 19 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 20 | [James Richardson](http://twitter.com/search?q=James+Richardson) | N/A |
-| 21 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 22 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 23 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
-| 24 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 25 | [Seb Coe](http://twitter.com/search?q=Seb+Coe) | N/A |
-| 26 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 27 | [Caster Semenya](http://twitter.com/search?q=Caster+Semenya) | N/A |
-| 28 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 29 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
-| 30 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 31 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 32 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
-| 33 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 34 | [Welsh Fire](http://twitter.com/search?q=Welsh+Fire) | N/A |
-| 35 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 36 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 37 | [PH Urbane](http://twitter.com/search?q=PH+Urbane) | N/A |
-| 38 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
-| 39 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 40 | [Marmite](http://twitter.com/search?q=Marmite) | N/A |
-| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 42 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 43 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 44 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 45 | [Missy](http://twitter.com/search?q=Missy) | Missy is a term of endearment used to refer to a young woman or girl. It is derived from the word "miss" and is often used as a nickname for someone who is seen as cute, endearing, or attractive. |
-| 46 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 47 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
-| 48 | [Tilly](http://twitter.com/search?q=Tilly) | N/A |
+| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 3 | [England](http://twitter.com/search?q=England) | N/A |
+| 4 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 5 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 6 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
+| 7 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 8 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 9 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 11 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
+| 15 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 16 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 17 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 18 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 19 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 20 | [Steven Gerrard](http://twitter.com/search?q=Steven+Gerrard) | N/A |
+| 21 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 22 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 23 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 24 | [God Save the King](http://twitter.com/search?q=God+Save+the+King) | N/A |
+| 25 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 26 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
+| 27 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 28 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 29 | [Adidas kit](http://twitter.com/search?q=Adidas+kit) | N/A |
+| 30 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 31 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 32 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 33 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 34 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 35 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 36 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 37 | [John Stones](http://twitter.com/search?q=John+Stones) | John Stones is a professional English footballer who plays as a centre-back for Premier League club Manchester City and the England national team. He is known for his ability to read the game, passing accuracy, and composure on the ball. |
+| 38 | [James Richardson](http://twitter.com/search?q=James+Richardson) | N/A |
+| 39 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 40 | [Homes Under The Hammer](http://twitter.com/search?q=Homes+Under+The+Hammer) | N/A |
+| 41 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 42 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 43 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 44 | [Caster Semenya](http://twitter.com/search?q=Caster+Semenya) | N/A |
+| 45 | [Seb Coe](http://twitter.com/search?q=Seb+Coe) | N/A |
+| 46 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 47 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
+| 48 | [Fly Girl](http://twitter.com/search?q=Fly+Girl) | N/A |
 
 
 
