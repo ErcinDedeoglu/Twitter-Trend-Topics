@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-23 06:17:52 UTC`
+📆 Last Updated: `2023-03-23 07:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
 | 4 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 5 | [#melbourneweather](http://twitter.com/search?q=%23melbourneweather) | N/A |
-| 6 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 7 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 6 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 7 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
 | 8 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 9 | [#ISHCA23](http://twitter.com/search?q=%23ISHCA23) | N/A |
+| 9 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
 | 10 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 11 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
-| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 13 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 14 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 15 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 16 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
-| 17 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 18 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
-| 19 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 20 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 21 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 23 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 24 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 13 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 14 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 15 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 16 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 17 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 18 | [Hobart](http://twitter.com/search?q=Hobart) | N/A |
+| 19 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 20 | [First Peoples of Australia](http://twitter.com/search?q=First+Peoples+of+Australia) | N/A |
+| 21 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 22 | [Christian Lives Matter](http://twitter.com/search?q=Christian+Lives+Matter) | N/A |
+| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 24 | [Greens](http://twitter.com/search?q=Greens) | N/A |
 | 25 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
-| 26 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 27 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 28 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
-| 29 | [Jervis Bay](http://twitter.com/search?q=Jervis+Bay) | N/A |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
-| 32 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 33 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 26 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 27 | [Ghost in the Shell](http://twitter.com/search?q=Ghost+in+the+Shell) | N/A |
+| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 29 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 30 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 31 | [Jervis Bay](http://twitter.com/search?q=Jervis+Bay) | N/A |
+| 32 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 33 | [Babet](http://twitter.com/search?q=Babet) | N/A |
 | 34 | [narty](http://twitter.com/search?q=narty) | N/A |
-| 35 | [Babet](http://twitter.com/search?q=Babet) | N/A |
-| 36 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 37 | [Crawling](http://twitter.com/search?q=Crawling) | N/A |
-| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 35 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
+| 36 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 37 | [Albo](http://twitter.com/search?q=Albo) | N/A |
+| 38 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
 | 39 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 40 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 41 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
+| 40 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 41 | [Bob Brown](http://twitter.com/search?q=Bob+Brown) | N/A |
 | 42 | [Lebanese](http://twitter.com/search?q=Lebanese) | N/A |
-| 43 | [Bob Brown](http://twitter.com/search?q=Bob+Brown) | N/A |
-| 44 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
-| 45 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 46 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 47 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
-| 48 | [Ken Henry](http://twitter.com/search?q=Ken+Henry) | N/A |
-| 49 | [TERDs](http://twitter.com/search?q=TERDs) | N/A |
+| 43 | [ATSIC](http://twitter.com/search?q=ATSIC) | N/A |
+| 44 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
+| 45 | [Health Minister](http://twitter.com/search?q=Health+Minister) | N/A |
+| 46 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
+| 47 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 48 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 49 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
 
 
 

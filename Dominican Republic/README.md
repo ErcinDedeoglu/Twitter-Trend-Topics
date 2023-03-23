@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-23 06:18:21 UTC`
+📆 Last Updated: `2023-03-23 07:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,34 +16,55 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
-| 2 | [Luis Segura](http://twitter.com/search?q=Luis+Segura) | N/A |
-| 3 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
-| 4 | [Alicia Ortega](http://twitter.com/search?q=Alicia+Ortega) | N/A |
-| 5 | [Wason](http://twitter.com/search?q=Wason) | N/A |
-| 6 | [#tijerasoberana2023](http://twitter.com/search?q=%23tijerasoberana2023) | N/A |
-| 7 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 8 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 9 | [Kiskeya Life](http://twitter.com/search?q=Kiskeya+Life) | N/A |
-| 10 | [Vicente García](http://twitter.com/search?q=Vicente+Garc%c3%ada) | N/A |
-| 11 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 12 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
-| 13 | [Luz García](http://twitter.com/search?q=Luz+Garc%c3%ada) | N/A |
-| 14 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 15 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 16 | [Johnny Ventura](http://twitter.com/search?q=Johnny+Ventura) | N/A |
-| 17 | [Sergio Vargas](http://twitter.com/search?q=Sergio+Vargas) | N/A |
-| 18 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
-| 19 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 20 | [Jochy](http://twitter.com/search?q=Jochy) | N/A |
-| 21 | [Yiyo](http://twitter.com/search?q=Yiyo) | N/A |
-| 22 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
-| 23 | [Alofoke](http://twitter.com/search?q=Alofoke) | N/A |
-| 24 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 25 | [Dotol](http://twitter.com/search?q=Dotol) | N/A |
-| 26 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 27 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 28 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 29 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 2 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
+| 3 | [Luis Segura](http://twitter.com/search?q=Luis+Segura) | N/A |
+| 4 | [#TijeraSoberana](http://twitter.com/search?q=%23TijeraSoberana) | N/A |
+| 5 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 6 | [Wason](http://twitter.com/search?q=Wason) | N/A |
+| 7 | [#ladroneltraidor](http://twitter.com/search?q=%23ladroneltraidor) | N/A |
+| 8 | [#ladronelmiente](http://twitter.com/search?q=%23ladronelmiente) | N/A |
+| 9 | [Alicia](http://twitter.com/search?q=Alicia) | N/A |
+| 10 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
+| 11 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 12 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
+| 13 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 14 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 15 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
+| 16 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
+| 17 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 18 | [Vicente](http://twitter.com/search?q=Vicente) | N/A |
+| 19 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 20 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 21 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
+| 22 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 23 | [Luz García](http://twitter.com/search?q=Luz+Garc%c3%ada) | N/A |
+| 24 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 25 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 26 | [Yiyo](http://twitter.com/search?q=Yiyo) | N/A |
+| 27 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 28 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
+| 29 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 30 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
+| 31 | [Sergio Vargas](http://twitter.com/search?q=Sergio+Vargas) | N/A |
+| 32 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
+| 33 | [Jochy](http://twitter.com/search?q=Jochy) | N/A |
+| 34 | [Dotol](http://twitter.com/search?q=Dotol) | N/A |
+| 35 | [Shohei Ohtani](http://twitter.com/search?q=Shohei+Ohtani) | N/A |
+| 36 | [Zoila Luna](http://twitter.com/search?q=Zoila+Luna) | N/A |
+| 37 | [Johnny Ventura](http://twitter.com/search?q=Johnny+Ventura) | N/A |
+| 38 | [El Canario](http://twitter.com/search?q=El+Canario) | N/A |
+| 39 | [Brea](http://twitter.com/search?q=Brea) | N/A |
+| 40 | [Gerald Ogando](http://twitter.com/search?q=Gerald+Ogando) | N/A |
+| 41 | [Kiskeya Life](http://twitter.com/search?q=Kiskeya+Life) | N/A |
+| 42 | [Caroline Aquino](http://twitter.com/search?q=Caroline+Aquino) | N/A |
+| 43 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 44 | [Jandy](http://twitter.com/search?q=Jandy) | N/A |
+| 45 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 46 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 47 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 48 | [Techy](http://twitter.com/search?q=Techy) | N/A |
+| 49 | [Milagros](http://twitter.com/search?q=Milagros) | N/A |
+| 50 | [Elvis Martinez](http://twitter.com/search?q=Elvis+Martinez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-23 06:18:16 UTC`
+📆 Last Updated: `2023-03-23 07:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 4 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 5 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 6 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 7 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 3 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 4 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 5 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 6 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 7 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
 | 8 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 9 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 13 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 11 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 12 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 14 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 | 15 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 16 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 17 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 18 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 19 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 20 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 21 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 22 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 16 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 17 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 18 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 19 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 20 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 21 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 22 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
 | 23 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 24 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 25 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 26 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
-| 27 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
-| 28 | [Wenyen Gabriel](http://twitter.com/search?q=Wenyen+Gabriel) | N/A |
-| 29 | [Damn Unc](http://twitter.com/search?q=Damn+Unc) | N/A |
+| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 25 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 26 | [Scott Van Pelt](http://twitter.com/search?q=Scott+Van+Pelt) | Scott Van Pelt is an American sportscaster and television host. He is best known for hosting the late-night edition of SportsCenter on ESPN. He also hosts a daily radio show on ESPN Radio and is a contributor to ESPN's golf coverage. |
+| 27 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 28 | [Damn Unc](http://twitter.com/search?q=Damn+Unc) | N/A |
+| 29 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
 | 30 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 31 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 32 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 33 | [Shamet](http://twitter.com/search?q=Shamet) | N/A |
+| 31 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 32 | [Shamet](http://twitter.com/search?q=Shamet) | N/A |
+| 33 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
 | 34 | [Terran 1](http://twitter.com/search?q=Terran+1) | N/A |
-| 35 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 36 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
-| 37 | [Monty Williams](http://twitter.com/search?q=Monty+Williams) | N/A |
-| 38 | [Joanna Newsom](http://twitter.com/search?q=Joanna+Newsom) | N/A |
-| 39 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 40 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 41 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 42 | [Arizona Supreme Court](http://twitter.com/search?q=Arizona+Supreme+Court) | N/A |
-| 43 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
-| 44 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 45 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 46 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
-| 47 | [D Book](http://twitter.com/search?q=D+Book) | N/A |
-| 48 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 49 | [AZ Supreme Court](http://twitter.com/search?q=AZ+Supreme+Court) | N/A |
-| 50 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 35 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 36 | [Monty Williams](http://twitter.com/search?q=Monty+Williams) | N/A |
+| 37 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 38 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 39 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 40 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
+| 41 | [Joanna Newsom](http://twitter.com/search?q=Joanna+Newsom) | N/A |
+| 42 | [Sports Teams](http://twitter.com/search?q=Sports+Teams) | N/A |
+| 43 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
+| 44 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 45 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 46 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 47 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 48 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 49 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 50 | [Arizona Supreme Court](http://twitter.com/search?q=Arizona+Supreme+Court) | N/A |
 
 
 

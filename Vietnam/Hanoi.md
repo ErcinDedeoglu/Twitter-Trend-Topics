@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-23 06:17:59 UTC`
+📆 Last Updated: `2023-03-23 07:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
 | 9 | [always holding build hand](http://twitter.com/search?q=always+holding+build+hand) | N/A |
 | 10 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 11 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 12 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 11 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 13 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 15 | [happy pawat](http://twitter.com/search?q=happy+pawat) | N/A |
-| 16 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
-| 17 | [Childe](http://twitter.com/search?q=Childe) | N/A |
-| 18 | [West](http://twitter.com/search?q=West) | N/A |
-| 19 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 14 | [happy pawat](http://twitter.com/search?q=happy+pawat) | N/A |
+| 15 | [100 Days Tiger Trainer Jin](http://twitter.com/search?q=100+Days+Tiger+Trainer+Jin) | N/A |
+| 16 | [Childe](http://twitter.com/search?q=Childe) | N/A |
+| 17 | [West](http://twitter.com/search?q=West) | N/A |
+| 18 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 20 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 21 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 23 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 22 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 23 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
 | 24 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
 | 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 26 | [nha trang](http://twitter.com/search?q=nha+trang) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 29 | [hông](http://twitter.com/search?q=h%c3%b4ng) | N/A |
-| 30 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 31 | [Bank](http://twitter.com/search?q=Bank) | N/A |
-| 32 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 33 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 27 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 28 | [hông](http://twitter.com/search?q=h%c3%b4ng) | N/A |
+| 29 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 30 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 31 | [Vũng Tàu](http://twitter.com/search?q=V%c5%a9ng+T%c3%a0u) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [MEXC](http://twitter.com/search?q=MEXC) | N/A |
 | 34 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 35 | [Vũng Tàu](http://twitter.com/search?q=V%c5%a9ng+T%c3%a0u) | N/A |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [MEXC](http://twitter.com/search?q=MEXC) | N/A |
-| 38 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
-| 39 | [SPACE ID Voyage Season 2](http://twitter.com/search?q=SPACE+ID+Voyage+Season+2) | N/A |
-| 40 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 41 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
-| 42 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 43 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
-| 44 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 35 | [bình dương](http://twitter.com/search?q=b%c3%acnh+d%c6%b0%c6%a1ng) | N/A |
+| 36 | [SPACE ID Voyage Season 2](http://twitter.com/search?q=SPACE+ID+Voyage+Season+2) | N/A |
+| 37 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 38 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
+| 39 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 40 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 41 | [Claim](http://twitter.com/search?q=Claim) | N/A |
+| 42 | [Knetz](http://twitter.com/search?q=Knetz) | N/A |
+| 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 44 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
 | 45 | [Trung](http://twitter.com/search?q=Trung) | N/A |
 | 46 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
 | 47 | [Voyage Season 1](http://twitter.com/search?q=Voyage+Season+1) | N/A |
-| 48 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 49 | [America](http://twitter.com/search?q=America) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 48 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
+| 49 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 50 | [America](http://twitter.com/search?q=America) | N/A |
 
 
 

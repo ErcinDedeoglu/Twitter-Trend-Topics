@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-23 06:17:31 UTC`
+📆 Last Updated: `2023-03-23 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 2 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 3 | [#raptors](http://twitter.com/search?q=%23raptors) | N/A |
-| 4 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 5 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 6 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 7 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 8 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 9 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 10 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 11 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 12 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 13 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 14 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 16 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 19 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 20 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 21 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 23 | [Independent](http://twitter.com/search?q=Independent) | N/A |
-| 24 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 25 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 26 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 27 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 28 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 29 | [Liberal MP](http://twitter.com/search?q=Liberal+MP) | N/A |
-| 30 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 31 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 32 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 33 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 34 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 35 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
-| 36 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 37 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 38 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 39 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 40 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 1 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 4 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 5 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 6 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 7 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 9 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 10 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [PLAY LA BAMBA BABY](http://twitter.com/search?q=PLAY+LA+BAMBA+BABY) | N/A |
+| 13 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 14 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 15 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 16 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 18 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 19 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 20 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 21 | [Shake Shack](http://twitter.com/search?q=Shake+Shack) | N/A |
+| 22 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 23 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 24 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 25 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 26 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 27 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 28 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
+| 29 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 30 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 31 | [Forbidden Door](http://twitter.com/search?q=Forbidden+Door) | N/A |
+| 32 | [Fanatics](http://twitter.com/search?q=Fanatics) | N/A |
+| 33 | [McJesus](http://twitter.com/search?q=McJesus) | N/A |
+| 34 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 35 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 36 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 37 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
+| 38 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
+| 39 | [Somali](http://twitter.com/search?q=Somali) | N/A |
+| 40 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 41 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 42 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
+| 43 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 44 | [6ix9ine](http://twitter.com/search?q=6ix9ine) | N/A |
+| 45 | [Elijah Moore](http://twitter.com/search?q=Elijah+Moore) | N/A |
+| 46 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 47 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 48 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 49 | [Ahmed](http://twitter.com/search?q=Ahmed) | N/A |
+| 50 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
 
 
 

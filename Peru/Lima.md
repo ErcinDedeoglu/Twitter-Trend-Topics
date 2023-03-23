@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-23 06:17:40 UTC`
+📆 Last Updated: `2023-03-23 07:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,15 +20,15 @@ This is top 50 for [Peru](</Peru>)
 | 3 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
 | 4 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
 | 5 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
-| 6 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 7 | [Paolo Hurtado](http://twitter.com/search?q=Paolo+Hurtado) | N/A |
+| 6 | [Paolo Hurtado](http://twitter.com/search?q=Paolo+Hurtado) | N/A |
+| 7 | [freddie](http://twitter.com/search?q=freddie) | N/A |
 | 8 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 9 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
 | 10 | [Jossmery Toledo](http://twitter.com/search?q=Jossmery+Toledo) | N/A |
 | 11 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
 | 12 | [Rosalino Flores](http://twitter.com/search?q=Rosalino+Flores) | N/A |
 | 13 | [Don Gil](http://twitter.com/search?q=Don+Gil) | Don Gil is a Spanish phrase meaning "Mr. Gil". It is often used as a nickname for someone named Gil, or as a term of endearment for someone close to the speaker. |
-| 14 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 14 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
 | 15 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 16 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 17 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for [Peru](</Peru>)
 | 24 | [ester 7](http://twitter.com/search?q=ester+7) | N/A |
 | 25 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
 | 26 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
-| 27 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 28 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 27 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
+| 28 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 29 | [Pella](http://twitter.com/search?q=Pella) | N/A |
 | 30 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
 | 31 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
 | 32 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 33 | [Con 66](http://twitter.com/search?q=Con+66) | N/A |
+| 33 | [con 66](http://twitter.com/search?q=con+66) | N/A |
 | 34 | [Loreto](http://twitter.com/search?q=Loreto) | N/A |
-| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [Tabaco](http://twitter.com/search?q=Tabaco) | N/A |
-| 37 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 38 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
-| 39 | [Backus](http://twitter.com/search?q=Backus) | N/A |
-| 40 | [Christian Domínguez](http://twitter.com/search?q=Christian+Dom%c3%adnguez) | N/A |
-| 41 | [Epson](http://twitter.com/search?q=Epson) | N/A |
-| 42 | [Gonzales](http://twitter.com/search?q=Gonzales) | N/A |
-| 43 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
-| 44 | [Susel](http://twitter.com/search?q=Susel) | N/A |
-| 45 | [Interbank](http://twitter.com/search?q=Interbank) | N/A |
-| 46 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 47 | [río Rímac](http://twitter.com/search?q=r%c3%ado+R%c3%admac) | N/A |
-| 48 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 49 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 50 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
+| 35 | [Tabaco](http://twitter.com/search?q=Tabaco) | N/A |
+| 36 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 37 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
+| 38 | [Christian Domínguez](http://twitter.com/search?q=Christian+Dom%c3%adnguez) | N/A |
+| 39 | [Epson](http://twitter.com/search?q=Epson) | N/A |
+| 40 | [Gonzales](http://twitter.com/search?q=Gonzales) | N/A |
+| 41 | [Tabackus](http://twitter.com/search?q=Tabackus) | N/A |
+| 42 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
+| 43 | [Susel](http://twitter.com/search?q=Susel) | N/A |
+| 44 | [Interbank](http://twitter.com/search?q=Interbank) | N/A |
+| 45 | [río Rímac](http://twitter.com/search?q=r%c3%ado+R%c3%admac) | N/A |
+| 46 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
+| 47 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 48 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
+| 49 | [Comizzo](http://twitter.com/search?q=Comizzo) | N/A |
+| 50 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
 
 
 

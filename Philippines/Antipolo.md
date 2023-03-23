@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-23 06:17:58 UTC`
+📆 Last Updated: `2023-03-23 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
 | 3 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
 | 4 | [#JOSHCULLENOnVirginRadioDXB](http://twitter.com/search?q=%23JOSHCULLENOnVirginRadioDXB) | N/A |
-| 5 | [donny binisita si belle](http://twitter.com/search?q=donny+binisita+si+belle) | N/A |
-| 6 | [#maybisitasibelle](http://twitter.com/search?q=%23maybisitasibelle) | N/A |
-| 7 | [kdlex petamazing onapril](http://twitter.com/search?q=kdlex+petamazing+onapril) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 10 | [BOBBY ON MBC RADIO](http://twitter.com/search?q=BOBBY+ON+MBC+RADIO) | N/A |
+| 5 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 6 | [donny binisita si belle](http://twitter.com/search?q=donny+binisita+si+belle) | N/A |
+| 7 | [#maybisitasibelle](http://twitter.com/search?q=%23maybisitasibelle) | N/A |
+| 8 | [kdlex petamazing onapril](http://twitter.com/search?q=kdlex+petamazing+onapril) | N/A |
+| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
 | 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [kaia angela concept teaser](http://twitter.com/search?q=kaia+angela+concept+teaser) | N/A |
 | 13 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 14 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 15 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 16 | [kaia angela concept teaser](http://twitter.com/search?q=kaia+angela+concept+teaser) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 19 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 20 | [TIME OUT](http://twitter.com/search?q=TIME+OUT) | N/A |
-| 21 | [MY PACE](http://twitter.com/search?q=MY+PACE) | N/A |
-| 22 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 24 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 25 | [SOUinLove with JOSH L](http://twitter.com/search?q=SOUinLove+with+JOSH+L) | N/A |
-| 26 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 27 | [PICC](http://twitter.com/search?q=PICC) | PICC stands for Peripherally Inserted Central Catheter. It is a type of medical device used to provide access to the bloodstream for long-term treatments such as chemotherapy, antibiotics, and nutrition. It is inserted through a vein in the arm or leg and threaded through to the larger veins near the heart. |
-| 28 | [setmefree second win](http://twitter.com/search?q=setmefree+second+win) | N/A |
-| 29 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 30 | [illuminate the eclipse](http://twitter.com/search?q=illuminate+the+eclipse) | N/A |
-| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 32 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 33 | [happy christian new year](http://twitter.com/search?q=happy+christian+new+year) | N/A |
-| 34 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 36 | [STREAM BOBBY DROWNING](http://twitter.com/search?q=STREAM+BOBBY+DROWNING) | N/A |
-| 37 | [Pharmally](http://twitter.com/search?q=Pharmally) | N/A |
-| 38 | [Penshoppe](http://twitter.com/search?q=Penshoppe) | N/A |
-| 39 | [Pasay City](http://twitter.com/search?q=Pasay+City) | N/A |
-| 40 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 41 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 42 | [ICON VS OWNER](http://twitter.com/search?q=ICON+VS+OWNER) | N/A |
-| 43 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
-| 44 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 45 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 46 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 47 | [Obsession](http://twitter.com/search?q=Obsession) | N/A |
-| 48 | [Stay Edition](http://twitter.com/search?q=Stay+Edition) | N/A |
-| 49 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 50 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 14 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 15 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
+| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 17 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
+| 18 | [MY PACE](http://twitter.com/search?q=MY+PACE) | N/A |
+| 19 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
+| 20 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 21 | [Pharmally](http://twitter.com/search?q=Pharmally) | N/A |
+| 22 | [TIME OUT](http://twitter.com/search?q=TIME+OUT) | N/A |
+| 23 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 24 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 25 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
+| 26 | [setmefree second win](http://twitter.com/search?q=setmefree+second+win) | N/A |
+| 27 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 28 | [illuminate the eclipse](http://twitter.com/search?q=illuminate+the+eclipse) | N/A |
+| 29 | [happy christian new year](http://twitter.com/search?q=happy+christian+new+year) | N/A |
+| 30 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 31 | [STREAM BOBBY DROWNING](http://twitter.com/search?q=STREAM+BOBBY+DROWNING) | N/A |
+| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 33 | [SOUinLove with JOSH L](http://twitter.com/search?q=SOUinLove+with+JOSH+L) | N/A |
+| 34 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 35 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 37 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 38 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 39 | [ICON VS OWNER](http://twitter.com/search?q=ICON+VS+OWNER) | N/A |
+| 40 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
+| 41 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 42 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 43 | [PICC](http://twitter.com/search?q=PICC) | PICC stands for Peripherally Inserted Central Catheter. It is a type of medical device used to provide access to the bloodstream for long-term treatments such as chemotherapy, antibiotics, and nutrition. It is inserted through a vein in the arm or leg and threaded through to the larger veins near the heart. |
+| 44 | [BOBBY ON MBC RADIO](http://twitter.com/search?q=BOBBY+ON+MBC+RADIO) | N/A |
+| 45 | [Obsession](http://twitter.com/search?q=Obsession) | N/A |
+| 46 | [Stay Edition](http://twitter.com/search?q=Stay+Edition) | N/A |
+| 47 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 48 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 49 | [VXON COMEBACK TITLE REVEAL](http://twitter.com/search?q=VXON+COMEBACK+TITLE+REVEAL) | N/A |
+| 50 | [FOURever WITH DREI](http://twitter.com/search?q=FOURever+WITH+DREI) | N/A |
 
 
 

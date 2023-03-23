@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-23 06:17:45 UTC`
+📆 Last Updated: `2023-03-23 07:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 3 | [#Greve23Mars](http://twitter.com/search?q=%23Greve23Mars) | N/A |
-| 4 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 5 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 10 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 11 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 12 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 13 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 14 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 15 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 16 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 17 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 18 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 19 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
-| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 21 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 22 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 23 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 25 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
-| 26 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 27 | [jt de 13h](http://twitter.com/search?q=jt+de+13h) | N/A |
-| 28 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
-| 29 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 2 | [#Greve23Mars](http://twitter.com/search?q=%23Greve23Mars) | N/A |
+| 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 4 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 5 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 6 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 8 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 9 | [Trèbes](http://twitter.com/search?q=Tr%c3%a8bes) | N/A |
+| 10 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 11 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 12 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 13 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 14 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 15 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 16 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
+| 17 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 18 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 19 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 20 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 21 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 22 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 23 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
+| 24 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 25 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
+| 26 | [jt de 13h](http://twitter.com/search?q=jt+de+13h) | N/A |
+| 27 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
+| 28 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 29 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
 | 30 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 31 | [Qu'Allah](http://twitter.com/search?q=Qu%27Allah) | N/A |
-| 32 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
-| 33 | [Brevin](http://twitter.com/search?q=Brevin) | N/A |
-| 34 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 35 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 36 | [didier roustan](http://twitter.com/search?q=didier+roustan) | N/A |
+| 31 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
+| 32 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
+| 33 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 34 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 35 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 36 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
 | 37 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 38 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 39 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 40 | [Karmine](http://twitter.com/search?q=Karmine) | N/A |
-| 41 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 42 | [Pesquet](http://twitter.com/search?q=Pesquet) | N/A |
-| 43 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 44 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 45 | [juliette binoche](http://twitter.com/search?q=juliette+binoche) | N/A |
-| 46 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 47 | [albane](http://twitter.com/search?q=albane) | N/A |
-| 48 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 49 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 50 | [stmg](http://twitter.com/search?q=stmg) | N/A |
+| 38 | [Brevin](http://twitter.com/search?q=Brevin) | N/A |
+| 39 | [Karmine](http://twitter.com/search?q=Karmine) | N/A |
+| 40 | [Pesquet](http://twitter.com/search?q=Pesquet) | N/A |
+| 41 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 42 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 43 | [juliette binoche](http://twitter.com/search?q=juliette+binoche) | N/A |
+| 44 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 45 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 46 | [albane](http://twitter.com/search?q=albane) | N/A |
+| 47 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
+| 48 | [stmg](http://twitter.com/search?q=stmg) | N/A |
+| 49 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
+| 50 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 
 
 

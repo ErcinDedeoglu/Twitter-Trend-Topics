@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-23 06:18:00 UTC`
+📆 Last Updated: `2023-03-23 07:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 2 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 3 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 4 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
-| 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 6 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 7 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
-| 8 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
-| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 10 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 3 | [Alex Otti](http://twitter.com/search?q=Alex+Otti) | N/A |
+| 4 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 6 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
+| 7 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 8 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
+| 9 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 10 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
 | 11 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 12 | [#AHCA2023](http://twitter.com/search?q=%23AHCA2023) | N/A |
-| 13 | [Bag of Garri](http://twitter.com/search?q=Bag+of+Garri) | N/A |
+| 12 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 13 | [#qingmadi](http://twitter.com/search?q=%23qingmadi) | N/A |
 | 14 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 15 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 15 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
 | 16 | [Timeless](http://twitter.com/search?q=Timeless) | N/A |
-| 17 | [#qingmadi](http://twitter.com/search?q=%23qingmadi) | N/A |
-| 18 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 19 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
-| 20 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
-| 21 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 22 | [#Thefinaltouchdone](http://twitter.com/search?q=%23Thefinaltouchdone) | N/A |
-| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
-| 25 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 26 | [Congratulations Obidients](http://twitter.com/search?q=Congratulations+Obidients) | N/A |
-| 27 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 28 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 29 | [Our Lord](http://twitter.com/search?q=Our+Lord) | N/A |
-| 30 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 31 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 32 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 33 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 34 | [Cyberstalking](http://twitter.com/search?q=Cyberstalking) | N/A |
-| 35 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 36 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
-| 37 | [Futo](http://twitter.com/search?q=Futo) | N/A |
-| 38 | [Babcock](http://twitter.com/search?q=Babcock) | N/A |
-| 39 | [Happy Birthday Ma](http://twitter.com/search?q=Happy+Birthday+Ma) | N/A |
-| 40 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 41 | [Ikpeazu](http://twitter.com/search?q=Ikpeazu) | N/A |
-| 42 | [obi and lp](http://twitter.com/search?q=obi+and+lp) | N/A |
-| 43 | [Sahoor](http://twitter.com/search?q=Sahoor) | N/A |
-| 44 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 45 | [GRID PHYNA](http://twitter.com/search?q=GRID+PHYNA) | N/A |
-| 46 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
-| 47 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 48 | [1 GOVERNOR](http://twitter.com/search?q=1+GOVERNOR) | N/A |
-| 49 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 50 | [team burna](http://twitter.com/search?q=team+burna) | N/A |
+| 17 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
+| 18 | [#Thefinaltouchdone](http://twitter.com/search?q=%23Thefinaltouchdone) | N/A |
+| 19 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 20 | [8 SENATORS](http://twitter.com/search?q=8+SENATORS) | N/A |
+| 21 | [Knock Knock](http://twitter.com/search?q=Knock+Knock) | N/A |
+| 22 | [Helper](http://twitter.com/search?q=Helper) | N/A |
+| 23 | [Congratulations Obidients](http://twitter.com/search?q=Congratulations+Obidients) | N/A |
+| 24 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 25 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 26 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 27 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 28 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 29 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 30 | [Stew](http://twitter.com/search?q=Stew) | N/A |
+| 31 | [Happy Birthday Ma](http://twitter.com/search?q=Happy+Birthday+Ma) | N/A |
+| 32 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 33 | [1 GOVERNOR](http://twitter.com/search?q=1+GOVERNOR) | N/A |
+| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 35 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 36 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 37 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
+| 38 | [Cyberstalking](http://twitter.com/search?q=Cyberstalking) | N/A |
+| 39 | [68 STATE OF ASSEMBLY MEMBERS](http://twitter.com/search?q=68+STATE+OF+ASSEMBLY+MEMBERS) | N/A |
+| 40 | [Soweto](http://twitter.com/search?q=Soweto) | N/A |
+| 41 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 42 | [Ikpeazu](http://twitter.com/search?q=Ikpeazu) | N/A |
+| 43 | [Futo](http://twitter.com/search?q=Futo) | N/A |
+| 44 | [obi and lp](http://twitter.com/search?q=obi+and+lp) | N/A |
+| 45 | [Sahoor](http://twitter.com/search?q=Sahoor) | N/A |
+| 46 | [Babcock](http://twitter.com/search?q=Babcock) | N/A |
+| 47 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 48 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 49 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 
 
 
