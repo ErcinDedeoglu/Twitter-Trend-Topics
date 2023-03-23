@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-23 03:17:10 UTC`
+📆 Last Updated: `2023-03-23 04:25:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 2 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 3 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 6 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 7 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 8 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 9 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 10 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 11 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 13 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 14 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 15 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 16 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 17 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
-| 18 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 19 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 20 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 21 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 22 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 23 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 24 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 25 | [Arthur Sales](http://twitter.com/search?q=Arthur+Sales) | N/A |
-| 26 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 27 | [pepe moreno](http://twitter.com/search?q=pepe+moreno) | N/A |
-| 28 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 29 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
-| 30 | [NOJENTA](http://twitter.com/search?q=NOJENTA) | N/A |
-| 31 | [Copa do Nordeste](http://twitter.com/search?q=Copa+do+Nordeste) | N/A |
-| 32 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
-| 33 | [Gabriel Santos](http://twitter.com/search?q=Gabriel+Santos) | N/A |
-| 34 | [Love The Way You Lie](http://twitter.com/search?q=Love+The+Way+You+Lie) | N/A |
-| 35 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 36 | [Prass](http://twitter.com/search?q=Prass) | N/A |
+| 2 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 4 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 5 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 6 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 7 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 8 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 9 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 10 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 11 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 12 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 13 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 14 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 17 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 18 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 19 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 20 | [pepe moreno](http://twitter.com/search?q=pepe+moreno) | N/A |
+| 21 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 22 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
+| 23 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 24 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
+| 25 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 26 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 27 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 28 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
+| 29 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 30 | [Copa do Nordeste](http://twitter.com/search?q=Copa+do+Nordeste) | N/A |
+| 31 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 32 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
+| 33 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
+| 34 | [Arthur Sales](http://twitter.com/search?q=Arthur+Sales) | N/A |
+| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 36 | [Brendinha](http://twitter.com/search?q=Brendinha) | N/A |
 | 37 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
-| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 39 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 40 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 41 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
-| 42 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
-| 43 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
-| 44 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 45 | [Villani](http://twitter.com/search?q=Villani) | N/A |
-| 46 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
-| 47 | [Jael](http://twitter.com/search?q=Jael) | N/A |
-| 48 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
-| 49 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
-| 50 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 38 | [rita lee](http://twitter.com/search?q=rita+lee) | N/A |
+| 39 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
+| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 41 | [Prass](http://twitter.com/search?q=Prass) | N/A |
+| 42 | [ABC x Náutico](http://twitter.com/search?q=ABC+x+N%c3%a1utico) | N/A |
+| 43 | [Sport x CRB](http://twitter.com/search?q=Sport+x+CRB) | N/A |
+| 44 | [Jael](http://twitter.com/search?q=Jael) | N/A |
+| 45 | [Love The Way You Lie](http://twitter.com/search?q=Love+The+Way+You+Lie) | N/A |
+| 46 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 47 | [Ceará x Sergipe](http://twitter.com/search?q=Cear%c3%a1+x+Sergipe) | N/A |
+| 48 | [NOJENTA](http://twitter.com/search?q=NOJENTA) | N/A |
+| 49 | [Se a Key](http://twitter.com/search?q=Se+a+Key) | N/A |
+| 50 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
 
 
 

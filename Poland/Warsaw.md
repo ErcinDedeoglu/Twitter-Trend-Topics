@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-23 03:17:14 UTC`
+📆 Last Updated: `2023-03-23 04:25:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 2 | [#nowaaferabielana](http://twitter.com/search?q=%23nowaaferabielana) | N/A |
-| 3 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 4 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 5 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 2 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 3 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
+| 4 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 5 | [T-34](http://twitter.com/search?q=T-34) | N/A |
 | 6 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
 | 7 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
 | 8 | [#drogobopis](http://twitter.com/search?q=%23drogobopis) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Poland](</Poland>)
 | 11 | [puszcza karpacka](http://twitter.com/search?q=puszcza+karpacka) | N/A |
 | 12 | [T-54](http://twitter.com/search?q=T-54) | N/A |
 | 13 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 14 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 15 | [downa](http://twitter.com/search?q=downa) | N/A |
-| 16 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 17 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 18 | [głupio](http://twitter.com/search?q=g%c5%82upio) | N/A |
-| 19 | [puszczy karpackiej](http://twitter.com/search?q=puszczy+karpackiej) | N/A |
-| 20 | [japonia](http://twitter.com/search?q=japonia) | N/A |
-| 21 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 22 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 23 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 24 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 25 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 26 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 14 | [downa](http://twitter.com/search?q=downa) | N/A |
+| 15 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 16 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 17 | [głupio](http://twitter.com/search?q=g%c5%82upio) | N/A |
+| 18 | [puszczy karpackiej](http://twitter.com/search?q=puszczy+karpackiej) | N/A |
+| 19 | [japonia](http://twitter.com/search?q=japonia) | N/A |
+| 20 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 21 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 22 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 23 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 24 | [czechami](http://twitter.com/search?q=czechami) | N/A |
+| 25 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 27 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
-| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 29 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 30 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
-| 31 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 32 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 33 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 34 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 35 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 36 | [lasów państwowych](http://twitter.com/search?q=las%c3%b3w+pa%c5%84stwowych) | N/A |
-| 37 | [zawierciu](http://twitter.com/search?q=zawierciu) | N/A |
-| 38 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
-| 39 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 40 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 41 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
-| 42 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
-| 43 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 44 | [bilewicz](http://twitter.com/search?q=bilewicz) | N/A |
-| 45 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
-| 46 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
-| 47 | [tacik](http://twitter.com/search?q=tacik) | N/A |
-| 48 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 49 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
-| 50 | [angielski](http://twitter.com/search?q=angielski) | N/A |
+| 28 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 29 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
+| 30 | [klarenbacha](http://twitter.com/search?q=klarenbacha) | N/A |
+| 31 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 32 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 33 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 34 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 35 | [lasów państwowych](http://twitter.com/search?q=las%c3%b3w+pa%c5%84stwowych) | N/A |
+| 36 | [zawierciu](http://twitter.com/search?q=zawierciu) | N/A |
+| 37 | [yanosik](http://twitter.com/search?q=yanosik) | N/A |
+| 38 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 39 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 40 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
+| 41 | [iem dallas](http://twitter.com/search?q=iem+dallas) | N/A |
+| 42 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 43 | [bilewicz](http://twitter.com/search?q=bilewicz) | N/A |
+| 44 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 45 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
+| 46 | [tacik](http://twitter.com/search?q=tacik) | N/A |
+| 47 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 48 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
+| 49 | [angielski](http://twitter.com/search?q=angielski) | N/A |
+| 50 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 
 
 

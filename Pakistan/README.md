@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-23 03:18:10 UTC`
+📆 Last Updated: `2023-03-23 04:26:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,38 +30,40 @@ This is top 50 for Pakistan
 | 13 | [Shaitan](http://twitter.com/search?q=Shaitan) | N/A |
 | 14 | [Dahi Purchasing Officer](http://twitter.com/search?q=Dahi+Purchasing+Officer) | N/A |
 | 15 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
-| 16 | [Zalmay Khalilzad](http://twitter.com/search?q=Zalmay+Khalilzad) | N/A |
-| 17 | [south waziristan](http://twitter.com/search?q=south+waziristan) | N/A |
+| 16 | [zalmay khalilzad](http://twitter.com/search?q=zalmay+khalilzad) | N/A |
+| 17 | [South Waziristan](http://twitter.com/search?q=South+Waziristan) | N/A |
 | 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 19 | [Taraweeh](http://twitter.com/search?q=Taraweeh) | N/A |
-| 20 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 21 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
-| 22 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 23 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 24 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 25 | [May He](http://twitter.com/search?q=May+He) | N/A |
-| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 27 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 28 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 29 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 30 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
-| 31 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 32 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 33 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
-| 34 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 20 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
+| 21 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 22 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 23 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
+| 24 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 25 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 26 | [Heyyy](http://twitter.com/search?q=Heyyy) | N/A |
+| 27 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 29 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 30 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
+| 31 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 32 | [Boot](http://twitter.com/search?q=Boot) | N/A |
+| 33 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 35 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
-| 36 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 37 | [Heyyy](http://twitter.com/search?q=Heyyy) | N/A |
-| 38 | [#قوم_کا_فیصلہ_عمران_خان](http://twitter.com/search?q=%23%d9%82%d9%88%d9%85_%da%a9%d8%a7_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 39 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 40 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 41 | [#Democracy_Derailed](http://twitter.com/search?q=%23Democracy_Derailed) | N/A |
-| 42 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
-| 43 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 44 | [#زلزلہ](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d9%84%db%81) | N/A |
-| 45 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 46 | [#23rdMarch](http://twitter.com/search?q=%2323rdMarch) | N/A |
-| 47 | [#مررہی_عوام_بےضمیرحکمران](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b1%db%81%db%8c_%d8%b9%d9%88%d8%a7%d9%85_%d8%a8%db%92%d8%b6%d9%85%db%8c%d8%b1%d8%ad%da%a9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 36 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 37 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 38 | [Salam](http://twitter.com/search?q=Salam) | N/A |
+| 39 | [Madam](http://twitter.com/search?q=Madam) | N/A |
+| 40 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 41 | [Allah Pak](http://twitter.com/search?q=Allah+Pak) | N/A |
+| 42 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [#قوم_کا_فیصلہ_عمران_خان](http://twitter.com/search?q=%23%d9%82%d9%88%d9%85_%da%a9%d8%a7_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 45 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 46 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 47 | [#Democracy_Derailed](http://twitter.com/search?q=%23Democracy_Derailed) | N/A |
+| 48 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 49 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
 
 
 

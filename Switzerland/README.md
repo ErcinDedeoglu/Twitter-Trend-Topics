@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-23 03:18:13 UTC`
+📆 Last Updated: `2023-03-23 04:26:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,7 +54,7 @@ This is top 50 for Switzerland
 | 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 38 | [Firma](http://twitter.com/search?q=Firma) | N/A |
 | 39 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 40 | [UELI](http://twitter.com/search?q=UELI) | N/A |
+| 40 | [ueli](http://twitter.com/search?q=ueli) | N/A |
 | 41 | [schweden](http://twitter.com/search?q=schweden) | N/A |
 | 42 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 43 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |

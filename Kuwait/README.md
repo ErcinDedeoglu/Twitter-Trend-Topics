@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-23 03:18:08 UTC`
+📆 Last Updated: `2023-03-23 04:26:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Kuwait
 | 14 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 15 | [يابو صلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
 | 16 | [مشعل الاحمد الصباح](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 17 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 18 | [يابو بدر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a8%d8%af%d8%b1) | N/A |
-| 19 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 20 | [العايدين الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
-| 21 | [احمد مطيع](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%85%d8%b7%d9%8a%d8%b9) | N/A |
-| 22 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
-| 23 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 24 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 25 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 26 | [الغيوم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 17 | [يابو بدر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a8%d8%af%d8%b1) | N/A |
+| 18 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 19 | [العايدين الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | N/A |
+| 20 | [احمد مطيع](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%85%d8%b7%d9%8a%d8%b9) | N/A |
+| 21 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 22 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 23 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 24 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 25 | [الغيوم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 26 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
 | 27 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
 | 28 | [يابو ثامر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ab%d8%a7%d9%85%d8%b1) | N/A |
-| 29 | [رات عين](http://twitter.com/search?q=%d8%b1%d8%a7%d8%aa+%d8%b9%d9%8a%d9%86) | N/A |
-| 30 | [يابو نايف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d9%8a%d9%81) | N/A |
-| 31 | [يابو سالم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 32 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 29 | [يابو نايف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d9%8a%d9%81) | N/A |
+| 30 | [يابو سالم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 31 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 32 | [رات عين](http://twitter.com/search?q=%d8%b1%d8%a7%d8%aa+%d8%b9%d9%8a%d9%86) | N/A |
 | 33 | [باغي الخير](http://twitter.com/search?q=%d8%a8%d8%a7%d8%ba%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 34 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
-| 35 | [مجلس الامه الحالي](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
-| 36 | [بو حمود](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ad%d9%85%d9%88%d8%af) | N/A |
-| 37 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
+| 34 | [مجلس الامه الحالي](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
+| 35 | [بو حمود](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ad%d9%85%d9%88%d8%af) | N/A |
+| 36 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
+| 37 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
 | 38 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
 | 39 | [العمليه الانتخابيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
 | 40 | [الامين الشيخ](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 41 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 42 | [بو منصور](http://twitter.com/search?q=%d8%a8%d9%88+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 41 | [بو منصور](http://twitter.com/search?q=%d8%a8%d9%88+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 42 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
 | 43 | [علي البلاغ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%ba) | N/A |
 | 44 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
 | 45 | [الدعوات اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
 | 46 | [يابو هادي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
 | 47 | [بو مساعد](http://twitter.com/search?q=%d8%a8%d9%88+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
 | 48 | [النايب الفاضل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d8%a8+%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%84) | N/A |
-| 49 | [امير البلاد](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af) | N/A |
-| 50 | [نواف الاحمد](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 49 | [نواف الاحمد](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 50 | [يابو فارس](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d8%a7%d8%b1%d8%b3) | N/A |
 
 
 

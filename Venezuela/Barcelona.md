@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-23 03:17:09 UTC`
+📆 Last Updated: `2023-03-23 04:25:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
 | 5 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
 | 6 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 7 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 8 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 7 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 8 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
 | 9 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 10 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
-| 11 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 12 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 13 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 14 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 15 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 16 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 10 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 11 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 12 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 13 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 14 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 15 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 16 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
 | 17 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
 | 18 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
 | 19 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
 | 20 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 21 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 22 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 21 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 22 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 23 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 24 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 25 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 26 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
+| 24 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 25 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
+| 26 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
 | 27 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 28 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 29 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 30 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
-| 31 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 32 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 33 | [BZRP](http://twitter.com/search?q=BZRP) | BZRP stands for "Battle Zone Role Play," which is an online role-playing game. Players create characters and take part in a virtual world where they can battle each other and complete missions. |
-| 34 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 35 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
-| 36 | [Simios](http://twitter.com/search?q=Simios) | N/A |
-| 37 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 38 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 39 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 40 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 41 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
-| 42 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 43 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
-| 44 | [Eyla Adrián](http://twitter.com/search?q=Eyla+Adri%c3%a1n) | N/A |
-| 45 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
-| 46 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 47 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 48 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 49 | [Higos](http://twitter.com/search?q=Higos) | N/A |
+| 28 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 29 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 30 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 31 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
+| 32 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 33 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
+| 34 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 35 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 36 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
+| 37 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 38 | [Diosdado](http://twitter.com/search?q=Diosdado) | N/A |
+| 39 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 40 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
+| 41 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 42 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
+| 43 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 44 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
+| 45 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
+| 46 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
+| 47 | [Eyla Adrian](http://twitter.com/search?q=Eyla+Adrian) | N/A |
+| 48 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 49 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-23 03:18:04 UTC`
+📆 Last Updated: `2023-03-23 04:26:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 1 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [#ClassicBruggeDePanne](http://twitter.com/search?q=%23ClassicBruggeDePanne) | N/A |
+| 4 | [#classicbruggedepanne](http://twitter.com/search?q=%23classicbruggedepanne) | N/A |
 | 5 | [#22mars](http://twitter.com/search?q=%2322mars) | N/A |
-| 6 | [#ISICEM23](http://twitter.com/search?q=%23ISICEM23) | N/A |
+| 6 | [#isicem23](http://twitter.com/search?q=%23isicem23) | N/A |
 | 7 | [orry](http://twitter.com/search?q=orry) | N/A |
 | 8 | [Moge Allah](http://twitter.com/search?q=Moge+Allah) | N/A |
 | 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 10 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
-| 11 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 10 | [zaventem](http://twitter.com/search?q=zaventem) | N/A |
+| 11 | [philipsen](http://twitter.com/search?q=philipsen) | N/A |
 | 12 | [Koran](http://twitter.com/search?q=Koran) | N/A |
 | 13 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 14 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
@@ -46,12 +46,12 @@ This is top 50 for Belgium
 | 29 | [gezin van 7](http://twitter.com/search?q=gezin+van+7) | N/A |
 | 30 | [oeganda](http://twitter.com/search?q=oeganda) | N/A |
 | 31 | [somers](http://twitter.com/search?q=somers) | N/A |
-| 32 | [Conference](http://twitter.com/search?q=Conference) | N/A |
-| 33 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
-| 34 | [Zuid-Afrika](http://twitter.com/search?q=Zuid-Afrika) | N/A |
-| 35 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
-| 36 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
-| 37 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
+| 32 | [Jaaa](http://twitter.com/search?q=Jaaa) | N/A |
+| 33 | [Conference](http://twitter.com/search?q=Conference) | N/A |
+| 34 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 35 | [zuid-afrika](http://twitter.com/search?q=zuid-afrika) | N/A |
+| 36 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
+| 37 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
 | 38 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
 | 39 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 40 | [MEPS](http://twitter.com/search?q=MEPS) | N/A |

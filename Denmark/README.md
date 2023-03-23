@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-23 03:18:05 UTC`
+📆 Last Updated: `2023-03-23 04:26:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,12 +31,12 @@ This is top 50 for Denmark
 | 14 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
 | 15 | [ståle](http://twitter.com/search?q=st%c3%a5le) | N/A |
 | 16 | [#ligestilling](http://twitter.com/search?q=%23ligestilling) | N/A |
-| 17 | [østersøen](http://twitter.com/search?q=%c3%b8sters%c3%b8en) | N/A |
-| 18 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 19 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
-| 20 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 17 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 18 | [østersøen](http://twitter.com/search?q=%c3%b8sters%c3%b8en) | N/A |
+| 19 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 20 | [vanopslagh](http://twitter.com/search?q=vanopslagh) | N/A |
 | 21 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 22 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 22 | [staten](http://twitter.com/search?q=staten) | N/A |
 | 23 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 24 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 25 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Denmark
 | 33 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 34 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 35 | [Very Nice](http://twitter.com/search?q=Very+Nice) | N/A |
-| 36 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
-| 37 | [pointen](http://twitter.com/search?q=pointen) | N/A |
-| 38 | [European](http://twitter.com/search?q=European) | N/A |
-| 39 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 40 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
-| 41 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
-| 42 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 43 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 46 | [faktisk](http://twitter.com/search?q=faktisk) | N/A |
-| 47 | [vesterbro](http://twitter.com/search?q=vesterbro) | N/A |
-| 48 | [Island](http://twitter.com/search?q=Island) | N/A |
-| 49 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 50 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
+| 36 | [pointen](http://twitter.com/search?q=pointen) | N/A |
+| 37 | [European](http://twitter.com/search?q=European) | N/A |
+| 38 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 39 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
+| 40 | [tyrkiet](http://twitter.com/search?q=tyrkiet) | N/A |
+| 41 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 42 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 45 | [faktisk](http://twitter.com/search?q=faktisk) | N/A |
+| 46 | [vesterbro](http://twitter.com/search?q=vesterbro) | N/A |
+| 47 | [Island](http://twitter.com/search?q=Island) | N/A |
+| 48 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 49 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
+| 50 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 
 
 

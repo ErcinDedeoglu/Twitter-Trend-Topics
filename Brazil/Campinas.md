@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-23 03:17:11 UTC`
+📆 Last Updated: `2023-03-23 04:25:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 2 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 3 | [Milton Leite](http://twitter.com/search?q=Milton+Leite) | N/A |
-| 4 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 5 | [Rony Rústico](http://twitter.com/search?q=Rony+R%c3%bastico) | N/A |
-| 6 | [Piracicaba](http://twitter.com/search?q=Piracicaba) | N/A |
-| 7 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 8 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 9 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 10 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 11 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 12 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 13 | [Larissa e Fred](http://twitter.com/search?q=Larissa+e+Fred) | Larissa e Fred is a Brazilian romantic comedy film released in 2018. The title translates to "Larissa and Fred" in English, and the movie follows the story of two people who fall in love despite their differences. |
-| 14 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 15 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 16 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
-| 17 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 18 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 19 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 20 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 21 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 22 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 23 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 24 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 25 | [Selic](http://twitter.com/search?q=Selic) | N/A |
-| 26 | [FGTS](http://twitter.com/search?q=FGTS) | FGTS stands for Fundo de Garantia do Tempo de Serviço, which is a Brazilian government program that provides social security benefits to workers. In English, it translates to the Guarantee Fund for Time of Service. |
-| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 28 | [Essa Marília](http://twitter.com/search?q=Essa+Mar%c3%adlia) | N/A |
-| 29 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
-| 30 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
-| 31 | [Tietê](http://twitter.com/search?q=Tiet%c3%aa) | N/A |
-| 32 | [#VoltaLarissa](http://twitter.com/search?q=%23VoltaLarissa) | N/A |
-| 33 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 34 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 35 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 36 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 37 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 38 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 39 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 40 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 41 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 42 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 43 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 44 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 45 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 46 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 47 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 48 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 1 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 2 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
+| 3 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
+| 4 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 5 | [Piracicaba](http://twitter.com/search?q=Piracicaba) | N/A |
+| 6 | [Alessandra Negrini](http://twitter.com/search?q=Alessandra+Negrini) | N/A |
+| 7 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 8 | [Senna](http://twitter.com/search?q=Senna) | N/A |
+| 9 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 10 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 11 | [Larissa e Fred](http://twitter.com/search?q=Larissa+e+Fred) | Larissa e Fred is a Brazilian romantic comedy film released in 2018. The title translates to "Larissa and Fred" in English, and the movie follows the story of two people who fall in love despite their differences. |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 14 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 15 | [Buiar](http://twitter.com/search?q=Buiar) | N/A |
+| 16 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 17 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 18 | [Reis](http://twitter.com/search?q=Reis) | N/A |
+| 19 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 20 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 21 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 22 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [Essa Marília](http://twitter.com/search?q=Essa+Mar%c3%adlia) | N/A |
+| 25 | [Ouro Branco](http://twitter.com/search?q=Ouro+Branco) | N/A |
+| 26 | [Tietê](http://twitter.com/search?q=Tiet%c3%aa) | N/A |
+| 27 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 28 | [#VoltaLarissa](http://twitter.com/search?q=%23VoltaLarissa) | N/A |
+| 29 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 31 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 32 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 33 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 34 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 35 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 36 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 37 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 38 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 39 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 40 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 42 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 43 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 44 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 45 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 46 | [pepe moreno](http://twitter.com/search?q=pepe+moreno) | N/A |
+| 47 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
+| 48 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
 | 49 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
 | 50 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
 

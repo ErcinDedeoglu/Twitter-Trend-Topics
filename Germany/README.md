@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-23 03:18:06 UTC`
+📆 Last Updated: `2023-03-23 04:26:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Germany
 | 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 10 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 11 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 12 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 12 | [Uranmunition](http://twitter.com/search?q=Uranmunition) | N/A |
 | 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
 | 14 | [vertrauen in die regierung](http://twitter.com/search?q=vertrauen+in+die+regierung) | N/A |
-| 15 | [Nebeneinkünfte](http://twitter.com/search?q=Nebeneink%c3%bcnfte) | N/A |
-| 16 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
-| 17 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 19 | [peter urban](http://twitter.com/search?q=peter+urban) | N/A |
-| 20 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 15 | [nebeneinkünfte](http://twitter.com/search?q=nebeneink%c3%bcnfte) | N/A |
+| 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 18 | [peter urban](http://twitter.com/search?q=peter+urban) | N/A |
+| 19 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 22 | [Wahlwerbung für die Grünen](http://twitter.com/search?q=Wahlwerbung+f%c3%bcr+die+Gr%c3%bcnen) | N/A |
 | 23 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 24 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
 | 25 | [Wir von der Credit Suisse](http://twitter.com/search?q=Wir+von+der+Credit+Suisse) | N/A |
-| 26 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
-| 27 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 28 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 29 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
-| 30 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 26 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 27 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 28 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 29 | [Dienst nach Vorschrift](http://twitter.com/search?q=Dienst+nach+Vorschrift) | N/A |
+| 30 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 31 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
 | 32 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 33 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 34 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 35 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
-| 36 | [feinde der demokratie](http://twitter.com/search?q=feinde+der+demokratie) | N/A |
-| 37 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 38 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 39 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 33 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 34 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 35 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 36 | ['farbtupfer'](http://twitter.com/search?q=%27farbtupfer%27) | N/A |
+| 37 | [feinde der demokratie](http://twitter.com/search?q=feinde+der+demokratie) | N/A |
+| 38 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 39 | [T-54](http://twitter.com/search?q=T-54) | N/A |
 | 40 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
 | 41 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 42 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 43 | [migrantengewalt](http://twitter.com/search?q=migrantengewalt) | N/A |
-| 44 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 45 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 46 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 42 | [migrantengewalt](http://twitter.com/search?q=migrantengewalt) | N/A |
+| 43 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
+| 44 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 45 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 46 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
 | 47 | [Sekundenkleber](http://twitter.com/search?q=Sekundenkleber) | N/A |
 | 48 | [antisemitismus](http://twitter.com/search?q=antisemitismus) | N/A |
-| 49 | [Amtseid](http://twitter.com/search?q=Amtseid) | N/A |
-| 50 | [Ausbau des Bundeskanzleramts](http://twitter.com/search?q=Ausbau+des+Bundeskanzleramts) | N/A |
+| 49 | [ausbau des bundeskanzleramts](http://twitter.com/search?q=ausbau+des+bundeskanzleramts) | N/A |
+| 50 | [Creative 2.0](http://twitter.com/search?q=Creative+2.0) | N/A |
 
 
 

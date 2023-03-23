@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-23 03:17:23 UTC`
+📆 Last Updated: `2023-03-23 04:25:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -52,7 +52,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 36 | [Firma](http://twitter.com/search?q=Firma) | N/A |
 | 37 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 38 | [UELI](http://twitter.com/search?q=UELI) | N/A |
+| 38 | [ueli](http://twitter.com/search?q=ueli) | N/A |
 | 39 | [schweden](http://twitter.com/search?q=schweden) | N/A |
 | 40 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 41 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 43 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
 | 44 | [Gier](http://twitter.com/search?q=Gier) | N/A |
 | 45 | [scheitern](http://twitter.com/search?q=scheitern) | N/A |
-| 46 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 47 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 48 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 46 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 47 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 48 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-23 03:17:24 UTC`
+📆 Last Updated: `2023-03-23 04:25:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,19 +21,19 @@ This is top 50 for [Latvia](</Latvia>)
 | 4 | [deglava](http://twitter.com/search?q=deglava) | N/A |
 | 5 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 6 | [zviedrijas](http://twitter.com/search?q=zviedrijas) | N/A |
-| 7 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
-| 8 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 9 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 10 | [īrijā](http://twitter.com/search?q=%c4%abrij%c4%81) | N/A |
-| 11 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
-| 12 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 13 | [ķīnai](http://twitter.com/search?q=%c4%b7%c4%abnai) | N/A |
-| 14 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
-| 15 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
-| 16 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 17 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 18 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 19 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
+| 7 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 8 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 9 | [īrijā](http://twitter.com/search?q=%c4%abrij%c4%81) | N/A |
+| 10 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
+| 11 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 12 | [ķīnai](http://twitter.com/search?q=%c4%b7%c4%abnai) | N/A |
+| 13 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
+| 14 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
+| 15 | [tavu](http://twitter.com/search?q=tavu) | N/A |
+| 16 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
+| 17 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 18 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
+| 19 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
 | 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 21 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
 | 22 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 28 | [starp](http://twitter.com/search?q=starp) | N/A |
 | 29 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
 | 30 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 31 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 31 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 33 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
 | 34 | [valsts](http://twitter.com/search?q=valsts) | N/A |

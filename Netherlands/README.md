@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-23 03:18:10 UTC`
+📆 Last Updated: `2023-03-23 04:26:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Netherlands
 | 4 | [Samson](http://twitter.com/search?q=Samson) | N/A |
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 6 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 7 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 8 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
 | 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 10 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 | 11 | [Renske](http://twitter.com/search?q=Renske) | N/A |
@@ -30,10 +30,10 @@ This is top 50 for Netherlands
 | 13 | [zoutelande](http://twitter.com/search?q=zoutelande) | N/A |
 | 14 | [europese commissie](http://twitter.com/search?q=europese+commissie) | N/A |
 | 15 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 16 | [janneke de bijl](http://twitter.com/search?q=janneke+de+bijl) | N/A |
+| 16 | [bijl](http://twitter.com/search?q=bijl) | N/A |
 | 17 | [gestemd](http://twitter.com/search?q=gestemd) | N/A |
 | 18 | [seksuele](http://twitter.com/search?q=seksuele) | N/A |
-| 19 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
+| 19 | [jovd](http://twitter.com/search?q=jovd) | N/A |
 | 20 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
 | 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 22 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Netherlands
 | 28 | [cda-top](http://twitter.com/search?q=cda-top) | N/A |
 | 29 | [jongerenorganisatie vvd](http://twitter.com/search?q=jongerenorganisatie+vvd) | N/A |
 | 30 | [goedemorgen wilco](http://twitter.com/search?q=goedemorgen+wilco) | N/A |
-| 31 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 31 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 32 | [burgemeester](http://twitter.com/search?q=burgemeester) | N/A |
-| 33 | [Voorlichting](http://twitter.com/search?q=Voorlichting) | N/A |
+| 33 | [voorlichting](http://twitter.com/search?q=voorlichting) | N/A |
 | 34 | [T-34](http://twitter.com/search?q=T-34) | N/A |
 | 35 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
-| 36 | [Van Roosmalen](http://twitter.com/search?q=Van+Roosmalen) | N/A |
+| 36 | [van roosmalen](http://twitter.com/search?q=van+roosmalen) | N/A |
 | 37 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 38 | [Mores](http://twitter.com/search?q=Mores) | N/A |
-| 39 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 38 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 39 | [mores](http://twitter.com/search?q=mores) | N/A |
 | 40 | [Kenzy](http://twitter.com/search?q=Kenzy) | N/A |
 | 41 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
-| 42 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 43 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 44 | [derksen](http://twitter.com/search?q=derksen) | N/A |
-| 45 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 46 | [Moge Allah](http://twitter.com/search?q=Moge+Allah) | N/A |
-| 47 | [Leon de Winter](http://twitter.com/search?q=Leon+de+Winter) | N/A |
-| 48 | [advies](http://twitter.com/search?q=advies) | N/A |
-| 49 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 50 | [koningsdag](http://twitter.com/search?q=koningsdag) | N/A |
+| 42 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
+| 43 | [derksen](http://twitter.com/search?q=derksen) | N/A |
+| 44 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 45 | [leon de winter](http://twitter.com/search?q=leon+de+winter) | N/A |
+| 46 | [advies](http://twitter.com/search?q=advies) | N/A |
+| 47 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 48 | [koningsdag](http://twitter.com/search?q=koningsdag) | N/A |
+| 49 | [van huffelen](http://twitter.com/search?q=van+huffelen) | N/A |
+| 50 | [van der plas](http://twitter.com/search?q=van+der+plas) | N/A |
 
 
 

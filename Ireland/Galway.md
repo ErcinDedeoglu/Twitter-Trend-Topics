@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-23 03:17:15 UTC`
+📆 Last Updated: `2023-03-23 04:25:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,13 +30,13 @@ This is top 50 for [Ireland](</Ireland>)
 | 13 | [Browne](http://twitter.com/search?q=Browne) | N/A |
 | 14 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
 | 15 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 17 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 18 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 19 | [Paddy Carr](http://twitter.com/search?q=Paddy+Carr) | N/A |
+| 16 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 17 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 18 | [paddy carr](http://twitter.com/search?q=paddy+carr) | N/A |
+| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 20 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
-| 21 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
-| 22 | [Neasa Hourigan](http://twitter.com/search?q=Neasa+Hourigan) | N/A |
+| 21 | [Neasa Hourigan](http://twitter.com/search?q=Neasa+Hourigan) | N/A |
+| 22 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
 | 23 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 24 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
 | 25 | [Gript](http://twitter.com/search?q=Gript) | N/A |
@@ -45,25 +45,25 @@ This is top 50 for [Ireland](</Ireland>)
 | 28 | [McClean](http://twitter.com/search?q=McClean) | N/A |
 | 29 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 30 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 31 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
-| 32 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 33 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 35 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 36 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
+| 31 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 32 | [leinster house](http://twitter.com/search?q=leinster+house) | N/A |
+| 33 | [molumby](http://twitter.com/search?q=molumby) | N/A |
+| 34 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 35 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
+| 36 | [Egan](http://twitter.com/search?q=Egan) | N/A |
 | 37 | [O'Dowda](http://twitter.com/search?q=O%27Dowda) | N/A |
-| 38 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 39 | [The Green Party](http://twitter.com/search?q=The+Green+Party) | N/A |
-| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 41 | [cartamundi](http://twitter.com/search?q=cartamundi) | N/A |
-| 42 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 43 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 44 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 45 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 46 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 47 | [Cathal Berry](http://twitter.com/search?q=Cathal+Berry) | N/A |
-| 48 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
-| 49 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
+| 38 | [The Green Party](http://twitter.com/search?q=The+Green+Party) | N/A |
+| 39 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 40 | [cartamundi](http://twitter.com/search?q=cartamundi) | N/A |
+| 41 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 43 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 44 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 45 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
+| 46 | [cathal berry](http://twitter.com/search?q=cathal+berry) | N/A |
+| 47 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 48 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
+| 49 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-23 03:16:59 UTC`
+📆 Last Updated: `2023-03-23 04:25:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,6 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 3 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 6 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 7 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 8 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 9 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 10 | [Lord Greenhalgh](http://twitter.com/search?q=Lord+Greenhalgh) | N/A |
-| 11 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 12 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 13 | [Cerberus](http://twitter.com/search?q=Cerberus) | N/A |
-| 14 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 15 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 16 | [Janey](http://twitter.com/search?q=Janey) | N/A |
-| 17 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 19 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 20 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 21 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 22 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 23 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 24 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 25 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 26 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 27 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
-| 28 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 29 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 30 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 31 | [#Peston](http://twitter.com/search?q=%23Peston) | N/A |
-| 32 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 33 | [#BorisJohnsonHearing](http://twitter.com/search?q=%23BorisJohnsonHearing) | N/A |
-| 34 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 35 | [#PulseChain](http://twitter.com/search?q=%23PulseChain) | N/A |
-| 36 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 37 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
 
 
 

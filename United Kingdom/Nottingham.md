@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-23 03:17:00 UTC`
+📆 Last Updated: `2023-03-23 04:25:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 1 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 2 | [#PrivilegesCommittee](http://twitter.com/search?q=%23PrivilegesCommittee) | N/A |
 | 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 4 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
-| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 6 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
-| 7 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 8 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 9 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 11 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 12 | [Lord Greenhalgh](http://twitter.com/search?q=Lord+Greenhalgh) | N/A |
-| 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 14 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 15 | [Cerberus](http://twitter.com/search?q=Cerberus) | N/A |
-| 16 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 17 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 18 | [Janey](http://twitter.com/search?q=Janey) | N/A |
-| 19 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 21 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 22 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 23 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 24 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 25 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 26 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 27 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 28 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 29 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
-| 30 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 31 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 32 | [#Peston](http://twitter.com/search?q=%23Peston) | N/A |
-| 33 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 34 | [#BorisJohnsonHearing](http://twitter.com/search?q=%23BorisJohnsonHearing) | N/A |
-| 35 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 36 | [#PulseChain](http://twitter.com/search?q=%23PulseChain) | N/A |
-| 37 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 38 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 4 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
+| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 6 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
+| 7 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 8 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 10 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 13 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 14 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
+| 15 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 16 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 17 | [No 10](http://twitter.com/search?q=No+10) | N/A |
+| 18 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
+| 19 | [Vikingo](http://twitter.com/search?q=Vikingo) | N/A |
+| 20 | [Bojo](http://twitter.com/search?q=Bojo) | N/A |
+| 21 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 22 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 23 | [Abia](http://twitter.com/search?q=Abia) | N/A |
+| 24 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 25 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 26 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
+| 27 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 28 | [bernard jenkin](http://twitter.com/search?q=bernard+jenkin) | N/A |
+| 29 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
+| 30 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 31 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
+| 32 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 34 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 35 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 36 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 37 | [Lord Pannick](http://twitter.com/search?q=Lord+Pannick) | N/A |
+| 38 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 39 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 40 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 41 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 42 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 45 | [Cerberus](http://twitter.com/search?q=Cerberus) | N/A |
+| 46 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 47 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
+| 48 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 49 | [Number 10](http://twitter.com/search?q=Number+10) | N/A |
 
 
 
