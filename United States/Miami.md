@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-23 17:17:41 UTC`
+📆 Last Updated: `2023-03-23 18:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
 | 3 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 5 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
-| 6 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 7 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 8 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 9 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
-| 10 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 11 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 13 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 14 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 5 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 6 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 7 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 8 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
+| 9 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 10 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 11 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 12 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 13 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 14 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
 | 15 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 16 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 17 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
-| 18 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
-| 19 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
-| 20 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 21 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
-| 22 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 24 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
-| 25 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 26 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 27 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 28 | [Knuckles Chaotix](http://twitter.com/search?q=Knuckles+Chaotix) | N/A |
-| 29 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 30 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
-| 31 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
-| 32 | [Joe Judge](http://twitter.com/search?q=Joe+Judge) | N/A |
-| 33 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 34 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 35 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 36 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 37 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 38 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 39 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 40 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
-| 41 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
-| 42 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
-| 43 | [Sonic Blast](http://twitter.com/search?q=Sonic+Blast) | N/A |
-| 44 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
-| 45 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
-| 46 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
-| 47 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
-| 48 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 16 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 17 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 18 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 21 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 22 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
+| 23 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
+| 24 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
+| 25 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 26 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 27 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 28 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
+| 29 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
+| 30 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 31 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
+| 32 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 33 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 34 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
+| 35 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 36 | [The Archer](http://twitter.com/search?q=The+Archer) | N/A |
+| 37 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 38 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
+| 39 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 40 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 41 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
+| 42 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
+| 43 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
+| 44 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 45 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 46 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 47 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 48 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
 
 
 

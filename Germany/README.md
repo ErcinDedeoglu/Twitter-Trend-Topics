@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-23 17:17:48 UTC`
+📆 Last Updated: `2023-03-23 18:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Germany
 | 7 | [#FreeBallweg](http://twitter.com/search?q=%23FreeBallweg) | N/A |
 | 8 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
 | 9 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 10 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 11 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 10 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
+| 11 | [Munition](http://twitter.com/search?q=Munition) | N/A |
 | 12 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 13 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 14 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 13 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 14 | [Timo](http://twitter.com/search?q=Timo) | N/A |
 | 15 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 16 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 16 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
 | 17 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 18 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 19 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 20 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 21 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 22 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
-| 25 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 26 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 27 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 28 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 29 | [tt  ar44](http://twitter.com/search?q=tt++ar44) | N/A |
-| 30 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
-| 31 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 32 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 18 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 19 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 20 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 21 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 22 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 23 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 24 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 27 | [Testspiel](http://twitter.com/search?q=Testspiel) | N/A |
+| 28 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 29 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 30 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
+| 31 | [Volle Solidarität](http://twitter.com/search?q=Volle+Solidarit%c3%a4t) | N/A |
+| 32 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
 | 33 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 34 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
-| 35 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
-| 36 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 37 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 38 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
-| 39 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
-| 40 | [Volle Solidarität](http://twitter.com/search?q=Volle+Solidarit%c3%a4t) | N/A |
-| 41 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 42 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
-| 43 | [Kleiderordnung](http://twitter.com/search?q=Kleiderordnung) | N/A |
-| 44 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 45 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
-| 46 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 47 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
-| 48 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
-| 49 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 50 | [Finanzielle Bildung](http://twitter.com/search?q=Finanzielle+Bildung) | N/A |
+| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 35 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 36 | [Seymour Hersh](http://twitter.com/search?q=Seymour+Hersh) | N/A |
+| 37 | [Bremerhaven](http://twitter.com/search?q=Bremerhaven) | N/A |
+| 38 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 39 | [Kleiderordnung](http://twitter.com/search?q=Kleiderordnung) | N/A |
+| 40 | [Razzia](http://twitter.com/search?q=Razzia) | N/A |
+| 41 | [Heute vor 90 Jahren](http://twitter.com/search?q=Heute+vor+90+Jahren) | N/A |
+| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 43 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 44 | [Hochverrat](http://twitter.com/search?q=Hochverrat) | N/A |
+| 45 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
+| 46 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 47 | [wahlwerbung für die grünen](http://twitter.com/search?q=wahlwerbung+f%c3%bcr+die+gr%c3%bcnen) | N/A |
+| 48 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 49 | [Bürgerschaftswahl](http://twitter.com/search?q=B%c3%bcrgerschaftswahl) | N/A |
+| 50 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 
 
 

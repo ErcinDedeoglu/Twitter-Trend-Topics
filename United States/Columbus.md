@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-23 17:17:38 UTC`
+📆 Last Updated: `2023-03-23 18:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 4 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 5 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
-| 6 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 7 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 8 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
-| 9 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
-| 10 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
-| 11 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
-| 12 | [#ThankYouAshAndPikachu](http://twitter.com/search?q=%23ThankYouAshAndPikachu) | N/A |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 15 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
-| 16 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 17 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 18 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
-| 19 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
-| 20 | [Michelangelo's David](http://twitter.com/search?q=Michelangelo%27s+David) | N/A |
-| 21 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 22 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
-| 23 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
-| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 25 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
-| 26 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 27 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 28 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
-| 29 | [Knuckles Chaotix](http://twitter.com/search?q=Knuckles+Chaotix) | N/A |
-| 30 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 31 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
-| 32 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
-| 33 | [Joe Judge](http://twitter.com/search?q=Joe+Judge) | N/A |
-| 34 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 35 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 36 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 37 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 38 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 39 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 40 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 41 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
-| 42 | [Afroman](http://twitter.com/search?q=Afroman) | N/A |
-| 43 | [Queen Charlotte](http://twitter.com/search?q=Queen+Charlotte) | N/A |
-| 44 | [Sonic Blast](http://twitter.com/search?q=Sonic+Blast) | N/A |
-| 45 | [Ceelo](http://twitter.com/search?q=Ceelo) | N/A |
-| 46 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
-| 47 | [Project Texas](http://twitter.com/search?q=Project+Texas) | N/A |
-| 48 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
+| 1 | [#ACESEvolve](http://twitter.com/search?q=%23ACESEvolve) | N/A |
+| 2 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
+| 3 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 5 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 6 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 7 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 8 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 9 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 10 | [#CanvaCreate](http://twitter.com/search?q=%23CanvaCreate) | N/A |
+| 11 | [RIP JV](http://twitter.com/search?q=RIP+JV) | N/A |
+| 12 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 13 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 14 | [Playable Amy](http://twitter.com/search?q=Playable+Amy) | N/A |
+| 15 | [Game Gear](http://twitter.com/search?q=Game+Gear) | N/A |
+| 16 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 17 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 18 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 19 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 20 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 22 | [The ACA](http://twitter.com/search?q=The+ACA) | N/A |
+| 23 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 24 | [Sonic Origins Plus](http://twitter.com/search?q=Sonic+Origins+Plus) | N/A |
+| 25 | [Duke Shelley](http://twitter.com/search?q=Duke+Shelley) | N/A |
+| 26 | [Jamison Crowder](http://twitter.com/search?q=Jamison+Crowder) | N/A |
+| 27 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 28 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 29 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 30 | [Cancel the WBC](http://twitter.com/search?q=Cancel+the+WBC) | N/A |
+| 31 | [Ty Johnson](http://twitter.com/search?q=Ty+Johnson) | N/A |
+| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 33 | [Elspeth](http://twitter.com/search?q=Elspeth) | N/A |
+| 34 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 35 | [Riley Williams](http://twitter.com/search?q=Riley+Williams) | N/A |
+| 36 | [Obamacare](http://twitter.com/search?q=Obamacare) | N/A |
+| 37 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 38 | [The Archer](http://twitter.com/search?q=The+Archer) | N/A |
+| 39 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 40 | [All Too Well](http://twitter.com/search?q=All+Too+Well) | N/A |
+| 41 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 42 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 43 | [The Last Ronin](http://twitter.com/search?q=The+Last+Ronin) | N/A |
+| 44 | [Super Amy](http://twitter.com/search?q=Super+Amy) | N/A |
+| 45 | [Jed Lowrie](http://twitter.com/search?q=Jed+Lowrie) | N/A |
+| 46 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 47 | [Pancakes](http://twitter.com/search?q=Pancakes) | N/A |
+| 48 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
 
 
 

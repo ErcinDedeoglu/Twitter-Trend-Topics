@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-03-23 17:17:02 UTC`
+📆 Last Updated: `2023-03-23 18:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,41 +20,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 4 | [Luis Donaldo Colosio](http://twitter.com/search?q=Luis+Donaldo+Colosio) | N/A |
 | 5 | [#ComoKornoEnPrimavera](http://twitter.com/search?q=%23ComoKornoEnPrimavera) | N/A |
-| 6 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 7 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
-| 8 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 10 | [Calica](http://twitter.com/search?q=Calica) | N/A |
-| 11 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
-| 12 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 13 | [Choix](http://twitter.com/search?q=Choix) | N/A |
-| 14 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 15 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 17 | [José Noriel Portillo Gil](http://twitter.com/search?q=Jos%c3%a9+Noriel+Portillo+Gil) | N/A |
-| 18 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
-| 19 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 20 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 21 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
-| 22 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 23 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 24 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 25 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 26 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
-| 27 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 28 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
-| 29 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 30 | [#NormaRaPiñaMalverde](http://twitter.com/search?q=%23NormaRaPi%c3%b1aMalverde) | N/A |
-| 31 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 32 | [#SanMateoAtenco](http://twitter.com/search?q=%23SanMateoAtenco) | N/A |
-| 33 | [#Aliens](http://twitter.com/search?q=%23Aliens) | N/A |
-| 34 | [#DetonadorExtraterrestre](http://twitter.com/search?q=%23DetonadorExtraterrestre) | N/A |
-| 35 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
-| 36 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 37 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 38 | [#Ovnis](http://twitter.com/search?q=%23Ovnis) | N/A |
-| 39 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
-| 40 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 6 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 7 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
+| 8 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 9 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
+| 10 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
+| 11 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 12 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 13 | [Calica](http://twitter.com/search?q=Calica) | N/A |
+| 14 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 15 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 16 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 17 | [Choix](http://twitter.com/search?q=Choix) | N/A |
+| 18 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 19 | [José Noriel Portillo Gil](http://twitter.com/search?q=Jos%c3%a9+Noriel+Portillo+Gil) | N/A |
+| 20 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 21 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 22 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 23 | [Plutón](http://twitter.com/search?q=Plut%c3%b3n) | N/A |
+| 24 | [Acuario](http://twitter.com/search?q=Acuario) | N/A |
+| 25 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
+| 26 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 27 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 28 | [Añorve](http://twitter.com/search?q=A%c3%b1orve) | N/A |
+| 29 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 30 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 31 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 32 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 33 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
+| 34 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
+| 35 | [#NormaRaPiñaMalverde](http://twitter.com/search?q=%23NormaRaPi%c3%b1aMalverde) | N/A |
+| 36 | [#ProhibidoProhibir](http://twitter.com/search?q=%23ProhibidoProhibir) | N/A |
+| 37 | [#SanMateoAtenco](http://twitter.com/search?q=%23SanMateoAtenco) | N/A |
+| 38 | [#Aliens](http://twitter.com/search?q=%23Aliens) | N/A |
+| 39 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 40 | [#23demarzo](http://twitter.com/search?q=%2323demarzo) | N/A |
+| 41 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
+| 42 | [#DetonadorExtraterrestre](http://twitter.com/search?q=%23DetonadorExtraterrestre) | N/A |
+| 43 | [#Ovnis](http://twitter.com/search?q=%23Ovnis) | N/A |
+| 44 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 45 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
+| 46 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 
 
 

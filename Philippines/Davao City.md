@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-23 17:17:24 UTC`
+📆 Last Updated: `2023-03-23 18:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 2 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
-| 3 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
-| 4 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
-| 5 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 7 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
-| 8 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
-| 9 | [#WILD_TONIGHT_1MViews](http://twitter.com/search?q=%23WILD_TONIGHT_1MViews) | N/A |
-| 10 | [Minari](http://twitter.com/search?q=Minari) | N/A |
-| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 12 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
-| 13 | [Imelda Marcos](http://twitter.com/search?q=Imelda+Marcos) | N/A |
-| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 17 | [a'tin misses sb19](http://twitter.com/search?q=a%27tin+misses+sb19) | N/A |
-| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 19 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 20 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
-| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 22 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 24 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 2 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 3 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 4 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
+| 5 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 6 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 7 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
+| 8 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
+| 9 | [donny binisita si belle](http://twitter.com/search?q=donny+binisita+si+belle) | N/A |
+| 10 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
+| 11 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
+| 12 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
+| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 14 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
+| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 16 | [Minari](http://twitter.com/search?q=Minari) | N/A |
+| 17 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 18 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
+| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 20 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 21 | [Nine or None](http://twitter.com/search?q=Nine+or+None) | N/A |
+| 22 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 24 | [BM LAST EVALUATION EP 3](http://twitter.com/search?q=BM+LAST+EVALUATION+EP+3) | N/A |
 | 25 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
-| 26 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 27 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 28 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
-| 29 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 31 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 32 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 33 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 34 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 35 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
-| 36 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 37 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
-| 38 | [#JeremyG_Bini](http://twitter.com/search?q=%23JeremyG_Bini) | N/A |
-| 39 | [#DLConvince](http://twitter.com/search?q=%23DLConvince) | N/A |
-| 40 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
-| 41 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
-| 42 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
-| 43 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 44 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 45 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 46 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 47 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
+| 26 | [Time Out](http://twitter.com/search?q=Time+Out) | N/A |
+| 27 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 28 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 29 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
+| 30 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 31 | [setmefree second win](http://twitter.com/search?q=setmefree+second+win) | N/A |
+| 32 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
+| 33 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
+| 34 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 35 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
+| 36 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
+| 37 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 38 | [AndreaB New Serye](http://twitter.com/search?q=AndreaB+New+Serye) | N/A |
+| 39 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 40 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 41 | [kaia angela concept teaser](http://twitter.com/search?q=kaia+angela+concept+teaser) | N/A |
+| 42 | [VXON VINCE COMEBACK TEASER](http://twitter.com/search?q=VXON+VINCE+COMEBACK+TEASER) | N/A |
+| 43 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 44 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 45 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 46 | [Happy Mina](http://twitter.com/search?q=Happy+Mina) | N/A |
+| 47 | [STREAM BOBBY DROWNING](http://twitter.com/search?q=STREAM+BOBBY+DROWNING) | N/A |
 
 
 

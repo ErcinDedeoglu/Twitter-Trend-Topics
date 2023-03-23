@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-23 17:17:33 UTC`
+📆 Last Updated: `2023-03-23 18:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RamadanKareem](http://twitter.com/search?q=%23RamadanKareem) | N/A |
-| 2 | [#BoycottAdda247](http://twitter.com/search?q=%23BoycottAdda247) | N/A |
-| 3 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 4 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 2 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 3 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
+| 4 | [#BoycottAdda247](http://twitter.com/search?q=%23BoycottAdda247) | N/A |
 | 5 | [India With Rahul](http://twitter.com/search?q=India+With+Rahul) | N/A |
-| 6 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 7 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
-| 8 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
+| 6 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
+| 7 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 8 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
 | 9 | [#Virushka](http://twitter.com/search?q=%23Virushka) | N/A |
-| 10 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
-| 11 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 10 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 11 | [Happy Birthday Emraan Hashmi](http://twitter.com/search?q=Happy+Birthday+Emraan+Hashmi) | N/A |
 | 12 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
-| 13 | [नवीन पालीवाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b5%e0%a5%80%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 14 | [Ankit Sharma](http://twitter.com/search?q=Ankit+Sharma) | N/A |
-| 15 | [चांद मुबारक](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%82%e0%a4%a6+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 16 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
-| 17 | [Lovlina Borgohain](http://twitter.com/search?q=Lovlina+Borgohain) | N/A |
-| 18 | [Block Inc](http://twitter.com/search?q=Block+Inc) | N/A |
-| 19 | [Vote for MB](http://twitter.com/search?q=Vote+for+MB) | N/A |
-| 20 | [Mahesh anna](http://twitter.com/search?q=Mahesh+anna) | N/A |
-| 21 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 23 | [Modis](http://twitter.com/search?q=Modis) | N/A |
-| 24 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 26 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 27 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 28 | [पुष्प अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
-| 29 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 30 | [Surat](http://twitter.com/search?q=Surat) | N/A |
-| 31 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 32 | [भारतीय जनता पार्टी राजस्थान](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
-| 33 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 34 | [सिंधी समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 35 | [दिल्ली प्रदेश](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 36 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 37 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 38 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 39 | [बिहार विधान परिषद](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 40 | [बिहार प्रदेश](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 41 | [Bail](http://twitter.com/search?q=Bail) | N/A |
-| 42 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
-| 43 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
-| 44 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
-| 45 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
+| 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 14 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
+| 15 | [Ankit Sharma](http://twitter.com/search?q=Ankit+Sharma) | N/A |
+| 16 | [नवीन पालीवाल](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b5%e0%a5%80%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 17 | [Bhagat Singh](http://twitter.com/search?q=Bhagat+Singh) | N/A |
+| 18 | [चांद मुबारक](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%82%e0%a4%a6+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 19 | [Lovlina Borgohain](http://twitter.com/search?q=Lovlina+Borgohain) | N/A |
+| 20 | [Block Inc](http://twitter.com/search?q=Block+Inc) | N/A |
+| 21 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 22 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 23 | [Mahesh anna](http://twitter.com/search?q=Mahesh+anna) | N/A |
+| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 25 | [Surat](http://twitter.com/search?q=Surat) | N/A |
+| 26 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 27 | [Modis](http://twitter.com/search?q=Modis) | N/A |
+| 28 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 29 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 30 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 31 | [पुष्प अर्पित](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%bf%e0%a4%a4) | N/A |
+| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 33 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 34 | [Aapko](http://twitter.com/search?q=Aapko) | N/A |
+| 35 | [सिंधी समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 36 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 37 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 38 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 39 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 40 | [भारतीय जनता पार्टी राजस्थान](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
+| 41 | [#AnushkaSharma](http://twitter.com/search?q=%23AnushkaSharma) | N/A |
+| 42 | [#TheHundredDraft](http://twitter.com/search?q=%23TheHundredDraft) | N/A |
+| 43 | [#AsiaCup2023](http://twitter.com/search?q=%23AsiaCup2023) | N/A |
+| 44 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
+| 45 | [#MLCElectionsInAP](http://twitter.com/search?q=%23MLCElectionsInAP) | N/A |
 | 46 | [#NoMore50](http://twitter.com/search?q=%23NoMore50) | N/A |
-| 47 | [#AmendPCA](http://twitter.com/search?q=%23AmendPCA) | N/A |
-| 48 | [#ShameOnYouAdda247](http://twitter.com/search?q=%23ShameOnYouAdda247) | N/A |
-| 49 | [#jackdorsey](http://twitter.com/search?q=%23jackdorsey) | N/A |
-| 50 | [#ThalapathyVijay𓃵](http://twitter.com/search?q=%23ThalapathyVijay%f0%93%83%b5) | N/A |
+| 47 | [#ShameOnYouAdda247](http://twitter.com/search?q=%23ShameOnYouAdda247) | N/A |
+| 48 | [#Accenture](http://twitter.com/search?q=%23Accenture) | N/A |
+| 49 | [#IndiaKeFavouriteCM](http://twitter.com/search?q=%23IndiaKeFavouriteCM) | N/A |
+| 50 | [#ParineetiChopra](http://twitter.com/search?q=%23ParineetiChopra) | N/A |
 
 
 

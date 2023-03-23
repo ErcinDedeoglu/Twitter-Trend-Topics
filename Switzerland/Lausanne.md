@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-23 17:17:15 UTC`
+📆 Last Updated: `2023-03-23 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 5 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 6 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 7 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 7 | [#WorldMetDay](http://twitter.com/search?q=%23WorldMetDay) | N/A |
 | 8 | [#DIAEurope2023](http://twitter.com/search?q=%23DIAEurope2023) | N/A |
-| 9 | [#srfclub](http://twitter.com/search?q=%23srfclub) | N/A |
-| 10 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 9 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 10 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
 | 11 | [Amin](http://twitter.com/search?q=Amin) | N/A |
 | 12 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 13 | [Uran](http://twitter.com/search?q=Uran) | N/A |
@@ -35,33 +35,33 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 18 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 19 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 20 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 21 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 22 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 23 | [Ebene](http://twitter.com/search?q=Ebene) | N/A |
+| 21 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 22 | [Ebene](http://twitter.com/search?q=Ebene) | N/A |
+| 23 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
 | 24 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 25 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 27 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 28 | [schönen Tag](http://twitter.com/search?q=sch%c3%b6nen+Tag) | N/A |
+| 28 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
 | 29 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 | 30 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
 | 31 | [WWII](http://twitter.com/search?q=WWII) | N/A |
 | 32 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 | 33 | [Dach](http://twitter.com/search?q=Dach) | N/A |
-| 34 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 35 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 36 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 37 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 39 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 40 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 41 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 42 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 43 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
-| 44 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 45 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 46 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 47 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 34 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 35 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 36 | [Zinsen](http://twitter.com/search?q=Zinsen) | N/A |
+| 37 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 38 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 39 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 40 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 41 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 42 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 43 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 44 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 45 | [Geschlecht](http://twitter.com/search?q=Geschlecht) | N/A |
+| 46 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 47 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 48 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
 | 49 | [Ausmass](http://twitter.com/search?q=Ausmass) | N/A |
 

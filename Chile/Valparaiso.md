@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-23 17:17:03 UTC`
+📆 Last Updated: `2023-03-23 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Chile](</Chile>)
 | 7 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
 | 8 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
 | 9 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
-| 10 | [#MadreTierra](http://twitter.com/search?q=%23MadreTierra) | N/A |
-| 11 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
-| 12 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 13 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
-| 14 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 15 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
-| 16 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
-| 17 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 18 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 19 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 20 | [VISTIMA](http://twitter.com/search?q=VISTIMA) | N/A |
-| 21 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 22 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 23 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 25 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
-| 26 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 27 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 10 | [#SpamDeCuarentones](http://twitter.com/search?q=%23SpamDeCuarentones) | N/A |
+| 11 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
+| 12 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 13 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 14 | [Brendan Fraser](http://twitter.com/search?q=Brendan+Fraser) | Brendan Fraser is an American actor, best known for his roles in films such as The Mummy, George of the Jungle, and Bedazzled. He has also appeared in television shows such as Scrubs and The Affair. |
+| 15 | [Claudio Reyes](http://twitter.com/search?q=Claudio+Reyes) | N/A |
+| 16 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
+| 17 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 18 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
+| 19 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 20 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 21 | [VISTIMA](http://twitter.com/search?q=VISTIMA) | N/A |
+| 22 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
+| 23 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 24 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
+| 25 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 26 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 27 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
 | 28 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
 | 29 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 30 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 31 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 30 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 31 | [Káiser](http://twitter.com/search?q=K%c3%a1iser) | N/A |
 | 32 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
-| 33 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
-| 34 | [Instituto Nacional](http://twitter.com/search?q=Instituto+Nacional) | N/A |
-| 35 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 36 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
-| 37 | [Medel](http://twitter.com/search?q=Medel) | N/A |
-| 38 | [Valparaíso](http://twitter.com/search?q=Valpara%c3%adso) | N/A |
-| 39 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 40 | [Perfume](http://twitter.com/search?q=Perfume) | Perfume is a fragrant liquid made from essential oils, aroma compounds, and solvents that is used to give a pleasant scent to the body, clothing, or objects. The word "perfume" comes from the Latin phrase "per fumum," which means "through smoke." |
-| 41 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 42 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 43 | [El Conquistador](http://twitter.com/search?q=El+Conquistador) | N/A |
+| 33 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 34 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 35 | [Instituto Nacional](http://twitter.com/search?q=Instituto+Nacional) | N/A |
+| 36 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
+| 37 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
+| 38 | [De la Carrera](http://twitter.com/search?q=De+la+Carrera) | De la Carrera is a Spanish phrase meaning "of the race" or "of the career". It is often used to refer to someone's professional or academic accomplishments. |
+| 39 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
+| 40 | [El Conquistador](http://twitter.com/search?q=El+Conquistador) | N/A |
+| 41 | [Perfume](http://twitter.com/search?q=Perfume) | Perfume is a fragrant liquid made from essential oils, aroma compounds, and solvents that is used to give a pleasant scent to the body, clothing, or objects. The word "perfume" comes from the Latin phrase "per fumum," which means "through smoke." |
+| 42 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 43 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 44 | [Sabrina Sosa](http://twitter.com/search?q=Sabrina+Sosa) | N/A |
-| 45 | [Meiggs](http://twitter.com/search?q=Meiggs) | N/A |
-| 46 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 47 | [Monserrat Álvarez](http://twitter.com/search?q=Monserrat+%c3%81lvarez) | N/A |
-| 48 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 49 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [Ciega](http://twitter.com/search?q=Ciega) | N/A |
+| 46 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 47 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 48 | [Meiggs](http://twitter.com/search?q=Meiggs) | N/A |
+| 49 | [Crueldad](http://twitter.com/search?q=Crueldad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-23 17:17:48 UTC`
+📆 Last Updated: `2023-03-23 18:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
 | 2 | [#해피_주_데이](http://twitter.com/search?q=%23%ed%95%b4%ed%94%bc_%ec%a3%bc_%eb%8d%b0%ec%9d%b4) | N/A |
-| 3 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
-| 4 | [#eaJLAstars](http://twitter.com/search?q=%23eaJLAstars) | N/A |
-| 5 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 3 | [#eaJLAstars](http://twitter.com/search?q=%23eaJLAstars) | N/A |
+| 4 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 5 | [#smileforasecond](http://twitter.com/search?q=%23smileforasecond) | N/A |
 | 6 | [#ceritataraweh](http://twitter.com/search?q=%23ceritataraweh) | N/A |
-| 7 | [#smileforasecond](http://twitter.com/search?q=%23smileforasecond) | N/A |
+| 7 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
 | 8 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 10 | [HAPPY ZUU DAY](http://twitter.com/search?q=HAPPY+ZUU+DAY) | N/A |
-| 11 | [Patung](http://twitter.com/search?q=Patung) | N/A |
-| 12 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 13 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 9 | [HAPPY ZUU DAY](http://twitter.com/search?q=HAPPY+ZUU+DAY) | N/A |
+| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 11 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 12 | [Patung](http://twitter.com/search?q=Patung) | N/A |
+| 13 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
 | 14 | [Top 9](http://twitter.com/search?q=Top+9) | N/A |
-| 15 | [Imannya](http://twitter.com/search?q=Imannya) | N/A |
-| 16 | [Woodz](http://twitter.com/search?q=Woodz) | N/A |
-| 17 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
-| 18 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 21 | [Happy Wedding](http://twitter.com/search?q=Happy+Wedding) | N/A |
-| 22 | [Looke](http://twitter.com/search?q=Looke) | N/A |
-| 23 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 24 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 25 | [naura](http://twitter.com/search?q=naura) | N/A |
-| 26 | [Usir](http://twitter.com/search?q=Usir) | N/A |
+| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 16 | [Imannya](http://twitter.com/search?q=Imannya) | N/A |
+| 17 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
+| 18 | [Looke](http://twitter.com/search?q=Looke) | N/A |
+| 19 | [Woodz](http://twitter.com/search?q=Woodz) | N/A |
+| 20 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
+| 21 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
+| 22 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 23 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 25 | [Usir](http://twitter.com/search?q=Usir) | N/A |
+| 26 | [naura](http://twitter.com/search?q=naura) | N/A |
 | 27 | [Lancar](http://twitter.com/search?q=Lancar) | N/A |
-| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 29 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 30 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 32 | [Lemah](http://twitter.com/search?q=Lemah) | N/A |
-| 33 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 34 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 35 | [choi seungcheol](http://twitter.com/search?q=choi+seungcheol) | N/A |
-| 36 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
-| 37 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 38 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
-| 39 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 40 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 41 | [Tanggal](http://twitter.com/search?q=Tanggal) | N/A |
-| 42 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 43 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 44 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
-| 45 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 46 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
-| 47 | [#HappyZUUniverseDay](http://twitter.com/search?q=%23HappyZUUniverseDay) | N/A |
-| 48 | [#LifeYourWay](http://twitter.com/search?q=%23LifeYourWay) | N/A |
-| 49 | [#KevinValenInLove](http://twitter.com/search?q=%23KevinValenInLove) | N/A |
-| 50 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 28 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 29 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 30 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 31 | [Lemah](http://twitter.com/search?q=Lemah) | N/A |
+| 32 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 33 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 34 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 35 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 36 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
+| 37 | [#FLOWERin7Days](http://twitter.com/search?q=%23FLOWERin7Days) | N/A |
+| 38 | [#HappyZUUniverseDay](http://twitter.com/search?q=%23HappyZUUniverseDay) | N/A |
+| 39 | [#LifeYourWay](http://twitter.com/search?q=%23LifeYourWay) | N/A |
+| 40 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 41 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
+| 42 | [#KevinValenInLove](http://twitter.com/search?q=%23KevinValenInLove) | N/A |
+| 43 | [#LebihDenganMembaca](http://twitter.com/search?q=%23LebihDenganMembaca) | N/A |
+| 44 | [#NgabubureadChallenge](http://twitter.com/search?q=%23NgabubureadChallenge) | N/A |
+| 45 | [#RAYAkanYourWay](http://twitter.com/search?q=%23RAYAkanYourWay) | N/A |
+| 46 | [#PENSHOPPEXCHANYEOL](http://twitter.com/search?q=%23PENSHOPPEXCHANYEOL) | N/A |
+| 47 | [#30HariMeRAYAkan](http://twitter.com/search?q=%2330HariMeRAYAkan) | N/A |
+| 48 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 49 | [#왕즈하오](http://twitter.com/search?q=%23%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
 
 
 

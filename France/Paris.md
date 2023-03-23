@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-23 17:17:10 UTC`
+📆 Last Updated: `2023-03-23 18:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 2 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
-| 3 | [#Republique](http://twitter.com/search?q=%23Republique) | N/A |
-| 4 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 5 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 6 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 7 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 8 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
-| 9 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 10 | [Bree](http://twitter.com/search?q=Bree) | N/A |
-| 11 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
-| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 13 | [Rouen](http://twitter.com/search?q=Rouen) | N/A |
+| 2 | [#Republique](http://twitter.com/search?q=%23Republique) | N/A |
+| 3 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
+| 4 | [#AlcoholTaxUAE](http://twitter.com/search?q=%23AlcoholTaxUAE) | N/A |
+| 5 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
+| 6 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 7 | [#revolution2023](http://twitter.com/search?q=%23revolution2023) | N/A |
+| 8 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 9 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
+| 10 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 11 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 12 | [Rouen](http://twitter.com/search?q=Rouen) | N/A |
+| 13 | [Bree](http://twitter.com/search?q=Bree) | N/A |
 | 14 | [Gérard Majax](http://twitter.com/search?q=G%c3%a9rard+Majax) | N/A |
-| 15 | [Vianney](http://twitter.com/search?q=Vianney) | N/A |
-| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 17 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 18 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 19 | [Abou Diaby](http://twitter.com/search?q=Abou+Diaby) | N/A |
+| 15 | [GSPR](http://twitter.com/search?q=GSPR) | N/A |
+| 16 | [Vianney](http://twitter.com/search?q=Vianney) | N/A |
+| 17 | [Abou Diaby](http://twitter.com/search?q=Abou+Diaby) | N/A |
+| 18 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
+| 19 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
 | 20 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 21 | [Guide](http://twitter.com/search?q=Guide) | N/A |
-| 22 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
-| 23 | [Assas](http://twitter.com/search?q=Assas) | N/A |
-| 24 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 25 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 21 | [Les CRS](http://twitter.com/search?q=Les+CRS) | N/A |
+| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 23 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 24 | [Guide](http://twitter.com/search?q=Guide) | N/A |
+| 25 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 26 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
 | 27 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
 | 28 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
-| 29 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 30 | [Wano](http://twitter.com/search?q=Wano) | N/A |
+| 29 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
+| 30 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
 | 31 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
-| 32 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
-| 33 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
-| 34 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 35 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
-| 36 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 37 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
-| 38 | [#Bordeaux](http://twitter.com/search?q=%23Bordeaux) | N/A |
-| 39 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
-| 40 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
-| 41 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
-| 42 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 43 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 44 | [#revolution2023](http://twitter.com/search?q=%23revolution2023) | N/A |
-| 45 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 46 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 47 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
-| 48 | [#Limoges](http://twitter.com/search?q=%23Limoges) | N/A |
-| 49 | [#Nancy](http://twitter.com/search?q=%23Nancy) | N/A |
-| 50 | [#Caen](http://twitter.com/search?q=%23Caen) | N/A |
+| 32 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 33 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
+| 34 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
+| 35 | [#ViolencesPolicieres](http://twitter.com/search?q=%23ViolencesPolicieres) | N/A |
+| 36 | [#Lille](http://twitter.com/search?q=%23Lille) | N/A |
+| 37 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 38 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 39 | [#MacronDemission](http://twitter.com/search?q=%23MacronDemission) | N/A |
+| 40 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
+| 41 | [#Nantes](http://twitter.com/search?q=%23Nantes) | N/A |
+| 42 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
+| 43 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
+| 44 | [#Bordeaux](http://twitter.com/search?q=%23Bordeaux) | N/A |
+| 45 | [#Caen](http://twitter.com/search?q=%23Caen) | N/A |
+| 46 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 47 | [#SoutienFDO](http://twitter.com/search?q=%23SoutienFDO) | N/A |
+| 48 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
+| 49 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 50 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
 
 
 

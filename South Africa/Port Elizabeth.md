@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-23 17:17:27 UTC`
+📆 Last Updated: `2023-03-23 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EFFPresser](http://twitter.com/search?q=%23EFFPresser) | N/A |
-| 2 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 3 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 4 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 5 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
-| 6 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [#LionessSA](http://twitter.com/search?q=%23LionessSA) | N/A |
+| 3 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
+| 4 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 5 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [Melita](http://twitter.com/search?q=Melita) | N/A |
 | 8 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
 | 9 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 10 | [Jumanji](http://twitter.com/search?q=Jumanji) | N/A |
-| 11 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 12 | [Chauke](http://twitter.com/search?q=Chauke) | N/A |
-| 13 | [khosi and ebubu](http://twitter.com/search?q=khosi+and+ebubu) | N/A |
-| 14 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 15 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 16 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 17 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
-| 18 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
-| 19 | [Maseko](http://twitter.com/search?q=Maseko) | N/A |
-| 20 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 10 | [Mr Langa](http://twitter.com/search?q=Mr+Langa) | N/A |
+| 11 | [khosi and ebubu](http://twitter.com/search?q=khosi+and+ebubu) | N/A |
+| 12 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 13 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 14 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 15 | [Jumanji](http://twitter.com/search?q=Jumanji) | N/A |
+| 16 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 17 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 18 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Maseko](http://twitter.com/search?q=Maseko) | N/A |
 | 21 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 24 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 25 | [Radiopane](http://twitter.com/search?q=Radiopane) | N/A |
+| 22 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 23 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 24 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 25 | [Chauke](http://twitter.com/search?q=Chauke) | N/A |
 | 26 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 27 | [team rema](http://twitter.com/search?q=team+rema) | N/A |
-| 28 | [home-made](http://twitter.com/search?q=home-made) | N/A |
-| 29 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
-| 30 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 31 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
-| 32 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 33 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 34 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 35 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 36 | [Sambulo](http://twitter.com/search?q=Sambulo) | N/A |
-| 37 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 38 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
-| 39 | [Pedi](http://twitter.com/search?q=Pedi) | N/A |
-| 40 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
-| 41 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 27 | [home-made](http://twitter.com/search?q=home-made) | N/A |
+| 28 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
+| 29 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 30 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
+| 31 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 32 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 33 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 34 | [Sambulo](http://twitter.com/search?q=Sambulo) | N/A |
+| 35 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 36 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 37 | [IPELENG THE PRESENTER](http://twitter.com/search?q=IPELENG+THE+PRESENTER) | N/A |
+| 38 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 39 | [Angola](http://twitter.com/search?q=Angola) | N/A |
+| 40 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 41 | [Rondo](http://twitter.com/search?q=Rondo) | N/A |
 | 42 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 43 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
-| 44 | [IPELENG THE PRESENTER](http://twitter.com/search?q=IPELENG+THE+PRESENTER) | N/A |
-| 45 | [Nhlelo](http://twitter.com/search?q=Nhlelo) | N/A |
-| 46 | [pitso mosimane](http://twitter.com/search?q=pitso+mosimane) | N/A |
-| 47 | [Triplets](http://twitter.com/search?q=Triplets) | N/A |
-| 48 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 49 | [AFRICA FOR IPELENG](http://twitter.com/search?q=AFRICA+FOR+IPELENG) | N/A |
+| 43 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
+| 44 | [Pedi](http://twitter.com/search?q=Pedi) | N/A |
+| 45 | [AFRICA FOR IPELENG](http://twitter.com/search?q=AFRICA+FOR+IPELENG) | N/A |
+| 46 | [Tongaat](http://twitter.com/search?q=Tongaat) | N/A |
+| 47 | [Nhlelo](http://twitter.com/search?q=Nhlelo) | N/A |
+| 48 | [pitso mosimane](http://twitter.com/search?q=pitso+mosimane) | N/A |
+| 49 | [Triplets](http://twitter.com/search?q=Triplets) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-23 17:17:32 UTC`
+📆 Last Updated: `2023-03-23 18:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#پاکستان_زندہ_باد_ہے](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b2%d9%86%d8%af%db%81_%d8%a8%d8%a7%d8%af_%db%81%db%92) | N/A |
 | 5 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 6 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
-| 7 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 9 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
-| 10 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 11 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 12 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 13 | [Congratulations King](http://twitter.com/search?q=Congratulations+King) | N/A |
-| 14 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
-| 15 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 16 | [Weight](http://twitter.com/search?q=Weight) | N/A |
-| 17 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
-| 18 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 19 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
-| 20 | [Congratulations Captain](http://twitter.com/search?q=Congratulations+Captain) | N/A |
-| 21 | [Chai](http://twitter.com/search?q=Chai) | N/A |
-| 22 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
-| 23 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 24 | [England](http://twitter.com/search?q=England) | N/A |
-| 25 | [Many Many](http://twitter.com/search?q=Many+Many) | N/A |
-| 26 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 28 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 29 | [Mention](http://twitter.com/search?q=Mention) | N/A |
-| 30 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 31 | [Asif](http://twitter.com/search?q=Asif) | N/A |
-| 32 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
-| 33 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
-| 34 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
-| 35 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
-| 36 | [Qur'an](http://twitter.com/search?q=Qur%27an) | N/A |
-| 37 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
-| 38 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 39 | [Subhan Allah](http://twitter.com/search?q=Subhan+Allah) | N/A |
-| 40 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 41 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 42 | [Chalo](http://twitter.com/search?q=Chalo) | N/A |
-| 43 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 44 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 45 | [Arif Alvi](http://twitter.com/search?q=Arif+Alvi) | N/A |
-| 46 | [Highly](http://twitter.com/search?q=Highly) | N/A |
-| 47 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
-| 48 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 49 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 50 | [Hostel](http://twitter.com/search?q=Hostel) | N/A |
+| 7 | [Welsh Fire](http://twitter.com/search?q=Welsh+Fire) | N/A |
+| 8 | [Sitara-e-Imtiaz](http://twitter.com/search?q=Sitara-e-Imtiaz) | N/A |
+| 9 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 10 | [Oval Invincibles](http://twitter.com/search?q=Oval+Invincibles) | N/A |
+| 11 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 12 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 13 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 14 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 15 | [The ECP](http://twitter.com/search?q=The+ECP) | N/A |
+| 16 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 17 | [Congratulations King](http://twitter.com/search?q=Congratulations+King) | N/A |
+| 18 | [Lahore Resolution](http://twitter.com/search?q=Lahore+Resolution) | N/A |
+| 19 | [Muhammad Ali Jinnah](http://twitter.com/search?q=Muhammad+Ali+Jinnah) | N/A |
+| 20 | [Fruit](http://twitter.com/search?q=Fruit) | N/A |
+| 21 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 22 | [Weight](http://twitter.com/search?q=Weight) | N/A |
+| 23 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 24 | [Shaheen Afridi](http://twitter.com/search?q=Shaheen+Afridi) | N/A |
+| 25 | [Congratulations Captain](http://twitter.com/search?q=Congratulations+Captain) | N/A |
+| 26 | [Chai](http://twitter.com/search?q=Chai) | N/A |
+| 27 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 28 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 29 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 30 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 31 | [Bismah](http://twitter.com/search?q=Bismah) | N/A |
+| 32 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 34 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
+| 35 | [Rooh Afza](http://twitter.com/search?q=Rooh+Afza) | N/A |
+| 36 | [Accept](http://twitter.com/search?q=Accept) | N/A |
+| 37 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 38 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 39 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
+| 40 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 41 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 42 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 43 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 44 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 45 | [England](http://twitter.com/search?q=England) | N/A |
+| 46 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 47 | [Cringe](http://twitter.com/search?q=Cringe) | N/A |
+| 48 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
+| 49 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 50 | [Subhan Allah](http://twitter.com/search?q=Subhan+Allah) | N/A |
 
 
 

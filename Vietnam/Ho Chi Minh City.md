@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-23 17:17:25 UTC`
+📆 Last Updated: `2023-03-23 18:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 2 | [#DANGHONGHAI](http://twitter.com/search?q=%23DANGHONGHAI) | N/A |
-| 3 | [#AlwaysWithDHH](http://twitter.com/search?q=%23AlwaysWithDHH) | N/A |
-| 4 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
+| 2 | [#AlwaysWithDHH](http://twitter.com/search?q=%23AlwaysWithDHH) | N/A |
+| 3 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
+| 4 | [#GucciHorseBit1955](http://twitter.com/search?q=%23GucciHorseBit1955) | N/A |
 | 5 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 6 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
 | 7 | [Loom](http://twitter.com/search?q=Loom) | N/A |
@@ -28,17 +28,17 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 11 | [Claim](http://twitter.com/search?q=Claim) | N/A |
 | 12 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 13 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 14 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 15 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 17 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 18 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 19 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 19 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
 | 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 22 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 24 | [Trông](http://twitter.com/search?q=Tr%c3%b4ng) | N/A |
 | 25 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 26 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 27 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
@@ -46,22 +46,22 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 29 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
 | 30 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 33 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 34 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
-| 35 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 36 | [vũng tàu](http://twitter.com/search?q=v%c5%a9ng+t%c3%a0u) | N/A |
-| 37 | [Thai](http://twitter.com/search?q=Thai) | N/A |
-| 38 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 39 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 41 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 42 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 43 | [West](http://twitter.com/search?q=West) | N/A |
-| 44 | [Thiệt](http://twitter.com/search?q=Thi%e1%bb%87t) | N/A |
-| 45 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
-| 46 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 47 | [Childe](http://twitter.com/search?q=Childe) | N/A |
+| 32 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 33 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
+| 34 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 35 | [vũng tàu](http://twitter.com/search?q=v%c5%a9ng+t%c3%a0u) | N/A |
+| 36 | [Thai](http://twitter.com/search?q=Thai) | N/A |
+| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 38 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 39 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 40 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 41 | [West](http://twitter.com/search?q=West) | N/A |
+| 42 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 43 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 44 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 45 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 46 | [Childe](http://twitter.com/search?q=Childe) | N/A |
+| 47 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
 | 48 | [MLEM](http://twitter.com/search?q=MLEM) | N/A |
 
 
