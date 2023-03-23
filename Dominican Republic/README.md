@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-22 23:18:04 UTC`
+📆 Last Updated: `2023-03-23 00:29:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LadronelMiente](http://twitter.com/search?q=%23LadronelMiente) | N/A |
-| 2 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 3 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
-| 4 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 5 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 6 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 7 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
-| 8 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
-| 9 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
-| 10 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 11 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 12 | [#autopistaduartemopc](http://twitter.com/search?q=%23autopistaduartemopc) | N/A |
-| 13 | [#pldevuelvanlorobado](http://twitter.com/search?q=%23pldevuelvanlorobado) | N/A |
-| 14 | [Penco](http://twitter.com/search?q=Penco) | N/A |
-| 15 | [Waze](http://twitter.com/search?q=Waze) | N/A |
-| 16 | [cid gallup](http://twitter.com/search?q=cid+gallup) | N/A |
-| 17 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 18 | [Participación Ciudadana](http://twitter.com/search?q=Participaci%c3%b3n+Ciudadana) | N/A |
-| 19 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 20 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 21 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
-| 22 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 23 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
-| 24 | [bolívar ventura](http://twitter.com/search?q=bol%c3%advar+ventura) | N/A |
-| 25 | [joaquín balaguer](http://twitter.com/search?q=joaqu%c3%adn+balaguer) | N/A |
-| 26 | [Indotel](http://twitter.com/search?q=Indotel) | N/A |
-| 27 | [Jarabe](http://twitter.com/search?q=Jarabe) | N/A |
-| 28 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
-| 29 | [Yeni Berenice](http://twitter.com/search?q=Yeni+Berenice) | N/A |
-| 30 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 31 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 32 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 33 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 34 | [Dantes](http://twitter.com/search?q=Dantes) | N/A |
-| 35 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 36 | [Consejo de Gobierno](http://twitter.com/search?q=Consejo+de+Gobierno) | N/A |
-| 37 | [CESIA EN PREMIOS HEAT](http://twitter.com/search?q=CESIA+EN+PREMIOS+HEAT) | N/A |
-| 38 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
-| 39 | [Disciplina](http://twitter.com/search?q=Disciplina) | N/A |
-| 40 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
-| 41 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 42 | [Enhorabuena](http://twitter.com/search?q=Enhorabuena) | N/A |
-| 43 | [boletri](http://twitter.com/search?q=boletri) | N/A |
-| 44 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 46 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 47 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 48 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
-| 49 | [gran santo domingo](http://twitter.com/search?q=gran+santo+domingo) | N/A |
+| 2 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
+| 3 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 4 | [#TijeraSoberana](http://twitter.com/search?q=%23TijeraSoberana) | N/A |
+| 5 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
+| 6 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
+| 7 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 8 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
+| 9 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 10 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
+| 11 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 12 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 13 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 14 | [Caroline Aquino](http://twitter.com/search?q=Caroline+Aquino) | N/A |
+| 15 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 16 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 17 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
+| 18 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 19 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
+| 20 | [#autopistaduartemopc](http://twitter.com/search?q=%23autopistaduartemopc) | N/A |
+| 21 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 22 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
+| 23 | [cid gallup](http://twitter.com/search?q=cid+gallup) | N/A |
+| 24 | [Penco](http://twitter.com/search?q=Penco) | N/A |
+| 25 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 26 | [Waze](http://twitter.com/search?q=Waze) | N/A |
+| 27 | [Participación Ciudadana](http://twitter.com/search?q=Participaci%c3%b3n+Ciudadana) | N/A |
+| 28 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
+| 29 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 30 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 31 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 32 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
+| 33 | [Foke](http://twitter.com/search?q=Foke) | N/A |
+| 34 | [bolívar ventura](http://twitter.com/search?q=bol%c3%advar+ventura) | N/A |
+| 35 | [Indotel](http://twitter.com/search?q=Indotel) | N/A |
+| 36 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
+| 37 | [Jarabe](http://twitter.com/search?q=Jarabe) | N/A |
+| 38 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 39 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 40 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 41 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
+| 42 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 43 | [dantes](http://twitter.com/search?q=dantes) | N/A |
+| 44 | [Disciplina](http://twitter.com/search?q=Disciplina) | N/A |
+| 45 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 46 | [Consejo de Gobierno](http://twitter.com/search?q=Consejo+de+Gobierno) | N/A |
+| 47 | [CESIA EN PREMIOS HEAT](http://twitter.com/search?q=CESIA+EN+PREMIOS+HEAT) | N/A |
+| 48 | [Murakami](http://twitter.com/search?q=Murakami) | N/A |
+| 49 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
 | 50 | [Roque](http://twitter.com/search?q=Roque) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-22 23:17:18 UTC`
+📆 Last Updated: `2023-03-23 00:28:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 2 | [#AntX](http://twitter.com/search?q=%23AntX) | N/A |
-| 3 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
-| 4 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 5 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 6 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 7 | [FRED NO MULTISHOW](http://twitter.com/search?q=FRED+NO+MULTISHOW) | N/A |
-| 8 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 9 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 10 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 11 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 12 | [pepe moreno](http://twitter.com/search?q=pepe+moreno) | N/A |
-| 13 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 14 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 1 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 2 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
+| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 4 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 5 | [BUIAREIS NO PODDELAS](http://twitter.com/search?q=BUIAREIS+NO+PODDELAS) | N/A |
+| 6 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
+| 7 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 8 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 9 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 10 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 11 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
+| 12 | [FRED NO MULTISHOW](http://twitter.com/search?q=FRED+NO+MULTISHOW) | N/A |
+| 13 | [Luís Roberto](http://twitter.com/search?q=Lu%c3%ads+Roberto) | N/A |
+| 14 | [Bruna e Amanda](http://twitter.com/search?q=Bruna+e+Amanda) | N/A |
 | 15 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
-| 16 | [GAROTA É O CARALHO](http://twitter.com/search?q=GAROTA+%c3%89+O+CARALHO) | N/A |
-| 17 | [#BudNoLollaBR](http://twitter.com/search?q=%23BudNoLollaBR) | N/A |
-| 18 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 19 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 20 | [Villani](http://twitter.com/search?q=Villani) | N/A |
-| 21 | [Selic](http://twitter.com/search?q=Selic) | N/A |
-| 22 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 23 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 24 | [jean mago](http://twitter.com/search?q=jean+mago) | N/A |
-| 25 | [BONINHO TOCA BANDIDA](http://twitter.com/search?q=BONINHO+TOCA+BANDIDA) | N/A |
-| 26 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 27 | [WhatsApp Web](http://twitter.com/search?q=WhatsApp+Web) | N/A |
-| 28 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 29 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 30 | [Tatooine](http://twitter.com/search?q=Tatooine) | N/A |
-| 31 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 32 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 33 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 34 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 35 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
-| 36 | [Minerva](http://twitter.com/search?q=Minerva) | N/A |
-| 37 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 38 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 39 | [Toretto](http://twitter.com/search?q=Toretto) | N/A |
-| 40 | [Marquezine](http://twitter.com/search?q=Marquezine) | N/A |
-| 41 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 42 | [Valentiner](http://twitter.com/search?q=Valentiner) | N/A |
-| 43 | [Mylon](http://twitter.com/search?q=Mylon) | N/A |
-| 44 | [Jelly](http://twitter.com/search?q=Jelly) | N/A |
-| 45 | [Ouro](http://twitter.com/search?q=Ouro) | N/A |
-| 46 | [Lissa](http://twitter.com/search?q=Lissa) | N/A |
-| 47 | [Escape](http://twitter.com/search?q=Escape) | N/A |
-| 48 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 49 | [Zumbilandia](http://twitter.com/search?q=Zumbilandia) | N/A |
-| 50 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 16 | [#PlaticandoConMaite](http://twitter.com/search?q=%23PlaticandoConMaite) | N/A |
+| 17 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 18 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 19 | [Prass](http://twitter.com/search?q=Prass) | N/A |
+| 20 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 21 | [pepe moreno](http://twitter.com/search?q=pepe+moreno) | N/A |
+| 22 | [CHIARA GRÁVIDA](http://twitter.com/search?q=CHIARA+GR%c3%81VIDA) | N/A |
+| 23 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 24 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 25 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 26 | [Everaldo Marques](http://twitter.com/search?q=Everaldo+Marques) | N/A |
+| 27 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 28 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 29 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 30 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 31 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 32 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 33 | [GAROTA É O CARALHO](http://twitter.com/search?q=GAROTA+%c3%89+O+CARALHO) | N/A |
+| 34 | [Renata Silveira](http://twitter.com/search?q=Renata+Silveira) | N/A |
+| 35 | [WhatsApp Web](http://twitter.com/search?q=WhatsApp+Web) | N/A |
+| 36 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 37 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 38 | [Milton Leite](http://twitter.com/search?q=Milton+Leite) | N/A |
+| 39 | [Marquezine](http://twitter.com/search?q=Marquezine) | N/A |
+| 40 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 41 | [MIL VEZES CANALHAS](http://twitter.com/search?q=MIL+VEZES+CANALHAS) | N/A |
+| 42 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
+| 43 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
+| 44 | [jean mago](http://twitter.com/search?q=jean+mago) | N/A |
+| 45 | [Cidade Invisível](http://twitter.com/search?q=Cidade+Invis%c3%advel) | N/A |
+| 46 | [HOJE SIM](http://twitter.com/search?q=HOJE+SIM) | N/A |
+| 47 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 48 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 49 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 50 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
 
 
 

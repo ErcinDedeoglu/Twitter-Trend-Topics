@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-22 23:17:15 UTC`
+📆 Last Updated: `2023-03-23 00:28:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [#TrabajoYCompromiso](http://twitter.com/search?q=%23TrabajoYCompromiso) | N/A |
 | 6 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
 | 7 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 8 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 9 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
-| 10 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
-| 11 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 8 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
+| 9 | [#MaduroGolpeaALosCorruptos](http://twitter.com/search?q=%23MaduroGolpeaALosCorruptos) | N/A |
+| 10 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 11 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
 | 12 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 13 | [#TeledeportesTeleven](http://twitter.com/search?q=%23TeledeportesTeleven) | N/A |
-| 14 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
-| 15 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
-| 16 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 17 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 18 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 19 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
-| 20 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 21 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 22 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
-| 23 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 24 | [Othani](http://twitter.com/search?q=Othani) | N/A |
-| 25 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
-| 26 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
-| 27 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 28 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
-| 29 | [Moral y Ética](http://twitter.com/search?q=Moral+y+%c3%89tica) | N/A |
-| 30 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
-| 31 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 32 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 13 | [Petróleo](http://twitter.com/search?q=Petr%c3%b3leo) | N/A |
+| 14 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 15 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 16 | [Kirk Douglas](http://twitter.com/search?q=Kirk+Douglas) | N/A |
+| 17 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 18 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 19 | [Coquito](http://twitter.com/search?q=Coquito) | N/A |
+| 20 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
+| 21 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 22 | [Othani](http://twitter.com/search?q=Othani) | N/A |
+| 23 | [Atilano](http://twitter.com/search?q=Atilano) | N/A |
+| 24 | [Las Mercedes](http://twitter.com/search?q=Las+Mercedes) | N/A |
+| 25 | [PSUV](http://twitter.com/search?q=PSUV) | N/A |
+| 26 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 27 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 28 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 29 | [Eyla Adrian](http://twitter.com/search?q=Eyla+Adrian) | N/A |
+| 30 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 31 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 32 | [Moral y Ética](http://twitter.com/search?q=Moral+y+%c3%89tica) | N/A |
 | 33 | [Frank Quintero](http://twitter.com/search?q=Frank+Quintero) | N/A |
-| 34 | [Simios](http://twitter.com/search?q=Simios) | N/A |
-| 35 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
-| 36 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 37 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
-| 38 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
-| 39 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 40 | [Higos](http://twitter.com/search?q=Higos) | N/A |
-| 41 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 42 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
-| 43 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
-| 44 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
-| 45 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 46 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 47 | [Carlos Almenar Otero](http://twitter.com/search?q=Carlos+Almenar+Otero) | N/A |
-| 48 | [Síndrome de Down](http://twitter.com/search?q=S%c3%adndrome+de+Down) | N/A |
-| 49 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
-| 50 | [Guaido](http://twitter.com/search?q=Guaido) | N/A |
+| 34 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
+| 35 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
+| 36 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 37 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 38 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 39 | [Baruta](http://twitter.com/search?q=Baruta) | N/A |
+| 40 | [Simios](http://twitter.com/search?q=Simios) | N/A |
+| 41 | [Fuerza Vecinal](http://twitter.com/search?q=Fuerza+Vecinal) | N/A |
+| 42 | [Bosques](http://twitter.com/search?q=Bosques) | N/A |
+| 43 | [Rafael Ramírez](http://twitter.com/search?q=Rafael+Ram%c3%adrez) | N/A |
+| 44 | [Higos](http://twitter.com/search?q=Higos) | N/A |
+| 45 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 46 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
+| 47 | [Payoneer](http://twitter.com/search?q=Payoneer) | N/A |
+| 48 | [Marcel Marceau](http://twitter.com/search?q=Marcel+Marceau) | N/A |
+| 49 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
+| 50 | [El Palito](http://twitter.com/search?q=El+Palito) | N/A |
 
 
 

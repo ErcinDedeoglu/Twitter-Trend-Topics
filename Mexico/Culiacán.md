@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-03-22 23:17:11 UTC`
+📆 Last Updated: `2023-03-23 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,48 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#enhorabuenaagua](http://twitter.com/search?q=%23enhorabuenaagua) | N/A |
-| 2 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 3 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
-| 4 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
-| 5 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 6 | [Antony Blinken](http://twitter.com/search?q=Antony+Blinken) | N/A |
-| 7 | [#ChileSeguro](http://twitter.com/search?q=%23ChileSeguro) | N/A |
-| 8 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
-| 9 | [Zitácuaro](http://twitter.com/search?q=Zit%c3%a1cuaro) | N/A |
-| 10 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 11 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 12 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 13 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 14 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
-| 15 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 16 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 17 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 18 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 19 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
-| 20 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 21 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 22 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
-| 23 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 24 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
-| 25 | [Missa](http://twitter.com/search?q=Missa) | N/A |
-| 26 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 27 | [TV Azteca](http://twitter.com/search?q=TV+Azteca) | N/A |
+| 1 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 2 | [WhatsApp Web](http://twitter.com/search?q=WhatsApp+Web) | N/A |
+| 3 | [#enhorabuenaagua](http://twitter.com/search?q=%23enhorabuenaagua) | N/A |
+| 4 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
+| 5 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
+| 6 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
+| 7 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 8 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 9 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 10 | [The Warning](http://twitter.com/search?q=The+Warning) | N/A |
+| 11 | [Roier](http://twitter.com/search?q=Roier) | N/A |
+| 12 | [Antony Blinken](http://twitter.com/search?q=Antony+Blinken) | N/A |
+| 13 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
+| 14 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 15 | [San Juan del Río](http://twitter.com/search?q=San+Juan+del+R%c3%ado) | N/A |
+| 16 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 17 | [Zitácuaro](http://twitter.com/search?q=Zit%c3%a1cuaro) | N/A |
+| 18 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 19 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
+| 20 | [Ken Salazar](http://twitter.com/search?q=Ken+Salazar) | N/A |
+| 21 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 22 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 23 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 24 | [Zaldívar](http://twitter.com/search?q=Zald%c3%advar) | N/A |
+| 25 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
+| 26 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
+| 27 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
 | 28 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 29 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
-| 30 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
-| 31 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 32 | [Jenaro](http://twitter.com/search?q=Jenaro) | N/A |
-| 33 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
-| 34 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 35 | [CNDH](http://twitter.com/search?q=CNDH) | N/A |
-| 36 | [Infonavit](http://twitter.com/search?q=Infonavit) | N/A |
-| 37 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 38 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 39 | [Richi](http://twitter.com/search?q=Richi) | N/A |
-| 40 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 41 | [#QSMP](http://twitter.com/search?q=%23QSMP) | N/A |
-| 42 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 43 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 44 | [#22DeMarzo](http://twitter.com/search?q=%2322DeMarzo) | N/A |
-| 45 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 46 | [#FrenemosElAborto](http://twitter.com/search?q=%23FrenemosElAborto) | N/A |
+| 29 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 30 | [Super Junior](http://twitter.com/search?q=Super+Junior) | N/A |
+| 31 | [Richi](http://twitter.com/search?q=Richi) | N/A |
+| 32 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
+| 33 | [Infonavit](http://twitter.com/search?q=Infonavit) | N/A |
+| 34 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 35 | [Ceremonia](http://twitter.com/search?q=Ceremonia) | Ceremonia is a Spanish word that means ceremony. It is used to refer to a formal event or ritual, such as a wedding, baptism, or graduation. It can also be used to describe the rituals and customs associated with a particular religion or culture. |
+| 36 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 37 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
+| 38 | [CNDH](http://twitter.com/search?q=CNDH) | N/A |
+| 39 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 40 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 41 | [#22DeMarzo](http://twitter.com/search?q=%2322DeMarzo) | N/A |
+| 42 | [#Miercoles](http://twitter.com/search?q=%23Miercoles) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-22 23:17:46 UTC`
+📆 Last Updated: `2023-03-23 00:29:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,28 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#رمضان_المبارك](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 2 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 3 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 4 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
-| 5 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 6 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 2 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 3 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 4 | [#آئین_پاکستان_سے_غداری_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%b3%db%92_%d8%ba%d8%af%d8%a7%d8%b1%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 5 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 7 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 8 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 9 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 8 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
+| 9 | [Chand](http://twitter.com/search?q=Chand) | N/A |
 | 10 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
 | 11 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 12 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 13 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 14 | [#SupremeCourtOfPakistan](http://twitter.com/search?q=%23SupremeCourtOfPakistan) | N/A |
-| 15 | [#Democracy_Derailed](http://twitter.com/search?q=%23Democracy_Derailed) | N/A |
-| 16 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 17 | [#آئین_ٹوٹ_گیا](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%b9%d9%88%d9%b9_%da%af%db%8c%d8%a7) | N/A |
-| 18 | [#PakistanDay](http://twitter.com/search?q=%23PakistanDay) | N/A |
-| 19 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
-| 20 | [#کراچی_لہو_لہو](http://twitter.com/search?q=%23%da%a9%d8%b1%d8%a7%da%86%db%8c_%d9%84%db%81%d9%88_%d9%84%db%81%d9%88) | N/A |
-| 21 | [#PakistanResolutionDay](http://twitter.com/search?q=%23PakistanResolutionDay) | N/A |
-| 22 | [#23rdMarch](http://twitter.com/search?q=%2323rdMarch) | N/A |
-| 23 | [#Blessings](http://twitter.com/search?q=%23Blessings) | N/A |
+| 12 | [Dahi Purchasing Officer](http://twitter.com/search?q=Dahi+Purchasing+Officer) | N/A |
+| 13 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
+| 14 | [Shaitan](http://twitter.com/search?q=Shaitan) | N/A |
+| 15 | [Zalmay Khalilzad](http://twitter.com/search?q=Zalmay+Khalilzad) | N/A |
+| 16 | [Punjab Assembly](http://twitter.com/search?q=Punjab+Assembly) | N/A |
+| 17 | [south waziristan](http://twitter.com/search?q=south+waziristan) | N/A |
+| 18 | [Taraweeh](http://twitter.com/search?q=Taraweeh) | N/A |
+| 19 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 20 | [Beshumar](http://twitter.com/search?q=Beshumar) | N/A |
+| 21 | [Ludo](http://twitter.com/search?q=Ludo) | N/A |
+| 22 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 23 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 24 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
+| 25 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 26 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 27 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 28 | [The ECP](http://twitter.com/search?q=The+ECP) | N/A |
+| 29 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 30 | [Jani](http://twitter.com/search?q=Jani) | N/A |
+| 31 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 33 | [Globe](http://twitter.com/search?q=Globe) | N/A |
+| 34 | [Paradise](http://twitter.com/search?q=Paradise) | N/A |
+| 35 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
+| 36 | [#قوم_کا_فیصلہ_عمران_خان](http://twitter.com/search?q=%23%d9%82%d9%88%d9%85_%da%a9%d8%a7_%d9%81%db%8c%d8%b5%d9%84%db%81_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 37 | [#آئین_شکنی_نامنظور](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%b4%da%a9%d9%86%db%8c_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 38 | [#Democracy_Derailed](http://twitter.com/search?q=%23Democracy_Derailed) | N/A |
+| 39 | [#صدیق_جان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b5%d8%af%db%8c%d9%82_%d8%ac%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | N/A |
+| 40 | [#زلزلہ](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d9%84%db%81) | N/A |
+| 41 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 42 | [#آئین_ٹوٹ_گیا](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%b9%d9%88%d9%b9_%da%af%db%8c%d8%a7) | N/A |
+| 43 | [#مررہی_عوام_بےضمیرحکمران](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b1%db%81%db%8c_%d8%b9%d9%88%d8%a7%d9%85_%d8%a8%db%92%d8%b6%d9%85%db%8c%d8%b1%d8%ad%da%a9%d9%85%d8%b1%d8%a7%d9%86) | N/A |
+| 44 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 45 | [#releasesiddiquejaan](http://twitter.com/search?q=%23releasesiddiquejaan) | N/A |
+| 46 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 47 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 48 | [#23March](http://twitter.com/search?q=%2323March) | N/A |
+| 49 | [#23rdMarch](http://twitter.com/search?q=%2323rdMarch) | N/A |
+| 50 | [#AmericanStoogeIK](http://twitter.com/search?q=%23AmericanStoogeIK) | N/A |
 
 
 

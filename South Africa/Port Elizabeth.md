@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-22 23:17:41 UTC`
+📆 Last Updated: `2023-03-23 00:29:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 4 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
 | 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 6 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 7 | [#theworldsnumberonecider](http://twitter.com/search?q=%23theworldsnumberonecider) | N/A |
+| 6 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
+| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 8 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 9 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 10 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
@@ -30,15 +30,15 @@ This is top 50 for [South Africa](</South Africa>)
 | 13 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
 | 14 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 15 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
-| 16 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 17 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 16 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 17 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 18 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
 | 19 | [Khosi and Ebubu](http://twitter.com/search?q=Khosi+and+Ebubu) | N/A |
-| 20 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
-| 21 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 20 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 21 | [Ndlozi](http://twitter.com/search?q=Ndlozi) | N/A |
 | 22 | [klaasen](http://twitter.com/search?q=klaasen) | N/A |
-| 23 | [Vote for Khosi](http://twitter.com/search?q=Vote+for+Khosi) | N/A |
-| 24 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 23 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 24 | [Vote for Khosi](http://twitter.com/search?q=Vote+for+Khosi) | N/A |
 | 25 | [Vryheid](http://twitter.com/search?q=Vryheid) | N/A |
 | 26 | [Athi](http://twitter.com/search?q=Athi) | N/A |
 | 27 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
@@ -50,20 +50,20 @@ This is top 50 for [South Africa](</South Africa>)
 | 33 | [Downer](http://twitter.com/search?q=Downer) | N/A |
 | 34 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
 | 35 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 36 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
-| 37 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
-| 38 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
-| 39 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 36 | [VOTE THABANG](http://twitter.com/search?q=VOTE+THABANG) | N/A |
+| 37 | [Keagan Dolly](http://twitter.com/search?q=Keagan+Dolly) | N/A |
+| 38 | [vth season](http://twitter.com/search?q=vth+season) | N/A |
+| 39 | [Kiernan](http://twitter.com/search?q=Kiernan) | N/A |
 | 40 | [Karyn](http://twitter.com/search?q=Karyn) | N/A |
 | 41 | [Team Burna](http://twitter.com/search?q=Team+Burna) | N/A |
 | 42 | [National Conference](http://twitter.com/search?q=National+Conference) | N/A |
-| 43 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
-| 44 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 45 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
-| 46 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
-| 47 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 48 | [Reservations](http://twitter.com/search?q=Reservations) | N/A |
-| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 43 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 44 | [FOCUS ON TSATSII](http://twitter.com/search?q=FOCUS+ON+TSATSII) | N/A |
+| 45 | [INFLUENTIAL TSATSII MADIBA](http://twitter.com/search?q=INFLUENTIAL+TSATSII+MADIBA) | N/A |
+| 46 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 47 | [Reservations](http://twitter.com/search?q=Reservations) | N/A |
+| 48 | [Dogg](http://twitter.com/search?q=Dogg) | N/A |
+| 49 | [Khobubu](http://twitter.com/search?q=Khobubu) | N/A |
 
 
 

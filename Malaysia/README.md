@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-22 23:18:07 UTC`
+📆 Last Updated: `2023-03-23 00:29:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Malaysia
 | 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 2 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 3 | [#SwissOpen2023](http://twitter.com/search?q=%23SwissOpen2023) | N/A |
-| 4 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 4 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 5 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 6 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 6 | [Happy Fasting](http://twitter.com/search?q=Happy+Fasting) | N/A |
 | 7 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
 | 8 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 9 | [Happy Fasting](http://twitter.com/search?q=Happy+Fasting) | N/A |
-| 10 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 11 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
-| 12 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 13 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 14 | [mrsm](http://twitter.com/search?q=mrsm) | N/A |
-| 15 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 16 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
-| 17 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 18 | [sowon](http://twitter.com/search?q=sowon) | N/A |
-| 19 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 20 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 21 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 22 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 9 | [#Drowning_in_your_Love](http://twitter.com/search?q=%23Drowning_in_your_Love) | N/A |
+| 10 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
+| 11 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 12 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 13 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 14 | [Selamat Berpuasa](http://twitter.com/search?q=Selamat+Berpuasa) | N/A |
+| 15 | [MRSM](http://twitter.com/search?q=MRSM) | N/A |
+| 16 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 17 | [sowon](http://twitter.com/search?q=sowon) | N/A |
+| 18 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 19 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 20 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 23 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
 | 24 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 25 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 26 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
-| 27 | [winner's page](http://twitter.com/search?q=winner%27s+page) | N/A |
-| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 29 | [Naim](http://twitter.com/search?q=Naim) | N/A |
-| 30 | [Awal](http://twitter.com/search?q=Awal) | N/A |
-| 31 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 32 | [Thai Hot Guy](http://twitter.com/search?q=Thai+Hot+Guy) | N/A |
-| 33 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 34 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 35 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 36 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 37 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 38 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 40 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 41 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 42 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 43 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
-| 44 | [Mara](http://twitter.com/search?q=Mara) | N/A |
-| 45 | [ops lalang](http://twitter.com/search?q=ops+lalang) | N/A |
-| 46 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 47 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 48 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 49 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 50 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 25 | [Naim](http://twitter.com/search?q=Naim) | N/A |
+| 26 | [Awal](http://twitter.com/search?q=Awal) | N/A |
+| 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 28 | [Thai Hot Guy](http://twitter.com/search?q=Thai+Hot+Guy) | N/A |
+| 29 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 31 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 32 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 34 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 35 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 36 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 37 | [Hinata](http://twitter.com/search?q=Hinata) | N/A |
+| 38 | [Sarawak](http://twitter.com/search?q=Sarawak) | N/A |
+| 39 | [Mara](http://twitter.com/search?q=Mara) | N/A |
+| 40 | [ops lalang](http://twitter.com/search?q=ops+lalang) | N/A |
+| 41 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 42 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 43 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 44 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 45 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 46 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 47 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 49 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 50 | [Malay Mail](http://twitter.com/search?q=Malay+Mail) | N/A |
 
 
 

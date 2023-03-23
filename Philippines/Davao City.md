@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-22 23:17:37 UTC`
+📆 Last Updated: `2023-03-23 00:28:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,13 +17,13 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
 | 2 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
-| 3 | [#FreenBeckyFanBoomMNL](http://twitter.com/search?q=%23FreenBeckyFanBoomMNL) | N/A |
-| 4 | [#AngGustoAtAyawKoSaSummer](http://twitter.com/search?q=%23AngGustoAtAyawKoSaSummer) | N/A |
-| 5 | [donny binisita si belle](http://twitter.com/search?q=donny+binisita+si+belle) | N/A |
+| 3 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 4 | [#fearlessdlsu](http://twitter.com/search?q=%23fearlessdlsu) | N/A |
+| 5 | [DONNY BINISITA SI BELLE](http://twitter.com/search?q=DONNY+BINISITA+SI+BELLE) | N/A |
 | 6 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
 | 7 | [kdlex petamazing onapril](http://twitter.com/search?q=kdlex+petamazing+onapril) | N/A |
-| 8 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 9 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 8 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 9 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
 | 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 11 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
 | 12 | [KAIA ANGELA CONCEPT TEASER](http://twitter.com/search?q=KAIA+ANGELA+CONCEPT+TEASER) | N/A |
@@ -31,37 +31,37 @@ This is top 50 for [Philippines](</Philippines>)
 | 14 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
 | 15 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
 | 16 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 17 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 18 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
 | 19 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 20 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 22 | [vxon comeback title reveal](http://twitter.com/search?q=vxon+comeback+title+reveal) | N/A |
-| 23 | [davidlicauco urnewartist](http://twitter.com/search?q=davidlicauco+urnewartist) | N/A |
-| 24 | [SETMEFREE SECOND WIN](http://twitter.com/search?q=SETMEFREE+SECOND+WIN) | N/A |
-| 25 | [Penshoppe](http://twitter.com/search?q=Penshoppe) | N/A |
-| 26 | [Happy Christian New Year](http://twitter.com/search?q=Happy+Christian+New+Year) | N/A |
-| 27 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 28 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 29 | [set me free 2nd slay](http://twitter.com/search?q=set+me+free+2nd+slay) | N/A |
-| 30 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
-| 31 | [illuminate the eclipse](http://twitter.com/search?q=illuminate+the+eclipse) | N/A |
-| 32 | [STAY EDITION](http://twitter.com/search?q=STAY+EDITION) | N/A |
-| 33 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 34 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 35 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 20 | [vxon comeback title reveal](http://twitter.com/search?q=vxon+comeback+title+reveal) | N/A |
+| 21 | [davidlicauco urnewartist](http://twitter.com/search?q=davidlicauco+urnewartist) | N/A |
+| 22 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
+| 23 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 24 | [Happy Christian New Year](http://twitter.com/search?q=Happy+Christian+New+Year) | N/A |
+| 25 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 26 | [SETMEFREE SECOND WIN](http://twitter.com/search?q=SETMEFREE+SECOND+WIN) | N/A |
+| 27 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 28 | [SET ME FREE 2ND SLAY](http://twitter.com/search?q=SET+ME+FREE+2ND+SLAY) | N/A |
+| 29 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 30 | [illuminate the eclipse](http://twitter.com/search?q=illuminate+the+eclipse) | N/A |
+| 31 | [STAY EDITION](http://twitter.com/search?q=STAY+EDITION) | N/A |
+| 32 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 33 | [Penshoppe](http://twitter.com/search?q=Penshoppe) | N/A |
+| 34 | [SiR BOBBY IS BACK](http://twitter.com/search?q=SiR+BOBBY+IS+BACK) | N/A |
+| 35 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
 | 36 | [Obsession](http://twitter.com/search?q=Obsession) | N/A |
-| 37 | [LOVESTRUCK PIECES](http://twitter.com/search?q=LOVESTRUCK+PIECES) | N/A |
-| 38 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 39 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 40 | [ICON VS OWNER](http://twitter.com/search?q=ICON+VS+OWNER) | N/A |
-| 41 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 42 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
-| 43 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
-| 44 | [Sganch](http://twitter.com/search?q=Sganch) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
-| 47 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
+| 37 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 38 | [ICON VS OWNER](http://twitter.com/search?q=ICON+VS+OWNER) | N/A |
+| 39 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 40 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 41 | [Thorny](http://twitter.com/search?q=Thorny) | N/A |
+| 42 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 43 | [Sganch](http://twitter.com/search?q=Sganch) | N/A |
+| 44 | [STREAM BOBBY DROWNING](http://twitter.com/search?q=STREAM+BOBBY+DROWNING) | N/A |
+| 45 | [LOVESTRUCK PIECES](http://twitter.com/search?q=LOVESTRUCK+PIECES) | N/A |
+| 46 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 47 | [FOURever WITH DREI](http://twitter.com/search?q=FOURever+WITH+DREI) | N/A |
 
 
 

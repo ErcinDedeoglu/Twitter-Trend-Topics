@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-22 23:17:59 UTC`
+📆 Last Updated: `2023-03-23 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
-| 2 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 3 | [#GivingPack](http://twitter.com/search?q=%23GivingPack) | N/A |
-| 4 | [Puff](http://twitter.com/search?q=Puff) | N/A |
-| 5 | [#ncga](http://twitter.com/search?q=%23ncga) | N/A |
-| 6 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 7 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 8 | [#AntX](http://twitter.com/search?q=%23AntX) | N/A |
-| 9 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 10 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 11 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
-| 12 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 13 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 14 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 2 | [#GivingPack](http://twitter.com/search?q=%23GivingPack) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
+| 5 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 6 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 8 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 9 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 10 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 11 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 12 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 13 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 14 | [Montebello](http://twitter.com/search?q=Montebello) | N/A |
 | 15 | [Justin Roiland](http://twitter.com/search?q=Justin+Roiland) | Justin Roiland is an American actor, writer, producer, and director. He is best known for his work on the animated television series Rick and Morty, which he co-created with Dan Harmon. He also voices the characters of both Rick and Morty in the show. |
-| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 17 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
-| 18 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 19 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
-| 20 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
+| 16 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 17 | [Morty](http://twitter.com/search?q=Morty) | Morty is a nickname for the given name Mortimer, which is of English origin and means "dead sea". It can also be used as a diminutive form of the name Mortimer. |
+| 18 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 19 | [Young Bucks](http://twitter.com/search?q=Young+Bucks) | Young Bucks is a slang term used to refer to young, ambitious, and successful people. It is often used to describe those who have achieved success at a young age or who have achieved success through hard work and determination. |
+| 20 | [The SEC](http://twitter.com/search?q=The+SEC) | The SEC stands for the United States Securities and Exchange Commission. It is a government agency that regulates the securities industry, including stock exchanges, brokers, and investment advisors. The SEC's mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. |
 | 21 | [$COIN](http://twitter.com/search?q=%24COIN) | N/A |
-| 22 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
-| 23 | [Corey Davis](http://twitter.com/search?q=Corey+Davis) | Corey Davis is a name. It is of English origin and means "brave and strong". |
-| 24 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
-| 25 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
-| 26 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 27 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 28 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
-| 29 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 30 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
-| 31 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 33 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 34 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 35 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 36 | [Rickie](http://twitter.com/search?q=Rickie) | N/A |
-| 37 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 38 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
-| 39 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 40 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
-| 41 | [UEFN](http://twitter.com/search?q=UEFN) | N/A |
-| 42 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 43 | [Counter Strike 2](http://twitter.com/search?q=Counter+Strike+2) | N/A |
+| 22 | [DeAndre Hopkins](http://twitter.com/search?q=DeAndre+Hopkins) | DeAndre Hopkins is an American football wide receiver for the Arizona Cardinals of the National Football League (NFL). He was drafted by the Houston Texans in the first round of the 2013 NFL Draft. He has been selected to four Pro Bowls and was named First-Team All-Pro in 2017. |
+| 23 | [Micah Shrewsberry](http://twitter.com/search?q=Micah+Shrewsberry) | N/A |
+| 24 | [Kip Sabian](http://twitter.com/search?q=Kip+Sabian) | N/A |
+| 25 | [Ángel Pérez](http://twitter.com/search?q=%c3%81ngel+P%c3%a9rez) | N/A |
+| 26 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 27 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
+| 28 | [Wells Notice](http://twitter.com/search?q=Wells+Notice) | N/A |
+| 29 | [Oakland](http://twitter.com/search?q=Oakland) | Oakland is a city in the U.S. state of California, located on the eastern side of San Francisco Bay. It is the largest city and the county seat of Alameda County. Oakland is known for its diverse culture, vibrant art scene, and numerous professional sports teams, including the Oakland Athletics baseball team and the Golden State Warriors basketball team. |
+| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 31 | [The Day After Tomorrow](http://twitter.com/search?q=The+Day+After+Tomorrow) | N/A |
+| 32 | [Top Flight](http://twitter.com/search?q=Top+Flight) | Top Flight is an expression used to describe something that is of the highest quality or standard. It can be used to describe a person, product, or service that is considered to be the best of its kind. |
+| 33 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 34 | [Love Calories](http://twitter.com/search?q=Love+Calories) | N/A |
+| 35 | [Hardman](http://twitter.com/search?q=Hardman) | N/A |
+| 36 | [Lindsay Lohan](http://twitter.com/search?q=Lindsay+Lohan) | N/A |
+| 37 | [Double or Nothing](http://twitter.com/search?q=Double+or+Nothing) | N/A |
+| 38 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 39 | [Mina Kimes](http://twitter.com/search?q=Mina+Kimes) | N/A |
+| 40 | [Butcher](http://twitter.com/search?q=Butcher) | N/A |
+| 41 | [Jodie](http://twitter.com/search?q=Jodie) | N/A |
+| 42 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 43 | [IM SEEING TWICE](http://twitter.com/search?q=IM+SEEING+TWICE) | N/A |
 | 44 | [Tony Toni](http://twitter.com/search?q=Tony+Toni) | N/A |
-| 45 | [Joe Douglas](http://twitter.com/search?q=Joe+Douglas) | N/A |
-| 46 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 47 | [Tonnye](http://twitter.com/search?q=Tonnye) | N/A |
-| 48 | [Garrett Wilson](http://twitter.com/search?q=Garrett+Wilson) | Garrett Wilson is a name, derived from the Old English words "gar" (spear) and "wielle" (stream). It is thought to mean "spear by the stream". |
-| 49 | [Ed Oliver](http://twitter.com/search?q=Ed+Oliver) | N/A |
+| 45 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 46 | [Once a Raider](http://twitter.com/search?q=Once+a+Raider) | Once a Raider is a phrase used to describe someone who has been associated with the Oakland Raiders, an American professional football team based in Oakland, California. It is often used to express loyalty and pride in being part of the Raiders organization. The phrase can also be used to refer to former players, coaches, and staff members who have been associated with the team. |
+| 47 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 48 | [Tanner Houck](http://twitter.com/search?q=Tanner+Houck) | N/A |
+| 49 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 50 | [SROs](http://twitter.com/search?q=SROs) | N/A |
 
 

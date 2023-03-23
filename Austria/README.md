@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-22 23:18:03 UTC`
+📆 Last Updated: `2023-03-23 00:29:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Austria
 | 12 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
 | 13 | [Almosen](http://twitter.com/search?q=Almosen) | N/A |
 | 14 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 15 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
-| 16 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 17 | [Stellungnahme](http://twitter.com/search?q=Stellungnahme) | N/A |
-| 18 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 19 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
-| 20 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
-| 21 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 22 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 15 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 16 | [Stellungnahme](http://twitter.com/search?q=Stellungnahme) | N/A |
+| 17 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 18 | [Unternehmer](http://twitter.com/search?q=Unternehmer) | N/A |
+| 19 | [#Weltwassertag](http://twitter.com/search?q=%23Weltwassertag) | N/A |
+| 20 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 21 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 22 | [Umverteilung](http://twitter.com/search?q=Umverteilung) | N/A |
 | 23 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
-| 24 | [programmieren](http://twitter.com/search?q=programmieren) | N/A |
+| 24 | [Programmieren](http://twitter.com/search?q=Programmieren) | N/A |
 | 25 | [#wohnkostenhilfe](http://twitter.com/search?q=%23wohnkostenhilfe) | N/A |
-| 26 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
+| 26 | [vorsitz](http://twitter.com/search?q=vorsitz) | N/A |
 | 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 28 | [Radweg](http://twitter.com/search?q=Radweg) | N/A |
 | 29 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 30 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 31 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 32 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 33 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 30 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 31 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
+| 32 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 33 | [hure der reichen](http://twitter.com/search?q=hure+der+reichen) | N/A |
 | 34 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 35 | [hure der reichen](http://twitter.com/search?q=hure+der+reichen) | N/A |
-| 36 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 37 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
-| 38 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 39 | [ÖVP Wien](http://twitter.com/search?q=%c3%96VP+Wien) | N/A |
-| 40 | [Wirtschaftspartei](http://twitter.com/search?q=Wirtschaftspartei) | N/A |
-| 41 | [Stände](http://twitter.com/search?q=St%c3%a4nde) | N/A |
-| 42 | [Uran](http://twitter.com/search?q=Uran) | N/A |
-| 43 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
-| 44 | [Mittelschicht](http://twitter.com/search?q=Mittelschicht) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [Hitze](http://twitter.com/search?q=Hitze) | N/A |
-| 47 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 48 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 49 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
-| 50 | [Kuchen](http://twitter.com/search?q=Kuchen) | N/A |
+| 35 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 36 | [ÖVP Wien](http://twitter.com/search?q=%c3%96VP+Wien) | N/A |
+| 37 | [wirtschaftspartei](http://twitter.com/search?q=wirtschaftspartei) | N/A |
+| 38 | [stände](http://twitter.com/search?q=st%c3%a4nde) | N/A |
+| 39 | [Unterhose](http://twitter.com/search?q=Unterhose) | N/A |
+| 40 | [Uran](http://twitter.com/search?q=Uran) | N/A |
+| 41 | [Herkunft](http://twitter.com/search?q=Herkunft) | N/A |
+| 42 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
+| 43 | [Mittelschicht](http://twitter.com/search?q=Mittelschicht) | N/A |
+| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 45 | [Hitze](http://twitter.com/search?q=Hitze) | N/A |
+| 46 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 47 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 48 | [Französisch](http://twitter.com/search?q=Franz%c3%b6sisch) | N/A |
+| 49 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 50 | [tomaselli](http://twitter.com/search?q=tomaselli) | N/A |
 
 
 

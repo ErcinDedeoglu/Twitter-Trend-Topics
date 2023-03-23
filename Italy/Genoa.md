@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-22 23:17:24 UTC`
+📆 Last Updated: `2023-03-23 00:28:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,46 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
 | 4 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
 | 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 6 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
 | 7 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 8 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
-| 9 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 10 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 11 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
-| 12 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
-| 13 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 14 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 15 | [Futura](http://twitter.com/search?q=Futura) | N/A |
-| 16 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 8 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 9 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 10 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 11 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
+| 12 | [Futura](http://twitter.com/search?q=Futura) | N/A |
+| 13 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 14 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 15 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 16 | [Lino](http://twitter.com/search?q=Lino) | N/A |
 | 17 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
-| 18 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
-| 19 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 20 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
+| 18 | [Raffaele](http://twitter.com/search?q=Raffaele) | N/A |
+| 19 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 20 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
 | 21 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 22 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 23 | [Domenico](http://twitter.com/search?q=Domenico) | N/A |
-| 24 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
-| 25 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 26 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 27 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 29 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 30 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
-| 31 | [Presidente del Consiglio](http://twitter.com/search?q=Presidente+del+Consiglio) | N/A |
-| 32 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 33 | [#latvdei100euno](http://twitter.com/search?q=%23latvdei100euno) | N/A |
-| 34 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
-| 35 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
-| 36 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
-| 37 | [#UnArmadioPerDue](http://twitter.com/search?q=%23UnArmadioPerDue) | N/A |
-| 38 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 39 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 40 | [#Superlega](http://twitter.com/search?q=%23Superlega) | N/A |
-| 41 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 42 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
-| 43 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 44 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 22 | [Massimiliano](http://twitter.com/search?q=Massimiliano) | N/A |
+| 23 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 24 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 25 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 27 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 28 | [Bibbia](http://twitter.com/search?q=Bibbia) | N/A |
+| 29 | [#latvdei100euno](http://twitter.com/search?q=%23latvdei100euno) | N/A |
+| 30 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 31 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
+| 32 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
+| 33 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 34 | [#UnArmadioPerDue](http://twitter.com/search?q=%23UnArmadioPerDue) | N/A |
+| 35 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 36 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 37 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 38 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 39 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 40 | [#superlega](http://twitter.com/search?q=%23superlega) | N/A |
+| 41 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
+| 42 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
+| 43 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 44 | [#uranioimpoverito](http://twitter.com/search?q=%23uranioimpoverito) | N/A |
 | 45 | [#GiorgiaMeloni](http://twitter.com/search?q=%23GiorgiaMeloni) | N/A |
-| 46 | [#siccità](http://twitter.com/search?q=%23siccit%c3%a0) | N/A |
-| 47 | [#uranioimpoverito](http://twitter.com/search?q=%23uranioimpoverito) | N/A |
-| 48 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
-| 49 | [#nicotelli](http://twitter.com/search?q=%23nicotelli) | N/A |
 
 
 

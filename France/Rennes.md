@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-22 23:17:21 UTC`
+📆 Last Updated: `2023-03-23 00:28:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Macron13h](http://twitter.com/search?q=%23Macron13h) | N/A |
-| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 3 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [#lesfraudestwt](http://twitter.com/search?q=%23lesfraudestwt) | N/A |
-| 6 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 7 | [#blocagetotal](http://twitter.com/search?q=%23blocagetotal) | N/A |
-| 8 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 9 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 10 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 13 | [Joey Starr](http://twitter.com/search?q=Joey+Starr) | N/A |
-| 14 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 15 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 16 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 17 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 18 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 19 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 21 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 22 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 23 | [Musulmans](http://twitter.com/search?q=Musulmans) | N/A |
-| 24 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 25 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
-| 26 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
-| 27 | [#PSGWOB](http://twitter.com/search?q=%23PSGWOB) | N/A |
-| 28 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
-| 29 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 30 | [#DonjonsetDragonsLeFilm](http://twitter.com/search?q=%23DonjonsetDragonsLeFilm) | N/A |
-| 31 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 32 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 33 | [#greve22mars](http://twitter.com/search?q=%23greve22mars) | N/A |
-| 34 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 36 | [#행복강아지_윤호야_생일축하튜](http://twitter.com/search?q=%23%ed%96%89%eb%b3%b5%ea%b0%95%ec%95%84%ec%a7%80_%ec%9c%a4%ed%98%b8%ec%95%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%8a%9c) | N/A |
-| 37 | [#OurAceArtistYunhoDay](http://twitter.com/search?q=%23OurAceArtistYunhoDay) | N/A |
+| 2 | [#Metatime](http://twitter.com/search?q=%23Metatime) | N/A |
+| 3 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 4 | [#Greve23Mars](http://twitter.com/search?q=%23Greve23Mars) | N/A |
+| 5 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
+| 6 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 7 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 8 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 9 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 10 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 11 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 12 | [Julian Bugier](http://twitter.com/search?q=Julian+Bugier) | N/A |
+| 13 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 14 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 15 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 16 | [Albane](http://twitter.com/search?q=Albane) | N/A |
+| 17 | [SMIC](http://twitter.com/search?q=SMIC) | N/A |
+| 18 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 19 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 20 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 21 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
+| 22 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 23 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 24 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
+| 25 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 26 | [JT de 13h](http://twitter.com/search?q=JT+de+13h) | N/A |
+| 27 | [Monfils](http://twitter.com/search?q=Monfils) | N/A |
+| 28 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 29 | [Karchaoui](http://twitter.com/search?q=Karchaoui) | N/A |
+| 30 | [Thauvin](http://twitter.com/search?q=Thauvin) | N/A |
+| 31 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 32 | [CS 2](http://twitter.com/search?q=CS+2) | N/A |
+| 33 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 34 | [Brevin](http://twitter.com/search?q=Brevin) | N/A |
+| 35 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
+| 36 | [Qu'Allah](http://twitter.com/search?q=Qu%27Allah) | N/A |
+| 37 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 38 | [Didier Roustan](http://twitter.com/search?q=Didier+Roustan) | N/A |
+| 39 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 40 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 41 | [Pesquet](http://twitter.com/search?q=Pesquet) | N/A |
+| 42 | [Enthoven](http://twitter.com/search?q=Enthoven) | N/A |
+| 43 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 44 | [Karmine](http://twitter.com/search?q=Karmine) | N/A |
+| 45 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 46 | [S'unir](http://twitter.com/search?q=S%27unir) | N/A |
+| 47 | [Juliette Binoche](http://twitter.com/search?q=Juliette+Binoche) | N/A |
+| 48 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
+| 49 | [eric blanc](http://twitter.com/search?q=eric+blanc) | N/A |
+| 50 | [STMG](http://twitter.com/search?q=STMG) | N/A |
 
 
 
