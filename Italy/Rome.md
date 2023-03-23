@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-23 13:20:24 UTC`
+📆 Last Updated: `2023-03-23 14:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 2 | [#23Marzo](http://twitter.com/search?q=%2323Marzo) | N/A |
 | 3 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 4 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
-| 5 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 4 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 5 | [#seSoloPotessi](http://twitter.com/search?q=%23seSoloPotessi) | N/A |
 | 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 7 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
 | 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 9 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 13 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
-| 14 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 15 | [FILIPPO](http://twitter.com/search?q=FILIPPO) | N/A |
-| 16 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
-| 17 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
-| 18 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 19 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
-| 20 | [Linus](http://twitter.com/search?q=Linus) | N/A |
-| 21 | [Loggia](http://twitter.com/search?q=Loggia) | N/A |
-| 22 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 23 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 24 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
-| 25 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 26 | [lino e silvia](http://twitter.com/search?q=lino+e+silvia) | N/A |
-| 27 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 28 | [myrta](http://twitter.com/search?q=myrta) | N/A |
-| 29 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 30 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 31 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
-| 32 | [Forza Stefano](http://twitter.com/search?q=Forza+Stefano) | N/A |
-| 33 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
-| 34 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 35 | [L'uranio](http://twitter.com/search?q=L%27uranio) | N/A |
-| 36 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 37 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 38 | [The Wall](http://twitter.com/search?q=The+Wall) | N/A |
-| 39 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 40 | [SPOILER AOTV](http://twitter.com/search?q=SPOILER+AOTV) | N/A |
-| 41 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 42 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
-| 43 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 44 | [Balcani](http://twitter.com/search?q=Balcani) | N/A |
-| 45 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
-| 46 | [Chiambretti](http://twitter.com/search?q=Chiambretti) | N/A |
-| 47 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 48 | [Armageddon](http://twitter.com/search?q=Armageddon) | N/A |
-| 49 | [Garda](http://twitter.com/search?q=Garda) | N/A |
-| 50 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 9 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [James Key](http://twitter.com/search?q=James+Key) | N/A |
+| 14 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 15 | [Carmela](http://twitter.com/search?q=Carmela) | N/A |
+| 16 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 17 | [Anna Maria](http://twitter.com/search?q=Anna+Maria) | N/A |
+| 18 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 19 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 20 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 21 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 22 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 23 | [Giovanna Sannino](http://twitter.com/search?q=Giovanna+Sannino) | N/A |
+| 24 | [Mar Rosso](http://twitter.com/search?q=Mar+Rosso) | N/A |
+| 25 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 26 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 27 | [Linus](http://twitter.com/search?q=Linus) | N/A |
+| 28 | [Grassani](http://twitter.com/search?q=Grassani) | N/A |
+| 29 | [Matteotti](http://twitter.com/search?q=Matteotti) | N/A |
+| 30 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 31 | [Cardio](http://twitter.com/search?q=Cardio) | N/A |
+| 32 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 33 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 34 | [vicario](http://twitter.com/search?q=vicario) | N/A |
+| 35 | [Domenico Cuomo](http://twitter.com/search?q=Domenico+Cuomo) | N/A |
+| 36 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 37 | [Amendola](http://twitter.com/search?q=Amendola) | N/A |
+| 38 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 39 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 40 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 41 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 42 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 43 | [Ciro Ricci](http://twitter.com/search?q=Ciro+Ricci) | N/A |
+| 44 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
+| 45 | [Balcani](http://twitter.com/search?q=Balcani) | N/A |
+| 46 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 47 | [Loggia](http://twitter.com/search?q=Loggia) | N/A |
+| 48 | [Chiambretti](http://twitter.com/search?q=Chiambretti) | N/A |
+| 49 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 50 | [Jugoslavia](http://twitter.com/search?q=Jugoslavia) | N/A |
 
 
 

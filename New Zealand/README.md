@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-23 13:20:59 UTC`
+📆 Last Updated: `2023-03-23 14:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for New Zealand
 | ------- | ------------ | ------------ |
 | 1 | [LGNZ](http://twitter.com/search?q=LGNZ) | N/A |
 | 2 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 3 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
+| 3 | [national standards](http://twitter.com/search?q=national+standards) | N/A |
 | 4 | [#NRLEelsPanthers](http://twitter.com/search?q=%23NRLEelsPanthers) | N/A |
 | 5 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
 | 6 | [#nzlvchn](http://twitter.com/search?q=%23nzlvchn) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for New Zealand
 | 10 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 11 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 12 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 13 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
+| 13 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
 | 14 | [local government nz](http://twitter.com/search?q=local+government+nz) | N/A |
 | 15 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 16 | [immigration nz](http://twitter.com/search?q=immigration+nz) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for New Zealand
 | 45 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 46 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
 | 47 | [Strange](http://twitter.com/search?q=Strange) | N/A |
-| 48 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 49 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 50 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 48 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 49 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 
 

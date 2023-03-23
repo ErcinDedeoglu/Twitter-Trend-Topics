@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-23 13:20:50 UTC`
+📆 Last Updated: `2023-03-23 14:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 5 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 6 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 7 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 9 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 10 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 11 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 12 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 13 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 14 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 15 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
-| 16 | [Happy Together](http://twitter.com/search?q=Happy+Together) | N/A |
-| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 19 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 20 | [Summerfest](http://twitter.com/search?q=Summerfest) | N/A |
-| 21 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
-| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 23 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 24 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 25 | [Joan Crawford](http://twitter.com/search?q=Joan+Crawford) | N/A |
-| 26 | [Patrick Henry](http://twitter.com/search?q=Patrick+Henry) | N/A |
-| 27 | [RIP Unc](http://twitter.com/search?q=RIP+Unc) | N/A |
-| 28 | [Kari](http://twitter.com/search?q=Kari) | N/A |
-| 29 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
-| 30 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 31 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 32 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
-| 33 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 34 | [Scientific American](http://twitter.com/search?q=Scientific+American) | N/A |
-| 35 | [Chubb](http://twitter.com/search?q=Chubb) | Chubb is a British insurance company that provides a range of insurance products and services. The name Chubb is derived from the Old English word for “shield”, which reflects the company’s commitment to protecting its customers. |
-| 36 | [Sean Penn](http://twitter.com/search?q=Sean+Penn) | N/A |
-| 37 | [Candace Owens](http://twitter.com/search?q=Candace+Owens) | N/A |
-| 38 | [Ekeler](http://twitter.com/search?q=Ekeler) | N/A |
-| 39 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 40 | [Porterhouse](http://twitter.com/search?q=Porterhouse) | N/A |
-| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 42 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 43 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 44 | [Bubbles](http://twitter.com/search?q=Bubbles) | N/A |
-| 45 | [WEEI](http://twitter.com/search?q=WEEI) | N/A |
-| 46 | [Filet](http://twitter.com/search?q=Filet) | N/A |
-| 47 | [AZ Supreme Court](http://twitter.com/search?q=AZ+Supreme+Court) | N/A |
-| 48 | [Atari](http://twitter.com/search?q=Atari) | N/A |
-| 49 | [Summer Walker](http://twitter.com/search?q=Summer+Walker) | N/A |
+| 1 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 3 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 4 | [#PAXEast](http://twitter.com/search?q=%23PAXEast) | N/A |
+| 5 | [#ThankYouAshAndPikachu](http://twitter.com/search?q=%23ThankYouAshAndPikachu) | N/A |
+| 6 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 7 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 8 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 9 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 10 | [Sinema](http://twitter.com/search?q=Sinema) | Sinema is a Turkish word meaning "cinema" or "movie theater". It is derived from the French word cinéma. |
+| 11 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 13 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
+| 14 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 15 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 16 | [Linus Tech Tips](http://twitter.com/search?q=Linus+Tech+Tips) | N/A |
+| 17 | [Wordle 642 X](http://twitter.com/search?q=Wordle+642+X) | N/A |
+| 18 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 19 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 20 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 21 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
+| 22 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 23 | [Summerfest](http://twitter.com/search?q=Summerfest) | N/A |
+| 24 | [Affordable Care Act](http://twitter.com/search?q=Affordable+Care+Act) | N/A |
+| 25 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 26 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 27 | [Chaka Khan](http://twitter.com/search?q=Chaka+Khan) | N/A |
+| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 29 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 30 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 31 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 32 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 33 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 34 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 35 | [Marysol](http://twitter.com/search?q=Marysol) | N/A |
+| 36 | [Happy Together](http://twitter.com/search?q=Happy+Together) | N/A |
+| 37 | [Patrick Henry](http://twitter.com/search?q=Patrick+Henry) | N/A |
+| 38 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
+| 39 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
+| 40 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 41 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 42 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 44 | [Mila Kunis](http://twitter.com/search?q=Mila+Kunis) | N/A |
+| 45 | [Kari](http://twitter.com/search?q=Kari) | N/A |
+| 46 | [ByteDance](http://twitter.com/search?q=ByteDance) | N/A |
+| 47 | [RIP Unc](http://twitter.com/search?q=RIP+Unc) | N/A |
+| 48 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
+| 49 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
 
 
 

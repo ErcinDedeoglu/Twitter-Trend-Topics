@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-23 13:20:20 UTC`
+📆 Last Updated: `2023-03-23 14:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
-| 2 | [#HHnapapierze](http://twitter.com/search?q=%23HHnapapierze) | N/A |
+| 1 | [#HHnapapierze](http://twitter.com/search?q=%23HHnapapierze) | N/A |
+| 2 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
 | 3 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
-| 4 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 4 | [#rzutkitarczarodzina](http://twitter.com/search?q=%23rzutkitarczarodzina) | N/A |
+| 5 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
 | 6 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 7 | [#papieroweSML](http://twitter.com/search?q=%23papieroweSML) | N/A |
-| 8 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 9 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 10 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 11 | [#CSGO2](http://twitter.com/search?q=%23CSGO2) | N/A |
-| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [Ambasada USA](http://twitter.com/search?q=Ambasada+USA) | N/A |
-| 14 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 15 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
-| 16 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 17 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 18 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 19 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 21 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 22 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 23 | [światowy dzień wody](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+wody) | N/A |
-| 24 | [overbeek](http://twitter.com/search?q=overbeek) | N/A |
-| 25 | [głupio](http://twitter.com/search?q=g%c5%82upio) | N/A |
-| 26 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 27 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 28 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 29 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
-| 30 | [iem dallas](http://twitter.com/search?q=iem+dallas) | N/A |
-| 31 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
-| 32 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
-| 33 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 34 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 35 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
-| 36 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 37 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
-| 38 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 39 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 40 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
-| 41 | [Elbląg](http://twitter.com/search?q=Elbl%c4%85g) | N/A |
-| 42 | [Walii](http://twitter.com/search?q=Walii) | N/A |
-| 43 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
-| 44 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 45 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 46 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 47 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
-| 48 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
-| 49 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
-| 50 | [zychowicz](http://twitter.com/search?q=zychowicz) | N/A |
+| 7 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 8 | [#papieroweSML](http://twitter.com/search?q=%23papieroweSML) | N/A |
+| 9 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 14 | [Neurologii](http://twitter.com/search?q=Neurologii) | N/A |
+| 15 | [Parteya](http://twitter.com/search?q=Parteya) | N/A |
+| 16 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 17 | [Ambasada USA](http://twitter.com/search?q=Ambasada+USA) | N/A |
+| 18 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 19 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 20 | [japonii](http://twitter.com/search?q=japonii) | N/A |
+| 21 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 22 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 23 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 24 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 25 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 26 | [puszcza karpacka](http://twitter.com/search?q=puszcza+karpacka) | N/A |
+| 27 | [światowy dzień wody](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+wody) | N/A |
+| 28 | [głupio](http://twitter.com/search?q=g%c5%82upio) | N/A |
+| 29 | [bartosiak](http://twitter.com/search?q=bartosiak) | N/A |
+| 30 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 31 | [Węgrzy](http://twitter.com/search?q=W%c4%99grzy) | N/A |
+| 32 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
+| 33 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
+| 34 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 35 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 36 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 37 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
+| 38 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 39 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 40 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
+| 41 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 42 | [Głosując](http://twitter.com/search?q=G%c5%82osuj%c4%85c) | N/A |
+| 43 | [Walii](http://twitter.com/search?q=Walii) | N/A |
+| 44 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 45 | [Elbląg](http://twitter.com/search?q=Elbl%c4%85g) | N/A |
+| 46 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 47 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 48 | [Grobie Nieznanego Żołnierza](http://twitter.com/search?q=Grobie+Nieznanego+%c5%bbo%c5%82nierza) | N/A |
+| 49 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 50 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
 
 
 

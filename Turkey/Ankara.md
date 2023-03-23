@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-23 13:20:45 UTC`
+📆 Last Updated: `2023-03-23 14:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,47 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#EmekliyeEşitZam](http://twitter.com/search?q=%23EmekliyeE%c5%9fitZam) | N/A |
 | 2 | [#BalGibiYönetir](http://twitter.com/search?q=%23BalGibiY%c3%b6netir) | N/A |
 | 3 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 4 | [#SaidNursi](http://twitter.com/search?q=%23SaidNursi) | N/A |
-| 5 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 4 | [#100binince](http://twitter.com/search?q=%23100binince) | N/A |
+| 5 | [#MebSayıRevizeKontnjanAdil](http://twitter.com/search?q=%23MebSay%c4%b1RevizeKontnjanAdil) | N/A |
 | 6 | [SinanOğana İmzaVer](http://twitter.com/search?q=SinanO%c4%9fana+%c4%b0mzaVer) | N/A |
-| 7 | [#Universitelilersandikta](http://twitter.com/search?q=%23Universitelilersandikta) | N/A |
-| 8 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 9 | [İlkbahar](http://twitter.com/search?q=%c4%b0lkbahar) | N/A |
-| 10 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 11 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
-| 12 | [Şeymanur](http://twitter.com/search?q=%c5%9eeymanur) | N/A |
-| 13 | [Kahramanmaraş'ta 5.3](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.3) | N/A |
-| 14 | [Zekat](http://twitter.com/search?q=Zekat) | N/A |
-| 15 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 16 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
-| 17 | [Yalı Partisi](http://twitter.com/search?q=Yal%c4%b1+Partisi) | N/A |
-| 18 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
-| 19 | [Küme](http://twitter.com/search?q=K%c3%bcme) | N/A |
-| 20 | [Tolunay Kafkas](http://twitter.com/search?q=Tolunay+Kafkas) | N/A |
+| 7 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 8 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
+| 9 | [Şeymanur](http://twitter.com/search?q=%c5%9eeymanur) | N/A |
+| 10 | [ilkbahar](http://twitter.com/search?q=ilkbahar) | N/A |
+| 11 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 12 | [Kahramanmaraş'ta 5.3](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.3) | N/A |
+| 13 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
+| 14 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 15 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 16 | [Zekat](http://twitter.com/search?q=Zekat) | N/A |
+| 17 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 18 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
+| 19 | [Yalı Partisi](http://twitter.com/search?q=Yal%c4%b1+Partisi) | N/A |
+| 20 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
 | 21 | [Ayhan Bilgen](http://twitter.com/search?q=Ayhan+Bilgen) | N/A |
-| 22 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
-| 23 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
-| 24 | [Ülkeye](http://twitter.com/search?q=%c3%9clkeye) | N/A |
-| 25 | [Çorba](http://twitter.com/search?q=%c3%87orba) | N/A |
-| 26 | [Erkan Trükten](http://twitter.com/search?q=Erkan+Tr%c3%bckten) | N/A |
-| 27 | [Yüzde 30](http://twitter.com/search?q=Y%c3%bczde+30) | Yüzde 30 is a Turkish phrase meaning "30 percent". It is used to refer to a percentage of something, such as a discount or increase in price. |
-| 28 | [Dağılın](http://twitter.com/search?q=Da%c4%9f%c4%b1l%c4%b1n) | N/A |
-| 29 | [Tuncay](http://twitter.com/search?q=Tuncay) | N/A |
-| 30 | [#MebSayıRevizeKontnjanAdil](http://twitter.com/search?q=%23MebSay%c4%b1RevizeKontnjanAdil) | N/A |
-| 31 | [#StajTalepDeğilHaktır](http://twitter.com/search?q=%23StajTalepDe%c4%9filHakt%c4%b1r) | N/A |
-| 32 | [#100binince](http://twitter.com/search?q=%23100binince) | N/A |
-| 33 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
-| 34 | [#AsrınDayanışması](http://twitter.com/search?q=%23Asr%c4%b1nDayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 35 | [#TCMB](http://twitter.com/search?q=%23TCMB) | N/A |
-| 36 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
-| 37 | [#buolmaz](http://twitter.com/search?q=%23buolmaz) | N/A |
-| 38 | [#HerşeydenÖnce5000veKısmi](http://twitter.com/search?q=%23Her%c5%9feyden%c3%96nce5000veK%c4%b1smi) | N/A |
-| 39 | [#iftar](http://twitter.com/search?q=%23iftar) | N/A |
+| 22 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
+| 23 | [Küme](http://twitter.com/search?q=K%c3%bcme) | N/A |
+| 24 | [ülkeye](http://twitter.com/search?q=%c3%bclkeye) | N/A |
+| 25 | [Erkan Trükten](http://twitter.com/search?q=Erkan+Tr%c3%bckten) | N/A |
+| 26 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
+| 27 | [Çorba](http://twitter.com/search?q=%c3%87orba) | N/A |
+| 28 | [Yüzde 30](http://twitter.com/search?q=Y%c3%bczde+30) | Yüzde 30 is a Turkish phrase meaning "30 percent". It is used to refer to a percentage of something, such as a discount or increase in price. |
+| 29 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 30 | [#StajTalepDeğilHaktır](http://twitter.com/search?q=%23StajTalepDe%c4%9filHakt%c4%b1r) | N/A |
+| 31 | [#SaidNursi](http://twitter.com/search?q=%23SaidNursi) | N/A |
+| 32 | [#Universitelilersandikta](http://twitter.com/search?q=%23Universitelilersandikta) | N/A |
+| 33 | [#luna](http://twitter.com/search?q=%23luna) | N/A |
+| 34 | [#TCMB](http://twitter.com/search?q=%23TCMB) | N/A |
+| 35 | [#iftar](http://twitter.com/search?q=%23iftar) | N/A |
+| 36 | [#AsrınDayanışması](http://twitter.com/search?q=%23Asr%c4%b1nDayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 37 | [#2000lerİsyanda](http://twitter.com/search?q=%232000ler%c4%b0syanda) | N/A |
+| 38 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
+| 39 | [#HerşeydenÖnce5000veKısmi](http://twitter.com/search?q=%23Her%c5%9feyden%c3%96nce5000veK%c4%b1smi) | N/A |
 | 40 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
 | 41 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 42 | [#2000lerİsyanda](http://twitter.com/search?q=%232000ler%c4%b0syanda) | N/A |
+| 42 | [#birimzanyeter](http://twitter.com/search?q=%23birimzanyeter) | N/A |
 | 43 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
 | 44 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
-| 45 | [#ABOveMaaşZammıHakkımız](http://twitter.com/search?q=%23ABOveMaa%c5%9fZamm%c4%b1Hakk%c4%b1m%c4%b1z) | N/A |
 
 
 

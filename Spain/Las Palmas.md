@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-23 13:20:25 UTC`
+📆 Last Updated: `2023-03-23 14:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,47 +19,47 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
 | 3 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
 | 4 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
-| 5 | [#aceliteUS](http://twitter.com/search?q=%23aceliteUS) | N/A |
-| 6 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 7 | [#PrimaveraHONORyTiendasMASlife](http://twitter.com/search?q=%23PrimaveraHONORyTiendasMASlife) | N/A |
-| 8 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [Alberto Reyero](http://twitter.com/search?q=Alberto+Reyero) | N/A |
-| 11 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
-| 12 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
-| 13 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
-| 14 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
-| 15 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
-| 16 | [Ramadán](http://twitter.com/search?q=Ramad%c3%a1n) | N/A |
-| 17 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
-| 18 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 19 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 5 | [#PrimaveraHONORyTiendasMASlife](http://twitter.com/search?q=%23PrimaveraHONORyTiendasMASlife) | N/A |
+| 6 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
+| 7 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 8 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 9 | [#laruletadelasuerte](http://twitter.com/search?q=%23laruletadelasuerte) | N/A |
+| 10 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 11 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
+| 12 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
+| 13 | [Castilla y León](http://twitter.com/search?q=Castilla+y+Le%c3%b3n) | N/A |
+| 14 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
+| 15 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 16 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
+| 17 | [Ramadán](http://twitter.com/search?q=Ramad%c3%a1n) | N/A |
+| 18 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
+| 19 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
 | 20 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 21 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 22 | [Junta de Andalucía](http://twitter.com/search?q=Junta+de+Andaluc%c3%ada) | N/A |
-| 23 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
-| 24 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 25 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
-| 26 | [Hades](http://twitter.com/search?q=Hades) | N/A |
-| 27 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 28 | [Pekín](http://twitter.com/search?q=Pek%c3%adn) | N/A |
-| 29 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
-| 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 31 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
-| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 33 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
-| 34 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
-| 35 | [#SoloParaValientes](http://twitter.com/search?q=%23SoloParaValientes) | N/A |
-| 36 | [#MadridEsCiencia](http://twitter.com/search?q=%23MadridEsCiencia) | N/A |
-| 37 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
-| 38 | [#AedemoTV2023](http://twitter.com/search?q=%23AedemoTV2023) | N/A |
-| 39 | [#APOYOROCIO23M](http://twitter.com/search?q=%23APOYOROCIO23M) | N/A |
+| 21 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
+| 22 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 23 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 24 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 25 | [Hades](http://twitter.com/search?q=Hades) | N/A |
+| 26 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 27 | [Pekín](http://twitter.com/search?q=Pek%c3%adn) | N/A |
+| 28 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 29 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
+| 30 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
+| 31 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 32 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 33 | [#aceliteUS](http://twitter.com/search?q=%23aceliteUS) | N/A |
+| 34 | [#SoloParaValientes](http://twitter.com/search?q=%23SoloParaValientes) | N/A |
+| 35 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 36 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
+| 37 | [#MadridEsCiencia](http://twitter.com/search?q=%23MadridEsCiencia) | N/A |
+| 38 | [#APOYOROCIO23M](http://twitter.com/search?q=%23APOYOROCIO23M) | N/A |
+| 39 | [#TinYTina](http://twitter.com/search?q=%23TinYTina) | N/A |
 | 40 | [#Conciliación](http://twitter.com/search?q=%23Conciliaci%c3%b3n) | N/A |
-| 41 | [#LobatoDaLaCara](http://twitter.com/search?q=%23LobatoDaLaCara) | N/A |
-| 42 | [#TinYTina](http://twitter.com/search?q=%23TinYTina) | N/A |
-| 43 | [#YoMeRebelo23M](http://twitter.com/search?q=%23YoMeRebelo23M) | N/A |
-| 44 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 45 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
+| 41 | [#YoMeRebelo23M](http://twitter.com/search?q=%23YoMeRebelo23M) | N/A |
+| 42 | [#AedemoTV2023](http://twitter.com/search?q=%23AedemoTV2023) | N/A |
+| 43 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
+| 44 | [#LobatoDaLaCara](http://twitter.com/search?q=%23LobatoDaLaCara) | N/A |
+| 45 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
 | 46 | [#CiberseguridadAnd](http://twitter.com/search?q=%23CiberseguridadAnd) | N/A |
 
 

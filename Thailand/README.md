@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-03-23 13:21:01 UTC`
+📆 Last Updated: `2023-03-23 14:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Thailand
 | ------- | ------------ | ------------ |
 | 1 | [#ชาล็อตอุ้มxโสมควีน](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%b8%e0%b9%89%e0%b8%a1x%e0%b9%82%e0%b8%aa%e0%b8%a1%e0%b8%84%e0%b8%a7%e0%b8%b5%e0%b8%99) | N/A |
 | 2 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
-| 3 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 3 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 4 | [#TheWallSongxNook_Thanadon](http://twitter.com/search?q=%23TheWallSongxNook_Thanadon) | N/A |
-| 5 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 6 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 7 | [LOVE ME W AGAIN](http://twitter.com/search?q=LOVE+ME+W+AGAIN) | N/A |
-| 8 | [Max LoveMeAgain](http://twitter.com/search?q=Max+LoveMeAgain) | N/A |
-| 9 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 10 | [#ViuUpFront2023](http://twitter.com/search?q=%23ViuUpFront2023) | N/A |
-| 11 | [#AlphaLiveRoomEP2](http://twitter.com/search?q=%23AlphaLiveRoomEP2) | N/A |
-| 12 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
-| 13 | [#ลมหายใจที่มีคุณภาพแบบพีพี](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5) | N/A |
-| 14 | [#LoveMeAgainEP1](http://twitter.com/search?q=%23LoveMeAgainEP1) | N/A |
-| 15 | [#Flex1045xTARAYLS](http://twitter.com/search?q=%23Flex1045xTARAYLS) | N/A |
-| 16 | [#ส่งต้นเที่ยวเจแปน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%88%e0%b9%81%e0%b8%9b%e0%b8%99) | N/A |
-| 17 | [#Shadowเงาล่าตาย](http://twitter.com/search?q=%23Shadow%e0%b9%80%e0%b8%87%e0%b8%b2%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%95%e0%b8%b2%e0%b8%a2) | N/A |
-| 18 | [#CentralxLifestyleAsiaxTRINITY](http://twitter.com/search?q=%23CentralxLifestyleAsiaxTRINITY) | N/A |
-| 19 | [#WanDayXTa](http://twitter.com/search?q=%23WanDayXTa) | N/A |
-| 20 | [#BvlSerpenti75_YangYang](http://twitter.com/search?q=%23BvlSerpenti75_YangYang) | N/A |
-| 21 | [#ไปอยู่กับเขาเถอะดีออก](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9b%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0%e0%b8%94%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%81) | N/A |
-| 22 | [#Showmeloveเเค่อยากบอกรัก](http://twitter.com/search?q=%23Showmelove%e0%b9%80%e0%b9%80%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 23 | [#BoysJourneyEP3](http://twitter.com/search?q=%23BoysJourneyEP3) | N/A |
-| 24 | [#SingtoPrachaya](http://twitter.com/search?q=%23SingtoPrachaya) | N/A |
-| 25 | [#BenefitTHxNewwiee](http://twitter.com/search?q=%23BenefitTHxNewwiee) | N/A |
-| 26 | [#BeyourreadywithBUILD](http://twitter.com/search?q=%23BeyourreadywithBUILD) | N/A |
-| 27 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
-| 28 | [#CentralEditionโทมัสน้ําปิง](http://twitter.com/search?q=%23CentralEdition%e0%b9%82%e0%b8%97%e0%b8%a1%e0%b8%b1%e0%b8%aa%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
-| 29 | [#BenefitThailand](http://twitter.com/search?q=%23BenefitThailand) | N/A |
-| 30 | [#POREfessional](http://twitter.com/search?q=%23POREfessional) | N/A |
-| 31 | [#PeppermintFieldxPPKrit](http://twitter.com/search?q=%23PeppermintFieldxPPKrit) | N/A |
-| 32 | [#CherprangBNK48](http://twitter.com/search?q=%23CherprangBNK48) | N/A |
-| 33 | [#Porecare](http://twitter.com/search?q=%23Porecare) | N/A |
-| 34 | [#ViuOriginal](http://twitter.com/search?q=%23ViuOriginal) | N/A |
-| 35 | [#CandyFindmetotheMoon](http://twitter.com/search?q=%23CandyFindmetotheMoon) | N/A |
-| 36 | [#CherprangAreekul](http://twitter.com/search?q=%23CherprangAreekul) | N/A |
-| 37 | [#THIOTUTOR](http://twitter.com/search?q=%23THIOTUTOR) | N/A |
-| 38 | [#มีนปิงxMakroPRO](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87xMakroPRO) | N/A |
-| 39 | [#ไทโอติวเตอร์](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%97%e0%b9%82%e0%b8%ad%e0%b8%95%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
-| 40 | [#2FLOWentertainment](http://twitter.com/search?q=%232FLOWentertainment) | N/A |
-| 41 | [#ศึก12ราศีxหยิ่นวอร์EP3](http://twitter.com/search?q=%23%e0%b8%a8%e0%b8%b6%e0%b8%8112%e0%b8%a3%e0%b8%b2%e0%b8%a8%e0%b8%b5x%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8cEP3) | N/A |
-| 42 | [#xiwofficial](http://twitter.com/search?q=%23xiwofficial) | N/A |
-| 43 | [#nnutdan](http://twitter.com/search?q=%23nnutdan) | N/A |
-| 44 | [#SoundCheckwithTRINITY](http://twitter.com/search?q=%23SoundCheckwithTRINITY) | N/A |
-| 45 | [#ชูวิทย์](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b9%8c) | N/A |
-| 46 | [#ViuShadow](http://twitter.com/search?q=%23ViuShadow) | N/A |
-| 47 | [#pearlybook](http://twitter.com/search?q=%23pearlybook) | N/A |
-| 48 | [#โฟร์ทณัฐวรรธน์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%93%e0%b8%b1%e0%b8%90%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%98%e0%b8%99%e0%b9%8c) | N/A |
-| 49 | [#estColaxChaEunWoo](http://twitter.com/search?q=%23estColaxChaEunWoo) | N/A |
-| 50 | [#เพื่อไทย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
+| 5 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 6 | [Cherprang SpecialOlympics](http://twitter.com/search?q=Cherprang+SpecialOlympics) | N/A |
+| 7 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 8 | [GEMINI FOURTH ALL KILL](http://twitter.com/search?q=GEMINI+FOURTH+ALL+KILL) | N/A |
+| 9 | [LOVE ME W AGAIN](http://twitter.com/search?q=LOVE+ME+W+AGAIN) | N/A |
+| 10 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 11 | [#CharityConcertxCherprang](http://twitter.com/search?q=%23CharityConcertxCherprang) | N/A |
+| 12 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 13 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
+| 14 | [#ViuUpFront2023](http://twitter.com/search?q=%23ViuUpFront2023) | N/A |
+| 15 | [#WanDayXTa](http://twitter.com/search?q=%23WanDayXTa) | N/A |
+| 16 | [#LoveMeAgainEP1](http://twitter.com/search?q=%23LoveMeAgainEP1) | N/A |
+| 17 | [#Flex1045xTARAYLS](http://twitter.com/search?q=%23Flex1045xTARAYLS) | N/A |
+| 18 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
+| 19 | [#AlphaLiveRoomEP2](http://twitter.com/search?q=%23AlphaLiveRoomEP2) | N/A |
+| 20 | [#KhunENBesideNanon](http://twitter.com/search?q=%23KhunENBesideNanon) | N/A |
+| 21 | [#FANDOMLIVExATLAS](http://twitter.com/search?q=%23FANDOMLIVExATLAS) | N/A |
+| 22 | [#ลมหายใจที่มีคุณภาพแบบพีพี](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5) | N/A |
+| 23 | [#Shadowเงาล่าตาย](http://twitter.com/search?q=%23Shadow%e0%b9%80%e0%b8%87%e0%b8%b2%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%95%e0%b8%b2%e0%b8%a2) | N/A |
+| 24 | [#ไปอยู่กับเขาเถอะดีออก](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9b%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0%e0%b8%94%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%81) | N/A |
+| 25 | [#CentralxLifestyleAsiaxTRINITY](http://twitter.com/search?q=%23CentralxLifestyleAsiaxTRINITY) | N/A |
+| 26 | [#ส่งต้นเที่ยวเจแปน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%80%e0%b8%88%e0%b9%81%e0%b8%9b%e0%b8%99) | N/A |
+| 27 | [#SpecialClipBedFriendxiQIYI](http://twitter.com/search?q=%23SpecialClipBedFriendxiQIYI) | N/A |
+| 28 | [#BoysJourneyEP3](http://twitter.com/search?q=%23BoysJourneyEP3) | N/A |
+| 29 | [#ออฟกัน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 30 | [#BvlSerpenti75_YangYang](http://twitter.com/search?q=%23BvlSerpenti75_YangYang) | N/A |
+| 31 | [#Showmeloveเเค่อยากบอกรัก](http://twitter.com/search?q=%23Showmelove%e0%b9%80%e0%b9%80%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
+| 32 | [#BeyourreadywithBUILD](http://twitter.com/search?q=%23BeyourreadywithBUILD) | N/A |
+| 33 | [#SingtoPrachaya](http://twitter.com/search?q=%23SingtoPrachaya) | N/A |
+| 34 | [#ViuUpFrontxSHADOW](http://twitter.com/search?q=%23ViuUpFrontxSHADOW) | N/A |
+| 35 | [#CentralEditionโทมัสน้ําปิง](http://twitter.com/search?q=%23CentralEdition%e0%b9%82%e0%b8%97%e0%b8%a1%e0%b8%b1%e0%b8%aa%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 36 | [#BenefitTHxNewwiee](http://twitter.com/search?q=%23BenefitTHxNewwiee) | N/A |
+| 37 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
+| 38 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 39 | [#CherprangBNK48](http://twitter.com/search?q=%23CherprangBNK48) | N/A |
+| 40 | [#CandyFindmetotheMoon](http://twitter.com/search?q=%23CandyFindmetotheMoon) | N/A |
+| 41 | [#THIOTUTOR](http://twitter.com/search?q=%23THIOTUTOR) | N/A |
+| 42 | [#2FLOWentertainment](http://twitter.com/search?q=%232FLOWentertainment) | N/A |
+| 43 | [#ViuOriginal](http://twitter.com/search?q=%23ViuOriginal) | N/A |
+| 44 | [#CherprangAreekul](http://twitter.com/search?q=%23CherprangAreekul) | N/A |
+| 45 | [#ไทโอติวเตอร์](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%97%e0%b9%82%e0%b8%ad%e0%b8%95%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 46 | [#BenefitThailand](http://twitter.com/search?q=%23BenefitThailand) | N/A |
+| 47 | [#POREfessional](http://twitter.com/search?q=%23POREfessional) | N/A |
+| 48 | [#PeppermintFieldxPPKrit](http://twitter.com/search?q=%23PeppermintFieldxPPKrit) | N/A |
+| 49 | [#nnutdan](http://twitter.com/search?q=%23nnutdan) | N/A |
+| 50 | [#Porecare](http://twitter.com/search?q=%23Porecare) | N/A |
 
 
 

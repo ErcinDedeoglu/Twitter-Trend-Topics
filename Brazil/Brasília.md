@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-23 13:20:17 UTC`
+📆 Last Updated: `2023-03-23 14:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
-| 2 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 3 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 4 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
-| 5 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 6 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 7 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 8 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
-| 9 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 10 | [Greve](http://twitter.com/search?q=Greve) | N/A |
-| 11 | [Marfim](http://twitter.com/search?q=Marfim) | N/A |
-| 12 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 13 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
-| 14 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 15 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 16 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 17 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
-| 18 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 19 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
-| 20 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 21 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 1 | [Raposão](http://twitter.com/search?q=Rapos%c3%a3o) | N/A |
+| 2 | [FRED NO MAIS VOCÊ](http://twitter.com/search?q=FRED+NO+MAIS+VOC%c3%8a) | N/A |
+| 3 | [DJ Jamaika](http://twitter.com/search?q=DJ+Jamaika) | N/A |
+| 4 | [Raposinho](http://twitter.com/search?q=Raposinho) | N/A |
+| 5 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 6 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 7 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
+| 8 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 9 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 11 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 12 | [Osmar Prado](http://twitter.com/search?q=Osmar+Prado) | Osmar Prado is a Brazilian name. It is derived from the Latin words "os" (mouth) and "mar" (sea), and the Portuguese word "prado" (meadow). In English, it can be translated to mean "Mouth of the Sea Meadow". |
+| 13 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 14 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 15 | [Jongwoo](http://twitter.com/search?q=Jongwoo) | N/A |
+| 16 | [PF de Lula](http://twitter.com/search?q=PF+de+Lula) | N/A |
+| 17 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 18 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 19 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 20 | [shuaibo](http://twitter.com/search?q=shuaibo) | N/A |
+| 21 | [Greve](http://twitter.com/search?q=Greve) | N/A |
 | 22 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 23 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 24 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 25 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 26 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
-| 27 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 28 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
-| 29 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
-| 30 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 31 | [Senador](http://twitter.com/search?q=Senador) | N/A |
-| 32 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
-| 33 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 34 | [Sávio](http://twitter.com/search?q=S%c3%a1vio) | N/A |
-| 35 | [Preocupante](http://twitter.com/search?q=Preocupante) | N/A |
-| 36 | [Selic](http://twitter.com/search?q=Selic) | N/A |
-| 37 | [O BC](http://twitter.com/search?q=O+BC) | N/A |
-| 38 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 39 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 40 | [BACEN](http://twitter.com/search?q=BACEN) | N/A |
-| 41 | [Marcola](http://twitter.com/search?q=Marcola) | N/A |
-| 42 | [Branca](http://twitter.com/search?q=Branca) | N/A |
-| 43 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 44 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 45 | [Prass](http://twitter.com/search?q=Prass) | N/A |
-| 46 | [Pepe Moreno](http://twitter.com/search?q=Pepe+Moreno) | N/A |
-| 47 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
-| 48 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 49 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 50 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 23 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 24 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 25 | [CATRACA LIVRE](http://twitter.com/search?q=CATRACA+LIVRE) | N/A |
+| 26 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 27 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 28 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 29 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
+| 30 | [Anthonny](http://twitter.com/search?q=Anthonny) | N/A |
+| 31 | [Costa do Marfim](http://twitter.com/search?q=Costa+do+Marfim) | N/A |
+| 32 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 33 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 34 | [Wumuti](http://twitter.com/search?q=Wumuti) | N/A |
+| 35 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
+| 36 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 37 | [Alicia Keys](http://twitter.com/search?q=Alicia+Keys) | N/A |
+| 38 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 39 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 40 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 41 | [Pablo Vittar](http://twitter.com/search?q=Pablo+Vittar) | N/A |
+| 42 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 43 | [Ranielle](http://twitter.com/search?q=Ranielle) | N/A |
+| 44 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 45 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 46 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 47 | [Ayrton Senna](http://twitter.com/search?q=Ayrton+Senna) | N/A |
+| 48 | [Senador](http://twitter.com/search?q=Senador) | N/A |
+| 49 | [Polícia Federal](http://twitter.com/search?q=Pol%c3%adcia+Federal) | N/A |
+| 50 | [Selic](http://twitter.com/search?q=Selic) | N/A |
 
 
 

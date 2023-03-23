@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-23 13:21:01 UTC`
+📆 Last Updated: `2023-03-23 14:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,52 @@ This is top 50 for Spain
 | 2 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
 | 3 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
 | 4 | [Rayden](http://twitter.com/search?q=Rayden) | N/A |
-| 5 | [#aceliteUS](http://twitter.com/search?q=%23aceliteUS) | N/A |
-| 6 | [#PrimaveraHONORyTiendasMASlife](http://twitter.com/search?q=%23PrimaveraHONORyTiendasMASlife) | N/A |
-| 7 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 8 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
-| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [#SoloParaValientes](http://twitter.com/search?q=%23SoloParaValientes) | N/A |
-| 11 | [Alberto Reyero](http://twitter.com/search?q=Alberto+Reyero) | N/A |
-| 12 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
-| 13 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
-| 14 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
-| 15 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
-| 16 | [Ramadán](http://twitter.com/search?q=Ramad%c3%a1n) | N/A |
-| 17 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
-| 18 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
-| 19 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 20 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
-| 21 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
-| 22 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 23 | [Junta de Andalucía](http://twitter.com/search?q=Junta+de+Andaluc%c3%ada) | N/A |
-| 24 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
-| 25 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 26 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
+| 5 | [#PrimaveraHONORyTiendasMASlife](http://twitter.com/search?q=%23PrimaveraHONORyTiendasMASlife) | N/A |
+| 6 | [Gabri](http://twitter.com/search?q=Gabri) | N/A |
+| 7 | [James Key](http://twitter.com/search?q=James+Key) | N/A |
+| 8 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 9 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 10 | [#laruletadelasuerte](http://twitter.com/search?q=%23laruletadelasuerte) | N/A |
+| 11 | [#aceliteUS](http://twitter.com/search?q=%23aceliteUS) | N/A |
+| 12 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 13 | [Reyero](http://twitter.com/search?q=Reyero) | N/A |
+| 14 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
+| 15 | [Castilla y León](http://twitter.com/search?q=Castilla+y+Le%c3%b3n) | N/A |
+| 16 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
+| 17 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 18 | [Ramadán](http://twitter.com/search?q=Ramad%c3%a1n) | N/A |
+| 19 | [Villano Antillano](http://twitter.com/search?q=Villano+Antillano) | N/A |
+| 20 | [Cacaolat](http://twitter.com/search?q=Cacaolat) | N/A |
+| 21 | [PSOE a Marruecos](http://twitter.com/search?q=PSOE+a+Marruecos) | N/A |
+| 22 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 23 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
+| 24 | [Albiol](http://twitter.com/search?q=Albiol) | Albiol is a Spanish surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white hill". |
+| 25 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 26 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
 | 27 | [Hades](http://twitter.com/search?q=Hades) | N/A |
-| 28 | [cgpj](http://twitter.com/search?q=cgpj) | N/A |
+| 28 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 | 29 | [Pekín](http://twitter.com/search?q=Pek%c3%adn) | N/A |
-| 30 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
+| 30 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
 | 31 | [Jota Jordi](http://twitter.com/search?q=Jota+Jordi) | N/A |
-| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 33 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
-| 34 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
-| 35 | [#MadridEsCiencia](http://twitter.com/search?q=%23MadridEsCiencia) | N/A |
-| 36 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
-| 37 | [#AedemoTV2023](http://twitter.com/search?q=%23AedemoTV2023) | N/A |
-| 38 | [#APOYOROCIO23M](http://twitter.com/search?q=%23APOYOROCIO23M) | N/A |
-| 39 | [#Conciliación](http://twitter.com/search?q=%23Conciliaci%c3%b3n) | N/A |
-| 40 | [#LobatoDaLaCara](http://twitter.com/search?q=%23LobatoDaLaCara) | N/A |
-| 41 | [#TinYTina](http://twitter.com/search?q=%23TinYTina) | N/A |
+| 32 | [Domingo 26](http://twitter.com/search?q=Domingo+26) | N/A |
+| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 34 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 35 | [#SoloParaValientes](http://twitter.com/search?q=%23SoloParaValientes) | N/A |
+| 36 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 37 | [#DíaMeteorológicoMundial](http://twitter.com/search?q=%23D%c3%adaMeteorol%c3%b3gicoMundial) | N/A |
+| 38 | [#MadridEsCiencia](http://twitter.com/search?q=%23MadridEsCiencia) | N/A |
+| 39 | [#TinYTina](http://twitter.com/search?q=%23TinYTina) | N/A |
+| 40 | [#APOYOROCIO23M](http://twitter.com/search?q=%23APOYOROCIO23M) | N/A |
+| 41 | [#Conciliación](http://twitter.com/search?q=%23Conciliaci%c3%b3n) | N/A |
 | 42 | [#YoMeRebelo23M](http://twitter.com/search?q=%23YoMeRebelo23M) | N/A |
-| 43 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
+| 43 | [#AedemoTV2023](http://twitter.com/search?q=%23AedemoTV2023) | N/A |
 | 44 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 45 | [#CiberseguridadAnd](http://twitter.com/search?q=%23CiberseguridadAnd) | N/A |
-| 46 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
-| 47 | [#emprendimiento](http://twitter.com/search?q=%23emprendimiento) | N/A |
-| 48 | [#CambioClimático](http://twitter.com/search?q=%23CambioClim%c3%a1tico) | N/A |
-| 49 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 45 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
+| 46 | [#LobatoDaLaCara](http://twitter.com/search?q=%23LobatoDaLaCara) | N/A |
+| 47 | [#CiberseguridadAnd](http://twitter.com/search?q=%23CiberseguridadAnd) | N/A |
+| 48 | [#SAA2023](http://twitter.com/search?q=%23SAA2023) | N/A |
+| 49 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 50 | [#emprendimiento](http://twitter.com/search?q=%23emprendimiento) | N/A |
 
 
 

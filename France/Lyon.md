@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-23 13:20:21 UTC`
+📆 Last Updated: `2023-03-23 14:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,46 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 2 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 3 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
-| 4 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 2 | [#ONEPIECE1079](http://twitter.com/search?q=%23ONEPIECE1079) | N/A |
+| 3 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 4 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 5 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 6 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 7 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 8 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 9 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
-| 10 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
-| 11 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 12 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
-| 13 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 14 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 15 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 16 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
-| 17 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 18 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 19 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
-| 20 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
+| 6 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 7 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 8 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 9 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
+| 10 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 11 | [#MicromaniaWu](http://twitter.com/search?q=%23MicromaniaWu) | N/A |
+| 12 | [Punisher](http://twitter.com/search?q=Punisher) | N/A |
+| 13 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 14 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 15 | [#Lorient](http://twitter.com/search?q=%23Lorient) | N/A |
+| 16 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 17 | [Gare de Lyon](http://twitter.com/search?q=Gare+de+Lyon) | N/A |
+| 18 | [Pathé](http://twitter.com/search?q=Path%c3%a9) | N/A |
+| 19 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 20 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 21 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 22 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 23 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
-| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 25 | [Grève du 23](http://twitter.com/search?q=Gr%c3%a8ve+du+23) | N/A |
-| 26 | [Tours](http://twitter.com/search?q=Tours) | N/A |
+| 22 | [Grève du 23](http://twitter.com/search?q=Gr%c3%a8ve+du+23) | N/A |
+| 23 | [Teach](http://twitter.com/search?q=Teach) | N/A |
+| 24 | [Il y a 5](http://twitter.com/search?q=Il+y+a+5) | N/A |
+| 25 | [Dolby](http://twitter.com/search?q=Dolby) | N/A |
+| 26 | [Le 23](http://twitter.com/search?q=Le+23) | N/A |
 | 27 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
 | 28 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
 | 29 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 30 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 31 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 32 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 33 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
-| 34 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
-| 35 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
-| 36 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
-| 37 | [#ClermontFerrand](http://twitter.com/search?q=%23ClermontFerrand) | N/A |
-| 38 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 30 | [Tours](http://twitter.com/search?q=Tours) | N/A |
+| 31 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 32 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 33 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 34 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 35 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 36 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
+| 37 | [#Rouen](http://twitter.com/search?q=%23Rouen) | N/A |
+| 38 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
 | 39 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 40 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 41 | [#Lorient](http://twitter.com/search?q=%23Lorient) | N/A |
-| 42 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
-| 43 | [#blocage](http://twitter.com/search?q=%23blocage) | N/A |
+| 40 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
+| 41 | [#clermontferrand](http://twitter.com/search?q=%23clermontferrand) | N/A |
 
 
 

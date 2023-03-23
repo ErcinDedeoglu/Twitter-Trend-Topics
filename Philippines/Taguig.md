@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-23 13:20:34 UTC`
+📆 Last Updated: `2023-03-23 14:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
-| 2 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
-| 3 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
-| 4 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 5 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
-| 6 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
-| 7 | [Imelda Marcos](http://twitter.com/search?q=Imelda+Marcos) | N/A |
-| 8 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 9 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 10 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 11 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 12 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 13 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
-| 14 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 15 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
-| 16 | [BINI AT PUP PRIDE 2023](http://twitter.com/search?q=BINI+AT+PUP+PRIDE+2023) | N/A |
-| 17 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 18 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 19 | [AndreaB New Serye](http://twitter.com/search?q=AndreaB+New+Serye) | N/A |
-| 20 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 21 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
-| 22 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 23 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 24 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 25 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 26 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 27 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 28 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 29 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 30 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 31 | [#SetMeFreePt2FirstWin](http://twitter.com/search?q=%23SetMeFreePt2FirstWin) | N/A |
-| 32 | [#UrdujaPanganib](http://twitter.com/search?q=%23UrdujaPanganib) | N/A |
-| 33 | [#MCGIZealousInGoodWorks](http://twitter.com/search?q=%23MCGIZealousInGoodWorks) | N/A |
-| 34 | [#우리지민이상받았네](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%a7%80%eb%af%bc%ec%9d%b4%ec%83%81%eb%b0%9b%ec%95%98%eb%84%a4) | N/A |
-| 35 | [#mgaboang](http://twitter.com/search?q=%23mgaboang) | N/A |
-| 36 | [#BOBBY_MCountdown](http://twitter.com/search?q=%23BOBBY_MCountdown) | N/A |
-| 37 | [#Jimin2ndWin](http://twitter.com/search?q=%23Jimin2ndWin) | N/A |
-| 38 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 39 | [#AtlasCoronationNight](http://twitter.com/search?q=%23AtlasCoronationNight) | N/A |
-| 40 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
-| 41 | [#AKSaKnightsAngKorona](http://twitter.com/search?q=%23AKSaKnightsAngKorona) | N/A |
-| 42 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
-| 43 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
-| 44 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
-| 45 | [#StarMagicalProm](http://twitter.com/search?q=%23StarMagicalProm) | N/A |
-| 46 | [#Lapillus](http://twitter.com/search?q=%23Lapillus) | N/A |
-| 47 | [#KDLEXSweethearts](http://twitter.com/search?q=%23KDLEXSweethearts) | N/A |
-| 48 | [#라필루스](http://twitter.com/search?q=%23%eb%9d%bc%ed%95%84%eb%a3%a8%ec%8a%a4) | N/A |
-| 49 | [#BOYCOTTEBxAPTxGMA743](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA743) | N/A |
+| 1 | [BINI AT PUP PRIDE 2023](http://twitter.com/search?q=BINI+AT+PUP+PRIDE+2023) | N/A |
+| 2 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
+| 3 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 4 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 6 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
+| 7 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 8 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 9 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 10 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
+| 11 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 13 | [kaia charlotte concept teaser](http://twitter.com/search?q=kaia+charlotte+concept+teaser) | N/A |
+| 14 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 15 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 16 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 17 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
+| 18 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 19 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 20 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 21 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 22 | [satanas](http://twitter.com/search?q=satanas) | N/A |
+| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 24 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 25 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
+| 26 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
+| 27 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 28 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 29 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 30 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 31 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
+| 32 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 33 | [#DLConvince](http://twitter.com/search?q=%23DLConvince) | N/A |
+| 34 | [#InfinityAndBeyondWithMINO](http://twitter.com/search?q=%23InfinityAndBeyondWithMINO) | N/A |
+| 35 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 36 | [#UrdujaPanganib](http://twitter.com/search?q=%23UrdujaPanganib) | N/A |
+| 37 | [#MCGIZealousInGoodWorks](http://twitter.com/search?q=%23MCGIZealousInGoodWorks) | N/A |
+| 38 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
+| 39 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
+| 40 | [#Jimin2ndWin](http://twitter.com/search?q=%23Jimin2ndWin) | N/A |
+| 41 | [#AtlasCoronationNight](http://twitter.com/search?q=%23AtlasCoronationNight) | N/A |
+| 42 | [#우리지민이상받았네](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%a7%80%eb%af%bc%ec%9d%b4%ec%83%81%eb%b0%9b%ec%95%98%eb%84%a4) | N/A |
+| 43 | [#mgaboang](http://twitter.com/search?q=%23mgaboang) | N/A |
+| 44 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 45 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
+| 46 | [#BOBBY_Mcountdown](http://twitter.com/search?q=%23BOBBY_Mcountdown) | N/A |
+| 47 | [#AKSaKnightsAngKorona](http://twitter.com/search?q=%23AKSaKnightsAngKorona) | N/A |
+| 48 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
+| 49 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
 
 
 

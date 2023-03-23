@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-23 13:20:27 UTC`
+📆 Last Updated: `2023-03-23 14:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
-| 2 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 3 | [#RAYAkanYourWay](http://twitter.com/search?q=%23RAYAkanYourWay) | N/A |
-| 4 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 5 | [#KevinValenInLove](http://twitter.com/search?q=%23KevinValenInLove) | N/A |
-| 6 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 7 | [Pevita](http://twitter.com/search?q=Pevita) | N/A |
-| 8 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
-| 9 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 10 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 12 | [Berbukalah](http://twitter.com/search?q=Berbukalah) | N/A |
-| 13 | [Looke](http://twitter.com/search?q=Looke) | N/A |
-| 14 | [Naura](http://twitter.com/search?q=Naura) | N/A |
-| 15 | [iMac](http://twitter.com/search?q=iMac) | N/A |
-| 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 17 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 18 | [WITA](http://twitter.com/search?q=WITA) | N/A |
-| 19 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 20 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 21 | [Pengangguran](http://twitter.com/search?q=Pengangguran) | N/A |
-| 22 | [100x Super Resolution Zoom](http://twitter.com/search?q=100x+Super+Resolution+Zoom) | N/A |
-| 23 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 24 | [Takjil](http://twitter.com/search?q=Takjil) | N/A |
-| 25 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 26 | [Tanggal](http://twitter.com/search?q=Tanggal) | N/A |
+| 2 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 3 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 4 | [#KevinValenInLove](http://twitter.com/search?q=%23KevinValenInLove) | N/A |
+| 5 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 6 | [Pevita](http://twitter.com/search?q=Pevita) | N/A |
+| 7 | [#RAYAkanYourWay](http://twitter.com/search?q=%23RAYAkanYourWay) | N/A |
+| 8 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 9 | [#ZALORATurns11](http://twitter.com/search?q=%23ZALORATurns11) | N/A |
+| 10 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 11 | [Naura](http://twitter.com/search?q=Naura) | N/A |
+| 12 | [Selamat Berbuka Puasa](http://twitter.com/search?q=Selamat+Berbuka+Puasa) | N/A |
+| 13 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [Looke](http://twitter.com/search?q=Looke) | N/A |
+| 16 | [Patung](http://twitter.com/search?q=Patung) | N/A |
+| 17 | [iMac](http://twitter.com/search?q=iMac) | N/A |
+| 18 | [Usir](http://twitter.com/search?q=Usir) | N/A |
+| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 20 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
+| 21 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
+| 22 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 23 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 24 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 25 | [Tanggal](http://twitter.com/search?q=Tanggal) | N/A |
+| 26 | [Pengangguran](http://twitter.com/search?q=Pengangguran) | N/A |
 | 27 | [Lancar](http://twitter.com/search?q=Lancar) | N/A |
-| 28 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
-| 29 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 30 | [Aceh](http://twitter.com/search?q=Aceh) | N/A |
-| 31 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
-| 32 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
-| 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 34 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 35 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 36 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
-| 37 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 38 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
-| 39 | [Nescafe](http://twitter.com/search?q=Nescafe) | N/A |
-| 40 | [Menu](http://twitter.com/search?q=Menu) | N/A |
-| 41 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 42 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 43 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
-| 44 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
-| 45 | [#OPPOA78diAkulaku](http://twitter.com/search?q=%23OPPOA78diAkulaku) | N/A |
-| 46 | [#셋미프리Pt2_엠카1위축하해](http://twitter.com/search?q=%23%ec%85%8b%eb%af%b8%ed%94%84%eb%a6%acPt2_%ec%97%a0%ec%b9%b41%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 47 | [#Jimin2ndWin](http://twitter.com/search?q=%23Jimin2ndWin) | N/A |
-| 48 | [#NgabubureadChallenge](http://twitter.com/search?q=%23NgabubureadChallenge) | N/A |
-| 49 | [#ViuUpFront2023](http://twitter.com/search?q=%23ViuUpFront2023) | N/A |
+| 28 | [WITA](http://twitter.com/search?q=WITA) | N/A |
+| 29 | [Iman](http://twitter.com/search?q=Iman) | N/A |
+| 30 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 31 | [Takjil](http://twitter.com/search?q=Takjil) | N/A |
+| 32 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 33 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 34 | [Aceh](http://twitter.com/search?q=Aceh) | N/A |
+| 35 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 37 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 38 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
+| 39 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
+| 40 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
+| 41 | [Nescafe](http://twitter.com/search?q=Nescafe) | N/A |
+| 42 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
+| 43 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
+| 44 | [#LifeYourWay](http://twitter.com/search?q=%23LifeYourWay) | N/A |
+| 45 | [#SetMeFreePt2_1stWin](http://twitter.com/search?q=%23SetMeFreePt2_1stWin) | N/A |
+| 46 | [#NoMathSchoolTripEP3](http://twitter.com/search?q=%23NoMathSchoolTripEP3) | N/A |
+| 47 | [#수수행_도경수_안보면섭섭행](http://twitter.com/search?q=%23%ec%88%98%ec%88%98%ed%96%89_%eb%8f%84%ea%b2%bd%ec%88%98_%ec%95%88%eb%b3%b4%eb%a9%b4%ec%84%ad%ec%84%ad%ed%96%89) | N/A |
+| 48 | [#OPPOA78diAkulaku](http://twitter.com/search?q=%23OPPOA78diAkulaku) | N/A |
+| 49 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
 
 
 
