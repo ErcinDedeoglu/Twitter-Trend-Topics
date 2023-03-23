@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-23 10:18:23 UTC`
+📆 Last Updated: `2023-03-23 11:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 1 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
 | 2 | [#papieroweSML](http://twitter.com/search?q=%23papieroweSML) | N/A |
-| 3 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 3 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
 | 4 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 5 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
-| 6 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
-| 7 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 8 | [#TakDlaInVitro](http://twitter.com/search?q=%23TakDlaInVitro) | N/A |
-| 9 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 10 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 11 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
-| 12 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 13 | [downa](http://twitter.com/search?q=downa) | N/A |
-| 14 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
-| 15 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 16 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 17 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
-| 18 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 5 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 6 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 7 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
+| 8 | [#NowaAferaBielana](http://twitter.com/search?q=%23NowaAferaBielana) | N/A |
+| 9 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 10 | [#SixofCrowsSpinoff](http://twitter.com/search?q=%23SixofCrowsSpinoff) | N/A |
+| 11 | [downa](http://twitter.com/search?q=downa) | N/A |
+| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 13 | [Japonii](http://twitter.com/search?q=Japonii) | N/A |
+| 14 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 15 | [jasionce](http://twitter.com/search?q=jasionce) | N/A |
+| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 17 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 18 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
 | 19 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 21 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 22 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
-| 23 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
-| 24 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 25 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 26 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
-| 27 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
-| 28 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
-| 29 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
-| 30 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 31 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 20 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 21 | [Puszcza Karpacka](http://twitter.com/search?q=Puszcza+Karpacka) | N/A |
+| 22 | [Światowy Dzień Wody](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Wody) | N/A |
+| 23 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 24 | [Overbeek](http://twitter.com/search?q=Overbeek) | N/A |
+| 25 | [Głupio](http://twitter.com/search?q=G%c5%82upio) | N/A |
+| 26 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 27 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 28 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 29 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
+| 30 | [Yanosik](http://twitter.com/search?q=Yanosik) | N/A |
+| 31 | [iem dallas](http://twitter.com/search?q=iem+dallas) | N/A |
 | 32 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 33 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 34 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 35 | [iem dallas](http://twitter.com/search?q=iem+dallas) | N/A |
-| 36 | [Valve](http://twitter.com/search?q=Valve) | N/A |
-| 37 | [Jacuś](http://twitter.com/search?q=Jacu%c5%9b) | N/A |
-| 38 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
-| 39 | [Błaszczaka](http://twitter.com/search?q=B%c5%82aszczaka) | N/A |
-| 40 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 41 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
-| 42 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 43 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 44 | [Leszek Miller](http://twitter.com/search?q=Leszek+Miller) | N/A |
-| 45 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 46 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 47 | [T-62](http://twitter.com/search?q=T-62) | N/A |
-| 48 | [Napoleona](http://twitter.com/search?q=Napoleona) | N/A |
+| 33 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 34 | [jacek kaczmarski](http://twitter.com/search?q=jacek+kaczmarski) | N/A |
+| 35 | [Source 2](http://twitter.com/search?q=Source+2) | N/A |
+| 36 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 37 | [Izraelem](http://twitter.com/search?q=Izraelem) | N/A |
+| 38 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 39 | [Elbląg](http://twitter.com/search?q=Elbl%c4%85g) | N/A |
+| 40 | [Puszczy Karpackiej](http://twitter.com/search?q=Puszczy+Karpackiej) | N/A |
+| 41 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 42 | [TVP Info](http://twitter.com/search?q=TVP+Info) | N/A |
+| 43 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 44 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 45 | [Żydom](http://twitter.com/search?q=%c5%bbydom) | N/A |
+| 46 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 47 | [Napoleona](http://twitter.com/search?q=Napoleona) | N/A |
+| 48 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
 | 49 | [Szwajcarii](http://twitter.com/search?q=Szwajcarii) | N/A |
-| 50 | [Rzeszowie](http://twitter.com/search?q=Rzeszowie) | N/A |
+| 50 | [Mirage 2000](http://twitter.com/search?q=Mirage+2000) | N/A |
 
 
 

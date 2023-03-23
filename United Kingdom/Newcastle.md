@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-03-23 10:17:21 UTC`
+📆 Last Updated: `2023-03-23 11:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 2 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 3 | [#PrivilegesCommittee](http://twitter.com/search?q=%23PrivilegesCommittee) | N/A |
-| 4 | [#Partygate](http://twitter.com/search?q=%23Partygate) | N/A |
-| 5 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 8 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
-| 9 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
-| 10 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 11 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 14 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 15 | [Agile](http://twitter.com/search?q=Agile) | N/A |
-| 16 | [Harriet Harman](http://twitter.com/search?q=Harriet+Harman) | N/A |
-| 17 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 18 | [No 10](http://twitter.com/search?q=No+10) | N/A |
-| 19 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 20 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 21 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 22 | [BoJo](http://twitter.com/search?q=BoJo) | N/A |
-| 23 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
-| 24 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 25 | [Steve Baker](http://twitter.com/search?q=Steve+Baker) | N/A |
-| 26 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 27 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 28 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 29 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 30 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
-| 31 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 32 | [Peter Bone](http://twitter.com/search?q=Peter+Bone) | N/A |
-| 33 | [Pannick](http://twitter.com/search?q=Pannick) | N/A |
-| 34 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 35 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 36 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 37 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
-| 38 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 39 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 40 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 41 | [Ahmed Best](http://twitter.com/search?q=Ahmed+Best) | N/A |
-| 42 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 43 | [Bernard Jenkin](http://twitter.com/search?q=Bernard+Jenkin) | N/A |
-| 44 | [Windsor Framework](http://twitter.com/search?q=Windsor+Framework) | N/A |
-| 45 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 46 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 47 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
-| 48 | [Hanson](http://twitter.com/search?q=Hanson) | N/A |
-| 49 | [Cerberus](http://twitter.com/search?q=Cerberus) | N/A |
+| 1 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 2 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 4 | [Nathan Cleary](http://twitter.com/search?q=Nathan+Cleary) | N/A |
+| 5 | [#DayOfReflection](http://twitter.com/search?q=%23DayOfReflection) | N/A |
+| 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 8 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 9 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 10 | [Agile](http://twitter.com/search?q=Agile) | N/A |
+| 11 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 12 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 13 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 14 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 15 | [Martyn](http://twitter.com/search?q=Martyn) | N/A |
+| 16 | [Daily Quordle 423](http://twitter.com/search?q=Daily+Quordle+423) | N/A |
+| 17 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 18 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 19 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 20 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 21 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 22 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 23 | [23rd March](http://twitter.com/search?q=23rd+March) | N/A |
+| 24 | [Saturday Live](http://twitter.com/search?q=Saturday+Live) | N/A |
+| 25 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 26 | [Kangaroo Court](http://twitter.com/search?q=Kangaroo+Court) | N/A |
+| 27 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 28 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
+| 29 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 30 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 31 | [#ASongOrMovieForAnythingSmall](http://twitter.com/search?q=%23ASongOrMovieForAnythingSmall) | N/A |
+| 32 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 33 | [#PeoplesPlanforNature](http://twitter.com/search?q=%23PeoplesPlanforNature) | N/A |
+| 34 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 35 | [#beatlesblur](http://twitter.com/search?q=%23beatlesblur) | N/A |
+| 36 | [#ToriesOut259](http://twitter.com/search?q=%23ToriesOut259) | N/A |
+| 37 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
+| 38 | [#lockdown](http://twitter.com/search?q=%23lockdown) | N/A |
+| 39 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 40 | [#BorisIsALiar](http://twitter.com/search?q=%23BorisIsALiar) | N/A |
+| 41 | [#partygatehearing](http://twitter.com/search?q=%23partygatehearing) | N/A |
+| 42 | [#ToryLiars](http://twitter.com/search?q=%23ToryLiars) | N/A |
+| 43 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 
 
 

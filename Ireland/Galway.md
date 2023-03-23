@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-23 10:17:34 UTC`
+📆 Last Updated: `2023-03-23 11:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#EvictionBan](http://twitter.com/search?q=%23EvictionBan) | N/A |
 | 2 | [#heartofireland](http://twitter.com/search?q=%23heartofireland) | N/A |
 | 3 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
-| 4 | [#IRLLAT](http://twitter.com/search?q=%23IRLLAT) | N/A |
+| 4 | [#MIIDMX23](http://twitter.com/search?q=%23MIIDMX23) | N/A |
 | 5 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
 | 6 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
 | 7 | [Mikey Johnston](http://twitter.com/search?q=Mikey+Johnston) | N/A |
 | 8 | [Kelleher](http://twitter.com/search?q=Kelleher) | Kelleher is an Irish surname derived from the Gaelic name Ó Ceileachair, which means "descendant of Ceileachar". The name is most commonly found in County Cork and County Kerry in Ireland. |
 | 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
-| 11 | [browne](http://twitter.com/search?q=browne) | N/A |
-| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 13 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 14 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 15 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 16 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 10 | [Browne](http://twitter.com/search?q=Browne) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 13 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 14 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
+| 15 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
+| 16 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
 | 17 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 18 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 19 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
-| 20 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 21 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 22 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
-| 23 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
+| 18 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 19 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 20 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 21 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | N/A |
+| 22 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 23 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
 | 24 | [Paddy Carr](http://twitter.com/search?q=Paddy+Carr) | N/A |
 | 25 | [mcclean](http://twitter.com/search?q=mcclean) | N/A |
-| 26 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 27 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 28 | [leinster house](http://twitter.com/search?q=leinster+house) | N/A |
-| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 30 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 31 | [molumby](http://twitter.com/search?q=molumby) | N/A |
-| 32 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 33 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 35 | [O'Dowda](http://twitter.com/search?q=O%27Dowda) | N/A |
-| 36 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 38 | [Gript](http://twitter.com/search?q=Gript) | N/A |
-| 39 | [Lovejoy](http://twitter.com/search?q=Lovejoy) | N/A |
-| 40 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
-| 41 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 42 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
-| 43 | [cathal berry](http://twitter.com/search?q=cathal+berry) | N/A |
-| 44 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
-| 45 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
-| 46 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 47 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 48 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 49 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 26 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 27 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 28 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 29 | [leinster house](http://twitter.com/search?q=leinster+house) | N/A |
+| 30 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 31 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 32 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 33 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 34 | [O'Dowda](http://twitter.com/search?q=O%27Dowda) | N/A |
+| 35 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 36 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 37 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 38 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 39 | [World Down Syndrome Day](http://twitter.com/search?q=World+Down+Syndrome+Day) | N/A |
+| 40 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 41 | [cathal berry](http://twitter.com/search?q=cathal+berry) | N/A |
+| 42 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 43 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 44 | [Mattie](http://twitter.com/search?q=Mattie) | N/A |
+| 45 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 46 | [McGeady](http://twitter.com/search?q=McGeady) | N/A |
+| 47 | [Soccer AM](http://twitter.com/search?q=Soccer+AM) | N/A |
+| 48 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 49 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 
 
 

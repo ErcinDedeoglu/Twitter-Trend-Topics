@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-23 10:17:50 UTC`
+📆 Last Updated: `2023-03-23 11:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 2 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 3 | [#BINI_PUPSolidarityConcert](http://twitter.com/search?q=%23BINI_PUPSolidarityConcert) | N/A |
-| 4 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
-| 5 | [#HORI7ON_DASH_MV](http://twitter.com/search?q=%23HORI7ON_DASH_MV) | N/A |
-| 6 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 7 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 8 | [AndreaB New Serye](http://twitter.com/search?q=AndreaB+New+Serye) | N/A |
-| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [kdlex petamazing onapril](http://twitter.com/search?q=kdlex+petamazing+onapril) | N/A |
-| 11 | [SUNOO LIVE](http://twitter.com/search?q=SUNOO+LIVE) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 13 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 14 | [kaia angela concept teaser](http://twitter.com/search?q=kaia+angela+concept+teaser) | N/A |
-| 15 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 16 | [JIMMY KIMMEL](http://twitter.com/search?q=JIMMY+KIMMEL) | N/A |
-| 17 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
-| 18 | [NINE OR NONE](http://twitter.com/search?q=NINE+OR+NONE) | N/A |
-| 19 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 20 | [MY PACE](http://twitter.com/search?q=MY+PACE) | N/A |
-| 21 | [TIME OUT](http://twitter.com/search?q=TIME+OUT) | N/A |
-| 22 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
-| 23 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 24 | [Nyebe](http://twitter.com/search?q=Nyebe) | N/A |
-| 25 | [JISOO 2ND CONCEPT POSTER](http://twitter.com/search?q=JISOO+2ND+CONCEPT+POSTER) | N/A |
-| 26 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 27 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 28 | [The Notebook](http://twitter.com/search?q=The+Notebook) | N/A |
-| 29 | [SUNSHINES FOREVER](http://twitter.com/search?q=SUNSHINES+FOREVER) | N/A |
-| 30 | [Mino](http://twitter.com/search?q=Mino) | N/A |
-| 31 | [illuminate the eclipse](http://twitter.com/search?q=illuminate+the+eclipse) | N/A |
-| 32 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 33 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 34 | [happy christian new year](http://twitter.com/search?q=happy+christian+new+year) | N/A |
-| 35 | [Pharmally](http://twitter.com/search?q=Pharmally) | N/A |
-| 36 | [Road to 1M](http://twitter.com/search?q=Road+to+1M) | N/A |
-| 37 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 38 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 39 | [KYJI HERE TWOstay](http://twitter.com/search?q=KYJI+HERE+TWOstay) | N/A |
-| 40 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 41 | [thorny](http://twitter.com/search?q=thorny) | N/A |
-| 42 | [CHOI SEUNGCHEOL](http://twitter.com/search?q=CHOI+SEUNGCHEOL) | N/A |
-| 43 | [fifi](http://twitter.com/search?q=fifi) | N/A |
-| 44 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 45 | [Obsession](http://twitter.com/search?q=Obsession) | N/A |
-| 46 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
-| 47 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 48 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 49 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 50 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
+| 1 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
+| 2 | [#또있지또있지_런쥔이_생일](http://twitter.com/search?q=%23%eb%98%90%ec%9e%88%ec%a7%80%eb%98%90%ec%9e%88%ec%a7%80_%eb%9f%b0%ec%a5%94%ec%9d%b4_%ec%83%9d%ec%9d%bc) | N/A |
+| 3 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 4 | [#SetMeFreePt2FirstWin](http://twitter.com/search?q=%23SetMeFreePt2FirstWin) | N/A |
+| 5 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 6 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
+| 7 | [#BINI_PUPSolidarityConcert](http://twitter.com/search?q=%23BINI_PUPSolidarityConcert) | N/A |
+| 8 | [#mgaboang](http://twitter.com/search?q=%23mgaboang) | N/A |
+| 9 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 10 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 11 | [AndreaB New Serye](http://twitter.com/search?q=AndreaB+New+Serye) | N/A |
+| 12 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 13 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
+| 14 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 15 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 16 | [Nyebe](http://twitter.com/search?q=Nyebe) | N/A |
+| 17 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 18 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 19 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 20 | [SUNSHINES FOREVER](http://twitter.com/search?q=SUNSHINES+FOREVER) | N/A |
+| 21 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 22 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 23 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 24 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
+| 25 | [#BOBBY_MCountdown](http://twitter.com/search?q=%23BOBBY_MCountdown) | N/A |
+| 26 | [#Jimin2ndWin](http://twitter.com/search?q=%23Jimin2ndWin) | N/A |
+| 27 | [#AtlasCoronationNight](http://twitter.com/search?q=%23AtlasCoronationNight) | N/A |
+| 28 | [#SUNOO](http://twitter.com/search?q=%23SUNOO) | N/A |
+| 29 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
+| 30 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 31 | [#AKSaKnightsAngKorona](http://twitter.com/search?q=%23AKSaKnightsAngKorona) | N/A |
+| 32 | [#JOSHCULLENOnVirginRadioDXB](http://twitter.com/search?q=%23JOSHCULLENOnVirginRadioDXB) | N/A |
+| 33 | [#StarMagicalProm](http://twitter.com/search?q=%23StarMagicalProm) | N/A |
+| 34 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
+| 35 | [#BOYCOTTEBxAPTxGMA743](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA743) | N/A |
+| 36 | [#BOBBY_DROWNING](http://twitter.com/search?q=%23BOBBY_DROWNING) | N/A |
+| 37 | [#라필루스](http://twitter.com/search?q=%23%eb%9d%bc%ed%95%84%eb%a3%a8%ec%8a%a4) | N/A |
+| 38 | [#Lapillus](http://twitter.com/search?q=%23Lapillus) | N/A |
+| 39 | [#KDLEXSweethearts](http://twitter.com/search?q=%23KDLEXSweethearts) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-23 10:18:23 UTC`
+📆 Last Updated: `2023-03-23 11:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,24 +17,24 @@ This is top 50 for Peru
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 2 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 3 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 4 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
-| 5 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 6 | [Paolo Hurtado](http://twitter.com/search?q=Paolo+Hurtado) | N/A |
-| 7 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
-| 8 | [freddie](http://twitter.com/search?q=freddie) | N/A |
-| 9 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
-| 10 | [Jossmery Toledo](http://twitter.com/search?q=Jossmery+Toledo) | N/A |
-| 11 | [Rosalino Flores](http://twitter.com/search?q=Rosalino+Flores) | N/A |
-| 12 | [don gil](http://twitter.com/search?q=don+gil) | N/A |
-| 13 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 14 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 15 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 16 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
-| 17 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 18 | [yuquitas](http://twitter.com/search?q=yuquitas) | N/A |
-| 19 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 20 | [aníbal torres](http://twitter.com/search?q=an%c3%adbal+torres) | N/A |
+| 3 | [gahela](http://twitter.com/search?q=gahela) | N/A |
+| 4 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
+| 5 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 6 | [Paolo hurtado](http://twitter.com/search?q=Paolo+hurtado) | N/A |
+| 7 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 8 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
+| 9 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 10 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
+| 11 | [Jossmery Toledo](http://twitter.com/search?q=Jossmery+Toledo) | N/A |
+| 12 | [Rosalino Flores](http://twitter.com/search?q=Rosalino+Flores) | N/A |
+| 13 | [don gil](http://twitter.com/search?q=don+gil) | N/A |
+| 14 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
+| 15 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 16 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 17 | [TXT LOLLAPALOOZA HEADLINER](http://twitter.com/search?q=TXT+LOLLAPALOOZA+HEADLINER) | N/A |
+| 18 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 19 | [yuquitas](http://twitter.com/search?q=yuquitas) | N/A |
+| 20 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
 | 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 22 | [ester 7](http://twitter.com/search?q=ester+7) | N/A |
 | 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Peru
 | 30 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
 | 31 | [con 66](http://twitter.com/search?q=con+66) | N/A |
 | 32 | [Tabaco](http://twitter.com/search?q=Tabaco) | N/A |
-| 33 | [Loreto](http://twitter.com/search?q=Loreto) | N/A |
+| 33 | [loreto](http://twitter.com/search?q=loreto) | N/A |
 | 34 | [El Español](http://twitter.com/search?q=El+Espa%c3%b1ol) | N/A |
 | 35 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
 | 36 | [Varillas](http://twitter.com/search?q=Varillas) | Varillas is a Spanish word that means "rods" or "bars". It is used to refer to metal rods or bars, usually made of steel, that are used in construction and other applications. |
-| 37 | [Christian Domínguez](http://twitter.com/search?q=Christian+Dom%c3%adnguez) | N/A |
-| 38 | [epson](http://twitter.com/search?q=epson) | N/A |
+| 37 | [christian domínguez](http://twitter.com/search?q=christian+dom%c3%adnguez) | N/A |
+| 38 | [Epson](http://twitter.com/search?q=Epson) | N/A |
 | 39 | [Gonzales](http://twitter.com/search?q=Gonzales) | N/A |
-| 40 | [juanpi](http://twitter.com/search?q=juanpi) | N/A |
+| 40 | [Juanpi](http://twitter.com/search?q=Juanpi) | N/A |
 | 41 | [interbank](http://twitter.com/search?q=interbank) | N/A |
 | 42 | [río rímac](http://twitter.com/search?q=r%c3%ado+r%c3%admac) | N/A |
-| 43 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 44 | [Susel](http://twitter.com/search?q=Susel) | N/A |
-| 45 | [yotun](http://twitter.com/search?q=yotun) | N/A |
-| 46 | [comizzo](http://twitter.com/search?q=comizzo) | N/A |
-| 47 | [Tabackus](http://twitter.com/search?q=Tabackus) | N/A |
-| 48 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 49 | [Casal](http://twitter.com/search?q=Casal) | N/A |
-| 50 | [murru](http://twitter.com/search?q=murru) | N/A |
+| 43 | [yotun](http://twitter.com/search?q=yotun) | N/A |
+| 44 | [comizzo](http://twitter.com/search?q=comizzo) | N/A |
+| 45 | [Tabackus](http://twitter.com/search?q=Tabackus) | N/A |
+| 46 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 47 | [Casal](http://twitter.com/search?q=Casal) | N/A |
+| 48 | [murru](http://twitter.com/search?q=murru) | N/A |
+| 49 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 50 | [santa mónica](http://twitter.com/search?q=santa+m%c3%b3nica) | N/A |
 
 
 

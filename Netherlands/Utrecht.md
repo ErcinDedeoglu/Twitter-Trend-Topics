@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-23 10:17:39 UTC`
+📆 Last Updated: `2023-03-23 11:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,49 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
 | 2 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 4 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 5 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 6 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
 | 7 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 8 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
-| 9 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 10 | [Veldzicht](http://twitter.com/search?q=Veldzicht) | N/A |
-| 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 12 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 13 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 14 | [Renske](http://twitter.com/search?q=Renske) | N/A |
-| 15 | [Bijl](http://twitter.com/search?q=Bijl) | N/A |
-| 16 | [Zoutelande](http://twitter.com/search?q=Zoutelande) | N/A |
-| 17 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 18 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 19 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
-| 20 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 21 | [Natuurmonumenten](http://twitter.com/search?q=Natuurmonumenten) | N/A |
-| 22 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 25 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
-| 26 | [Van Roosmalen](http://twitter.com/search?q=Van+Roosmalen) | N/A |
-| 27 | [Noord Korea](http://twitter.com/search?q=Noord+Korea) | N/A |
-| 28 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
-| 29 | [Gestemd](http://twitter.com/search?q=Gestemd) | N/A |
-| 30 | [burgemeester](http://twitter.com/search?q=burgemeester) | N/A |
-| 31 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 32 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 33 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 34 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 35 | [kenzy](http://twitter.com/search?q=kenzy) | N/A |
-| 36 | [bezorgde vvd'ers](http://twitter.com/search?q=bezorgde+vvd%27ers) | N/A |
-| 37 | [Voorlichting](http://twitter.com/search?q=Voorlichting) | N/A |
-| 38 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 39 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 40 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
-| 41 | [Damien Rice](http://twitter.com/search?q=Damien+Rice) | N/A |
-| 42 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 43 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 44 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 45 | [Hartelijk](http://twitter.com/search?q=Hartelijk) | N/A |
+| 8 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 9 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 10 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 11 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
+| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 14 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 15 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 16 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 17 | [Renske](http://twitter.com/search?q=Renske) | N/A |
+| 18 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 19 | [Zoutelande](http://twitter.com/search?q=Zoutelande) | N/A |
+| 20 | [Veldzicht-therapeute](http://twitter.com/search?q=Veldzicht-therapeute) | N/A |
+| 21 | [EU-top](http://twitter.com/search?q=EU-top) | N/A |
+| 22 | [Fadi](http://twitter.com/search?q=Fadi) | N/A |
+| 23 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 24 | [jovd](http://twitter.com/search?q=jovd) | N/A |
+| 25 | [Natuurmonumenten](http://twitter.com/search?q=Natuurmonumenten) | N/A |
+| 26 | [Kinderen](http://twitter.com/search?q=Kinderen) | N/A |
+| 27 | [Joodse Raad](http://twitter.com/search?q=Joodse+Raad) | N/A |
+| 28 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [purmerend](http://twitter.com/search?q=purmerend) | N/A |
+| 31 | [Van Roosmalen](http://twitter.com/search?q=Van+Roosmalen) | N/A |
+| 32 | [Martin Bosma](http://twitter.com/search?q=Martin+Bosma) | N/A |
+| 33 | [burgemeester](http://twitter.com/search?q=burgemeester) | N/A |
+| 34 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 35 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 36 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 37 | [Gestemd](http://twitter.com/search?q=Gestemd) | N/A |
+| 38 | [kenzy](http://twitter.com/search?q=kenzy) | N/A |
+| 39 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 40 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
+| 41 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 42 | [Damien Rice](http://twitter.com/search?q=Damien+Rice) | N/A |
+| 43 | [Seksuele](http://twitter.com/search?q=Seksuele) | N/A |
+| 44 | [Voorlichting](http://twitter.com/search?q=Voorlichting) | N/A |
+| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
 | 46 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
 
 

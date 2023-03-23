@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-23 10:18:22 UTC`
+📆 Last Updated: `2023-03-23 11:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,20 +27,20 @@ This is top 50 for Mexico
 | 10 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
 | 11 | [KAMP](http://twitter.com/search?q=KAMP) | N/A |
 | 12 | [#felizmartes](http://twitter.com/search?q=%23felizmartes) | N/A |
-| 13 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 14 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 15 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 13 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
+| 14 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 15 | [el chueco](http://twitter.com/search?q=el+chueco) | N/A |
 | 16 | [Jenare](http://twitter.com/search?q=Jenare) | N/A |
-| 17 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
-| 18 | [floricienta](http://twitter.com/search?q=floricienta) | N/A |
+| 17 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 18 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
 | 19 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
 | 20 | [esencia out now](http://twitter.com/search?q=esencia+out+now) | N/A |
 | 21 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
 | 22 | [Benito Juárez](http://twitter.com/search?q=Benito+Ju%c3%a1rez) | N/A |
 | 23 | [Alejandro Camacho](http://twitter.com/search?q=Alejandro+Camacho) | N/A |
-| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 25 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
-| 26 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 24 | [Scarlett Camberos](http://twitter.com/search?q=Scarlett+Camberos) | N/A |
+| 25 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
+| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 27 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
 | 28 | [Manuel Añorve](http://twitter.com/search?q=Manuel+A%c3%b1orve) | N/A |
 | 29 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |

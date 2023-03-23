@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-23 10:18:20 UTC`
+📆 Last Updated: `2023-03-23 11:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,18 +18,18 @@ This is top 50 for Guatemala
 | 1 | [#DíaMundialDelAgua](http://twitter.com/search?q=%23D%c3%adaMundialDelAgua) | N/A |
 | 2 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 3 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
-| 4 | [casa de dios](http://twitter.com/search?q=casa+de+dios) | N/A |
-| 5 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [Casa de Dios](http://twitter.com/search?q=Casa+de+Dios) | N/A |
+| 6 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 7 | [#siguelamúsica](http://twitter.com/search?q=%23siguelam%c3%basica) | N/A |
 | 8 | [Cash](http://twitter.com/search?q=Cash) | N/A |
 | 9 | [xelajú](http://twitter.com/search?q=xelaj%c3%ba) | N/A |
-| 10 | [MANUEL COLOM ARGUETA](http://twitter.com/search?q=MANUEL+COLOM+ARGUETA) | N/A |
+| 10 | [manuel colom argueta](http://twitter.com/search?q=manuel+colom+argueta) | N/A |
 | 11 | [Mesut Özil](http://twitter.com/search?q=Mesut+%c3%96zil) | N/A |
 | 12 | [mixco](http://twitter.com/search?q=mixco) | N/A |
 | 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 14 | [floricienta](http://twitter.com/search?q=floricienta) | N/A |
-| 15 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
+| 14 | [Floricienta](http://twitter.com/search?q=Floricienta) | N/A |
+| 15 | [cuarteto de nos](http://twitter.com/search?q=cuarteto+de+nos) | N/A |
 | 16 | [#locosporlaparrillagt](http://twitter.com/search?q=%23locosporlaparrillagt) | N/A |
 | 17 | [#CasoBeatriz](http://twitter.com/search?q=%23CasoBeatriz) | N/A |
 | 18 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
@@ -39,13 +39,13 @@ This is top 50 for Guatemala
 | 22 | [QSMP](http://twitter.com/search?q=QSMP) | N/A |
 | 23 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 24 | [Granada](http://twitter.com/search?q=Granada) | N/A |
-| 25 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 25 | [mulet](http://twitter.com/search?q=mulet) | N/A |
 | 26 | [Humbe](http://twitter.com/search?q=Humbe) | N/A |
-| 27 | [la cc](http://twitter.com/search?q=la+cc) | N/A |
+| 27 | [La CC](http://twitter.com/search?q=La+CC) | N/A |
 | 28 | [Hace 3](http://twitter.com/search?q=Hace+3) | N/A |
 | 29 | [Belice](http://twitter.com/search?q=Belice) | N/A |
 | 30 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 31 | [Tikal](http://twitter.com/search?q=Tikal) | N/A |
+| 31 | [tikal](http://twitter.com/search?q=tikal) | N/A |
 | 32 | [el registro de ciudadanos](http://twitter.com/search?q=el+registro+de+ciudadanos) | N/A |
 | 33 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
 | 34 | [villa nueva](http://twitter.com/search?q=villa+nueva) | N/A |
