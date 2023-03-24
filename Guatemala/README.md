@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-24 09:19:15 UTC`
+📆 Last Updated: `2023-03-24 10:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Guatemala
 | 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 14 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 15 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
-| 16 | [codeca](http://twitter.com/search?q=codeca) | N/A |
+| 16 | [Codeca](http://twitter.com/search?q=Codeca) | N/A |
 | 17 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
 | 18 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 19 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
@@ -41,9 +41,9 @@ This is top 50 for Guatemala
 | 24 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
 | 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 26 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 27 | [guayana francesa](http://twitter.com/search?q=guayana+francesa) | N/A |
-| 28 | [Huevones](http://twitter.com/search?q=Huevones) | N/A |
-| 29 | [Puerto Barrios](http://twitter.com/search?q=Puerto+Barrios) | N/A |
+| 27 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
+| 28 | [huevones](http://twitter.com/search?q=huevones) | N/A |
+| 29 | [puerto barrios](http://twitter.com/search?q=puerto+barrios) | N/A |
 | 30 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 | 31 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 32 | [Myke](http://twitter.com/search?q=Myke) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Guatemala
 | 39 | [la parroquia](http://twitter.com/search?q=la+parroquia) | N/A |
 | 40 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
 | 41 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 42 | [Guardia de Honor](http://twitter.com/search?q=Guardia+de+Honor) | N/A |
+| 42 | [guardia de honor](http://twitter.com/search?q=guardia+de+honor) | N/A |
 | 43 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
 | 44 | [Marte](http://twitter.com/search?q=Marte) | N/A |
 | 45 | [camila](http://twitter.com/search?q=camila) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Guatemala
 | 47 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 48 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
 | 49 | [Belmopán](http://twitter.com/search?q=Belmop%c3%a1n) | N/A |
-| 50 | [la cc](http://twitter.com/search?q=la+cc) | N/A |
+| 50 | [La CC](http://twitter.com/search?q=La+CC) | N/A |
 
 
 

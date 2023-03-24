@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-24 09:18:14 UTC`
+📆 Last Updated: `2023-03-24 10:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 1 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 2 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 4 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
 | 5 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 6 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 7 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 8 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 6 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 7 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 8 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
 | 9 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 10 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 11 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 12 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 13 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 14 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 15 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 16 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 20 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 22 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Shorty](http://twitter.com/search?q=Shorty) | N/A |
-| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 28 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 30 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 31 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 32 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 33 | [John and John](http://twitter.com/search?q=John+and+John) | N/A |
-| 34 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 35 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 36 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 39 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 40 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 41 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 42 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 43 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 44 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 45 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 46 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 47 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 48 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
-| 49 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 50 | [matheson](http://twitter.com/search?q=matheson) | N/A |
+| 10 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 11 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 12 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 13 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 14 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 16 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 17 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 18 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 21 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 25 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 26 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [John and John](http://twitter.com/search?q=John+and+John) | N/A |
+| 29 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 30 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 31 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 34 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 35 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 36 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 37 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 38 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 39 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 40 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 41 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
+| 42 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 43 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 44 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 45 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 46 | [matheson](http://twitter.com/search?q=matheson) | N/A |
+| 47 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 48 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 49 | [London](http://twitter.com/search?q=London) | N/A |
+| 50 | [Shorty](http://twitter.com/search?q=Shorty) | N/A |
 
 
 

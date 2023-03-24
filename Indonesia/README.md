@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-24 09:19:15 UTC`
+📆 Last Updated: `2023-03-24 10:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GakAdaYangKelewat](http://twitter.com/search?q=%23GakAdaYangKelewat) | N/A |
-| 2 | [OPPO](http://twitter.com/search?q=OPPO) | N/A |
-| 3 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 4 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 5 | [#PulauTerkutuk](http://twitter.com/search?q=%23PulauTerkutuk) | N/A |
-| 6 | [#CawapresTerkuat](http://twitter.com/search?q=%23CawapresTerkuat) | N/A |
-| 7 | [Menteri Terbaik Jokowi](http://twitter.com/search?q=Menteri+Terbaik+Jokowi) | N/A |
-| 8 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 9 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 10 | [Siapa Pergi Dia](http://twitter.com/search?q=Siapa+Pergi+Dia) | N/A |
-| 11 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 12 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
-| 13 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 14 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 15 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 16 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 18 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 20 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 21 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 24 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 25 | [choi seungcheol](http://twitter.com/search?q=choi+seungcheol) | N/A |
-| 26 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 27 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
-| 28 | [BEM UI](http://twitter.com/search?q=BEM+UI) | N/A |
-| 29 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 33 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
-| 34 | [nescafe](http://twitter.com/search?q=nescafe) | N/A |
-| 35 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 36 | [Wuling Alvez](http://twitter.com/search?q=Wuling+Alvez) | N/A |
-| 37 | [dugaan gratifikasi wamenkumham](http://twitter.com/search?q=dugaan+gratifikasi+wamenkumham) | N/A |
-| 38 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 39 | [jadi muslim bertaqwa](http://twitter.com/search?q=jadi+muslim+bertaqwa) | N/A |
-| 40 | [Looke](http://twitter.com/search?q=Looke) | N/A |
-| 41 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 42 | [Fanny](http://twitter.com/search?q=Fanny) | N/A |
-| 43 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 44 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 45 | [Kodim 1428](http://twitter.com/search?q=Kodim+1428) | N/A |
-| 46 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 47 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 48 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 49 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 50 | [berbuka](http://twitter.com/search?q=berbuka) | N/A |
+| 1 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 2 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
+| 3 | [#GakAdaYangKelewat](http://twitter.com/search?q=%23GakAdaYangKelewat) | N/A |
+| 4 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 5 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 6 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 7 | [OPPO](http://twitter.com/search?q=OPPO) | N/A |
+| 8 | [#CawapresTerkuat](http://twitter.com/search?q=%23CawapresTerkuat) | N/A |
+| 9 | [Menteri Terbaik Jokowi](http://twitter.com/search?q=Menteri+Terbaik+Jokowi) | N/A |
+| 10 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 11 | [Siapa Pergi Dia Mati](http://twitter.com/search?q=Siapa+Pergi+Dia+Mati) | N/A |
+| 12 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 13 | [KIM KAI](http://twitter.com/search?q=KIM+KAI) | N/A |
+| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 15 | [Fanny](http://twitter.com/search?q=Fanny) | N/A |
+| 16 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
+| 17 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
+| 18 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 19 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
+| 20 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 22 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 23 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 24 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
+| 25 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
+| 26 | [Patung](http://twitter.com/search?q=Patung) | N/A |
+| 27 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 29 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 30 | [#PulauTerkutuk](http://twitter.com/search?q=%23PulauTerkutuk) | N/A |
+| 31 | [#엑소카이](http://twitter.com/search?q=%23%ec%97%91%ec%86%8c%ec%b9%b4%ec%9d%b4) | N/A |
+| 32 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 33 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 34 | [#박민혁_하우_WannaBeLove](http://twitter.com/search?q=%23%eb%b0%95%eb%af%bc%ed%98%81_%ed%95%98%ec%9a%b0_WannaBeLove) | N/A |
+| 35 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
+| 36 | [#SriAsih](http://twitter.com/search?q=%23SriAsih) | N/A |
+| 37 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 38 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
+| 39 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
+| 40 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
+| 41 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 42 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
 
 
 

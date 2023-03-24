@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-24 09:18:59 UTC`
+📆 Last Updated: `2023-03-24 10:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 2 | [#imzaverSinanOGANa](http://twitter.com/search?q=%23imzaverSinanOGANa) | N/A |
-| 3 | [#EmekliyeEşitZam](http://twitter.com/search?q=%23EmekliyeE%c5%9fitZam) | N/A |
-| 4 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
-| 5 | [gsbtayinlerolumluolsun](http://twitter.com/search?q=gsbtayinlerolumluolsun) | N/A |
-| 6 | [#ek5000acıktanatama](http://twitter.com/search?q=%23ek5000ac%c4%b1ktanatama) | N/A |
-| 7 | [#MebDkabıDoğradı](http://twitter.com/search?q=%23MebDkab%c4%b1Do%c4%9frad%c4%b1) | N/A |
-| 8 | [diyanetyedeklerakademiye](http://twitter.com/search?q=diyanetyedeklerakademiye) | N/A |
-| 9 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 10 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 11 | [nevinşener osurdu](http://twitter.com/search?q=nevin%c5%9fener+osurdu) | N/A |
-| 12 | [MebBüroyu İİBFdenAlsın](http://twitter.com/search?q=MebB%c3%bcroyu+%c4%b0%c4%b0BFdenAls%c4%b1n) | N/A |
-| 13 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 14 | [piktesöğr kadroya](http://twitter.com/search?q=piktes%c3%b6%c4%9fr+kadroya) | N/A |
-| 15 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
-| 16 | [Pendik'te 7](http://twitter.com/search?q=Pendik%27te+7) | N/A |
-| 17 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
-| 18 | [denkliğimizikimverecek](http://twitter.com/search?q=denkli%c4%9fimizikimverecek) | N/A |
-| 19 | [yunus filiz](http://twitter.com/search?q=yunus+filiz) | N/A |
-| 20 | [esnafsuçlu değilborçlu](http://twitter.com/search?q=esnafsu%c3%a7lu+de%c4%9filbor%c3%a7lu) | N/A |
-| 21 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 22 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 23 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 24 | [AşktanKaçılmaz ElSed](http://twitter.com/search?q=A%c5%9fktanKa%c3%a7%c4%b1lmaz+ElSed) | N/A |
-| 25 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
-| 26 | [Nursi](http://twitter.com/search?q=Nursi) | N/A |
-| 27 | [Bora Aydınlık](http://twitter.com/search?q=Bora+Ayd%c4%b1nl%c4%b1k) | N/A |
-| 28 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 29 | [dünyanın sonu](http://twitter.com/search?q=d%c3%bcnyan%c4%b1n+sonu) | N/A |
-| 30 | [Ya Şehr](http://twitter.com/search?q=Ya+%c5%9eehr) | N/A |
-| 31 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 32 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
-| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 34 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 35 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 36 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
-| 37 | [ŞartsızTayin Şart](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+%c5%9eart) | N/A |
-| 38 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
-| 39 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 40 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
-| 41 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
-| 42 | [1 Eylül](http://twitter.com/search?q=1+Eyl%c3%bcl) | N/A |
-| 43 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 44 | [Mert Hakan Yandaş](http://twitter.com/search?q=Mert+Hakan+Yanda%c5%9f) | N/A |
-| 45 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 46 | [Cuması](http://twitter.com/search?q=Cumas%c4%b1) | N/A |
-| 47 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
-| 48 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 49 | [Sonuçlar Açıklandı](http://twitter.com/search?q=Sonu%c3%a7lar+A%c3%a7%c4%b1kland%c4%b1) | N/A |
-| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 1 | [#imzaverSinanOGANa](http://twitter.com/search?q=%23imzaverSinanOGANa) | N/A |
+| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 3 | [#MebDkabıDoğradı](http://twitter.com/search?q=%23MebDkab%c4%b1Do%c4%9frad%c4%b1) | N/A |
+| 4 | [#ek5000acıktanatama](http://twitter.com/search?q=%23ek5000ac%c4%b1ktanatama) | N/A |
+| 5 | [#100binince](http://twitter.com/search?q=%23100binince) | N/A |
+| 6 | [MebBüroyu İİBFdenAlsın](http://twitter.com/search?q=MebB%c3%bcroyu+%c4%b0%c4%b0BFdenAls%c4%b1n) | N/A |
+| 7 | [Pendik'te 7](http://twitter.com/search?q=Pendik%27te+7) | N/A |
+| 8 | [Berber](http://twitter.com/search?q=Berber) | N/A |
+| 9 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 10 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 11 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 12 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
+| 13 | [Konteyner](http://twitter.com/search?q=Konteyner) | N/A |
+| 14 | [Yalancıyı](http://twitter.com/search?q=Yalanc%c4%b1y%c4%b1) | N/A |
+| 15 | [MHP'den](http://twitter.com/search?q=MHP%27den) | N/A |
+| 16 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 17 | [Kurgu](http://twitter.com/search?q=Kurgu) | N/A |
+| 18 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
+| 19 | [Hulki Cevizoğlu](http://twitter.com/search?q=Hulki+Cevizo%c4%9flu) | N/A |
+| 20 | [Arkadaki](http://twitter.com/search?q=Arkadaki) | N/A |
+| 21 | [Said Nursi](http://twitter.com/search?q=Said+Nursi) | N/A |
+| 22 | [Yalanını](http://twitter.com/search?q=Yalan%c4%b1n%c4%b1) | N/A |
+| 23 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 24 | [#RTEya2000Sonrası](http://twitter.com/search?q=%23RTEya2000Sonras%c4%b1) | N/A |
+| 25 | [#Erolozvaristifa](http://twitter.com/search?q=%23Erolozvaristifa) | N/A |
+| 26 | [#StajınSonHaftası](http://twitter.com/search?q=%23Staj%c4%b1nSonHaftas%c4%b1) | N/A |
+| 27 | [#ProjeYalanKontenjanGercek](http://twitter.com/search?q=%23ProjeYalanKontenjanGercek) | N/A |
+| 28 | [#BeştepedeOnaydaYHS](http://twitter.com/search?q=%23Be%c5%9ftepedeOnaydaYHS) | N/A |
+| 29 | [#öğretmen](http://twitter.com/search?q=%23%c3%b6%c4%9fretmen) | N/A |
+| 30 | [#CanAtalay](http://twitter.com/search?q=%23CanAtalay) | N/A |
+| 31 | [#okulöncesiprojesinerede](http://twitter.com/search?q=%23okul%c3%b6ncesiprojesinerede) | N/A |
+| 32 | [#YeterSöz5000veKısmide](http://twitter.com/search?q=%23YeterS%c3%b6z5000veK%c4%b1smide) | N/A |
+| 33 | [#OlacakİşDeğil](http://twitter.com/search?q=%23Olacak%c4%b0%c5%9fDe%c4%9fil) | N/A |
+| 34 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
+| 35 | [#TekAdamaBayBay](http://twitter.com/search?q=%23TekAdamaBayBay) | N/A |
+| 36 | [#24Mart](http://twitter.com/search?q=%2324Mart) | N/A |
+| 37 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
+| 38 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 39 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 40 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 41 | [#100binimza](http://twitter.com/search?q=%23100binimza) | N/A |
+| 42 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kitakyushu
 
-📆 Last Updated: `2023-03-24 09:18:39 UTC`
+📆 Last Updated: `2023-03-24 10:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ペンギン](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3) | ペンギン (pengin) is the Japanese word for penguin. It is a flightless bird that lives in the Southern Hemisphere. In English, it is pronounced "pen-gin". |
-| 2 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
-| 3 | [那須どうぶつ王国](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e7%8e%8b%e5%9b%bd) | N/A |
-| 4 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
-| 5 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 6 | [春日さん](http://twitter.com/search?q=%e6%98%a5%e6%97%a5%e3%81%95%e3%82%93) | N/A |
-| 7 | [オードリー春日](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%89%e3%83%aa%e3%83%bc%e6%98%a5%e6%97%a5) | N/A |
-| 8 | [惑星女子化](http://twitter.com/search?q=%e6%83%91%e6%98%9f%e5%a5%b3%e5%ad%90%e5%8c%96) | N/A |
-| 9 | [セルフカット廃止](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%95%e3%82%ab%e3%83%83%e3%83%88%e5%bb%83%e6%ad%a2) | N/A |
-| 10 | [会陰切開](http://twitter.com/search?q=%e4%bc%9a%e9%99%b0%e5%88%87%e9%96%8b) | N/A |
-| 11 | [家宅捜索](http://twitter.com/search?q=%e5%ae%b6%e5%ae%85%e6%8d%9c%e7%b4%a2) | N/A |
-| 12 | [ミカルゲ](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%83%ab%e3%82%b2) | N/A |
-| 13 | [渋川さん](http://twitter.com/search?q=%e6%b8%8b%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
-| 14 | [アカリちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 15 | [加藤浩次](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e6%b5%a9%e6%ac%a1) | N/A |
-| 16 | [茨城県北部](http://twitter.com/search?q=%e8%8c%a8%e5%9f%8e%e7%9c%8c%e5%8c%97%e9%83%a8) | N/A |
-| 17 | [サイスタくん](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%82%b9%e3%82%bf%e3%81%8f%e3%82%93) | N/A |
-| 18 | [必勝しゃもじ](http://twitter.com/search?q=%e5%bf%85%e5%8b%9d%e3%81%97%e3%82%83%e3%82%82%e3%81%98) | N/A |
-| 19 | [CD先行](http://twitter.com/search?q=CD%e5%85%88%e8%a1%8c) | N/A |
-| 20 | [厳重抗議](http://twitter.com/search?q=%e5%8e%b3%e9%87%8d%e6%8a%97%e8%ad%b0) | N/A |
-| 21 | [スノードーム](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
-| 22 | [逆転無罪判決](http://twitter.com/search?q=%e9%80%86%e8%bb%a2%e7%84%a1%e7%bd%aa%e5%88%a4%e6%b1%ba) | N/A |
-| 23 | [相互カット](http://twitter.com/search?q=%e7%9b%b8%e4%ba%92%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 24 | [動物園側](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e5%9c%92%e5%81%b4) | N/A |
-| 25 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 26 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 27 | [#グリユニ感想](http://twitter.com/search?q=%23%e3%82%b0%e3%83%aa%e3%83%a6%e3%83%8b%e6%84%9f%e6%83%b3) | N/A |
-| 28 | [ポケモン最終回](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
-| 29 | [#定数Λ_HO診断](http://twitter.com/search?q=%23%e5%ae%9a%e6%95%b0%ce%9b_HO%e8%a8%ba%e6%96%ad) | N/A |
-| 30 | [取り直し](http://twitter.com/search?q=%e5%8f%96%e3%82%8a%e7%9b%b4%e3%81%97) | 取り直し is a Japanese phrase that means "redo" or "start over". It is used to refer to the act of starting something again from the beginning. |
-| 31 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
-| 32 | [ディレロマ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ac%e3%83%ad%e3%83%9e) | N/A |
-| 33 | [団時朗さん](http://twitter.com/search?q=%e5%9b%a3%e6%99%82%e6%9c%97%e3%81%95%e3%82%93) | N/A |
-| 34 | [レイクタウン](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%82%af%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
-| 35 | [国試合格](http://twitter.com/search?q=%e5%9b%bd%e8%a9%a6%e5%90%88%e6%a0%bc) | N/A |
-| 36 | [キービジュ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
-| 37 | [高知高校](http://twitter.com/search?q=%e9%ab%98%e7%9f%a5%e9%ab%98%e6%a0%a1) | N/A |
-| 38 | [ピーニャ](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%83%8b%e3%83%a3) | N/A |
-| 39 | [茶野くん](http://twitter.com/search?q=%e8%8c%b6%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
-| 40 | [因果応報](http://twitter.com/search?q=%e5%9b%a0%e6%9e%9c%e5%bf%9c%e5%a0%b1) | N/A |
-| 41 | [支配下登録](http://twitter.com/search?q=%e6%94%af%e9%85%8d%e4%b8%8b%e7%99%bb%e9%8c%b2) | N/A |
-| 42 | [看護師国家試験合格](http://twitter.com/search?q=%e7%9c%8b%e8%ad%b7%e5%b8%ab%e5%9b%bd%e5%ae%b6%e8%a9%a6%e9%a8%93%e5%90%88%e6%a0%bc) | N/A |
-| 43 | [ブルロ展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e5%b1%95) | ブルロ展 is an exhibition of the works of French artist Paul Cézanne. The English translation of the phrase is "Cézanne Exhibition". |
-| 44 | [#ドズル社オリジナルマウスパッド](http://twitter.com/search?q=%23%e3%83%89%e3%82%ba%e3%83%ab%e7%a4%be%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%9e%e3%82%a6%e3%82%b9%e3%83%91%e3%83%83%e3%83%89) | N/A |
-| 45 | [けつのつばさ](http://twitter.com/search?q=%e3%81%91%e3%81%a4%e3%81%ae%e3%81%a4%e3%81%b0%e3%81%95) | N/A |
-| 46 | [#あなたの家にある1番いらないもの](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e5%ae%b6%e3%81%ab%e3%81%82%e3%82%8b1%e7%95%aa%e3%81%84%e3%82%89%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae) | N/A |
-| 47 | [自業自得](http://twitter.com/search?q=%e8%87%aa%e6%a5%ad%e8%87%aa%e5%be%97) | N/A |
-| 48 | [ガーシー容疑者](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc%e5%ae%b9%e7%96%91%e8%80%85) | N/A |
-| 49 | [ミライアカリ引退](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%a4%e3%82%a2%e3%82%ab%e3%83%aa%e5%bc%95%e9%80%80) | N/A |
+| 1 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
+| 2 | [ピジョット](http://twitter.com/search?q=%e3%83%94%e3%82%b8%e3%83%a7%e3%83%83%e3%83%88) | N/A |
+| 3 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 4 | [ロケット団](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | ロケット団 (Rocket-dan) is a Japanese comedy duo consisting of comedians Hitoshi Matsumoto and Masatoshi Hamada. The duo has been active since 1983 and is known for their absurdist and surreal humor. In English, the name translates to "The Rocket Team". |
+| 5 | [アカリちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 6 | [キービジュ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
+| 7 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
+| 8 | [#めざポケ最終話](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%83%9d%e3%82%b1%e6%9c%80%e7%b5%82%e8%a9%b1) | N/A |
+| 9 | [ペンギン](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3) | ペンギン (pengin) is the Japanese word for penguin. It is a flightless bird that lives in the Southern Hemisphere. In English, it is pronounced "pen-gin". |
+| 10 | [ヒトカゲ](http://twitter.com/search?q=%e3%83%92%e3%83%88%e3%82%ab%e3%82%b2) | N/A |
+| 11 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
+| 12 | [ピカチュウ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
+| 13 | [サトシの最後](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e3%81%ae%e6%9c%80%e5%be%8c) | N/A |
+| 14 | [Vtuber四天王](http://twitter.com/search?q=Vtuber%e5%9b%9b%e5%a4%a9%e7%8e%8b) | N/A |
+| 15 | [妖怪ウォッチ](http://twitter.com/search?q=%e5%a6%96%e6%80%aa%e3%82%a6%e3%82%a9%e3%83%83%e3%83%81) | N/A |
+| 16 | [最高のボロボロ靴](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%9c%e3%83%ad%e3%83%9c%e3%83%ad%e9%9d%b4) | N/A |
+| 17 | [#キリンチャレンジカップ](http://twitter.com/search?q=%23%e3%82%ad%e3%83%aa%e3%83%b3%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 18 | [トキワの森](http://twitter.com/search?q=%e3%83%88%e3%82%ad%e3%83%af%e3%81%ae%e6%a3%ae) | N/A |
+| 19 | [マサラタウン](http://twitter.com/search?q=%e3%83%9e%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
+| 20 | [シロちゃん](http://twitter.com/search?q=%e3%82%b7%e3%83%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 22 | [ウルグアイ](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%82%b0%e3%82%a2%e3%82%a4) | N/A |
+| 23 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 24 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 25 | [オーキド博士](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%ad%e3%83%89%e5%8d%9a%e5%a3%ab) | N/A |
+| 26 | [サトシ最終回](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
+| 27 | [バルベルデ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%99%e3%83%ab%e3%83%87) | N/A |
+| 28 | [最強の2人](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%81%ae2%e4%ba%ba) | N/A |
+| 29 | [那須どうぶつ王国](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e7%8e%8b%e5%9b%bd) | N/A |
+| 30 | [キズナアイ](http://twitter.com/search?q=%e3%82%ad%e3%82%ba%e3%83%8a%e3%82%a2%e3%82%a4) | N/A |
+| 31 | [ソーナンス](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%8a%e3%83%b3%e3%82%b9) | N/A |
+| 32 | [タイプワイルド](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%97%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | タイプワイルド is a Japanese manga series written and illustrated by Toshihiro Ono. It follows the story of a group of teenagers who are chosen to become the new guardians of the world, using their special powers to protect it from evil forces. The title translates to "Type Wild" in English, referring to the characters' wild and unpredictable nature. |
+| 33 | [ドードリオ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%89%e3%83%aa%e3%82%aa) | N/A |
+| 34 | [加藤浩次](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e6%b5%a9%e6%ac%a1) | N/A |
+| 35 | [オードリー春日](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%89%e3%83%aa%e3%83%bc%e6%98%a5%e6%97%a5) | N/A |
+| 36 | [春日さん](http://twitter.com/search?q=%e6%98%a5%e6%97%a5%e3%81%95%e3%82%93) | N/A |
+| 37 | [カスミとタケシ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%83%9f%e3%81%a8%e3%82%bf%e3%82%b1%e3%82%b7) | N/A |
+| 38 | [モルフォン](http://twitter.com/search?q=%e3%83%a2%e3%83%ab%e3%83%95%e3%82%a9%e3%83%b3) | N/A |
+| 39 | [フシギダネ](http://twitter.com/search?q=%e3%83%95%e3%82%b7%e3%82%ae%e3%83%80%e3%83%8d) | N/A |
+| 40 | [ペットと仲良しボイス](http://twitter.com/search?q=%e3%83%9a%e3%83%83%e3%83%88%e3%81%a8%e4%bb%b2%e8%89%af%e3%81%97%e3%83%9c%e3%82%a4%e3%82%b9) | N/A |
+| 41 | [渋川さん](http://twitter.com/search?q=%e6%b8%8b%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
+| 42 | [倫果ちゃん](http://twitter.com/search?q=%e5%80%ab%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | 倫果ちゃん is a nickname for the Japanese singer and actress, Rena Matsui. It is derived from her given name, Rena (倫), and the Japanese word for fruit (果). In English, it can be translated to mean "Rena Fruit". |
+| 43 | [エイレーン](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%ac%e3%83%bc%e3%83%b3) | N/A |
+| 44 | [サイスタくん](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%82%b9%e3%82%bf%e3%81%8f%e3%82%93) | N/A |
+| 45 | [会陰切開](http://twitter.com/search?q=%e4%bc%9a%e9%99%b0%e5%88%87%e9%96%8b) | N/A |
+| 46 | [スノードーム](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
+| 47 | [月と金星](http://twitter.com/search?q=%e6%9c%88%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 48 | [カオスソルジャー](http://twitter.com/search?q=%e3%82%ab%e3%82%aa%e3%82%b9%e3%82%bd%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 49 | [バリヤード](http://twitter.com/search?q=%e3%83%90%e3%83%aa%e3%83%a4%e3%83%bc%e3%83%89) | バリヤード (barriyādo) is a Japanese game similar to billiards. It is played on a table with six pockets and players use cues to hit balls into the pockets. The goal of the game is to score points by pocketing balls in the correct order. The English translation of バリヤード is "barrier pool". |
 
 
 
