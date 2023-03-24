@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-23 23:17:34 UTC`
+📆 Last Updated: `2023-03-24 00:28:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
 | 2 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 3 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 4 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
-| 5 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 6 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 7 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
-| 8 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 11 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 17 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 18 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 19 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 20 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 23 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
-| 24 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
-| 25 | [#HalfwayThere](http://twitter.com/search?q=%23HalfwayThere) | N/A |
-| 26 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 27 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
-| 28 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
-| 29 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
-| 30 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 33 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 34 | [Rocky 3](http://twitter.com/search?q=Rocky+3) | N/A |
-| 35 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 36 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 39 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 40 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 41 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 42 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 43 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 44 | [England](http://twitter.com/search?q=England) | N/A |
-| 45 | [Guam](http://twitter.com/search?q=Guam) | Guam is an unincorporated and organized territory of the United States located in the western Pacific Ocean. It is the largest and southernmost of the Mariana Islands. The capital city is Hagåtña, and the most populous city is Dededo. In English, Guam means "we have". |
-| 46 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 47 | [Breece](http://twitter.com/search?q=Breece) | N/A |
-| 48 | [Meltzer](http://twitter.com/search?q=Meltzer) | N/A |
-| 49 | [GO WHITE](http://twitter.com/search?q=GO+WHITE) | N/A |
-| 50 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 3 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
+| 4 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 5 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 6 | [Bijan](http://twitter.com/search?q=Bijan) | N/A |
+| 7 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 8 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 11 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 12 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 13 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
+| 14 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 15 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 16 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 17 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 22 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 24 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 25 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 26 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 30 | [#HalfwayThere](http://twitter.com/search?q=%23HalfwayThere) | N/A |
+| 31 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
+| 32 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 33 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 34 | [DJ Envy](http://twitter.com/search?q=DJ+Envy) | N/A |
+| 35 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 36 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 37 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 38 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
+| 39 | [John Daly](http://twitter.com/search?q=John+Daly) | N/A |
+| 40 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 41 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
+| 42 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 43 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 44 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 45 | [Nutty Buddy](http://twitter.com/search?q=Nutty+Buddy) | N/A |
+| 46 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 47 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 48 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 49 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
+| 50 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-23 23:16:50 UTC`
+📆 Last Updated: `2023-03-24 00:28:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 3 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 4 | [Conor Gallagher](http://twitter.com/search?q=Conor+Gallagher) | N/A |
-| 5 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 6 | [Opta](http://twitter.com/search?q=Opta) | N/A |
-| 7 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 2 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 3 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 4 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 5 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 6 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 7 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
 | 8 | [England](http://twitter.com/search?q=England) | N/A |
 | 9 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 13 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
 | 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 18 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 18 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 | 19 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
 | 20 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
 | 21 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 22 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 23 | [Italians](http://twitter.com/search?q=Italians) | N/A |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
-| 26 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 27 | [#premierleaguedarts](http://twitter.com/search?q=%23premierleaguedarts) | N/A |
-| 28 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 29 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 30 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 31 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 32 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 33 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 34 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 35 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 22 | [Andrew Bowie](http://twitter.com/search?q=Andrew+Bowie) | N/A |
+| 23 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 24 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
+| 25 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 26 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 28 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 29 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 30 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 31 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 32 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 33 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 34 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 35 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 37 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 38 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 39 | [Gezzy](http://twitter.com/search?q=Gezzy) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 42 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
-| 43 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
-| 44 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 45 | [Jake Connor](http://twitter.com/search?q=Jake+Connor) | N/A |
-| 46 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 47 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
-| 48 | [Jon Wilkin](http://twitter.com/search?q=Jon+Wilkin) | N/A |
-| 49 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 39 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 40 | [Gezzy](http://twitter.com/search?q=Gezzy) | N/A |
+| 41 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
+| 42 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 43 | [Congratulations Harry](http://twitter.com/search?q=Congratulations+Harry) | N/A |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 46 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 47 | [Jake Connor](http://twitter.com/search?q=Jake+Connor) | N/A |
+| 48 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 49 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-23 23:16:55 UTC`
+📆 Last Updated: `2023-03-24 00:28:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AltoAlBullying](http://twitter.com/search?q=%23AltoAlBullying) | N/A |
+| 1 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#NuevaEra](http://twitter.com/search?q=%23NuevaEra) | N/A |
+| 4 | [#AltoAlBullying](http://twitter.com/search?q=%23AltoAlBullying) | N/A |
+| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 6 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 7 | [#enhorabuenaextraterrestre](http://twitter.com/search?q=%23enhorabuenaextraterrestre) | N/A |
-| 8 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 9 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 10 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
 | 11 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
-| 12 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 13 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 14 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 15 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 16 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 17 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
-| 18 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 19 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 20 | [Casa Virginia](http://twitter.com/search?q=Casa+Virginia) | N/A |
-| 21 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 22 | [Ciudad Mujeres](http://twitter.com/search?q=Ciudad+Mujeres) | N/A |
+| 12 | [VUELVE AFRILUX](http://twitter.com/search?q=VUELVE+AFRILUX) | N/A |
+| 13 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 14 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 15 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 16 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 17 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 18 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 19 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 20 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 21 | [RESTRINGIR YERI MUA](http://twitter.com/search?q=RESTRINGIR+YERI+MUA) | N/A |
+| 22 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
 | 23 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 24 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
-| 25 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 26 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 27 | [Diego Alonso](http://twitter.com/search?q=Diego+Alonso) | N/A |
-| 28 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 29 | [Calica](http://twitter.com/search?q=Calica) | N/A |
-| 30 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 31 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
-| 32 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 35 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 36 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 37 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
-| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 39 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 40 | [Plutón](http://twitter.com/search?q=Plut%c3%b3n) | N/A |
-| 41 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 42 | [#Ovnis](http://twitter.com/search?q=%23Ovnis) | N/A |
-| 43 | [#SanMateoAtenco](http://twitter.com/search?q=%23SanMateoAtenco) | N/A |
-| 44 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 45 | [#Aliens](http://twitter.com/search?q=%23Aliens) | N/A |
-| 46 | [#ChileSeguro](http://twitter.com/search?q=%23ChileSeguro) | N/A |
+| 24 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 25 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 26 | [Casa Virginia](http://twitter.com/search?q=Casa+Virginia) | N/A |
+| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 28 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 29 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 30 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 31 | [Ciudad Mujeres](http://twitter.com/search?q=Ciudad+Mujeres) | N/A |
+| 32 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 33 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 34 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
+| 35 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 36 | [Xcaret](http://twitter.com/search?q=Xcaret) | N/A |
+| 37 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 38 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 39 | [Calica](http://twitter.com/search?q=Calica) | N/A |
+| 40 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
+| 41 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Pegasus](http://twitter.com/search?q=Pegasus) | N/A |
+| 44 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 46 | [Plutón](http://twitter.com/search?q=Plut%c3%b3n) | N/A |
 
 
 

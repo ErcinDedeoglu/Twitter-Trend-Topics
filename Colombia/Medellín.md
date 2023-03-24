@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-23 23:16:57 UTC`
+📆 Last Updated: `2023-03-24 00:28:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
 | 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 3 | [#ReformaPolítica](http://twitter.com/search?q=%23ReformaPol%c3%adtica) | N/A |
-| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 6 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 4 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 7 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
 | 8 | [Politiquera](http://twitter.com/search?q=Politiquera) | N/A |
-| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 11 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 12 | [#ConFibraVueloYMás](http://twitter.com/search?q=%23ConFibraVueloYM%c3%a1s) | N/A |
 | 13 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 14 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 15 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 16 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
-| 17 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
-| 18 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 19 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 20 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
-| 21 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 22 | [SITP](http://twitter.com/search?q=SITP) | N/A |
-| 23 | [Caño Cristales](http://twitter.com/search?q=Ca%c3%b1o+Cristales) | N/A |
-| 24 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 25 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
+| 16 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 17 | [Movistar TV App](http://twitter.com/search?q=Movistar+TV+App) | N/A |
+| 18 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 19 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 20 | [SITP](http://twitter.com/search?q=SITP) | N/A |
+| 21 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 22 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
+| 23 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
+| 24 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 26 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 27 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 28 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 27 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 28 | [Caño Cristales](http://twitter.com/search?q=Ca%c3%b1o+Cristales) | N/A |
 | 29 | [Ariel Ávila](http://twitter.com/search?q=Ariel+%c3%81vila) | N/A |
-| 30 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 31 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 32 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 33 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 34 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 35 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 36 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 37 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
-| 38 | [Compensar](http://twitter.com/search?q=Compensar) | N/A |
-| 39 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 40 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 41 | [BZRP](http://twitter.com/search?q=BZRP) | BZRP stands for "Battle Zone Role Play," which is an online role-playing game. Players create characters and take part in a virtual world where they can battle each other and complete missions. |
-| 42 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 43 | [Gales](http://twitter.com/search?q=Gales) | Gales is a term used to describe strong winds, usually associated with storms. It is derived from the Old Norse word "gala," which means "to blow." In English, gales are typically described as winds that are blowing at speeds of 39 mph or higher. |
-| 44 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
-| 45 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 46 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 47 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 48 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 49 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 50 | [Fernando Uribe](http://twitter.com/search?q=Fernando+Uribe) | N/A |
+| 30 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 31 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 32 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
+| 35 | [Creemos](http://twitter.com/search?q=Creemos) | N/A |
+| 36 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 37 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
+| 38 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 39 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 40 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 41 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 42 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 43 | [Bzrp](http://twitter.com/search?q=Bzrp) | N/A |
+| 44 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 45 | [Compensar](http://twitter.com/search?q=Compensar) | N/A |
+| 46 | [Gales](http://twitter.com/search?q=Gales) | Gales is a term used to describe strong winds, usually associated with storms. It is derived from the Old Norse word "gala," which means "to blow." In English, gales are typically described as winds that are blowing at speeds of 39 mph or higher. |
+| 47 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 48 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 49 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 50 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 
 
 

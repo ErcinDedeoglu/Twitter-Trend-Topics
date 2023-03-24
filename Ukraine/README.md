@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-23 23:17:44 UTC`
+📆 Last Updated: `2023-03-24 00:28:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Ukraine
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nova Kakhovka](http://twitter.com/search?q=Nova+Kakhovka) | N/A |
-| 2 | [Новой Каховки](http://twitter.com/search?q=%d0%9d%d0%be%d0%b2%d0%be%d0%b9+%d0%9a%d0%b0%d1%85%d0%be%d0%b2%d0%ba%d0%b8) | N/A |
-| 3 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 4 | [General Staff](http://twitter.com/search?q=General+Staff) | N/A |
+| 2 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 3 | [General Staff](http://twitter.com/search?q=General+Staff) | N/A |
+| 4 | [Новой Каховки](http://twitter.com/search?q=%d0%9d%d0%be%d0%b2%d0%be%d0%b9+%d0%9a%d0%b0%d1%85%d0%be%d0%b2%d0%ba%d0%b8) | N/A |
 | 5 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 6 | [Republican](http://twitter.com/search?q=Republican) | N/A |
 | 7 | [Zaporizhzhia](http://twitter.com/search?q=Zaporizhzhia) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Ukraine
 | 16 | [#GenocideOfUkrainians](http://twitter.com/search?q=%23GenocideOfUkrainians) | N/A |
 | 17 | [т-34](http://twitter.com/search?q=%d1%82-34) | N/A |
 | 18 | [#indiedev](http://twitter.com/search?q=%23indiedev) | N/A |
-| 19 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
-| 20 | [Friendo](http://twitter.com/search?q=Friendo) | N/A |
-| 21 | [kyiv oblast](http://twitter.com/search?q=kyiv+oblast) | N/A |
-| 22 | [Т-54](http://twitter.com/search?q=%d0%a2-54) | N/A |
-| 23 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 25 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 26 | [тримайтесь](http://twitter.com/search?q=%d1%82%d1%80%d0%b8%d0%bc%d0%b0%d0%b9%d1%82%d0%b5%d1%81%d1%8c) | N/A |
-| 27 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 28 | [Сирии](http://twitter.com/search?q=%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
-| 29 | [#russiaisateroriststate](http://twitter.com/search?q=%23russiaisateroriststate) | N/A |
-| 30 | [#Kherson](http://twitter.com/search?q=%23Kherson) | N/A |
-| 31 | [rzhyshchiv](http://twitter.com/search?q=rzhyshchiv) | N/A |
-| 32 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 33 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
-| 34 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 35 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
-| 36 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 37 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
-| 38 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 40 | [вашингтон](http://twitter.com/search?q=%d0%b2%d0%b0%d1%88%d0%b8%d0%bd%d0%b3%d1%82%d0%be%d0%bd) | N/A |
-| 41 | [Димон](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%be%d0%bd) | N/A |
-| 42 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 43 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 44 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 45 | [Медведев](http://twitter.com/search?q=%d0%9c%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2) | N/A |
-| 46 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 47 | [Дякую](http://twitter.com/search?q=%d0%94%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
-| 48 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 49 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
-| 50 | [азии](http://twitter.com/search?q=%d0%b0%d0%b7%d0%b8%d0%b8) | N/A |
+| 19 | [Friendo](http://twitter.com/search?q=Friendo) | N/A |
+| 20 | [Kyiv oblast](http://twitter.com/search?q=Kyiv+oblast) | N/A |
+| 21 | [т-54](http://twitter.com/search?q=%d1%82-54) | N/A |
+| 22 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 24 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 25 | [тримайтесь](http://twitter.com/search?q=%d1%82%d1%80%d0%b8%d0%bc%d0%b0%d0%b9%d1%82%d0%b5%d1%81%d1%8c) | N/A |
+| 26 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 27 | [Сирии](http://twitter.com/search?q=%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
+| 28 | [#russiaisateroriststate](http://twitter.com/search?q=%23russiaisateroriststate) | N/A |
+| 29 | [#Kherson](http://twitter.com/search?q=%23Kherson) | N/A |
+| 30 | [rzhyshchiv](http://twitter.com/search?q=rzhyshchiv) | N/A |
+| 31 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 32 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
+| 33 | [Azov](http://twitter.com/search?q=Azov) | N/A |
+| 34 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
+| 35 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 36 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 38 | [Вашингтон](http://twitter.com/search?q=%d0%92%d0%b0%d1%88%d0%b8%d0%bd%d0%b3%d1%82%d0%be%d0%bd) | N/A |
+| 39 | [Димон](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%be%d0%bd) | N/A |
+| 40 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
+| 41 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 42 | [Медведев](http://twitter.com/search?q=%d0%9c%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2) | N/A |
+| 43 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 44 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 45 | [President Zelensky](http://twitter.com/search?q=President+Zelensky) | N/A |
+| 46 | [азии](http://twitter.com/search?q=%d0%b0%d0%b7%d0%b8%d0%b8) | N/A |
+| 47 | [Земле](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 48 | [Sevastopol](http://twitter.com/search?q=Sevastopol) | N/A |
+| 49 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 50 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 
 
 

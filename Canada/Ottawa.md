@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-23 23:16:49 UTC`
+📆 Last Updated: `2023-03-24 00:28:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 8 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 9 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 10 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 11 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 14 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 15 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 16 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 17 | [#ONBudget2023](http://twitter.com/search?q=%23ONBudget2023) | N/A |
-| 18 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 19 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
-| 20 | [#TrudeauForTreason](http://twitter.com/search?q=%23TrudeauForTreason) | N/A |
-| 21 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
-| 22 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 23 | [England](http://twitter.com/search?q=England) | N/A |
-| 24 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 25 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 26 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 27 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 28 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 29 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 30 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 31 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 32 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 33 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 34 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 35 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 37 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 38 | [Sam Cooper](http://twitter.com/search?q=Sam+Cooper) | N/A |
-| 39 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 40 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 41 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 42 | [Lebreton](http://twitter.com/search?q=Lebreton) | N/A |
-| 43 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 44 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 45 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 48 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 49 | [Maher Arar](http://twitter.com/search?q=Maher+Arar) | N/A |
-| 50 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 1 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 3 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 4 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 5 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 6 | [Ontarians](http://twitter.com/search?q=Ontarians) | N/A |
+| 7 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 10 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 11 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 14 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 15 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 16 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 17 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 18 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 19 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 20 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 21 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
+| 22 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 23 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 24 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 25 | [#Bruins](http://twitter.com/search?q=%23Bruins) | N/A |
+| 26 | [Thunder Bay](http://twitter.com/search?q=Thunder+Bay) | N/A |
+| 27 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 28 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 29 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 30 | [Niger](http://twitter.com/search?q=Niger) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 33 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 34 | [England](http://twitter.com/search?q=England) | N/A |
+| 35 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 36 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 39 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 40 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 41 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 42 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
+| 43 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 44 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 45 | [McGill](http://twitter.com/search?q=McGill) | N/A |
+| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 47 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 48 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 49 | [#ONBudget2023](http://twitter.com/search?q=%23ONBudget2023) | N/A |
+| 50 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 
 
 

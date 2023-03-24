@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-23 23:17:37 UTC`
+📆 Last Updated: `2023-03-24 00:28:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Algeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 2 | [#ALGNIG](http://twitter.com/search?q=%23ALGNIG) | N/A |
-| 3 | [ايت نوري](http://twitter.com/search?q=%d8%a7%d9%8a%d8%aa+%d9%86%d9%88%d8%b1%d9%8a) | N/A |
-| 4 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 5 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 6 | [بن طالب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 7 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 2 | [ايت نوري](http://twitter.com/search?q=%d8%a7%d9%8a%d8%aa+%d9%86%d9%88%d8%b1%d9%8a) | N/A |
+| 3 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 4 | [#ALGNIG](http://twitter.com/search?q=%23ALGNIG) | N/A |
+| 5 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 6 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 7 | [#الجزاير_النيجر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1_%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1) | N/A |
 | 8 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 9 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 10 | [#الجزاير_النيجر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1_%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1) | N/A |
-| 11 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 12 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 13 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 14 | [Bouanani](http://twitter.com/search?q=Bouanani) | N/A |
-| 15 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 16 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 17 | [#المربع_الاخير](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
-| 18 | [#كنزه_الاختيار_الاول](http://twitter.com/search?q=%23%d9%83%d9%86%d8%b2%d9%87_%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 19 | [Ait Nouri](http://twitter.com/search?q=Ait+Nouri) | N/A |
-| 20 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 21 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 22 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 9 | [بن طالب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 10 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 11 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 12 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 13 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 14 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 15 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 16 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 17 | [Niger](http://twitter.com/search?q=Niger) | N/A |
+| 18 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 19 | [Bouanani](http://twitter.com/search?q=Bouanani) | N/A |
+| 20 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 21 | [#المربع_الاخير](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 22 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
 | 23 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
-| 24 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
-| 25 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 26 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 29 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
-| 30 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 31 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 32 | [ايمان خليف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
-| 33 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
-| 34 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
-| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 36 | [التشكيله الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 37 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 38 | [بن سبعيني](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b3%d8%a8%d8%b9%d9%8a%d9%86%d9%8a) | N/A |
-| 39 | [نور الجزايريه](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 40 | [ليكيب](http://twitter.com/search?q=%d9%84%d9%8a%d9%83%d9%8a%d8%a8) | N/A |
-| 41 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 42 | [23 مارس](http://twitter.com/search?q=23+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
-| 43 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 44 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
+| 24 | [Ait Nouri](http://twitter.com/search?q=Ait+Nouri) | N/A |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
+| 27 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 28 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 29 | [اللاعبين الجدد](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d8%af%d8%af) | N/A |
+| 30 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 31 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 32 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 33 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 34 | [ايمان خليف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
+| 35 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 36 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 37 | [نور الجزايريه](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
+| 38 | [ليكيب](http://twitter.com/search?q=%d9%84%d9%8a%d9%83%d9%8a%d8%a8) | N/A |
+| 39 | [بن سبعيني](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b3%d8%a8%d8%b9%d9%8a%d9%86%d9%8a) | N/A |
+| 40 | [التشكيله الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 41 | [كاس افريقيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 43 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 44 | [23 مارس](http://twitter.com/search?q=23+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 45 | [سيدي الرييس](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
-| 46 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [جمال بلماضي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 48 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 49 | [علي الوجه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ac%d9%87) | N/A |
-| 50 | [ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 46 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 47 | [الامه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 48 | [شهر الرحمه](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
+| 49 | [الجيش الوطني الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
+| 50 | [الامه المسلمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%87) | N/A |
 
 
 

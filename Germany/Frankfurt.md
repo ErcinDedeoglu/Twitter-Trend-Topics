@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-23 23:17:04 UTC`
+📆 Last Updated: `2023-03-24 00:28:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 3 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 6 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 7 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 8 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 9 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 10 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 11 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 12 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 13 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 14 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 15 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [Meisterschaft](http://twitter.com/search?q=Meisterschaft) | N/A |
-| 18 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 19 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 5 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 6 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 7 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 8 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 13 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 14 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 15 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 16 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 17 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 18 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 19 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
 | 20 | [Ablöse](http://twitter.com/search?q=Abl%c3%b6se) | N/A |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Pokal](http://twitter.com/search?q=Pokal) | N/A |
-| 23 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 24 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 25 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 27 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 28 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 29 | [Streik](http://twitter.com/search?q=Streik) | N/A |
-| 30 | [Unterwäsche](http://twitter.com/search?q=Unterw%c3%a4sche) | N/A |
-| 31 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 32 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
-| 33 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 34 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 35 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
-| 36 | [#Kretschmer](http://twitter.com/search?q=%23Kretschmer) | N/A |
-| 37 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 38 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 39 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
-| 40 | [#Paris](http://twitter.com/search?q=%23Paris) | #Paris is a hashtag used on social media platforms such as Twitter and Instagram. It is used to tag posts related to the city of Paris, France. It can also be used to tag posts related to the culture, people, and lifestyle of Paris. |
-| 41 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 42 | [#Verdi](http://twitter.com/search?q=%23Verdi) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 23 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 24 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 25 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 26 | [Pokal](http://twitter.com/search?q=Pokal) | N/A |
+| 27 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 28 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 30 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 31 | [Rauswurf](http://twitter.com/search?q=Rauswurf) | N/A |
+| 32 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 33 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
+| 34 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 35 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
+| 36 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
+| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 38 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 39 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 40 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 41 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 42 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 43 | [Jupp Heynckes](http://twitter.com/search?q=Jupp+Heynckes) | N/A |
+| 44 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 45 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 46 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
+| 47 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 48 | [Kader](http://twitter.com/search?q=Kader) | N/A |
+| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 

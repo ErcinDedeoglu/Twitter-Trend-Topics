@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-23 23:17:30 UTC`
+📆 Last Updated: `2023-03-24 00:28:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AAG2023](http://twitter.com/search?q=%23AAG2023) | N/A |
-| 2 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 3 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 3 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 4 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
 | 5 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 6 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 9 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 13 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 14 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 15 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 16 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 17 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 19 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
-| 20 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
-| 21 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 22 | [Demarco Murray](http://twitter.com/search?q=Demarco+Murray) | N/A |
-| 23 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
-| 24 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 25 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
-| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 27 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 29 | [Joe Brown](http://twitter.com/search?q=Joe+Brown) | N/A |
-| 30 | [Rocky 3](http://twitter.com/search?q=Rocky+3) | N/A |
-| 31 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 32 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 33 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 35 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 36 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
-| 37 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 38 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 39 | [England](http://twitter.com/search?q=England) | N/A |
-| 40 | [Breece](http://twitter.com/search?q=Breece) | N/A |
-| 41 | [Meltzer](http://twitter.com/search?q=Meltzer) | N/A |
-| 42 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 43 | [GO WHITE](http://twitter.com/search?q=GO+WHITE) | N/A |
-| 44 | [Guam](http://twitter.com/search?q=Guam) | Guam is an unincorporated and organized territory of the United States located in the western Pacific Ocean. It is the largest and southernmost of the Mariana Islands. The capital city is Hagåtña, and the most populous city is Dededo. In English, Guam means "we have". |
-| 45 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
-| 46 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 47 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 48 | [Tommy Wiseau](http://twitter.com/search?q=Tommy+Wiseau) | N/A |
-| 49 | [Ezekiel Elliott](http://twitter.com/search?q=Ezekiel+Elliott) | N/A |
+| 6 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 7 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
+| 8 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 9 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 10 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 11 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 16 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 19 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 20 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 24 | [#HalfwayThere](http://twitter.com/search?q=%23HalfwayThere) | N/A |
+| 25 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 26 | [DJ Envy](http://twitter.com/search?q=DJ+Envy) | N/A |
+| 27 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 28 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 29 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 30 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 31 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
+| 32 | [John Daly](http://twitter.com/search?q=John+Daly) | N/A |
+| 33 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 34 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
+| 35 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 36 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 37 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 38 | [Nutty Buddy](http://twitter.com/search?q=Nutty+Buddy) | N/A |
+| 39 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 40 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 41 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
+| 42 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 43 | [Vertigo](http://twitter.com/search?q=Vertigo) | N/A |
+| 44 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 45 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
+| 46 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 47 | [Las Vegas Aces](http://twitter.com/search?q=Las+Vegas+Aces) | N/A |
+| 48 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 49 | [Jake DeBrusk](http://twitter.com/search?q=Jake+DeBrusk) | N/A |
 
 
 

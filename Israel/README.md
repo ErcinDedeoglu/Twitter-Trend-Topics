@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-23 23:17:40 UTC`
+📆 Last Updated: `2023-03-24 00:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
 | 2 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
-| 3 | [הסדר ניגוד](http://twitter.com/search?q=%d7%94%d7%a1%d7%93%d7%a8+%d7%a0%d7%99%d7%92%d7%95%d7%93) | N/A |
-| 4 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
-| 5 | [יואב גלנט](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 3 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
+| 4 | [יואב גלנט](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 5 | [הסדר ניגוד](http://twitter.com/search?q=%d7%94%d7%a1%d7%93%d7%a8+%d7%a0%d7%99%d7%92%d7%95%d7%93) | N/A |
 | 6 | [נאום נתניהו](http://twitter.com/search?q=%d7%a0%d7%90%d7%95%d7%9d+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
 | 7 | [הסכם ניגוד](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%a0%d7%99%d7%92%d7%95%d7%93) | N/A |
 | 8 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for Israel
 | 11 | [של דיכטר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%99%d7%9b%d7%98%d7%a8) | N/A |
 | 12 | [עם גלנט](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
 | 13 | [הרב שך](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%a9%d7%9a) | N/A |
-| 14 | [ישי גרין](http://twitter.com/search?q=%d7%99%d7%a9%d7%99+%d7%92%d7%a8%d7%99%d7%9f) | N/A |
-| 15 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 16 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [ישי גרין](http://twitter.com/search?q=%d7%99%d7%a9%d7%99+%d7%92%d7%a8%d7%99%d7%9f) | N/A |
+| 16 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
 | 17 | [סמל המחאה](http://twitter.com/search?q=%d7%a1%d7%9e%d7%9c+%d7%94%d7%9e%d7%97%d7%90%d7%94) | N/A |
 | 18 | [אבי דיכטר](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%93%d7%99%d7%9b%d7%98%d7%a8) | N/A |
 | 19 | [Bnei Brak](http://twitter.com/search?q=Bnei+Brak) | N/A |
 | 20 | [פרס ישראל](http://twitter.com/search?q=%d7%a4%d7%a8%d7%a1+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
 | 21 | [נלסון מנדלה](http://twitter.com/search?q=%d7%a0%d7%9c%d7%a1%d7%95%d7%9f+%d7%9e%d7%a0%d7%93%d7%9c%d7%94) | N/A |
-| 22 | [של ביבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%91%d7%99) | N/A |
-| 23 | [#פושעי_ההפיכה_לדין](http://twitter.com/search?q=%23%d7%a4%d7%95%d7%a9%d7%a2%d7%99_%d7%94%d7%94%d7%a4%d7%99%d7%9b%d7%94_%d7%9c%d7%93%d7%99%d7%9f) | N/A |
-| 24 | [ראש הממשלה של](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a9%d7%9c) | N/A |
-| 25 | [ביטחון המדינה](http://twitter.com/search?q=%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 26 | [עד כאן](http://twitter.com/search?q=%d7%a2%d7%93+%d7%9b%d7%90%d7%9f) | N/A |
-| 27 | [חוק נבצרות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa) | N/A |
-| 28 | [אבי דוידוביץ](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%93%d7%95%d7%99%d7%93%d7%95%d7%91%d7%99%d7%a5) | N/A |
-| 29 | [ניצב משנה](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%91+%d7%9e%d7%a9%d7%a0%d7%94) | N/A |
-| 30 | [עם מקל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%a7%d7%9c) | N/A |
-| 31 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
-| 32 | [כלנית שרון](http://twitter.com/search?q=%d7%9b%d7%9c%d7%a0%d7%99%d7%aa+%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
-| 33 | [שעון קיץ](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%a7%d7%99%d7%a5) | N/A |
-| 34 | [עשו לה](http://twitter.com/search?q=%d7%a2%d7%a9%d7%95+%d7%9c%d7%94) | N/A |
-| 35 | [אן ד](http://twitter.com/search?q=%d7%90%d7%9f+%d7%93) | N/A |
-| 36 | [חם צוואר](http://twitter.com/search?q=%d7%97%d7%9d+%d7%a6%d7%95%d7%95%d7%90%d7%a8) | N/A |
-| 37 | [עם הדגל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%93%d7%92%d7%9c) | N/A |
-| 38 | [צומת רעננה](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a8%d7%a2%d7%a0%d7%a0%d7%94) | N/A |
+| 22 | [#פושעי_ההפיכה_לדין](http://twitter.com/search?q=%23%d7%a4%d7%95%d7%a9%d7%a2%d7%99_%d7%94%d7%94%d7%a4%d7%99%d7%9b%d7%94_%d7%9c%d7%93%d7%99%d7%9f) | N/A |
+| 23 | [ראש הממשלה של](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a9%d7%9c) | N/A |
+| 24 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 25 | [חוק נבצרות](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa) | N/A |
+| 26 | [אבי דוידוביץ](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%93%d7%95%d7%99%d7%93%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 27 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
+| 28 | [ניצב משנה](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%91+%d7%9e%d7%a9%d7%a0%d7%94) | N/A |
+| 29 | [עם מקל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%a7%d7%9c) | N/A |
+| 30 | [כלנית שרון](http://twitter.com/search?q=%d7%9b%d7%9c%d7%a0%d7%99%d7%aa+%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
+| 31 | [עד כאן](http://twitter.com/search?q=%d7%a2%d7%93+%d7%9b%d7%90%d7%9f) | N/A |
+| 32 | [שעון קיץ](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%a7%d7%99%d7%a5) | N/A |
+| 33 | [עשו לה](http://twitter.com/search?q=%d7%a2%d7%a9%d7%95+%d7%9c%d7%94) | N/A |
+| 34 | [אן דארק](http://twitter.com/search?q=%d7%90%d7%9f+%d7%93%d7%90%d7%a8%d7%a7) | N/A |
+| 35 | [חם צוואר](http://twitter.com/search?q=%d7%97%d7%9d+%d7%a6%d7%95%d7%95%d7%90%d7%a8) | N/A |
+| 36 | [עם הדגל](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%93%d7%92%d7%9c) | N/A |
+| 37 | [צומת רעננה](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a8%d7%a2%d7%a0%d7%a0%d7%94) | N/A |
+| 38 | [של ביבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%91%d7%99) | N/A |
 | 39 | [עבר חוק](http://twitter.com/search?q=%d7%a2%d7%91%d7%a8+%d7%97%d7%95%d7%a7) | N/A |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 41 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
-| 42 | [איזה נאום](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%a0%d7%90%d7%95%d7%9d) | N/A |
+| 40 | [משה רדמן](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a8%d7%93%d7%9e%d7%9f) | N/A |
+| 41 | [ביטחון המדינה](http://twitter.com/search?q=%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 42 | [איילון דרום](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%95%d7%9f+%d7%93%d7%a8%d7%95%d7%9d) | N/A |
 | 43 | [#RishiSaveIsrael](http://twitter.com/search?q=%23RishiSaveIsrael) | N/A |
-| 44 | [משה רדמן](http://twitter.com/search?q=%d7%9e%d7%a9%d7%94+%d7%a8%d7%93%d7%9e%d7%9f) | N/A |
-| 45 | [#כולנו_שקמה](http://twitter.com/search?q=%23%d7%9b%d7%95%d7%9c%d7%a0%d7%95_%d7%a9%d7%a7%d7%9e%d7%94) | N/A |
-| 46 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 47 | [מעצר פוליטי](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a6%d7%a8+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
-| 48 | [ביבי עוצר](http://twitter.com/search?q=%d7%91%d7%99%d7%91%d7%99+%d7%a2%d7%95%d7%a6%d7%a8) | N/A |
-| 49 | [נגד חרדים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%97%d7%a8%d7%93%d7%99%d7%9d) | N/A |
-| 50 | [חרא בן חרא](http://twitter.com/search?q=%d7%97%d7%a8%d7%90+%d7%91%d7%9f+%d7%97%d7%a8%d7%90) | N/A |
+| 44 | [#כולנו_שקמה](http://twitter.com/search?q=%23%d7%9b%d7%95%d7%9c%d7%a0%d7%95_%d7%a9%d7%a7%d7%9e%d7%94) | N/A |
+| 45 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 46 | [מעצר פוליטי](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a6%d7%a8+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
+| 47 | [ביבי עוצר](http://twitter.com/search?q=%d7%91%d7%99%d7%91%d7%99+%d7%a2%d7%95%d7%a6%d7%a8) | N/A |
+| 48 | [חרא בן חרא](http://twitter.com/search?q=%d7%97%d7%a8%d7%90+%d7%91%d7%9f+%d7%97%d7%a8%d7%90) | N/A |
+| 49 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 50 | [אנשים אחים](http://twitter.com/search?q=%d7%90%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%97%d7%99%d7%9d) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-03-23 23:16:58 UTC`
+📆 Last Updated: `2023-03-24 00:28:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#NiCorrupciónNiPrivatización](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiPrivatizaci%c3%b3n) | N/A |
 | 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 5 | [#EsSaqueoNoBloqueo](http://twitter.com/search?q=%23EsSaqueoNoBloqueo) | N/A |
 | 6 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 8 | [#NoEsBloqueoEsSaqueo](http://twitter.com/search?q=%23NoEsBloqueoEsSaqueo) | N/A |
-| 9 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 10 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 7 | [#NoEsBloqueoEsSaqueo](http://twitter.com/search?q=%23NoEsBloqueoEsSaqueo) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 11 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
-| 12 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 13 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
-| 14 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 12 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 13 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 14 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
 | 15 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 16 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
-| 17 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 18 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
-| 19 | [Banco Mercantil](http://twitter.com/search?q=Banco+Mercantil) | N/A |
-| 20 | [himno nacional de venezuela](http://twitter.com/search?q=himno+nacional+de+venezuela) | N/A |
-| 21 | [Betulio González](http://twitter.com/search?q=Betulio+Gonz%c3%a1lez) | N/A |
-| 22 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 23 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 24 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 25 | [Baudilio Díaz](http://twitter.com/search?q=Baudilio+D%c3%adaz) | N/A |
-| 26 | [bravo pueblo](http://twitter.com/search?q=bravo+pueblo) | N/A |
-| 27 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
-| 30 | [Katherine Haringhton](http://twitter.com/search?q=Katherine+Haringhton) | N/A |
-| 31 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 32 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 33 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 16 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 17 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 18 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 19 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 20 | [Banco Mercantil](http://twitter.com/search?q=Banco+Mercantil) | N/A |
+| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 22 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
+| 23 | [himno nacional de venezuela](http://twitter.com/search?q=himno+nacional+de+venezuela) | N/A |
+| 24 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 25 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
+| 26 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 27 | [Baudilio Díaz](http://twitter.com/search?q=Baudilio+D%c3%adaz) | N/A |
+| 28 | [bravo pueblo](http://twitter.com/search?q=bravo+pueblo) | N/A |
+| 29 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
+| 30 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
+| 31 | [Betulio González](http://twitter.com/search?q=Betulio+Gonz%c3%a1lez) | N/A |
+| 32 | [Katherine Haringhton](http://twitter.com/search?q=Katherine+Haringhton) | N/A |
+| 33 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
 | 34 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 35 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 36 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 37 | [Todex](http://twitter.com/search?q=Todex) | N/A |
-| 38 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 39 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 40 | [Ricardo Montaner](http://twitter.com/search?q=Ricardo+Montaner) | N/A |
-| 41 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
-| 42 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
-| 43 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 44 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 45 | [Mare Abajo](http://twitter.com/search?q=Mare+Abajo) | N/A |
-| 46 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
-| 47 | [Alex Romero](http://twitter.com/search?q=Alex+Romero) | N/A |
-| 48 | [Richard Gómez](http://twitter.com/search?q=Richard+G%c3%b3mez) | N/A |
-| 49 | [Bizarrap](http://twitter.com/search?q=Bizarrap) | Bizarrap is a type of rap music that originated in Mexico. It is characterized by its fast-paced, aggressive beats and its use of electronic instruments. The lyrics often focus on topics such as social issues, politics, and personal struggles. In English, the term "bizarrap" can be translated to mean "strange rap". |
+| 35 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 36 | [Ricardo Montaner](http://twitter.com/search?q=Ricardo+Montaner) | N/A |
+| 37 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 38 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
+| 39 | [Todex](http://twitter.com/search?q=Todex) | N/A |
+| 40 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 41 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 42 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
+| 43 | [Don Fulgencio](http://twitter.com/search?q=Don+Fulgencio) | N/A |
+| 44 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 45 | [antonio guzmán blanco](http://twitter.com/search?q=antonio+guzm%c3%a1n+blanco) | N/A |
+| 46 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 49 | [Mare Abajo](http://twitter.com/search?q=Mare+Abajo) | N/A |
 
 
 
