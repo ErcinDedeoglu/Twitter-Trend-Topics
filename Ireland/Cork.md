@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-24 11:16:49 UTC`
+📆 Last Updated: `2023-03-24 12:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Ireland](</Ireland>)
 | 4 | [#heartofireland](http://twitter.com/search?q=%23heartofireland) | N/A |
 | 5 | [Mikey Johnston](http://twitter.com/search?q=Mikey+Johnston) | N/A |
 | 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 7 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 11 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 13 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 14 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
+| 12 | [kerry babies](http://twitter.com/search?q=kerry+babies) | N/A |
+| 13 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
+| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 15 | [Irish Cancer Society](http://twitter.com/search?q=Irish+Cancer+Society) | N/A |
 | 16 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
-| 17 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 18 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 19 | [Graham Dwyer](http://twitter.com/search?q=Graham+Dwyer) | N/A |
-| 20 | [Alanna](http://twitter.com/search?q=Alanna) | N/A |
-| 21 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 17 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 18 | [Graham Dwyer](http://twitter.com/search?q=Graham+Dwyer) | N/A |
+| 19 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 20 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 21 | [Alanna](http://twitter.com/search?q=Alanna) | N/A |
 | 22 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 23 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 23 | [Simon Harris](http://twitter.com/search?q=Simon+Harris) | N/A |
 | 24 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 27 | [Kelleher](http://twitter.com/search?q=Kelleher) | Kelleher is an Irish surname derived from the Gaelic name Ó Ceileachair, which means "descendant of Ceileachar". The name is most commonly found in County Cork and County Kerry in Ireland. |
-| 28 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 29 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 31 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 33 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 25 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 26 | [Baby John](http://twitter.com/search?q=Baby+John) | N/A |
+| 27 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 28 | [Kelleher](http://twitter.com/search?q=Kelleher) | Kelleher is an Irish surname derived from the Gaelic name Ó Ceileachair, which means "descendant of Ceileachar". The name is most commonly found in County Cork and County Kerry in Ireland. |
+| 29 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 31 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 33 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
 | 34 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 35 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 36 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
-| 37 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 35 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
+| 36 | [obafemi](http://twitter.com/search?q=obafemi) | N/A |
+| 37 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 38 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 39 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 39 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
 | 40 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
-| 41 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 42 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 43 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 44 | [Browne](http://twitter.com/search?q=Browne) | N/A |
-| 45 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 46 | [Dail](http://twitter.com/search?q=Dail) | N/A |
-| 47 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 48 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 41 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 42 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 43 | [Browne](http://twitter.com/search?q=Browne) | N/A |
+| 44 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
+| 45 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 46 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 47 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 48 | [Dail](http://twitter.com/search?q=Dail) | N/A |
 
 
 

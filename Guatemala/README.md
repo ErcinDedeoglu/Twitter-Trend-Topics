@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-24 11:17:26 UTC`
+📆 Last Updated: `2023-03-24 12:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,10 +23,10 @@ This is top 50 for Guatemala
 | 6 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 7 | [#DiaMundialDelAgua](http://twitter.com/search?q=%23DiaMundialDelAgua) | N/A |
 | 8 | [cunoc](http://twitter.com/search?q=cunoc) | N/A |
-| 9 | [USAC](http://twitter.com/search?q=USAC) | N/A |
+| 9 | [Usac](http://twitter.com/search?q=Usac) | N/A |
 | 10 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 11 | [Belice](http://twitter.com/search?q=Belice) | N/A |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Belice](http://twitter.com/search?q=Belice) | N/A |
 | 13 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 | 14 | [mario camposeco](http://twitter.com/search?q=mario+camposeco) | N/A |
 | 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
@@ -37,34 +37,34 @@ This is top 50 for Guatemala
 | 20 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 21 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 22 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
-| 23 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 23 | [face is coming](http://twitter.com/search?q=face+is+coming) | N/A |
 | 24 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
 | 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 26 | [Morat](http://twitter.com/search?q=Morat) | N/A |
 | 27 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
-| 28 | [huevones](http://twitter.com/search?q=huevones) | N/A |
+| 28 | [HUEVONES](http://twitter.com/search?q=HUEVONES) | N/A |
 | 29 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 | 30 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 31 | [Myke](http://twitter.com/search?q=Myke) | N/A |
 | 32 | [casa de dios](http://twitter.com/search?q=casa+de+dios) | N/A |
-| 33 | [Esme](http://twitter.com/search?q=Esme) | N/A |
-| 34 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
-| 35 | [Puerto Barrios](http://twitter.com/search?q=Puerto+Barrios) | N/A |
-| 36 | [Licenciada](http://twitter.com/search?q=Licenciada) | N/A |
+| 33 | [Puerto Barrios](http://twitter.com/search?q=Puerto+Barrios) | N/A |
+| 34 | [Esme](http://twitter.com/search?q=Esme) | N/A |
+| 35 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
+| 36 | [licenciada](http://twitter.com/search?q=licenciada) | N/A |
 | 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Abuso](http://twitter.com/search?q=Abuso) | N/A |
+| 38 | [abuso](http://twitter.com/search?q=abuso) | N/A |
 | 39 | [la parroquia](http://twitter.com/search?q=la+parroquia) | N/A |
-| 40 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 41 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 42 | [guardia de honor](http://twitter.com/search?q=guardia+de+honor) | N/A |
-| 43 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 44 | [Marte](http://twitter.com/search?q=Marte) | N/A |
-| 45 | [camila](http://twitter.com/search?q=camila) | N/A |
-| 46 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 47 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 48 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 49 | [belmopán](http://twitter.com/search?q=belmop%c3%a1n) | N/A |
-| 50 | [La CC](http://twitter.com/search?q=La+CC) | N/A |
+| 40 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 41 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 42 | [Marte](http://twitter.com/search?q=Marte) | N/A |
+| 43 | [camila](http://twitter.com/search?q=camila) | N/A |
+| 44 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 45 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 46 | [belmopán](http://twitter.com/search?q=belmop%c3%a1n) | N/A |
+| 47 | [La CC](http://twitter.com/search?q=La+CC) | N/A |
+| 48 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
+| 49 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 50 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 
 
 

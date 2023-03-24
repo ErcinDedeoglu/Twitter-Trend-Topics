@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-24 11:17:24 UTC`
+📆 Last Updated: `2023-03-24 12:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
-| 2 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 3 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 4 | [#PolicíaLocalEs](http://twitter.com/search?q=%23Polic%c3%adaLocalEs) | N/A |
-| 5 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 7 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
-| 8 | [#ReformaPolítica](http://twitter.com/search?q=%23ReformaPol%c3%adtica) | N/A |
-| 9 | [carlos darwin quintero](http://twitter.com/search?q=carlos+darwin+quintero) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 11 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 12 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 13 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
-| 14 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 15 | [politiquera](http://twitter.com/search?q=politiquera) | N/A |
-| 16 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 17 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 18 | [scarpetta](http://twitter.com/search?q=scarpetta) | N/A |
-| 19 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 20 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 21 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 22 | [LIBERTAD Y ORDEN](http://twitter.com/search?q=LIBERTAD+Y+ORDEN) | N/A |
-| 23 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
-| 24 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 25 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 26 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 27 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 30 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 32 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 33 | [caño cristales](http://twitter.com/search?q=ca%c3%b1o+cristales) | N/A |
-| 34 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 35 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 36 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 37 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 38 | [Lionel](http://twitter.com/search?q=Lionel) | Lionel is a French name derived from the Latin word leo, meaning "lion". It is also a surname, and may refer to someone who is brave or strong like a lion. |
-| 39 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
-| 42 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 43 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 44 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 45 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 46 | [Ariel Ávila](http://twitter.com/search?q=Ariel+%c3%81vila) | N/A |
-| 47 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 48 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 49 | [adrián ramos](http://twitter.com/search?q=adri%c3%a1n+ramos) | N/A |
-| 50 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 1 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
+| 2 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
+| 3 | [Corea](http://twitter.com/search?q=Corea) | N/A |
+| 4 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 5 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 6 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 7 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 8 | [#PolicíaLocalEs](http://twitter.com/search?q=%23Polic%c3%adaLocalEs) | N/A |
+| 9 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
+| 10 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
+| 11 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 12 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 13 | [Heung-Min](http://twitter.com/search?q=Heung-Min) | N/A |
+| 14 | [Matheus Uribe](http://twitter.com/search?q=Matheus+Uribe) | N/A |
+| 15 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 16 | [#ReformaPolítica](http://twitter.com/search?q=%23ReformaPol%c3%adtica) | N/A |
+| 17 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
+| 18 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
+| 19 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
+| 20 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Borré](http://twitter.com/search?q=Borr%c3%a9) | Borré is a Spanish verb meaning "to drink". It is used to describe the act of drinking alcohol or other beverages. In English, it would be translated as "to drink". |
+| 23 | [Politiquera](http://twitter.com/search?q=Politiquera) | N/A |
+| 24 | [Didier](http://twitter.com/search?q=Didier) | N/A |
+| 25 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 26 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 27 | [SCARPETTA](http://twitter.com/search?q=SCARPETTA) | N/A |
+| 28 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 29 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 30 | [Pozos](http://twitter.com/search?q=Pozos) | N/A |
+| 31 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
+| 32 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
+| 33 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 34 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
+| 35 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
+| 36 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
+| 37 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 38 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 39 | [hinestroza](http://twitter.com/search?q=hinestroza) | N/A |
+| 40 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 41 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 42 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 43 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 44 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 45 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 48 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 49 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
+| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 
 
 

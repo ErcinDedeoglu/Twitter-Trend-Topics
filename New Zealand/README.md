@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-24 11:17:28 UTC`
+📆 Last Updated: `2023-03-24 12:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for New Zealand
 | ------- | ------------ | ------------ |
 | 1 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
 | 2 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 3 | [Kim Hill](http://twitter.com/search?q=Kim+Hill) | N/A |
+| 3 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
 | 4 | [LGNZ](http://twitter.com/search?q=LGNZ) | N/A |
 | 5 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 6 | [#CRUvBRU](http://twitter.com/search?q=%23CRUvBRU) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for New Zealand
 | 8 | [NZ First](http://twitter.com/search?q=NZ+First) | N/A |
 | 9 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 12 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 11 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 12 | [Erica](http://twitter.com/search?q=Erica) | N/A |
 | 13 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 14 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
-| 15 | [Winnie](http://twitter.com/search?q=Winnie) | N/A |
-| 16 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 15 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
+| 16 | [Winnie](http://twitter.com/search?q=Winnie) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
-| 19 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 18 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 19 | [National Standards](http://twitter.com/search?q=National+Standards) | N/A |
 | 20 | [Auckland Council](http://twitter.com/search?q=Auckland+Council) | N/A |
 | 21 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
 | 22 | [nz initiative](http://twitter.com/search?q=nz+initiative) | N/A |
-| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 24 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
-| 25 | [Pisa](http://twitter.com/search?q=Pisa) | N/A |
-| 26 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 27 | [Sean](http://twitter.com/search?q=Sean) | N/A |
-| 28 | [porirua](http://twitter.com/search?q=porirua) | N/A |
-| 29 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 30 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 31 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 33 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
-| 36 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 37 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 23 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
+| 24 | [Pisa](http://twitter.com/search?q=Pisa) | N/A |
+| 25 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 26 | [porirua](http://twitter.com/search?q=porirua) | N/A |
+| 27 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 28 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 29 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 30 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 33 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
+| 34 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 35 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 36 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 37 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
 | 38 | [Immigration Minister](http://twitter.com/search?q=Immigration+Minister) | N/A |
-| 39 | [Ministry of Health](http://twitter.com/search?q=Ministry+of+Health) | N/A |
-| 40 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 41 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
+| 39 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 40 | [Ministry of Health](http://twitter.com/search?q=Ministry+of+Health) | N/A |
+| 41 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 42 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 43 | [Local Government NZ](http://twitter.com/search?q=Local+Government+NZ) | N/A |
 | 44 | [immigration nz](http://twitter.com/search?q=immigration+nz) | N/A |
 | 45 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 46 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 47 | [Countdown](http://twitter.com/search?q=Countdown) | N/A |
-| 48 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
-| 49 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
-| 50 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 46 | [Countdown](http://twitter.com/search?q=Countdown) | N/A |
+| 47 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
+| 48 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 50 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 
 
 
