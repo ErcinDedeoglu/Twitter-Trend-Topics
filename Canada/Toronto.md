@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-24 07:16:44 UTC`
+📆 Last Updated: `2023-03-24 08:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 2 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 3 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 1 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 2 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 3 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
 | 4 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 5 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 6 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 7 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 5 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
 | 8 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 12 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 13 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 14 | [John and John](http://twitter.com/search?q=John+and+John) | N/A |
-| 15 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 16 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 17 | [Eric Staal](http://twitter.com/search?q=Eric+Staal) | N/A |
-| 18 | [Shorty](http://twitter.com/search?q=Shorty) | N/A |
-| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 20 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 21 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 23 | [camila](http://twitter.com/search?q=camila) | N/A |
-| 24 | [London](http://twitter.com/search?q=London) | N/A |
-| 25 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 27 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 30 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 31 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 34 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
-| 35 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 36 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 37 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 38 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 39 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
-| 40 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 41 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 42 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 10 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 11 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 12 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 13 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 14 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 15 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 16 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 20 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 22 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 23 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 24 | [John and John](http://twitter.com/search?q=John+and+John) | N/A |
+| 25 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Shorty](http://twitter.com/search?q=Shorty) | N/A |
+| 28 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 29 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 30 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 31 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 32 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 33 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 34 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 37 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 38 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 39 | [James Reimer](http://twitter.com/search?q=James+Reimer) | N/A |
+| 40 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 41 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 42 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 43 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 44 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 45 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 46 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 47 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 48 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
+| 49 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 50 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 
 
 

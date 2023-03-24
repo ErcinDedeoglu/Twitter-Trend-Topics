@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-24 07:17:20 UTC`
+📆 Last Updated: `2023-03-24 08:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SamsungGalaxyF14](http://twitter.com/search?q=%23SamsungGalaxyF14) | N/A |
-| 2 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
-| 3 | [#WorldTuberculosisDay](http://twitter.com/search?q=%23WorldTuberculosisDay) | N/A |
-| 4 | [#AjithKumar](http://twitter.com/search?q=%23AjithKumar) | N/A |
-| 5 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 2 | [#DilHaiBholaaSong](http://twitter.com/search?q=%23DilHaiBholaaSong) | N/A |
+| 3 | [#ModiGovtAgainstDrugs](http://twitter.com/search?q=%23ModiGovtAgainstDrugs) | N/A |
+| 4 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
+| 5 | [Rs 12,990](http://twitter.com/search?q=Rs+12%2c990) | N/A |
 | 6 | [One World TB Summit](http://twitter.com/search?q=One+World+TB+Summit) | N/A |
-| 7 | [रेणुका चौधरी](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a3%e0%a5%81%e0%a4%95%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 8 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 7 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 8 | [रेणुका चौधरी](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a3%e0%a5%81%e0%a4%95%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 9 | [Finance Bill](http://twitter.com/search?q=Finance+Bill) | N/A |
 | 10 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
-| 11 | [Ramayan](http://twitter.com/search?q=Ramayan) | N/A |
-| 12 | [CBI Investigating AllAngles](http://twitter.com/search?q=CBI+Investigating+AllAngles) | N/A |
+| 11 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
+| 12 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
 | 13 | [प्रदीप सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
 | 14 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 15 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
-| 16 | [तृतीय स्वरूप](http://twitter.com/search?q=%e0%a4%a4%e0%a5%83%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 17 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [भगवान विष्णु](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | भगवान विष्णु is a Hindu deity, the Supreme Being and the Preserver of the Universe. In English, it translates to "Lord Vishnu". |
-| 20 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 22 | [Rudrakash Convention Centre](http://twitter.com/search?q=Rudrakash+Convention+Centre) | N/A |
-| 23 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
-| 24 | [LTCG](http://twitter.com/search?q=LTCG) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [प्रथम अवतार](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%be%e0%a4%b0) | N/A |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Finance Bill](http://twitter.com/search?q=Finance+Bill) | N/A |
-| 29 | [Detoxify Your Body](http://twitter.com/search?q=Detoxify+Your+Body) | N/A |
-| 30 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 31 | [Ritucharya This Season](http://twitter.com/search?q=Ritucharya+This+Season) | N/A |
-| 32 | [Debt](http://twitter.com/search?q=Debt) | N/A |
-| 33 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 16 | [Ramayan](http://twitter.com/search?q=Ramayan) | N/A |
+| 17 | [CBI Investigating AllAngles](http://twitter.com/search?q=CBI+Investigating+AllAngles) | N/A |
+| 18 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
+| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 20 | [Options](http://twitter.com/search?q=Options) | N/A |
+| 21 | [Debt](http://twitter.com/search?q=Debt) | N/A |
+| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 23 | [LTCG](http://twitter.com/search?q=LTCG) | N/A |
+| 24 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 25 | [Rudrakash Convention Centre](http://twitter.com/search?q=Rudrakash+Convention+Centre) | N/A |
+| 26 | [मनोज सिन्हा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%b9%e0%a4%be) | N/A |
+| 27 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 28 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 29 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 30 | [भगवान विष्णु](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | भगवान विष्णु is a Hindu deity, the Supreme Being and the Preserver of the Universe. In English, it translates to "Lord Vishnu". |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [तृतीय स्वरूप](http://twitter.com/search?q=%e0%a4%a4%e0%a5%83%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 33 | [प्रथम अवतार](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%be%e0%a4%b0) | N/A |
 | 34 | [अंकित शर्मा](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%95%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 35 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 36 | [मनोज सिन्हा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%b9%e0%a4%be) | N/A |
-| 37 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 38 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
-| 39 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 40 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 42 | [#DilHaiBholaaSong](http://twitter.com/search?q=%23DilHaiBholaaSong) | N/A |
-| 43 | [#PradeepSarkar](http://twitter.com/search?q=%23PradeepSarkar) | N/A |
-| 44 | [#TBMuktBharat](http://twitter.com/search?q=%23TBMuktBharat) | N/A |
-| 45 | [#गणगौर](http://twitter.com/search?q=%23%e0%a4%97%e0%a4%a3%e0%a4%97%e0%a5%8c%e0%a4%b0) | N/A |
-| 46 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 47 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 48 | [#Gangaur](http://twitter.com/search?q=%23Gangaur) | N/A |
-| 49 | [#EndTB](http://twitter.com/search?q=%23EndTB) | N/A |
+| 35 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 37 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
+| 38 | [Detoxify Your Body](http://twitter.com/search?q=Detoxify+Your+Body) | N/A |
+| 39 | [Ritucharya This Season](http://twitter.com/search?q=Ritucharya+This+Season) | N/A |
+| 40 | [राघव चड्ढा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%98%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
+| 41 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 42 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
+| 43 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 44 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
+| 45 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 46 | [#WorldTuberculosisDay](http://twitter.com/search?q=%23WorldTuberculosisDay) | N/A |
+| 47 | [#AjithKumar](http://twitter.com/search?q=%23AjithKumar) | N/A |
+| 48 | [#TBMuktBharat](http://twitter.com/search?q=%23TBMuktBharat) | N/A |
+| 49 | [#PradeepSarkar](http://twitter.com/search?q=%23PradeepSarkar) | N/A |
 
 
 

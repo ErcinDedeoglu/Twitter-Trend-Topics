@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-03-24 07:17:38 UTC`
+📆 Last Updated: `2023-03-24 08:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#เอสป้าหนีกวังยามาไทยแลนด์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b8%aa%e0%b8%9b%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b5%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%a2%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b9%81%e0%b8%a5%e0%b8%99%e0%b8%94%e0%b9%8c) | N/A |
-| 2 | [#711THxJacksonWang](http://twitter.com/search?q=%23711THxJacksonWang) | N/A |
-| 3 | [#BuaexCharlotte](http://twitter.com/search?q=%23BuaexCharlotte) | N/A |
-| 4 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 5 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 1 | [#711THxJacksonWang](http://twitter.com/search?q=%23711THxJacksonWang) | N/A |
+| 2 | [#เอสป้าหนีกวังยามาไทยแลนด์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b8%aa%e0%b8%9b%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b5%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%a2%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b9%81%e0%b8%a5%e0%b8%99%e0%b8%94%e0%b9%8c) | N/A |
+| 3 | [#แบนหนิงไอลีน](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b4%e0%b8%87%e0%b9%84%e0%b8%ad%e0%b8%a5%e0%b8%b5%e0%b8%99) | N/A |
+| 4 | [#GL_ShowmeloveTheSeries](http://twitter.com/search?q=%23GL_ShowmeloveTheSeries) | N/A |
+| 5 | [#BuaexCharlotte](http://twitter.com/search?q=%23BuaexCharlotte) | N/A |
 | 6 | [SML EP4 TODAY](http://twitter.com/search?q=SML+EP4+TODAY) | N/A |
-| 7 | [D-4 BAMBAM IS BACK](http://twitter.com/search?q=D-4+BAMBAM+IS+BACK) | N/A |
-| 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 9 | [#แบนหนิงไอลีน](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b4%e0%b8%87%e0%b9%84%e0%b8%ad%e0%b8%a5%e0%b8%b5%e0%b8%99) | N/A |
-| 10 | [#MileApoxWoody](http://twitter.com/search?q=%23MileApoxWoody) | N/A |
-| 11 | [#OPPOFindN2FlipTH](http://twitter.com/search?q=%23OPPOFindN2FlipTH) | N/A |
-| 12 | [#โหนกระแส](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ab%e0%b8%99%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%aa) | N/A |
-| 13 | [#baobaovoice](http://twitter.com/search?q=%23baobaovoice) | N/A |
-| 14 | [#Everydaywithbaobao](http://twitter.com/search?q=%23Everydaywithbaobao) | N/A |
-| 15 | [#WoodyFMonStage](http://twitter.com/search?q=%23WoodyFMonStage) | N/A |
-| 16 | [#GL_ShowmeloveTheSeries](http://twitter.com/search?q=%23GL_ShowmeloveTheSeries) | N/A |
-| 17 | [#พับที่ดีกว่า](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5%e0%b8%81%e0%b8%a7%e0%b9%88%e0%b8%b2) | N/A |
-| 18 | [#วันศุกร์สุขใจกับซีนุนิว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b9%83%e0%b8%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 19 | [#600Kเทใจให้สตางค์](http://twitter.com/search?q=%23600K%e0%b9%80%e0%b8%97%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
-| 20 | [#AlwaysWithYouMino](http://twitter.com/search?q=%23AlwaysWithYouMino) | N/A |
-| 21 | [#GrabFoodวินทุกเกมกินทั่วไทย](http://twitter.com/search?q=%23GrabFood%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%a1%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
-| 22 | [#해바라기처럼_송민호만_기다릴게](http://twitter.com/search?q=%23%ed%95%b4%eb%b0%94%eb%9d%bc%ea%b8%b0%ec%b2%98%eb%9f%bc_%ec%86%a1%eb%af%bc%ed%98%b8%eb%a7%8c_%ea%b8%b0%eb%8b%a4%eb%a6%b4%ea%b2%8c) | N/A |
-| 23 | [#KonnecConx3ลูกรักพระเจ้า](http://twitter.com/search?q=%23KonnecConx3%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2) | N/A |
-| 24 | [#YourCallTYTAN](http://twitter.com/search?q=%23YourCallTYTAN) | N/A |
-| 25 | [#FordAllan](http://twitter.com/search?q=%23FordAllan) | N/A |
-| 26 | [#MEENPING1stFANMEETING](http://twitter.com/search?q=%23MEENPING1stFANMEETING) | N/A |
-| 27 | [#Akmu](http://twitter.com/search?q=%23Akmu) | N/A |
-| 28 | [#KARD](http://twitter.com/search?q=%23KARD) | N/A |
-| 29 | [#BTOB](http://twitter.com/search?q=%23BTOB) | N/A |
-| 30 | [#EVERGLOW](http://twitter.com/search?q=%23EVERGLOW) | N/A |
-| 31 | [#SourandSweet_D4](http://twitter.com/search?q=%23SourandSweet_D4) | N/A |
-| 32 | [#SoundCheckFestival2023](http://twitter.com/search?q=%23SoundCheckFestival2023) | N/A |
-| 33 | [#FortPeatSendOffxShanghai](http://twitter.com/search?q=%23FortPeatSendOffxShanghai) | N/A |
-| 34 | [#ส่งกาแฟให้คุณอนล](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b9%81%e0%b8%9f%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%ad%e0%b8%99%e0%b8%a5) | N/A |
-| 35 | [#MEENPINGTOTHEMOON](http://twitter.com/search?q=%23MEENPINGTOTHEMOON) | N/A |
-| 36 | [#Waterbombbangkok2023](http://twitter.com/search?q=%23Waterbombbangkok2023) | N/A |
-| 37 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
-| 38 | [#XiaoZhan](http://twitter.com/search?q=%23XiaoZhan) | N/A |
-| 39 | [#HAPPYMASHIHODAY](http://twitter.com/search?q=%23HAPPYMASHIHODAY) | N/A |
-| 40 | [#satangks](http://twitter.com/search?q=%23satangks) | N/A |
-| 41 | [#saveG](http://twitter.com/search?q=%23saveG) | N/A |
-| 42 | [#มาสเตอร์เชฟอาร์มี่](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%95%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%8a%e0%b8%9f%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%b5%e0%b9%88) | N/A |
-| 43 | [#ป๋อจ้าน](http://twitter.com/search?q=%23%e0%b8%9b%e0%b9%8b%e0%b8%ad%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%99) | N/A |
+| 7 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
+| 8 | [D-4 BAMBAM IS BACK](http://twitter.com/search?q=D-4+BAMBAM+IS+BACK) | N/A |
+| 9 | [cherprang specialolympics](http://twitter.com/search?q=cherprang+specialolympics) | N/A |
+| 10 | [BamBam Digital Cover](http://twitter.com/search?q=BamBam+Digital+Cover) | N/A |
+| 11 | [bambam gm 24march](http://twitter.com/search?q=bambam+gm+24march) | N/A |
+| 12 | [LOVE ME W AGAIN](http://twitter.com/search?q=LOVE+ME+W+AGAIN) | N/A |
+| 13 | [billkin x gdh 2023](http://twitter.com/search?q=billkin+x+gdh+2023) | N/A |
+| 14 | [grand tv](http://twitter.com/search?q=grand+tv) | N/A |
+| 15 | [march23 has charlotte](http://twitter.com/search?q=march23+has+charlotte) | N/A |
+| 16 | [PP KRIT x GDH 2023](http://twitter.com/search?q=PP+KRIT+x+GDH+2023) | N/A |
+| 17 | [GEMINI FOURTH ALL KILL](http://twitter.com/search?q=GEMINI+FOURTH+ALL+KILL) | N/A |
+| 18 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 19 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 20 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
+| 21 | [JOYFUL DAY24 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY24+TO+ENGFA) | N/A |
+| 22 | [NEET](http://twitter.com/search?q=NEET) | N/A |
+| 23 | [HIDDEN TRACK](http://twitter.com/search?q=HIDDEN+TRACK) | N/A |
+| 24 | [All Cafe](http://twitter.com/search?q=All+Cafe) | N/A |
+| 25 | [Weibo Night](http://twitter.com/search?q=Weibo+Night) | N/A |
+| 26 | [SERVE SAFELY SONG MINO](http://twitter.com/search?q=SERVE+SAFELY+SONG+MINO) | N/A |
+| 27 | [#วันศุกร์สุขใจกับซีนุนิว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b9%83%e0%b8%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 28 | [#ชาล็อตอุ้มxโสมควีน](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%b8%e0%b9%89%e0%b8%a1x%e0%b9%82%e0%b8%aa%e0%b8%a1%e0%b8%84%e0%b8%a7%e0%b8%b5%e0%b8%99) | N/A |
+| 29 | [#ZeeNuNew的少年时代](http://twitter.com/search?q=%23ZeeNuNew%e7%9a%84%e5%b0%91%e5%b9%b4%e6%97%b6%e4%bb%a3) | N/A |
+| 30 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 31 | [#thewallsongxnook_thanadon](http://twitter.com/search?q=%23thewallsongxnook_thanadon) | N/A |
+| 32 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 33 | [#SourandSweet_D4](http://twitter.com/search?q=%23SourandSweet_D4) | N/A |
+| 34 | [#1mคนหนึ่งคนของซีพฤกษ์](http://twitter.com/search?q=%231m%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
+| 35 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 36 | [#ViuUpFront2023](http://twitter.com/search?q=%23ViuUpFront2023) | N/A |
+| 37 | [#ShopeeYinWarที่สุด](http://twitter.com/search?q=%23ShopeeYinWar%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94) | N/A |
+| 38 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
+| 39 | [#CandyMoonxFreenBecky](http://twitter.com/search?q=%23CandyMoonxFreenBecky) | N/A |
+| 40 | [#600Kเทใจให้สตางค์](http://twitter.com/search?q=%23600K%e0%b9%80%e0%b8%97%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
+| 41 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 42 | [#ชูวิทย์](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b9%8c) | N/A |
+| 43 | [#สก๊อตมีเมธวินแล้ว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%81%e0%b9%8a%e0%b8%ad%e0%b8%95%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%98%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 44 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
+| 45 | [#MileApoxWoody](http://twitter.com/search?q=%23MileApoxWoody) | N/A |
+| 46 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 47 | [#ทนายตั้ม](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%99%e0%b8%b2%e0%b8%a2%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%a1) | N/A |
+| 48 | [#SoundCheckwithTRINITY](http://twitter.com/search?q=%23SoundCheckwithTRINITY) | N/A |
+| 49 | [#HAPPYRENJUNDAY](http://twitter.com/search?q=%23HAPPYRENJUNDAY) | N/A |
+| 50 | [#1m300kloveisdunk](http://twitter.com/search?q=%231m300kloveisdunk) | N/A |
 
 
 

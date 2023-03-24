@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-24 07:17:33 UTC`
+📆 Last Updated: `2023-03-24 08:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,10 +29,10 @@ This is top 50 for Dominican Republic
 | 12 | [alicia ortega](http://twitter.com/search?q=alicia+ortega) | N/A |
 | 13 | [wason](http://twitter.com/search?q=wason) | N/A |
 | 14 | [yiyo](http://twitter.com/search?q=yiyo) | N/A |
-| 15 | [marcelo rebelo de sousa](http://twitter.com/search?q=marcelo+rebelo+de+sousa) | N/A |
+| 15 | [Marcelo Rebelo de Sousa](http://twitter.com/search?q=Marcelo+Rebelo+de+Sousa) | N/A |
 | 16 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
 | 17 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 18 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 18 | [marino zapete](http://twitter.com/search?q=marino+zapete) | N/A |
 | 19 | [Vicente García](http://twitter.com/search?q=Vicente+Garc%c3%ada) | N/A |
 | 20 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
 | 21 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Dominican Republic
 | 27 | [kiskeya life](http://twitter.com/search?q=kiskeya+life) | N/A |
 | 28 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
 | 29 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
-| 30 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
+| 30 | [acroarte](http://twitter.com/search?q=acroarte) | N/A |
 | 31 | [felipe vi](http://twitter.com/search?q=felipe+vi) | N/A |
 | 32 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
 | 33 | [luz garcía](http://twitter.com/search?q=luz+garc%c3%ada) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Dominican Republic
 | 47 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
 | 48 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
 | 49 | [dotol](http://twitter.com/search?q=dotol) | N/A |
-| 50 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 50 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 
 
 
