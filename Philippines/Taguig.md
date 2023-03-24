@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-24 04:18:05 UTC`
+📆 Last Updated: `2023-03-24 05:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,40 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 2 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 3 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 5 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 6 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 7 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 8 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 9 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
-| 10 | [MAGANDANG BUHAY KODREA](http://twitter.com/search?q=MAGANDANG+BUHAY+KODREA) | N/A |
-| 11 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 12 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
-| 13 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
-| 14 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
-| 15 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
-| 16 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 17 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 18 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 5 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 6 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
+| 9 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
+| 10 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 11 | [#해바라기처럼_송민호만_기다릴게](http://twitter.com/search?q=%23%ed%95%b4%eb%b0%94%eb%9d%bc%ea%b8%b0%ec%b2%98%eb%9f%bc_%ec%86%a1%eb%af%bc%ed%98%b8%eb%a7%8c_%ea%b8%b0%eb%8b%a4%eb%a6%b4%ea%b2%8c) | N/A |
+| 12 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 13 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 14 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 15 | [Scoups](http://twitter.com/search?q=Scoups) | N/A |
+| 16 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 17 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
+| 18 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
 | 19 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 20 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 21 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 25 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 27 | [happy 1m](http://twitter.com/search?q=happy+1m) | N/A |
-| 28 | [Minari](http://twitter.com/search?q=Minari) | N/A |
-| 29 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
-| 30 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 31 | [KIM JUNMYEON](http://twitter.com/search?q=KIM+JUNMYEON) | N/A |
-| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 33 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 34 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 35 | [chico dl seatmates](http://twitter.com/search?q=chico+dl+seatmates) | N/A |
-| 36 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
-| 37 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
-| 38 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
-| 39 | [UNRELEASED SONG](http://twitter.com/search?q=UNRELEASED+SONG) | N/A |
-| 40 | [Andrei Sison](http://twitter.com/search?q=Andrei+Sison) | N/A |
-| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 42 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 43 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 44 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
-| 45 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 46 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 47 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 48 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
-| 49 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 50 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 20 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 21 | [#SPCAtlas2023AwardingNight](http://twitter.com/search?q=%23SPCAtlas2023AwardingNight) | N/A |
+| 22 | [#TheRoseHEAL](http://twitter.com/search?q=%23TheRoseHEAL) | N/A |
+| 23 | [#KitaKitsBLACKPINK](http://twitter.com/search?q=%23KitaKitsBLACKPINK) | N/A |
+| 24 | [#BTSJIMIN](http://twitter.com/search?q=%23BTSJIMIN) | N/A |
+| 25 | [#HORI7ON_GoesToLaguna](http://twitter.com/search?q=%23HORI7ON_GoesToLaguna) | N/A |
+| 26 | [#TWICESoldOutSofi](http://twitter.com/search?q=%23TWICESoldOutSofi) | N/A |
+| 27 | [#BOYCOTTEBxAPTxGMA744](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA744) | N/A |
+| 28 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 29 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
+| 30 | [#LeeJongSukInManila](http://twitter.com/search?q=%23LeeJongSukInManila) | N/A |
+| 31 | [#ForeverBloomingBOMDay](http://twitter.com/search?q=%23ForeverBloomingBOMDay) | N/A |
+| 32 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
+| 33 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
+| 34 | [#트와이스](http://twitter.com/search?q=%23%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | #트와이스 is the hashtag used to refer to the South Korean girl group TWICE. The name TWICE is a combination of the words “twinkle” and “once”, which symbolizes that the group will make fans shine and sparkle with their music and performances. |
+| 35 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
+| 36 | [#KDLEXSweethearts](http://twitter.com/search?q=%23KDLEXSweethearts) | N/A |
 
 
 

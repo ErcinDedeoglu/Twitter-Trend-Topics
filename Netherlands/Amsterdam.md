@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-24 04:17:51 UTC`
+📆 Last Updated: `2023-03-24 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
-| 2 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 4 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 6 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 7 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
-| 10 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
-| 11 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 13 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 14 | [acda](http://twitter.com/search?q=acda) | N/A |
-| 15 | [willem-alexander](http://twitter.com/search?q=willem-alexander) | N/A |
-| 16 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 17 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 18 | [Klaas Knot](http://twitter.com/search?q=Klaas+Knot) | N/A |
-| 19 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 20 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 3 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 5 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 7 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 8 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
+| 12 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
+| 13 | [Goedemorgen Lisa](http://twitter.com/search?q=Goedemorgen+Lisa) | N/A |
+| 14 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 15 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 16 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 17 | [acda](http://twitter.com/search?q=acda) | N/A |
+| 18 | [willem-alexander](http://twitter.com/search?q=willem-alexander) | N/A |
+| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [Klaas Knot](http://twitter.com/search?q=Klaas+Knot) | N/A |
 | 21 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 22 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 23 | [veldzicht-therapeute](http://twitter.com/search?q=veldzicht-therapeute) | N/A |
-| 24 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 25 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 26 | [jovd](http://twitter.com/search?q=jovd) | N/A |
-| 27 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
-| 28 | [Premier Rutte](http://twitter.com/search?q=Premier+Rutte) | N/A |
-| 29 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 30 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 31 | [zoutelande](http://twitter.com/search?q=zoutelande) | N/A |
-| 32 | [ali b](http://twitter.com/search?q=ali+b) | N/A |
-| 33 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
-| 34 | [bosma](http://twitter.com/search?q=bosma) | N/A |
-| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 40 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [Fadi](http://twitter.com/search?q=Fadi) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [ado den haag](http://twitter.com/search?q=ado+den+haag) | N/A |
-| 45 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
-| 46 | [Paniekzaaiers](http://twitter.com/search?q=Paniekzaaiers) | N/A |
-| 47 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 48 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
-| 50 | [Damien Rice](http://twitter.com/search?q=Damien+Rice) | N/A |
+| 22 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 23 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 26 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 27 | [veldzicht-therapeute](http://twitter.com/search?q=veldzicht-therapeute) | N/A |
+| 28 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 29 | [jovd](http://twitter.com/search?q=jovd) | N/A |
+| 30 | [Premier Rutte](http://twitter.com/search?q=Premier+Rutte) | N/A |
+| 31 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
+| 32 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 33 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 34 | [zoutelande](http://twitter.com/search?q=zoutelande) | N/A |
+| 35 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 36 | [ali b](http://twitter.com/search?q=ali+b) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [soundos](http://twitter.com/search?q=soundos) | N/A |
+| 39 | [bosma](http://twitter.com/search?q=bosma) | N/A |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 42 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 43 | [Paniekzaaiers](http://twitter.com/search?q=Paniekzaaiers) | N/A |
+| 44 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 45 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 46 | [Fadi](http://twitter.com/search?q=Fadi) | N/A |
+| 47 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 48 | [ado den haag](http://twitter.com/search?q=ado+den+haag) | N/A |
+| 49 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 50 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
 
 
 

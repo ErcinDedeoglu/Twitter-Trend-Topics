@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-24 04:17:55 UTC`
+📆 Last Updated: `2023-03-24 05:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [timashov](http://twitter.com/search?q=timashov) | N/A |
 | 11 | [högmo](http://twitter.com/search?q=h%c3%b6gmo) | N/A |
 | 12 | [ove molin](http://twitter.com/search?q=ove+molin) | N/A |
-| 13 | [paludan](http://twitter.com/search?q=paludan) | N/A |
-| 14 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 15 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 16 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 17 | [rahimi](http://twitter.com/search?q=rahimi) | N/A |
-| 18 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
+| 13 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 14 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
+| 15 | [rahimi](http://twitter.com/search?q=rahimi) | N/A |
+| 16 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 17 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
+| 18 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 | 19 | [Jean](http://twitter.com/search?q=Jean) | N/A |
 | 20 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
 | 21 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 22 | [Lider](http://twitter.com/search?q=Lider) | N/A |
-| 23 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 24 | [polisen](http://twitter.com/search?q=polisen) | N/A |
-| 25 | [neapel](http://twitter.com/search?q=neapel) | N/A |
-| 26 | [Nord](http://twitter.com/search?q=Nord) | N/A |
-| 27 | [grattis malmö](http://twitter.com/search?q=grattis+malm%c3%b6) | N/A |
-| 28 | [westerholm](http://twitter.com/search?q=westerholm) | N/A |
-| 29 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
-| 30 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 31 | [korankravallerna](http://twitter.com/search?q=korankravallerna) | N/A |
-| 32 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
-| 33 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 34 | [Hugo Larsson](http://twitter.com/search?q=Hugo+Larsson) | N/A |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Buya](http://twitter.com/search?q=Buya) | N/A |
-| 37 | [cibus](http://twitter.com/search?q=cibus) | N/A |
-| 38 | [folkhemsel](http://twitter.com/search?q=folkhemsel) | N/A |
-| 39 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 40 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
-| 41 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 42 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 43 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
-| 44 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
-| 45 | [uppdrag](http://twitter.com/search?q=uppdrag) | N/A |
-| 46 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
-| 47 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
-| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 49 | [gävle](http://twitter.com/search?q=g%c3%a4vle) | N/A |
-| 50 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 23 | [neapel](http://twitter.com/search?q=neapel) | N/A |
+| 24 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 25 | [grattis malmö](http://twitter.com/search?q=grattis+malm%c3%b6) | N/A |
+| 26 | [westerholm](http://twitter.com/search?q=westerholm) | N/A |
+| 27 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
+| 28 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 29 | [korankravallerna](http://twitter.com/search?q=korankravallerna) | N/A |
+| 30 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 31 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 33 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
+| 34 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 35 | [Buya](http://twitter.com/search?q=Buya) | N/A |
+| 36 | [cibus](http://twitter.com/search?q=cibus) | N/A |
+| 37 | [folkhemsel](http://twitter.com/search?q=folkhemsel) | N/A |
+| 38 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
+| 39 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 40 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 41 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
+| 42 | [uppdrag](http://twitter.com/search?q=uppdrag) | N/A |
+| 43 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 44 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
+| 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 46 | [gävle](http://twitter.com/search?q=g%c3%a4vle) | N/A |
+| 47 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 48 | [CSGO](http://twitter.com/search?q=CSGO) | N/A |
+| 49 | [Anders Tegnell](http://twitter.com/search?q=Anders+Tegnell) | N/A |
+| 50 | [strängnäs](http://twitter.com/search?q=str%c3%a4ngn%c3%a4s) | N/A |
 
 
 

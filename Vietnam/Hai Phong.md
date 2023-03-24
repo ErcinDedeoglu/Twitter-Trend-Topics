@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-24 04:18:06 UTC`
+📆 Last Updated: `2023-03-24 05:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,33 +15,33 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GL_ShowmeloveTheSeries](http://twitter.com/search?q=%23GL_ShowmeloveTheSeries) | N/A |
-| 2 | [SML EP4 TODAY](http://twitter.com/search?q=SML+EP4+TODAY) | N/A |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 5 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 2 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 3 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 4 | [#GL_ShowmeloveTheSeries](http://twitter.com/search?q=%23GL_ShowmeloveTheSeries) | N/A |
+| 5 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 6 | [#SpecialOlympicsxJDPP](http://twitter.com/search?q=%23SpecialOlympicsxJDPP) | N/A |
-| 7 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 8 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 9 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
-| 10 | [Claim](http://twitter.com/search?q=Claim) | N/A |
-| 11 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 12 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 7 | [SML EP4 TODAY](http://twitter.com/search?q=SML+EP4+TODAY) | N/A |
+| 8 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
+| 9 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 10 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 11 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 12 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
 | 13 | [Mile](http://twitter.com/search?q=Mile) | N/A |
-| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 15 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 14 | [Claim](http://twitter.com/search?q=Claim) | N/A |
+| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 16 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 17 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 18 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 20 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 21 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
-| 22 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
-| 23 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 24 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 25 | [trông](http://twitter.com/search?q=tr%c3%b4ng) | N/A |
-| 26 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 27 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 22 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 23 | [trông](http://twitter.com/search?q=tr%c3%b4ng) | N/A |
+| 24 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 25 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 26 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 27 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
 | 28 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 30 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 33 | [TO THE MOON](http://twitter.com/search?q=TO+THE+MOON) | N/A |
 | 34 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 | 35 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 36 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 37 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 36 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 38 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 39 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 | 40 | [Chời](http://twitter.com/search?q=Ch%e1%bb%9di) | N/A |
 | 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 43 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 44 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 45 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 46 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 45 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 47 | [Childe](http://twitter.com/search?q=Childe) | N/A |
 | 48 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
-| 49 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
-| 50 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 49 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 50 | [Điều](http://twitter.com/search?q=%c4%90i%e1%bb%81u) | N/A |
 
 
 

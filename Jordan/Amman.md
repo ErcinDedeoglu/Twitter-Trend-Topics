@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-24 04:18:12 UTC`
+📆 Last Updated: `2023-03-24 05:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Jordan](</Jordan>)
 | 6 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 7 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 8 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 9 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 10 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
+| 9 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
+| 10 | [#مبارك_عليكم_الشهر](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a%d9%83%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
 | 11 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 12 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
 | 13 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for [Jordan](</Jordan>)
 | 16 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
 | 17 | [الامتين العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 18 | [#كل_عام_وانتم_بخير](http://twitter.com/search?q=%23%d9%83%d9%84_%d8%b9%d8%a7%d9%85_%d9%88%d8%a7%d9%86%d8%aa%d9%85_%d8%a8%d8%ae%d9%8a%d8%b1) | N/A |
-| 19 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 20 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 21 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 22 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
-| 23 | [تمر هندي](http://twitter.com/search?q=%d8%aa%d9%85%d8%b1+%d9%87%d9%86%d8%af%d9%8a) | N/A |
-| 24 | [#هلال_الشهر_الكريم](http://twitter.com/search?q=%23%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d9%87%d8%b1_%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 25 | [#منسف_ميشع](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b3%d9%81_%d9%85%d9%8a%d8%b4%d8%b9) | N/A |
-| 26 | [علي السحور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%ad%d9%88%d8%b1) | N/A |
-| 27 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 28 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 29 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 30 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 31 | [خفيف لطيف](http://twitter.com/search?q=%d8%ae%d9%81%d9%8a%d9%81+%d9%84%d8%b7%d9%8a%d9%81) | N/A |
-| 32 | [التمر الهندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a) | N/A |
-| 33 | [علي الفطور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
-| 34 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 35 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 36 | [واليمن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a%d9%85%d9%86) | N/A |
-| 37 | [كوريا الشماليه](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 38 | [احمد ياسين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
-| 39 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 40 | [تاج راسك](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac+%d8%b1%d8%a7%d8%b3%d9%83) | N/A |
-| 41 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 42 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 43 | [الايام العاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 44 | [راؤول](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a4%d9%88%d9%84) | N/A |
-| 45 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 46 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [الاعمال الدراميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 49 | [البرامج المنوعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b9%d9%87) | N/A |
-| 50 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 19 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 20 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 21 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 22 | [تمر هندي](http://twitter.com/search?q=%d8%aa%d9%85%d8%b1+%d9%87%d9%86%d8%af%d9%8a) | N/A |
+| 23 | [#هلال_الشهر_الكريم](http://twitter.com/search?q=%23%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d9%87%d8%b1_%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 24 | [#منسف_ميشع](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b3%d9%81_%d9%85%d9%8a%d8%b4%d8%b9) | N/A |
+| 25 | [علي السحور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%ad%d9%88%d8%b1) | N/A |
+| 26 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 27 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 28 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 29 | [خفيف لطيف](http://twitter.com/search?q=%d8%ae%d9%81%d9%8a%d9%81+%d9%84%d8%b7%d9%8a%d9%81) | N/A |
+| 30 | [التمر الهندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a) | N/A |
+| 31 | [علي الفطور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
+| 32 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 33 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 34 | [واليمن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%8a%d9%85%d9%86) | N/A |
+| 35 | [كوريا الشماليه](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 36 | [احمد ياسين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
+| 37 | [تاج راسك](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac+%d8%b1%d8%a7%d8%b3%d9%83) | N/A |
+| 38 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 39 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 40 | [الايام العاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 41 | [راؤول](http://twitter.com/search?q=%d8%b1%d8%a7%d8%a4%d9%88%d9%84) | N/A |
+| 42 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 43 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [الاعمال الدراميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 46 | [البرامج المنوعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b9%d9%87) | N/A |
+| 47 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 48 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 49 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

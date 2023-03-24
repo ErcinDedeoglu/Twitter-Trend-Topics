@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-24 04:17:29 UTC`
+📆 Last Updated: `2023-03-24 05:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 2 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 3 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 4 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 5 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
-| 6 | [Eric Staal](http://twitter.com/search?q=Eric+Staal) | N/A |
-| 7 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 8 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 11 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 12 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 13 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
-| 14 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 15 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 16 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 18 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
-| 19 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
-| 20 | [Markquis Nowell](http://twitter.com/search?q=Markquis+Nowell) | N/A |
+| 1 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 2 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 3 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 4 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
+| 5 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
+| 6 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 8 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 11 | [John and John](http://twitter.com/search?q=John+and+John) | N/A |
+| 12 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 13 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 14 | [Eric Staal](http://twitter.com/search?q=Eric+Staal) | N/A |
+| 15 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 16 | [Shorty](http://twitter.com/search?q=Shorty) | N/A |
+| 17 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 18 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 20 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 23 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 24 | [camila](http://twitter.com/search?q=camila) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 27 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 28 | [Branny](http://twitter.com/search?q=Branny) | N/A |
-| 29 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 30 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
-| 31 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 32 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
-| 33 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 34 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 35 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 36 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 37 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 38 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 39 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 40 | [Provorov](http://twitter.com/search?q=Provorov) | Provorov is a Russian surname. It is derived from the word "provorovat," which means "to pass through." In English, it can be translated to mean "one who passes through." |
-| 41 | [warren](http://twitter.com/search?q=warren) | N/A |
-| 42 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 43 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 44 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 46 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 47 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 49 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 22 | [camila](http://twitter.com/search?q=camila) | N/A |
+| 23 | [Hronek](http://twitter.com/search?q=Hronek) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 26 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 27 | [Markquis Nowell](http://twitter.com/search?q=Markquis+Nowell) | N/A |
+| 28 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 29 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 30 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Branny](http://twitter.com/search?q=Branny) | N/A |
+| 33 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 34 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 35 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
+| 36 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 37 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 38 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 39 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 40 | [warren](http://twitter.com/search?q=warren) | N/A |
+| 41 | [Provorov](http://twitter.com/search?q=Provorov) | Provorov is a Russian surname. It is derived from the word "provorovat," which means "to pass through." In English, it can be translated to mean "one who passes through." |
+| 42 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 43 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 44 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 45 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 47 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 48 | [Thunder Bay](http://twitter.com/search?q=Thunder+Bay) | N/A |
+| 49 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
 
 
 

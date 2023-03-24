@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-24 04:18:37 UTC`
+📆 Last Updated: `2023-03-24 05:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Indonesia
 | 4 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 5 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
 | 6 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
-| 9 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
-| 10 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 7 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 10 | [Katarsis Final Episode](http://twitter.com/search?q=Katarsis+Final+Episode) | N/A |
 | 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 13 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 14 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 15 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 17 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 18 | [Hari Tuberkulosis Sedunia](http://twitter.com/search?q=Hari+Tuberkulosis+Sedunia) | N/A |
-| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 20 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 12 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 13 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 14 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 16 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 17 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
+| 18 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 19 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 21 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 22 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 25 | [Gardatama Yudha](http://twitter.com/search?q=Gardatama+Yudha) | N/A |
-| 26 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 27 | [Choi Seungcheol](http://twitter.com/search?q=Choi+Seungcheol) | N/A |
-| 28 | [BEM UI](http://twitter.com/search?q=BEM+UI) | N/A |
-| 29 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 30 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
-| 31 | [EFIN](http://twitter.com/search?q=EFIN) | N/A |
-| 32 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
-| 33 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
-| 34 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Gardatama Yudha](http://twitter.com/search?q=Gardatama+Yudha) | N/A |
+| 24 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
+| 25 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 26 | [BEM UI](http://twitter.com/search?q=BEM+UI) | N/A |
+| 27 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 28 | [Choi Seungcheol](http://twitter.com/search?q=Choi+Seungcheol) | N/A |
+| 29 | [Face-off](http://twitter.com/search?q=Face-off) | N/A |
+| 30 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
+| 33 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 34 | [Indonesia Bisa](http://twitter.com/search?q=Indonesia+Bisa) | N/A |
 | 35 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 36 | [Nescafe](http://twitter.com/search?q=Nescafe) | N/A |
-| 37 | [Looke](http://twitter.com/search?q=Looke) | N/A |
-| 38 | [Ayo Bersama Akhiri TBC](http://twitter.com/search?q=Ayo+Bersama+Akhiri+TBC) | N/A |
-| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 40 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 41 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
-| 42 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 36 | [Looke](http://twitter.com/search?q=Looke) | N/A |
+| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 38 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 39 | [Skincare](http://twitter.com/search?q=Skincare) | N/A |
+| 40 | [Nescafe](http://twitter.com/search?q=Nescafe) | N/A |
+| 41 | [Ayo Bersama Akhiri TBC](http://twitter.com/search?q=Ayo+Bersama+Akhiri+TBC) | N/A |
+| 42 | [dugaan gratifikasi wamenkumham](http://twitter.com/search?q=dugaan+gratifikasi+wamenkumham) | N/A |
 | 43 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 44 | [Tarawih](http://twitter.com/search?q=Tarawih) | N/A |
+| 44 | [UNRELEASED SONG](http://twitter.com/search?q=UNRELEASED+SONG) | N/A |
 | 45 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 46 | [Nyepi](http://twitter.com/search?q=Nyepi) | N/A |
-| 47 | [dugaan gratifikasi wamenkumham](http://twitter.com/search?q=dugaan+gratifikasi+wamenkumham) | N/A |
-| 48 | [TNI AD](http://twitter.com/search?q=TNI+AD) | N/A |
-| 49 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 50 | [Bandung Lautan Api](http://twitter.com/search?q=Bandung+Lautan+Api) | N/A |
+| 46 | [Nestle](http://twitter.com/search?q=Nestle) | N/A |
+| 47 | [Jadi Muslim Bertaqwa](http://twitter.com/search?q=Jadi+Muslim+Bertaqwa) | N/A |
+| 48 | [Tarawih](http://twitter.com/search?q=Tarawih) | N/A |
+| 49 | [Hari Tuberkulosis Sedunia](http://twitter.com/search?q=Hari+Tuberkulosis+Sedunia) | N/A |
+| 50 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 
 
 

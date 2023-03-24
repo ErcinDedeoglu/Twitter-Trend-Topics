@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-24 04:17:51 UTC`
+📆 Last Updated: `2023-03-24 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
 | 4 | [#Retegui](http://twitter.com/search?q=%23Retegui) | N/A |
 | 5 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 6 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
-| 7 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
-| 8 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 9 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 6 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 7 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 8 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 9 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
 | 10 | [Toloi](http://twitter.com/search?q=Toloi) | N/A |
-| 11 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 12 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
-| 13 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 11 | [Bonelli](http://twitter.com/search?q=Bonelli) | N/A |
+| 12 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 13 | [Andreotti](http://twitter.com/search?q=Andreotti) | N/A |
 | 14 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
-| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 16 | [England](http://twitter.com/search?q=England) | N/A |
-| 17 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 18 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 19 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 20 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 21 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 23 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 27 | [mameli](http://twitter.com/search?q=mameli) | N/A |
-| 28 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 29 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 15 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 18 | [England](http://twitter.com/search?q=England) | N/A |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 21 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 22 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 26 | [mameli](http://twitter.com/search?q=mameli) | N/A |
+| 27 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 30 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 31 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 32 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
-| 33 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 35 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
-| 36 | [rimedio](http://twitter.com/search?q=rimedio) | N/A |
-| 37 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 38 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 39 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 40 | [Petolicchio](http://twitter.com/search?q=Petolicchio) | N/A |
-| 41 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 42 | [Macedonia](http://twitter.com/search?q=Macedonia) | N/A |
-| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 44 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
+| 31 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 32 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 33 | [Scamacca](http://twitter.com/search?q=Scamacca) | N/A |
+| 34 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 35 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 36 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 37 | [La Maura](http://twitter.com/search?q=La+Maura) | N/A |
+| 38 | [Petolicchio](http://twitter.com/search?q=Petolicchio) | N/A |
+| 39 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 40 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 41 | [Macedonia](http://twitter.com/search?q=Macedonia) | N/A |
+| 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 43 | [Luca Bergia](http://twitter.com/search?q=Luca+Bergia) | N/A |
+| 44 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
 | 45 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
 | 46 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 47 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 48 | [Cabrini](http://twitter.com/search?q=Cabrini) | N/A |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 50 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 47 | [Rimedio](http://twitter.com/search?q=Rimedio) | N/A |
+| 48 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 49 | [Cabrini](http://twitter.com/search?q=Cabrini) | N/A |
+| 50 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 
 
 
