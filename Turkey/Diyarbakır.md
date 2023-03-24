@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-24 14:17:30 UTC`
+📆 Last Updated: `2023-03-24 15:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 2 | [Erdoğan Hatay](http://twitter.com/search?q=Erdo%c4%9fan+Hatay) | N/A |
-| 3 | [#7500AKPyibitirecek](http://twitter.com/search?q=%237500AKPyibitirecek) | N/A |
-| 4 | [#PdryeÖncelikNerede](http://twitter.com/search?q=%23Pdrye%c3%96ncelikNerede) | N/A |
-| 5 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 6 | [Biliniyo Partisi](http://twitter.com/search?q=Biliniyo+Partisi) | N/A |
-| 7 | [#KıymetliÇınarlarımız](http://twitter.com/search?q=%23K%c4%b1ymetli%c3%87%c4%b1narlar%c4%b1m%c4%b1z) | N/A |
+| 1 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
+| 2 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 3 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 4 | [#KalıcıNakilŞart](http://twitter.com/search?q=%23Kal%c4%b1c%c4%b1Nakil%c5%9eart) | N/A |
+| 5 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 6 | [#7500AKPyibitirecek](http://twitter.com/search?q=%237500AKPyibitirecek) | N/A |
+| 7 | [#PdryeÖncelikNerede](http://twitter.com/search?q=%23Pdrye%c3%96ncelikNerede) | N/A |
 | 8 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
-| 9 | [Mustafa Elitaş](http://twitter.com/search?q=Mustafa+Elita%c5%9f) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
-| 12 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 13 | [HDP'li Sırrı Sakık](http://twitter.com/search?q=HDP%27li+S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 14 | [2 Bin](http://twitter.com/search?q=2+Bin) | N/A |
-| 15 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
-| 16 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
-| 17 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 18 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 19 | [Akp'nin 20](http://twitter.com/search?q=Akp%27nin+20) | N/A |
-| 20 | [Baktı](http://twitter.com/search?q=Bakt%c4%b1) | N/A |
-| 21 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
-| 22 | [Enver Aysever](http://twitter.com/search?q=Enver+Aysever) | N/A |
-| 23 | [Cengiz Holding](http://twitter.com/search?q=Cengiz+Holding) | N/A |
-| 24 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 25 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 26 | [Erbakana](http://twitter.com/search?q=Erbakana) | N/A |
-| 27 | [Lanetli](http://twitter.com/search?q=Lanetli) | N/A |
-| 28 | [Optimar](http://twitter.com/search?q=Optimar) | N/A |
-| 29 | [Lahmacun](http://twitter.com/search?q=Lahmacun) | N/A |
-| 30 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
-| 31 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 32 | [MebBüroyu İİBFdenAlsın](http://twitter.com/search?q=MebB%c3%bcroyu+%c4%b0%c4%b0BFdenAls%c4%b1n) | N/A |
-| 33 | [Berber](http://twitter.com/search?q=Berber) | N/A |
-| 34 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
-| 35 | [Ümraniye](http://twitter.com/search?q=%c3%9cmraniye) | Ümraniye is a district of Istanbul, Turkey. It is located on the Asian side of the city and has a population of over 600,000 people. The name Ümraniye comes from the Turkish word "umran" which means "prosperity". |
-| 36 | [Daha 100](http://twitter.com/search?q=Daha+100) | N/A |
-| 37 | [Abdülhamit](http://twitter.com/search?q=Abd%c3%bclhamit) | N/A |
-| 38 | [Mizah](http://twitter.com/search?q=Mizah) | N/A |
-| 39 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
-| 40 | [Bayram](http://twitter.com/search?q=Bayram) | N/A |
-| 41 | [İpek](http://twitter.com/search?q=%c4%b0pek) | N/A |
-| 42 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
-| 43 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
-| 44 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
-| 45 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 46 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
-| 47 | [Bahçelinin](http://twitter.com/search?q=Bah%c3%a7elinin) | N/A |
+| 9 | [Erdoğan Hatay](http://twitter.com/search?q=Erdo%c4%9fan+Hatay) | N/A |
+| 10 | [biliniyo partisi](http://twitter.com/search?q=biliniyo+partisi) | N/A |
+| 11 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
+| 12 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
+| 13 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
+| 14 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
+| 15 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 17 | [2 Bin](http://twitter.com/search?q=2+Bin) | N/A |
+| 18 | [AKP'nin 20](http://twitter.com/search?q=AKP%27nin+20) | N/A |
+| 19 | [HDP'li Sırrı Sakık](http://twitter.com/search?q=HDP%27li+S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 20 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 21 | [Mustafa Elitaş](http://twitter.com/search?q=Mustafa+Elita%c5%9f) | N/A |
+| 22 | [NiceBaşarılara EsraBilgiç](http://twitter.com/search?q=NiceBa%c5%9far%c4%b1lara+EsraBilgi%c3%a7) | N/A |
+| 23 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 24 | [Baktı](http://twitter.com/search?q=Bakt%c4%b1) | N/A |
+| 25 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 26 | [Enver Aysever](http://twitter.com/search?q=Enver+Aysever) | N/A |
+| 27 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 28 | [SOL Parti](http://twitter.com/search?q=SOL+Parti) | N/A |
+| 29 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 30 | [Lanetli](http://twitter.com/search?q=Lanetli) | N/A |
+| 31 | [Cengiz Holding](http://twitter.com/search?q=Cengiz+Holding) | N/A |
+| 32 | [Optimar](http://twitter.com/search?q=Optimar) | N/A |
+| 33 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 34 | [Lahmacun](http://twitter.com/search?q=Lahmacun) | N/A |
+| 35 | [Berber](http://twitter.com/search?q=Berber) | N/A |
+| 36 | [Abdülhamid](http://twitter.com/search?q=Abd%c3%bclhamid) | N/A |
+| 37 | [Hizbullahın](http://twitter.com/search?q=Hizbullah%c4%b1n) | N/A |
+| 38 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
+| 39 | [Ümraniye](http://twitter.com/search?q=%c3%9cmraniye) | Ümraniye is a district of Istanbul, Turkey. It is located on the Asian side of the city and has a population of over 600,000 people. The name Ümraniye comes from the Turkish word "umran" which means "prosperity". |
+| 40 | [HAYIRLI OLSUN](http://twitter.com/search?q=HAYIRLI+OLSUN) | N/A |
+| 41 | [MebBüroyu İİBFdenAlsın](http://twitter.com/search?q=MebB%c3%bcroyu+%c4%b0%c4%b0BFdenAls%c4%b1n) | N/A |
+| 42 | [Mizah](http://twitter.com/search?q=Mizah) | N/A |
+| 43 | [Daha 100](http://twitter.com/search?q=Daha+100) | N/A |
+| 44 | [Bayram](http://twitter.com/search?q=Bayram) | N/A |
+| 45 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
+| 46 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
+| 47 | [İpek](http://twitter.com/search?q=%c4%b0pek) | N/A |
+| 48 | [ehliyetyoksa oymoyyok](http://twitter.com/search?q=ehliyetyoksa+oymoyyok) | N/A |
+| 49 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-24 14:17:08 UTC`
+📆 Last Updated: `2023-03-24 15:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SVGala4](http://twitter.com/search?q=%23SVGala4) | N/A |
-| 2 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 3 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 4 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 5 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 7 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 8 | [La AIReF](http://twitter.com/search?q=La+AIReF) | N/A |
-| 9 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 10 | [#TheCrownOfWu](http://twitter.com/search?q=%23TheCrownOfWu) | N/A |
-| 11 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 12 | [#APOYOROCIO24M](http://twitter.com/search?q=%23APOYOROCIO24M) | N/A |
-| 13 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 1 | [#svgala4](http://twitter.com/search?q=%23svgala4) | N/A |
+| 2 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 3 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 5 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 8 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
+| 9 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 10 | [Airef](http://twitter.com/search?q=Airef) | N/A |
+| 11 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 12 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 13 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
 | 14 | [Escrivá](http://twitter.com/search?q=Escriv%c3%a1) | N/A |
-| 15 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 16 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 17 | [belen esteban](http://twitter.com/search?q=belen+esteban) | N/A |
-| 18 | [Kylie Jenner](http://twitter.com/search?q=Kylie+Jenner) | N/A |
-| 19 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
-| 20 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 21 | [La Hora del Planeta](http://twitter.com/search?q=La+Hora+del+Planeta) | N/A |
-| 22 | [Pantomima](http://twitter.com/search?q=Pantomima) | N/A |
-| 23 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 24 | [Un Jordi Wild](http://twitter.com/search?q=Un+Jordi+Wild) | N/A |
-| 25 | [Jovani](http://twitter.com/search?q=Jovani) | N/A |
-| 26 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 27 | [Segorbe](http://twitter.com/search?q=Segorbe) | N/A |
-| 28 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 29 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 30 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 31 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
-| 32 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 33 | [Iago](http://twitter.com/search?q=Iago) | N/A |
+| 15 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 16 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 17 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
+| 18 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 19 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 20 | [Kylie Jenner](http://twitter.com/search?q=Kylie+Jenner) | N/A |
+| 21 | [Pantomima](http://twitter.com/search?q=Pantomima) | N/A |
+| 22 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 23 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 24 | [Las 12](http://twitter.com/search?q=Las+12) | N/A |
+| 25 | [La Hora del Planeta](http://twitter.com/search?q=La+Hora+del+Planeta) | N/A |
+| 26 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
+| 27 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 28 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 29 | [Segorbe](http://twitter.com/search?q=Segorbe) | N/A |
+| 30 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 31 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 32 | [Bach](http://twitter.com/search?q=Bach) | N/A |
+| 33 | [Castellón](http://twitter.com/search?q=Castell%c3%b3n) | N/A |
 | 34 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 37 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 38 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 39 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 40 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
-| 41 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 42 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
-| 43 | [#Gofresychuches](http://twitter.com/search?q=%23Gofresychuches) | N/A |
-| 44 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 45 | [#cambiodehora](http://twitter.com/search?q=%23cambiodehora) | N/A |
-| 46 | [#innobi23](http://twitter.com/search?q=%23innobi23) | N/A |
-| 47 | [#AliExpressChoice](http://twitter.com/search?q=%23AliExpressChoice) | N/A |
-| 48 | [#YoMeRebelo24M](http://twitter.com/search?q=%23YoMeRebelo24M) | N/A |
+| 35 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 36 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 37 | [Iago](http://twitter.com/search?q=Iago) | N/A |
+| 38 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 39 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 40 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 41 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 42 | [Pink Floyd](http://twitter.com/search?q=Pink+Floyd) | Pink Floyd is an English rock band formed in London in 1965. The band achieved international success with their progressive and psychedelic music. The band's classic lineup consisted of Syd Barrett, Nick Mason, Roger Waters, Richard Wright and David Gilmour. The name "Pink Floyd" is derived from the names of two blues musicians, Pink Anderson and Floyd Council. |
+| 43 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 45 | [IFEMA](http://twitter.com/search?q=IFEMA) | N/A |
+| 46 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 47 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
 
 
 

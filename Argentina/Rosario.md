@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-24 14:17:02 UTC`
+📆 Last Updated: `2023-03-24 15:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,40 +17,51 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [#NuncaMas](http://twitter.com/search?q=%23NuncaMas) | N/A |
 | 2 | [#MemoriaVerdadYJusticia](http://twitter.com/search?q=%23MemoriaVerdadYJusticia) | N/A |
-| 3 | [#24deMarzo](http://twitter.com/search?q=%2324deMarzo) | N/A |
-| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 5 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 6 | [#SaltaConElPrimo](http://twitter.com/search?q=%23SaltaConElPrimo) | N/A |
-| 7 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 8 | [Madres](http://twitter.com/search?q=Madres) | N/A |
-| 9 | [Este 24](http://twitter.com/search?q=Este+24) | N/A |
-| 10 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
+| 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 5 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 8 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
+| 9 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 10 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
 | 11 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 12 | [Montoneros](http://twitter.com/search?q=Montoneros) | N/A |
-| 13 | [Cada 24](http://twitter.com/search?q=Cada+24) | N/A |
-| 14 | [AHORA Y SIEMPRE](http://twitter.com/search?q=AHORA+Y+SIEMPRE) | N/A |
-| 15 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 16 | [PRESENTES](http://twitter.com/search?q=PRESENTES) | N/A |
-| 17 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
-| 18 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
-| 19 | [Terrorismo de Estado](http://twitter.com/search?q=Terrorismo+de+Estado) | N/A |
-| 20 | [Juntas](http://twitter.com/search?q=Juntas) | N/A |
-| 21 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 22 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 23 | [ESMA](http://twitter.com/search?q=ESMA) | N/A |
-| 24 | [dictadura](http://twitter.com/search?q=dictadura) | N/A |
-| 25 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 26 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 27 | [Capristo](http://twitter.com/search?q=Capristo) | N/A |
-| 28 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
-| 29 | [#Son30000](http://twitter.com/search?q=%23Son30000) | N/A |
-| 30 | [#DemocraciaParaSiempre](http://twitter.com/search?q=%23DemocraciaParaSiempre) | N/A |
-| 31 | [#47AñosDelGolpeGenocida](http://twitter.com/search?q=%2347A%c3%b1osDelGolpeGenocida) | N/A |
-| 32 | [#24Marzo](http://twitter.com/search?q=%2324Marzo) | N/A |
-| 33 | [#Son30Mil](http://twitter.com/search?q=%23Son30Mil) | N/A |
-| 34 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 35 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
-| 36 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 12 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 13 | [montoneros](http://twitter.com/search?q=montoneros) | N/A |
+| 14 | [Hoy 24](http://twitter.com/search?q=Hoy+24) | N/A |
+| 15 | [Este 24](http://twitter.com/search?q=Este+24) | N/A |
+| 16 | [ESMA](http://twitter.com/search?q=ESMA) | N/A |
+| 17 | [Madres](http://twitter.com/search?q=Madres) | N/A |
+| 18 | [Cada 24](http://twitter.com/search?q=Cada+24) | N/A |
+| 19 | [AHORA Y SIEMPRE](http://twitter.com/search?q=AHORA+Y+SIEMPRE) | N/A |
+| 20 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 21 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 22 | [Terrorismo de Estado](http://twitter.com/search?q=Terrorismo+de+Estado) | N/A |
+| 23 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 24 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 25 | [PRESENTES](http://twitter.com/search?q=PRESENTES) | N/A |
+| 26 | [Juntas](http://twitter.com/search?q=Juntas) | N/A |
+| 27 | [Juicio](http://twitter.com/search?q=Juicio) | N/A |
+| 28 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 29 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 30 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 31 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
+| 32 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 33 | [Capristo](http://twitter.com/search?q=Capristo) | N/A |
+| 34 | [#24deMarzo](http://twitter.com/search?q=%2324deMarzo) | N/A |
+| 35 | [#SaltaConElPrimo](http://twitter.com/search?q=%23SaltaConElPrimo) | N/A |
+| 36 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
+| 37 | [#Son30000](http://twitter.com/search?q=%23Son30000) | N/A |
+| 38 | [#DemocraciaParaSiempre](http://twitter.com/search?q=%23DemocraciaParaSiempre) | N/A |
+| 39 | [#47AñosDelGolpeGenocida](http://twitter.com/search?q=%2347A%c3%b1osDelGolpeGenocida) | N/A |
+| 40 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 41 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 42 | [#24Marzo](http://twitter.com/search?q=%2324Marzo) | N/A |
+| 43 | [#Son30Mil](http://twitter.com/search?q=%23Son30Mil) | N/A |
+| 44 | [#SociosDelEspectaculo](http://twitter.com/search?q=%23SociosDelEspectaculo) | N/A |
+| 45 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
+| 46 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 47 | [#FACE_Jimin](http://twitter.com/search?q=%23FACE_Jimin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-24 14:17:01 UTC`
+📆 Last Updated: `2023-03-24 15:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 1 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 2 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 3 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 4 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 5 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 6 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 9 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 10 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 11 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 13 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 14 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 15 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 16 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
-| 17 | [#Day2WordExposition](http://twitter.com/search?q=%23Day2WordExposition) | N/A |
-| 18 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 19 | [Sírio Libanês](http://twitter.com/search?q=S%c3%adrio+Liban%c3%aas) | N/A |
-| 20 | [RACISMO REVERSO NÃO EXISTE](http://twitter.com/search?q=RACISMO+REVERSO+N%c3%83O+EXISTE) | N/A |
-| 21 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 22 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
-| 23 | [Essa Larissa](http://twitter.com/search?q=Essa+Larissa) | N/A |
-| 24 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
-| 27 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 29 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
-| 30 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
-| 31 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 32 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 33 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 34 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 35 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
-| 36 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 37 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
-| 38 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 39 | [ANGELINA JOLIE](http://twitter.com/search?q=ANGELINA+JOLIE) | N/A |
-| 40 | [Vettel](http://twitter.com/search?q=Vettel) | N/A |
-| 41 | [ELIMINADA](http://twitter.com/search?q=ELIMINADA) | N/A |
-| 42 | [Rio Branco](http://twitter.com/search?q=Rio+Branco) | N/A |
-| 43 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
-| 44 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 45 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 46 | [Taco Truck x VB](http://twitter.com/search?q=Taco+Truck+x+VB) | N/A |
-| 47 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
-| 48 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
-| 49 | [Reparação](http://twitter.com/search?q=Repara%c3%a7%c3%a3o) | N/A |
-| 50 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 4 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
+| 5 | [Kali](http://twitter.com/search?q=Kali) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 8 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 9 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 10 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 11 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 12 | [ASSISTA ESCAPE NO YOUTUBE](http://twitter.com/search?q=ASSISTA+ESCAPE+NO+YOUTUBE) | N/A |
+| 13 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 14 | [justine](http://twitter.com/search?q=justine) | N/A |
+| 15 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 16 | [RACISMO REVERSO NÃO EXISTE](http://twitter.com/search?q=RACISMO+REVERSO+N%c3%83O+EXISTE) | N/A |
+| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 18 | [Arena Barueri](http://twitter.com/search?q=Arena+Barueri) | N/A |
+| 19 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 20 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 21 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 22 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 23 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
+| 24 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
+| 25 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
+| 26 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 27 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 28 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 29 | [Sírio Libanês](http://twitter.com/search?q=S%c3%adrio+Liban%c3%aas) | N/A |
+| 30 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 31 | [batedor](http://twitter.com/search?q=batedor) | N/A |
+| 32 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 33 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
+| 34 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 35 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 36 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 37 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
+| 38 | [ELIMINADA](http://twitter.com/search?q=ELIMINADA) | N/A |
+| 39 | [Rejeição](http://twitter.com/search?q=Rejei%c3%a7%c3%a3o) | N/A |
+| 40 | [Defesa de Bolsonaro](http://twitter.com/search?q=Defesa+de+Bolsonaro) | N/A |
+| 41 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
+| 42 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 43 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
+| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 45 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 46 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 47 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
+| 48 | [Tuberculose](http://twitter.com/search?q=Tuberculose) | N/A |
+| 49 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 50 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-24 14:17:45 UTC`
+📆 Last Updated: `2023-03-24 15:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,50 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 2 | [#Alaadin](http://twitter.com/search?q=%23Alaadin) | N/A |
+| 2 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
 | 3 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
-| 4 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
-| 5 | [#MinimieTaskDay](http://twitter.com/search?q=%23MinimieTaskDay) | N/A |
-| 6 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
-| 7 | [Noon Dave](http://twitter.com/search?q=Noon+Dave) | N/A |
+| 4 | [#Alaadin](http://twitter.com/search?q=%23Alaadin) | N/A |
+| 5 | [#ENDILLEGALMININGAFRICA](http://twitter.com/search?q=%23ENDILLEGALMININGAFRICA) | N/A |
+| 6 | [#MinimieTaskDay](http://twitter.com/search?q=%23MinimieTaskDay) | N/A |
+| 7 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
 | 8 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 9 | [#joefreakycriminal](http://twitter.com/search?q=%23joefreakycriminal) | N/A |
-| 10 | [#ENDILLEGALMININGAFRICA](http://twitter.com/search?q=%23ENDILLEGALMININGAFRICA) | N/A |
-| 11 | [Imole](http://twitter.com/search?q=Imole) | N/A |
-| 12 | [Hauwa](http://twitter.com/search?q=Hauwa) | N/A |
+| 10 | [Saturdays and Sundays](http://twitter.com/search?q=Saturdays+and+Sundays) | N/A |
+| 11 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 13 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 15 | [#itela60forn249](http://twitter.com/search?q=%23itela60forn249) | N/A |
-| 16 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 14 | [Noon Dave](http://twitter.com/search?q=Noon+Dave) | N/A |
+| 15 | [Imole](http://twitter.com/search?q=Imole) | N/A |
+| 16 | [Hauwa](http://twitter.com/search?q=Hauwa) | N/A |
 | 17 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
-| 18 | [Pastor B](http://twitter.com/search?q=Pastor+B) | N/A |
-| 19 | [Olivier Giroud](http://twitter.com/search?q=Olivier+Giroud) | N/A |
-| 20 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 18 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 19 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 20 | [#TECNOxMTN5G](http://twitter.com/search?q=%23TECNOxMTN5G) | N/A |
 | 21 | [Tinubu is in France](http://twitter.com/search?q=Tinubu+is+in+France) | N/A |
-| 22 | [Lil Kesh](http://twitter.com/search?q=Lil+Kesh) | N/A |
-| 23 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
-| 24 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 25 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
+| 22 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 23 | [YEMI CREGX STAR POWER](http://twitter.com/search?q=YEMI+CREGX+STAR+POWER) | N/A |
+| 24 | [Pastor B](http://twitter.com/search?q=Pastor+B) | N/A |
+| 25 | [Lil Kesh](http://twitter.com/search?q=Lil+Kesh) | N/A |
 | 26 | [Ortom](http://twitter.com/search?q=Ortom) | N/A |
-| 27 | [Solomon Buchi](http://twitter.com/search?q=Solomon+Buchi) | N/A |
-| 28 | [London](http://twitter.com/search?q=London) | N/A |
-| 29 | [Apologize](http://twitter.com/search?q=Apologize) | N/A |
-| 30 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 27 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 28 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
+| 29 | [Solomon Buchi](http://twitter.com/search?q=Solomon+Buchi) | N/A |
+| 30 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
 | 31 | [Rufai Oseni](http://twitter.com/search?q=Rufai+Oseni) | N/A |
-| 32 | [Man of God](http://twitter.com/search?q=Man+of+God) | N/A |
-| 33 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 34 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 35 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 37 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 38 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 39 | [#TECNOxMTN5G](http://twitter.com/search?q=%23TECNOxMTN5G) | N/A |
-| 40 | [#WorldTuberculosisDay](http://twitter.com/search?q=%23WorldTuberculosisDay) | N/A |
-| 41 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 42 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
-| 43 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
-| 44 | [#confidence](http://twitter.com/search?q=%23confidence) | N/A |
-| 45 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
-| 46 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 47 | [#YemiCregxTheBrand](http://twitter.com/search?q=%23YemiCregxTheBrand) | N/A |
-| 48 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 32 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 33 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 34 | [EKELEBE STUNNER](http://twitter.com/search?q=EKELEBE+STUNNER) | N/A |
+| 35 | [Man of God](http://twitter.com/search?q=Man+of+God) | N/A |
+| 36 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 37 | [#JumiaNGTechWeek](http://twitter.com/search?q=%23JumiaNGTechWeek) | N/A |
+| 38 | [#WorldTuberculosisDay](http://twitter.com/search?q=%23WorldTuberculosisDay) | N/A |
+| 39 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
+| 40 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
+| 41 | [#confidence](http://twitter.com/search?q=%23confidence) | N/A |
+| 42 | [#YemiCregxTheBrand](http://twitter.com/search?q=%23YemiCregxTheBrand) | N/A |
+| 43 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 44 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 45 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
 
 
 

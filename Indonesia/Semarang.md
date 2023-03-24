@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-24 14:17:12 UTC`
+📆 Last Updated: `2023-03-24 15:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 3 | [#PialaDuniaU20HarusSukses](http://twitter.com/search?q=%23PialaDuniaU20HarusSukses) | N/A |
-| 4 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
-| 5 | [#IndonesiaDisanksiFIFA](http://twitter.com/search?q=%23IndonesiaDisanksiFIFA) | N/A |
-| 6 | [Royco](http://twitter.com/search?q=Royco) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
-| 9 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
-| 10 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 11 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 12 | [tempe](http://twitter.com/search?q=tempe) | N/A |
-| 13 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 14 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
-| 15 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 16 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 17 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 18 | [Garang](http://twitter.com/search?q=Garang) | N/A |
-| 19 | [Gembus](http://twitter.com/search?q=Gembus) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [Menjes](http://twitter.com/search?q=Menjes) | N/A |
-| 22 | [dilarang](http://twitter.com/search?q=dilarang) | N/A |
-| 23 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
-| 24 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 25 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 26 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 27 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 28 | [Daging](http://twitter.com/search?q=Daging) | N/A |
-| 29 | [CONGRATULATIONS KAI](http://twitter.com/search?q=CONGRATULATIONS+KAI) | N/A |
-| 30 | [KIM KAI](http://twitter.com/search?q=KIM+KAI) | N/A |
-| 31 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
-| 32 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 33 | [Fanny](http://twitter.com/search?q=Fanny) | N/A |
-| 34 | [selamat berbuka puasa](http://twitter.com/search?q=selamat+berbuka+puasa) | N/A |
-| 35 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
-| 36 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 37 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
-| 38 | [#GalaxyAwesomeCube](http://twitter.com/search?q=%23GalaxyAwesomeCube) | N/A |
-| 39 | [#AwesomePerformance](http://twitter.com/search?q=%23AwesomePerformance) | N/A |
-| 40 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
-| 41 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
-| 42 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 43 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 44 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 45 | [#THEDREAMSHOW2_in_HONGKONG](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HONGKONG) | N/A |
-| 46 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
-| 47 | [#JinnysKitchenEp5](http://twitter.com/search?q=%23JinnysKitchenEp5) | N/A |
-| 48 | [#เฉพาะที่GrabFoodxGF4EVEProxie](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%89%e0%b8%9e%e0%b8%b2%e0%b8%b0%e0%b8%97%e0%b8%b5%e0%b9%88GrabFoodxGF4EVEProxie) | N/A |
-| 49 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 1 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 2 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 3 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
+| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 5 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
+| 6 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 7 | [Royco](http://twitter.com/search?q=Royco) | N/A |
+| 8 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
+| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 10 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
+| 11 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 12 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
+| 13 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
+| 14 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 15 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
+| 16 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 17 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 18 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 19 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 20 | [Menjes](http://twitter.com/search?q=Menjes) | N/A |
+| 21 | [Garang](http://twitter.com/search?q=Garang) | N/A |
+| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 24 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 25 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 26 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 27 | [Daging](http://twitter.com/search?q=Daging) | N/A |
+| 28 | [RiPith](http://twitter.com/search?q=RiPith) | N/A |
+| 29 | [Gembus](http://twitter.com/search?q=Gembus) | N/A |
+| 30 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
+| 31 | [Dilarang](http://twitter.com/search?q=Dilarang) | N/A |
+| 32 | [KIM KAI](http://twitter.com/search?q=KIM+KAI) | N/A |
+| 33 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 34 | [fanny](http://twitter.com/search?q=fanny) | N/A |
+| 35 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 36 | [Baru 2](http://twitter.com/search?q=Baru+2) | N/A |
+| 37 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
+| 38 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 39 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 40 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 41 | [#PialaDuniaU20HarusSukses](http://twitter.com/search?q=%23PialaDuniaU20HarusSukses) | N/A |
+| 42 | [#IndonesiaDisanksiFIFA](http://twitter.com/search?q=%23IndonesiaDisanksiFIFA) | N/A |
+| 43 | [#GalaxyAwesomeCube](http://twitter.com/search?q=%23GalaxyAwesomeCube) | N/A |
+| 44 | [#AwesomePerformance](http://twitter.com/search?q=%23AwesomePerformance) | N/A |
+| 45 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
+| 46 | [#AwesomeGeneration](http://twitter.com/search?q=%23AwesomeGeneration) | N/A |
+| 47 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 48 | [#髙田真史帆](http://twitter.com/search?q=%23%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 49 | [#THEDREAMSHOW2_in_HONGKONG](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HONGKONG) | N/A |
 
 
 

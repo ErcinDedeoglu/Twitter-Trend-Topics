@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-03-24 14:17:29 UTC`
+📆 Last Updated: `2023-03-24 15:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
 | 2 | [मोदी सरकार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 3 | [#PradeepSarkar](http://twitter.com/search?q=%23PradeepSarkar) | N/A |
-| 4 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 5 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 3 | [#WorldTuberculosisDay](http://twitter.com/search?q=%23WorldTuberculosisDay) | N/A |
+| 4 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 5 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
 | 6 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
 | 7 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 10 | [GET WELL SOON AKKI](http://twitter.com/search?q=GET+WELL+SOON+AKKI) | N/A |
-| 11 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 12 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 13 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 14 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 15 | [ONE MONTH TO VARUN'S BDAY](http://twitter.com/search?q=ONE+MONTH+TO+VARUN%27S+BDAY) | N/A |
-| 16 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 17 | [पाक पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
-| 18 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 19 | [REALITY SHOW STAR ANKIT](http://twitter.com/search?q=REALITY+SHOW+STAR+ANKIT) | N/A |
-| 20 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 21 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
-| 22 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 23 | [Prophet Muhammad's God](http://twitter.com/search?q=Prophet+Muhammad%27s+God) | N/A |
-| 24 | [HARSHALI RULING ITV](http://twitter.com/search?q=HARSHALI+RULING+ITV) | N/A |
-| 25 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 26 | [FOREVER WITH TEJRAN](http://twitter.com/search?q=FOREVER+WITH+TEJRAN) | N/A |
-| 27 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 28 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
-| 29 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 30 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 31 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 32 | [AICC](http://twitter.com/search?q=AICC) | N/A |
-| 33 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
-| 34 | [लोक सभा](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 35 | [Wayanad](http://twitter.com/search?q=Wayanad) | N/A |
-| 36 | [Supreme GOD](http://twitter.com/search?q=Supreme+GOD) | N/A |
-| 37 | [कांग्रेस पार्टी](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 38 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 39 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 40 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
-| 41 | [मनमोहन सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 42 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 43 | [गुड बाय](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%a1+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
-| 44 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 45 | [Ex MP](http://twitter.com/search?q=Ex+MP) | N/A |
-| 46 | [आज़म खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 47 | [Narendra Modi](http://twitter.com/search?q=Narendra+Modi) | N/A |
-| 48 | [काले विपरीत बुद्धि](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%b5%e0%a4%bf%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%bf) | N/A |
-| 49 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 50 | [Manmohan Singh](http://twitter.com/search?q=Manmohan+Singh) | N/A |
+| 8 | [Rate PW Star1](http://twitter.com/search?q=Rate+PW+Star1) | N/A |
+| 9 | [GET WELL SOON AKKI](http://twitter.com/search?q=GET+WELL+SOON+AKKI) | N/A |
+| 10 | [Goyal Aluminiums](http://twitter.com/search?q=Goyal+Aluminiums) | N/A |
+| 11 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 12 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 15 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 16 | [ONE MONTH TO VARUN'S BDAY](http://twitter.com/search?q=ONE+MONTH+TO+VARUN%27S+BDAY) | N/A |
+| 17 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 18 | [पाक पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
+| 19 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 20 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 21 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 22 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
+| 23 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 24 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 25 | [Quran Sharif](http://twitter.com/search?q=Quran+Sharif) | N/A |
+| 26 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 27 | [Prophet Muhammad's God](http://twitter.com/search?q=Prophet+Muhammad%27s+God) | N/A |
+| 28 | [REALITY SHOW STAR ANKIT](http://twitter.com/search?q=REALITY+SHOW+STAR+ANKIT) | N/A |
+| 29 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
+| 30 | [HARSHALI RULING ITV](http://twitter.com/search?q=HARSHALI+RULING+ITV) | N/A |
+| 31 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
+| 32 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 33 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 34 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 35 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 36 | [Sophie Ecclestone](http://twitter.com/search?q=Sophie+Ecclestone) | N/A |
+| 37 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
+| 38 | [पूर्ण ज्ञान](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
+| 39 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 40 | [FOREVER WITH TEJRAN](http://twitter.com/search?q=FOREVER+WITH+TEJRAN) | N/A |
+| 41 | [Satlok Ashram Youtube Channel](http://twitter.com/search?q=Satlok+Ashram+Youtube+Channel) | N/A |
+| 42 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 43 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 44 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
+| 45 | [AICC](http://twitter.com/search?q=AICC) | N/A |
+| 46 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 47 | [कांग्रेस पार्टी](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 48 | [लोक सभा](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 49 | [मुस्लिम धर्म](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 50 | [Narendra Modi](http://twitter.com/search?q=Narendra+Modi) | N/A |
 
 
 

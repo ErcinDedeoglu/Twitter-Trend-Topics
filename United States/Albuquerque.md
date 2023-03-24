@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-03-24 14:17:32 UTC`
+📆 Last Updated: `2023-03-24 15:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 6 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 8 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 9 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 10 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 5 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 7 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 8 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 10 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 11 | [6lack](http://twitter.com/search?q=6lack) | N/A |
 | 12 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 13 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
-| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 15 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 16 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 17 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 18 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 19 | [Josh Alexander](http://twitter.com/search?q=Josh+Alexander) | N/A |
-| 20 | [Bozo the Clown](http://twitter.com/search?q=Bozo+the+Clown) | N/A |
-| 21 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 22 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
-| 23 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 24 | [Truely](http://twitter.com/search?q=Truely) | N/A |
+| 13 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 14 | [lane johnson](http://twitter.com/search?q=lane+johnson) | N/A |
+| 15 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 16 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 17 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
+| 18 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 19 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 20 | [Josh Alexander](http://twitter.com/search?q=Josh+Alexander) | N/A |
+| 21 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 22 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 23 | [Paul Rusesabagina](http://twitter.com/search?q=Paul+Rusesabagina) | N/A |
+| 24 | [Hotel Rwanda](http://twitter.com/search?q=Hotel+Rwanda) | N/A |
 | 25 | [Aiden Fucci](http://twitter.com/search?q=Aiden+Fucci) | N/A |
-| 26 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
+| 26 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 27 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 28 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 29 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
-| 30 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 31 | [ITS FRIDAY](http://twitter.com/search?q=ITS+FRIDAY) | N/A |
-| 32 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 33 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 34 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
-| 35 | [Pidgeot](http://twitter.com/search?q=Pidgeot) | N/A |
-| 36 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 37 | [Reassigned](http://twitter.com/search?q=Reassigned) | N/A |
+| 28 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 29 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 30 | [Dead Hard](http://twitter.com/search?q=Dead+Hard) | N/A |
+| 31 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 32 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 33 | [Tristyn Bailey](http://twitter.com/search?q=Tristyn+Bailey) | N/A |
+| 34 | [It is Friday](http://twitter.com/search?q=It+is+Friday) | N/A |
+| 35 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
+| 36 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 37 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
 | 38 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 39 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 40 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 41 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 42 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 43 | [Cane](http://twitter.com/search?q=Cane) | N/A |
-| 44 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
-| 45 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 46 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 47 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 48 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
-| 49 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
-| 50 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 39 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 40 | [meet day](http://twitter.com/search?q=meet+day) | N/A |
+| 41 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 42 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 43 | [Happy RE4](http://twitter.com/search?q=Happy+RE4) | N/A |
+| 44 | [Truely](http://twitter.com/search?q=Truely) | N/A |
+| 45 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 46 | [Randy Johnson](http://twitter.com/search?q=Randy+Johnson) | N/A |
+| 47 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 48 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 49 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
 
 
 
