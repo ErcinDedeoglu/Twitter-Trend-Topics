@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-24 17:17:42 UTC`
+📆 Last Updated: `2023-03-24 18:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 20 | [500 XP](http://twitter.com/search?q=500+XP) | N/A |
 | 21 | [Climb Pack](http://twitter.com/search?q=Climb+Pack) | N/A |
 | 22 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 23 | [Mile](http://twitter.com/search?q=Mile) | N/A |
-| 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 25 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 27 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 28 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 29 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 30 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 31 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
-| 32 | [thèm](http://twitter.com/search?q=th%c3%a8m) | N/A |
-| 33 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 34 | [Thai](http://twitter.com/search?q=Thai) | N/A |
-| 35 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 36 | [Pyra](http://twitter.com/search?q=Pyra) | N/A |
-| 37 | [America](http://twitter.com/search?q=America) | N/A |
-| 38 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 39 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 40 | [trong](http://twitter.com/search?q=trong) | N/A |
-| 41 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 42 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 43 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 44 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 45 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 46 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 47 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 48 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 49 | [West](http://twitter.com/search?q=West) | N/A |
-| 50 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 24 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 25 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 26 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 27 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 28 | [Bybit](http://twitter.com/search?q=Bybit) | N/A |
+| 29 | [Mile](http://twitter.com/search?q=Mile) | N/A |
+| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 31 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 32 | [Pyra](http://twitter.com/search?q=Pyra) | N/A |
+| 33 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 34 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 35 | [trong](http://twitter.com/search?q=trong) | N/A |
+| 36 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 37 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 38 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 39 | [West](http://twitter.com/search?q=West) | N/A |
+| 40 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 41 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
+| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 43 | [Doyoung](http://twitter.com/search?q=Doyoung) | N/A |
+| 44 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 45 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 46 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 47 | [TO THE MOON](http://twitter.com/search?q=TO+THE+MOON) | N/A |
+| 48 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
+| 50 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 
 
 

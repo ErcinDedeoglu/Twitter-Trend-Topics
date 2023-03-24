@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-24 17:17:24 UTC`
+📆 Last Updated: `2023-03-24 18:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 3 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 4 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
-| 5 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 6 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
+| 3 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 4 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 7 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
 | 8 | [#spoe](http://twitter.com/search?q=%23spoe) | N/A |
-| 9 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 10 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 11 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 12 | [vorsitz](http://twitter.com/search?q=vorsitz) | N/A |
-| 13 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 14 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
-| 15 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 16 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 17 | [#Raab](http://twitter.com/search?q=%23Raab) | N/A |
-| 18 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 19 | [Bundespräsident](http://twitter.com/search?q=Bundespr%c3%a4sident) | N/A |
-| 20 | [statuten](http://twitter.com/search?q=statuten) | N/A |
+| 9 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 10 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 11 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
+| 12 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
+| 13 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 14 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 15 | [#Raab](http://twitter.com/search?q=%23Raab) | N/A |
+| 16 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
+| 17 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 18 | [Bundespräsident](http://twitter.com/search?q=Bundespr%c3%a4sident) | N/A |
+| 19 | [Sellner](http://twitter.com/search?q=Sellner) | N/A |
+| 20 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 | 21 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 22 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 23 | [Rückzug](http://twitter.com/search?q=R%c3%bcckzug) | N/A |
-| 24 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 25 | [Zuschuss](http://twitter.com/search?q=Zuschuss) | N/A |
-| 26 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 27 | [Dynamik](http://twitter.com/search?q=Dynamik) | N/A |
-| 28 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 29 | [Landesabgaben](http://twitter.com/search?q=Landesabgaben) | N/A |
-| 30 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 31 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Rückzug](http://twitter.com/search?q=R%c3%bcckzug) | N/A |
+| 23 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 24 | [Dynamik](http://twitter.com/search?q=Dynamik) | N/A |
+| 25 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 26 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 27 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 28 | [landesabgaben](http://twitter.com/search?q=landesabgaben) | N/A |
+| 29 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 30 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 33 | [parteitag](http://twitter.com/search?q=parteitag) | N/A |
-| 34 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 35 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
-| 36 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 37 | [Schönen Nachmittag](http://twitter.com/search?q=Sch%c3%b6nen+Nachmittag) | N/A |
-| 38 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 39 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
-| 40 | [Strukturen](http://twitter.com/search?q=Strukturen) | N/A |
-| 41 | [Schauspiel](http://twitter.com/search?q=Schauspiel) | N/A |
-| 42 | [kasperl](http://twitter.com/search?q=kasperl) | N/A |
-| 43 | [Gemeinden](http://twitter.com/search?q=Gemeinden) | N/A |
-| 44 | [Berater](http://twitter.com/search?q=Berater) | N/A |
-| 45 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 46 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 47 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 48 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
+| 34 | [landeshauptmann](http://twitter.com/search?q=landeshauptmann) | N/A |
+| 35 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 36 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 37 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 38 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
+| 39 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 40 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
+| 41 | [Strukturen](http://twitter.com/search?q=Strukturen) | N/A |
+| 42 | [Schauspiel](http://twitter.com/search?q=Schauspiel) | N/A |
+| 43 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 44 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 45 | [kasperl](http://twitter.com/search?q=kasperl) | N/A |
+| 46 | [Gemeinden](http://twitter.com/search?q=Gemeinden) | N/A |
+| 47 | [Angelobung](http://twitter.com/search?q=Angelobung) | N/A |
+| 48 | [Berater](http://twitter.com/search?q=Berater) | N/A |
 | 49 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 50 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 50 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
 
 
 

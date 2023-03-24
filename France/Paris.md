@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-24 17:17:25 UTC`
+📆 Last Updated: `2023-03-24 18:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
-| 2 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 3 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 4 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 5 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 6 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 8 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 9 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 12 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
-| 13 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 14 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 15 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
-| 16 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 17 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
-| 18 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 19 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 20 | [Comores](http://twitter.com/search?q=Comores) | N/A |
-| 21 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 22 | [Caliste](http://twitter.com/search?q=Caliste) | N/A |
-| 23 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 24 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
-| 25 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
-| 26 | [cabo](http://twitter.com/search?q=cabo) | N/A |
-| 27 | [Whiteinn](http://twitter.com/search?q=Whiteinn) | N/A |
-| 28 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
-| 29 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 30 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 31 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
-| 32 | [Targou](http://twitter.com/search?q=Targou) | N/A |
-| 33 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 34 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 35 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Côte](http://twitter.com/search?q=C%c3%b4te) | N/A |
+| 3 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 4 | [#CMGF2023](http://twitter.com/search?q=%23CMGF2023) | N/A |
+| 5 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 6 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 7 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 8 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 9 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 10 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 11 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 13 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 14 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 15 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
+| 16 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
+| 17 | [JVLIVS](http://twitter.com/search?q=JVLIVS) | N/A |
+| 18 | [Comores](http://twitter.com/search?q=Comores) | N/A |
+| 19 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 20 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 21 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 22 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
+| 23 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 24 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 25 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 26 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 28 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
+| 29 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
+| 30 | [Targou](http://twitter.com/search?q=Targou) | N/A |
+| 31 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 32 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 33 | [Caliste](http://twitter.com/search?q=Caliste) | N/A |
+| 34 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
+| 35 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
 | 36 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
-| 37 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 38 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 39 | [RTNC](http://twitter.com/search?q=RTNC) | N/A |
-| 40 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 41 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
+| 37 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 38 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
+| 39 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 40 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 41 | [Weber](http://twitter.com/search?q=Weber) | N/A |
 | 42 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 43 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 44 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
-| 45 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
-| 46 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 43 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
+| 44 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 45 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
+| 46 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
 | 47 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 48 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
-| 49 | [Amnesty International](http://twitter.com/search?q=Amnesty+International) | N/A |
-| 50 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
+| 48 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
+| 49 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
+| 50 | [Amnesty International](http://twitter.com/search?q=Amnesty+International) | N/A |
 
 
 

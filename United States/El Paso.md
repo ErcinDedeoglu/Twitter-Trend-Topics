@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-24 17:17:59 UTC`
+📆 Last Updated: `2023-03-24 18:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 2 | [Bryson Tiller](http://twitter.com/search?q=Bryson+Tiller) | N/A |
+| 2 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 3 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 5 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 6 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 8 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 9 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 5 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 6 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 7 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 8 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 9 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
 | 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 11 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
-| 12 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 14 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 15 | [DJ Chark](http://twitter.com/search?q=DJ+Chark) | N/A |
-| 16 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 17 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 18 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 19 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 20 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 21 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 22 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 23 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 24 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 25 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 26 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 27 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 28 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 11 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 12 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 13 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 14 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
+| 15 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 16 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 17 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
+| 18 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 20 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 21 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 22 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
+| 23 | [Welcome to Carolina](http://twitter.com/search?q=Welcome+to+Carolina) | N/A |
+| 24 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 25 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 26 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 28 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
 | 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 31 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 32 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 33 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 34 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 35 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 36 | [Randy Johnson](http://twitter.com/search?q=Randy+Johnson) | N/A |
-| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 38 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 39 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 40 | [Wrenn](http://twitter.com/search?q=Wrenn) | N/A |
-| 41 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
-| 42 | [Dead Hard](http://twitter.com/search?q=Dead+Hard) | N/A |
-| 43 | [Miles Mikolas](http://twitter.com/search?q=Miles+Mikolas) | N/A |
-| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 45 | [DOA in the Senate](http://twitter.com/search?q=DOA+in+the+Senate) | N/A |
-| 46 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 47 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
-| 48 | [Joe Girard](http://twitter.com/search?q=Joe+Girard) | N/A |
-| 49 | [Jack-8](http://twitter.com/search?q=Jack-8) | N/A |
+| 31 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 32 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 33 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 34 | [Randy Johnson](http://twitter.com/search?q=Randy+Johnson) | N/A |
+| 35 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 36 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 37 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 38 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 39 | [DOA in the Senate](http://twitter.com/search?q=DOA+in+the+Senate) | N/A |
+| 40 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 41 | [Dead Hard](http://twitter.com/search?q=Dead+Hard) | N/A |
+| 42 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 43 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 44 | [Jerry Green](http://twitter.com/search?q=Jerry+Green) | N/A |
+| 45 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 46 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 47 | [Jack-8](http://twitter.com/search?q=Jack-8) | N/A |
+| 48 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 49 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
 
 
 

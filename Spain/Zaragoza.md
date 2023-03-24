@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-03-24 17:17:31 UTC`
+📆 Last Updated: `2023-03-24 18:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
-| 2 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
-| 3 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 5 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 1 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
+| 2 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 3 | [#Pecado24Mar](http://twitter.com/search?q=%23Pecado24Mar) | N/A |
+| 4 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
+| 5 | [TDAH](http://twitter.com/search?q=TDAH) | N/A |
 | 6 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 7 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [TDAH](http://twitter.com/search?q=TDAH) | N/A |
-| 10 | [Saiyans](http://twitter.com/search?q=Saiyans) | N/A |
-| 11 | [Airef](http://twitter.com/search?q=Airef) | N/A |
-| 12 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 13 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 14 | [Evenepoel](http://twitter.com/search?q=Evenepoel) | N/A |
+| 7 | [Pol Espargaró](http://twitter.com/search?q=Pol+Espargar%c3%b3) | N/A |
+| 8 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 9 | [Saiyans](http://twitter.com/search?q=Saiyans) | N/A |
+| 10 | [Airef](http://twitter.com/search?q=Airef) | N/A |
+| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 12 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
+| 13 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 14 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
 | 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 16 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 17 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 18 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 19 | [Jorgenson](http://twitter.com/search?q=Jorgenson) | N/A |
-| 20 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
-| 21 | [Flandes](http://twitter.com/search?q=Flandes) | N/A |
-| 22 | [Lo Port](http://twitter.com/search?q=Lo+Port) | N/A |
-| 23 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 16 | [Evenepoel](http://twitter.com/search?q=Evenepoel) | N/A |
+| 17 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 18 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 19 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 20 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 21 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 22 | [Jorgenson](http://twitter.com/search?q=Jorgenson) | N/A |
+| 23 | [Flandes](http://twitter.com/search?q=Flandes) | N/A |
 | 24 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 25 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 26 | [Las 12](http://twitter.com/search?q=Las+12) | N/A |
-| 27 | [Frenkie de Jong](http://twitter.com/search?q=Frenkie+de+Jong) | N/A |
-| 28 | [Escrivá](http://twitter.com/search?q=Escriv%c3%a1) | N/A |
-| 29 | [Belen Esteban](http://twitter.com/search?q=Belen+Esteban) | N/A |
-| 30 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
+| 25 | [Lo Port](http://twitter.com/search?q=Lo+Port) | N/A |
+| 26 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 27 | [Alihan](http://twitter.com/search?q=Alihan) | N/A |
+| 28 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
+| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 30 | [Portimao](http://twitter.com/search?q=Portimao) | N/A |
 | 31 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 32 | [Kylie Jenner](http://twitter.com/search?q=Kylie+Jenner) | N/A |
-| 33 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 34 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 35 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
-| 36 | [Pantomima Full](http://twitter.com/search?q=Pantomima+Full) | N/A |
-| 37 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 38 | [Villano](http://twitter.com/search?q=Villano) | N/A |
-| 39 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 40 | [rosi](http://twitter.com/search?q=rosi) | N/A |
-| 41 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
-| 42 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 43 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 44 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 45 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 46 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 47 | [Iago](http://twitter.com/search?q=Iago) | N/A |
-| 48 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 49 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 32 | [Las 12](http://twitter.com/search?q=Las+12) | N/A |
+| 33 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 34 | [Escrivá](http://twitter.com/search?q=Escriv%c3%a1) | N/A |
+| 35 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
+| 36 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 37 | [Balenciaga](http://twitter.com/search?q=Balenciaga) | N/A |
+| 38 | [Kylie Jenner](http://twitter.com/search?q=Kylie+Jenner) | N/A |
+| 39 | [Caídos](http://twitter.com/search?q=Ca%c3%addos) | N/A |
+| 40 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 41 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 42 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 43 | [Pantomima](http://twitter.com/search?q=Pantomima) | N/A |
+| 44 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
+| 45 | [Juana Rivas](http://twitter.com/search?q=Juana+Rivas) | N/A |
+| 46 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 47 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 48 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 49 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
 
 
 

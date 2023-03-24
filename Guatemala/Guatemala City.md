@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala City
 
-📆 Last Updated: `2023-03-24 17:17:13 UTC`
+📆 Last Updated: `2023-03-24 18:18:47 UTC`
 
 🔧 Updated every 1 hour!
 

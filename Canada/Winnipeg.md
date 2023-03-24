@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-24 17:17:08 UTC`
+📆 Last Updated: `2023-03-24 18:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
 | 2 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 3 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 4 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
 | 5 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 6 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 8 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 9 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 12 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 14 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 9 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 10 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 12 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 13 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
+| 14 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 15 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 17 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 19 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 22 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 24 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 25 | [London](http://twitter.com/search?q=London) | N/A |
-| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 28 | [Alek Manoah](http://twitter.com/search?q=Alek+Manoah) | N/A |
-| 29 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 16 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 17 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 20 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 21 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 22 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 24 | [London](http://twitter.com/search?q=London) | N/A |
+| 25 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 29 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 30 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
 | 31 | [Motel 6](http://twitter.com/search?q=Motel+6) | N/A |
-| 32 | [Bev Oda](http://twitter.com/search?q=Bev+Oda) | N/A |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 33 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 34 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 35 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [CITQ](http://twitter.com/search?q=CITQ) | N/A |
+| 35 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 36 | [Bev Oda](http://twitter.com/search?q=Bev+Oda) | N/A |
+| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 38 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 39 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 40 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
-| 41 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 39 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 41 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
 | 42 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 43 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 44 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 46 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 47 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 48 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 49 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 43 | [Alek Manoah](http://twitter.com/search?q=Alek+Manoah) | N/A |
+| 44 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 45 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 46 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 47 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 48 | [Peace by Chocolate](http://twitter.com/search?q=Peace+by+Chocolate) | N/A |
+| 49 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 
 
 

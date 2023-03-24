@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-24 17:17:24 UTC`
+📆 Last Updated: `2023-03-24 18:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 2 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 1 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 2 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
 | 3 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 4 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 5 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
-| 6 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 7 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 8 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
-| 9 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 10 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
-| 11 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 12 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 13 | [Comores](http://twitter.com/search?q=Comores) | N/A |
-| 14 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 15 | [Caliste](http://twitter.com/search?q=Caliste) | N/A |
-| 16 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 17 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
-| 18 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
-| 19 | [cabo](http://twitter.com/search?q=cabo) | N/A |
-| 20 | [Whiteinn](http://twitter.com/search?q=Whiteinn) | N/A |
-| 21 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
-| 22 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 24 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
-| 25 | [Targou](http://twitter.com/search?q=Targou) | N/A |
-| 26 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 27 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 28 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 29 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
-| 30 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 31 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 32 | [RTNC](http://twitter.com/search?q=RTNC) | N/A |
-| 33 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
-| 34 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
-| 35 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 36 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 37 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
-| 38 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
-| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 40 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 41 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
+| 4 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 5 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 6 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
+| 7 | [JVLIVS](http://twitter.com/search?q=JVLIVS) | N/A |
+| 8 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
+| 9 | [Comores](http://twitter.com/search?q=Comores) | N/A |
+| 10 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 11 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 12 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 13 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
+| 14 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 15 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 16 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 17 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 18 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
+| 19 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
+| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 21 | [Targou](http://twitter.com/search?q=Targou) | N/A |
+| 22 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 23 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 24 | [Caliste](http://twitter.com/search?q=Caliste) | N/A |
+| 25 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
+| 26 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
+| 27 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
+| 28 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 29 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
+| 30 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 31 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 32 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 33 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 34 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
+| 35 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 36 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
+| 37 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
+| 38 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 39 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
+| 40 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
+| 41 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
 | 42 | [Amnesty International](http://twitter.com/search?q=Amnesty+International) | N/A |
-| 43 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
-| 44 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 45 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 43 | [Samedi 25](http://twitter.com/search?q=Samedi+25) | N/A |
+| 44 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 45 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 
 
 

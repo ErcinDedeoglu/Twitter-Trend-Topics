@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-24 17:18:08 UTC`
+📆 Last Updated: `2023-03-24 18:19:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 2 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 3 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 2 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 3 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 4 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 5 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 6 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 7 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 8 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 9 | [TOVE LO NO LOLLA BR COM BUD](http://twitter.com/search?q=TOVE+LO+NO+LOLLA+BR+COM+BUD) | N/A |
-| 10 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 11 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 12 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 13 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 14 | [hadid](http://twitter.com/search?q=hadid) | N/A |
-| 15 | [ASSISTA ESCAPE NO YOUTUBE](http://twitter.com/search?q=ASSISTA+ESCAPE+NO+YOUTUBE) | N/A |
-| 16 | [RACISMO REVERSO NÃO EXISTE](http://twitter.com/search?q=RACISMO+REVERSO+N%c3%83O+EXISTE) | N/A |
-| 17 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 18 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 19 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 20 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 21 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 22 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 23 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 24 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 5 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 6 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 8 | [Processar](http://twitter.com/search?q=Processar) | N/A |
+| 9 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 11 | [Denir](http://twitter.com/search?q=Denir) | N/A |
+| 12 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 13 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 14 | [#ANAVITÓRIANoMultishow](http://twitter.com/search?q=%23ANAVIT%c3%93RIANoMultishow) | N/A |
+| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 16 | [#BlackAlienNoMultishow](http://twitter.com/search?q=%23BlackAlienNoMultishow) | N/A |
+| 17 | [hadid](http://twitter.com/search?q=hadid) | N/A |
+| 18 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 19 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 20 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 21 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 22 | [Escrota](http://twitter.com/search?q=Escrota) | N/A |
+| 23 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 24 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
 | 25 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
-| 26 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
-| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 28 | [Arena Barueri](http://twitter.com/search?q=Arena+Barueri) | N/A |
-| 29 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
-| 30 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 31 | [Goot](http://twitter.com/search?q=Goot) | N/A |
-| 32 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
-| 33 | [HAPPY MASHIHO DAY](http://twitter.com/search?q=HAPPY+MASHIHO+DAY) | N/A |
-| 34 | [Escrota](http://twitter.com/search?q=Escrota) | N/A |
-| 35 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 36 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 37 | [Crybaby](http://twitter.com/search?q=Crybaby) | N/A |
-| 38 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
-| 39 | [Rejeição](http://twitter.com/search?q=Rejei%c3%a7%c3%a3o) | N/A |
-| 40 | [Didico](http://twitter.com/search?q=Didico) | N/A |
-| 41 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 42 | [Black Alien](http://twitter.com/search?q=Black+Alien) | N/A |
-| 43 | [Identificação](http://twitter.com/search?q=Identifica%c3%a7%c3%a3o) | N/A |
-| 44 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 45 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 46 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
-| 47 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 48 | [Rio Branco](http://twitter.com/search?q=Rio+Branco) | N/A |
-| 49 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 50 | [batedor](http://twitter.com/search?q=batedor) | N/A |
+| 26 | [Brance](http://twitter.com/search?q=Brance) | N/A |
+| 27 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
+| 28 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 29 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 30 | [RACISMO REVERSO NÃO EXISTE](http://twitter.com/search?q=RACISMO+REVERSO+N%c3%83O+EXISTE) | N/A |
+| 31 | [ASSISTA ESCAPE NO YOUTUBE](http://twitter.com/search?q=ASSISTA+ESCAPE+NO+YOUTUBE) | N/A |
+| 32 | [Didico](http://twitter.com/search?q=Didico) | N/A |
+| 33 | [Alien Superstar](http://twitter.com/search?q=Alien+Superstar) | N/A |
+| 34 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 35 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 36 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
+| 37 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 38 | [Goot](http://twitter.com/search?q=Goot) | N/A |
+| 39 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
+| 40 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
+| 41 | [Imperador](http://twitter.com/search?q=Imperador) | N/A |
+| 42 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 43 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 44 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
+| 45 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
+| 46 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 47 | [Levantadora](http://twitter.com/search?q=Levantadora) | N/A |
+| 48 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 49 | [suki waterhouse](http://twitter.com/search?q=suki+waterhouse) | N/A |
+| 50 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
 
 
 

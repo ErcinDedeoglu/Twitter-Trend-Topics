@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-24 17:17:56 UTC`
+📆 Last Updated: `2023-03-24 18:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KıymetliÇınarlarımız](http://twitter.com/search?q=%23K%c4%b1ymetli%c3%87%c4%b1narlar%c4%b1m%c4%b1z) | N/A |
-| 2 | [#SONDAKIKA](http://twitter.com/search?q=%23SONDAKIKA) | #SONDAKIKA is a Turkish hashtag that translates to "breaking news" in English. It is used to indicate that the post contains news that has just been released. |
-| 3 | [Erdoğan Hatay](http://twitter.com/search?q=Erdo%c4%9fan+Hatay) | N/A |
-| 4 | [Efe Subaşı](http://twitter.com/search?q=Efe+Suba%c5%9f%c4%b1) | N/A |
-| 5 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 6 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
-| 7 | [#neolduda](http://twitter.com/search?q=%23neolduda) | N/A |
-| 8 | [#MemuraZamYokmu](http://twitter.com/search?q=%23MemuraZamYokmu) | N/A |
-| 9 | [#EğitimHakkımızıİstiyoruz](http://twitter.com/search?q=%23E%c4%9fitimHakk%c4%b1m%c4%b1z%c4%b1%c4%b0stiyoruz) | N/A |
-| 10 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 11 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
-| 12 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 13 | [İmza](http://twitter.com/search?q=%c4%b0mza) | N/A |
-| 14 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
-| 15 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
-| 16 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
-| 17 | [Hayırlı İftarlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+%c4%b0ftarlar) | N/A |
-| 18 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
-| 19 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
-| 20 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 21 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
-| 22 | [Bayern Münih](http://twitter.com/search?q=Bayern+M%c3%bcnih) | N/A |
-| 23 | [Titanik](http://twitter.com/search?q=Titanik) | N/A |
-| 24 | [AKP'nin 20](http://twitter.com/search?q=AKP%27nin+20) | N/A |
-| 25 | [Baktı](http://twitter.com/search?q=Bakt%c4%b1) | N/A |
-| 26 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 27 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 29 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
-| 30 | [Lahmacun](http://twitter.com/search?q=Lahmacun) | N/A |
-| 31 | [2 Bin](http://twitter.com/search?q=2+Bin) | N/A |
-| 32 | [NiceBaşarılara EsraBilgiç](http://twitter.com/search?q=NiceBa%c5%9far%c4%b1lara+EsraBilgi%c3%a7) | N/A |
-| 33 | [Cengiz Holding](http://twitter.com/search?q=Cengiz+Holding) | N/A |
-| 34 | [Dönek](http://twitter.com/search?q=D%c3%b6nek) | N/A |
-| 35 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 36 | [İttifaka](http://twitter.com/search?q=%c4%b0ttifaka) | N/A |
-| 37 | [Zorunamı](http://twitter.com/search?q=Zorunam%c4%b1) | N/A |
-| 38 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 39 | [Mustafa Elitaş](http://twitter.com/search?q=Mustafa+Elita%c5%9f) | N/A |
-| 40 | [Lanetli](http://twitter.com/search?q=Lanetli) | N/A |
-| 41 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
-| 42 | [Enver Aysever](http://twitter.com/search?q=Enver+Aysever) | N/A |
-| 43 | [Abdülhamit](http://twitter.com/search?q=Abd%c3%bclhamit) | N/A |
-| 44 | [Daha 100](http://twitter.com/search?q=Daha+100) | N/A |
-| 45 | [Optimar](http://twitter.com/search?q=Optimar) | N/A |
-| 46 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 47 | [Yeterli](http://twitter.com/search?q=Yeterli) | N/A |
-| 48 | [Hizbullahın](http://twitter.com/search?q=Hizbullah%c4%b1n) | N/A |
-| 49 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 50 | [HAYIRLI OLSUN](http://twitter.com/search?q=HAYIRLI+OLSUN) | N/A |
+| 2 | [Ümraniye](http://twitter.com/search?q=%c3%9cmraniye) | Ümraniye is a district of Istanbul, Turkey. It is located on the Asian side of the city and has a population of over 600,000 people. The name Ümraniye comes from the Turkish word "umran" which means "prosperity". |
+| 3 | [AilelerPerişanGSB](http://twitter.com/search?q=AilelerPeri%c5%9fanGSB) | N/A |
+| 4 | [efe subaşı](http://twitter.com/search?q=efe+suba%c5%9f%c4%b1) | N/A |
+| 5 | [#MemuraZamYokmu](http://twitter.com/search?q=%23MemuraZamYokmu) | N/A |
+| 6 | [#SpinrazaNerede](http://twitter.com/search?q=%23SpinrazaNerede) | N/A |
+| 7 | [Hayat Şirine Gülsün](http://twitter.com/search?q=Hayat+%c5%9eirine+G%c3%bcls%c3%bcn) | N/A |
+| 8 | [#neolduda](http://twitter.com/search?q=%23neolduda) | N/A |
+| 9 | [AfYoksa BizdeYokuz](http://twitter.com/search?q=AfYoksa+BizdeYokuz) | N/A |
+| 10 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 11 | [#MemuraSeyyanenZam](http://twitter.com/search?q=%23MemuraSeyyanenZam) | N/A |
+| 12 | [Boya Bizim İşimiz](http://twitter.com/search?q=Boya+Bizim+%c4%b0%c5%9fimiz) | N/A |
+| 13 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 14 | [Akitavax](http://twitter.com/search?q=Akitavax) | N/A |
+| 15 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 16 | [Muhafaza](http://twitter.com/search?q=Muhafaza) | N/A |
+| 17 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
+| 18 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 19 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
+| 20 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
+| 21 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 22 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 23 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
+| 24 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
+| 25 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 26 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 27 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
+| 28 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
+| 29 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 30 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
+| 31 | [Lahmacun](http://twitter.com/search?q=Lahmacun) | N/A |
+| 32 | [Yunus Emre](http://twitter.com/search?q=Yunus+Emre) | N/A |
+| 33 | [ZİLLET KARANLIK YOLDA](http://twitter.com/search?q=Z%c4%b0LLET+KARANLIK+YOLDA) | N/A |
+| 34 | [AKP'nin 20](http://twitter.com/search?q=AKP%27nin+20) | N/A |
+| 35 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 36 | [Erdoğan Hatay](http://twitter.com/search?q=Erdo%c4%9fan+Hatay) | N/A |
+| 37 | [Bayern Münih](http://twitter.com/search?q=Bayern+M%c3%bcnih) | N/A |
+| 38 | [Hayırlı İftarlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+%c4%b0ftarlar) | N/A |
+| 39 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
+| 40 | [Titanik](http://twitter.com/search?q=Titanik) | N/A |
+| 41 | [Malatya'da 5](http://twitter.com/search?q=Malatya%27da+5) | N/A |
+| 42 | [Baktı](http://twitter.com/search?q=Bakt%c4%b1) | N/A |
+| 43 | [2 Bin](http://twitter.com/search?q=2+Bin) | N/A |
+| 44 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 45 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 46 | [Dönek](http://twitter.com/search?q=D%c3%b6nek) | N/A |
+| 47 | [Cengiz Holding](http://twitter.com/search?q=Cengiz+Holding) | N/A |
+| 48 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 49 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 50 | [Lanetli](http://twitter.com/search?q=Lanetli) | N/A |
 
 
 

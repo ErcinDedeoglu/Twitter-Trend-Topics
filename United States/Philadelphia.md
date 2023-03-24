@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-24 17:18:04 UTC`
+📆 Last Updated: `2023-03-24 18:19:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 2 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 3 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 4 | [Hall](http://twitter.com/search?q=Hall) | Hall is a noun that refers to a large room or area used for meetings, receptions, or other events. It can also refer to an entranceway or corridor in a building. |
+| 3 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 4 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 5 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 6 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
-| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 10 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 11 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 12 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 13 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 14 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 15 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
-| 16 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 18 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 19 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 20 | [DJ Chark](http://twitter.com/search?q=DJ+Chark) | N/A |
-| 21 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 22 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 23 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 25 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 26 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 27 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 28 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 30 | [Welcome to Carolina](http://twitter.com/search?q=Welcome+to+Carolina) | N/A |
-| 31 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 32 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 33 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 34 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 35 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 36 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 37 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 38 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 39 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 40 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 41 | [Randy Johnson](http://twitter.com/search?q=Randy+Johnson) | N/A |
-| 42 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 43 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 44 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 45 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
-| 46 | [Dead Hard](http://twitter.com/search?q=Dead+Hard) | N/A |
-| 47 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 48 | [Miles Mikolas](http://twitter.com/search?q=Miles+Mikolas) | N/A |
-| 49 | [Wrenn](http://twitter.com/search?q=Wrenn) | N/A |
-| 50 | [DOA in the Senate](http://twitter.com/search?q=DOA+in+the+Senate) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 9 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 10 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 11 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 12 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 13 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 14 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 15 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 16 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 17 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
+| 18 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 19 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 20 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
+| 21 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 23 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 24 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 25 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
+| 26 | [Welcome to Carolina](http://twitter.com/search?q=Welcome+to+Carolina) | N/A |
+| 27 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 28 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 29 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 31 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 32 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 33 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 34 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 35 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
+| 36 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 37 | [Randy Johnson](http://twitter.com/search?q=Randy+Johnson) | N/A |
+| 38 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 39 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 40 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 41 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 42 | [DOA in the Senate](http://twitter.com/search?q=DOA+in+the+Senate) | N/A |
+| 43 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
+| 44 | [Dead Hard](http://twitter.com/search?q=Dead+Hard) | N/A |
+| 45 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 46 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 47 | [Jerry Green](http://twitter.com/search?q=Jerry+Green) | N/A |
+| 48 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 49 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 50 | [Jack-8](http://twitter.com/search?q=Jack-8) | N/A |
 
 
 
