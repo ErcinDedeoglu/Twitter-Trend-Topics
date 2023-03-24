@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-24 15:18:34 UTC`
+📆 Last Updated: `2023-03-24 16:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 2 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
 | 3 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
 | 4 | [lgnz](http://twitter.com/search?q=lgnz) | N/A |
-| 5 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 6 | [#CRUvBRU](http://twitter.com/search?q=%23CRUvBRU) | N/A |
+| 5 | [#CRUvBRU](http://twitter.com/search?q=%23CRUvBRU) | N/A |
+| 6 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 7 | [#letWomenSpeakNZ](http://twitter.com/search?q=%23letWomenSpeakNZ) | N/A |
 | 8 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
@@ -35,7 +35,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 18 | [national standards](http://twitter.com/search?q=national+standards) | N/A |
 | 19 | [auckland council](http://twitter.com/search?q=auckland+council) | N/A |
 | 20 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 21 | [shaneel](http://twitter.com/search?q=shaneel) | N/A |
+| 21 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
 | 22 | [Pisa](http://twitter.com/search?q=Pisa) | N/A |
 | 23 | [Sean](http://twitter.com/search?q=Sean) | N/A |
 | 24 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
@@ -55,14 +55,14 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 38 | [Steam](http://twitter.com/search?q=Steam) | N/A |
 | 39 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 40 | [Fingers](http://twitter.com/search?q=Fingers) | N/A |
-| 41 | [immigration minister](http://twitter.com/search?q=immigration+minister) | N/A |
-| 42 | [Ministry of Health](http://twitter.com/search?q=Ministry+of+Health) | N/A |
-| 43 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 44 | [local government nz](http://twitter.com/search?q=local+government+nz) | N/A |
-| 45 | [immigration nz](http://twitter.com/search?q=immigration+nz) | N/A |
-| 46 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
-| 47 | [Countdown](http://twitter.com/search?q=Countdown) | N/A |
-| 48 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 41 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 42 | [immigration minister](http://twitter.com/search?q=immigration+minister) | N/A |
+| 43 | [Ministry of Health](http://twitter.com/search?q=Ministry+of+Health) | N/A |
+| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 45 | [local government nz](http://twitter.com/search?q=local+government+nz) | N/A |
+| 46 | [immigration nz](http://twitter.com/search?q=immigration+nz) | N/A |
+| 47 | [Shocking](http://twitter.com/search?q=Shocking) | N/A |
+| 48 | [Countdown](http://twitter.com/search?q=Countdown) | N/A |
 | 49 | [mt smart](http://twitter.com/search?q=mt+smart) | N/A |
 | 50 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
 

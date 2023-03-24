@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-24 15:18:18 UTC`
+📆 Last Updated: `2023-03-24 16:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [あんステ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%83%86) | あんステ (Ansute) is a Japanese portmanteau of the words "Anime" and "Music Station". It is a popular Japanese music program that features anime songs and music videos. The program is broadcast on the Tokyo MX television network. |
-| 2 | [#関内デビル](http://twitter.com/search?q=%23%e9%96%a2%e5%86%85%e3%83%87%e3%83%93%e3%83%ab) | N/A |
-| 3 | [パリライ](http://twitter.com/search?q=%e3%83%91%e3%83%aa%e3%83%a9%e3%82%a4) | N/A |
-| 4 | [ランブロ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%96%e3%83%ad) | N/A |
-| 5 | [親善試合](http://twitter.com/search?q=%e8%a6%aa%e5%96%84%e8%a9%a6%e5%90%88) | N/A |
-| 6 | [#メガドラミニ](http://twitter.com/search?q=%23%e3%83%a1%e3%82%ac%e3%83%89%e3%83%a9%e3%83%9f%e3%83%8b) | N/A |
-| 7 | [坂本さん](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
-| 8 | [西村選手](http://twitter.com/search?q=%e8%a5%bf%e6%9d%91%e9%81%b8%e6%89%8b) | N/A |
-| 9 | [伊藤洋輝](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b4%8b%e8%bc%9d) | N/A |
-| 10 | [ノーパン](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%91%e3%83%b3) | N/A |
-| 11 | [#勝利のハチマキ](http://twitter.com/search?q=%23%e5%8b%9d%e5%88%a9%e3%81%ae%e3%83%8f%e3%83%81%e3%83%9e%e3%82%ad) | N/A |
-| 12 | [ホウオウ](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6) | N/A |
-| 13 | [#ペルソナの密告](http://twitter.com/search?q=%23%e3%83%9a%e3%83%ab%e3%82%bd%e3%83%8a%e3%81%ae%e5%af%86%e5%91%8a) | N/A |
-| 14 | [キービジュ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
-| 15 | [ペンギン](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3) | ペンギン (pengin) is the Japanese word for penguin. It is a flightless bird that lives in the Southern Hemisphere. In English, it is pronounced "pen-gin". |
-| 16 | [森保さん](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e3%81%95%e3%82%93) | N/A |
-| 17 | [ビルドアップ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 18 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 19 | [ダイナゼノン](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%82%bc%e3%83%8e%e3%83%b3) | N/A |
-| 20 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 21 | [見逃し配信](http://twitter.com/search?q=%e8%a6%8b%e9%80%83%e3%81%97%e9%85%8d%e4%bf%a1) | N/A |
-| 22 | [松本梨香さん](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e6%a2%a8%e9%a6%99%e3%81%95%e3%82%93) | N/A |
-| 23 | [マサラタウン](http://twitter.com/search?q=%e3%83%9e%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
-| 24 | [メディア欄](http://twitter.com/search?q=%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e6%ac%84) | N/A |
-| 25 | [影ちゃん](http://twitter.com/search?q=%e5%bd%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [バイオハザードRE4](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa%e3%83%8f%e3%82%b6%e3%83%bc%e3%83%89RE4) | N/A |
-| 27 | [カバーソング](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
-| 28 | [アニメジャパン](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | アニメジャパン is a Japanese animation and manga magazine published by Tokuma Shoten. The magazine covers topics related to anime, manga, and other aspects of Japanese pop culture. In English, the phrase translates to "Anime Japan". |
-| 29 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 31 | [画像参照](http://twitter.com/search?q=%e7%94%bb%e5%83%8f%e5%8f%82%e7%85%a7) | N/A |
-| 32 | [ハピナス](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8a%e3%82%b9) | N/A |
-| 33 | [アシュリー](http://twitter.com/search?q=%e3%82%a2%e3%82%b7%e3%83%a5%e3%83%aa%e3%83%bc) | N/A |
-| 34 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 35 | [タイプワイルド](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%97%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | タイプワイルド is a Japanese manga series written and illustrated by Toshihiro Ono. It follows the story of a group of teenagers who are chosen to become the new guardians of the world, using their special powers to protect it from evil forces. The title translates to "Type Wild" in English, referring to the characters' wild and unpredictable nature. |
-| 36 | [男闘呼組](http://twitter.com/search?q=%e7%94%b7%e9%97%98%e5%91%bc%e7%b5%84) | N/A |
-| 37 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 38 | [ピカチュウ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 39 | [ピーターラビット](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%83%a9%e3%83%93%e3%83%83%e3%83%88) | N/A |
-| 40 | [まっしー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
-| 41 | [サッカー](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc) | N/A |
-| 42 | [ピジョット](http://twitter.com/search?q=%e3%83%94%e3%82%b8%e3%83%a7%e3%83%83%e3%83%88) | N/A |
-| 43 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 44 | [かおちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | かおちゃん is a term of endearment used in Japan to refer to an older woman, usually one who is close to the speaker. It can be translated as "Auntie" or "Granny". |
-| 45 | [デビュー5周年](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc5%e5%91%a8%e5%b9%b4) | N/A |
-| 46 | [バルベルデ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%99%e3%83%ab%e3%83%87) | N/A |
-| 47 | [伊東純也](http://twitter.com/search?q=%e4%bc%8a%e6%9d%b1%e7%b4%94%e4%b9%9f) | N/A |
-| 48 | [スキズ5周年](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%82%ba5%e5%91%a8%e5%b9%b4) | N/A |
+| 2 | [#WP847](http://twitter.com/search?q=%23WP847) | N/A |
+| 3 | [#関内デビル](http://twitter.com/search?q=%23%e9%96%a2%e5%86%85%e3%83%87%e3%83%93%e3%83%ab) | N/A |
+| 4 | [パリライ](http://twitter.com/search?q=%e3%83%91%e3%83%aa%e3%83%a9%e3%82%a4) | N/A |
+| 5 | [ランブロ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%96%e3%83%ad) | N/A |
+| 6 | [舞依ちゃん](http://twitter.com/search?q=%e8%88%9e%e4%be%9d%e3%81%a1%e3%82%83%e3%82%93) | "舞依ちゃん" is a nickname for the Japanese virtual YouTuber, Mai Yuki. It is a combination of her name and the Japanese word for "girl". In English, it can be translated to "Mai Girl". |
+| 7 | [#アシタノカレッジ](http://twitter.com/search?q=%23%e3%82%a2%e3%82%b7%e3%82%bf%e3%83%8e%e3%82%ab%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
+| 8 | [親善試合](http://twitter.com/search?q=%e8%a6%aa%e5%96%84%e8%a9%a6%e5%90%88) | N/A |
+| 9 | [西村拓真](http://twitter.com/search?q=%e8%a5%bf%e6%9d%91%e6%8b%93%e7%9c%9f) | N/A |
+| 10 | [西村選手](http://twitter.com/search?q=%e8%a5%bf%e6%9d%91%e9%81%b8%e6%89%8b) | N/A |
+| 11 | [ノーパン](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%91%e3%83%b3) | N/A |
+| 12 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
+| 13 | [伊藤洋輝](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b4%8b%e8%bc%9d) | N/A |
+| 14 | [Party Live](http://twitter.com/search?q=Party+Live) | N/A |
+| 15 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
+| 16 | [上田綺世](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e7%b6%ba%e4%b8%96) | N/A |
+| 17 | [最高のボロボロ靴](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%9c%e3%83%ad%e3%83%9c%e3%83%ad%e9%9d%b4) | N/A |
+| 18 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 19 | [メディア欄](http://twitter.com/search?q=%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e6%ac%84) | N/A |
+| 20 | [森保さん](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e3%81%95%e3%82%93) | N/A |
+| 21 | [ビルドアップ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 22 | [ファーストタッチ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%82%bf%e3%83%83%e3%83%81) | N/A |
+| 23 | [キービジュ](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5) | N/A |
+| 24 | [サトピカ](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%83%94%e3%82%ab) | N/A |
+| 25 | [ペンギン](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3) | ペンギン (pengin) is the Japanese word for penguin. It is a flightless bird that lives in the Southern Hemisphere. In English, it is pronounced "pen-gin". |
+| 26 | [ダイナゼノン](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%82%bc%e3%83%8e%e3%83%b3) | N/A |
+| 27 | [サトシの冒険](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e3%81%ae%e5%86%92%e9%99%ba) | N/A |
+| 28 | [バイオハザードRE4](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa%e3%83%8f%e3%82%b6%e3%83%bc%e3%83%89RE4) | N/A |
+| 29 | [松本梨香さん](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e6%a2%a8%e9%a6%99%e3%81%95%e3%82%93) | N/A |
+| 30 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 31 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 32 | [アカリちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [見逃し配信](http://twitter.com/search?q=%e8%a6%8b%e9%80%83%e3%81%97%e9%85%8d%e4%bf%a1) | N/A |
+| 34 | [新シリーズ](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 35 | [カバーソング](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
+| 36 | [ハピナス](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8a%e3%82%b9) | N/A |
+| 37 | [ホウオウ](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6) | N/A |
+| 38 | [アシュリー](http://twitter.com/search?q=%e3%82%a2%e3%82%b7%e3%83%a5%e3%83%aa%e3%83%bc) | N/A |
+| 39 | [アニメジャパン](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | アニメジャパン is a Japanese animation and manga magazine published by Tokuma Shoten. The magazine covers topics related to anime, manga, and other aspects of Japanese pop culture. In English, the phrase translates to "Anime Japan". |
+| 40 | [マサラタウン](http://twitter.com/search?q=%e3%83%9e%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a6%e3%83%b3) | N/A |
+| 41 | [画像参照](http://twitter.com/search?q=%e7%94%bb%e5%83%8f%e5%8f%82%e7%85%a7) | N/A |
+| 42 | [ポケットモンスター](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 43 | [ずぶ濡れ](http://twitter.com/search?q=%e3%81%9a%e3%81%b6%e6%bf%a1%e3%82%8c) | N/A |
+| 44 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
+| 45 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
+| 46 | [まっしー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
+| 47 | [タイプワイルド](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%97%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | タイプワイルド is a Japanese manga series written and illustrated by Toshihiro Ono. It follows the story of a group of teenagers who are chosen to become the new guardians of the world, using their special powers to protect it from evil forces. The title translates to "Type Wild" in English, referring to the characters' wild and unpredictable nature. |
+| 48 | [男闘呼組](http://twitter.com/search?q=%e7%94%b7%e9%97%98%e5%91%bc%e7%b5%84) | N/A |
 
 
 

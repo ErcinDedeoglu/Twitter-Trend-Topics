@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-24 15:18:46 UTC`
+📆 Last Updated: `2023-03-24 16:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Lebanon
 | 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 5 | [التوقيت الشتوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b4%d8%aa%d9%88%d9%8a) | N/A |
 | 6 | [تاجيل العمل](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 7 | [#واخيرا](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%ae%d9%8a%d8%b1%d8%a7) | N/A |
-| 8 | [#غاده_عون](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%af%d9%87_%d8%b9%d9%88%d9%86) | N/A |
-| 9 | [ساعات الصيام](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 10 | [#قاضيه_عالفاسدين](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%d9%8a%d9%87_%d8%b9%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d8%af%d9%8a%d9%86) | N/A |
-| 11 | [#القاضيه_عالقضاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87_%d8%b9%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
-| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 13 | [صندوق النقد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%86%d9%82%d8%af) | N/A |
-| 14 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 15 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 7 | [#غاده_عون](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%af%d9%87_%d8%b9%d9%88%d9%86) | N/A |
+| 8 | [ساعات الصيام](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 9 | [#قاضيه_عالفاسدين](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%d9%8a%d9%87_%d8%b9%d8%a7%d9%84%d9%81%d8%a7%d8%b3%d8%af%d9%8a%d9%86) | N/A |
+| 10 | [#القاضيه_عالقضاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87_%d8%b9%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
+| 11 | [#واخيرا](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%ae%d9%8a%d8%b1%d8%a7) | N/A |
+| 12 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 13 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 14 | [صندوق النقد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d9%84%d9%86%d9%82%d8%af) | N/A |
+| 15 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 16 | [تغيير الساعه](http://twitter.com/search?q=%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
-| 17 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 18 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 17 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 19 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 20 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 21 | [الاضراب المفتوح](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad) | N/A |
-| 22 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 23 | [21 نيسان](http://twitter.com/search?q=21+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 24 | [الاسلام السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 25 | [نهار الجمعه](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 26 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 20 | [الاضراب المفتوح](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad) | N/A |
+| 21 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 22 | [وزير الخارجيه الاميركيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 23 | [شهر مبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 24 | [21 نيسان](http://twitter.com/search?q=21+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
+| 25 | [هيدا القرار](http://twitter.com/search?q=%d9%87%d9%8a%d8%af%d8%a7+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
+| 26 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 27 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 28 | [التوقيت العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 29 | [غروب الشمس](http://twitter.com/search?q=%d8%ba%d8%b1%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d9%85%d8%b3) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [منتصف ليل](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%b5%d9%81+%d9%84%d9%8a%d9%84) | N/A |
-| 32 | [وزير الخارجيه الاميركيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 28 | [الاسلام السياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 29 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 30 | [التوقيت العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 31 | [غروب الشمس](http://twitter.com/search?q=%d8%ba%d8%b1%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d9%85%d8%b3) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 33 | [باربرا ليف](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d8%a8%d8%b1%d8%a7+%d9%84%d9%8a%d9%81) | N/A |
-| 34 | [عين التينه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%aa%d9%8a%d9%86%d9%87) | N/A |
-| 35 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 36 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 37 | [شركات الطيران](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 38 | [الجمعه العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 39 | [الاقتصاد العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 40 | [امير ابو خديجه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d8%a8%d9%88+%d8%ae%d8%af%d9%8a%d8%ac%d9%87) | N/A |
-| 41 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [هيدا القرار](http://twitter.com/search?q=%d9%87%d9%8a%d8%af%d8%a7+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
+| 34 | [نهار الجمعه](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 35 | [عين التينه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%aa%d9%8a%d9%86%d9%87) | N/A |
+| 36 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 37 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
+| 38 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
+| 39 | [الجمعه العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 40 | [شركات الطيران](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 41 | [لإيران](http://twitter.com/search?q=%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 42 | [الاقتصاد العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 43 | [امير ابو خديجه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d8%a8%d9%88+%d8%ae%d8%af%d9%8a%d8%ac%d9%87) | N/A |
 | 44 | [تغيير التوقيت](http://twitter.com/search?q=%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa) | N/A |
-| 45 | [لإيران](http://twitter.com/search?q=%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 46 | [دير الزور](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d9%88%d8%b1) | N/A |
-| 47 | [الدوام الصيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 48 | [وزير الاشغال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
-| 49 | [علي الصايم الغايب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%ba%d8%a7%d9%8a%d8%a8) | N/A |
-| 50 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 45 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 46 | [علي الصايم الغايب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%ba%d8%a7%d9%8a%d8%a8) | N/A |
+| 47 | [دير الزور](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d9%88%d8%b1) | N/A |
+| 48 | [مطار بيروت](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
+| 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 50 | [وزير الاشغال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
 
 
 

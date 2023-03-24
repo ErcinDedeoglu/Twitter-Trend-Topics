@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-24 15:18:14 UTC`
+📆 Last Updated: `2023-03-24 16:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 4 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 5 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
-| 6 | [hamar](http://twitter.com/search?q=hamar) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 8 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 10 | [England](http://twitter.com/search?q=England) | N/A |
-| 11 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 12 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 14 | [Flott](http://twitter.com/search?q=Flott) | N/A |
-| 15 | [Erna](http://twitter.com/search?q=Erna) | N/A |
-| 16 | [BOOTH](http://twitter.com/search?q=BOOTH) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 8 | [England](http://twitter.com/search?q=England) | N/A |
+| 9 | [Erna Solberg](http://twitter.com/search?q=Erna+Solberg) | N/A |
+| 10 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 11 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [BOOTH](http://twitter.com/search?q=BOOTH) | N/A |
+| 16 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
 | 17 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 18 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 19 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
-| 20 | [hovland](http://twitter.com/search?q=hovland) | N/A |
-| 21 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
-| 22 | [norgesgruppen](http://twitter.com/search?q=norgesgruppen) | N/A |
-| 23 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 24 | [Vestre](http://twitter.com/search?q=Vestre) | N/A |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 27 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 28 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 29 | [#BorzoiInu](http://twitter.com/search?q=%23BorzoiInu) | N/A |
-| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 18 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 19 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 20 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 21 | [hovland](http://twitter.com/search?q=hovland) | N/A |
+| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
+| 24 | [norgesgruppen](http://twitter.com/search?q=norgesgruppen) | N/A |
+| 25 | [#BorzoiInu](http://twitter.com/search?q=%23BorzoiInu) | N/A |
+| 26 | [Vestre](http://twitter.com/search?q=Vestre) | N/A |
+| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 28 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 29 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 30 | [Comet](http://twitter.com/search?q=Comet) | N/A |
 | 31 | [Definitivt](http://twitter.com/search?q=Definitivt) | N/A |
 | 32 | [bredtveit](http://twitter.com/search?q=bredtveit) | N/A |
-| 33 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 34 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 35 | [Norske](http://twitter.com/search?q=Norske) | N/A |
-| 36 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 39 | [narvik](http://twitter.com/search?q=narvik) | N/A |
-| 40 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 41 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
-| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 43 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
-| 44 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 45 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 46 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 47 | [Veldig](http://twitter.com/search?q=Veldig) | N/A |
-| 48 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
-| 49 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 33 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 34 | [Takk](http://twitter.com/search?q=Takk) | N/A |
+| 35 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 36 | [Norske](http://twitter.com/search?q=Norske) | N/A |
+| 37 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 38 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
+| 39 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 41 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 42 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
+| 43 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 44 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 45 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
+| 46 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 47 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 48 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 
 

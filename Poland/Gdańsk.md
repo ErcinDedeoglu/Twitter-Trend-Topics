@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-24 15:18:07 UTC`
+📆 Last Updated: `2023-03-24 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 | 3 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 4 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 5 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [Ulmów](http://twitter.com/search?q=Ulm%c3%b3w) | N/A |
+| 4 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 7 | [Narodowy Dzień Pamięci Polaków](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci+Polak%c3%b3w) | N/A |
 | 8 | [Nagelsmanna](http://twitter.com/search?q=Nagelsmanna) | N/A |
-| 9 | [Narodowy Dzień Pamięci Polaków](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci+Polak%c3%b3w) | N/A |
-| 10 | [Seleny](http://twitter.com/search?q=Seleny) | N/A |
+| 9 | [Ulmów](http://twitter.com/search?q=Ulm%c3%b3w) | N/A |
+| 10 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
 | 11 | [Bayernu](http://twitter.com/search?q=Bayernu) | N/A |
-| 12 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 12 | [Seleny](http://twitter.com/search?q=Seleny) | N/A |
 | 13 | [Markowej](http://twitter.com/search?q=Markowej) | N/A |
 | 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 15 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 16 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 17 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
-| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 15 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 16 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 17 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 18 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
 | 19 | [Austrią](http://twitter.com/search?q=Austri%c4%85) | N/A |
 | 20 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 21 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 22 | [narodowy dzień życia](http://twitter.com/search?q=narodowy+dzie%c5%84+%c5%bcycia) | N/A |
-| 23 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
+| 21 | [bochenek](http://twitter.com/search?q=bochenek) | N/A |
+| 22 | [Narodowy Dzień Życia](http://twitter.com/search?q=Narodowy+Dzie%c5%84+%c5%bbycia) | N/A |
+| 23 | [książę william](http://twitter.com/search?q=ksi%c4%85%c5%bc%c4%99+william) | N/A |
 | 24 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 25 | [Przysmak](http://twitter.com/search?q=Przysmak) | N/A |
-| 26 | [Pile](http://twitter.com/search?q=Pile) | N/A |
-| 27 | [Górnicy](http://twitter.com/search?q=G%c3%b3rnicy) | N/A |
-| 28 | [Komisji Europejskiej](http://twitter.com/search?q=Komisji+Europejskiej) | N/A |
-| 29 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 30 | [Jaworznie](http://twitter.com/search?q=Jaworznie) | N/A |
-| 31 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 25 | [Górnicy](http://twitter.com/search?q=G%c3%b3rnicy) | N/A |
+| 26 | [przysmak](http://twitter.com/search?q=przysmak) | N/A |
+| 27 | [Komisji Europejskiej](http://twitter.com/search?q=Komisji+Europejskiej) | N/A |
+| 28 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 29 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 30 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 31 | [Pile](http://twitter.com/search?q=Pile) | N/A |
 | 32 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 33 | [klarenbach](http://twitter.com/search?q=klarenbach) | N/A |
-| 34 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 35 | [Colley](http://twitter.com/search?q=Colley) | N/A |
-| 36 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 37 | [Narodów Świata](http://twitter.com/search?q=Narod%c3%b3w+%c5%9awiata) | N/A |
-| 38 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 39 | [Funduszu Spójności](http://twitter.com/search?q=Funduszu+Sp%c3%b3jno%c5%9bci) | N/A |
-| 40 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 41 | [Skorup](http://twitter.com/search?q=Skorup) | N/A |
-| 42 | [Czechy - Polska](http://twitter.com/search?q=Czechy+-+Polska) | N/A |
-| 43 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
-| 44 | [Wiktorię](http://twitter.com/search?q=Wiktori%c4%99) | N/A |
-| 45 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
-| 46 | [Lany](http://twitter.com/search?q=Lany) | N/A |
-| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 33 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 34 | [czechy - polska](http://twitter.com/search?q=czechy+-+polska) | N/A |
+| 35 | [Narodów Świata](http://twitter.com/search?q=Narod%c3%b3w+%c5%9awiata) | N/A |
+| 36 | [Funduszu Spójności](http://twitter.com/search?q=Funduszu+Sp%c3%b3jno%c5%9bci) | N/A |
+| 37 | [Lany](http://twitter.com/search?q=Lany) | N/A |
+| 38 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 39 | [Szymuś](http://twitter.com/search?q=Szymu%c5%9b) | N/A |
+| 40 | [Skorup](http://twitter.com/search?q=Skorup) | N/A |
+| 41 | [Colley](http://twitter.com/search?q=Colley) | N/A |
+| 42 | [Akademia Policyjna](http://twitter.com/search?q=Akademia+Policyjna) | N/A |
+| 43 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
+| 44 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 45 | [Jaworznie](http://twitter.com/search?q=Jaworznie) | N/A |
+| 46 | [Skóraś](http://twitter.com/search?q=Sk%c3%b3ra%c5%9b) | N/A |
+| 47 | [Wiktorię](http://twitter.com/search?q=Wiktori%c4%99) | N/A |
+| 48 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 
 
 

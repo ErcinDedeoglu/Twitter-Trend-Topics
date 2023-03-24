@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-24 15:18:47 UTC`
+📆 Last Updated: `2023-03-24 16:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for New Zealand
 | 2 | [kim hill](http://twitter.com/search?q=kim+hill) | N/A |
 | 3 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
 | 4 | [lgnz](http://twitter.com/search?q=lgnz) | N/A |
-| 5 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 6 | [#CRUvBRU](http://twitter.com/search?q=%23CRUvBRU) | N/A |
+| 5 | [#CRUvBRU](http://twitter.com/search?q=%23CRUvBRU) | N/A |
+| 6 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 7 | [#letWomenSpeakNZ](http://twitter.com/search?q=%23letWomenSpeakNZ) | N/A |
 | 8 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
@@ -35,7 +35,7 @@ This is top 50 for New Zealand
 | 18 | [national standards](http://twitter.com/search?q=national+standards) | N/A |
 | 19 | [auckland council](http://twitter.com/search?q=auckland+council) | N/A |
 | 20 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 21 | [shaneel](http://twitter.com/search?q=shaneel) | N/A |
+| 21 | [Shaneel](http://twitter.com/search?q=Shaneel) | N/A |
 | 22 | [Pisa](http://twitter.com/search?q=Pisa) | N/A |
 | 23 | [Sean](http://twitter.com/search?q=Sean) | N/A |
 | 24 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-24 15:18:08 UTC`
+📆 Last Updated: `2023-03-24 16:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#overlapontour](http://twitter.com/search?q=%23overlapontour) | N/A |
-| 2 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 2 | [Graham Dwyer](http://twitter.com/search?q=Graham+Dwyer) | N/A |
 | 3 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
-| 4 | [Graham Dwyer](http://twitter.com/search?q=Graham+Dwyer) | N/A |
+| 4 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
 | 5 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
 | 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 7 | [#heartofireland](http://twitter.com/search?q=%23heartofireland) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [#IRLLAT](http://twitter.com/search?q=%23IRLLAT) | N/A |
-| 11 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
-| 12 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
-| 15 | [Kerry Babies](http://twitter.com/search?q=Kerry+Babies) | N/A |
+| 8 | [#IRLLAT](http://twitter.com/search?q=%23IRLLAT) | N/A |
+| 9 | [Joanne hayes](http://twitter.com/search?q=Joanne+hayes) | N/A |
+| 10 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [Irish Cancer Society](http://twitter.com/search?q=Irish+Cancer+Society) | N/A |
+| 15 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
 | 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
-| 18 | [Irish Cancer Society](http://twitter.com/search?q=Irish+Cancer+Society) | N/A |
-| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 20 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 21 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
-| 22 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 23 | [Annie McCarrick](http://twitter.com/search?q=Annie+McCarrick) | N/A |
-| 24 | [phillips](http://twitter.com/search?q=phillips) | N/A |
+| 17 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 19 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 21 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 22 | [Annie McCarrick](http://twitter.com/search?q=Annie+McCarrick) | N/A |
+| 23 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
+| 24 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 25 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 26 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 27 | [baby john](http://twitter.com/search?q=baby+john) | N/A |
-| 28 | [alanna](http://twitter.com/search?q=alanna) | N/A |
-| 29 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 30 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 27 | [Baby John](http://twitter.com/search?q=Baby+John) | N/A |
+| 28 | [Alanna](http://twitter.com/search?q=Alanna) | N/A |
+| 29 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 31 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 33 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
 | 34 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 35 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 36 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 36 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 37 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
 | 38 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
-| 39 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 40 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 41 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 42 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 39 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 40 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 42 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 43 | [Browne](http://twitter.com/search?q=Browne) | N/A |
-| 44 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 46 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 46 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
 | 47 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 48 | [keano](http://twitter.com/search?q=keano) | N/A |
-| 49 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 50 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
+| 48 | [Keano](http://twitter.com/search?q=Keano) | N/A |
+| 49 | [holly cairns](http://twitter.com/search?q=holly+cairns) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 
