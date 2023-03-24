@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-24 00:28:05 UTC`
+📆 Last Updated: `2023-03-24 01:43:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 1 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 2 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
 | 3 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 4 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 5 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 6 | [Ontarians](http://twitter.com/search?q=Ontarians) | N/A |
-| 7 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 10 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 11 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 14 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 15 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 16 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 17 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 18 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 19 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 20 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 21 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
-| 22 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 23 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 24 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
-| 25 | [#Bruins](http://twitter.com/search?q=%23Bruins) | N/A |
-| 26 | [Thunder Bay](http://twitter.com/search?q=Thunder+Bay) | N/A |
-| 27 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 28 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 29 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 30 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 34 | [England](http://twitter.com/search?q=England) | N/A |
-| 35 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 36 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 39 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
-| 40 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 41 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 42 | [Lane Hutson](http://twitter.com/search?q=Lane+Hutson) | N/A |
-| 43 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 44 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 45 | [McGill](http://twitter.com/search?q=McGill) | N/A |
-| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 47 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 48 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 49 | [#ONBudget2023](http://twitter.com/search?q=%23ONBudget2023) | N/A |
-| 50 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 5 | [England](http://twitter.com/search?q=England) | N/A |
+| 6 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 7 | [Ontarians](http://twitter.com/search?q=Ontarians) | N/A |
+| 8 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 9 | [Markquis Nowell](http://twitter.com/search?q=Markquis+Nowell) | N/A |
+| 10 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 11 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 12 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 13 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 14 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 15 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [Branny](http://twitter.com/search?q=Branny) | N/A |
+| 18 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 19 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 20 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 22 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 25 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
+| 26 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
+| 27 | [#TORvsFLA](http://twitter.com/search?q=%23TORvsFLA) | N/A |
+| 28 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 29 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 30 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 31 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 32 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 33 | [Auston](http://twitter.com/search?q=Auston) | N/A |
+| 34 | [Xhekaj](http://twitter.com/search?q=Xhekaj) | N/A |
+| 35 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 36 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 37 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 38 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 39 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 40 | [Thunder Bay](http://twitter.com/search?q=Thunder+Bay) | N/A |
+| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 42 | [Provorov](http://twitter.com/search?q=Provorov) | Provorov is a Russian surname. It is derived from the word "provorovat," which means "to pass through." In English, it can be translated to mean "one who passes through." |
+| 43 | [Renee](http://twitter.com/search?q=Renee) | N/A |
+| 44 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 45 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 46 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 47 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 48 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 49 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 50 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
 
 
 

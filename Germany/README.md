@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-24 00:28:54 UTC`
+📆 Last Updated: `2023-03-24 01:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Germany
 | 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 5 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 6 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 7 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 8 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 9 | [#Kretschmer](http://twitter.com/search?q=%23Kretschmer) | N/A |
-| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 14 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 15 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 16 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 17 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 18 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 19 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 20 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 21 | [Ablöse](http://twitter.com/search?q=Abl%c3%b6se) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 24 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 6 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 7 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 8 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 11 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
+| 12 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 13 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 15 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 16 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 17 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 18 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 19 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 22 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 23 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 24 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
 | 25 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 26 | [Pokal](http://twitter.com/search?q=Pokal) | N/A |
-| 27 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 28 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 29 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 30 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 31 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
-| 32 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
-| 33 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 26 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 27 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 28 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 29 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 30 | [Jupp Heynckes](http://twitter.com/search?q=Jupp+Heynckes) | N/A |
+| 31 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 32 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 33 | [Titel](http://twitter.com/search?q=Titel) | N/A |
 | 34 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
-| 35 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
-| 36 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 37 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 38 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 39 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 40 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 43 | [Jupp Heynckes](http://twitter.com/search?q=Jupp+Heynckes) | N/A |
-| 44 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 45 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 46 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 47 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 49 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 50 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 35 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
+| 38 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 39 | [Watzke](http://twitter.com/search?q=Watzke) | N/A |
+| 40 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 41 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 42 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 43 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 44 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 45 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 46 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 47 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 48 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 49 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 50 | [testspiel](http://twitter.com/search?q=testspiel) | N/A |
 
 
 

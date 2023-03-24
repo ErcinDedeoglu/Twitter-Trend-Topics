@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-24 00:28:16 UTC`
+📆 Last Updated: `2023-03-24 01:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
-| 2 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 3 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 4 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
-| 5 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 6 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 7 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 8 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 9 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
-| 10 | [mc lan](http://twitter.com/search?q=mc+lan) | N/A |
-| 11 | [Radiohead](http://twitter.com/search?q=Radiohead) | N/A |
-| 12 | [Impeachment](http://twitter.com/search?q=Impeachment) | N/A |
-| 13 | [Sindicato](http://twitter.com/search?q=Sindicato) | N/A |
-| 14 | [Dilmo](http://twitter.com/search?q=Dilmo) | N/A |
-| 15 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
-| 16 | [#ProgramaDoBT](http://twitter.com/search?q=%23ProgramaDoBT) | N/A |
-| 17 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 18 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [IDENTIDADE](http://twitter.com/search?q=IDENTIDADE) | N/A |
-| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 24 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 25 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 26 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 27 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 28 | [PEPITA NO PODDELAS](http://twitter.com/search?q=PEPITA+NO+PODDELAS) | N/A |
-| 29 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 30 | [MINHA VEZ](http://twitter.com/search?q=MINHA+VEZ) | N/A |
-| 31 | [Simas](http://twitter.com/search?q=Simas) | N/A |
-| 32 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 33 | [LANA DEL REY IS COMING](http://twitter.com/search?q=LANA+DEL+REY+IS+COMING) | N/A |
-| 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 35 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 36 | [LUD VILÃ NO LOLLA BR COM BUD](http://twitter.com/search?q=LUD+VIL%c3%83+NO+LOLLA+BR+COM+BUD) | N/A |
-| 37 | [Ervilha](http://twitter.com/search?q=Ervilha) | N/A |
-| 38 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 39 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
-| 40 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 41 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 42 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
-| 43 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 44 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 45 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 46 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
-| 47 | [Gabriel Davis](http://twitter.com/search?q=Gabriel+Davis) | N/A |
-| 48 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 49 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 50 | [Castanhari](http://twitter.com/search?q=Castanhari) | N/A |
+| 2 | [Nojo](http://twitter.com/search?q=Nojo) | N/A |
+| 3 | [Luly](http://twitter.com/search?q=Luly) | N/A |
+| 4 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
+| 5 | [wagner moura](http://twitter.com/search?q=wagner+moura) | N/A |
+| 6 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 7 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 8 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
+| 9 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 10 | [Dilmo](http://twitter.com/search?q=Dilmo) | N/A |
+| 11 | [Tarcisio](http://twitter.com/search?q=Tarcisio) | N/A |
+| 12 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 13 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 14 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 15 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 16 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 17 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [mc lan](http://twitter.com/search?q=mc+lan) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 22 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 23 | [#ProgramaDoBT](http://twitter.com/search?q=%23ProgramaDoBT) | N/A |
+| 24 | [IDENTIDADE](http://twitter.com/search?q=IDENTIDADE) | N/A |
+| 25 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
+| 26 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
+| 27 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 28 | [OUÇA OI ERRO](http://twitter.com/search?q=OU%c3%87A+OI+ERRO) | N/A |
+| 29 | [LANA DEL REY IS COMING](http://twitter.com/search?q=LANA+DEL+REY+IS+COMING) | N/A |
+| 30 | [#LudmillaVilã](http://twitter.com/search?q=%23LudmillaVil%c3%a3) | N/A |
+| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 33 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 34 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 35 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 36 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 37 | [Gol 800](http://twitter.com/search?q=Gol+800) | N/A |
+| 38 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
+| 39 | [800 GOLS](http://twitter.com/search?q=800+GOLS) | N/A |
+| 40 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 41 | [LANA IS COMING](http://twitter.com/search?q=LANA+IS+COMING) | N/A |
+| 42 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 43 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
+| 44 | [Beckett](http://twitter.com/search?q=Beckett) | N/A |
+| 45 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 46 | [ONZE ANOS DE JOGOS VORAZES](http://twitter.com/search?q=ONZE+ANOS+DE+JOGOS+VORAZES) | N/A |
+| 47 | [Solimões](http://twitter.com/search?q=Solim%c3%b5es) | N/A |
+| 48 | [PEPITA NO PODDELAS](http://twitter.com/search?q=PEPITA+NO+PODDELAS) | N/A |
+| 49 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 50 | [felca](http://twitter.com/search?q=felca) | N/A |
 
 
 

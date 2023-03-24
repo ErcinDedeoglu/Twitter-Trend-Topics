@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-24 00:28:45 UTC`
+📆 Last Updated: `2023-03-24 01:44:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 2 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 3 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 4 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 5 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 6 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 7 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 8 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 9 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 11 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 12 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 13 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 14 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
-| 15 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 16 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 17 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 18 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 22 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 23 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 25 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 26 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 27 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 31 | [#HalfwayThere](http://twitter.com/search?q=%23HalfwayThere) | N/A |
-| 32 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
-| 33 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 34 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 35 | [DJ Envy](http://twitter.com/search?q=DJ+Envy) | N/A |
-| 36 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 37 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 38 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 39 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
-| 40 | [John Daly](http://twitter.com/search?q=John+Daly) | N/A |
-| 41 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 42 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
-| 43 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 44 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 45 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
-| 46 | [Nutty Buddy](http://twitter.com/search?q=Nutty+Buddy) | N/A |
-| 47 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
-| 48 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
-| 49 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 50 | [Babbitt](http://twitter.com/search?q=Babbitt) | N/A |
+| 1 | [Wildcats](http://twitter.com/search?q=Wildcats) | N/A |
+| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 3 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
+| 4 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 7 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 8 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 9 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 10 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 11 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 12 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 13 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 14 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
+| 15 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
+| 16 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 17 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 18 | [#MSUvsKSU](http://twitter.com/search?q=%23MSUvsKSU) | N/A |
+| 19 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 24 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 25 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 26 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 27 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 28 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 29 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 30 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 31 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 32 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 33 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 34 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 35 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
+| 36 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 37 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 38 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 39 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
+| 40 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 41 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 42 | [Massoud](http://twitter.com/search?q=Massoud) | N/A |
+| 43 | [Musselman](http://twitter.com/search?q=Musselman) | N/A |
+| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 46 | [DJ Envy](http://twitter.com/search?q=DJ+Envy) | N/A |
+| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 48 | [Garden](http://twitter.com/search?q=Garden) | N/A |
+| 49 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 50 | [Carina](http://twitter.com/search?q=Carina) | N/A |
 
 
 

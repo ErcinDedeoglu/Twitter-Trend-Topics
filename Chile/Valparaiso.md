@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-24 00:28:12 UTC`
+📆 Last Updated: `2023-03-24 01:43:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 2 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
 | 3 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
-| 4 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 5 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 6 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 7 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 8 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 9 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 10 | [#tstxtntsports](http://twitter.com/search?q=%23tstxtntsports) | N/A |
-| 11 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 12 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
-| 13 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 14 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 15 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 16 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 4 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 5 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 6 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
+| 9 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 10 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 11 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 12 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 13 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 14 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 15 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
+| 16 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
 | 17 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 20 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 21 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 24 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 25 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
-| 26 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 27 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 28 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 29 | [VISTIMA](http://twitter.com/search?q=VISTIMA) | N/A |
-| 30 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 31 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 19 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 22 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 23 | [Deportes Colina](http://twitter.com/search?q=Deportes+Colina) | N/A |
+| 24 | [#elnomatinalderadiozeta](http://twitter.com/search?q=%23elnomatinalderadiozeta) | N/A |
+| 25 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 26 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 27 | [Vistima](http://twitter.com/search?q=Vistima) | N/A |
+| 28 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 29 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
+| 30 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 31 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 32 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
+| 33 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 | 34 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 35 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 35 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
 | 36 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 37 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 38 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 39 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 40 | [Chahuan](http://twitter.com/search?q=Chahuan) | N/A |
-| 41 | [Johannes Kaiser](http://twitter.com/search?q=Johannes+Kaiser) | N/A |
-| 42 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 43 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
-| 44 | [Ley del Mono](http://twitter.com/search?q=Ley+del+Mono) | N/A |
-| 45 | [Matías Fernández](http://twitter.com/search?q=Mat%c3%adas+Fern%c3%a1ndez) | N/A |
-| 46 | [Renovación Nacional](http://twitter.com/search?q=Renovaci%c3%b3n+Nacional) | N/A |
-| 47 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 48 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
-| 49 | [Negacionismo](http://twitter.com/search?q=Negacionismo) | N/A |
+| 37 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 38 | [Johannes Kaiser](http://twitter.com/search?q=Johannes+Kaiser) | N/A |
+| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 40 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 41 | [Chahuan](http://twitter.com/search?q=Chahuan) | N/A |
+| 42 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 43 | [Renovación Nacional](http://twitter.com/search?q=Renovaci%c3%b3n+Nacional) | N/A |
+| 44 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 45 | [Tocopilla](http://twitter.com/search?q=Tocopilla) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 48 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 49 | [Ley del Mono](http://twitter.com/search?q=Ley+del+Mono) | N/A |
 
 
 

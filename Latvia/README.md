@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-24 00:28:56 UTC`
+📆 Last Updated: `2023-03-24 01:44:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 2 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 3 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
-| 4 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 5 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
-| 6 | [#ЕВРО2024](http://twitter.com/search?q=%23%d0%95%d0%92%d0%a0%d0%9e2024) | N/A |
-| 7 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
-| 8 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
-| 9 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 10 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 11 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 12 | [Šajā](http://twitter.com/search?q=%c5%a0aj%c4%81) | N/A |
+| 1 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 2 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
+| 3 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 4 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
+| 5 | [#ЕВРО2024](http://twitter.com/search?q=%23%d0%95%d0%92%d0%a0%d0%9e2024) | N/A |
+| 6 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 7 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 8 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 9 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 10 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 11 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
+| 12 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
 | 13 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 14 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | N/A |
 | 15 | [ķīnai](http://twitter.com/search?q=%c4%b7%c4%abnai) | N/A |
@@ -35,18 +35,18 @@ This is top 50 for Latvia
 | 18 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 19 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 20 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
-| 21 | [Ķīnu](http://twitter.com/search?q=%c4%b6%c4%abnu) | N/A |
+| 21 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
 | 22 | [Lietuvā](http://twitter.com/search?q=Lietuv%c4%81) | N/A |
 | 23 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 24 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 25 | [Nevajag](http://twitter.com/search?q=Nevajag) | N/A |
+| 25 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
 | 26 | [dievs](http://twitter.com/search?q=dievs) | N/A |
 | 27 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 28 | [cēsu](http://twitter.com/search?q=c%c4%93su) | N/A |
 | 29 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
 | 30 | [starp](http://twitter.com/search?q=starp) | N/A |
 | 31 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 32 | [Šitais](http://twitter.com/search?q=%c5%a0itais) | N/A |
+| 32 | [šitais](http://twitter.com/search?q=%c5%a1itais) | N/A |
 | 33 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
 | 34 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 35 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |

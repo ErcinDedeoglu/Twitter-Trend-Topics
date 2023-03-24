@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-24 00:29:00 UTC`
+📆 Last Updated: `2023-03-24 01:44:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Venezuela
 | ------- | ------------ | ------------ |
 | 1 | [#23Mar](http://twitter.com/search?q=%2323Mar) | N/A |
 | 2 | [#NiCorrupciónNiPrivatización](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiPrivatizaci%c3%b3n) | N/A |
-| 3 | [#EsSaqueoNoBloqueo](http://twitter.com/search?q=%23EsSaqueoNoBloqueo) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 6 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
-| 7 | [#NoEsBloqueoEsSaqueo](http://twitter.com/search?q=%23NoEsBloqueoEsSaqueo) | N/A |
-| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 11 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
-| 12 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [#EsSaqueoNoBloqueo](http://twitter.com/search?q=%23EsSaqueoNoBloqueo) | N/A |
+| 5 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 6 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 7 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
+| 8 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 9 | [#NoEsBloqueoEsSaqueo](http://twitter.com/search?q=%23NoEsBloqueoEsSaqueo) | N/A |
+| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
 | 14 | [Vicente Salias](http://twitter.com/search?q=Vicente+Salias) | N/A |
-| 15 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
-| 16 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 17 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 18 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 19 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
-| 20 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 21 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 22 | [Banco Mercantil](http://twitter.com/search?q=Banco+Mercantil) | N/A |
+| 15 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
+| 16 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 17 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 18 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 19 | [Mercantil](http://twitter.com/search?q=Mercantil) | N/A |
+| 20 | [Chony Fuentes](http://twitter.com/search?q=Chony+Fuentes) | N/A |
+| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [himno nacional de venezuela](http://twitter.com/search?q=himno+nacional+de+venezuela) | N/A |
 | 23 | [Día Mundial del Agua](http://twitter.com/search?q=D%c3%ada+Mundial+del+Agua) | N/A |
-| 24 | [himno nacional de venezuela](http://twitter.com/search?q=himno+nacional+de+venezuela) | N/A |
+| 24 | [bravo pueblo](http://twitter.com/search?q=bravo+pueblo) | N/A |
 | 25 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
-| 26 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 26 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
 | 27 | [Baudilio Díaz](http://twitter.com/search?q=Baudilio+D%c3%adaz) | N/A |
-| 28 | [bravo pueblo](http://twitter.com/search?q=bravo+pueblo) | N/A |
-| 29 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
+| 28 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 29 | [Ricardo Montaner](http://twitter.com/search?q=Ricardo+Montaner) | N/A |
 | 30 | [Henry Salvat](http://twitter.com/search?q=Henry+Salvat) | N/A |
-| 31 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 32 | [Venezuela y Colombia](http://twitter.com/search?q=Venezuela+y+Colombia) | N/A |
-| 33 | [Betulio González](http://twitter.com/search?q=Betulio+Gonz%c3%a1lez) | N/A |
+| 31 | [Betulio González](http://twitter.com/search?q=Betulio+Gonz%c3%a1lez) | N/A |
+| 32 | [Día Meteorológico Mundial](http://twitter.com/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial) | N/A |
+| 33 | [Universidad de Carabobo](http://twitter.com/search?q=Universidad+de+Carabobo) | N/A |
 | 34 | [Katherine Haringhton](http://twitter.com/search?q=Katherine+Haringhton) | N/A |
-| 35 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 36 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
-| 37 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 38 | [Ricardo Montaner](http://twitter.com/search?q=Ricardo+Montaner) | N/A |
-| 39 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 35 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 36 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 37 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 38 | [Seguros y Valores](http://twitter.com/search?q=Seguros+y+Valores) | N/A |
+| 39 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
 | 40 | [Román Maniglia](http://twitter.com/search?q=Rom%c3%a1n+Maniglia) | N/A |
-| 41 | [Todex](http://twitter.com/search?q=Todex) | N/A |
-| 42 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 43 | [Economía Digital](http://twitter.com/search?q=Econom%c3%ada+Digital) | N/A |
-| 44 | [Don Fulgencio](http://twitter.com/search?q=Don+Fulgencio) | N/A |
-| 45 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 46 | [antonio guzmán blanco](http://twitter.com/search?q=antonio+guzm%c3%a1n+blanco) | N/A |
-| 47 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 50 | [Mare Abajo](http://twitter.com/search?q=Mare+Abajo) | N/A |
+| 41 | [Antonio Guzmán Blanco](http://twitter.com/search?q=Antonio+Guzm%c3%a1n+Blanco) | N/A |
+| 42 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
+| 43 | [Carmen Victoria Pérez](http://twitter.com/search?q=Carmen+Victoria+P%c3%a9rez) | N/A |
+| 44 | [Mare Abajo](http://twitter.com/search?q=Mare+Abajo) | N/A |
+| 45 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 46 | [El 23](http://twitter.com/search?q=El+23) | N/A |
+| 47 | [Richard Gómez](http://twitter.com/search?q=Richard+G%c3%b3mez) | N/A |
+| 48 | [Olivia Newton John](http://twitter.com/search?q=Olivia+Newton+John) | N/A |
+| 49 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 50 | [Pedro Tellechea](http://twitter.com/search?q=Pedro+Tellechea) | N/A |
 
 
 
