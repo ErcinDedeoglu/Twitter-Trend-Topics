@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-24 21:17:20 UTC`
+📆 Last Updated: `2023-03-24 22:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,37 +32,37 @@ This is top 50 for [Philippines](</Philippines>)
 | 15 | [sb19 ginalaw na ang baso](http://twitter.com/search?q=sb19+ginalaw+na+ang+baso) | N/A |
 | 16 | [let the kabag begin](http://twitter.com/search?q=let+the+kabag+begin) | N/A |
 | 17 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
-| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 19 | [seham as ashley](http://twitter.com/search?q=seham+as+ashley) | N/A |
-| 20 | [dazzling star mina](http://twitter.com/search?q=dazzling+star+mina) | N/A |
-| 21 | [VXON SAM COMEBACK TEASER](http://twitter.com/search?q=VXON+SAM+COMEBACK+TEASER) | N/A |
-| 22 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 18 | [seham as ashley](http://twitter.com/search?q=seham+as+ashley) | N/A |
+| 19 | [dazzling star mina](http://twitter.com/search?q=dazzling+star+mina) | N/A |
+| 20 | [vxon sam comeback teaser](http://twitter.com/search?q=vxon+sam+comeback+teaser) | N/A |
+| 21 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 23 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
-| 24 | [bobby comeback stage](http://twitter.com/search?q=bobby+comeback+stage) | N/A |
-| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 26 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 27 | [roomantic26ether ralphgail](http://twitter.com/search?q=roomantic26ether+ralphgail) | N/A |
-| 28 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
+| 24 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 25 | [bobby comeback stage](http://twitter.com/search?q=bobby+comeback+stage) | N/A |
+| 26 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 27 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 28 | [roomantic26ether ralphgail](http://twitter.com/search?q=roomantic26ether+ralphgail) | N/A |
 | 29 | [vinster amongst us](http://twitter.com/search?q=vinster+amongst+us) | N/A |
 | 30 | [josh crushing on mandy](http://twitter.com/search?q=josh+crushing+on+mandy) | N/A |
-| 31 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
-| 32 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 33 | [ANG GANDA NG MOON](http://twitter.com/search?q=ANG+GANDA+NG+MOON) | N/A |
-| 34 | [JACK CAYANAN ON NETFLIX](http://twitter.com/search?q=JACK+CAYANAN+ON+NETFLIX) | N/A |
-| 35 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 31 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 32 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
+| 33 | [ang ganda ng moon](http://twitter.com/search?q=ang+ganda+ng+moon) | N/A |
+| 34 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
+| 35 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
 | 36 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
 | 37 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 38 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 39 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
-| 40 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 41 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 38 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 39 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 40 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 41 | [Hanteo](http://twitter.com/search?q=Hanteo) | N/A |
 | 42 | [SeKen](http://twitter.com/search?q=SeKen) | N/A |
-| 43 | [MY SKZ](http://twitter.com/search?q=MY+SKZ) | N/A |
-| 44 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 45 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
-| 46 | [Ganto](http://twitter.com/search?q=Ganto) | N/A |
-| 47 | [Pins](http://twitter.com/search?q=Pins) | N/A |
-| 48 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 43 | [Kijoring](http://twitter.com/search?q=Kijoring) | N/A |
+| 44 | [Azkals](http://twitter.com/search?q=Azkals) | N/A |
+| 45 | [MY SKZ](http://twitter.com/search?q=MY+SKZ) | N/A |
+| 46 | [Palayo](http://twitter.com/search?q=Palayo) | N/A |
+| 47 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
+| 48 | [Ganto](http://twitter.com/search?q=Ganto) | N/A |
 
 
 

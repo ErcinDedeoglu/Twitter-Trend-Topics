@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-24 21:17:08 UTC`
+📆 Last Updated: `2023-03-24 22:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 2 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 4 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
+| 1 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
+| 3 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
+| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 5 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 8 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 10 | [Timon](http://twitter.com/search?q=Timon) | N/A |
-| 11 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 12 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 14 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
-| 15 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 16 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 17 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 18 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 19 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 20 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 21 | [Llambi](http://twitter.com/search?q=Llambi) | N/A |
-| 22 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 23 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 24 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 25 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 28 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 29 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 32 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 33 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 34 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
-| 35 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
-| 36 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
-| 37 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 38 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 7 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 9 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 11 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 12 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 13 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 14 | [Zsolt](http://twitter.com/search?q=Zsolt) | N/A |
+| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 16 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
+| 17 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
+| 18 | [Contemporary](http://twitter.com/search?q=Contemporary) | N/A |
+| 19 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 20 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 21 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 22 | [Llambi](http://twitter.com/search?q=Llambi) | N/A |
+| 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 24 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 25 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 26 | [Timon](http://twitter.com/search?q=Timon) | N/A |
+| 27 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 28 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 31 | [Frauenrat](http://twitter.com/search?q=Frauenrat) | N/A |
+| 32 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 33 | [Haie](http://twitter.com/search?q=Haie) | N/A |
+| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 35 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
+| 36 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 37 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 38 | [Sally](http://twitter.com/search?q=Sally) | N/A |
 | 39 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 40 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
-| 41 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 42 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 43 | [Elfe](http://twitter.com/search?q=Elfe) | N/A |
+| 40 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 41 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 42 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 43 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
 | 44 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 45 | [Frauenrat](http://twitter.com/search?q=Frauenrat) | N/A |
-| 46 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 47 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 48 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 49 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 45 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 46 | [Elfe](http://twitter.com/search?q=Elfe) | N/A |
+| 47 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 48 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 49 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
 
 
 

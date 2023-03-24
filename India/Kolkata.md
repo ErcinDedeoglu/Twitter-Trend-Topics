@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-03-24 21:17:28 UTC`
+📆 Last Updated: `2023-03-24 22:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,45 @@ This is top 50 for [India](</India>)
 | 1 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 2 | [Modi](http://twitter.com/search?q=Modi) | N/A |
 | 3 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 4 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
-| 5 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
-| 6 | [#TeluguWarriors](http://twitter.com/search?q=%23TeluguWarriors) | N/A |
+| 4 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
+| 5 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
+| 6 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
 | 7 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
-| 8 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 8 | [#TeluguWarriors](http://twitter.com/search?q=%23TeluguWarriors) | N/A |
 | 9 | [#PraTejRan](http://twitter.com/search?q=%23PraTejRan) | N/A |
 | 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
+| 11 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
+| 12 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 13 | [Shelley N](http://twitter.com/search?q=Shelley+N) | N/A |
-| 14 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 15 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
-| 16 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 17 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 18 | [Accused](http://twitter.com/search?q=Accused) | N/A |
-| 19 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 20 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 21 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 22 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
-| 23 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 24 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 25 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 26 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 27 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 28 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
-| 29 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 30 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
-| 31 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 32 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
-| 33 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 34 | [Mother of Democracy](http://twitter.com/search?q=Mother+of+Democracy) | N/A |
-| 35 | [काले विपरीत बुद्धि](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%b5%e0%a4%bf%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%bf) | N/A |
-| 36 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
-| 37 | [The BJP](http://twitter.com/search?q=The+BJP) | N/A |
-| 38 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
-| 39 | [#BlackDayForDemocracy](http://twitter.com/search?q=%23BlackDayForDemocracy) | N/A |
-| 40 | [#venus](http://twitter.com/search?q=%23venus) | N/A |
-| 41 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
-| 42 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
-| 43 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 44 | [#1YearOfHistoricalRRR](http://twitter.com/search?q=%231YearOfHistoricalRRR) | N/A |
-| 45 | [#KarnatakaBulldozers](http://twitter.com/search?q=%23KarnatakaBulldozers) | N/A |
-| 46 | [#BHStyleIcons](http://twitter.com/search?q=%23BHStyleIcons) | N/A |
-| 47 | [#Balagam](http://twitter.com/search?q=%23Balagam) | N/A |
-| 48 | [#Thaman](http://twitter.com/search?q=%23Thaman) | N/A |
-| 49 | [#HanteoCorrupt](http://twitter.com/search?q=%23HanteoCorrupt) | N/A |
-| 50 | [#UPWvMI](http://twitter.com/search?q=%23UPWvMI) | N/A |
+| 14 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 16 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
+| 17 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 18 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 19 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
+| 20 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 21 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
+| 22 | [#BlackDayForDemocracy](http://twitter.com/search?q=%23BlackDayForDemocracy) | N/A |
+| 23 | [#venus](http://twitter.com/search?q=%23venus) | N/A |
+| 24 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 25 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 26 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
+| 27 | [#1YearOfHistoricalRRR](http://twitter.com/search?q=%231YearOfHistoricalRRR) | N/A |
+| 28 | [#BHStyleIcons](http://twitter.com/search?q=%23BHStyleIcons) | N/A |
+| 29 | [#KarnatakaBulldozers](http://twitter.com/search?q=%23KarnatakaBulldozers) | N/A |
+| 30 | [#ChorNikalKeBhaga](http://twitter.com/search?q=%23ChorNikalKeBhaga) | N/A |
+| 31 | [#Balagam](http://twitter.com/search?q=%23Balagam) | N/A |
+| 32 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
+| 33 | [#HanteoCorrupt](http://twitter.com/search?q=%23HanteoCorrupt) | N/A |
+| 34 | [#UPWvMI](http://twitter.com/search?q=%23UPWvMI) | N/A |
+| 35 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 36 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 37 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 38 | [#RaGa](http://twitter.com/search?q=%23RaGa) | N/A |
+| 39 | [#DelhiRains](http://twitter.com/search?q=%23DelhiRains) | N/A |
+| 40 | [#BIGBREAKING](http://twitter.com/search?q=%23BIGBREAKING) | N/A |
+| 41 | [#TejRanFam](http://twitter.com/search?q=%23TejRanFam) | N/A |
+| 42 | [#Agent](http://twitter.com/search?q=%23Agent) | N/A |
 
 
 

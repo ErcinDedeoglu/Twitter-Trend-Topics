@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-24 21:17:41 UTC`
+📆 Last Updated: `2023-03-24 22:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,12 +34,13 @@ This is top 50 for Belarus
 | 17 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 | 18 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
 | 19 | [минской](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 20 | [Польшу](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
-| 21 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 22 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 23 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 24 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 20 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | N/A |
+| 21 | [Польшу](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
+| 22 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 23 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 24 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
 | 25 | [#AIart](http://twitter.com/search?q=%23AIart) | N/A |
+| 26 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-24 21:17:34 UTC`
+📆 Last Updated: `2023-03-24 22:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 2 | [#mcfc2023](http://twitter.com/search?q=%23mcfc2023) | N/A |
+| 1 | [#mcfc2023](http://twitter.com/search?q=%23mcfc2023) | N/A |
+| 2 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
 | 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 4 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 5 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 5 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
 | 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 7 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 9 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 10 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 11 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 12 | [Lady Canes](http://twitter.com/search?q=Lady+Canes) | N/A |
-| 13 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 14 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
-| 15 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 16 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 17 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 21 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
-| 22 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 23 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 25 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 26 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 27 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 28 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 29 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 30 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 31 | [Jasmyne Roberts](http://twitter.com/search?q=Jasmyne+Roberts) | N/A |
-| 32 | [Swaggerty](http://twitter.com/search?q=Swaggerty) | N/A |
-| 33 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 34 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 35 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 8 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 10 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 11 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 12 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 13 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 14 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 15 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 16 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 17 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 18 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 19 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 20 | [Muteace](http://twitter.com/search?q=Muteace) | Muteace is a Japanese term that literally translates to "silence". It is used to describe a situation in which people remain silent or do not speak out, often due to fear or social pressure. |
+| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 22 | [Lady Canes](http://twitter.com/search?q=Lady+Canes) | N/A |
+| 23 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 24 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
+| 25 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 26 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 27 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 28 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 29 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 30 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
+| 31 | [Reese Witherspoon](http://twitter.com/search?q=Reese+Witherspoon) | N/A |
+| 32 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 33 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
+| 34 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 35 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
 | 36 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 37 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
-| 38 | [Poki](http://twitter.com/search?q=Poki) | N/A |
-| 39 | [ApolloKage](http://twitter.com/search?q=ApolloKage) | N/A |
-| 40 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
-| 41 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
-| 42 | [Muteace](http://twitter.com/search?q=Muteace) | Muteace is a Japanese term that literally translates to "silence". It is used to describe a situation in which people remain silent or do not speak out, often due to fear or social pressure. |
-| 43 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
-| 44 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
-| 45 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
-| 46 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 47 | [OTA Offseason Workouts](http://twitter.com/search?q=OTA+Offseason+Workouts) | N/A |
-| 48 | [Reese Witherspoon](http://twitter.com/search?q=Reese+Witherspoon) | N/A |
-| 49 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
+| 37 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 38 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 39 | [Jasmyne Roberts](http://twitter.com/search?q=Jasmyne+Roberts) | N/A |
+| 40 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 41 | [5000 Taliban](http://twitter.com/search?q=5000+Taliban) | N/A |
+| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 43 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 44 | [Raven Clark](http://twitter.com/search?q=Raven+Clark) | N/A |
+| 45 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 46 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 47 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 48 | [Alvin](http://twitter.com/search?q=Alvin) | N/A |
+| 49 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
 
 
 

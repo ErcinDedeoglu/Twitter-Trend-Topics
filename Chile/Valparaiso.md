@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-24 21:17:01 UTC`
+📆 Last Updated: `2023-03-24 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Chile](</Chile>)
 | 3 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
 | 4 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
 | 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 6 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 7 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
+| 6 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
+| 7 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 8 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
 | 9 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 10 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 10 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
 | 11 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 12 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 13 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 14 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 12 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 13 | [Paula Pavic](http://twitter.com/search?q=Paula+Pavic) | N/A |
+| 14 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 15 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
 | 16 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
 | 17 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 18 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 19 | [Paula Pavic](http://twitter.com/search?q=Paula+Pavic) | N/A |
-| 20 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 18 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 19 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 20 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
 | 21 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 22 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 23 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 24 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 25 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 26 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 27 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
-| 28 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
-| 29 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 30 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 31 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 32 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
-| 33 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 34 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
-| 35 | [Rojo Edwards](http://twitter.com/search?q=Rojo+Edwards) | N/A |
-| 36 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
-| 37 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
-| 38 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 23 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
+| 24 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 25 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 26 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 27 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 28 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 29 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 30 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
+| 31 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
+| 32 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 33 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 34 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
+| 35 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
+| 36 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
+| 37 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
+| 38 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 39 | [Rojo Edwards](http://twitter.com/search?q=Rojo+Edwards) | N/A |
 | 40 | [Dante Poli](http://twitter.com/search?q=Dante+Poli) | N/A |
-| 41 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
-| 42 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
-| 43 | [Renovación Nacional](http://twitter.com/search?q=Renovaci%c3%b3n+Nacional) | N/A |
-| 44 | [Generación Dorada](http://twitter.com/search?q=Generaci%c3%b3n+Dorada) | N/A |
-| 45 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
-| 46 | [Memento Mori](http://twitter.com/search?q=Memento+Mori) | N/A |
-| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 48 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
+| 41 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 42 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 43 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
+| 44 | [Memento Mori](http://twitter.com/search?q=Memento+Mori) | N/A |
+| 45 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 47 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 48 | [Ferrada](http://twitter.com/search?q=Ferrada) | N/A |
 
 
 

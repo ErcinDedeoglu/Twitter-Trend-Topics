@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-24 21:17:09 UTC`
+📆 Last Updated: `2023-03-24 22:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,48 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 2 | [#veritaegiustiziapergiulio](http://twitter.com/search?q=%23veritaegiustiziapergiulio) | N/A |
-| 3 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
-| 4 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
-| 5 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 6 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 7 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 8 | [ANTIFASCISTI](http://twitter.com/search?q=ANTIFASCISTI) | N/A |
-| 9 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 12 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
-| 13 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 14 | [Giacomo](http://twitter.com/search?q=Giacomo) | N/A |
-| 15 | [Ornella](http://twitter.com/search?q=Ornella) | N/A |
-| 16 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 17 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 18 | [Conad](http://twitter.com/search?q=Conad) | N/A |
-| 19 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 20 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
-| 21 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 22 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 23 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 24 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
-| 25 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
-| 26 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
-| 27 | [#FranciaOlanda](http://twitter.com/search?q=%23FranciaOlanda) | N/A |
-| 28 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 29 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 30 | [#EurolegaTipo](http://twitter.com/search?q=%23EurolegaTipo) | N/A |
-| 31 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 32 | [#Sallusti](http://twitter.com/search?q=%23Sallusti) | N/A |
-| 33 | [#imieiocchi](http://twitter.com/search?q=%23imieiocchi) | N/A |
-| 34 | [#David](http://twitter.com/search?q=%23David) | N/A |
-| 35 | [#tortura](http://twitter.com/search?q=%23tortura) | N/A |
-| 36 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 37 | [#DilettaLeotta](http://twitter.com/search?q=%23DilettaLeotta) | N/A |
-| 38 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 39 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 40 | [#DeutscheBank](http://twitter.com/search?q=%23DeutscheBank) | N/A |
-| 41 | [#Lollobrigida](http://twitter.com/search?q=%23Lollobrigida) | N/A |
-| 42 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 43 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 44 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 45 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 46 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 2 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
+| 3 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 4 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 5 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 6 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
+| 7 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 8 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 9 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 10 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 11 | [ANTIFASCISTI](http://twitter.com/search?q=ANTIFASCISTI) | N/A |
+| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 13 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 14 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 15 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 16 | [Ornella](http://twitter.com/search?q=Ornella) | N/A |
+| 17 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 18 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
+| 19 | [Conad](http://twitter.com/search?q=Conad) | N/A |
+| 20 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
+| 21 | [#veritaegiustiziapergiulio](http://twitter.com/search?q=%23veritaegiustiziapergiulio) | N/A |
+| 22 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
+| 23 | [#FranciaOlanda](http://twitter.com/search?q=%23FranciaOlanda) | N/A |
+| 24 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 25 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
+| 26 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 27 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
+| 28 | [#EurolegaTipo](http://twitter.com/search?q=%23EurolegaTipo) | N/A |
+| 29 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 30 | [#Sallusti](http://twitter.com/search?q=%23Sallusti) | N/A |
+| 31 | [#imieiocchi](http://twitter.com/search?q=%23imieiocchi) | N/A |
+| 32 | [#David](http://twitter.com/search?q=%23David) | N/A |
+| 33 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
+| 34 | [#tortura](http://twitter.com/search?q=%23tortura) | N/A |
+| 35 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 36 | [#DilettaLeotta](http://twitter.com/search?q=%23DilettaLeotta) | N/A |
+| 37 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 38 | [#DeutscheBank](http://twitter.com/search?q=%23DeutscheBank) | N/A |
+| 39 | [#Lollobrigida](http://twitter.com/search?q=%23Lollobrigida) | N/A |
+| 40 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 41 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 42 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 43 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 
 
 

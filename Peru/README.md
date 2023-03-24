@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-24 21:17:45 UTC`
+📆 Last Updated: `2023-03-24 22:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Peru
 | 8 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 9 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 10 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
-| 11 | [Los Niños](http://twitter.com/search?q=Los+Ni%c3%b1os) | N/A |
-| 12 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 13 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
-| 14 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
-| 15 | [Ministra de la Mujer](http://twitter.com/search?q=Ministra+de+la+Mujer) | N/A |
+| 11 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 12 | [Los Niños](http://twitter.com/search?q=Los+Ni%c3%b1os) | N/A |
+| 13 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
+| 14 | [Ministra de la Mujer](http://twitter.com/search?q=Ministra+de+la+Mujer) | N/A |
+| 15 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
 | 16 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
 | 17 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
 | 18 | [Nancy Tolentino](http://twitter.com/search?q=Nancy+Tolentino) | N/A |
-| 19 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
-| 20 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 19 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 20 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
 | 21 | [PARK JIMIN SOLO DEBUT](http://twitter.com/search?q=PARK+JIMIN+SOLO+DEBUT) | N/A |
-| 22 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 22 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
 | 23 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 26 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
-| 27 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 28 | [Soncco](http://twitter.com/search?q=Soncco) | N/A |
-| 29 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 30 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 32 | [APRA](http://twitter.com/search?q=APRA) | N/A |
-| 33 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 34 | [Comisión Permanente](http://twitter.com/search?q=Comisi%c3%b3n+Permanente) | N/A |
-| 35 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 24 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 25 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [Soncco](http://twitter.com/search?q=Soncco) | N/A |
+| 28 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 29 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 31 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
+| 32 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 33 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 35 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
 | 36 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 37 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 38 | [Plaza Dos de Mayo](http://twitter.com/search?q=Plaza+Dos+de+Mayo) | N/A |
-| 39 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 40 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 37 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 38 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
+| 39 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 40 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 42 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 43 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 44 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
-| 45 | [Oriente](http://twitter.com/search?q=Oriente) | N/A |
+| 42 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 43 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 44 | [plaza Dos de Mayo](http://twitter.com/search?q=plaza+Dos+de+Mayo) | N/A |
+| 45 | [Juárez Atoche](http://twitter.com/search?q=Ju%c3%a1rez+Atoche) | N/A |
 | 46 | [Sigrid](http://twitter.com/search?q=Sigrid) | N/A |
-| 47 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 48 | [Juárez Atoche](http://twitter.com/search?q=Ju%c3%a1rez+Atoche) | N/A |
+| 47 | [Oriente](http://twitter.com/search?q=Oriente) | N/A |
+| 48 | [El APRA](http://twitter.com/search?q=El+APRA) | N/A |
 | 49 | [HAPPY MASHIHO DAY](http://twitter.com/search?q=HAPPY+MASHIHO+DAY) | N/A |
-| 50 | [parque Kennedy](http://twitter.com/search?q=parque+Kennedy) | N/A |
+| 50 | [Comisión Permanente](http://twitter.com/search?q=Comisi%c3%b3n+Permanente) | N/A |
 
 
 
