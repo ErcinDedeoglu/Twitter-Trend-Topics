@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-24 02:32:10 UTC`
+📆 Last Updated: `2023-03-24 03:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 2 | [Garden](http://twitter.com/search?q=Garden) | N/A |
-| 3 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 4 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 5 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 6 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 7 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 8 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 4 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 5 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 6 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 7 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 8 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 9 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 10 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 10 | [Magic](http://twitter.com/search?q=Magic) | N/A |
 | 11 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 12 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 13 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 14 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 15 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 16 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [warren](http://twitter.com/search?q=warren) | N/A |
-| 20 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 21 | [England](http://twitter.com/search?q=England) | N/A |
-| 22 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 23 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 25 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 26 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 27 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 28 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 29 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 30 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 31 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 32 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
-| 33 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 34 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 35 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 39 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 40 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
-| 41 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
-| 42 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 43 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
-| 44 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 45 | [#MSUvsKSU](http://twitter.com/search?q=%23MSUvsKSU) | N/A |
-| 46 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 48 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 49 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 50 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 12 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 15 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 16 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 20 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 21 | [warren](http://twitter.com/search?q=warren) | N/A |
+| 22 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 23 | [England](http://twitter.com/search?q=England) | N/A |
+| 24 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 25 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 26 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 27 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 28 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 29 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 30 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 31 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 32 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 33 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 34 | [#DMmeJonah](http://twitter.com/search?q=%23DMmeJonah) | N/A |
+| 35 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 36 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 38 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 39 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 40 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 41 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 42 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
+| 43 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 44 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 45 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
+| 48 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
+| 49 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
+| 50 | [Owls](http://twitter.com/search?q=Owls) | N/A |
 
 
 

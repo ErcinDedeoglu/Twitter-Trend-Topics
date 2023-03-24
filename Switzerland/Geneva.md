@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-24 02:31:44 UTC`
+📆 Last Updated: `2023-03-24 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,7 +48,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 31 | [Historiker](http://twitter.com/search?q=Historiker) | N/A |
 | 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 34 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 34 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
 | 35 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 36 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 37 | [Religion](http://twitter.com/search?q=Religion) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 40 | [Dach](http://twitter.com/search?q=Dach) | N/A |
 | 41 | [Smash](http://twitter.com/search?q=Smash) | N/A |
 | 42 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 43 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 43 | [vögel](http://twitter.com/search?q=v%c3%b6gel) | N/A |
 | 44 | [panzer](http://twitter.com/search?q=panzer) | N/A |
 | 45 | [Anlagen](http://twitter.com/search?q=Anlagen) | N/A |
 | 46 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |

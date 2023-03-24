@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-24 02:31:46 UTC`
+📆 Last Updated: `2023-03-24 03:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Australia](</Australia>)
 | 12 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
 | 13 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
 | 14 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 15 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
-| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 17 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 18 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 15 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 16 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 19 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 20 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 21 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 20 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
+| 21 | [Gough](http://twitter.com/search?q=Gough) | N/A |
 | 22 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 24 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 23 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 24 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
 | 25 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
 | 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 27 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 28 | [Stavros](http://twitter.com/search?q=Stavros) | N/A |
+| 27 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 28 | [Parra](http://twitter.com/search?q=Parra) | N/A |
 | 29 | [Greg Craven](http://twitter.com/search?q=Greg+Craven) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
-| 32 | [The SMH](http://twitter.com/search?q=The+SMH) | N/A |
-| 33 | [gutho](http://twitter.com/search?q=gutho) | N/A |
-| 34 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 30 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 31 | [The SMH](http://twitter.com/search?q=The+SMH) | N/A |
+| 32 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
 | 35 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 36 | [Kalyn Ponga](http://twitter.com/search?q=Kalyn+Ponga) | N/A |
-| 37 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 38 | [Mitch Moses](http://twitter.com/search?q=Mitch+Moses) | N/A |
-| 39 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 40 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 41 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 42 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 43 | [NIAA](http://twitter.com/search?q=NIAA) | N/A |
-| 44 | [Peter Costello](http://twitter.com/search?q=Peter+Costello) | N/A |
-| 45 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 46 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 47 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
-| 48 | [All Australians](http://twitter.com/search?q=All+Australians) | N/A |
-| 49 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
-| 50 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 36 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 37 | [NIAA](http://twitter.com/search?q=NIAA) | N/A |
+| 38 | [gutho](http://twitter.com/search?q=gutho) | N/A |
+| 39 | [Mitch Moses](http://twitter.com/search?q=Mitch+Moses) | N/A |
+| 40 | [Posie](http://twitter.com/search?q=Posie) | N/A |
+| 41 | [Ashley Chandrasinghe](http://twitter.com/search?q=Ashley+Chandrasinghe) | N/A |
+| 42 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 43 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 44 | [All Australians](http://twitter.com/search?q=All+Australians) | N/A |
+| 45 | [Peter Costello](http://twitter.com/search?q=Peter+Costello) | N/A |
+| 46 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 47 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
+| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 49 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 50 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
 
 
 

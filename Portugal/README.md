@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-24 02:32:19 UTC`
+📆 Last Updated: `2023-03-24 03:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Portugal
 | 5 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 6 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 7 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
-| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 11 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
-| 12 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
-| 13 | [António Silva](http://twitter.com/search?q=Ant%c3%b3nio+Silva) | N/A |
+| 8 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
+| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 10 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 11 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
+| 12 | [António Silva](http://twitter.com/search?q=Ant%c3%b3nio+Silva) | N/A |
+| 13 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 14 | [Speed](http://twitter.com/search?q=Speed) | N/A |
 | 15 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
 | 16 | [Gonçalo Inácio](http://twitter.com/search?q=Gon%c3%a7alo+In%c3%a1cio) | N/A |
 | 17 | [Roberto Martinez](http://twitter.com/search?q=Roberto+Martinez) | Roberto Martinez is a Spanish football manager and former player. He is currently the manager of the Belgium national team. The meaning of his name in English is "famous ruler". |
-| 18 | [Dala](http://twitter.com/search?q=Dala) | N/A |
-| 19 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 18 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 19 | [Dala](http://twitter.com/search?q=Dala) | N/A |
 | 20 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 | 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
-| 24 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 25 | [Patrício](http://twitter.com/search?q=Patr%c3%adcio) | N/A |
-| 26 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 24 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 25 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 26 | [Patrício](http://twitter.com/search?q=Patr%c3%adcio) | N/A |
+| 27 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
 | 28 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
 | 29 | [Impala](http://twitter.com/search?q=Impala) | N/A |
 | 30 | [#vergonhatvi](http://twitter.com/search?q=%23vergonhatvi) | N/A |
 | 31 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 | 32 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 34 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 33 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 36 | [josé sá](http://twitter.com/search?q=jos%c3%a9+s%c3%a1) | N/A |
 | 37 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 38 | [Rúben Dias](http://twitter.com/search?q=R%c3%baben+Dias) | N/A |
-| 39 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 40 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 41 | [#PORLIE](http://twitter.com/search?q=%23PORLIE) | N/A |
-| 42 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 43 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
-| 44 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 45 | [Golo](http://twitter.com/search?q=Golo) | N/A |
-| 46 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 47 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
-| 48 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 49 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 50 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 40 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 41 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 42 | [#PORLIE](http://twitter.com/search?q=%23PORLIE) | N/A |
+| 43 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 44 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 45 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
+| 46 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 47 | [Golo](http://twitter.com/search?q=Golo) | N/A |
+| 48 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 49 | [Nandinho](http://twitter.com/search?q=Nandinho) | N/A |
+| 50 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 
 
 

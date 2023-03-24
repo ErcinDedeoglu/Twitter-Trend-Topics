@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-24 02:31:36 UTC`
+📆 Last Updated: `2023-03-24 03:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Titi](http://twitter.com/search?q=Titi) | N/A |
 | 2 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 4 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 5 | [LANA DEL REY IS COMING](http://twitter.com/search?q=LANA+DEL+REY+IS+COMING) | N/A |
-| 6 | [OCEAN BLVD OUT NOW](http://twitter.com/search?q=OCEAN+BLVD+OUT+NOW) | N/A |
-| 7 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 8 | [Downy](http://twitter.com/search?q=Downy) | N/A |
-| 9 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 10 | [LANA IS COMING](http://twitter.com/search?q=LANA+IS+COMING) | N/A |
-| 11 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
-| 12 | [#LudmillaVilã](http://twitter.com/search?q=%23LudmillaVil%c3%a3) | N/A |
-| 13 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 14 | [Bruna e Gabriel](http://twitter.com/search?q=Bruna+e+Gabriel) | N/A |
-| 15 | [warren](http://twitter.com/search?q=warren) | N/A |
-| 16 | [OUÇA OI ERRO](http://twitter.com/search?q=OU%c3%87A+OI+ERRO) | N/A |
-| 17 | [#ProgramaDoBT](http://twitter.com/search?q=%23ProgramaDoBT) | N/A |
-| 18 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 19 | [IDENTIDADE](http://twitter.com/search?q=IDENTIDADE) | N/A |
+| 3 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 5 | [OCEAN BLVD OUT NOW](http://twitter.com/search?q=OCEAN+BLVD+OUT+NOW) | N/A |
+| 6 | [LANA DEL REY IS COMING](http://twitter.com/search?q=LANA+DEL+REY+IS+COMING) | N/A |
+| 7 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
+| 8 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 9 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 10 | [Downy](http://twitter.com/search?q=Downy) | N/A |
+| 11 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 12 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 13 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 14 | [#LudmillaVilã](http://twitter.com/search?q=%23LudmillaVil%c3%a3) | N/A |
+| 15 | [amandinha tadeu](http://twitter.com/search?q=amandinha+tadeu) | N/A |
+| 16 | [#LadyNight](http://twitter.com/search?q=%23LadyNight) | N/A |
+| 17 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 18 | [Domi e Fred](http://twitter.com/search?q=Domi+e+Fred) | N/A |
+| 19 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
 | 20 | [Graham](http://twitter.com/search?q=Graham) | N/A |
-| 21 | [Trem Bala](http://twitter.com/search?q=Trem+Bala) | N/A |
-| 22 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
-| 23 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 24 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
-| 25 | [Addison](http://twitter.com/search?q=Addison) | N/A |
-| 26 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 27 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [Gol 800](http://twitter.com/search?q=Gol+800) | N/A |
+| 21 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 22 | [warren](http://twitter.com/search?q=warren) | N/A |
+| 23 | [OUÇA OI ERRO](http://twitter.com/search?q=OU%c3%87A+OI+ERRO) | N/A |
+| 24 | [Obrigada Brasil](http://twitter.com/search?q=Obrigada+Brasil) | N/A |
+| 25 | [O BEM VENCEU](http://twitter.com/search?q=O+BEM+VENCEU) | O BEM VENCEU is a Portuguese phrase that translates to "Good has won" in English. It is often used to express joy and celebration at the victory of good over evil. |
+| 26 | [Bruna e Gabriel](http://twitter.com/search?q=Bruna+e+Gabriel) | N/A |
+| 27 | [Xepa](http://twitter.com/search?q=Xepa) | N/A |
+| 28 | [Addison](http://twitter.com/search?q=Addison) | N/A |
+| 29 | [Trem Bala](http://twitter.com/search?q=Trem+Bala) | N/A |
 | 30 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 32 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
-| 33 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 35 | [800 GOLS](http://twitter.com/search?q=800+GOLS) | N/A |
-| 36 | [CLEVELAND CAVALIERS](http://twitter.com/search?q=CLEVELAND+CAVALIERS) | N/A |
-| 37 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 38 | [OCEAN BLVD IS COMING](http://twitter.com/search?q=OCEAN+BLVD+IS+COMING) | N/A |
-| 39 | [Chapecoense](http://twitter.com/search?q=Chapecoense) | N/A |
-| 40 | [Beckett](http://twitter.com/search?q=Beckett) | N/A |
-| 41 | [ONZE ANOS DE JOGOS VORAZES](http://twitter.com/search?q=ONZE+ANOS+DE+JOGOS+VORAZES) | N/A |
-| 42 | [Anahi](http://twitter.com/search?q=Anahi) | Anahi is a female given name of Latin American origin. It is derived from the Latin word "anahita" which means "graceful" or "gracious". In English, Anahi can be translated to mean "graceful one". |
-| 43 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 44 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 45 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 46 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 47 | [Solimões](http://twitter.com/search?q=Solim%c3%b5es) | N/A |
-| 48 | [Fabiana](http://twitter.com/search?q=Fabiana) | N/A |
-| 49 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 50 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 31 | [#AnacapriJuliette](http://twitter.com/search?q=%23AnacapriJuliette) | N/A |
+| 32 | [IDENTIDADE](http://twitter.com/search?q=IDENTIDADE) | N/A |
+| 33 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 34 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 35 | [camila dunne](http://twitter.com/search?q=camila+dunne) | N/A |
+| 36 | [Coitada da Domitila](http://twitter.com/search?q=Coitada+da+Domitila) | N/A |
+| 37 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
+| 38 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 39 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 40 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
+| 41 | [RACISTAS NÃO PASSARÃO](http://twitter.com/search?q=RACISTAS+N%c3%83O+PASSAR%c3%83O) | N/A |
+| 42 | [Que Brasil](http://twitter.com/search?q=Que+Brasil) | N/A |
+| 43 | [Gol 800](http://twitter.com/search?q=Gol+800) | N/A |
+| 44 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
+| 45 | [800 GOLS](http://twitter.com/search?q=800+GOLS) | N/A |
+| 46 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 47 | [Queria a Tina](http://twitter.com/search?q=Queria+a+Tina) | N/A |
+| 48 | [CLEVELAND CAVALIERS](http://twitter.com/search?q=CLEVELAND+CAVALIERS) | N/A |
+| 49 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 50 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
 
 
 

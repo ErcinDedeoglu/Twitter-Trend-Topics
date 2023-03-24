@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-24 02:31:44 UTC`
+📆 Last Updated: `2023-03-24 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [Norway](</Norway>)
 | 15 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 16 | [norgesgruppen](http://twitter.com/search?q=norgesgruppen) | N/A |
 | 17 | [kjernen](http://twitter.com/search?q=kjernen) | N/A |
-| 18 | [Vestre](http://twitter.com/search?q=Vestre) | N/A |
+| 18 | [vestre](http://twitter.com/search?q=vestre) | N/A |
 | 19 | [rbkk](http://twitter.com/search?q=rbkk) | N/A |
 | 20 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
 | 21 | [hovland](http://twitter.com/search?q=hovland) | N/A |
@@ -41,29 +41,29 @@ This is top 50 for [Norway](</Norway>)
 | 24 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
 | 25 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
 | 26 | [haugen](http://twitter.com/search?q=haugen) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 30 | [gutta](http://twitter.com/search?q=gutta) | N/A |
-| 31 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 32 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 36 | [norske](http://twitter.com/search?q=norske) | N/A |
-| 37 | [nakstad](http://twitter.com/search?q=nakstad) | N/A |
-| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 39 | [bredtveit](http://twitter.com/search?q=bredtveit) | N/A |
-| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 41 | [kai eide](http://twitter.com/search?q=kai+eide) | N/A |
-| 42 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 43 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 44 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 45 | [drammen](http://twitter.com/search?q=drammen) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
-| 48 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
-| 49 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 27 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 28 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 29 | [gutta](http://twitter.com/search?q=gutta) | N/A |
+| 30 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 31 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 32 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 33 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 34 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 35 | [norske](http://twitter.com/search?q=norske) | N/A |
+| 36 | [nakstad](http://twitter.com/search?q=nakstad) | N/A |
+| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 38 | [bredtveit](http://twitter.com/search?q=bredtveit) | N/A |
+| 39 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 40 | [kai eide](http://twitter.com/search?q=kai+eide) | N/A |
+| 41 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 42 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 43 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 44 | [drammen](http://twitter.com/search?q=drammen) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
+| 47 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
+| 48 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 49 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
 
 
 

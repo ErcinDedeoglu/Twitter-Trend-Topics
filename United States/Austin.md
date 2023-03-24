@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-24 02:32:05 UTC`
+📆 Last Updated: `2023-03-24 03:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PVHolics4](http://twitter.com/search?q=%23PVHolics4) | N/A |
-| 2 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 3 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
-| 4 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 5 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 9 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 11 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 12 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 13 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 14 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 15 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 16 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 17 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 18 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
+| 1 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 2 | [#PVHolics4](http://twitter.com/search?q=%23PVHolics4) | N/A |
+| 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 7 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 10 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
+| 14 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 15 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 16 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 17 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 18 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
 | 19 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 20 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 21 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 25 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 26 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
-| 27 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
-| 28 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
-| 29 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 30 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 32 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 33 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 34 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 35 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 36 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 37 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 38 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 39 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 40 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 41 | [camila](http://twitter.com/search?q=camila) | N/A |
-| 42 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 43 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 44 | [Canisius](http://twitter.com/search?q=Canisius) | N/A |
-| 45 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 46 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 47 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
-| 48 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 49 | [Jody](http://twitter.com/search?q=Jody) | N/A |
-| 50 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 21 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 22 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 23 | [#DMmeJonah](http://twitter.com/search?q=%23DMmeJonah) | N/A |
+| 24 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 25 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 26 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 27 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 28 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 29 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 30 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 31 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 32 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 34 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 35 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
+| 36 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
+| 37 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 38 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 39 | [camila](http://twitter.com/search?q=camila) | N/A |
+| 40 | [Canisius](http://twitter.com/search?q=Canisius) | N/A |
+| 41 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
+| 42 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 43 | [Jaquez](http://twitter.com/search?q=Jaquez) | N/A |
+| 44 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 45 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 46 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 47 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 48 | [Tyger Campbell](http://twitter.com/search?q=Tyger+Campbell) | N/A |
+| 49 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 50 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
 
 
 

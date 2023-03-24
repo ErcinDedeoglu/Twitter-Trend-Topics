@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-24 02:32:20 UTC`
+📆 Last Updated: `2023-03-24 03:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for Switzerland
 | 14 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 16 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
-| 17 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 18 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 19 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 17 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 18 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 19 | [Bible](http://twitter.com/search?q=Bible) | N/A |
 | 20 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 21 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
 | 22 | [Japon](http://twitter.com/search?q=Japon) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Switzerland
 | 33 | [Historiker](http://twitter.com/search?q=Historiker) | N/A |
 | 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 35 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 36 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 36 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
 | 37 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 38 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 39 | [Religion](http://twitter.com/search?q=Religion) | N/A |

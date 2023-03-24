@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-24 02:32:14 UTC`
+📆 Last Updated: `2023-03-24 03:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
-| 2 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 1 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
+| 2 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
 | 3 | [#DENFIN](http://twitter.com/search?q=%23DENFIN) | N/A |
 | 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 5 | [Thomasberg](http://twitter.com/search?q=Thomasberg) | N/A |
 | 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
+| 8 | [daramy](http://twitter.com/search?q=daramy) | N/A |
 | 9 | [#fl23](http://twitter.com/search?q=%23fl23) | N/A |
 | 10 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
 | 11 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Denmark
 | 41 | [lars aagaard](http://twitter.com/search?q=lars+aagaard) | N/A |
 | 42 | [Counter-Strike 2](http://twitter.com/search?q=Counter-Strike+2) | N/A |
 | 43 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 44 | [Faktisk](http://twitter.com/search?q=Faktisk) | N/A |
+| 44 | [faktisk](http://twitter.com/search?q=faktisk) | N/A |
 | 45 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 46 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
 | 47 | [Kina](http://twitter.com/search?q=Kina) | N/A |
