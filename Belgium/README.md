@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-24 01:44:09 UTC`
+📆 Last Updated: `2023-03-24 02:32:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,17 +27,17 @@ This is top 50 for Belgium
 | 10 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 11 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
 | 12 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [European Council](http://twitter.com/search?q=European+Council) | N/A |
+| 13 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 14 | [european council](http://twitter.com/search?q=european+council) | N/A |
 | 15 | [Niger](http://twitter.com/search?q=Niger) | N/A |
 | 16 | [natuurpunt](http://twitter.com/search?q=natuurpunt) | N/A |
 | 17 | [peter bossaert](http://twitter.com/search?q=peter+bossaert) | N/A |
-| 18 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 19 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 20 | [Dries](http://twitter.com/search?q=Dries) | N/A |
-| 21 | [hln onderzoek](http://twitter.com/search?q=hln+onderzoek) | N/A |
-| 22 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 23 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 20 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 21 | [Dries](http://twitter.com/search?q=Dries) | N/A |
+| 22 | [hln onderzoek](http://twitter.com/search?q=hln+onderzoek) | N/A |
+| 23 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 24 | [west-vlaams](http://twitter.com/search?q=west-vlaams) | N/A |
 | 25 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 26 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for Belgium
 | 33 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
 | 34 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
 | 35 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
-| 36 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 37 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 36 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 37 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 38 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 39 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 39 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
 | 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 41 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 42 | [de lijn](http://twitter.com/search?q=de+lijn) | N/A |

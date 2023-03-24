@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-03-24 01:43:24 UTC`
+📆 Last Updated: `2023-03-24 02:31:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [#NuevaEra](http://twitter.com/search?q=%23NuevaEra) | N/A |
 | 4 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
 | 5 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 6 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 7 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 8 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 9 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
-| 10 | [#AltoAlBullying](http://twitter.com/search?q=%23AltoAlBullying) | N/A |
-| 11 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 12 | [Johan Vásquez](http://twitter.com/search?q=Johan+V%c3%a1squez) | N/A |
-| 13 | [Arteaga](http://twitter.com/search?q=Arteaga) | N/A |
-| 14 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 17 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 19 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
-| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 8 | [Johan Vásquez](http://twitter.com/search?q=Johan+V%c3%a1squez) | N/A |
+| 9 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 10 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
+| 11 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 12 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 13 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 14 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 15 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
+| 16 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
+| 17 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 18 | [Arteaga](http://twitter.com/search?q=Arteaga) | N/A |
+| 19 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 20 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 22 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
-| 23 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 24 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
-| 25 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 22 | [SKAPINKY PROMISE](http://twitter.com/search?q=SKAPINKY+PROMISE) | N/A |
+| 23 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
+| 24 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 26 | [Chaquito](http://twitter.com/search?q=Chaquito) | N/A |
-| 27 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 28 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 29 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
-| 30 | [VUELVE AFRILUX](http://twitter.com/search?q=VUELVE+AFRILUX) | N/A |
-| 31 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 32 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 35 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 36 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 37 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 38 | [RESTRINGIR YERI MUA](http://twitter.com/search?q=RESTRINGIR+YERI+MUA) | N/A |
-| 39 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 40 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 41 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 42 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 43 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 44 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 45 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
-| 46 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 47 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 48 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 28 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 29 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 30 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
+| 31 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 32 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 34 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 35 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 36 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 37 | [VUELVE AFRILUX](http://twitter.com/search?q=VUELVE+AFRILUX) | N/A |
+| 38 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
+| 39 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 40 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 41 | [Tsuru](http://twitter.com/search?q=Tsuru) | N/A |
+| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 43 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 44 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
+| 45 | [RESTRINGIR YERI MUA](http://twitter.com/search?q=RESTRINGIR+YERI+MUA) | N/A |
+| 46 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
 
 
 

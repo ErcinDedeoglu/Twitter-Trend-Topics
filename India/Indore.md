@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-24 01:43:57 UTC`
+📆 Last Updated: `2023-03-24 02:32:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 2 | [#BhagatSingh](http://twitter.com/search?q=%23BhagatSingh) | N/A |
-| 3 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 4 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
-| 5 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 6 | [#ShaheedDiwas](http://twitter.com/search?q=%23ShaheedDiwas) | N/A |
-| 7 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 15 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 16 | [तृतीय स्वरूप](http://twitter.com/search?q=%e0%a4%a4%e0%a5%83%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 17 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 19 | [bholaa action sequence](http://twitter.com/search?q=bholaa+action+sequence) | N/A |
-| 20 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 21 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 22 | [माहे रमज़ान](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8) | N/A |
-| 23 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 24 | [सम्राट चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 25 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 26 | [दिल्ली प्रदेश](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 27 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
-| 28 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 29 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 30 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 2 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
+| 3 | [#TBMuktBharat](http://twitter.com/search?q=%23TBMuktBharat) | N/A |
+| 4 | [#BhagatSingh](http://twitter.com/search?q=%23BhagatSingh) | N/A |
+| 5 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 6 | [#Ramadan](http://twitter.com/search?q=%23Ramadan) | N/A |
+| 7 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 9 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 10 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 11 | [तृतीय स्वरूप](http://twitter.com/search?q=%e0%a4%a4%e0%a5%83%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 12 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [CBI Investigating AllAngles](http://twitter.com/search?q=CBI+Investigating+AllAngles) | N/A |
+| 15 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 19 | [राम मनोहर लोहिया](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%b2%e0%a5%8b%e0%a4%b9%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 22 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 23 | [bholaa action sequence](http://twitter.com/search?q=bholaa+action+sequence) | N/A |
+| 24 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 25 | [माहे रमज़ान](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8) | N/A |
+| 26 | [केंद्रीय महिला](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 27 | [सम्राट चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 29 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 30 | [दिल्ली प्रदेश](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
 | 31 | [सतीश पूनिया](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%aa%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 32 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 33 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 34 | [India With Rahul](http://twitter.com/search?q=India+With+Rahul) | N/A |
-| 35 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
-| 36 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
+| 32 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 33 | [Jack Dorsey](http://twitter.com/search?q=Jack+Dorsey) | N/A |
+| 34 | [Sushant Memories Linger On](http://twitter.com/search?q=Sushant+Memories+Linger+On) | N/A |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
 | 37 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 38 | [चैत्र शुक्ल](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%b2) | N/A |
+| 38 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
 | 39 | [Tahir Hussain](http://twitter.com/search?q=Tahir+Hussain) | N/A |
-| 40 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 41 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 42 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 43 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 44 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 45 | [मनोज सिन्हा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%b9%e0%a4%be) | N/A |
-| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 47 | [Qur'an](http://twitter.com/search?q=Qur%27an) | N/A |
-| 48 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 49 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 41 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 42 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 43 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 44 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 45 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 46 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 47 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 48 | [आरती दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 49 | [भगवान विष्णु](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | भगवान विष्णु is a Hindu deity, the Supreme Being and the Preserver of the Universe. In English, it translates to "Lord Vishnu". |
+| 50 | [Jai Shri Ram](http://twitter.com/search?q=Jai+Shri+Ram) | N/A |
 
 
 

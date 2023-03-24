@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-24 01:43:47 UTC`
+📆 Last Updated: `2023-03-24 02:31:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 4 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 5 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 6 | [#TWICESoldOutSofi](http://twitter.com/search?q=%23TWICESoldOutSofi) | N/A |
-| 7 | [MAGANDANG BUHAY KODREA](http://twitter.com/search?q=MAGANDANG+BUHAY+KODREA) | N/A |
-| 8 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 2 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 3 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#TWICESoldOutSofi](http://twitter.com/search?q=%23TWICESoldOutSofi) | N/A |
+| 6 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 7 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 8 | [MAGANDANG BUHAY KODREA](http://twitter.com/search?q=MAGANDANG+BUHAY+KODREA) | N/A |
 | 9 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
 | 10 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
-| 11 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 12 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 11 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
+| 12 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
 | 13 | [KIM JUNMYEON](http://twitter.com/search?q=KIM+JUNMYEON) | N/A |
-| 14 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
-| 15 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
-| 16 | [UNRELEASED SONG](http://twitter.com/search?q=UNRELEASED+SONG) | N/A |
-| 17 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 18 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
+| 14 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
+| 15 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 18 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
 | 19 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 21 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 22 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 23 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 20 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
+| 21 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 22 | [UNRELEASED SONG](http://twitter.com/search?q=UNRELEASED+SONG) | N/A |
+| 23 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 24 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 25 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
 | 26 | [Time Out](http://twitter.com/search?q=Time+Out) | N/A |
-| 27 | [Minari](http://twitter.com/search?q=Minari) | N/A |
-| 28 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
+| 27 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
+| 28 | [Minari](http://twitter.com/search?q=Minari) | N/A |
 | 29 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 30 | [sg20 soldout concert](http://twitter.com/search?q=sg20+soldout+concert) | N/A |
-| 31 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 32 | [suho](http://twitter.com/search?q=suho) | Suho is a Korean name, derived from the Chinese characters meaning "guardian" or "protector". It is a unisex name, commonly used for both boys and girls. |
-| 33 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 34 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
-| 35 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 36 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
+| 30 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 31 | [ChiCo DL SEATMATES](http://twitter.com/search?q=ChiCo+DL+SEATMATES) | N/A |
+| 32 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
+| 33 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 34 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
+| 35 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 36 | [suho](http://twitter.com/search?q=suho) | Suho is a Korean name, derived from the Chinese characters meaning "guardian" or "protector". It is a unisex name, commonly used for both boys and girls. |
 | 37 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
-| 38 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 39 | [andreab new serye](http://twitter.com/search?q=andreab+new+serye) | N/A |
-| 40 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 42 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 43 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 44 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 45 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 46 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
-| 47 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 48 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 49 | [Hilig](http://twitter.com/search?q=Hilig) | N/A |
+| 38 | [andreab new serye](http://twitter.com/search?q=andreab+new+serye) | N/A |
+| 39 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 40 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 41 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 42 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 43 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
+| 44 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 45 | [Park Minhyuk](http://twitter.com/search?q=Park+Minhyuk) | N/A |
+| 46 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 47 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
+| 48 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
+| 49 | [winwin](http://twitter.com/search?q=winwin) | N/A |
 
 
 

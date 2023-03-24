@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-24 01:43:34 UTC`
+📆 Last Updated: `2023-03-24 02:31:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 6 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 7 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 10 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 11 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 14 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 15 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 16 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 17 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 20 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 21 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 22 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
-| 23 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 24 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 25 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 26 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 27 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 28 | [Jupp Heynckes](http://twitter.com/search?q=Jupp+Heynckes) | N/A |
-| 29 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 30 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 31 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 32 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
-| 33 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 35 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 36 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 37 | [Watzke](http://twitter.com/search?q=Watzke) | N/A |
-| 38 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 39 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 40 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 41 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 42 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 43 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 45 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 46 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 47 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 48 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 9 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 10 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 11 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 12 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 13 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 14 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 15 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 16 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 17 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 18 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 19 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 20 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 21 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 22 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 23 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 24 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 25 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 26 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 29 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 30 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 31 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 32 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 33 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 34 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 35 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 36 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 37 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 38 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 39 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 40 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 41 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 42 | [testspiel](http://twitter.com/search?q=testspiel) | N/A |
+| 43 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 44 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 45 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 46 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 47 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 48 | [Coach](http://twitter.com/search?q=Coach) | N/A |
 
 
 

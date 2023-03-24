@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-24 01:43:39 UTC`
+📆 Last Updated: `2023-03-24 02:31:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,19 @@ This is top 50 for [Latvia](</Latvia>)
 | 6 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 7 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 8 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 9 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 10 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 11 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
-| 12 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
-| 13 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 14 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | N/A |
-| 15 | [ķīnai](http://twitter.com/search?q=%c4%b7%c4%abnai) | N/A |
-| 16 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 17 | [maltas](http://twitter.com/search?q=maltas) | N/A |
-| 18 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 19 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 20 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
-| 21 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
+| 9 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 10 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
+| 11 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
+| 12 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 13 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | N/A |
+| 14 | [ķīnai](http://twitter.com/search?q=%c4%b7%c4%abnai) | N/A |
+| 15 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 16 | [maltas](http://twitter.com/search?q=maltas) | N/A |
+| 17 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 18 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 19 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
+| 20 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
+| 21 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 22 | [Lietuvā](http://twitter.com/search?q=Lietuv%c4%81) | N/A |
 | 23 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 24 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Latvia](</Latvia>)
 | 30 | [starp](http://twitter.com/search?q=starp) | N/A |
 | 31 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 32 | [šitais](http://twitter.com/search?q=%c5%a1itais) | N/A |
-| 33 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 33 | [esmu](http://twitter.com/search?q=esmu) | N/A |
 | 34 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 35 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 36 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 37 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 38 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
-| 39 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 40 | [jūsu](http://twitter.com/search?q=j%c5%absu) | N/A |
-| 41 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 42 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 43 | [#Ukraina](http://twitter.com/search?q=%23Ukraina) | N/A |
-| 44 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
-| 45 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Vienkārši](http://twitter.com/search?q=Vienk%c4%81r%c5%a1i) | N/A |
-| 48 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 49 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 50 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 38 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 39 | [jūsu](http://twitter.com/search?q=j%c5%absu) | N/A |
+| 40 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 41 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 42 | [#Ukraina](http://twitter.com/search?q=%23Ukraina) | N/A |
+| 43 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
+| 44 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
+| 47 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 48 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 49 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 50 | [Šādi](http://twitter.com/search?q=%c5%a0%c4%81di) | N/A |
 
 
 

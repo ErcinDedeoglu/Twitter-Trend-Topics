@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-24 01:44:15 UTC`
+📆 Last Updated: `2023-03-24 02:32:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,20 +17,20 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [#sh2023](http://twitter.com/search?q=%23sh2023) | N/A |
-| 7 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 8 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 9 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [#sh2023](http://twitter.com/search?q=%23sh2023) | N/A |
+| 8 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 9 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 10 | [Salt](http://twitter.com/search?q=Salt) | N/A |
 | 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 13 | [#WorldMetDay](http://twitter.com/search?q=%23WorldMetDay) | N/A |
 | 14 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 15 | [Valérie Dittli](http://twitter.com/search?q=Val%c3%a9rie+Dittli) | N/A |
-| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
 | 17 | [Bible](http://twitter.com/search?q=Bible) | N/A |
 | 18 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
 | 19 | [Amin](http://twitter.com/search?q=Amin) | N/A |
@@ -41,9 +41,9 @@ This is top 50 for Switzerland
 | 24 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
 | 25 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 26 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
-| 27 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 28 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 29 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 27 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 28 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 29 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 30 | [Wahrscheinlichkeit](http://twitter.com/search?q=Wahrscheinlichkeit) | N/A |
 | 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
@@ -59,7 +59,7 @@ This is top 50 for Switzerland
 | 42 | [Dach](http://twitter.com/search?q=Dach) | N/A |
 | 43 | [Smash](http://twitter.com/search?q=Smash) | N/A |
 | 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 45 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
+| 45 | [vögel](http://twitter.com/search?q=v%c3%b6gel) | N/A |
 | 46 | [panzer](http://twitter.com/search?q=panzer) | N/A |
 | 47 | [Anlagen](http://twitter.com/search?q=Anlagen) | N/A |
 | 48 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |

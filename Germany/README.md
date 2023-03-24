@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-24 01:44:10 UTC`
+📆 Last Updated: `2023-03-24 02:32:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Germany
 | 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 6 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 7 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 8 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 11 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
-| 12 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 13 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 14 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 9 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 10 | [#Nuhr](http://twitter.com/search?q=%23Nuhr) | N/A |
+| 11 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 12 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 13 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 14 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
 | 15 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 16 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 17 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 18 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 19 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 22 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 23 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 24 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
-| 25 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 26 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 27 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 28 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 29 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 30 | [Jupp Heynckes](http://twitter.com/search?q=Jupp+Heynckes) | N/A |
-| 31 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 32 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 33 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 34 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
-| 35 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Platz 2](http://twitter.com/search?q=Platz+2) | N/A |
-| 38 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 39 | [Watzke](http://twitter.com/search?q=Watzke) | N/A |
-| 40 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 41 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 42 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 43 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 44 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 45 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 46 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 47 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 48 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 49 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 50 | [testspiel](http://twitter.com/search?q=testspiel) | N/A |
+| 16 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 17 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 18 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 19 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 20 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 21 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 22 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 23 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 24 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 25 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 26 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 27 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 28 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 31 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 32 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 33 | [Munition](http://twitter.com/search?q=Munition) | N/A |
+| 34 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 35 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 36 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 37 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
+| 38 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 39 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 40 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 41 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 42 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
+| 43 | [testspiel](http://twitter.com/search?q=testspiel) | N/A |
+| 44 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 45 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 46 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 47 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 48 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 49 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 50 | [Coach](http://twitter.com/search?q=Coach) | N/A |
 
 
 

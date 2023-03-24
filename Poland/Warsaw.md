@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-24 01:43:32 UTC`
+📆 Last Updated: `2023-03-24 02:31:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [książę william](http://twitter.com/search?q=ksi%c4%85%c5%bc%c4%99+william) | N/A |
-| 7 | [#BabcioweWymiata](http://twitter.com/search?q=%23BabcioweWymiata) | N/A |
-| 8 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
+| 2 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 5 | [książę william](http://twitter.com/search?q=ksi%c4%85%c5%bc%c4%99+william) | N/A |
+| 6 | [#BabcioweWymiata](http://twitter.com/search?q=%23BabcioweWymiata) | N/A |
+| 7 | [#AllOffThoseVoices](http://twitter.com/search?q=%23AllOffThoseVoices) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 9 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 10 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 11 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 10 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 11 | [#HHnapapierze](http://twitter.com/search?q=%23HHnapapierze) | N/A |
 | 12 | [Przysmak](http://twitter.com/search?q=Przysmak) | N/A |
 | 13 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 14 | [Klarenbacha](http://twitter.com/search?q=Klarenbacha) | N/A |
+| 14 | [klarenbacha](http://twitter.com/search?q=klarenbacha) | N/A |
 | 15 | [Pile](http://twitter.com/search?q=Pile) | N/A |
 | 16 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
 | 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Poland](</Poland>)
 | 26 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
 | 27 | [Fernando Santos](http://twitter.com/search?q=Fernando+Santos) | Fernando Santos is a Portuguese football manager and former player. He is the current manager of the Portugal national team, having previously managed several clubs in Portugal, Greece, and Turkey. The name Fernando Santos translates to "Ferdinand the Saint" in English. |
 | 28 | [Parteya](http://twitter.com/search?q=Parteya) | N/A |
-| 29 | [Edyta Górniak](http://twitter.com/search?q=Edyta+G%c3%b3rniak) | N/A |
-| 30 | [Rumburak](http://twitter.com/search?q=Rumburak) | N/A |
+| 29 | [edyta górniak](http://twitter.com/search?q=edyta+g%c3%b3rniak) | N/A |
+| 30 | [rumburak](http://twitter.com/search?q=rumburak) | N/A |
 | 31 | [neurologii](http://twitter.com/search?q=neurologii) | N/A |
 | 32 | [głosując](http://twitter.com/search?q=g%c5%82osuj%c4%85c) | N/A |
-| 33 | [Lany](http://twitter.com/search?q=Lany) | N/A |
-| 34 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
-| 35 | [jasionce](http://twitter.com/search?q=jasionce) | N/A |
-| 36 | [T-54](http://twitter.com/search?q=T-54) | N/A |
-| 37 | [T-34](http://twitter.com/search?q=T-34) | N/A |
-| 38 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
-| 39 | [instytut psychiatrii](http://twitter.com/search?q=instytut+psychiatrii) | N/A |
-| 40 | [ambasada usa](http://twitter.com/search?q=ambasada+usa) | N/A |
-| 41 | [andrzejem dudą](http://twitter.com/search?q=andrzejem+dud%c4%85) | N/A |
-| 42 | [żakowski](http://twitter.com/search?q=%c5%bcakowski) | N/A |
-| 43 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 45 | [Węgry](http://twitter.com/search?q=W%c4%99gry) | N/A |
-| 46 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 47 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 48 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 49 | [Koszmar](http://twitter.com/search?q=Koszmar) | N/A |
-| 50 | [T-62](http://twitter.com/search?q=T-62) | N/A |
+| 33 | [włochy - anglia](http://twitter.com/search?q=w%c5%82ochy+-+anglia) | N/A |
+| 34 | [Lany](http://twitter.com/search?q=Lany) | N/A |
+| 35 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 36 | [jasionce](http://twitter.com/search?q=jasionce) | N/A |
+| 37 | [T-54](http://twitter.com/search?q=T-54) | N/A |
+| 38 | [T-34](http://twitter.com/search?q=T-34) | N/A |
+| 39 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 40 | [instytut psychiatrii](http://twitter.com/search?q=instytut+psychiatrii) | N/A |
+| 41 | [ambasada usa](http://twitter.com/search?q=ambasada+usa) | N/A |
+| 42 | [andrzejem dudą](http://twitter.com/search?q=andrzejem+dud%c4%85) | N/A |
+| 43 | [żakowski](http://twitter.com/search?q=%c5%bcakowski) | N/A |
+| 44 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 45 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 46 | [Węgry](http://twitter.com/search?q=W%c4%99gry) | N/A |
+| 47 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 48 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 49 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 50 | [Koszmar](http://twitter.com/search?q=Koszmar) | N/A |
 
 
 

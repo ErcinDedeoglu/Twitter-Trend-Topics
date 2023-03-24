@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-24 01:44:00 UTC`
+📆 Last Updated: `2023-03-24 02:32:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 2 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 3 | [#SKZinATL](http://twitter.com/search?q=%23SKZinATL) | N/A |
-| 4 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 8 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 9 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 10 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 11 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 12 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 13 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
-| 14 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 15 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
-| 16 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 17 | [#MSUvsKSU](http://twitter.com/search?q=%23MSUvsKSU) | N/A |
-| 18 | [#Sweet16](http://twitter.com/search?q=%23Sweet16) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 22 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 23 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 24 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 25 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 26 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 27 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 28 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 29 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
-| 30 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 31 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
-| 32 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 33 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
-| 34 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
-| 35 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
-| 36 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 37 | [Ken Francis](http://twitter.com/search?q=Ken+Francis) | N/A |
-| 38 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 39 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 40 | [Massoud](http://twitter.com/search?q=Massoud) | N/A |
-| 41 | [Musselman](http://twitter.com/search?q=Musselman) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [DJ Envy](http://twitter.com/search?q=DJ+Envy) | N/A |
-| 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 46 | [Garden](http://twitter.com/search?q=Garden) | N/A |
-| 47 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 48 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 49 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 50 | [Jody](http://twitter.com/search?q=Jody) | N/A |
+| 4 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
+| 5 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 6 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 11 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 12 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 13 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 14 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 15 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 16 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 17 | [#EMAW](http://twitter.com/search?q=%23EMAW) | N/A |
+| 18 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 19 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 24 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
+| 25 | [Jerome Tang](http://twitter.com/search?q=Jerome+Tang) | Jerome Tang is a Chinese name, and it means "strong and brave" in English. |
+| 26 | [Amari Bailey](http://twitter.com/search?q=Amari+Bailey) | N/A |
+| 27 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 28 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 30 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 31 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 32 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 33 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 34 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 35 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 36 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 37 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 38 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 39 | [camila](http://twitter.com/search?q=camila) | N/A |
+| 40 | [Spartans](http://twitter.com/search?q=Spartans) | N/A |
+| 41 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 42 | [Canisius](http://twitter.com/search?q=Canisius) | N/A |
+| 43 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 44 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 45 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 46 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 47 | [Hoggard](http://twitter.com/search?q=Hoggard) | N/A |
+| 48 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 49 | [Jody](http://twitter.com/search?q=Jody) | N/A |
+| 50 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
 
 
 

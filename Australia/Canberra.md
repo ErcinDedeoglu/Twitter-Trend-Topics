@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-24 01:43:41 UTC`
+📆 Last Updated: `2023-03-24 02:31:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#NRLEelsPanthers](http://twitter.com/search?q=%23NRLEelsPanthers) | N/A |
 | 3 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
 | 4 | [#VoteNo](http://twitter.com/search?q=%23VoteNo) | N/A |
-| 5 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 6 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 5 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 6 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
 | 7 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
 | 8 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
 | 9 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 10 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 11 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 12 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 10 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 11 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 12 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
 | 13 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 14 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 15 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
-| 16 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 19 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 20 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 21 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 14 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
+| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 16 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 17 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 18 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 20 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 21 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
 | 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 24 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
-| 25 | [Greg Craven](http://twitter.com/search?q=Greg+Craven) | N/A |
-| 26 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 27 | [Peter Costello](http://twitter.com/search?q=Peter+Costello) | N/A |
-| 28 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 29 | [Stavros](http://twitter.com/search?q=Stavros) | N/A |
-| 30 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 31 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 34 | [The SMH](http://twitter.com/search?q=The+SMH) | N/A |
-| 35 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 36 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 37 | [Mitch Moses](http://twitter.com/search?q=Mitch+Moses) | N/A |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 40 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 23 | [Torres Strait](http://twitter.com/search?q=Torres+Strait) | N/A |
+| 24 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 26 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 27 | [Stavros](http://twitter.com/search?q=Stavros) | N/A |
+| 28 | [Greg Craven](http://twitter.com/search?q=Greg+Craven) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Malcolm Roberts](http://twitter.com/search?q=Malcolm+Roberts) | N/A |
+| 31 | [The SMH](http://twitter.com/search?q=The+SMH) | N/A |
+| 32 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 33 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 34 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 35 | [Kalyn Ponga](http://twitter.com/search?q=Kalyn+Ponga) | N/A |
+| 36 | [Mitch Moses](http://twitter.com/search?q=Mitch+Moses) | N/A |
+| 37 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 38 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 39 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 40 | [Saad](http://twitter.com/search?q=Saad) | N/A |
 | 41 | [NIAA](http://twitter.com/search?q=NIAA) | N/A |
-| 42 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
-| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 44 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 45 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
-| 46 | [Ollie Hollands](http://twitter.com/search?q=Ollie+Hollands) | N/A |
-| 47 | [All Australians](http://twitter.com/search?q=All+Australians) | N/A |
-| 48 | [Tarryn Thomas](http://twitter.com/search?q=Tarryn+Thomas) | N/A |
+| 42 | [Peter Costello](http://twitter.com/search?q=Peter+Costello) | N/A |
+| 43 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 44 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 45 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 47 | [Linda Burney](http://twitter.com/search?q=Linda+Burney) | N/A |
+| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 
 
 

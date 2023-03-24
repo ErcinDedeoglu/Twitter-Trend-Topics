@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-03-24 01:43:34 UTC`
+📆 Last Updated: `2023-03-24 02:31:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,39 @@ This is top 50 for [France](</France>)
 | 13 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 14 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
 | 15 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 16 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
-| 17 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
+| 16 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
+| 17 | [Panama](http://twitter.com/search?q=Panama) | N/A |
 | 18 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
-| 19 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 20 | [Delort](http://twitter.com/search?q=Delort) | N/A |
 | 21 | [Bounedjah](http://twitter.com/search?q=Bounedjah) | N/A |
-| 22 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 22 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 23 | [Bentaleb](http://twitter.com/search?q=Bentaleb) | N/A |
 | 24 | [Touba](http://twitter.com/search?q=Touba) | N/A |
-| 25 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 26 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 27 | [Argentine](http://twitter.com/search?q=Argentine) | N/A |
-| 28 | [Amoura](http://twitter.com/search?q=Amoura) | N/A |
-| 29 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 25 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
+| 26 | [Argentine](http://twitter.com/search?q=Argentine) | N/A |
+| 27 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 28 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 29 | [Leris](http://twitter.com/search?q=Leris) | N/A |
 | 30 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 31 | [Leris](http://twitter.com/search?q=Leris) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Boudaoui](http://twitter.com/search?q=Boudaoui) | N/A |
-| 34 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
-| 35 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 36 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 37 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 38 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 39 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 40 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 41 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 42 | [Mairie](http://twitter.com/search?q=Mairie) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 44 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 45 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
-| 46 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 47 | [Les FDO](http://twitter.com/search?q=Les+FDO) | N/A |
-| 48 | [Merci Macron](http://twitter.com/search?q=Merci+Macron) | N/A |
-| 49 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 50 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
+| 31 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 32 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 33 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 35 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 36 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 39 | [Mairie](http://twitter.com/search?q=Mairie) | N/A |
+| 40 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 41 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
+| 42 | [Les FDO](http://twitter.com/search?q=Les+FDO) | N/A |
+| 43 | [Merci Macron](http://twitter.com/search?q=Merci+Macron) | N/A |
+| 44 | [#ALGNIG](http://twitter.com/search?q=%23ALGNIG) | N/A |
+| 45 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 46 | [#revolution2023](http://twitter.com/search?q=%23revolution2023) | N/A |
+| 47 | [#France2](http://twitter.com/search?q=%23France2) | N/A |
+| 48 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-24 01:43:27 UTC`
+📆 Last Updated: `2023-03-24 02:31:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InvasionExtraterrestre](http://twitter.com/search?q=%23InvasionExtraterrestre) | N/A |
-| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [#ReformaPolítica](http://twitter.com/search?q=%23ReformaPol%c3%adtica) | N/A |
+| 4 | [Carlos Darwin Quintero](http://twitter.com/search?q=Carlos+Darwin+Quintero) | N/A |
 | 5 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 6 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 7 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Politiquera](http://twitter.com/search?q=Politiquera) | N/A |
-| 10 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 11 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
-| 12 | [#CorrupciónEs](http://twitter.com/search?q=%23Corrupci%c3%b3nEs) | N/A |
-| 13 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 14 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 15 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 16 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 17 | [Aliens](http://twitter.com/search?q=Aliens) | N/A |
-| 18 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
-| 19 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 20 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 21 | [Libertad y Orden](http://twitter.com/search?q=Libertad+y+Orden) | N/A |
-| 22 | [SITP](http://twitter.com/search?q=SITP) | N/A |
-| 23 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 24 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 25 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
-| 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 27 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 28 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 29 | [Caño Cristales](http://twitter.com/search?q=Ca%c3%b1o+Cristales) | N/A |
-| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 31 | [Movistar TV App](http://twitter.com/search?q=Movistar+TV+App) | N/A |
-| 32 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 33 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 34 | [Ariel Ávila](http://twitter.com/search?q=Ariel+%c3%81vila) | N/A |
-| 35 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 36 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
-| 40 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
-| 41 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 42 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 43 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 44 | [BZRP](http://twitter.com/search?q=BZRP) | BZRP stands for "Battle Zone Role Play," which is an online role-playing game. Players create characters and take part in a virtual world where they can battle each other and complete missions. |
-| 45 | [Gales](http://twitter.com/search?q=Gales) | Gales is a term used to describe strong winds, usually associated with storms. It is derived from the Old Norse word "gala," which means "to blow." In English, gales are typically described as winds that are blowing at speeds of 39 mph or higher. |
-| 46 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 47 | [Compensar](http://twitter.com/search?q=Compensar) | N/A |
-| 48 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 49 | [Creemos](http://twitter.com/search?q=Creemos) | N/A |
-| 50 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 6 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 7 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 8 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 9 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 10 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 11 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 12 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 13 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 14 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 15 | [#ConFibraVueloYMás](http://twitter.com/search?q=%23ConFibraVueloYM%c3%a1s) | N/A |
+| 16 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 17 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 18 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 19 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 20 | [SITP](http://twitter.com/search?q=SITP) | N/A |
+| 21 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 22 | [San Vicente del Caguán](http://twitter.com/search?q=San+Vicente+del+Cagu%c3%a1n) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Pascual Guerrero](http://twitter.com/search?q=Pascual+Guerrero) | N/A |
+| 27 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 28 | [#ReformaPolítica](http://twitter.com/search?q=%23ReformaPol%c3%adtica) | N/A |
+| 29 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 30 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
+| 31 | [Creemos](http://twitter.com/search?q=Creemos) | N/A |
+| 32 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 33 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 34 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 35 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 36 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 37 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Politiquera](http://twitter.com/search?q=Politiquera) | N/A |
+| 40 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 41 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 42 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 43 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
+| 44 | [Nicolás Maduro](http://twitter.com/search?q=Nicol%c3%a1s+Maduro) | N/A |
+| 45 | [Briceño](http://twitter.com/search?q=Brice%c3%b1o) | N/A |
 
 
 
