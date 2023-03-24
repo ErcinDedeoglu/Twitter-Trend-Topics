@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-24 03:17:31 UTC`
+📆 Last Updated: `2023-03-24 04:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -59,7 +59,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 42 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 43 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
 | 44 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
-| 45 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
+| 45 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 47 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
 | 48 | [Paga](http://twitter.com/search?q=Paga) | N/A |

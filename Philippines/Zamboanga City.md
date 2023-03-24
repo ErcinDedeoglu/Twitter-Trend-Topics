@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-24 03:17:42 UTC`
+📆 Last Updated: `2023-03-24 04:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
-| 2 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
-| 3 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
-| 4 | [#WILDTONIGHTInTheDarkEP3](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP3) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 7 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
-| 8 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
-| 9 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
+| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 2 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 5 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 6 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 7 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 8 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 9 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
 | 10 | [MAGANDANG BUHAY KODREA](http://twitter.com/search?q=MAGANDANG+BUHAY+KODREA) | N/A |
-| 11 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
-| 12 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
-| 13 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 14 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
-| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 16 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 17 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 11 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 12 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
+| 13 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
+| 14 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
+| 15 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
+| 16 | [THE MV](http://twitter.com/search?q=THE+MV) | N/A |
+| 17 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
 | 18 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
-| 19 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
-| 20 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 21 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 22 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 23 | [happy 1m](http://twitter.com/search?q=happy+1m) | N/A |
-| 24 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 25 | [Minari](http://twitter.com/search?q=Minari) | N/A |
-| 26 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
-| 27 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
-| 28 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
-| 29 | [KIM JUNMYEON](http://twitter.com/search?q=KIM+JUNMYEON) | N/A |
-| 30 | [chico dl seatmates](http://twitter.com/search?q=chico+dl+seatmates) | N/A |
-| 31 | [Win x Scotch](http://twitter.com/search?q=Win+x+Scotch) | N/A |
-| 32 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 33 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
-| 34 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 35 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
-| 36 | [UNRELEASED SONG](http://twitter.com/search?q=UNRELEASED+SONG) | N/A |
-| 37 | [andreab new serye](http://twitter.com/search?q=andreab+new+serye) | N/A |
-| 38 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 39 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 40 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 41 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
-| 42 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 43 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 44 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 45 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 46 | [Park Minhyuk](http://twitter.com/search?q=Park+Minhyuk) | N/A |
-| 47 | [mentor lisa](http://twitter.com/search?q=mentor+lisa) | N/A |
-| 48 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 19 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 20 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 21 | [KAIA CHARLOTTE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARLOTTE+CONCEPT+TEASER) | N/A |
+| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 27 | [happy 1m](http://twitter.com/search?q=happy+1m) | N/A |
+| 28 | [Minari](http://twitter.com/search?q=Minari) | N/A |
+| 29 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
+| 30 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 31 | [KIM JUNMYEON](http://twitter.com/search?q=KIM+JUNMYEON) | N/A |
+| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 33 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 34 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 35 | [chico dl seatmates](http://twitter.com/search?q=chico+dl+seatmates) | N/A |
+| 36 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
+| 37 | [sunshines forever](http://twitter.com/search?q=sunshines+forever) | N/A |
+| 38 | [Video Game Numbers](http://twitter.com/search?q=Video+Game+Numbers) | N/A |
+| 39 | [My Pace](http://twitter.com/search?q=My+Pace) | N/A |
+| 40 | [UNRELEASED SONG](http://twitter.com/search?q=UNRELEASED+SONG) | N/A |
+| 41 | [Andrei Sison](http://twitter.com/search?q=Andrei+Sison) | N/A |
+| 42 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 43 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
+| 44 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 45 | [SG20 SOLDOUT CONCERT](http://twitter.com/search?q=SG20+SOLDOUT+CONCERT) | N/A |
+| 46 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
+| 47 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 48 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 49 | [Cruel Summer](http://twitter.com/search?q=Cruel+Summer) | N/A |
 
 

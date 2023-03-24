@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-24 03:17:26 UTC`
+📆 Last Updated: `2023-03-24 04:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 6 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 7 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 8 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 9 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 10 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 11 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 12 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 13 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 14 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 15 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 16 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 17 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 18 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 19 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 20 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 22 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 23 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 24 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
-| 25 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 26 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 27 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 7 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 8 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 9 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 12 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 13 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 14 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 15 | [kriegserklärung](http://twitter.com/search?q=kriegserkl%c3%a4rung) | N/A |
+| 16 | [schuluniformen](http://twitter.com/search?q=schuluniformen) | N/A |
+| 17 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 18 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 19 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
+| 20 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 21 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 24 | [wahrheitssicherheit](http://twitter.com/search?q=wahrheitssicherheit) | N/A |
+| 25 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 26 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 27 | ['holz'](http://twitter.com/search?q=%27holz%27) | N/A |
 | 28 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 29 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 32 | [Wahrheitssicherheit](http://twitter.com/search?q=Wahrheitssicherheit) | N/A |
-| 33 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 34 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 35 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 36 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
-| 37 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 38 | [testspiel](http://twitter.com/search?q=testspiel) | N/A |
-| 39 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 42 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
-| 43 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 44 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 45 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 46 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 47 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 48 | [Gero](http://twitter.com/search?q=Gero) | N/A |
+| 29 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 30 | [verbotskultur](http://twitter.com/search?q=verbotskultur) | N/A |
+| 31 | [testspiel](http://twitter.com/search?q=testspiel) | N/A |
+| 32 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 33 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 34 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 35 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 36 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 37 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 38 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 39 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
+| 40 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 41 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
+| 42 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 43 | [Gero](http://twitter.com/search?q=Gero) | N/A |
+| 44 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 45 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 46 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 47 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 48 | [Jeans](http://twitter.com/search?q=Jeans) | N/A |
 
 
 

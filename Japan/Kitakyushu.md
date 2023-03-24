@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kitakyushu
 
-📆 Last Updated: `2023-03-24 03:17:35 UTC`
+📆 Last Updated: `2023-03-24 04:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [団時朗さん](http://twitter.com/search?q=%e5%9b%a3%e6%99%82%e6%9c%97%e3%81%95%e3%82%93) | N/A |
-| 2 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 3 | [肺がん診断](http://twitter.com/search?q=%e8%82%ba%e3%81%8c%e3%82%93%e8%a8%ba%e6%96%ad) | N/A |
+| 1 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
+| 2 | [団時朗さん](http://twitter.com/search?q=%e5%9b%a3%e6%99%82%e6%9c%97%e3%81%95%e3%82%93) | N/A |
+| 3 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
 | 4 | [ハピナスレイド](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8a%e3%82%b9%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 5 | [昨年末悪化](http://twitter.com/search?q=%e6%98%a8%e5%b9%b4%e6%9c%ab%e6%82%aa%e5%8c%96) | N/A |
-| 6 | [ウルトラの星](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%81%ae%e6%98%9f) | N/A |
-| 7 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
-| 8 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 5 | [ウルトラの星](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%81%ae%e6%98%9f) | N/A |
+| 6 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 7 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 8 | [抹茶らてまきあ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%82%89%e3%81%a6%e3%81%be%e3%81%8d%e3%81%82) | N/A |
 | 9 | [家宅捜索](http://twitter.com/search?q=%e5%ae%b6%e5%ae%85%e6%8d%9c%e7%b4%a2) | N/A |
-| 10 | [ジャック兄さん](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 11 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 12 | [抹茶らてまきあ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%82%89%e3%81%a6%e3%81%be%e3%81%8d%e3%81%82) | N/A |
-| 13 | [#ほっとひといき](http://twitter.com/search?q=%23%e3%81%bb%e3%81%a3%e3%81%a8%e3%81%b2%e3%81%a8%e3%81%84%e3%81%8d) | N/A |
-| 14 | [ウルトラ5つの誓い](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a95%e3%81%a4%e3%81%ae%e8%aa%93%e3%81%84) | N/A |
-| 15 | [ポケモン最終回](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
-| 16 | [ナーゲルスマン](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%82%b2%e3%83%ab%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
-| 17 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 18 | [トゥヘル](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%98%e3%83%ab) | N/A |
-| 19 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
-| 20 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 21 | [ラッコ先生](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b3%e5%85%88%e7%94%9f) | N/A |
-| 22 | [山口達也](http://twitter.com/search?q=%e5%b1%b1%e5%8f%a3%e9%81%94%e4%b9%9f) | N/A |
+| 10 | [昨年末悪化](http://twitter.com/search?q=%e6%98%a8%e5%b9%b4%e6%9c%ab%e6%82%aa%e5%8c%96) | N/A |
+| 11 | [肺がん診断](http://twitter.com/search?q=%e8%82%ba%e3%81%8c%e3%82%93%e8%a8%ba%e6%96%ad) | N/A |
+| 12 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 13 | [SSRチケ](http://twitter.com/search?q=SSR%e3%83%81%e3%82%b1) | SSRチケ is short for Super Super Rare Ticket, which is a type of ticket used in the Japanese mobile game Love Live! School Idol Festival. It is used to obtain special cards that are more powerful than regular cards. In English, it can be translated as Super Super Rare Ticket. |
+| 14 | [#リヴリー足跡クイズ](http://twitter.com/search?q=%23%e3%83%aa%e3%83%b4%e3%83%aa%e3%83%bc%e8%b6%b3%e8%b7%a1%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 15 | [カバソン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%82%bd%e3%83%b3) | N/A |
+| 16 | [キラフェス](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 17 | [グレムリン](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%a0%e3%83%aa%e3%83%b3) | N/A |
+| 18 | [#めざせポケモンマスター](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%9b%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 19 | [#サトピカ](http://twitter.com/search?q=%23%e3%82%b5%e3%83%88%e3%83%94%e3%82%ab) | N/A |
+| 20 | [ジャック兄さん](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 21 | [ウルトラ5つの誓い](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a95%e3%81%a4%e3%81%ae%e8%aa%93%e3%81%84) | N/A |
+| 22 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
 | 23 | [プレミアムシート](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
-| 24 | [#グリユニ感想](http://twitter.com/search?q=%23%e3%82%b0%e3%83%aa%e3%83%a6%e3%83%8b%e6%84%9f%e6%83%b3) | N/A |
-| 25 | [ウルトラ兄弟](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e5%85%84%e5%bc%9f) | N/A |
+| 24 | [KINGレイナ](http://twitter.com/search?q=KING%e3%83%ac%e3%82%a4%e3%83%8a) | N/A |
+| 25 | [アリエス杯](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%a8%e3%82%b9%e6%9d%af) | N/A |
 | 26 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 27 | [必勝しゃもじ](http://twitter.com/search?q=%e5%bf%85%e5%8b%9d%e3%81%97%e3%82%83%e3%82%82%e3%81%98) | N/A |
-| 28 | [健大高崎](http://twitter.com/search?q=%e5%81%a5%e5%a4%a7%e9%ab%98%e5%b4%8e) | N/A |
-| 29 | [落選メール](http://twitter.com/search?q=%e8%90%bd%e9%81%b8%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
-| 30 | [アルコール依存症](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b3%e3%83%bc%e3%83%ab%e4%be%9d%e5%ad%98%e7%97%87) | N/A |
-| 31 | [京都人の密か](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e4%ba%ba%e3%81%ae%e5%af%86%e3%81%8b) | N/A |
-| 32 | [衝突相手](http://twitter.com/search?q=%e8%a1%9d%e7%aa%81%e7%9b%b8%e6%89%8b) | N/A |
-| 33 | [メイケイエール](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b1%e3%82%a4%e3%82%a8%e3%83%bc%e3%83%ab) | N/A |
-| 34 | [柏木学生](http://twitter.com/search?q=%e6%9f%8f%e6%9c%a8%e5%ad%a6%e7%94%9f) | 柏木学生 is a Japanese term that refers to students who are hardworking and diligent in their studies. It literally translates to "Oak Tree Student" and is used to describe someone who is studious and disciplined in their academic pursuits. |
-| 35 | [パラダイムトリガー](http://twitter.com/search?q=%e3%83%91%e3%83%a9%e3%83%80%e3%82%a4%e3%83%a0%e3%83%88%e3%83%aa%e3%82%ac%e3%83%bc) | N/A |
-| 36 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
-| 37 | [パト追跡のバイク男性死亡](http://twitter.com/search?q=%e3%83%91%e3%83%88%e8%bf%bd%e8%b7%a1%e3%81%ae%e3%83%90%e3%82%a4%e3%82%af%e7%94%b7%e6%80%a7%e6%ad%bb%e4%ba%a1) | N/A |
-| 38 | [哀ちゃーん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%83%bc%e3%82%93) | N/A |
-| 39 | [ピカチュウ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 40 | [報徳学園](http://twitter.com/search?q=%e5%a0%b1%e5%be%b3%e5%ad%a6%e5%9c%92) | 報徳学園 is a private school in Japan. The name translates to "School of Gratitude and Virtue". The school was founded in 1950 and focuses on providing a holistic education to its students, emphasizing the importance of both academic excellence and moral development. |
-| 41 | [源田の負傷](http://twitter.com/search?q=%e6%ba%90%e7%94%b0%e3%81%ae%e8%b2%a0%e5%82%b7) | N/A |
-| 42 | [M78星雲](http://twitter.com/search?q=M78%e6%98%9f%e9%9b%b2) | N/A |
-| 43 | [バウアー](http://twitter.com/search?q=%e3%83%90%e3%82%a6%e3%82%a2%e3%83%bc) | バウアー (bauer) is a type of Japanese sake made from rice, water, and koji (a type of mold). It is a dry sake with a light flavor and is often served chilled. In English, it can be translated as "dry sake". |
-| 44 | [石垣のりこ](http://twitter.com/search?q=%e7%9f%b3%e5%9e%a3%e3%81%ae%e3%82%8a%e3%81%93) | N/A |
-| 45 | [KINGレイナ](http://twitter.com/search?q=KING%e3%83%ac%e3%82%a4%e3%83%8a) | N/A |
-| 46 | [テラピース](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9) | N/A |
-| 47 | [報ステ全文](http://twitter.com/search?q=%e5%a0%b1%e3%82%b9%e3%83%86%e5%85%a8%e6%96%87) | N/A |
-| 48 | [極楽とんぼ](http://twitter.com/search?q=%e6%a5%b5%e6%a5%bd%e3%81%a8%e3%82%93%e3%81%bc) | N/A |
-| 49 | [アッシュのスパレジェ](http://twitter.com/search?q=%e3%82%a2%e3%83%83%e3%82%b7%e3%83%a5%e3%81%ae%e3%82%b9%e3%83%91%e3%83%ac%e3%82%b8%e3%82%a7) | N/A |
-| 50 | [自民一党](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e4%b8%80%e5%85%9a) | N/A |
+| 27 | [ナーゲルスマン](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%82%b2%e3%83%ab%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
+| 28 | [山口達也](http://twitter.com/search?q=%e5%b1%b1%e5%8f%a3%e9%81%94%e4%b9%9f) | N/A |
+| 29 | [カバーソング](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
+| 30 | [ラッコ先生](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b3%e5%85%88%e7%94%9f) | N/A |
+| 31 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
+| 32 | [トゥヘル](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%98%e3%83%ab) | N/A |
+| 33 | [ウエルシア](http://twitter.com/search?q=%e3%82%a6%e3%82%a8%e3%83%ab%e3%82%b7%e3%82%a2) | N/A |
+| 34 | [スマホリング](http://twitter.com/search?q=%e3%82%b9%e3%83%9e%e3%83%9b%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
+| 35 | [ウルトラ兄弟](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e5%85%84%e5%bc%9f) | N/A |
+| 36 | [ホルホル系](http://twitter.com/search?q=%e3%83%9b%e3%83%ab%e3%83%9b%e3%83%ab%e7%b3%bb) | N/A |
+| 37 | [メイケイエール](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b1%e3%82%a4%e3%82%a8%e3%83%bc%e3%83%ab) | N/A |
+| 38 | [ガーシー容疑者](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc%e5%ae%b9%e7%96%91%e8%80%85) | N/A |
+| 39 | [確定チケ](http://twitter.com/search?q=%e7%a2%ba%e5%ae%9a%e3%83%81%e3%82%b1) | N/A |
+| 40 | [ペーパーナイフ](http://twitter.com/search?q=%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc%e3%83%8a%e3%82%a4%e3%83%95) | N/A |
+| 41 | [落選メール](http://twitter.com/search?q=%e8%90%bd%e9%81%b8%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
+| 42 | [必勝しゃもじ](http://twitter.com/search?q=%e5%bf%85%e5%8b%9d%e3%81%97%e3%82%83%e3%82%82%e3%81%98) | N/A |
+| 43 | [アルコール依存症](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b3%e3%83%bc%e3%83%ab%e4%be%9d%e5%ad%98%e7%97%87) | N/A |
+| 44 | [京都人の密か](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e4%ba%ba%e3%81%ae%e5%af%86%e3%81%8b) | N/A |
+| 45 | [テラピース](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%94%e3%83%bc%e3%82%b9) | N/A |
+| 46 | [セブチのペンミ](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%81%e3%81%ae%e3%83%9a%e3%83%b3%e3%83%9f) | N/A |
+| 47 | [ユニクロ](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%82%af%e3%83%ad) | ユニクロ is a Japanese clothing brand that specializes in casual wear. The name is a combination of the words "uniform" and "clothing". In English, it means "Uniqlo". |
+| 48 | [氷見高校](http://twitter.com/search?q=%e6%b0%b7%e8%a6%8b%e9%ab%98%e6%a0%a1) | N/A |
+| 49 | [ドラッグストア最大手](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%83%e3%82%b0%e3%82%b9%e3%83%88%e3%82%a2%e6%9c%80%e5%a4%a7%e6%89%8b) | N/A |
 
 
 

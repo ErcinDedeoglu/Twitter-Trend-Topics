@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-24 03:17:56 UTC`
+📆 Last Updated: `2023-03-24 04:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for [Turkey](</Turkey>)
 | 20 | [Bora Aydınlık](http://twitter.com/search?q=Bora+Ayd%c4%b1nl%c4%b1k) | N/A |
 | 21 | [AşktanKaçılmaz ElSed](http://twitter.com/search?q=A%c5%9fktanKa%c3%a7%c4%b1lmaz+ElSed) | N/A |
 | 22 | [şartsıztayin şart](http://twitter.com/search?q=%c5%9farts%c4%b1ztayin+%c5%9fart) | N/A |
-| 23 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 23 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
 | 24 | [Erdoğan Kahramanmaraş](http://twitter.com/search?q=Erdo%c4%9fan+Kahramanmara%c5%9f) | N/A |
-| 25 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 26 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 27 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 28 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
-| 29 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
-| 30 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 31 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 32 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
-| 33 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
+| 25 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 26 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 27 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 28 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 29 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
+| 30 | [YEDİ KOCALI HÜRMÜZ](http://twitter.com/search?q=YED%c4%b0+KOCALI+H%c3%9cRM%c3%9cZ) | N/A |
+| 31 | [EhliyetYoksa OyMoyYok](http://twitter.com/search?q=EhliyetYoksa+OyMoyYok) | N/A |
+| 32 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 33 | [Güllaç](http://twitter.com/search?q=G%c3%bclla%c3%a7) | N/A |
 | 34 | [dünyanın sonu](http://twitter.com/search?q=d%c3%bcnyan%c4%b1n+sonu) | N/A |
-| 35 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 38 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
-| 39 | [Aziz Allah](http://twitter.com/search?q=Aziz+Allah) | N/A |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 35 | [TaşeronaKadro VerinArtık](http://twitter.com/search?q=Ta%c5%9feronaKadro+VerinArt%c4%b1k) | N/A |
+| 36 | [Fulya Öztürk](http://twitter.com/search?q=Fulya+%c3%96zt%c3%bcrk) | N/A |
+| 37 | [Aziz Allah](http://twitter.com/search?q=Aziz+Allah) | N/A |
+| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
+| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 41 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 42 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
-| 43 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 42 | [fenerbahçe opet](http://twitter.com/search?q=fenerbah%c3%a7e+opet) | N/A |
+| 43 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
 | 44 | [Mert Hakan Yandaş](http://twitter.com/search?q=Mert+Hakan+Yanda%c5%9f) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [Seninleyiz ErhanSaffar](http://twitter.com/search?q=Seninleyiz+ErhanSaffar) | N/A |
-| 47 | [Açlık](http://twitter.com/search?q=A%c3%a7l%c4%b1k) | N/A |
-| 48 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
-| 49 | [Jin-Ho Jo](http://twitter.com/search?q=Jin-Ho+Jo) | N/A |
-| 50 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 45 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 48 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 49 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
+| 50 | [Cuması](http://twitter.com/search?q=Cumas%c4%b1) | N/A |
 
 
 

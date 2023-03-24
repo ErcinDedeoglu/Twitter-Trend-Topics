@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-24 03:17:09 UTC`
+📆 Last Updated: `2023-03-24 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,47 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
 | 2 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
 | 3 | [England](http://twitter.com/search?q=England) | N/A |
-| 4 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
 | 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 9 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 7 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
 | 10 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 11 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 11 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 12 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 14 | [Carina](http://twitter.com/search?q=Carina) | N/A |
 | 15 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 16 | [Andrew Bowie](http://twitter.com/search?q=Andrew+Bowie) | N/A |
-| 17 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 18 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 19 | [Addison](http://twitter.com/search?q=Addison) | N/A |
-| 20 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 22 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 23 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 24 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 25 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 26 | [LANA DEL REY](http://twitter.com/search?q=LANA+DEL+REY) | N/A |
-| 27 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 28 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 30 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 31 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 32 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 34 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 35 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 36 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 37 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
-| 38 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 39 | [top gear](http://twitter.com/search?q=top+gear) | N/A |
-| 40 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 43 | [Simba](http://twitter.com/search?q=Simba) | N/A |
-| 44 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 45 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 46 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 47 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 48 | [warren](http://twitter.com/search?q=warren) | N/A |
+| 16 | [Addison](http://twitter.com/search?q=Addison) | N/A |
+| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 18 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 19 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 20 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 21 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 22 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 23 | [LANA DEL REY](http://twitter.com/search?q=LANA+DEL+REY) | N/A |
+| 24 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 26 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 27 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 28 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 29 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 32 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 33 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 34 | [warren](http://twitter.com/search?q=warren) | N/A |
+| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 36 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
+| 37 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 38 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
+| 39 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
+| 40 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
+| 41 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 42 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
+| 43 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 44 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
 
 
 

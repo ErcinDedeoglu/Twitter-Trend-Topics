@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-24 03:17:31 UTC`
+📆 Last Updated: `2023-03-24 04:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 4 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
 | 5 | [BOOTH](http://twitter.com/search?q=BOOTH) | N/A |
 | 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 7 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 8 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 9 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 10 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 11 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
+| 11 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
 | 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 13 | [England](http://twitter.com/search?q=England) | N/A |
 | 14 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
@@ -40,7 +40,7 @@ This is top 50 for [Norway](</Norway>)
 | 23 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 24 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
 | 25 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
-| 26 | [haugen](http://twitter.com/search?q=haugen) | N/A |
+| 26 | [Haugen](http://twitter.com/search?q=Haugen) | N/A |
 | 27 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 28 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 29 | [gutta](http://twitter.com/search?q=gutta) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Norway](</Norway>)
 | 44 | [drammen](http://twitter.com/search?q=drammen) | N/A |
 | 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 46 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
-| 47 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
+| 47 | [narvik](http://twitter.com/search?q=narvik) | N/A |
 | 48 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
 | 49 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
 
