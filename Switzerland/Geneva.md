@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-24 06:17:21 UTC`
+📆 Last Updated: `2023-03-24 07:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,17 +27,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 11 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 12 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 13 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 14 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 17 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 15 | [Valérie Dittli](http://twitter.com/search?q=Val%c3%a9rie+Dittli) | N/A |
+| 16 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 17 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
 | 18 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 19 | [Japon](http://twitter.com/search?q=Japon) | N/A |
 | 20 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
 | 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 22 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 23 | [America](http://twitter.com/search?q=America) | N/A |
+| 23 | [Amin](http://twitter.com/search?q=Amin) | N/A |
 | 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 25 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 26 | [Financial Times](http://twitter.com/search?q=Financial+Times) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 33 | [Historiker](http://twitter.com/search?q=Historiker) | N/A |
-| 34 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 35 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
-| 36 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 37 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 38 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 39 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 40 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
-| 41 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
-| 42 | [Dach](http://twitter.com/search?q=Dach) | N/A |
-| 43 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 45 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 46 | [Anlagen](http://twitter.com/search?q=Anlagen) | N/A |
-| 47 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
-| 48 | [Zuhause](http://twitter.com/search?q=Zuhause) | N/A |
+| 34 | [Licht](http://twitter.com/search?q=Licht) | N/A |
+| 35 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 36 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
+| 37 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 38 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 39 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 40 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 41 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 42 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 43 | [East Bengal](http://twitter.com/search?q=East+Bengal) | N/A |
+| 44 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 45 | [Dach](http://twitter.com/search?q=Dach) | N/A |
+| 46 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 47 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 48 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
 
 
 

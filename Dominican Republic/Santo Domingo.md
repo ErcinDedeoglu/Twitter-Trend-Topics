@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-24 06:17:06 UTC`
+📆 Last Updated: `2023-03-24 07:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 2 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
-| 3 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 4 | [#leoneltraidor](http://twitter.com/search?q=%23leoneltraidor) | N/A |
-| 5 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
+| 1 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
+| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 3 | [#leoneltraidor](http://twitter.com/search?q=%23leoneltraidor) | N/A |
+| 4 | [#PremiosSoberano2023](http://twitter.com/search?q=%23PremiosSoberano2023) | N/A |
+| 5 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
 | 6 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
 | 7 | [luis segura](http://twitter.com/search?q=luis+segura) | N/A |
 | 8 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 10 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
 | 11 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 12 | [alicia ortega](http://twitter.com/search?q=alicia+ortega) | N/A |
-| 13 | [Wason](http://twitter.com/search?q=Wason) | N/A |
+| 13 | [wason](http://twitter.com/search?q=wason) | N/A |
 | 14 | [yiyo](http://twitter.com/search?q=yiyo) | N/A |
 | 15 | [marcelo rebelo de sousa](http://twitter.com/search?q=marcelo+rebelo+de+sousa) | N/A |
 | 16 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 24 | [Canario](http://twitter.com/search?q=Canario) | N/A |
 | 25 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
 | 26 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 27 | [Kiskeya Life](http://twitter.com/search?q=Kiskeya+Life) | N/A |
+| 27 | [kiskeya life](http://twitter.com/search?q=kiskeya+life) | N/A |
 | 28 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
 | 29 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
 | 30 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
-| 31 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
+| 31 | [felipe vi](http://twitter.com/search?q=felipe+vi) | N/A |
 | 32 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
 | 33 | [luz garcía](http://twitter.com/search?q=luz+garc%c3%ada) | N/A |
 | 34 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
-| 35 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 35 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 36 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 37 | [zoila luna](http://twitter.com/search?q=zoila+luna) | N/A |
-| 38 | [Manny Cruz](http://twitter.com/search?q=Manny+Cruz) | N/A |
-| 39 | [tito nieves](http://twitter.com/search?q=tito+nieves) | N/A |
-| 40 | [Sergio Vargas](http://twitter.com/search?q=Sergio+Vargas) | N/A |
-| 41 | [Cherry](http://twitter.com/search?q=Cherry) | N/A |
-| 42 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
-| 43 | [santiago matías](http://twitter.com/search?q=santiago+mat%c3%adas) | N/A |
-| 44 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 45 | [josé maría cabral](http://twitter.com/search?q=jos%c3%a9+mar%c3%ada+cabral) | N/A |
-| 46 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
-| 47 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 48 | [dotol](http://twitter.com/search?q=dotol) | N/A |
-| 49 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 38 | [zoila luna](http://twitter.com/search?q=zoila+luna) | N/A |
+| 39 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
+| 40 | [tito nieves](http://twitter.com/search?q=tito+nieves) | N/A |
+| 41 | [Sergio Vargas](http://twitter.com/search?q=Sergio+Vargas) | N/A |
+| 42 | [Cherry](http://twitter.com/search?q=Cherry) | N/A |
+| 43 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
+| 44 | [santiago matías](http://twitter.com/search?q=santiago+mat%c3%adas) | N/A |
+| 45 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 46 | [josé maría cabral](http://twitter.com/search?q=jos%c3%a9+mar%c3%ada+cabral) | N/A |
+| 47 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
+| 48 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 49 | [dotol](http://twitter.com/search?q=dotol) | N/A |
+| 50 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 
 
 

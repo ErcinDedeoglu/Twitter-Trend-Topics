@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-24 06:17:09 UTC`
+📆 Last Updated: `2023-03-24 07:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Chile](</Chile>)
 | 12 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
 | 13 | [Shakira Tower](http://twitter.com/search?q=Shakira+Tower) | N/A |
 | 14 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 15 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 16 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 18 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 19 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
-| 20 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 21 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 24 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 27 | [Vistima](http://twitter.com/search?q=Vistima) | N/A |
-| 28 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
-| 29 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 30 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 31 | [FERRADA](http://twitter.com/search?q=FERRADA) | N/A |
-| 32 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 33 | [La Dra](http://twitter.com/search?q=La+Dra) | N/A |
-| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 35 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
-| 36 | [Renovación Nacional](http://twitter.com/search?q=Renovaci%c3%b3n+Nacional) | N/A |
+| 15 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 16 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
+| 17 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 18 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 19 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 20 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 21 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
+| 22 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Vistima](http://twitter.com/search?q=Vistima) | N/A |
+| 25 | [Gustavo Gatica](http://twitter.com/search?q=Gustavo+Gatica) | N/A |
+| 26 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 29 | [FERRADA](http://twitter.com/search?q=FERRADA) | N/A |
+| 30 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
+| 31 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 33 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 34 | [Maturana](http://twitter.com/search?q=Maturana) | N/A |
+| 35 | [Renovación Nacional](http://twitter.com/search?q=Renovaci%c3%b3n+Nacional) | N/A |
+| 36 | [La Dra](http://twitter.com/search?q=La+Dra) | N/A |
 | 37 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 38 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 39 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 41 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
-| 42 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 43 | [Johannes Kaiser](http://twitter.com/search?q=Johannes+Kaiser) | N/A |
-| 44 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 38 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 40 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
+| 41 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 42 | [Johannes Kaiser](http://twitter.com/search?q=Johannes+Kaiser) | N/A |
+| 43 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 44 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
 | 45 | [Chahuan](http://twitter.com/search?q=Chahuan) | N/A |
 | 46 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 47 | [Ley del Mono](http://twitter.com/search?q=Ley+del+Mono) | N/A |
-| 48 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
-| 49 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 47 | [ley del mono](http://twitter.com/search?q=ley+del+mono) | N/A |
+| 48 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 49 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-03-24 06:17:09 UTC`
+📆 Last Updated: `2023-03-24 07:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 2 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 5 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 6 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 8 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
-| 9 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 4 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 5 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 6 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 7 | [CAMBIOS DE LUNA 1 AÑO](http://twitter.com/search?q=CAMBIOS+DE+LUNA+1+A%c3%91O) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
 | 10 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 11 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 12 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
-| 13 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 14 | [Face-off](http://twitter.com/search?q=Face-off) | N/A |
-| 15 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 11 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 12 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 13 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
+| 14 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 15 | [Ocean Blvd](http://twitter.com/search?q=Ocean+Blvd) | N/A |
 | 16 | [HIDDEN TRACK](http://twitter.com/search?q=HIDDEN+TRACK) | N/A |
-| 17 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
-| 20 | [Interlude](http://twitter.com/search?q=Interlude) | N/A |
-| 21 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 22 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 23 | [Cambios de Luna](http://twitter.com/search?q=Cambios+de+Luna) | N/A |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 26 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 27 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 28 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 29 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 30 | [Cotsco](http://twitter.com/search?q=Cotsco) | N/A |
-| 31 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 32 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 33 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 34 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
-| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
-| 37 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 38 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 39 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
-| 40 | [Jetta](http://twitter.com/search?q=Jetta) | N/A |
-| 41 | [Johan Vásquez](http://twitter.com/search?q=Johan+V%c3%a1squez) | N/A |
-| 42 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
+| 17 | [Face-off](http://twitter.com/search?q=Face-off) | N/A |
+| 18 | [Lanita](http://twitter.com/search?q=Lanita) | N/A |
+| 19 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 20 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 21 | [Interlude](http://twitter.com/search?q=Interlude) | N/A |
+| 22 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 23 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 29 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 30 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 31 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 32 | [Cotsco](http://twitter.com/search?q=Cotsco) | N/A |
+| 33 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
+| 34 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 35 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
+| 36 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 37 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 38 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 39 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 40 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
+| 41 | [Jetta](http://twitter.com/search?q=Jetta) | N/A |
+| 42 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 43 | [Tsuru](http://twitter.com/search?q=Tsuru) | N/A |
-| 44 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 45 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 46 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 47 | [Kevin Álvarez](http://twitter.com/search?q=Kevin+%c3%81lvarez) | N/A |
+| 44 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 45 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 46 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 47 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
 
 
 
