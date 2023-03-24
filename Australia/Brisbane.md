@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-24 13:19:37 UTC`
+📆 Last Updated: `2023-03-24 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [#AUSvECU](http://twitter.com/search?q=%23AUSvECU) | N/A |
 | 5 | [#NRLStormTigers](http://twitter.com/search?q=%23NRLStormTigers) | N/A |
 | 6 | [#AFLBluesCats](http://twitter.com/search?q=%23AFLBluesCats) | N/A |
-| 7 | [Staggs](http://twitter.com/search?q=Staggs) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [Waverley](http://twitter.com/search?q=Waverley) | N/A |
-| 10 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 11 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 12 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 13 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 14 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 15 | [Gawn](http://twitter.com/search?q=Gawn) | N/A |
-| 16 | [Milford](http://twitter.com/search?q=Milford) | N/A |
-| 17 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 18 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 19 | [Kuol](http://twitter.com/search?q=Kuol) | N/A |
-| 20 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 21 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
-| 22 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
-| 23 | [Awer Mabil](http://twitter.com/search?q=Awer+Mabil) | N/A |
-| 24 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 25 | [luke brooks](http://twitter.com/search?q=luke+brooks) | N/A |
-| 26 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 27 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 28 | [Brayshaw](http://twitter.com/search?q=Brayshaw) | N/A |
-| 29 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 30 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 31 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
-| 32 | [Tom Browne](http://twitter.com/search?q=Tom+Browne) | N/A |
-| 33 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 34 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 35 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 36 | [Suncorp](http://twitter.com/search?q=Suncorp) | N/A |
-| 37 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 38 | [oliver](http://twitter.com/search?q=oliver) | N/A |
-| 39 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 40 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
-| 41 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 42 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
-| 43 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 44 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 45 | [Fox Footy](http://twitter.com/search?q=Fox+Footy) | N/A |
-| 46 | [Grand Final](http://twitter.com/search?q=Grand+Final) | N/A |
-| 47 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 48 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 49 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
-| 50 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
+| 9 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 10 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 11 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 12 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 13 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 14 | [Gawn](http://twitter.com/search?q=Gawn) | N/A |
+| 15 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 16 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
+| 17 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 18 | [luke brooks](http://twitter.com/search?q=luke+brooks) | N/A |
+| 19 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 20 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 21 | [Staggs](http://twitter.com/search?q=Staggs) | N/A |
+| 22 | [milford](http://twitter.com/search?q=milford) | N/A |
+| 23 | [Tom Browne](http://twitter.com/search?q=Tom+Browne) | N/A |
+| 24 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
+| 25 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 26 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 27 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 28 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 29 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 30 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 31 | [Brayshaw](http://twitter.com/search?q=Brayshaw) | N/A |
+| 32 | [marcia langton](http://twitter.com/search?q=marcia+langton) | N/A |
+| 33 | [Suncorp](http://twitter.com/search?q=Suncorp) | N/A |
+| 34 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 35 | [Garang Kuol](http://twitter.com/search?q=Garang+Kuol) | N/A |
+| 36 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 37 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 38 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 40 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 41 | [dunkley](http://twitter.com/search?q=dunkley) | N/A |
+| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 43 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
+| 44 | [waverley](http://twitter.com/search?q=waverley) | N/A |
+| 45 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 46 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
+| 47 | [Lidiot](http://twitter.com/search?q=Lidiot) | N/A |
+| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 49 | [craven](http://twitter.com/search?q=craven) | N/A |
+| 50 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
 
 
 

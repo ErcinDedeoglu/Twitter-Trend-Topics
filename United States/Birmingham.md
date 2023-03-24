@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-24 13:19:56 UTC`
+📆 Last Updated: `2023-03-24 14:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 4 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 7 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 9 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 10 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 11 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 12 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 13 | [#FlashbackFriday](http://twitter.com/search?q=%23FlashbackFriday) | N/A |
-| 14 | [Hailey Bieber](http://twitter.com/search?q=Hailey+Bieber) | N/A |
-| 15 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
-| 16 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 17 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 18 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 19 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 20 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 21 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 22 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
-| 23 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 24 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 25 | [Truely](http://twitter.com/search?q=Truely) | N/A |
-| 26 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 27 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 28 | [Reassigned](http://twitter.com/search?q=Reassigned) | N/A |
-| 29 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 30 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 31 | [Ash Ketchum](http://twitter.com/search?q=Ash+Ketchum) | N/A |
-| 32 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
-| 33 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 34 | [Cane](http://twitter.com/search?q=Cane) | N/A |
-| 35 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
-| 36 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
-| 37 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 38 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 39 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 41 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
-| 42 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 43 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
+| 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 2 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 3 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 8 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 9 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 10 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 11 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 12 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 13 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 14 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 15 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 16 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 17 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
+| 18 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 19 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 20 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 21 | [Josh Alexander](http://twitter.com/search?q=Josh+Alexander) | N/A |
+| 22 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 23 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 24 | [Bozo the Clown](http://twitter.com/search?q=Bozo+the+Clown) | N/A |
+| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 26 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 27 | [Aiden Fucci](http://twitter.com/search?q=Aiden+Fucci) | N/A |
+| 28 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 29 | [Truely](http://twitter.com/search?q=Truely) | N/A |
+| 30 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
+| 31 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
+| 32 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
+| 33 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 34 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 35 | [ITS FRIDAY](http://twitter.com/search?q=ITS+FRIDAY) | N/A |
+| 36 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 37 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 38 | [Pidgeot](http://twitter.com/search?q=Pidgeot) | N/A |
+| 39 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
+| 40 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 41 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 42 | [Reassigned](http://twitter.com/search?q=Reassigned) | N/A |
+| 43 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
 | 44 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 45 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 46 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 45 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 46 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 
 
 

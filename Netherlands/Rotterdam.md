@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-24 13:19:32 UTC`
+📆 Last Updated: `2023-03-24 14:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 7 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
 | 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 10 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
-| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 13 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 14 | [Premier Rutte](http://twitter.com/search?q=Premier+Rutte) | N/A |
-| 15 | [Deliveroo](http://twitter.com/search?q=Deliveroo) | N/A |
+| 9 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
+| 10 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 11 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
+| 15 | [Premier Rutte](http://twitter.com/search?q=Premier+Rutte) | N/A |
 | 16 | [willem-alexander](http://twitter.com/search?q=willem-alexander) | N/A |
 | 17 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 18 | [Klaas Knot](http://twitter.com/search?q=Klaas+Knot) | N/A |
-| 19 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 20 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 21 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 22 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Johan Cruijff](http://twitter.com/search?q=Johan+Cruijff) | N/A |
+| 19 | [Klaas Knot](http://twitter.com/search?q=Klaas+Knot) | N/A |
+| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 21 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 22 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 23 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 24 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
-| 25 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 26 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 27 | [Eemshaven](http://twitter.com/search?q=Eemshaven) | N/A |
-| 28 | [Youp](http://twitter.com/search?q=Youp) | N/A |
-| 29 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 30 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [paniekzaaiers](http://twitter.com/search?q=paniekzaaiers) | N/A |
-| 33 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 34 | [Pointer](http://twitter.com/search?q=Pointer) | N/A |
-| 35 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 26 | [Eemshaven](http://twitter.com/search?q=Eemshaven) | N/A |
+| 27 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 28 | [Deliveroo](http://twitter.com/search?q=Deliveroo) | N/A |
+| 29 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 30 | [paniekzaaiers](http://twitter.com/search?q=paniekzaaiers) | N/A |
+| 31 | [pointer](http://twitter.com/search?q=pointer) | N/A |
+| 32 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 35 | [gefeliciteerd raisa](http://twitter.com/search?q=gefeliciteerd+raisa) | N/A |
 | 36 | [Emden](http://twitter.com/search?q=Emden) | N/A |
 | 37 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 38 | [Vleutenseweg](http://twitter.com/search?q=Vleutenseweg) | N/A |
+| 38 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 39 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 40 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 41 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 45 | [Hoge Raad](http://twitter.com/search?q=Hoge+Raad) | N/A |
-| 46 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
-| 47 | [Dave Roelvink](http://twitter.com/search?q=Dave+Roelvink) | N/A |
+| 40 | [Vleutenseweg](http://twitter.com/search?q=Vleutenseweg) | N/A |
+| 41 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 42 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 43 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 44 | [Dave Roelvink](http://twitter.com/search?q=Dave+Roelvink) | N/A |
+| 45 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 46 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

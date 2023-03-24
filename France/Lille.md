@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-24 13:19:28 UTC`
+📆 Last Updated: `2023-03-24 14:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
-| 2 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
-| 3 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 4 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
-| 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 6 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 2 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 3 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
+| 4 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 5 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 7 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 8 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
-| 9 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 10 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 11 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 12 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
-| 13 | [Gueguette](http://twitter.com/search?q=Gueguette) | N/A |
-| 14 | [Gérard Hernandez](http://twitter.com/search?q=G%c3%a9rard+Hernandez) | N/A |
-| 15 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 16 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 17 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
-| 18 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 19 | [Blachier](http://twitter.com/search?q=Blachier) | N/A |
-| 20 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 21 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 22 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 23 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
-| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 25 | [Le Roi](http://twitter.com/search?q=Le+Roi) | N/A |
-| 26 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 27 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 28 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 29 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
-| 30 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 31 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 32 | [L'extrême](http://twitter.com/search?q=L%27extr%c3%aame) | N/A |
-| 33 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
-| 34 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 35 | [C'est Macron](http://twitter.com/search?q=C%27est+Macron) | N/A |
-| 36 | [Gégé](http://twitter.com/search?q=G%c3%a9g%c3%a9) | N/A |
-| 37 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 38 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 39 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 40 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 41 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 42 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
-| 43 | [#FreebetPMU](http://twitter.com/search?q=%23FreebetPMU) | N/A |
-| 44 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 45 | [#Sidaction2023](http://twitter.com/search?q=%23Sidaction2023) | N/A |
-| 46 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 8 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 9 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 10 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
+| 11 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 12 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
+| 13 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 14 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 15 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 16 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
+| 17 | [RTNC](http://twitter.com/search?q=RTNC) | N/A |
+| 18 | [Gérard Hernandez](http://twitter.com/search?q=G%c3%a9rard+Hernandez) | N/A |
+| 19 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
+| 20 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 21 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 22 | [Leroy Merlin](http://twitter.com/search?q=Leroy+Merlin) | N/A |
+| 23 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
+| 24 | [Gueguette](http://twitter.com/search?q=Gueguette) | N/A |
+| 25 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 26 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 27 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 28 | [Blachier](http://twitter.com/search?q=Blachier) | N/A |
+| 29 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 30 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 31 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 32 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 33 | [Le Roi](http://twitter.com/search?q=Le+Roi) | N/A |
+| 34 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 35 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
+| 36 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 37 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
+| 38 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 39 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 42 | [C'est Macron](http://twitter.com/search?q=C%27est+Macron) | N/A |
+| 43 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 44 | [Gégé](http://twitter.com/search?q=G%c3%a9g%c3%a9) | N/A |
+| 45 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 46 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
 
 
 

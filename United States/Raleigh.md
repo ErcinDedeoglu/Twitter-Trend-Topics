@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-24 13:20:02 UTC`
+📆 Last Updated: `2023-03-24 14:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 2 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 5 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 8 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 9 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 10 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 11 | [Hailey Bieber](http://twitter.com/search?q=Hailey+Bieber) | N/A |
-| 12 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
-| 13 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 14 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 15 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 16 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
-| 17 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 18 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 19 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
-| 20 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 21 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 22 | [Truely](http://twitter.com/search?q=Truely) | N/A |
-| 23 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 24 | [Haein](http://twitter.com/search?q=Haein) | N/A |
-| 25 | [Reassigned](http://twitter.com/search?q=Reassigned) | N/A |
-| 26 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 27 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 28 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 29 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 30 | [Ash Ketchum](http://twitter.com/search?q=Ash+Ketchum) | N/A |
-| 31 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
-| 32 | [Cane](http://twitter.com/search?q=Cane) | N/A |
-| 33 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
-| 34 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 35 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
-| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 37 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 38 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
-| 39 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 40 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 41 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 42 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
-| 43 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 44 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 45 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 46 | [Mike Hunt](http://twitter.com/search?q=Mike+Hunt) | N/A |
-| 47 | [The Breakfast Club](http://twitter.com/search?q=The+Breakfast+Club) | N/A |
-| 48 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
-| 49 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 6 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 7 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 9 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 10 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 11 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 12 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
+| 13 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 14 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 15 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 16 | [Josh Alexander](http://twitter.com/search?q=Josh+Alexander) | N/A |
+| 17 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 18 | [Bozo the Clown](http://twitter.com/search?q=Bozo+the+Clown) | N/A |
+| 19 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 20 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 21 | [Aiden Fucci](http://twitter.com/search?q=Aiden+Fucci) | N/A |
+| 22 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 23 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 24 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
+| 25 | [Truely](http://twitter.com/search?q=Truely) | N/A |
+| 26 | [Hearings](http://twitter.com/search?q=Hearings) | N/A |
+| 27 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
+| 28 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 29 | [ITS FRIDAY](http://twitter.com/search?q=ITS+FRIDAY) | N/A |
+| 30 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 31 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 32 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 33 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 34 | [Pidgeot](http://twitter.com/search?q=Pidgeot) | N/A |
+| 35 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
+| 36 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 37 | [Reassigned](http://twitter.com/search?q=Reassigned) | N/A |
+| 38 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 39 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 40 | [Cane](http://twitter.com/search?q=Cane) | N/A |
+| 41 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 42 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 43 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
+| 44 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 45 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 46 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
+| 47 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
+| 48 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 49 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
 
 
 

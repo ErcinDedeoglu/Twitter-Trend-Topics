@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-24 13:19:27 UTC`
+📆 Last Updated: `2023-03-24 14:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [#NuncaMas](http://twitter.com/search?q=%23NuncaMas) | N/A |
-| 3 | [#MemoriaVerdadYJusticia](http://twitter.com/search?q=%23MemoriaVerdadYJusticia) | N/A |
-| 4 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 5 | [#24deMarzo](http://twitter.com/search?q=%2324deMarzo) | N/A |
-| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 7 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 8 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 9 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 10 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 11 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 12 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 13 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 15 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 16 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 17 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
-| 18 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 19 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 20 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
-| 21 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 22 | [Anses](http://twitter.com/search?q=Anses) | N/A |
-| 23 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 24 | [AFJP](http://twitter.com/search?q=AFJP) | N/A |
-| 25 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 26 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 27 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 28 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 29 | [Cada 24](http://twitter.com/search?q=Cada+24) | N/A |
-| 30 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 31 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 32 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 33 | [somos campeones del mundo](http://twitter.com/search?q=somos+campeones+del+mundo) | N/A |
-| 34 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 35 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 36 | [Robertito](http://twitter.com/search?q=Robertito) | Robertito is a Spanish nickname for the name Robert. It is derived from the diminutive form of the name, Roberto. In English, it can be translated to mean "Little Robert". |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Hoy 24](http://twitter.com/search?q=Hoy+24) | N/A |
-| 39 | [chiqui tapia](http://twitter.com/search?q=chiqui+tapia) | N/A |
-| 40 | [Capristo](http://twitter.com/search?q=Capristo) | N/A |
-| 41 | [PRESENTES](http://twitter.com/search?q=PRESENTES) | N/A |
-| 42 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
-| 43 | [licha](http://twitter.com/search?q=licha) | N/A |
-| 44 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 45 | [La Konga](http://twitter.com/search?q=La+Konga) | N/A |
-| 46 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 47 | [Goyco](http://twitter.com/search?q=Goyco) | N/A |
-| 48 | [Abuelas](http://twitter.com/search?q=Abuelas) | N/A |
-| 49 | [Montoneros](http://twitter.com/search?q=Montoneros) | N/A |
-| 50 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 1 | [#NuncaMas](http://twitter.com/search?q=%23NuncaMas) | N/A |
+| 2 | [#MemoriaVerdadYJusticia](http://twitter.com/search?q=%23MemoriaVerdadYJusticia) | N/A |
+| 3 | [#24deMarzo](http://twitter.com/search?q=%2324deMarzo) | N/A |
+| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 5 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 6 | [#SaltaConElPrimo](http://twitter.com/search?q=%23SaltaConElPrimo) | N/A |
+| 7 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 8 | [Madres](http://twitter.com/search?q=Madres) | N/A |
+| 9 | [Este 24](http://twitter.com/search?q=Este+24) | N/A |
+| 10 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
+| 11 | [Montoneros](http://twitter.com/search?q=Montoneros) | N/A |
+| 12 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 13 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 14 | [Cada 24](http://twitter.com/search?q=Cada+24) | N/A |
+| 15 | [AHORA Y SIEMPRE](http://twitter.com/search?q=AHORA+Y+SIEMPRE) | N/A |
+| 16 | [PRESENTES](http://twitter.com/search?q=PRESENTES) | N/A |
+| 17 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
+| 18 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 19 | [Juntas](http://twitter.com/search?q=Juntas) | N/A |
+| 20 | [Terrorismo de Estado](http://twitter.com/search?q=Terrorismo+de+Estado) | N/A |
+| 21 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 22 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 23 | [ESMA](http://twitter.com/search?q=ESMA) | N/A |
+| 24 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 25 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 26 | [Juicio](http://twitter.com/search?q=Juicio) | N/A |
+| 27 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 28 | [Capristo](http://twitter.com/search?q=Capristo) | N/A |
+| 29 | [#Son30000](http://twitter.com/search?q=%23Son30000) | N/A |
+| 30 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
+| 31 | [#DemocraciaParaSiempre](http://twitter.com/search?q=%23DemocraciaParaSiempre) | N/A |
+| 32 | [#47AñosDelGolpeGenocida](http://twitter.com/search?q=%2347A%c3%b1osDelGolpeGenocida) | N/A |
+| 33 | [#24Marzo](http://twitter.com/search?q=%2324Marzo) | N/A |
+| 34 | [#Son30Mil](http://twitter.com/search?q=%23Son30Mil) | N/A |
+| 35 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 36 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
+| 37 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-24 13:19:27 UTC`
+📆 Last Updated: `2023-03-24 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BabcioweWymiata](http://twitter.com/search?q=%23BabcioweWymiata) | N/A |
-| 2 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
-| 3 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 7 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 8 | [Nagelsmanna](http://twitter.com/search?q=Nagelsmanna) | N/A |
-| 9 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 10 | [Ulmów](http://twitter.com/search?q=Ulm%c3%b3w) | N/A |
-| 11 | [Narodowy Dzień Pamięci Polaków](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci+Polak%c3%b3w) | N/A |
+| 2 | [#JesteśGotowy](http://twitter.com/search?q=%23Jeste%c5%9bGotowy) | N/A |
+| 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 4 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
+| 7 | [Nagelsmanna](http://twitter.com/search?q=Nagelsmanna) | N/A |
+| 8 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 9 | [Ulmów](http://twitter.com/search?q=Ulm%c3%b3w) | N/A |
+| 10 | [Narodowy Dzień Pamięci Polaków](http://twitter.com/search?q=Narodowy+Dzie%c5%84+Pami%c4%99ci+Polak%c3%b3w) | N/A |
+| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 12 | [Bayernu](http://twitter.com/search?q=Bayernu) | N/A |
-| 13 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 13 | [Markowej](http://twitter.com/search?q=Markowej) | N/A |
 | 14 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 15 | [markowej](http://twitter.com/search?q=markowej) | N/A |
-| 16 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 15 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 16 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
 | 17 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 18 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 19 | [Hołowni](http://twitter.com/search?q=Ho%c5%82owni) | N/A |
 | 20 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
 | 21 | [Ipsos](http://twitter.com/search?q=Ipsos) | N/A |
-| 22 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 23 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 24 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 25 | [Colley](http://twitter.com/search?q=Colley) | N/A |
-| 26 | [Narodowy Dzień Życia](http://twitter.com/search?q=Narodowy+Dzie%c5%84+%c5%bbycia) | N/A |
-| 27 | [Przysmak](http://twitter.com/search?q=Przysmak) | N/A |
-| 28 | [Komisji Europejskiej](http://twitter.com/search?q=Komisji+Europejskiej) | N/A |
-| 29 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
-| 30 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 31 | [Górnicy](http://twitter.com/search?q=G%c3%b3rnicy) | N/A |
-| 32 | [Szymon](http://twitter.com/search?q=Szymon) | N/A |
-| 33 | [Pile](http://twitter.com/search?q=Pile) | N/A |
-| 34 | [Palikot](http://twitter.com/search?q=Palikot) | N/A |
-| 35 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
-| 36 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 37 | [klarenbach](http://twitter.com/search?q=klarenbach) | N/A |
-| 38 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 39 | [Czechy - Polska](http://twitter.com/search?q=Czechy+-+Polska) | N/A |
-| 40 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 41 | [Izera](http://twitter.com/search?q=Izera) | N/A |
-| 42 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
-| 43 | [Rumburak](http://twitter.com/search?q=Rumburak) | N/A |
-| 44 | [Bosaka](http://twitter.com/search?q=Bosaka) | N/A |
-| 45 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 46 | [Wiktorię](http://twitter.com/search?q=Wiktori%c4%99) | N/A |
-| 47 | [Narodów Świata](http://twitter.com/search?q=Narod%c3%b3w+%c5%9awiata) | N/A |
-| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 22 | [Książę William](http://twitter.com/search?q=Ksi%c4%85%c5%bc%c4%99+William) | N/A |
+| 23 | [Jaworznie](http://twitter.com/search?q=Jaworznie) | N/A |
+| 24 | [Szymon](http://twitter.com/search?q=Szymon) | N/A |
+| 25 | [Narodowy Dzień Życia](http://twitter.com/search?q=Narodowy+Dzie%c5%84+%c5%bbycia) | N/A |
+| 26 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 27 | [przysmak](http://twitter.com/search?q=przysmak) | N/A |
+| 28 | [górnicy](http://twitter.com/search?q=g%c3%b3rnicy) | N/A |
+| 29 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 30 | [Pile](http://twitter.com/search?q=Pile) | N/A |
+| 31 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
+| 32 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 33 | [Częstochowie](http://twitter.com/search?q=Cz%c4%99stochowie) | N/A |
+| 34 | [klarenbach](http://twitter.com/search?q=klarenbach) | N/A |
+| 35 | [Komisji Europejskiej](http://twitter.com/search?q=Komisji+Europejskiej) | N/A |
+| 36 | [Colley](http://twitter.com/search?q=Colley) | N/A |
+| 37 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 38 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 39 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 40 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 41 | [Chorzowie](http://twitter.com/search?q=Chorzowie) | N/A |
+| 42 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 43 | [Narodów Świata](http://twitter.com/search?q=Narod%c3%b3w+%c5%9awiata) | N/A |
+| 44 | [Skorup](http://twitter.com/search?q=Skorup) | N/A |
+| 45 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 46 | [czechy - polska](http://twitter.com/search?q=czechy+-+polska) | N/A |
+| 47 | [Wiktorię](http://twitter.com/search?q=Wiktori%c4%99) | N/A |
+| 48 | [Lany](http://twitter.com/search?q=Lany) | N/A |
 
 
 

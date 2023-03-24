@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-24 13:19:29 UTC`
+📆 Last Updated: `2023-03-24 14:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Germany](</Germany>)
 | 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 11 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 12 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 13 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 14 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 15 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 12 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 13 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 14 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 15 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 16 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 17 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
-| 18 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 20 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 21 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 17 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 18 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 19 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 20 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 21 | [Waschmaschine](http://twitter.com/search?q=Waschmaschine) | N/A |
 | 22 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
 | 23 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
 | 24 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
 | 25 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 26 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
-| 27 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 28 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 29 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 30 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 31 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 32 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 33 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 34 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
-| 35 | [Schwägerin](http://twitter.com/search?q=Schw%c3%a4gerin) | N/A |
-| 36 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 37 | [kreisel](http://twitter.com/search?q=kreisel) | N/A |
-| 38 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 39 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
-| 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 41 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 42 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 43 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 44 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 45 | [Waschmaschine](http://twitter.com/search?q=Waschmaschine) | N/A |
-| 46 | ['Tanzen'](http://twitter.com/search?q=%27Tanzen%27) | N/A |
+| 26 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 27 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 28 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
+| 29 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 30 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 31 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 32 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 33 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
+| 34 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
+| 35 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 36 | [Bosse](http://twitter.com/search?q=Bosse) | N/A |
+| 37 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 38 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 39 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 40 | [kriegserklärung](http://twitter.com/search?q=kriegserkl%c3%a4rung) | N/A |
+| 41 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 42 | [Schwägerin](http://twitter.com/search?q=Schw%c3%a4gerin) | N/A |
+| 43 | ['Tanzen'](http://twitter.com/search?q=%27Tanzen%27) | N/A |
+| 44 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 45 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 46 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 47 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 48 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
-| 49 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 50 | [Rechnerisch](http://twitter.com/search?q=Rechnerisch) | N/A |
+| 48 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 49 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
+| 50 | [rauswurf](http://twitter.com/search?q=rauswurf) | N/A |
 
 
 
