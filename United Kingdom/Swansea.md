@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-24 18:18:46 UTC`
+📆 Last Updated: `2023-03-24 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 2 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 3 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 4 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 5 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 6 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
-| 7 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 1 | [#rainbow](http://twitter.com/search?q=%23rainbow) | N/A |
+| 2 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 3 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 4 | [Mark Littlewood](http://twitter.com/search?q=Mark+Littlewood) | N/A |
+| 5 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 8 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 9 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
 | 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 11 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 12 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 13 | [Chough](http://twitter.com/search?q=Chough) | N/A |
-| 14 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 15 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 16 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 17 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
-| 18 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 19 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 20 | [FUT Birthday](http://twitter.com/search?q=FUT+Birthday) | N/A |
-| 21 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 22 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
-| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 24 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
-| 25 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 26 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 29 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
-| 30 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
-| 31 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 32 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 33 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 34 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
-| 35 | [Jake Humphrey](http://twitter.com/search?q=Jake+Humphrey) | N/A |
-| 36 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 37 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 38 | [Patrick Schick](http://twitter.com/search?q=Patrick+Schick) | N/A |
-| 39 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
-| 40 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 41 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 42 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
-| 43 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 44 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
+| 11 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 12 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 13 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 14 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
+| 15 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 18 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 19 | [Chough](http://twitter.com/search?q=Chough) | N/A |
+| 20 | [Ghostbusters](http://twitter.com/search?q=Ghostbusters) | N/A |
+| 21 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 22 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 23 | [Izzard](http://twitter.com/search?q=Izzard) | N/A |
+| 24 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 25 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 26 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
+| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 28 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 29 | [Redwood](http://twitter.com/search?q=Redwood) | N/A |
+| 30 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
+| 31 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
+| 32 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 33 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 34 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 35 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 36 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 37 | [Resi 4](http://twitter.com/search?q=Resi+4) | N/A |
+| 38 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
+| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 40 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 41 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
+| 42 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 43 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 44 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
 
 
 

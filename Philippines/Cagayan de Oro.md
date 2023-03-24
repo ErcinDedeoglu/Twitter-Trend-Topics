@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-24 18:19:09 UTC`
+📆 Last Updated: `2023-03-24 19:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,36 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
 | 5 | [BES LALISA IS BACK](http://twitter.com/search?q=BES+LALISA+IS+BACK) | N/A |
 | 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 7 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 7 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 8 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
 | 9 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
 | 10 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
 | 11 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 12 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 13 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
-| 14 | [BINI HEATS UP CLOVERLEAF](http://twitter.com/search?q=BINI+HEATS+UP+CLOVERLEAF) | N/A |
-| 15 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 16 | [VXON SAM COMEBACK TEASER](http://twitter.com/search?q=VXON+SAM+COMEBACK+TEASER) | N/A |
-| 17 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 18 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 19 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 20 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 21 | [BinSan](http://twitter.com/search?q=BinSan) | N/A |
-| 22 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
-| 23 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 24 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 25 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 26 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
-| 27 | [#KitakitsBLACKPINK](http://twitter.com/search?q=%23KitakitsBLACKPINK) | N/A |
-| 28 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 29 | [#FreenBeckyAromagicare](http://twitter.com/search?q=%23FreenBeckyAromagicare) | N/A |
-| 30 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 31 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 32 | [#髙田真史帆](http://twitter.com/search?q=%23%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
-| 33 | [#aBossandaBabeEP4](http://twitter.com/search?q=%23aBossandaBabeEP4) | N/A |
-| 34 | [#HiGH_LOW](http://twitter.com/search?q=%23HiGH_LOW) | N/A |
-| 35 | [#행운이_가득할_시호의_스물세번째생일](http://twitter.com/search?q=%23%ed%96%89%ec%9a%b4%ec%9d%b4_%ea%b0%80%eb%93%9d%ed%95%a0_%ec%8b%9c%ed%98%b8%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88%ec%a7%b8%ec%83%9d%ec%9d%bc) | N/A |
-| 36 | [#中本悠太](http://twitter.com/search?q=%23%e4%b8%ad%e6%9c%ac%e6%82%a0%e5%a4%aa) | N/A |
-| 37 | [#WelcomeToPH_DDANKONG](http://twitter.com/search?q=%23WelcomeToPH_DDANKONG) | N/A |
-| 38 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
-| 39 | [#JinnysKitchenEp5](http://twitter.com/search?q=%23JinnysKitchenEp5) | N/A |
-| 40 | [#ShowmeloveTheseriesEP4](http://twitter.com/search?q=%23ShowmeloveTheseriesEP4) | N/A |
-| 41 | [#TeenClashEp2](http://twitter.com/search?q=%23TeenClashEp2) | N/A |
-| 42 | [#VoltesVLegacy](http://twitter.com/search?q=%23VoltesVLegacy) | N/A |
-| 43 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
-| 44 | [#VXON_SAM](http://twitter.com/search?q=%23VXON_SAM) | N/A |
-| 45 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 46 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 47 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
-| 48 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
+| 13 | [BINI HEATS UP CLOVERLEAF](http://twitter.com/search?q=BINI+HEATS+UP+CLOVERLEAF) | N/A |
+| 14 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 15 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 16 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 17 | [moonbin](http://twitter.com/search?q=moonbin) | N/A |
+| 18 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
+| 19 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
+| 20 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
+| 21 | [#KitakitsBLACKPINK](http://twitter.com/search?q=%23KitakitsBLACKPINK) | N/A |
+| 22 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 23 | [#FreenBeckyAromagicare](http://twitter.com/search?q=%23FreenBeckyAromagicare) | N/A |
+| 24 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 25 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 26 | [#髙田真史帆](http://twitter.com/search?q=%23%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 27 | [#aBossandaBabeEP4](http://twitter.com/search?q=%23aBossandaBabeEP4) | N/A |
+| 28 | [#HiGH_LOW](http://twitter.com/search?q=%23HiGH_LOW) | N/A |
+| 29 | [#FurFurBarDaHugot](http://twitter.com/search?q=%23FurFurBarDaHugot) | N/A |
+| 30 | [#행운이_가득할_시호의_스물세번째생일](http://twitter.com/search?q=%23%ed%96%89%ec%9a%b4%ec%9d%b4_%ea%b0%80%eb%93%9d%ed%95%a0_%ec%8b%9c%ed%98%b8%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88%ec%a7%b8%ec%83%9d%ec%9d%bc) | N/A |
+| 31 | [#中本悠太](http://twitter.com/search?q=%23%e4%b8%ad%e6%9c%ac%e6%82%a0%e5%a4%aa) | N/A |
+| 32 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
+| 33 | [#JinnysKitchenEp5](http://twitter.com/search?q=%23JinnysKitchenEp5) | N/A |
+| 34 | [#TeenClashEp2](http://twitter.com/search?q=%23TeenClashEp2) | N/A |
+| 35 | [#VoltesVLegacy](http://twitter.com/search?q=%23VoltesVLegacy) | N/A |
+| 36 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
 
 
 

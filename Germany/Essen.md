@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-24 18:18:57 UTC`
+📆 Last Updated: `2023-03-24 19:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
 | 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 3 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 4 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 5 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
-| 6 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 8 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 9 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 4 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 5 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 6 | [#DeutscheBank](http://twitter.com/search?q=%23DeutscheBank) | N/A |
+| 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 9 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
 | 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 11 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 12 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 13 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 14 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 15 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 16 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
-| 17 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
-| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 20 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 11 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 12 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 13 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 14 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
+| 15 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 16 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 17 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 18 | [Moritz](http://twitter.com/search?q=Moritz) | N/A |
+| 19 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 21 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 22 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 23 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
-| 24 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 25 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 26 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 27 | [Regenbogen](http://twitter.com/search?q=Regenbogen) | N/A |
-| 28 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 29 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 30 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 31 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
-| 32 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 33 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
-| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 35 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 36 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 37 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
-| 38 | [Elfe](http://twitter.com/search?q=Elfe) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
-| 41 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 42 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 43 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 44 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
-| 45 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
-| 46 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 22 | [Elfe](http://twitter.com/search?q=Elfe) | N/A |
+| 23 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 24 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 25 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 26 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 27 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 28 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 29 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
+| 30 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 32 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 34 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 35 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
+| 36 | [Regenbogen](http://twitter.com/search?q=Regenbogen) | N/A |
+| 37 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 38 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
+| 39 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 40 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 41 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 42 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
+| 43 | [Prost](http://twitter.com/search?q=Prost) | N/A |
+| 44 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 45 | [Säbener Straße](http://twitter.com/search?q=S%c3%a4bener+Stra%c3%9fe) | N/A |
+| 46 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
 | 47 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
 | 48 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
-| 49 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 49 | [Wärmepumpe](http://twitter.com/search?q=W%c3%a4rmepumpe) | N/A |
 
 
 

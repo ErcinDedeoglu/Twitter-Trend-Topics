@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-24 18:19:32 UTC`
+📆 Last Updated: `2023-03-24 19:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 2 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
-| 3 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 4 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 5 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 6 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 7 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 10 | [Comores](http://twitter.com/search?q=Comores) | N/A |
-| 11 | [JVLIVS](http://twitter.com/search?q=JVLIVS) | N/A |
-| 12 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
-| 13 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
-| 14 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 15 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 16 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 17 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
+| 1 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 2 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 3 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 4 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
+| 5 | [#FRAPBS](http://twitter.com/search?q=%23FRAPBS) | N/A |
+| 6 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 9 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 10 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 11 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 12 | [JVLIVS](http://twitter.com/search?q=JVLIVS) | N/A |
+| 13 | [Comores](http://twitter.com/search?q=Comores) | N/A |
+| 14 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
+| 15 | [ALLEZ LES BLEUS](http://twitter.com/search?q=ALLEZ+LES+BLEUS) | N/A |
+| 16 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
+| 17 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
 | 18 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
 | 19 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 20 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 21 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 22 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
-| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 24 | [Targou](http://twitter.com/search?q=Targou) | N/A |
-| 25 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 26 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 27 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
-| 28 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
-| 29 | [Caliste](http://twitter.com/search?q=Caliste) | N/A |
-| 30 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
-| 31 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
-| 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 33 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 34 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
-| 35 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 36 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 37 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 38 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
-| 39 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 40 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
-| 41 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 42 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
-| 43 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
-| 44 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
-| 45 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 46 | [Amnesty International](http://twitter.com/search?q=Amnesty+International) | N/A |
-| 47 | [Samedi 25](http://twitter.com/search?q=Samedi+25) | N/A |
-| 48 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 49 | [#CIVCOM](http://twitter.com/search?q=%23CIVCOM) | N/A |
-| 50 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
+| 20 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 21 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 22 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 23 | [Nerroh](http://twitter.com/search?q=Nerroh) | N/A |
+| 24 | [OQTF](http://twitter.com/search?q=OQTF) | OQTF stands for "On Queue, Task Finished," which is a phrase used to indicate that a task has been completed and is ready to be reviewed. |
+| 25 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 26 | [Skeanz](http://twitter.com/search?q=Skeanz) | N/A |
+| 27 | [Targou](http://twitter.com/search?q=Targou) | N/A |
+| 28 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 29 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 30 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 31 | [Poutou](http://twitter.com/search?q=Poutou) | N/A |
+| 32 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 33 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 34 | [Médine](http://twitter.com/search?q=M%c3%a9dine) | N/A |
+| 35 | [Caliste](http://twitter.com/search?q=Caliste) | N/A |
+| 36 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 37 | [Retrait](http://twitter.com/search?q=Retrait) | N/A |
+| 38 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
+| 39 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 40 | [Targamas](http://twitter.com/search?q=Targamas) | N/A |
+| 41 | [Yamato](http://twitter.com/search?q=Yamato) | N/A |
+| 42 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 43 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 44 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 45 | [Malik Oussekine](http://twitter.com/search?q=Malik+Oussekine) | N/A |
+| 46 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
+| 47 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 48 | [L'Iran](http://twitter.com/search?q=L%27Iran) | N/A |
+| 49 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
+| 50 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
 
 
 

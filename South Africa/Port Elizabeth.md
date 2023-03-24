@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-24 18:19:12 UTC`
+📆 Last Updated: `2023-03-24 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,40 +17,51 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 | 2 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 3 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 4 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 5 | [#AFCON2023Qualifiers](http://twitter.com/search?q=%23AFCON2023Qualifiers) | N/A |
-| 6 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 3 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 4 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 5 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 6 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
 | 7 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
 | 8 | [#capitec](http://twitter.com/search?q=%23capitec) | N/A |
-| 9 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
-| 10 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 11 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 12 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 13 | [Themba Zwane](http://twitter.com/search?q=Themba+Zwane) | N/A |
-| 14 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
-| 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 16 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 17 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 18 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 19 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
-| 20 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 21 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 22 | [Orlando Stadium](http://twitter.com/search?q=Orlando+Stadium) | N/A |
-| 23 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 24 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 25 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 26 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 27 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
-| 28 | [President Putin](http://twitter.com/search?q=President+Putin) | N/A |
-| 29 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 30 | [#PhandaPushaPlay](http://twitter.com/search?q=%23PhandaPushaPlay) | N/A |
-| 31 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
-| 32 | [#SETERemix](http://twitter.com/search?q=%23SETERemix) | N/A |
-| 33 | [#OwnYourCrown](http://twitter.com/search?q=%23OwnYourCrown) | N/A |
-| 34 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 35 | [#NOTA](http://twitter.com/search?q=%23NOTA) | N/A |
-| 36 | [#WorldTBDay2023](http://twitter.com/search?q=%23WorldTBDay2023) | N/A |
+| 9 | [#AFCON2023Qualifiers](http://twitter.com/search?q=%23AFCON2023Qualifiers) | N/A |
+| 10 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 11 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 12 | [Congratulations Thabang](http://twitter.com/search?q=Congratulations+Thabang) | "Congratulations Thabang" is a phrase used to congratulate someone named Thabang on an accomplishment or achievement. It is a way of expressing admiration and support for their success. |
+| 13 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 14 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 15 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
+| 16 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 17 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 18 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 19 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
+| 20 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 21 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
+| 22 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 23 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
+| 24 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 26 | [Bunch](http://twitter.com/search?q=Bunch) | N/A |
+| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 29 | [Orlando Stadium](http://twitter.com/search?q=Orlando+Stadium) | N/A |
+| 30 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 31 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 32 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 33 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 34 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
+| 35 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
+| 36 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 37 | [President Putin](http://twitter.com/search?q=President+Putin) | N/A |
+| 38 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 39 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
+| 40 | [#UmkhokhaTheCurse](http://twitter.com/search?q=%23UmkhokhaTheCurse) | N/A |
+| 41 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 42 | [#PhandaPushaPlay](http://twitter.com/search?q=%23PhandaPushaPlay) | N/A |
+| 43 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
+| 44 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 45 | [#SETERemix](http://twitter.com/search?q=%23SETERemix) | N/A |
+| 46 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 47 | [#WorldTBDay2023](http://twitter.com/search?q=%23WorldTBDay2023) | N/A |
 
 
 
