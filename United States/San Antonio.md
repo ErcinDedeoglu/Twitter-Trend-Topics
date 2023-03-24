@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-24 20:19:04 UTC`
+📆 Last Updated: `2023-03-24 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 3 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 4 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 5 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 6 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 7 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 8 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 11 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 12 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 13 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 14 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 15 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 16 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 17 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 19 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Apollokage](http://twitter.com/search?q=Apollokage) | N/A |
-| 22 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
-| 23 | [Keston](http://twitter.com/search?q=Keston) | N/A |
-| 24 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
-| 25 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 1 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 2 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 3 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 6 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 7 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 9 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 11 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 12 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
+| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 14 | [Lady Canes](http://twitter.com/search?q=Lady+Canes) | N/A |
+| 15 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 16 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 17 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 18 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 19 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 20 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 21 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 24 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 25 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
 | 26 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 27 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 28 | [Voit](http://twitter.com/search?q=Voit) | N/A |
-| 29 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
-| 30 | [Poki](http://twitter.com/search?q=Poki) | N/A |
-| 31 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
-| 32 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 33 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
-| 34 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 35 | [Hagen Smith](http://twitter.com/search?q=Hagen+Smith) | N/A |
-| 36 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 37 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 38 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 27 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 28 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
+| 29 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 30 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 31 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 32 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 33 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 34 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 35 | [Jasmyne Roberts](http://twitter.com/search?q=Jasmyne+Roberts) | N/A |
+| 36 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 37 | [Swaggerty](http://twitter.com/search?q=Swaggerty) | N/A |
+| 38 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
 | 39 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 40 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 41 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
-| 42 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 43 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 44 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 45 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 46 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 47 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 48 | [Marquez Callaway](http://twitter.com/search?q=Marquez+Callaway) | N/A |
-| 49 | [Hbox](http://twitter.com/search?q=Hbox) | N/A |
-| 50 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 40 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
+| 41 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 42 | [Poki](http://twitter.com/search?q=Poki) | N/A |
+| 43 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
+| 44 | [ApolloKage](http://twitter.com/search?q=ApolloKage) | N/A |
+| 45 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
+| 46 | [Muteace](http://twitter.com/search?q=Muteace) | Muteace is a Japanese term that literally translates to "silence". It is used to describe a situation in which people remain silent or do not speak out, often due to fear or social pressure. |
+| 47 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
+| 48 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
+| 49 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 50 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
 
 
 

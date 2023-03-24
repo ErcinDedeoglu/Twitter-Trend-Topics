@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-24 20:19:16 UTC`
+📆 Last Updated: `2023-03-24 21:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for Singapore
 | 8 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 9 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
 | 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 12 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 12 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
 | 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 14 | [US Congress](http://twitter.com/search?q=US+Congress) | N/A |
 | 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |

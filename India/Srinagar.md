@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-24 20:18:50 UTC`
+📆 Last Updated: `2023-03-24 21:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for [India](</India>)
 | 3 | [#TeluguWarriors](http://twitter.com/search?q=%23TeluguWarriors) | N/A |
 | 4 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
 | 5 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 6 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [Shelley N](http://twitter.com/search?q=Shelley+N) | N/A |
-| 9 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 8 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
+| 9 | [Shelley N](http://twitter.com/search?q=Shelley+N) | N/A |
 | 10 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
 | 11 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
 | 12 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
@@ -32,36 +32,36 @@ This is top 50 for [India](</India>)
 | 15 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
 | 16 | [Chand](http://twitter.com/search?q=Chand) | N/A |
 | 17 | [Finals](http://twitter.com/search?q=Finals) | N/A |
-| 18 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 19 | [MPTR HITS 1M](http://twitter.com/search?q=MPTR+HITS+1M) | N/A |
-| 20 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
-| 21 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 22 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 23 | [Pragya Thakur](http://twitter.com/search?q=Pragya+Thakur) | N/A |
-| 24 | [GET WELL SOON AKKI](http://twitter.com/search?q=GET+WELL+SOON+AKKI) | N/A |
-| 25 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 26 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 27 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 28 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 29 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 30 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 31 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
-| 32 | [आज़म खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 33 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 34 | [Rahul ji](http://twitter.com/search?q=Rahul+ji) | N/A |
-| 35 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 36 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 37 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 38 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
-| 39 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 40 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 41 | [काले विपरीत बुद्धि](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%b5%e0%a4%bf%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%bf) | N/A |
-| 42 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 43 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
-| 44 | [The BJP](http://twitter.com/search?q=The+BJP) | N/A |
-| 45 | [#BlackDayForDemocracy](http://twitter.com/search?q=%23BlackDayForDemocracy) | N/A |
-| 46 | [#venus](http://twitter.com/search?q=%23venus) | N/A |
-| 47 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
+| 18 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
+| 19 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 20 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 21 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 22 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 23 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 24 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
+| 25 | [Rahul ji](http://twitter.com/search?q=Rahul+ji) | N/A |
+| 26 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 27 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
+| 28 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 29 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
+| 30 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
+| 31 | [Mother of Democracy](http://twitter.com/search?q=Mother+of+Democracy) | N/A |
+| 32 | [काले विपरीत बुद्धि](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%b5%e0%a4%bf%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%bf) | N/A |
+| 33 | [मेहुल चोकसी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%9a%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a5%80) | N/A |
+| 34 | [The BJP](http://twitter.com/search?q=The+BJP) | N/A |
+| 35 | [#PraTejRan](http://twitter.com/search?q=%23PraTejRan) | N/A |
+| 36 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
+| 37 | [#BlackDayForDemocracy](http://twitter.com/search?q=%23BlackDayForDemocracy) | N/A |
+| 38 | [#venus](http://twitter.com/search?q=%23venus) | N/A |
+| 39 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
+| 40 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 41 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 42 | [#1YearOfHistoricalRRR](http://twitter.com/search?q=%231YearOfHistoricalRRR) | N/A |
+| 43 | [#KarnatakaBulldozers](http://twitter.com/search?q=%23KarnatakaBulldozers) | N/A |
+| 44 | [#BHStyleIcons](http://twitter.com/search?q=%23BHStyleIcons) | N/A |
+| 45 | [#Balagam](http://twitter.com/search?q=%23Balagam) | N/A |
+| 46 | [#Thaman](http://twitter.com/search?q=%23Thaman) | N/A |
+| 47 | [#HanteoCorrupt](http://twitter.com/search?q=%23HanteoCorrupt) | N/A |
 
 
 

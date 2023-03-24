@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-24 20:18:38 UTC`
+📆 Last Updated: `2023-03-24 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 5 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
 | 6 | [BES LALISA IS BACK](http://twitter.com/search?q=BES+LALISA+IS+BACK) | N/A |
-| 7 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 7 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 8 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 9 | [kaia charice concept teaser](http://twitter.com/search?q=kaia+charice+concept+teaser) | N/A |
 | 10 | [Congratulations Kai](http://twitter.com/search?q=Congratulations+Kai) | N/A |
 | 11 | [musta 1 million na ba](http://twitter.com/search?q=musta+1+million+na+ba) | N/A |
@@ -40,29 +40,29 @@ This is top 50 for [Philippines](</Philippines>)
 | 23 | [bobby comeback stage](http://twitter.com/search?q=bobby+comeback+stage) | N/A |
 | 24 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 25 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 26 | [ROOMantic26ETHER RALPHGAIL](http://twitter.com/search?q=ROOMantic26ETHER+RALPHGAIL) | N/A |
+| 26 | [roomantic26ether ralphgail](http://twitter.com/search?q=roomantic26ether+ralphgail) | N/A |
 | 27 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
-| 28 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
-| 29 | [vinster amongst us](http://twitter.com/search?q=vinster+amongst+us) | N/A |
-| 30 | [JOSH CRUSHING ON MANDY](http://twitter.com/search?q=JOSH+CRUSHING+ON+MANDY) | N/A |
-| 31 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
-| 32 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 33 | [ANG GANDA NG MOON](http://twitter.com/search?q=ANG+GANDA+NG+MOON) | N/A |
-| 34 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 35 | [JACK CAYANAN ON NETFLIX](http://twitter.com/search?q=JACK+CAYANAN+ON+NETFLIX) | N/A |
-| 36 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 37 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
-| 38 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 39 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 40 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 41 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 42 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 43 | [MY SKZ](http://twitter.com/search?q=MY+SKZ) | N/A |
-| 44 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
-| 45 | [Manang Precious](http://twitter.com/search?q=Manang+Precious) | N/A |
-| 46 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 47 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 48 | [Pins](http://twitter.com/search?q=Pins) | N/A |
+| 28 | [vinster amongst us](http://twitter.com/search?q=vinster+amongst+us) | N/A |
+| 29 | [josh crushing on mandy](http://twitter.com/search?q=josh+crushing+on+mandy) | N/A |
+| 30 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
+| 31 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 32 | [ANG GANDA NG MOON](http://twitter.com/search?q=ANG+GANDA+NG+MOON) | N/A |
+| 33 | [JACK CAYANAN ON NETFLIX](http://twitter.com/search?q=JACK+CAYANAN+ON+NETFLIX) | N/A |
+| 34 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 35 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
+| 36 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 37 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 38 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
+| 39 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 40 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 41 | [SeKen](http://twitter.com/search?q=SeKen) | N/A |
+| 42 | [MY SKZ](http://twitter.com/search?q=MY+SKZ) | N/A |
+| 43 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 44 | [Ganto](http://twitter.com/search?q=Ganto) | N/A |
+| 45 | [Open House](http://twitter.com/search?q=Open+House) | N/A |
+| 46 | [Pins](http://twitter.com/search?q=Pins) | N/A |
+| 47 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 48 | [Kijoring](http://twitter.com/search?q=Kijoring) | N/A |
 
 
 

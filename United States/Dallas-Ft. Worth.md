@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-24 20:18:57 UTC`
+📆 Last Updated: `2023-03-24 21:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 2 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 3 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 6 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 7 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 8 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 9 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 10 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 11 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 12 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 13 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 14 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 15 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 16 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 17 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 19 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 20 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [Apollokage](http://twitter.com/search?q=Apollokage) | N/A |
-| 23 | [Keston](http://twitter.com/search?q=Keston) | N/A |
-| 24 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
-| 25 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
-| 26 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 27 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 3 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 4 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 5 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 8 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 9 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 11 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 12 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 13 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 14 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
+| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 16 | [Lady Canes](http://twitter.com/search?q=Lady+Canes) | N/A |
+| 17 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 18 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 19 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 20 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 21 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 22 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 24 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 25 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 26 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
+| 27 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
 | 28 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 29 | [Voit](http://twitter.com/search?q=Voit) | N/A |
-| 30 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
-| 31 | [Poki](http://twitter.com/search?q=Poki) | N/A |
-| 32 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
-| 33 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 34 | [Hagen Smith](http://twitter.com/search?q=Hagen+Smith) | N/A |
-| 35 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 36 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 37 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 38 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 39 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 40 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 41 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
-| 42 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 43 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 44 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 45 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 46 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 29 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 30 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 31 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 32 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 33 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 34 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 35 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 36 | [Jasmyne Roberts](http://twitter.com/search?q=Jasmyne+Roberts) | N/A |
+| 37 | [Swaggerty](http://twitter.com/search?q=Swaggerty) | N/A |
+| 38 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 39 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 40 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 41 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
+| 42 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
+| 43 | [Poki](http://twitter.com/search?q=Poki) | N/A |
+| 44 | [ApolloKage](http://twitter.com/search?q=ApolloKage) | N/A |
+| 45 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
+| 46 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
 
 
 

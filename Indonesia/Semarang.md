@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-24 20:18:29 UTC`
+📆 Last Updated: `2023-03-24 21:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 | 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 4 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 5 | [ayam goreng satu bumbu](http://twitter.com/search?q=ayam+goreng+satu+bumbu) | N/A |
-| 6 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 7 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 8 | [royco](http://twitter.com/search?q=royco) | N/A |
+| 5 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 6 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 7 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
+| 8 | [Royco](http://twitter.com/search?q=Royco) | N/A |
 | 9 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
 | 10 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 11 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 11 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
 | 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 13 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
-| 14 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 15 | [nightography](http://twitter.com/search?q=nightography) | N/A |
-| 16 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 13 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 14 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
+| 15 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 16 | [nightography](http://twitter.com/search?q=nightography) | N/A |
 | 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
-| 19 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 21 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 22 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 18 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 19 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 20 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 21 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
+| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 23 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
-| 24 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
-| 25 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
-| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 27 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
-| 30 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 32 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 33 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
-| 34 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 35 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
+| 24 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 25 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 26 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
+| 27 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
+| 28 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 29 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 30 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 33 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 34 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 35 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
 | 36 | [Patung](http://twitter.com/search?q=Patung) | N/A |
-| 37 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 38 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 39 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 37 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 38 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
+| 39 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
 | 40 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
-| 41 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
-| 42 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 41 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
+| 42 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 43 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 | 44 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 45 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
-| 46 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
-| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 48 | [Garang](http://twitter.com/search?q=Garang) | N/A |
-| 49 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
+| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 46 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 47 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
+| 48 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
+| 49 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
 
 
 

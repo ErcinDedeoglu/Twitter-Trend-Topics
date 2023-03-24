@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-24 20:19:04 UTC`
+📆 Last Updated: `2023-03-24 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,46 @@ This is top 50 for [United States](</United States>)
 | 1 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 2 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
 | 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 5 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 6 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 7 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 8 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 9 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 4 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 5 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 9 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
 | 10 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 11 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 12 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
-| 13 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 14 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 15 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 17 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Apollokage](http://twitter.com/search?q=Apollokage) | N/A |
-| 20 | [Keston](http://twitter.com/search?q=Keston) | N/A |
-| 21 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
-| 22 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
-| 23 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 24 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 25 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 26 | [Voit](http://twitter.com/search?q=Voit) | N/A |
-| 27 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
-| 28 | [Poki](http://twitter.com/search?q=Poki) | N/A |
-| 29 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
-| 30 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 31 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
-| 32 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 33 | [Hagen Smith](http://twitter.com/search?q=Hagen+Smith) | N/A |
-| 34 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 35 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 36 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 37 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 38 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 39 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
-| 40 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 41 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 42 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 43 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 44 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 11 | [Lady Canes](http://twitter.com/search?q=Lady+Canes) | N/A |
+| 12 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 13 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 14 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 15 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 16 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 18 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 20 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
+| 21 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
+| 22 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 23 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 24 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 25 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 26 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 27 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 28 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 29 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 30 | [Jasmyne Roberts](http://twitter.com/search?q=Jasmyne+Roberts) | N/A |
+| 31 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 32 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 33 | [Swaggerty](http://twitter.com/search?q=Swaggerty) | N/A |
+| 34 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 35 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
+| 36 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
+| 37 | [Poki](http://twitter.com/search?q=Poki) | N/A |
+| 38 | [ApolloKage](http://twitter.com/search?q=ApolloKage) | N/A |
+| 39 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
+| 40 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
+| 41 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
+| 42 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
+| 43 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
 
 
 
