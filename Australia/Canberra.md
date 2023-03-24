@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-24 10:17:28 UTC`
+📆 Last Updated: `2023-03-24 11:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLLionsDees](http://twitter.com/search?q=%23AFLLionsDees) | N/A |
-| 2 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
+| 1 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
+| 2 | [#AFLLionsDees](http://twitter.com/search?q=%23AFLLionsDees) | N/A |
 | 3 | [#AUSvECU](http://twitter.com/search?q=%23AUSvECU) | N/A |
-| 4 | [#NRLStormTigers](http://twitter.com/search?q=%23NRLStormTigers) | N/A |
-| 5 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 6 | [Max Gawn](http://twitter.com/search?q=Max+Gawn) | N/A |
-| 7 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 8 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 9 | [Mabil](http://twitter.com/search?q=Mabil) | N/A |
-| 10 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 11 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 4 | [#aflbluescats](http://twitter.com/search?q=%23aflbluescats) | N/A |
+| 5 | [Milford](http://twitter.com/search?q=Milford) | N/A |
+| 6 | [Gawn](http://twitter.com/search?q=Gawn) | N/A |
+| 7 | [Staggs](http://twitter.com/search?q=Staggs) | N/A |
+| 8 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
+| 9 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
+| 10 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 11 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
 | 12 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
-| 13 | [Nick Meaney](http://twitter.com/search?q=Nick+Meaney) | N/A |
-| 14 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 13 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 14 | [Garang Kuol](http://twitter.com/search?q=Garang+Kuol) | N/A |
 | 15 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 16 | [Jackson Irvine](http://twitter.com/search?q=Jackson+Irvine) | N/A |
-| 17 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
-| 18 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
-| 19 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
-| 20 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 21 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 22 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 23 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 24 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 25 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 26 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 27 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 28 | [Suncorp](http://twitter.com/search?q=Suncorp) | N/A |
-| 29 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 30 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
-| 31 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 32 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 33 | [Brave Mead](http://twitter.com/search?q=Brave+Mead) | N/A |
-| 34 | [Benji](http://twitter.com/search?q=Benji) | N/A |
-| 35 | [Pezet](http://twitter.com/search?q=Pezet) | N/A |
-| 36 | [Steven May](http://twitter.com/search?q=Steven+May) | N/A |
-| 37 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 38 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
-| 39 | [Cleary](http://twitter.com/search?q=Cleary) | N/A |
-| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 41 | [Madge](http://twitter.com/search?q=Madge) | N/A |
-| 42 | [Craven](http://twitter.com/search?q=Craven) | N/A |
-| 43 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 44 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 45 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 47 | [The SMH](http://twitter.com/search?q=The+SMH) | N/A |
-| 48 | [Brayshaw](http://twitter.com/search?q=Brayshaw) | N/A |
+| 16 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 17 | [Reece Walsh](http://twitter.com/search?q=Reece+Walsh) | N/A |
+| 18 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 19 | [Awer Mabil](http://twitter.com/search?q=Awer+Mabil) | N/A |
+| 20 | [Jackson Irvine](http://twitter.com/search?q=Jackson+Irvine) | N/A |
+| 21 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 22 | [Capewell](http://twitter.com/search?q=Capewell) | N/A |
+| 23 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
+| 24 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 25 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 26 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 27 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 28 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 29 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 30 | [Suncorp](http://twitter.com/search?q=Suncorp) | N/A |
+| 31 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 32 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 33 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 34 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
+| 35 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
+| 36 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 37 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
+| 38 | [William Reid](http://twitter.com/search?q=William+Reid) | N/A |
+| 39 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 40 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 41 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 42 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 43 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
+| 44 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 45 | [Brave Mead](http://twitter.com/search?q=Brave+Mead) | N/A |
+| 46 | [Petty](http://twitter.com/search?q=Petty) | N/A |
+| 47 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 48 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
 
 
 

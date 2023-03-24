@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-24 10:17:44 UTC`
+📆 Last Updated: `2023-03-24 11:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,52 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#imzaverSinanOGANa](http://twitter.com/search?q=%23imzaverSinanOGANa) | N/A |
-| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 3 | [#MebDkabıDoğradı](http://twitter.com/search?q=%23MebDkab%c4%b1Do%c4%9frad%c4%b1) | N/A |
+| 2 | [#Erolozvaristifa](http://twitter.com/search?q=%23Erolozvaristifa) | N/A |
+| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
 | 4 | [#100binince](http://twitter.com/search?q=%23100binince) | N/A |
-| 5 | [MebBüroyu İİBFdenAlsın](http://twitter.com/search?q=MebB%c3%bcroyu+%c4%b0%c4%b0BFdenAls%c4%b1n) | N/A |
-| 6 | [Pendik'te 7](http://twitter.com/search?q=Pendik%27te+7) | N/A |
-| 7 | [Berber](http://twitter.com/search?q=Berber) | N/A |
-| 8 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 9 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
-| 10 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 11 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
-| 12 | [Konteyner](http://twitter.com/search?q=Konteyner) | N/A |
-| 13 | [Yalancıyı](http://twitter.com/search?q=Yalanc%c4%b1y%c4%b1) | N/A |
-| 14 | [MHP'den](http://twitter.com/search?q=MHP%27den) | N/A |
-| 15 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 16 | [Kurgu](http://twitter.com/search?q=Kurgu) | N/A |
-| 17 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
-| 18 | [Hulki Cevizoğlu](http://twitter.com/search?q=Hulki+Cevizo%c4%9flu) | N/A |
-| 19 | [Arkadaki](http://twitter.com/search?q=Arkadaki) | N/A |
-| 20 | [Said Nursi](http://twitter.com/search?q=Said+Nursi) | N/A |
-| 21 | [Yalanını](http://twitter.com/search?q=Yalan%c4%b1n%c4%b1) | N/A |
-| 22 | [#ek5000acıktanatama](http://twitter.com/search?q=%23ek5000ac%c4%b1ktanatama) | N/A |
-| 23 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 24 | [#RTEya2000Sonrası](http://twitter.com/search?q=%23RTEya2000Sonras%c4%b1) | N/A |
-| 25 | [#Erolozvaristifa](http://twitter.com/search?q=%23Erolozvaristifa) | N/A |
-| 26 | [#StajınSonHaftası](http://twitter.com/search?q=%23Staj%c4%b1nSonHaftas%c4%b1) | N/A |
-| 27 | [#ProjeYalanKontenjanGercek](http://twitter.com/search?q=%23ProjeYalanKontenjanGercek) | N/A |
-| 28 | [#BeştepedeOnaydaYHS](http://twitter.com/search?q=%23Be%c5%9ftepedeOnaydaYHS) | N/A |
-| 29 | [#öğretmen](http://twitter.com/search?q=%23%c3%b6%c4%9fretmen) | N/A |
-| 30 | [#CanAtalay](http://twitter.com/search?q=%23CanAtalay) | N/A |
-| 31 | [#okulöncesiprojesinerede](http://twitter.com/search?q=%23okul%c3%b6ncesiprojesinerede) | N/A |
-| 32 | [#YeterSöz5000veKısmide](http://twitter.com/search?q=%23YeterS%c3%b6z5000veK%c4%b1smide) | N/A |
-| 33 | [#OlacakİşDeğil](http://twitter.com/search?q=%23Olacak%c4%b0%c5%9fDe%c4%9fil) | N/A |
-| 34 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
-| 35 | [#TekAdamaBayBay](http://twitter.com/search?q=%23TekAdamaBayBay) | N/A |
-| 36 | [#24Mart](http://twitter.com/search?q=%2324Mart) | N/A |
-| 37 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
-| 38 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 39 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 40 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 41 | [#100binimza](http://twitter.com/search?q=%23100binimza) | N/A |
-| 42 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
+| 5 | [ŞartsızTayin Şart](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+%c5%9eart) | N/A |
+| 6 | [MebBüroyu İİBFdenAlsın](http://twitter.com/search?q=MebB%c3%bcroyu+%c4%b0%c4%b0BFdenAls%c4%b1n) | N/A |
+| 7 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 8 | [Berber](http://twitter.com/search?q=Berber) | N/A |
+| 9 | [Pendik'te 7](http://twitter.com/search?q=Pendik%27te+7) | N/A |
+| 10 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 11 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 12 | [Yalancıyı](http://twitter.com/search?q=Yalanc%c4%b1y%c4%b1) | N/A |
+| 13 | [Beden](http://twitter.com/search?q=Beden) | N/A |
+| 14 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
+| 15 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
+| 16 | [mhp'den](http://twitter.com/search?q=mhp%27den) | N/A |
+| 17 | [Konteyner](http://twitter.com/search?q=Konteyner) | N/A |
+| 18 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 20 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 21 | [Arkadaki](http://twitter.com/search?q=Arkadaki) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Hulki Cevizoğlu](http://twitter.com/search?q=Hulki+Cevizo%c4%9flu) | N/A |
+| 24 | [Kurgu](http://twitter.com/search?q=Kurgu) | N/A |
+| 25 | [Türk Milliyetçileri](http://twitter.com/search?q=T%c3%bcrk+Milliyet%c3%a7ileri) | N/A |
+| 26 | [Said Nursi](http://twitter.com/search?q=Said+Nursi) | N/A |
+| 27 | [Yalanını](http://twitter.com/search?q=Yalan%c4%b1n%c4%b1) | N/A |
+| 28 | [#RTEya2000Sonrası](http://twitter.com/search?q=%23RTEya2000Sonras%c4%b1) | N/A |
+| 29 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 30 | [#MebDkabıDoğradı](http://twitter.com/search?q=%23MebDkab%c4%b1Do%c4%9frad%c4%b1) | N/A |
+| 31 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 32 | [#ek5000acıktanatama](http://twitter.com/search?q=%23ek5000ac%c4%b1ktanatama) | N/A |
+| 33 | [#StajınSonHaftası](http://twitter.com/search?q=%23Staj%c4%b1nSonHaftas%c4%b1) | N/A |
+| 34 | [#ProjeYalanKontenjanGercek](http://twitter.com/search?q=%23ProjeYalanKontenjanGercek) | N/A |
+| 35 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
+| 36 | [#BeştepedeOnaydaYHS](http://twitter.com/search?q=%23Be%c5%9ftepedeOnaydaYHS) | N/A |
+| 37 | [#YeterSöz5000veKısmide](http://twitter.com/search?q=%23YeterS%c3%b6z5000veK%c4%b1smide) | N/A |
+| 38 | [#öğretmen](http://twitter.com/search?q=%23%c3%b6%c4%9fretmen) | N/A |
+| 39 | [#CanAtalay](http://twitter.com/search?q=%23CanAtalay) | N/A |
+| 40 | [#okulöncesiprojesinerede](http://twitter.com/search?q=%23okul%c3%b6ncesiprojesinerede) | N/A |
+| 41 | [#TekAdamaBayBay](http://twitter.com/search?q=%23TekAdamaBayBay) | N/A |
+| 42 | [#memur](http://twitter.com/search?q=%23memur) | #Memur is a Turkish hashtag that translates to "civil servant" in English. It is used to refer to people who work in the public sector, such as government employees, teachers, and other civil servants. |
+| 43 | [#24Mart](http://twitter.com/search?q=%2324Mart) | N/A |
+| 44 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
+| 45 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 46 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 47 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
 
 
 

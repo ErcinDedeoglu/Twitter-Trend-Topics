@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-03-24 10:17:12 UTC`
+📆 Last Updated: `2023-03-24 11:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 5 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
 | 6 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 7 | [#박민혁_하우_WannaBeLove](http://twitter.com/search?q=%23%eb%b0%95%eb%af%bc%ed%98%81_%ed%95%98%ec%9a%b0_WannaBeLove) | N/A |
+| 7 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
 | 8 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 9 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
 | 10 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
 | 11 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [CAMBIOS DE LUNA 1 AÑO](http://twitter.com/search?q=CAMBIOS+DE+LUNA+1+A%c3%91O) | N/A |
-| 14 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 15 | [HAWW SPECIAL STAGE](http://twitter.com/search?q=HAWW+SPECIAL+STAGE) | N/A |
-| 16 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
-| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 18 | [El Chueco](http://twitter.com/search?q=El+Chueco) | N/A |
-| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 20 | [rosi](http://twitter.com/search?q=rosi) | N/A |
-| 21 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 13 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 14 | [HAWW SPECIAL STAGE](http://twitter.com/search?q=HAWW+SPECIAL+STAGE) | N/A |
+| 15 | [Osorio Chong](http://twitter.com/search?q=Osorio+Chong) | N/A |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [CAMBIOS DE LUNA 1 AÑO](http://twitter.com/search?q=CAMBIOS+DE+LUNA+1+A%c3%91O) | N/A |
+| 18 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 19 | [el chueco](http://twitter.com/search?q=el+chueco) | N/A |
+| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 21 | [rosi](http://twitter.com/search?q=rosi) | N/A |
+| 22 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 24 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 25 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
-| 28 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 29 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
-| 30 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
-| 31 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 25 | [PARK JIMIN SOLO DEBUT](http://twitter.com/search?q=PARK+JIMIN+SOLO+DEBUT) | N/A |
+| 26 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [guacamaya](http://twitter.com/search?q=guacamaya) | N/A |
+| 29 | [Rebecca Jones](http://twitter.com/search?q=Rebecca+Jones) | N/A |
+| 30 | [23 de Morat](http://twitter.com/search?q=23+de+Morat) | N/A |
+| 31 | [Arcángel](http://twitter.com/search?q=Arc%c3%a1ngel) | N/A |
 | 32 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 33 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
 | 34 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
 | 35 | [kevin álvarez](http://twitter.com/search?q=kevin+%c3%a1lvarez) | N/A |
-| 36 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
-| 37 | [Lomas Taurinas](http://twitter.com/search?q=Lomas+Taurinas) | N/A |
-| 38 | [Taco Truck x VB](http://twitter.com/search?q=Taco+Truck+x+VB) | N/A |
+| 36 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 37 | [TE AMO JIMIN](http://twitter.com/search?q=TE+AMO+JIMIN) | N/A |
+| 38 | [lomas taurinas](http://twitter.com/search?q=lomas+taurinas) | N/A |
 | 39 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 40 | [Johan Vásquez](http://twitter.com/search?q=Johan+V%c3%a1squez) | N/A |
-| 41 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 42 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 43 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
-| 44 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
-| 45 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 40 | [johan vásquez](http://twitter.com/search?q=johan+v%c3%a1squez) | N/A |
+| 41 | [Alejandro Moreno](http://twitter.com/search?q=Alejandro+Moreno) | N/A |
+| 42 | [7 Taylor Swift](http://twitter.com/search?q=7+Taylor+Swift) | N/A |
+| 43 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 44 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 45 | [Charly](http://twitter.com/search?q=Charly) | N/A |
 | 46 | [El PRI](http://twitter.com/search?q=El+PRI) | N/A |
-| 47 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 47 | [Calica](http://twitter.com/search?q=Calica) | N/A |
 
 
 

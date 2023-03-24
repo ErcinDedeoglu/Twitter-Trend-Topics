@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-24 10:17:55 UTC`
+📆 Last Updated: `2023-03-24 11:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for Dominican Republic
 | 1 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
 | 2 | [#leoneltraidor](http://twitter.com/search?q=%23leoneltraidor) | N/A |
 | 3 | [#premiossoberano2023](http://twitter.com/search?q=%23premiossoberano2023) | N/A |
-| 4 | [#cumbrerd2023](http://twitter.com/search?q=%23cumbrerd2023) | N/A |
-| 5 | [luis segura](http://twitter.com/search?q=luis+segura) | N/A |
-| 6 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 7 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
-| 8 | [#tijerasoberana2023](http://twitter.com/search?q=%23tijerasoberana2023) | N/A |
-| 9 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 4 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
+| 5 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
+| 6 | [Luis Segura](http://twitter.com/search?q=Luis+Segura) | N/A |
+| 7 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 8 | [#presopolitico](http://twitter.com/search?q=%23presopolitico) | N/A |
+| 9 | [schengen](http://twitter.com/search?q=schengen) | N/A |
 | 10 | [alicia ortega](http://twitter.com/search?q=alicia+ortega) | N/A |
 | 11 | [wason](http://twitter.com/search?q=wason) | N/A |
 | 12 | [yiyo](http://twitter.com/search?q=yiyo) | N/A |
 | 13 | [Marcelo Rebelo de Sousa](http://twitter.com/search?q=Marcelo+Rebelo+de+Sousa) | N/A |
 | 14 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 15 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
-| 16 | [vicente garcía](http://twitter.com/search?q=vicente+garc%c3%ada) | N/A |
+| 15 | [cheddy](http://twitter.com/search?q=cheddy) | N/A |
+| 16 | [Vicente García](http://twitter.com/search?q=Vicente+Garc%c3%ada) | N/A |
 | 17 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
 | 18 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 19 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
-| 20 | [Canario](http://twitter.com/search?q=Canario) | N/A |
+| 19 | [Canario](http://twitter.com/search?q=Canario) | N/A |
+| 20 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
 | 21 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
-| 22 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
-| 23 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 24 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
-| 25 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 26 | [kiskeya life](http://twitter.com/search?q=kiskeya+life) | N/A |
-| 27 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 28 | [carlos sánchez](http://twitter.com/search?q=carlos+s%c3%a1nchez) | N/A |
-| 29 | [acroarte](http://twitter.com/search?q=acroarte) | N/A |
-| 30 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
-| 31 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
-| 32 | [luz garcía](http://twitter.com/search?q=luz+garc%c3%ada) | N/A |
-| 33 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
-| 34 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
-| 35 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 36 | [zoila luna](http://twitter.com/search?q=zoila+luna) | N/A |
-| 37 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
-| 38 | [tito nieves](http://twitter.com/search?q=tito+nieves) | N/A |
-| 39 | [sergio vargas](http://twitter.com/search?q=sergio+vargas) | N/A |
-| 40 | [Cherry](http://twitter.com/search?q=Cherry) | N/A |
-| 41 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
-| 42 | [santiago matías](http://twitter.com/search?q=santiago+mat%c3%adas) | N/A |
-| 43 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 44 | [josé maría cabral](http://twitter.com/search?q=jos%c3%a9+mar%c3%ada+cabral) | N/A |
-| 45 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
-| 46 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 47 | [dotol](http://twitter.com/search?q=dotol) | N/A |
+| 22 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 23 | [Danilo Medina](http://twitter.com/search?q=Danilo+Medina) | N/A |
+| 24 | [kiskeya life](http://twitter.com/search?q=kiskeya+life) | N/A |
+| 25 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
+| 26 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 27 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 28 | [Carlos Sánchez](http://twitter.com/search?q=Carlos+S%c3%a1nchez) | N/A |
+| 29 | [Acroarte](http://twitter.com/search?q=Acroarte) | N/A |
+| 30 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
+| 31 | [luz garcía](http://twitter.com/search?q=luz+garc%c3%ada) | N/A |
+| 32 | [Juan Luis](http://twitter.com/search?q=Juan+Luis) | N/A |
+| 33 | [Mozart](http://twitter.com/search?q=Mozart) | N/A |
+| 34 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 35 | [zoila luna](http://twitter.com/search?q=zoila+luna) | N/A |
+| 36 | [manny cruz](http://twitter.com/search?q=manny+cruz) | N/A |
+| 37 | [Tito Nieves](http://twitter.com/search?q=Tito+Nieves) | N/A |
+| 38 | [sergio vargas](http://twitter.com/search?q=sergio+vargas) | N/A |
+| 39 | [Cherry](http://twitter.com/search?q=Cherry) | N/A |
+| 40 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
+| 41 | [santiago matías](http://twitter.com/search?q=santiago+mat%c3%adas) | N/A |
+| 42 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 43 | [josé maría cabral](http://twitter.com/search?q=jos%c3%a9+mar%c3%ada+cabral) | N/A |
+| 44 | [Eddy Herrera](http://twitter.com/search?q=Eddy+Herrera) | N/A |
+| 45 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 46 | [dotol](http://twitter.com/search?q=dotol) | N/A |
+| 47 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
 | 48 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 50 | [Isaura Taveras](http://twitter.com/search?q=Isaura+Taveras) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-03-24 10:17:26 UTC`
+📆 Last Updated: `2023-03-24 11:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
 | 2 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
-| 3 | [#GakAdaYangKelewat](http://twitter.com/search?q=%23GakAdaYangKelewat) | N/A |
+| 3 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 4 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 5 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 6 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 6 | [#GakAdaYangKelewat](http://twitter.com/search?q=%23GakAdaYangKelewat) | N/A |
 | 7 | [OPPO](http://twitter.com/search?q=OPPO) | N/A |
-| 8 | [#CawapresTerkuat](http://twitter.com/search?q=%23CawapresTerkuat) | N/A |
-| 9 | [Menteri Terbaik Jokowi](http://twitter.com/search?q=Menteri+Terbaik+Jokowi) | N/A |
-| 10 | [Siapa Pergi Dia Mati](http://twitter.com/search?q=Siapa+Pergi+Dia+Mati) | N/A |
-| 11 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 12 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 13 | [KIM KAI](http://twitter.com/search?q=KIM+KAI) | N/A |
+| 8 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 9 | [#CawapresTerkuat](http://twitter.com/search?q=%23CawapresTerkuat) | N/A |
+| 10 | [Menteri Terbaik Jokowi](http://twitter.com/search?q=Menteri+Terbaik+Jokowi) | N/A |
+| 11 | [Siapa Pergi Dia Mati](http://twitter.com/search?q=Siapa+Pergi+Dia+Mati) | N/A |
+| 12 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 13 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
 | 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Fanny](http://twitter.com/search?q=Fanny) | N/A |
-| 16 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
-| 17 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 18 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 19 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
-| 20 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
-| 21 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 23 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 24 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
-| 25 | [Ormas](http://twitter.com/search?q=Ormas) | N/A |
-| 26 | [Patung](http://twitter.com/search?q=Patung) | N/A |
-| 27 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 28 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 29 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 30 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 31 | [#PulauTerkutuk](http://twitter.com/search?q=%23PulauTerkutuk) | N/A |
-| 32 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 33 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 34 | [#박민혁_하우_WannaBeLove](http://twitter.com/search?q=%23%eb%b0%95%eb%af%bc%ed%98%81_%ed%95%98%ec%9a%b0_WannaBeLove) | N/A |
-| 35 | [#SriAsih](http://twitter.com/search?q=%23SriAsih) | N/A |
-| 36 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
-| 37 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
-| 38 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
-| 39 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
-| 40 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 41 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 42 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 15 | [CONGRATULATIONS KAI](http://twitter.com/search?q=CONGRATULATIONS+KAI) | N/A |
+| 16 | [Kim Kai](http://twitter.com/search?q=Kim+Kai) | Kim Kai is a Korean phrase that translates to “thank you” in English. It is used as a polite expression of gratitude. |
+| 17 | [Fanny](http://twitter.com/search?q=Fanny) | N/A |
+| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 19 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
+| 20 | [Ajwa](http://twitter.com/search?q=Ajwa) | N/A |
+| 21 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 22 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
+| 23 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
+| 24 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 25 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 26 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 27 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [WITA](http://twitter.com/search?q=WITA) | N/A |
+| 30 | [Tahan](http://twitter.com/search?q=Tahan) | N/A |
+| 31 | [Patung](http://twitter.com/search?q=Patung) | N/A |
+| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 33 | [#PulauTerkutuk](http://twitter.com/search?q=%23PulauTerkutuk) | N/A |
+| 34 | [#엑소카이](http://twitter.com/search?q=%23%ec%97%91%ec%86%8c%ec%b9%b4%ec%9d%b4) | N/A |
+| 35 | [#박민혁_하우_WannaBeLove](http://twitter.com/search?q=%23%eb%b0%95%eb%af%bc%ed%98%81_%ed%95%98%ec%9a%b0_WannaBeLove) | N/A |
+| 36 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 37 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 38 | [#peshan](http://twitter.com/search?q=%23peshan) | N/A |
+| 39 | [#SriAsih](http://twitter.com/search?q=%23SriAsih) | N/A |
+| 40 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 41 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
+| 42 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
+| 43 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
+| 44 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 45 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
 
 
 

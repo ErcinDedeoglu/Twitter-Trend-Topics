@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-24 10:17:42 UTC`
+📆 Last Updated: `2023-03-24 11:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
 | 2 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 3 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
-| 4 | [#SamsungGalaxyF14](http://twitter.com/search?q=%23SamsungGalaxyF14) | N/A |
-| 5 | [#JohnWick4ReleaseInIndia](http://twitter.com/search?q=%23JohnWick4ReleaseInIndia) | N/A |
-| 6 | [#Congress](http://twitter.com/search?q=%23Congress) | N/A |
-| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 8 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
-| 9 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 10 | [Rs 12,990](http://twitter.com/search?q=Rs+12%2c990) | N/A |
-| 11 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 12 | [Ex MP](http://twitter.com/search?q=Ex+MP) | N/A |
-| 13 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 14 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 15 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 16 | [One World TB Summit](http://twitter.com/search?q=One+World+TB+Summit) | N/A |
-| 17 | [Surat](http://twitter.com/search?q=Surat) | N/A |
-| 18 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
-| 19 | [TB by 2025](http://twitter.com/search?q=TB+by+2025) | N/A |
-| 20 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 21 | [Rs 15,000](http://twitter.com/search?q=Rs+15%2c000) | N/A |
-| 22 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
-| 23 | [रेणुका चौधरी](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a3%e0%a5%81%e0%a4%95%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [Manmohan Singh](http://twitter.com/search?q=Manmohan+Singh) | N/A |
-| 25 | [मनमोहन सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 26 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 27 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
-| 28 | [राघव चड्ढा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%98%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
-| 29 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 30 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
-| 31 | [Narendra Modi](http://twitter.com/search?q=Narendra+Modi) | N/A |
-| 32 | [LTCG](http://twitter.com/search?q=LTCG) | N/A |
-| 33 | [Options](http://twitter.com/search?q=Options) | N/A |
-| 34 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 35 | [प्रदीप सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%80%e0%a4%aa+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [CBI Investigating AllAngles](http://twitter.com/search?q=CBI+Investigating+AllAngles) | N/A |
-| 38 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
-| 39 | [भगवान विष्णु](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | भगवान विष्णु is a Hindu deity, the Supreme Being and the Preserver of the Universe. In English, it translates to "Lord Vishnu". |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Ramayan](http://twitter.com/search?q=Ramayan) | N/A |
-| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 43 | [मनोज सिन्हा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%b8%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%b9%e0%a4%be) | N/A |
-| 44 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
-| 45 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 46 | [#DilHaiBholaaSong](http://twitter.com/search?q=%23DilHaiBholaaSong) | N/A |
-| 47 | [#ModiGovtAgainstDrugs](http://twitter.com/search?q=%23ModiGovtAgainstDrugs) | N/A |
+| 3 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
+| 4 | [#LokSabha](http://twitter.com/search?q=%23LokSabha) | N/A |
+| 5 | [#PrebookTheChampion](http://twitter.com/search?q=%23PrebookTheChampion) | N/A |
+| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 7 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
+| 8 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 9 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 10 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 11 | [Ex MP](http://twitter.com/search?q=Ex+MP) | N/A |
+| 12 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
+| 13 | [Rs 12,990](http://twitter.com/search?q=Rs+12%2c990) | N/A |
+| 14 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 15 | [इंदिरा गांधी](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 16 | [मनमोहन सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 17 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 18 | [Surat](http://twitter.com/search?q=Surat) | N/A |
+| 19 | [Manmohan Singh](http://twitter.com/search?q=Manmohan+Singh) | N/A |
+| 20 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 21 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 22 | [Ordinance](http://twitter.com/search?q=Ordinance) | N/A |
+| 23 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 24 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 25 | [TB by 2025](http://twitter.com/search?q=TB+by+2025) | N/A |
+| 26 | [One World TB Summit](http://twitter.com/search?q=One+World+TB+Summit) | N/A |
+| 27 | [Rs 15,000](http://twitter.com/search?q=Rs+15%2c000) | N/A |
+| 28 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 29 | [रेणुका चौधरी](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a3%e0%a5%81%e0%a4%95%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 31 | [काले विपरीत बुद्धि](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87+%e0%a4%b5%e0%a4%bf%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%bf) | N/A |
+| 32 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 33 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
+| 34 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 35 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 36 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 37 | [राघव चड्ढा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%98%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
+| 38 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 39 | [#Congress](http://twitter.com/search?q=%23Congress) | N/A |
+| 40 | [#JohnWick4ReleaseInIndia](http://twitter.com/search?q=%23JohnWick4ReleaseInIndia) | N/A |
+| 41 | [#BoycottPW](http://twitter.com/search?q=%23BoycottPW) | N/A |
+| 42 | [#SamsungGalaxyF14](http://twitter.com/search?q=%23SamsungGalaxyF14) | N/A |
+| 43 | [#BIGBREAKING](http://twitter.com/search?q=%23BIGBREAKING) | N/A |
+| 44 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 45 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
+| 46 | [#RaGa](http://twitter.com/search?q=%23RaGa) | N/A |
+| 47 | [#Wayanad](http://twitter.com/search?q=%23Wayanad) | N/A |
 
 
 

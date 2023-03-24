@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-24 10:17:35 UTC`
+📆 Last Updated: `2023-03-24 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 3 | [LA GRACE](http://twitter.com/search?q=LA+GRACE) | N/A |
-| 4 | [#Confidence](http://twitter.com/search?q=%23Confidence) | N/A |
-| 5 | [Pastor B](http://twitter.com/search?q=Pastor+B) | N/A |
-| 6 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 7 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 8 | [#itelA60ForN249](http://twitter.com/search?q=%23itelA60ForN249) | N/A |
-| 9 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
-| 10 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 13 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 14 | [London](http://twitter.com/search?q=London) | N/A |
-| 15 | [Abia](http://twitter.com/search?q=Abia) | N/A |
-| 16 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 17 | [#agbadovolution](http://twitter.com/search?q=%23agbadovolution) | N/A |
-| 18 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
-| 19 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
-| 20 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 21 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
-| 22 | [Ike Ekweremadu](http://twitter.com/search?q=Ike+Ekweremadu) | N/A |
-| 23 | [#minimiexbbtitans](http://twitter.com/search?q=%23minimiexbbtitans) | N/A |
-| 24 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 25 | [Chief Justice of Nigeria](http://twitter.com/search?q=Chief+Justice+of+Nigeria) | N/A |
-| 26 | [Apologize](http://twitter.com/search?q=Apologize) | N/A |
-| 27 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 28 | [Solomon Buchi](http://twitter.com/search?q=Solomon+Buchi) | N/A |
-| 29 | [Ekelebe Stunner](http://twitter.com/search?q=Ekelebe+Stunner) | N/A |
-| 30 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 31 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 32 | [iftar mubarak](http://twitter.com/search?q=iftar+mubarak) | N/A |
-| 33 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 36 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
-| 37 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
-| 38 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 40 | [PHYNA X HOMECOMING](http://twitter.com/search?q=PHYNA+X+HOMECOMING) | N/A |
-| 41 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 42 | [Wilo](http://twitter.com/search?q=Wilo) | N/A |
-| 43 | [YEMI CREGX STAR POWER](http://twitter.com/search?q=YEMI+CREGX+STAR+POWER) | N/A |
-| 44 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 45 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
-| 46 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 47 | [POST PHYNA HYPING](http://twitter.com/search?q=POST+PHYNA+HYPING) | N/A |
-| 48 | [England](http://twitter.com/search?q=England) | N/A |
-| 49 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 50 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 1 | [#itelA60ForN249](http://twitter.com/search?q=%23itelA60ForN249) | N/A |
+| 2 | [#JumiaNGTechWeek](http://twitter.com/search?q=%23JumiaNGTechWeek) | N/A |
+| 3 | [#JoefreakyCriminal](http://twitter.com/search?q=%23JoefreakyCriminal) | N/A |
+| 4 | [Pastor B](http://twitter.com/search?q=Pastor+B) | N/A |
+| 5 | [#Confidence](http://twitter.com/search?q=%23Confidence) | N/A |
+| 6 | [LA GRACE](http://twitter.com/search?q=LA+GRACE) | N/A |
+| 7 | [Tinubu is in France](http://twitter.com/search?q=Tinubu+is+in+France) | N/A |
+| 8 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
+| 9 | [Solomon Buchi](http://twitter.com/search?q=Solomon+Buchi) | N/A |
+| 10 | [Apologize](http://twitter.com/search?q=Apologize) | N/A |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 13 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 14 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
+| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 16 | [Rufai Oseni](http://twitter.com/search?q=Rufai+Oseni) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 19 | [London](http://twitter.com/search?q=London) | N/A |
+| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 21 | [Seun](http://twitter.com/search?q=Seun) | N/A |
+| 22 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 23 | [Tosin](http://twitter.com/search?q=Tosin) | N/A |
+| 24 | [Abati](http://twitter.com/search?q=Abati) | N/A |
+| 25 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 26 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 27 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 28 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 29 | [Man of God](http://twitter.com/search?q=Man+of+God) | N/A |
+| 30 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 31 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
+| 32 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 33 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 34 | [Airport](http://twitter.com/search?q=Airport) | N/A |
+| 35 | [EKELEBE STUNNER](http://twitter.com/search?q=EKELEBE+STUNNER) | N/A |
+| 36 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 37 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 38 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 39 | [CJN Ariwoola](http://twitter.com/search?q=CJN+Ariwoola) | N/A |
+| 40 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
+| 41 | [#BorisJohnson](http://twitter.com/search?q=%23BorisJohnson) | N/A |
+| 42 | [#declanrice](http://twitter.com/search?q=%23declanrice) | N/A |
+| 43 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 44 | [#YemiCregxTheBrand](http://twitter.com/search?q=%23YemiCregxTheBrand) | N/A |
 
 
 

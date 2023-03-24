@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-24 10:17:33 UTC`
+📆 Last Updated: `2023-03-24 11:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,46 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 2 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
-| 3 | [#KitakitsBLACKPINK](http://twitter.com/search?q=%23KitakitsBLACKPINK) | N/A |
-| 4 | [CONGRATULATIONS KAI](http://twitter.com/search?q=CONGRATULATIONS+KAI) | N/A |
+| 2 | [#KitakitsBLACKPINK](http://twitter.com/search?q=%23KitakitsBLACKPINK) | N/A |
+| 3 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
+| 4 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 5 | [CONGRATULATIONS KAI](http://twitter.com/search?q=CONGRATULATIONS+KAI) | N/A |
-| 6 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
-| 7 | [BOBBY COMEBACK STAGE](http://twitter.com/search?q=BOBBY+COMEBACK+STAGE) | N/A |
-| 8 | [KAIA CHARICE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARICE+CONCEPT+TEASER) | N/A |
+| 6 | [KAIA CHARICE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARICE+CONCEPT+TEASER) | N/A |
+| 7 | [SEHAM AS ASHLEY](http://twitter.com/search?q=SEHAM+AS+ASHLEY) | N/A |
+| 8 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
 | 9 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
-| 10 | [GEKOYonFastTalk KOKOY ANGEL](http://twitter.com/search?q=GEKOYonFastTalk+KOKOY+ANGEL) | N/A |
-| 11 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 14 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 15 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
-| 16 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
-| 17 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
-| 18 | [ALJON TATAK STAR MAGIC](http://twitter.com/search?q=ALJON+TATAK+STAR+MAGIC) | N/A |
-| 19 | [DavidLicauco BENCHMeet&Greet](http://twitter.com/search?q=DavidLicauco+BENCHMeet%26Greet) | N/A |
-| 20 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 21 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 22 | [VINSTER AMONGST US](http://twitter.com/search?q=VINSTER+AMONGST+US) | N/A |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
-| 25 | [KAI FIRST WIN](http://twitter.com/search?q=KAI+FIRST+WIN) | N/A |
-| 26 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
-| 27 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 28 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
-| 29 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
-| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 32 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 33 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
-| 34 | [ComebackStrongerRSG H2WO](http://twitter.com/search?q=ComebackStrongerRSG+H2WO) | N/A |
-| 35 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
-| 36 | [face reveal tomorrow](http://twitter.com/search?q=face+reveal+tomorrow) | N/A |
-| 37 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
-| 38 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 39 | [chico dl seatmates](http://twitter.com/search?q=chico+dl+seatmates) | N/A |
-| 40 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 41 | [Satanas](http://twitter.com/search?q=Satanas) | N/A |
-| 42 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
-| 43 | [HAPPY BIRTHDAY MINARI](http://twitter.com/search?q=HAPPY+BIRTHDAY+MINARI) | N/A |
-| 44 | [Jinhwan](http://twitter.com/search?q=Jinhwan) | N/A |
-| 45 | [Chanbaek](http://twitter.com/search?q=Chanbaek) | N/A |
-| 46 | [PremierDripMOA WithDAVID](http://twitter.com/search?q=PremierDripMOA+WithDAVID) | N/A |
-| 47 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 10 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
+| 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 12 | [BOBBY COMEBACK STAGE](http://twitter.com/search?q=BOBBY+COMEBACK+STAGE) | N/A |
+| 13 | [DavidLicauco BENCHMeet&Greet](http://twitter.com/search?q=DavidLicauco+BENCHMeet%26Greet) | N/A |
+| 14 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 15 | [GEKOYonFastTalk KOKOY ANGEL](http://twitter.com/search?q=GEKOYonFastTalk+KOKOY+ANGEL) | N/A |
+| 16 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 17 | [BinSan](http://twitter.com/search?q=BinSan) | N/A |
+| 18 | [Junmyeon](http://twitter.com/search?q=Junmyeon) | Junmyeon is a Korean given name, derived from the Chinese characters for “truth” and “beauty”. In English, it can be translated to mean “honest and beautiful”. |
+| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 20 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
+| 21 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 22 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 23 | [#HORI7ON_GoesToLaguna](http://twitter.com/search?q=%23HORI7ON_GoesToLaguna) | N/A |
+| 24 | [#BORNPINKMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKMANILA_BULACAN) | N/A |
+| 25 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
+| 26 | [#KURSE](http://twitter.com/search?q=%23KURSE) | N/A |
+| 27 | [#TeenClashEp2](http://twitter.com/search?q=%23TeenClashEp2) | N/A |
+| 28 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
+| 29 | [#BOBBY_MusicBank](http://twitter.com/search?q=%23BOBBY_MusicBank) | N/A |
+| 30 | [#MCGILoveAbounds](http://twitter.com/search?q=%23MCGILoveAbounds) | N/A |
+| 31 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
+| 32 | [#박민혁_하우_WannaBeLove](http://twitter.com/search?q=%23%eb%b0%95%eb%af%bc%ed%98%81_%ed%95%98%ec%9a%b0_WannaBeLove) | N/A |
+| 33 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
+| 34 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
+| 35 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 36 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 37 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
+| 38 | [#SPCAtlas2023AwardingNight](http://twitter.com/search?q=%23SPCAtlas2023AwardingNight) | N/A |
+| 39 | [#BOYCOTTEBxAPTxGMA744](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA744) | N/A |
+| 40 | [#LeeJongSukInManila](http://twitter.com/search?q=%23LeeJongSukInManila) | N/A |
+| 41 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
 
 
 

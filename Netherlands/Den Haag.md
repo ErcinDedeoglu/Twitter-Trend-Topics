@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-24 10:17:24 UTC`
+📆 Last Updated: `2023-03-24 11:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#lentekriebels](http://twitter.com/search?q=%23lentekriebels) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 4 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 2 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 3 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 4 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 7 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 8 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
 | 9 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 10 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 10 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
 | 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 13 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 14 | [Johan Cruijff](http://twitter.com/search?q=Johan+Cruijff) | N/A |
-| 15 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
-| 16 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 12 | [Deliveroo](http://twitter.com/search?q=Deliveroo) | N/A |
+| 13 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 14 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
+| 15 | [Johan Cruijff](http://twitter.com/search?q=Johan+Cruijff) | N/A |
+| 16 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
 | 17 | [Willem-Alexander](http://twitter.com/search?q=Willem-Alexander) | N/A |
-| 18 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
+| 18 | [Premier Rutte](http://twitter.com/search?q=Premier+Rutte) | N/A |
 | 19 | [Klaas Knot](http://twitter.com/search?q=Klaas+Knot) | N/A |
-| 20 | [Premier Rutte](http://twitter.com/search?q=Premier+Rutte) | N/A |
-| 21 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
-| 22 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 23 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 20 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 21 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 22 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 23 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
 | 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 25 | [Paniekzaaiers](http://twitter.com/search?q=Paniekzaaiers) | N/A |
+| 25 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
 | 26 | [jovd](http://twitter.com/search?q=jovd) | N/A |
 | 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 29 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
-| 30 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 31 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 32 | [Utrecht](http://twitter.com/search?q=Utrecht) | N/A |
-| 33 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 34 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 35 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
-| 36 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 37 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 38 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 39 | [Eemshaven](http://twitter.com/search?q=Eemshaven) | N/A |
-| 40 | [scherpen](http://twitter.com/search?q=scherpen) | N/A |
-| 41 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 42 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 43 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 44 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 46 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 48 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 49 | [Emden](http://twitter.com/search?q=Emden) | N/A |
+| 28 | [Eemshaven](http://twitter.com/search?q=Eemshaven) | N/A |
+| 29 | [Paniekzaaiers](http://twitter.com/search?q=Paniekzaaiers) | N/A |
+| 30 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 31 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
+| 32 | [Pointer](http://twitter.com/search?q=Pointer) | N/A |
+| 33 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 34 | [Hoge Raad](http://twitter.com/search?q=Hoge+Raad) | N/A |
+| 35 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 36 | [Youp](http://twitter.com/search?q=Youp) | N/A |
+| 37 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
+| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 39 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 40 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 41 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [Emden](http://twitter.com/search?q=Emden) | N/A |
+| 45 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 46 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 47 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 48 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-24 10:17:36 UTC`
+📆 Last Updated: `2023-03-24 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#FlyDay](http://twitter.com/search?q=%23FlyDay) | N/A |
 | 3 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
 | 4 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
-| 5 | [#PhandaPushaPlay](http://twitter.com/search?q=%23PhandaPushaPlay) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 5 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 6 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 8 | [Prime Video ZA](http://twitter.com/search?q=Prime+Video+ZA) | N/A |
 | 9 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 12 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
-| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 16 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 17 | [Congratulations George](http://twitter.com/search?q=Congratulations+George) | N/A |
+| 13 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
 | 18 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
 | 19 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 20 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 21 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
-| 22 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 23 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 24 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 25 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
-| 26 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 27 | [Okay Wasabi](http://twitter.com/search?q=Okay+Wasabi) | N/A |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 30 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 31 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
+| 20 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 22 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
+| 23 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
+| 24 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [Okay Wasabi](http://twitter.com/search?q=Okay+Wasabi) | N/A |
+| 27 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 28 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 29 | [Congratulations George](http://twitter.com/search?q=Congratulations+George) | N/A |
+| 30 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
+| 31 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
 | 32 | [Lori](http://twitter.com/search?q=Lori) | N/A |
-| 33 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 34 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 35 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 36 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 37 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 33 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
+| 34 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 35 | [Generational Wealth](http://twitter.com/search?q=Generational+Wealth) | N/A |
+| 36 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 37 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
 | 38 | [Maglera](http://twitter.com/search?q=Maglera) | N/A |
-| 39 | [ipeleng the presenter](http://twitter.com/search?q=ipeleng+the+presenter) | N/A |
-| 40 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 41 | [vote thabang](http://twitter.com/search?q=vote+thabang) | N/A |
-| 42 | [Malusi Booi](http://twitter.com/search?q=Malusi+Booi) | N/A |
-| 43 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 44 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 45 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 39 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 40 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 41 | [Patricia de Lille](http://twitter.com/search?q=Patricia+de+Lille) | N/A |
+| 42 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 43 | [ipeleng the presenter](http://twitter.com/search?q=ipeleng+the+presenter) | N/A |
+| 44 | [vote thabang](http://twitter.com/search?q=vote+thabang) | N/A |
+| 45 | [wilder](http://twitter.com/search?q=wilder) | N/A |
 | 46 | [England](http://twitter.com/search?q=England) | N/A |
-| 47 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 48 | [Chauke](http://twitter.com/search?q=Chauke) | N/A |
-| 49 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 50 | [Episode 1](http://twitter.com/search?q=Episode+1) | N/A |
+| 47 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 48 | [Episode 1](http://twitter.com/search?q=Episode+1) | N/A |
+| 49 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 50 | [Malusi Booi](http://twitter.com/search?q=Malusi+Booi) | N/A |
 
 
 

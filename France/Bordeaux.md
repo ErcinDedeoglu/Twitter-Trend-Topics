@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-03-24 10:17:20 UTC`
+📆 Last Updated: `2023-03-24 11:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,39 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 2 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 3 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
-| 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 5 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 8 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 10 | [#Levenement](http://twitter.com/search?q=%23Levenement) | N/A |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 13 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 14 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 15 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 16 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 17 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Ait Nouri](http://twitter.com/search?q=Ait+Nouri) | N/A |
-| 20 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
-| 21 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 22 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 23 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 24 | [Malibu](http://twitter.com/search?q=Malibu) | Malibu is a beach city in Los Angeles County, California. It is known for its Mediterranean climate, sandy beaches, and celebrity homes. The name Malibu comes from the Chumash language and means "the surf sounds loudly". |
-| 25 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 26 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 27 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 28 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
-| 29 | [chirine](http://twitter.com/search?q=chirine) | N/A |
-| 30 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 32 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
-| 33 | [Assas](http://twitter.com/search?q=Assas) | N/A |
-| 34 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
-| 35 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
-| 36 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 37 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 38 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 39 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 40 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 41 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Manigold](http://twitter.com/search?q=Manigold) | N/A |
-| 44 | [Bouanani](http://twitter.com/search?q=Bouanani) | N/A |
-| 45 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 46 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 47 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
-| 48 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 49 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 50 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 2 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
+| 3 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 4 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 5 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
+| 6 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 7 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 8 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 9 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 10 | [Scènes](http://twitter.com/search?q=Sc%c3%a8nes) | N/A |
+| 11 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 12 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 13 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 14 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 15 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
+| 16 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 17 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 18 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
+| 19 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 20 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 21 | [En Allemagne](http://twitter.com/search?q=En+Allemagne) | N/A |
+| 22 | [L'extrême](http://twitter.com/search?q=L%27extr%c3%aame) | N/A |
+| 23 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 24 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
+| 25 | [Argentine](http://twitter.com/search?q=Argentine) | N/A |
+| 26 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 27 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 28 | [#Sidaction2023](http://twitter.com/search?q=%23Sidaction2023) | N/A |
+| 29 | [#chaos](http://twitter.com/search?q=%23chaos) | N/A |
+| 30 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
+| 31 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 32 | [#Versailles](http://twitter.com/search?q=%23Versailles) | N/A |
+| 33 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
 
 
 
