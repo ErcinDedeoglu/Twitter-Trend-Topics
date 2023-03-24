@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-24 08:18:54 UTC`
+📆 Last Updated: `2023-03-24 09:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bona](http://twitter.com/search?q=Bona) | N/A |
-| 2 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 3 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 4 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 5 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 6 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 7 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
-| 8 | [camila](http://twitter.com/search?q=camila) | N/A |
-| 9 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 10 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 11 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 12 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 13 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 15 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 16 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 17 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 18 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
-| 19 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 20 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 21 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 24 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 25 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 26 | [Cane](http://twitter.com/search?q=Cane) | N/A |
-| 27 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 28 | [Julian Strawther](http://twitter.com/search?q=Julian+Strawther) | N/A |
-| 29 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 30 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 31 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 32 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 33 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 34 | [Paris, Texas](http://twitter.com/search?q=Paris%2c+Texas) | N/A |
-| 35 | [Adam Morrison](http://twitter.com/search?q=Adam+Morrison) | N/A |
-| 36 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 37 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 38 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 39 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
-| 40 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 41 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 42 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
-| 43 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 1 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 2 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 3 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 4 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 5 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 6 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
+| 7 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 8 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 10 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 11 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 12 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
+| 13 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 15 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 16 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 17 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 19 | [Cane](http://twitter.com/search?q=Cane) | N/A |
+| 20 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
+| 21 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 23 | [Julian Strawther](http://twitter.com/search?q=Julian+Strawther) | N/A |
+| 24 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 25 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 26 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 27 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 28 | [Paris, Texas](http://twitter.com/search?q=Paris%2c+Texas) | N/A |
+| 29 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
+| 30 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
+| 31 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 32 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 33 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 34 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 35 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
+| 36 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 37 | [Mick Cronin](http://twitter.com/search?q=Mick+Cronin) | N/A |
+| 38 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 39 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 40 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 41 | [angelina jolie](http://twitter.com/search?q=angelina+jolie) | N/A |
+| 42 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
+| 43 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
 | 44 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
-| 45 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 46 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 47 | [angelina jolie](http://twitter.com/search?q=angelina+jolie) | N/A |
-| 48 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 49 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 50 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
+| 45 | [Clippy](http://twitter.com/search?q=Clippy) | N/A |
+| 46 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 47 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 48 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 49 | [HIDDEN TRACK](http://twitter.com/search?q=HIDDEN+TRACK) | N/A |
+| 50 | [I Am My Own Muse](http://twitter.com/search?q=I+Am+My+Own+Muse) | N/A |
 
 
 

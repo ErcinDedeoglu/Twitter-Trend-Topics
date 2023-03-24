@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-24 08:18:22 UTC`
+📆 Last Updated: `2023-03-24 09:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 6 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 7 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 10 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 11 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 12 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 13 | [Partiell](http://twitter.com/search?q=Partiell) | N/A |
-| 14 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 15 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 16 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 17 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 9 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 10 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 11 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 12 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 13 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 14 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 15 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 16 | [Partiell](http://twitter.com/search?q=Partiell) | N/A |
+| 17 | ['Tanzen'](http://twitter.com/search?q=%27Tanzen%27) | N/A |
 | 18 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 19 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
-| 20 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 21 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 22 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
-| 23 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 24 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 25 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 26 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 27 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
-| 28 | [Anja](http://twitter.com/search?q=Anja) | N/A |
+| 19 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 20 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 21 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 23 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 24 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 25 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 26 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 27 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 28 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
 | 29 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
-| 30 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 31 | [Medwedew](http://twitter.com/search?q=Medwedew) | N/A |
-| 32 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
-| 33 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
-| 34 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 30 | [Leiharbeit](http://twitter.com/search?q=Leiharbeit) | N/A |
+| 31 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 32 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 33 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 34 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
 | 35 | [Schuluniformen](http://twitter.com/search?q=Schuluniformen) | N/A |
-| 36 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 37 | [Gumo](http://twitter.com/search?q=Gumo) | N/A |
-| 38 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
-| 39 | [Verbotskultur](http://twitter.com/search?q=Verbotskultur) | N/A |
-| 40 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
-| 41 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
-| 42 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
-| 43 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 44 | [Gero](http://twitter.com/search?q=Gero) | N/A |
-| 45 | [Rechnerisch](http://twitter.com/search?q=Rechnerisch) | N/A |
-| 46 | [Günter](http://twitter.com/search?q=G%c3%bcnter) | N/A |
-| 47 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
-| 48 | [Gedöns](http://twitter.com/search?q=Ged%c3%b6ns) | N/A |
-| 49 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 36 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
+| 37 | [Rechnerisch](http://twitter.com/search?q=Rechnerisch) | N/A |
+| 38 | [Sandro Wagner](http://twitter.com/search?q=Sandro+Wagner) | N/A |
+| 39 | [Otto Wels](http://twitter.com/search?q=Otto+Wels) | N/A |
+| 40 | [Gero](http://twitter.com/search?q=Gero) | N/A |
+| 41 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 42 | [Günter](http://twitter.com/search?q=G%c3%bcnter) | N/A |
+| 43 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 44 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 45 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 46 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
+| 47 | [Muslime](http://twitter.com/search?q=Muslime) | N/A |
+| 48 | ['Holz'](http://twitter.com/search?q=%27Holz%27) | N/A |
+| 49 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
 
 
 

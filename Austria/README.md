@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-24 08:18:56 UTC`
+📆 Last Updated: `2023-03-24 09:19:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
 | 3 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 4 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 5 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
 | 6 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
 | 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 9 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 10 | [#Brunnenmarkt](http://twitter.com/search?q=%23Brunnenmarkt) | N/A |
-| 11 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 8 | [#Brunnenmarkt](http://twitter.com/search?q=%23Brunnenmarkt) | N/A |
+| 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 10 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 11 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
 | 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 13 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 14 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 15 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 16 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 17 | [#ZIB2](http://twitter.com/search?q=%23ZIB2) | N/A |
-| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 19 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
-| 20 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 21 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 14 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 15 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
+| 16 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 17 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
+| 18 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 19 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 20 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 21 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 22 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 25 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
-| 26 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 27 | [Dynamik](http://twitter.com/search?q=Dynamik) | N/A |
-| 28 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 29 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 30 | [Zuschuss](http://twitter.com/search?q=Zuschuss) | N/A |
-| 31 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 32 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 33 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 34 | [landesabgaben](http://twitter.com/search?q=landesabgaben) | N/A |
-| 35 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 36 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
-| 37 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
-| 38 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 39 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 24 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 25 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 26 | [Rückzug](http://twitter.com/search?q=R%c3%bcckzug) | N/A |
+| 27 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 28 | [Dynamik](http://twitter.com/search?q=Dynamik) | N/A |
+| 29 | [mietpreisbremse](http://twitter.com/search?q=mietpreisbremse) | N/A |
+| 30 | [Stichwahl](http://twitter.com/search?q=Stichwahl) | N/A |
+| 31 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 32 | [Zuschuss](http://twitter.com/search?q=Zuschuss) | N/A |
+| 33 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 34 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 35 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 36 | [landesabgaben](http://twitter.com/search?q=landesabgaben) | N/A |
+| 37 | [Feinde](http://twitter.com/search?q=Feinde) | N/A |
+| 38 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 39 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
 | 40 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 41 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 41 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 42 | [Klientel](http://twitter.com/search?q=Klientel) | N/A |
-| 43 | [statuten](http://twitter.com/search?q=statuten) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Verhetzung](http://twitter.com/search?q=Verhetzung) | N/A |
-| 46 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 47 | [Munition](http://twitter.com/search?q=Munition) | N/A |
-| 48 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 49 | [Haushalte](http://twitter.com/search?q=Haushalte) | N/A |
-| 50 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 43 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 44 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
+| 45 | [Industrie](http://twitter.com/search?q=Industrie) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Schauspiel](http://twitter.com/search?q=Schauspiel) | N/A |
+| 48 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 49 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 50 | [Dosko](http://twitter.com/search?q=Dosko) | N/A |
 
 
 

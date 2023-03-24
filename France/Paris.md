@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-24 08:18:21 UTC`
+📆 Last Updated: `2023-03-24 09:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [France](</France>)
 | 3 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
 | 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 5 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 8 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
 | 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 10 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 10 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 11 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 12 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 13 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 12 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 13 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
 | 14 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 15 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 16 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 17 | [Allégorie](http://twitter.com/search?q=All%c3%a9gorie) | N/A |
-| 18 | [Ait Nouri](http://twitter.com/search?q=Ait+Nouri) | N/A |
-| 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 20 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
-| 21 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 22 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 23 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 24 | [L'album de Jimin](http://twitter.com/search?q=L%27album+de+Jimin) | N/A |
-| 25 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 26 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
-| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 28 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
-| 29 | [Bouanani](http://twitter.com/search?q=Bouanani) | N/A |
-| 30 | [Assas](http://twitter.com/search?q=Assas) | N/A |
-| 31 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 32 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
-| 33 | [chirine](http://twitter.com/search?q=chirine) | N/A |
-| 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 35 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 36 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
-| 37 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
-| 38 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 39 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 40 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 41 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 42 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 43 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
-| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 45 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Ait Nouri](http://twitter.com/search?q=Ait+Nouri) | N/A |
+| 17 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 18 | [Opéra](http://twitter.com/search?q=Op%c3%a9ra) | N/A |
+| 19 | [Bell](http://twitter.com/search?q=Bell) | N/A |
+| 20 | [Malibu](http://twitter.com/search?q=Malibu) | Malibu is a beach city in Los Angeles County, California. It is known for its Mediterranean climate, sandy beaches, and celebrity homes. The name Malibu comes from the Chumash language and means "the surf sounds loudly". |
+| 21 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 22 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 23 | [Allégorie](http://twitter.com/search?q=All%c3%a9gorie) | N/A |
+| 24 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
+| 25 | [Assas](http://twitter.com/search?q=Assas) | N/A |
+| 26 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
+| 27 | [chirine](http://twitter.com/search?q=chirine) | N/A |
+| 28 | [L'album de Jimin](http://twitter.com/search?q=L%27album+de+Jimin) | N/A |
+| 29 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 31 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 32 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 33 | [Arnaud Beltrame](http://twitter.com/search?q=Arnaud+Beltrame) | N/A |
+| 34 | [Taxi](http://twitter.com/search?q=Taxi) | N/A |
+| 35 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
+| 36 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 37 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 38 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 39 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 40 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Bouanani](http://twitter.com/search?q=Bouanani) | N/A |
+| 43 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
+| 44 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 45 | [Saha](http://twitter.com/search?q=Saha) | N/A |
 | 46 | [Bentaleb](http://twitter.com/search?q=Bentaleb) | N/A |
-| 47 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 48 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
-| 49 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
-| 50 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 47 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 49 | [Tibo](http://twitter.com/search?q=Tibo) | N/A |
+| 50 | [Weber](http://twitter.com/search?q=Weber) | N/A |
 
 
 

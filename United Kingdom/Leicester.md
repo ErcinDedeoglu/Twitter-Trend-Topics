@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-24 08:18:09 UTC`
+📆 Last Updated: `2023-03-24 09:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 11 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 14 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 15 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 16 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
-| 17 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 18 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 13 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 14 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 15 | [dion dublin](http://twitter.com/search?q=dion+dublin) | N/A |
+| 16 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 17 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 18 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 19 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
 | 20 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 21 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 21 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
 | 22 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 23 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 24 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 25 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 27 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
-| 28 | [Italians](http://twitter.com/search?q=Italians) | N/A |
-| 29 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 30 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 31 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 23 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 24 | [Andrew Bailey](http://twitter.com/search?q=Andrew+Bailey) | N/A |
+| 25 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 26 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 27 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 28 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 29 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 30 | [Wadhurst](http://twitter.com/search?q=Wadhurst) | N/A |
+| 31 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
 | 32 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 33 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 34 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 35 | [Ofsted](http://twitter.com/search?q=Ofsted) | N/A |
-| 36 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
-| 37 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 38 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 39 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 40 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 41 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 42 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 43 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 44 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
-| 45 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 33 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 34 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 35 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 36 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 37 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 38 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 39 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 40 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 42 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
+| 43 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 44 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 45 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
 | 46 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 48 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 49 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 50 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 47 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 48 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 49 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 50 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
 
 
 
