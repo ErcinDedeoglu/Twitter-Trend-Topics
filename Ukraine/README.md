@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-24 22:18:11 UTC`
+📆 Last Updated: `2023-03-24 23:19:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,8 @@ This is top 50 for Ukraine
 | 16 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 18 | [Nova Kakhovka](http://twitter.com/search?q=Nova+Kakhovka) | N/A |
-| 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 20 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 19 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 20 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 21 | [f*ck nft](http://twitter.com/search?q=f*ck+nft) | N/A |
 | 22 | [f*ck crypto](http://twitter.com/search?q=f*ck+crypto) | N/A |
 | 23 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
@@ -43,16 +43,16 @@ This is top 50 for Ukraine
 | 26 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 27 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
 | 28 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 29 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 30 | [Пздц](http://twitter.com/search?q=%d0%9f%d0%b7%d0%b4%d1%86) | N/A |
-| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 32 | [David](http://twitter.com/search?q=David) | N/A |
-| 33 | [Dope](http://twitter.com/search?q=Dope) | N/A |
-| 34 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 35 | [нічо](http://twitter.com/search?q=%d0%bd%d1%96%d1%87%d0%be) | N/A |
-| 36 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 37 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 29 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 30 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
+| 31 | [Пздц](http://twitter.com/search?q=%d0%9f%d0%b7%d0%b4%d1%86) | N/A |
+| 32 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 33 | [David](http://twitter.com/search?q=David) | N/A |
+| 34 | [Dope](http://twitter.com/search?q=Dope) | N/A |
+| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 36 | [нічо](http://twitter.com/search?q=%d0%bd%d1%96%d1%87%d0%be) | N/A |
+| 37 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 38 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
 | 39 | [Така](http://twitter.com/search?q=%d0%a2%d0%b0%d0%ba%d0%b0) | N/A |
 | 40 | [Часть 1](http://twitter.com/search?q=%d0%a7%d0%b0%d1%81%d1%82%d1%8c+1) | N/A |
 | 41 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Ukraine
 | 44 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 45 | [Дякую](http://twitter.com/search?q=%d0%94%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
 | 46 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
-| 47 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 48 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
 | 49 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
 | 50 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |

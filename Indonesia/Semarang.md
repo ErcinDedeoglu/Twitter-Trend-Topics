@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-24 22:17:29 UTC`
+📆 Last Updated: `2023-03-24 23:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 6 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
 | 7 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
 | 8 | [Royco](http://twitter.com/search?q=Royco) | N/A |
-| 9 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
-| 10 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 13 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 14 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
-| 15 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
-| 16 | [DNYL](http://twitter.com/search?q=DNYL) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 19 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 20 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 21 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 22 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
+| 9 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 11 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 12 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
+| 13 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
+| 14 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 17 | [Syariah Rahmat Semesta](http://twitter.com/search?q=Syariah+Rahmat+Semesta) | N/A |
+| 18 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 19 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
+| 20 | [DNYL](http://twitter.com/search?q=DNYL) | N/A |
+| 21 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 23 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
-| 24 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 25 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
-| 26 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 24 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 25 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 26 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
 | 27 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 28 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
-| 29 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
-| 30 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 28 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
+| 29 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
+| 30 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
 | 31 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
 | 32 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
 | 33 | [Belanda](http://twitter.com/search?q=Belanda) | N/A |
-| 34 | [Meow](http://twitter.com/search?q=Meow) | N/A |
+| 34 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 35 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 38 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 40 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 41 | [patung](http://twitter.com/search?q=patung) | N/A |
-| 42 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 43 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
-| 44 | [Fenomena](http://twitter.com/search?q=Fenomena) | N/A |
+| 37 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 38 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
+| 39 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 40 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
+| 41 | [Meow](http://twitter.com/search?q=Meow) | N/A |
+| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 43 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 44 | [Chimon](http://twitter.com/search?q=Chimon) | N/A |
 | 45 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
-| 46 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
+| 46 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
 | 47 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
-| 48 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 49 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 48 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 49 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

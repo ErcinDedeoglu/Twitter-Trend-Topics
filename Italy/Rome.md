@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-03-24 22:17:24 UTC`
+📆 Last Updated: `2023-03-24 23:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 1 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
 | 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 3 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
-| 4 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 3 | [#BenedettaPrimavera](http://twitter.com/search?q=%23BenedettaPrimavera) | N/A |
+| 4 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
 | 5 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 6 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 7 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
-| 8 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 9 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 10 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 11 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 12 | [ANTIFASCISTI](http://twitter.com/search?q=ANTIFASCISTI) | N/A |
-| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 14 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 15 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 16 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 17 | [Ornella](http://twitter.com/search?q=Ornella) | N/A |
-| 18 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 19 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
-| 20 | [Conad](http://twitter.com/search?q=Conad) | N/A |
-| 21 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 22 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
-| 23 | [#veritaegiustiziapergiulio](http://twitter.com/search?q=%23veritaegiustiziapergiulio) | N/A |
-| 24 | [#fratellidicrozza](http://twitter.com/search?q=%23fratellidicrozza) | N/A |
-| 25 | [#FranciaOlanda](http://twitter.com/search?q=%23FranciaOlanda) | N/A |
-| 26 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
-| 27 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
-| 28 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 29 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 30 | [#EurolegaTipo](http://twitter.com/search?q=%23EurolegaTipo) | N/A |
-| 31 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 32 | [#Sallusti](http://twitter.com/search?q=%23Sallusti) | N/A |
-| 33 | [#imieiocchi](http://twitter.com/search?q=%23imieiocchi) | N/A |
-| 34 | [#David](http://twitter.com/search?q=%23David) | N/A |
-| 35 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 36 | [#tortura](http://twitter.com/search?q=%23tortura) | N/A |
-| 37 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 38 | [#DilettaLeotta](http://twitter.com/search?q=%23DilettaLeotta) | N/A |
-| 39 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 40 | [#DeutscheBank](http://twitter.com/search?q=%23DeutscheBank) | N/A |
-| 41 | [#Lollobrigida](http://twitter.com/search?q=%23Lollobrigida) | N/A |
-| 42 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 43 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 44 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 45 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 6 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
+| 7 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 9 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 13 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
+| 14 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 15 | [Patty Pravo](http://twitter.com/search?q=Patty+Pravo) | N/A |
+| 16 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 17 | [ANTIFASCISTI](http://twitter.com/search?q=ANTIFASCISTI) | N/A |
+| 18 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 19 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 20 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 21 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 22 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 23 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 24 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
+| 25 | [David di Michelangelo](http://twitter.com/search?q=David+di+Michelangelo) | N/A |
+| 26 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 27 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 28 | [Diletta Leotta](http://twitter.com/search?q=Diletta+Leotta) | N/A |
+| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 30 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 31 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 32 | [La Pascale](http://twitter.com/search?q=La+Pascale) | N/A |
+| 33 | [Toffanin](http://twitter.com/search?q=Toffanin) | N/A |
+| 34 | [Conad](http://twitter.com/search?q=Conad) | N/A |
+| 35 | [Mosè](http://twitter.com/search?q=Mos%c3%a8) | N/A |
+| 36 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 37 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
+| 38 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 40 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 41 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 42 | [Clementino](http://twitter.com/search?q=Clementino) | N/A |
+| 43 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
+| 44 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 45 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 46 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 47 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
+| 48 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 49 | [Toloi](http://twitter.com/search?q=Toloi) | N/A |
+| 50 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 
 
 

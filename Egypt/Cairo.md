@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-03-24 22:17:40 UTC`
+📆 Last Updated: `2023-03-24 23:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#اورنچ_باب_رزق](http://twitter.com/search?q=%23%d8%a7%d9%88%d8%b1%d9%86%da%86_%d8%a8%d8%a7%d8%a8_%d8%b1%d8%b2%d9%82) | N/A |
+| 1 | [#اورنچ__باب_رزق](http://twitter.com/search?q=%23%d8%a7%d9%88%d8%b1%d9%86%da%86__%d8%a8%d8%a7%d8%a8_%d8%b1%d8%b2%d9%82) | N/A |
 | 2 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
 | 3 | [٢ رمضان](http://twitter.com/search?q=%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 4 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 5 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 4 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 5 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
 | 6 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 7 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
-| 8 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 9 | [ورق العنب](http://twitter.com/search?q=%d9%88%d8%b1%d9%82+%d8%a7%d9%84%d8%b9%d9%86%d8%a8) | N/A |
-| 10 | [#مصر_مالاوي](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d9%85%d8%a7%d9%84%d8%a7%d9%88%d9%8a) | N/A |
+| 7 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 8 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
+| 9 | [علي قاسم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 10 | [ورق العنب](http://twitter.com/search?q=%d9%88%d8%b1%d9%82+%d8%a7%d9%84%d8%b9%d9%86%d8%a8) | N/A |
 | 11 | [#الكبير_اوي7](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1_%d8%a7%d9%88%d9%8a7) | N/A |
 | 12 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
-| 13 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 14 | [علي قاسم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 15 | [ياسمين صبري](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%85%d9%8a%d9%86+%d8%b5%d8%a8%d8%b1%d9%8a) | N/A |
-| 16 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 17 | [منتخب مصر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
-| 18 | [علي الفطار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b7%d8%a7%d8%b1) | N/A |
-| 19 | [حسن وليد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 20 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 13 | [ياسمين صبري](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%85%d9%8a%d9%86+%d8%b5%d8%a8%d8%b1%d9%8a) | N/A |
+| 14 | [#شهر_الفرحه](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%b1_%d8%a7%d9%84%d9%81%d8%b1%d8%ad%d9%87) | N/A |
+| 15 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 16 | [علي الفطار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b7%d8%a7%d8%b1) | N/A |
+| 17 | [خالد النبوي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
+| 18 | [عمرو دياب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%af%d9%8a%d8%a7%d8%a8) | N/A |
+| 19 | [منتخب مصر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
+| 20 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 21 | [شيخ الازهر](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b2%d9%87%d8%b1) | N/A |
-| 22 | [خالد النبوي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
-| 23 | [هولندا](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7) | N/A |
-| 24 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 25 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 26 | [احمد عز](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d8%b2) | N/A |
-| 27 | [محمود حمادة](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%ad%d9%85%d8%a7%d8%af%d8%a9) | N/A |
-| 28 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 29 | [ملوك الصالات](http://twitter.com/search?q=%d9%85%d9%84%d9%88%d9%83+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 22 | [احمد عز](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d8%b2) | N/A |
+| 23 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 24 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 26 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 27 | [ملوك الصالات](http://twitter.com/search?q=%d9%85%d9%84%d9%88%d9%83+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 28 | [سمير غانم](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 29 | [السقا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%82%d8%a7) | N/A |
 | 30 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 31 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 32 | [سمير غانم](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 33 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 34 | [بنك مصر](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d9%85%d8%b5%d8%b1) | N/A |
-| 35 | [السقا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%82%d8%a7) | N/A |
+| 31 | [صاحب عمري](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%b9%d9%85%d8%b1%d9%8a) | N/A |
+| 32 | [حسن وليد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%88%d9%84%d9%8a%d8%af) | N/A |
+| 33 | [بنك مصر](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d9%85%d8%b5%d8%b1) | N/A |
+| 34 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 35 | [مجدي يعقوب](http://twitter.com/search?q=%d9%85%d8%ac%d8%af%d9%8a+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
 | 36 | [شهر الصيام](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 37 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 38 | [الاجواء الشتويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%aa%d9%88%d9%8a%d9%87) | N/A |
-| 39 | [خالد خيري](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
-| 40 | [صاحب عمري](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%b9%d9%85%d8%b1%d9%8a) | N/A |
-| 41 | [مجدي يعقوب](http://twitter.com/search?q=%d9%85%d8%ac%d8%af%d9%8a+%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
-| 42 | [اليبس الفتات](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a8%d8%b3+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%aa) | N/A |
-| 43 | [احمد مكي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%85%d9%83%d9%8a) | N/A |
-| 44 | [محمود العسيلي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%b9%d8%b3%d9%8a%d9%84%d9%8a) | N/A |
-| 45 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 46 | [عمر مرموش](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d9%85%d8%b1%d9%85%d9%88%d8%b4) | N/A |
-| 47 | [بايرن ميونخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
-| 48 | [احمد امين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 49 | [عين الجمل](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d9%84) | N/A |
-| 50 | [المنتخب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 37 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
+| 38 | [اليبس الفتات](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a8%d8%b3+%d8%a7%d9%84%d9%81%d8%aa%d8%a7%d8%aa) | N/A |
+| 39 | [محمود حماده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%ad%d9%85%d8%a7%d8%af%d9%87) | N/A |
+| 40 | [احمد امين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 41 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 42 | [محمود العسيلي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%b9%d8%b3%d9%8a%d9%84%d9%8a) | N/A |
+| 43 | [خالد خيري](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
+| 44 | [عمر مرموش](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d9%85%d8%b1%d9%85%d9%88%d8%b4) | N/A |
+| 45 | [المنتخب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 46 | [عمر خيرت](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ae%d9%8a%d8%b1%d8%aa) | N/A |
+| 47 | [الاجواء الشتويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%aa%d9%88%d9%8a%d9%87) | N/A |
+| 48 | [احمد مكي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%85%d9%83%d9%8a) | N/A |
+| 49 | [بايرن ميونخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
+| 50 | [صوت البرق](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a8%d8%b1%d9%82) | N/A |
 
 
 

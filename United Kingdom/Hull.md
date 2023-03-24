@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-03-24 22:17:06 UTC`
+📆 Last Updated: `2023-03-24 23:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 2 | [#NSL2023](http://twitter.com/search?q=%23NSL2023) | N/A |
-| 3 | [Pet Shop Boys](http://twitter.com/search?q=Pet+Shop+Boys) | N/A |
-| 4 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 5 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 6 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
-| 7 | [#Everton](http://twitter.com/search?q=%23Everton) | N/A |
-| 8 | [#WomensFootballWeekend](http://twitter.com/search?q=%23WomensFootballWeekend) | N/A |
-| 9 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 12 | [Bevan French](http://twitter.com/search?q=Bevan+French) | N/A |
-| 13 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 14 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 15 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 16 | [One For Arthur](http://twitter.com/search?q=One+For+Arthur) | N/A |
-| 17 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 18 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 19 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Gloucester](http://twitter.com/search?q=Gloucester) | N/A |
-| 22 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 23 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 24 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 27 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 28 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 29 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 30 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
-| 31 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 32 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 33 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 34 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 35 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
-| 36 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 37 | [Mark Littlewood](http://twitter.com/search?q=Mark+Littlewood) | N/A |
-| 38 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 39 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 40 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
-| 41 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 1 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 2 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 3 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 4 | [#NSL2023](http://twitter.com/search?q=%23NSL2023) | N/A |
+| 5 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
+| 6 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 7 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
+| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 9 | [#WomensFootballWeekend](http://twitter.com/search?q=%23WomensFootballWeekend) | N/A |
+| 10 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 11 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
+| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 14 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 15 | [Bevan French](http://twitter.com/search?q=Bevan+French) | N/A |
+| 16 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 17 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 18 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 19 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 20 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 21 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 22 | [One For Arthur](http://twitter.com/search?q=One+For+Arthur) | N/A |
+| 23 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 24 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 25 | [Gloucester](http://twitter.com/search?q=Gloucester) | N/A |
+| 26 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 28 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 29 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 30 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 31 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 32 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
+| 33 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 34 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
+| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 36 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 37 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
+| 38 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 39 | [Mark Littlewood](http://twitter.com/search?q=Mark+Littlewood) | N/A |
+| 40 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
+| 41 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
 | 42 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 43 | [Matthew Elliott](http://twitter.com/search?q=Matthew+Elliott) | N/A |
-| 44 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 45 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 46 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 47 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
-| 48 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 49 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 43 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 45 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 46 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 47 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 48 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 49 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 
 
 

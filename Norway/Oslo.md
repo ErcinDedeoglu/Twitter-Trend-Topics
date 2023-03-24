@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-24 22:17:27 UTC`
+📆 Last Updated: `2023-03-24 23:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 3 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
-| 4 | [Erna](http://twitter.com/search?q=Erna) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 2 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 3 | [Erna](http://twitter.com/search?q=Erna) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 14 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 13 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 14 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
 | 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 16 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 17 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 17 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 18 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
 | 19 | [Norske](http://twitter.com/search?q=Norske) | N/A |
 | 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 21 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
 | 22 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 | 23 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 24 | [Statkraft](http://twitter.com/search?q=Statkraft) | N/A |
-| 25 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
-| 26 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 27 | [Høyres](http://twitter.com/search?q=H%c3%b8yres) | N/A |
-| 28 | [Definitivt](http://twitter.com/search?q=Definitivt) | N/A |
-| 29 | [#BorzoiInu](http://twitter.com/search?q=%23BorzoiInu) | N/A |
-| 30 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 31 | [Comet](http://twitter.com/search?q=Comet) | N/A |
-| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 33 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 34 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
-| 35 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 36 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 24 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 25 | [Definitivt](http://twitter.com/search?q=Definitivt) | N/A |
+| 26 | [Statkraft](http://twitter.com/search?q=Statkraft) | N/A |
+| 27 | [#BorzoiInu](http://twitter.com/search?q=%23BorzoiInu) | N/A |
+| 28 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 29 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 30 | [Comet](http://twitter.com/search?q=Comet) | N/A |
+| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 32 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 33 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
+| 34 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 35 | [Kaski](http://twitter.com/search?q=Kaski) | N/A |
+| 36 | [Høyres](http://twitter.com/search?q=H%c3%b8yres) | N/A |
 | 37 | [Nydelig](http://twitter.com/search?q=Nydelig) | N/A |
-| 38 | [Kaski](http://twitter.com/search?q=Kaski) | N/A |
-| 39 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
-| 40 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
-| 41 | [vestre](http://twitter.com/search?q=vestre) | N/A |
-| 42 | [Booth](http://twitter.com/search?q=Booth) | N/A |
-| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 45 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
-| 46 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 47 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 48 | [Mihawk](http://twitter.com/search?q=Mihawk) | N/A |
-| 49 | [Røkke](http://twitter.com/search?q=R%c3%b8kke) | N/A |
+| 38 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
+| 39 | [BOOTH](http://twitter.com/search?q=BOOTH) | N/A |
+| 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 41 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 42 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
+| 43 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 44 | [Mihawk](http://twitter.com/search?q=Mihawk) | N/A |
+| 45 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
+| 46 | [Røkke](http://twitter.com/search?q=R%c3%b8kke) | N/A |
+| 47 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
+| 48 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 49 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 
 
 

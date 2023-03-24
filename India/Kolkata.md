@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-03-24 22:17:47 UTC`
+📆 Last Updated: `2023-03-24 23:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 2 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 3 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 4 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 5 | [#CCL2023](http://twitter.com/search?q=%23CCL2023) | N/A |
-| 6 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
-| 7 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
-| 8 | [#TeluguWarriors](http://twitter.com/search?q=%23TeluguWarriors) | N/A |
-| 9 | [#PraTejRan](http://twitter.com/search?q=%23PraTejRan) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
-| 12 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 13 | [Shelley N](http://twitter.com/search?q=Shelley+N) | N/A |
-| 14 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 16 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
-| 17 | [Chand](http://twitter.com/search?q=Chand) | N/A |
-| 18 | [आजम खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 19 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
-| 20 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 21 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
-| 22 | [#BlackDayForDemocracy](http://twitter.com/search?q=%23BlackDayForDemocracy) | N/A |
-| 23 | [#venus](http://twitter.com/search?q=%23venus) | N/A |
-| 24 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
-| 25 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 26 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
-| 27 | [#1YearOfHistoricalRRR](http://twitter.com/search?q=%231YearOfHistoricalRRR) | N/A |
-| 28 | [#BHStyleIcons](http://twitter.com/search?q=%23BHStyleIcons) | N/A |
-| 29 | [#KarnatakaBulldozers](http://twitter.com/search?q=%23KarnatakaBulldozers) | N/A |
-| 30 | [#ChorNikalKeBhaga](http://twitter.com/search?q=%23ChorNikalKeBhaga) | N/A |
-| 31 | [#Balagam](http://twitter.com/search?q=%23Balagam) | N/A |
-| 32 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
-| 33 | [#HanteoCorrupt](http://twitter.com/search?q=%23HanteoCorrupt) | N/A |
-| 34 | [#UPWvMI](http://twitter.com/search?q=%23UPWvMI) | N/A |
-| 35 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 36 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 37 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 38 | [#RaGa](http://twitter.com/search?q=%23RaGa) | N/A |
-| 39 | [#DelhiRains](http://twitter.com/search?q=%23DelhiRains) | N/A |
-| 40 | [#BIGBREAKING](http://twitter.com/search?q=%23BIGBREAKING) | N/A |
-| 41 | [#TejRanFam](http://twitter.com/search?q=%23TejRanFam) | N/A |
-| 42 | [#Agent](http://twitter.com/search?q=%23Agent) | N/A |
+| 1 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 2 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 3 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
+| 4 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
+| 5 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 6 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
+| 7 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
+| 8 | [#WorldTuberculosisDay](http://twitter.com/search?q=%23WorldTuberculosisDay) | N/A |
+| 9 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 10 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 11 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 12 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 13 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 15 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 16 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 17 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 18 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
+| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 21 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 22 | [Surat](http://twitter.com/search?q=Surat) | N/A |
+| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 24 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
+| 25 | [get well soon akki](http://twitter.com/search?q=get+well+soon+akki) | N/A |
+| 26 | [लोकसभा सचिवालय](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 27 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 28 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 29 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 30 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 31 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 32 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 33 | [One World TB Summit](http://twitter.com/search?q=One+World+TB+Summit) | N/A |
+| 34 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
+| 35 | [ONE MONTH TO VARUN'S BDAY](http://twitter.com/search?q=ONE+MONTH+TO+VARUN%27S+BDAY) | N/A |
+| 36 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 37 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 38 | [Shelley N](http://twitter.com/search?q=Shelley+N) | N/A |
+| 39 | [रेणुका चौधरी](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%a3%e0%a5%81%e0%a4%95%e0%a4%be+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 40 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
+| 41 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 42 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 43 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 44 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 45 | [Accused](http://twitter.com/search?q=Accused) | N/A |
+| 46 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 47 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 48 | [Finals](http://twitter.com/search?q=Finals) | N/A |
+| 49 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 50 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 
 
 

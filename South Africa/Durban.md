@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-24 22:17:40 UTC`
+📆 Last Updated: `2023-03-24 23:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 | 2 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 3 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 4 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
-| 5 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 6 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 7 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 3 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
+| 4 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 5 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 6 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 7 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
 | 8 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 9 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 10 | [#HDJ2023](http://twitter.com/search?q=%23HDJ2023) | N/A |
+| 9 | [#HDJ2023](http://twitter.com/search?q=%23HDJ2023) | N/A |
+| 10 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
 | 11 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 12 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
 | 13 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 14 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
-| 17 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
-| 18 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 14 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 15 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 16 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
+| 17 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
+| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 19 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
 | 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 21 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 22 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 23 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 22 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 24 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
 | 25 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 26 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 27 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 26 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 27 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
 | 28 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
 | 29 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 30 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 31 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 32 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 33 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 37 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
-| 38 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 41 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 42 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 30 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 31 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 32 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 33 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
+| 37 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 40 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 41 | [Helman](http://twitter.com/search?q=Helman) | N/A |
+| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 45 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 46 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 47 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 48 | [Helman Mkhalele](http://twitter.com/search?q=Helman+Mkhalele) | N/A |
-| 49 | [Congratulations Thabang](http://twitter.com/search?q=Congratulations+Thabang) | "Congratulations Thabang" is a phrase used to congratulate someone named Thabang on an accomplishment or achievement. It is a way of expressing admiration and support for their success. |
-| 50 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
+| 44 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 45 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 46 | [Congratulations Thabang](http://twitter.com/search?q=Congratulations+Thabang) | "Congratulations Thabang" is a phrase used to congratulate someone named Thabang on an accomplishment or achievement. It is a way of expressing admiration and support for their success. |
+| 47 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 48 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
+| 49 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 50 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
 
 
 

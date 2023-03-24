@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-24 22:17:28 UTC`
+📆 Last Updated: `2023-03-24 23:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 7 | [#PialaDuniaU20HarusSukses](http://twitter.com/search?q=%23PialaDuniaU20HarusSukses) | N/A |
 | 8 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
 | 9 | [Royco](http://twitter.com/search?q=Royco) | N/A |
-| 10 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
-| 11 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 12 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 14 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 15 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
-| 16 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 10 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 12 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 13 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
+| 14 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 17 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
 | 18 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 19 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 20 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 21 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 22 | [DNYL](http://twitter.com/search?q=DNYL) | N/A |
-| 23 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
+| 19 | [Syariah Rahmat Semesta](http://twitter.com/search?q=Syariah+Rahmat+Semesta) | N/A |
+| 20 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 21 | [DNYL](http://twitter.com/search?q=DNYL) | N/A |
+| 22 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 24 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
 | 25 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
 | 26 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
-| 27 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 28 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 29 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
-| 30 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
-| 31 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
-| 32 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
-| 33 | [Belanda](http://twitter.com/search?q=Belanda) | N/A |
-| 34 | [Meow](http://twitter.com/search?q=Meow) | N/A |
-| 35 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 38 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 39 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 41 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 42 | [patung](http://twitter.com/search?q=patung) | N/A |
-| 43 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 44 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
-| 45 | [Fenomena](http://twitter.com/search?q=Fenomena) | N/A |
+| 27 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 28 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
+| 29 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 30 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
+| 31 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
+| 32 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 33 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
+| 34 | [Belanda](http://twitter.com/search?q=Belanda) | N/A |
+| 35 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 36 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 38 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 39 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
+| 40 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 41 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
+| 42 | [Meow](http://twitter.com/search?q=Meow) | N/A |
+| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 44 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 45 | [Chimon](http://twitter.com/search?q=Chimon) | N/A |
 | 46 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
-| 47 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
+| 47 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
 | 48 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
-| 49 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 50 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 49 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 50 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

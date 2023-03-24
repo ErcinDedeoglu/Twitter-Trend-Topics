@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-24 22:17:16 UTC`
+📆 Last Updated: `2023-03-24 23:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Escrota](http://twitter.com/search?q=Escrota) | N/A |
-| 2 | [alisa](http://twitter.com/search?q=alisa) | N/A |
-| 3 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
-| 4 | [suki](http://twitter.com/search?q=suki) | N/A |
-| 5 | [#SaoPauloEPrix](http://twitter.com/search?q=%23SaoPauloEPrix) | N/A |
-| 6 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 7 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 8 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
+| 1 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 2 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 3 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 4 | [alisa](http://twitter.com/search?q=alisa) | N/A |
+| 5 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 6 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 7 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 8 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
 | 9 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
-| 10 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 10 | [Suki](http://twitter.com/search?q=Suki) | N/A |
 | 11 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
 | 12 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 13 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 14 | [Truce](http://twitter.com/search?q=Truce) | N/A |
-| 15 | [Mentiu](http://twitter.com/search?q=Mentiu) | N/A |
-| 16 | [#ForaLarissa](http://twitter.com/search?q=%23ForaLarissa) | N/A |
-| 17 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 18 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 19 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 13 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 14 | [Mentiu](http://twitter.com/search?q=Mentiu) | N/A |
+| 15 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 16 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 17 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
+| 18 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 19 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
 | 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 21 | [#LollaBRNoMultishow](http://twitter.com/search?q=%23LollaBRNoMultishow) | N/A |
-| 22 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 21 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 22 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 23 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 24 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 25 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 26 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 27 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 24 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
+| 25 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 26 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 27 | [Heather](http://twitter.com/search?q=Heather) | N/A |
 | 28 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 29 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 30 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 31 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 32 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 33 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 34 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 35 | [mother mother](http://twitter.com/search?q=mother+mother) | N/A |
-| 36 | [kali](http://twitter.com/search?q=kali) | N/A |
-| 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 38 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
-| 39 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 40 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 41 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 42 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
-| 43 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 44 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 45 | [Polônia](http://twitter.com/search?q=Pol%c3%b4nia) | N/A |
-| 46 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 47 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
-| 48 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
-| 49 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
-| 50 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
+| 29 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 30 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 31 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
+| 32 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
+| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 34 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
+| 35 | [#TresVezesAna040](http://twitter.com/search?q=%23TresVezesAna040) | N/A |
+| 36 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 37 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 38 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 39 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
+| 40 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
+| 41 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 42 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 43 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 44 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 45 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 46 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 47 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
+| 48 | [Polônia](http://twitter.com/search?q=Pol%c3%b4nia) | N/A |
+| 49 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 50 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-24 22:17:58 UTC`
+📆 Last Updated: `2023-03-24 23:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 2 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
-| 3 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 4 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 6 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
-| 7 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 8 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 1 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 2 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 3 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 4 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 5 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 6 | [#JohnWick](http://twitter.com/search?q=%23JohnWick) | N/A |
+| 7 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 8 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
 | 9 | [DA Bragg](http://twitter.com/search?q=DA+Bragg) | N/A |
-| 10 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 11 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 13 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 14 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 16 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 17 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 10 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
+| 11 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 12 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 13 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 14 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 15 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 17 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 18 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 19 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 20 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 21 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 22 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 23 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 25 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 26 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 27 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 28 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
-| 29 | [Muteace](http://twitter.com/search?q=Muteace) | Muteace is a Japanese term that literally translates to "silence". It is used to describe a situation in which people remain silent or do not speak out, often due to fear or social pressure. |
-| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 31 | [Lady Canes](http://twitter.com/search?q=Lady+Canes) | N/A |
-| 32 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 33 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
-| 34 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 35 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 36 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 37 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 38 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 39 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 40 | [Reese Witherspoon](http://twitter.com/search?q=Reese+Witherspoon) | N/A |
-| 41 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 42 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
-| 43 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 44 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 45 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 46 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 47 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 48 | [Jasmyne Roberts](http://twitter.com/search?q=Jasmyne+Roberts) | N/A |
-| 49 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 50 | [5000 Taliban](http://twitter.com/search?q=5000+Taliban) | N/A |
+| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 23 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 24 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 25 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 26 | [#ReasonsImTooBusy](http://twitter.com/search?q=%23ReasonsImTooBusy) | N/A |
+| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 28 | [#diablo4openbeta](http://twitter.com/search?q=%23diablo4openbeta) | N/A |
+| 29 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 30 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 31 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 32 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 33 | [Pili](http://twitter.com/search?q=Pili) | N/A |
+| 34 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 35 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 36 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 37 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
+| 38 | [LaDazhia Williams](http://twitter.com/search?q=LaDazhia+Williams) | N/A |
+| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 40 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 41 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
+| 42 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 43 | [Dollander](http://twitter.com/search?q=Dollander) | N/A |
+| 44 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 45 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 46 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 47 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 48 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 49 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
+| 50 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
 
 
 
