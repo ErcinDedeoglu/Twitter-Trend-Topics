@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-24 05:17:37 UTC`
+📆 Last Updated: `2023-03-24 06:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CatherineMasitsa](http://twitter.com/search?q=%23CatherineMasitsa) | N/A |
-| 2 | [Dr Masitsa RHON](http://twitter.com/search?q=Dr+Masitsa+RHON) | N/A |
-| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 4 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
-| 5 | [#maishaconcertfriday](http://twitter.com/search?q=%23maishaconcertfriday) | N/A |
-| 6 | [#PaySiiToMpesa](http://twitter.com/search?q=%23PaySiiToMpesa) | N/A |
-| 7 | [Ramadan Offer](http://twitter.com/search?q=Ramadan+Offer) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [Dr Masitsa RHON](http://twitter.com/search?q=Dr+Masitsa+RHON) | N/A |
+| 2 | [#CatherineMasitsa](http://twitter.com/search?q=%23CatherineMasitsa) | N/A |
+| 3 | [#AbidjanWordConference](http://twitter.com/search?q=%23AbidjanWordConference) | N/A |
+| 4 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 5 | [Ramadan Offer](http://twitter.com/search?q=Ramadan+Offer) | N/A |
+| 6 | [#HappyShopperFestival](http://twitter.com/search?q=%23HappyShopperFestival) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [Carrefour Discount](http://twitter.com/search?q=Carrefour+Discount) | N/A |
 | 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [Carrefour Discount](http://twitter.com/search?q=Carrefour+Discount) | N/A |
+| 10 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
 | 11 | [Kamlesh Pattni](http://twitter.com/search?q=Kamlesh+Pattni) | N/A |
 | 12 | [Real Housewives of Nairobi](http://twitter.com/search?q=Real+Housewives+of+Nairobi) | N/A |
 | 13 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 14 | [HELB](http://twitter.com/search?q=HELB) | N/A |
 | 15 | [Brother Paul](http://twitter.com/search?q=Brother+Paul) | N/A |
 | 16 | [Millie Odhiambo](http://twitter.com/search?q=Millie+Odhiambo) | N/A |
-| 17 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
+| 17 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 18 | [England](http://twitter.com/search?q=England) | N/A |
-| 19 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 20 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
-| 21 | [governor irungu](http://twitter.com/search?q=governor+irungu) | N/A |
-| 22 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [governor irungu](http://twitter.com/search?q=governor+irungu) | N/A |
+| 20 | [Agnes Odhiambo](http://twitter.com/search?q=Agnes+Odhiambo) | N/A |
+| 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 22 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
+| 23 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
 | 24 | [pulpit](http://twitter.com/search?q=pulpit) | N/A |
-| 25 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 26 | [Chiloba](http://twitter.com/search?q=Chiloba) | N/A |
+| 25 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 26 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
 | 27 | [Nuru Okanga](http://twitter.com/search?q=Nuru+Okanga) | N/A |
 | 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 29 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
-| 30 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 29 | [Chiloba](http://twitter.com/search?q=Chiloba) | N/A |
+| 30 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 31 | [Mesut](http://twitter.com/search?q=Mesut) | N/A |
 | 32 | [send money for free](http://twitter.com/search?q=send+money+for+free) | N/A |
 | 33 | [HOLINESS](http://twitter.com/search?q=HOLINESS) | N/A |
 | 34 | [the eternal gospel](http://twitter.com/search?q=the+eternal+gospel) | N/A |
-| 35 | [mr apudo](http://twitter.com/search?q=mr+apudo) | N/A |
-| 36 | [Kingdom of God](http://twitter.com/search?q=Kingdom+of+God) | N/A |
-| 37 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
-| 38 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
-| 39 | [japap](http://twitter.com/search?q=japap) | N/A |
+| 35 | [kingdom of god](http://twitter.com/search?q=kingdom+of+god) | N/A |
+| 36 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
+| 37 | [japap](http://twitter.com/search?q=japap) | N/A |
+| 38 | [radisson blu hotel](http://twitter.com/search?q=radisson+blu+hotel) | N/A |
+| 39 | [6lack](http://twitter.com/search?q=6lack) | N/A |
 | 40 | [Monday and Thursday](http://twitter.com/search?q=Monday+and+Thursday) | N/A |
-| 41 | [radisson blu hotel](http://twitter.com/search?q=radisson+blu+hotel) | N/A |
-| 42 | [minne](http://twitter.com/search?q=minne) | N/A |
+| 41 | [minne](http://twitter.com/search?q=minne) | N/A |
+| 42 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 43 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 44 | [Dennis Itumbi](http://twitter.com/search?q=Dennis+Itumbi) | N/A |
-| 45 | [Didmus Barasa](http://twitter.com/search?q=Didmus+Barasa) | N/A |
-| 46 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 47 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
-| 48 | [Agnes Odhiambo](http://twitter.com/search?q=Agnes+Odhiambo) | N/A |
-| 49 | [EXIT](http://twitter.com/search?q=EXIT) | N/A |
-| 50 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 45 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 46 | [Holy Month](http://twitter.com/search?q=Holy+Month) | N/A |
+| 47 | [Didmus Barasa](http://twitter.com/search?q=Didmus+Barasa) | N/A |
+| 48 | [Exit](http://twitter.com/search?q=Exit) | N/A |
+| 49 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 50 | [Al Jazeera](http://twitter.com/search?q=Al+Jazeera) | N/A |
 
 
 

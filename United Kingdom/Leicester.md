@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-24 05:17:11 UTC`
+📆 Last Updated: `2023-03-24 06:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 3 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 4 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 5 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 6 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
-| 10 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 14 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 15 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 18 | [marnie](http://twitter.com/search?q=marnie) | N/A |
-| 19 | [Addison](http://twitter.com/search?q=Addison) | N/A |
-| 20 | [CM Punk](http://twitter.com/search?q=CM+Punk) | N/A |
-| 21 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 23 | [Andrew Bowie](http://twitter.com/search?q=Andrew+Bowie) | N/A |
-| 24 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 25 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 27 | [Lana Del Rey](http://twitter.com/search?q=Lana+Del+Rey) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 30 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 31 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 32 | [warren](http://twitter.com/search?q=warren) | N/A |
-| 33 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
-| 34 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
-| 35 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
-| 36 | [#station19](http://twitter.com/search?q=%23station19) | N/A |
-| 37 | [#DaisyJonesAndTheSix](http://twitter.com/search?q=%23DaisyJonesAndTheSix) | N/A |
-| 38 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 39 | [#England](http://twitter.com/search?q=%23England) | N/A |
-| 40 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 41 | [#ThreeLions](http://twitter.com/search?q=%23ThreeLions) | N/A |
-| 42 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 1 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 2 | [England](http://twitter.com/search?q=England) | N/A |
+| 3 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 4 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 7 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 10 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 11 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 12 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
+| 13 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
+| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 15 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 16 | [Fury](http://twitter.com/search?q=Fury) | N/A |
+| 17 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 18 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 19 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 20 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 21 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 22 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 23 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 24 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [jimmy fallon](http://twitter.com/search?q=jimmy+fallon) | N/A |
+| 27 | [marnie](http://twitter.com/search?q=marnie) | N/A |
+| 28 | [Italians](http://twitter.com/search?q=Italians) | N/A |
+| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 30 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 31 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 32 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 33 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 34 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 35 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 36 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 37 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 38 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 39 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 40 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 41 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 42 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 43 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
+| 44 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 45 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 46 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 47 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Soccer Am](http://twitter.com/search?q=Soccer+Am) | N/A |
+| 50 | [Andrew Bowie](http://twitter.com/search?q=Andrew+Bowie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-24 05:17:55 UTC`
+📆 Last Updated: `2023-03-24 06:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,29 +24,29 @@ This is top 50 for Bahrain
 | 7 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 8 | [شهر الخير](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 9 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 10 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 11 | [#طاش_العوده](http://twitter.com/search?q=%23%d8%b7%d8%a7%d8%b4_%d8%a7%d9%84%d8%b9%d9%88%d8%af%d9%87) | N/A |
-| 12 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 13 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 14 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 15 | [علي البلاغ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%ba) | N/A |
-| 16 | [عقب الفطور](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
-| 17 | [مبارك عليش الشهر](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a%d8%b4+%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
-| 18 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 19 | [شهر الجبر](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a8%d8%b1) | N/A |
-| 20 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 10 | [#طاش_العوده](http://twitter.com/search?q=%23%d8%b7%d8%a7%d8%b4_%d8%a7%d9%84%d8%b9%d9%88%d8%af%d9%87) | N/A |
+| 11 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 12 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 13 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 14 | [علي البلاغ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%ba) | N/A |
+| 15 | [عقب الفطور](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
+| 16 | [مبارك عليش الشهر](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a%d8%b4+%d8%a7%d9%84%d8%b4%d9%87%d8%b1) | N/A |
+| 17 | [شهر الجبر](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a8%d8%b1) | N/A |
+| 18 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 19 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 20 | [علي الصيام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
 | 21 | [صيام الصايمين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85%d9%8a%d9%86) | N/A |
 | 22 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
 | 23 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 24 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 25 | [#كل_عام_وانتم_بخير](http://twitter.com/search?q=%23%d9%83%d9%84_%d8%b9%d8%a7%d9%85_%d9%88%d8%a7%d9%86%d8%aa%d9%85_%d8%a8%d8%ae%d9%8a%d8%b1) | N/A |
-| 26 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 24 | [#كل_عام_وانتم_بخير](http://twitter.com/search?q=%23%d9%83%d9%84_%d8%b9%d8%a7%d9%85_%d9%88%d8%a7%d9%86%d8%aa%d9%85_%d8%a8%d8%ae%d9%8a%d8%b1) | N/A |
+| 25 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 26 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
 | 27 | [شهرك الفضيل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 28 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 29 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 30 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 31 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
-| 32 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 28 | [شهرك الكريم](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 29 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 30 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 31 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 32 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 33 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
 | 34 | [يوتيوب](http://twitter.com/search?q=%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
 | 35 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |

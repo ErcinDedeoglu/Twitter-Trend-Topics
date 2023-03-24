@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-24 05:17:35 UTC`
+📆 Last Updated: `2023-03-24 06:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,40 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 2 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 5 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 6 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#JiminFACEDebut](http://twitter.com/search?q=%23JiminFACEDebut) | N/A |
-| 9 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
-| 10 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 3 | [#All_Eyes_On_MINA](http://twitter.com/search?q=%23All_Eyes_On_MINA) | N/A |
+| 4 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 5 | [#CHANYEOLXPENSHOPPE](http://twitter.com/search?q=%23CHANYEOLXPENSHOPPE) | N/A |
+| 6 | [#Golden323RenjunDay](http://twitter.com/search?q=%23Golden323RenjunDay) | N/A |
+| 7 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 8 | [JIKOOK](http://twitter.com/search?q=JIKOOK) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [fallon](http://twitter.com/search?q=fallon) | N/A |
 | 11 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 13 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
-| 14 | [Scoups](http://twitter.com/search?q=Scoups) | N/A |
-| 15 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 16 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
-| 17 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
-| 18 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
-| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 20 | [#해바라기처럼_송민호만_기다릴게](http://twitter.com/search?q=%23%ed%95%b4%eb%b0%94%eb%9d%bc%ea%b8%b0%ec%b2%98%eb%9f%bc_%ec%86%a1%eb%af%bc%ed%98%b8%eb%a7%8c_%ea%b8%b0%eb%8b%a4%eb%a6%b4%ea%b2%8c) | N/A |
-| 21 | [#SPCAtlas2023AwardingNight](http://twitter.com/search?q=%23SPCAtlas2023AwardingNight) | N/A |
-| 22 | [#TheRoseHEAL](http://twitter.com/search?q=%23TheRoseHEAL) | N/A |
-| 23 | [#KitaKitsBLACKPINK](http://twitter.com/search?q=%23KitaKitsBLACKPINK) | N/A |
-| 24 | [#BTSJIMIN](http://twitter.com/search?q=%23BTSJIMIN) | N/A |
-| 25 | [#HORI7ON_GoesToLaguna](http://twitter.com/search?q=%23HORI7ON_GoesToLaguna) | N/A |
-| 26 | [#TWICESoldOutSofi](http://twitter.com/search?q=%23TWICESoldOutSofi) | N/A |
-| 27 | [#BOYCOTTEBxAPTxGMA744](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA744) | N/A |
-| 28 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 29 | [#LeeJongSukInManila](http://twitter.com/search?q=%23LeeJongSukInManila) | N/A |
-| 30 | [#BORNPINKINMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKINMANILA_BULACAN) | N/A |
-| 31 | [#ForeverBloomingBOMDay](http://twitter.com/search?q=%23ForeverBloomingBOMDay) | N/A |
-| 32 | [#JinSpotify1B](http://twitter.com/search?q=%23JinSpotify1B) | N/A |
-| 33 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
-| 34 | [#트와이스](http://twitter.com/search?q=%23%ed%8a%b8%ec%99%80%ec%9d%b4%ec%8a%a4) | #트와이스 is the hashtag used to refer to the South Korean girl group TWICE. The name TWICE is a combination of the words “twinkle” and “once”, which symbolizes that the group will make fans shine and sparkle with their music and performances. |
-| 35 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
-| 36 | [#KDLEXSweethearts](http://twitter.com/search?q=%23KDLEXSweethearts) | N/A |
+| 12 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
+| 13 | [bini at pup pride 2023](http://twitter.com/search?q=bini+at+pup+pride+2023) | N/A |
+| 14 | [MUSTA 1 MILLION NA BA](http://twitter.com/search?q=MUSTA+1+MILLION+NA+BA) | N/A |
+| 15 | [SB19 Ginalaw Na Ang Baso](http://twitter.com/search?q=SB19+Ginalaw+Na+Ang+Baso) | N/A |
+| 16 | [THE MV](http://twitter.com/search?q=THE+MV) | N/A |
+| 17 | [HIDDEN TRACK](http://twitter.com/search?q=HIDDEN+TRACK) | N/A |
+| 18 | [DAZZLING STAR MINA](http://twitter.com/search?q=DAZZLING+STAR+MINA) | N/A |
+| 19 | [Let The Kabag Begin](http://twitter.com/search?q=Let+The+Kabag+Begin) | N/A |
+| 20 | [Woohyun](http://twitter.com/search?q=Woohyun) | N/A |
+| 21 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 22 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 23 | [PremierDripMOA WithDAVID](http://twitter.com/search?q=PremierDripMOA+WithDAVID) | N/A |
+| 24 | [Imelda](http://twitter.com/search?q=Imelda) | N/A |
+| 25 | [kaia charlotte concept teaser](http://twitter.com/search?q=kaia+charlotte+concept+teaser) | N/A |
+| 26 | [JISOO 3RD CONCEPT POSTER](http://twitter.com/search?q=JISOO+3RD+CONCEPT+POSTER) | N/A |
+| 27 | [1 BILLION STREAMS FOR JIN](http://twitter.com/search?q=1+BILLION+STREAMS+FOR+JIN) | N/A |
+| 28 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 30 | [LEE FELIX](http://twitter.com/search?q=LEE+FELIX) | N/A |
+| 31 | [CONGRATULATIONS JIN](http://twitter.com/search?q=CONGRATULATIONS+JIN) | N/A |
+| 32 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 33 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 34 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 35 | [Miss U](http://twitter.com/search?q=Miss+U) | N/A |
+| 36 | [Minari](http://twitter.com/search?q=Minari) | N/A |
+| 37 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 38 | [HAPPY TWO YEARS MIWO](http://twitter.com/search?q=HAPPY+TWO+YEARS+MIWO) | N/A |
+| 39 | [FACE REVEAL TODAY](http://twitter.com/search?q=FACE+REVEAL+TODAY) | N/A |
+| 40 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 41 | [FACE REVEAL TOMORROW](http://twitter.com/search?q=FACE+REVEAL+TOMORROW) | N/A |
+| 42 | [chico dl seatmates](http://twitter.com/search?q=chico+dl+seatmates) | N/A |
+| 43 | [MAGANDANG BUHAY KODREA](http://twitter.com/search?q=MAGANDANG+BUHAY+KODREA) | N/A |
+| 44 | [STREAM FACE](http://twitter.com/search?q=STREAM+FACE) | N/A |
+| 45 | [win x scotch](http://twitter.com/search?q=win+x+scotch) | N/A |
+| 46 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
+| 47 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 48 | [BOBBY SiR COMEBACK STAGE](http://twitter.com/search?q=BOBBY+SiR+COMEBACK+STAGE) | N/A |
+| 49 | [Interlude](http://twitter.com/search?q=Interlude) | N/A |
+| 50 | [THE LYRICS](http://twitter.com/search?q=THE+LYRICS) | N/A |
 
 
 

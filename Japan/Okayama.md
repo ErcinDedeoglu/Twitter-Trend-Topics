@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-24 05:18:03 UTC`
+📆 Last Updated: `2023-03-24 06:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 2 | [団時朗さん](http://twitter.com/search?q=%e5%9b%a3%e6%99%82%e6%9c%97%e3%81%95%e3%82%93) | N/A |
-| 3 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
-| 4 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 5 | [家宅捜索](http://twitter.com/search?q=%e5%ae%b6%e5%ae%85%e6%8d%9c%e7%b4%a2) | N/A |
-| 6 | [ハピナスレイド](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8a%e3%82%b9%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 7 | [カバソン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%82%bd%e3%83%b3) | N/A |
-| 8 | [ウルトラの星](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%81%ae%e6%98%9f) | N/A |
-| 9 | [#ドズル社オリジナルマウスパッド](http://twitter.com/search?q=%23%e3%83%89%e3%82%ba%e3%83%ab%e7%a4%be%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%9e%e3%82%a6%e3%82%b9%e3%83%91%e3%83%83%e3%83%89) | N/A |
-| 10 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 11 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 12 | [抹茶らてまきあ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%82%89%e3%81%a6%e3%81%be%e3%81%8d%e3%81%82) | N/A |
-| 13 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 14 | [SSRチケ](http://twitter.com/search?q=SSR%e3%83%81%e3%82%b1) | SSRチケ is short for Super Super Rare Ticket, which is a type of ticket used in the Japanese mobile game Love Live! School Idol Festival. It is used to obtain special cards that are more powerful than regular cards. In English, it can be translated as Super Super Rare Ticket. |
-| 15 | [#リヴリー足跡クイズ](http://twitter.com/search?q=%23%e3%83%aa%e3%83%b4%e3%83%aa%e3%83%bc%e8%b6%b3%e8%b7%a1%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 16 | [グレムリン](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%a0%e3%83%aa%e3%83%b3) | N/A |
-| 17 | [昨年末悪化](http://twitter.com/search?q=%e6%98%a8%e5%b9%b4%e6%9c%ab%e6%82%aa%e5%8c%96) | N/A |
-| 18 | [肺がん診断](http://twitter.com/search?q=%e8%82%ba%e3%81%8c%e3%82%93%e8%a8%ba%e6%96%ad) | N/A |
-| 19 | [カバーソング](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
-| 20 | [キラフェス](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 21 | [ブルロ展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e5%b1%95) | ブルロ展 is an exhibition of the works of French artist Paul Cézanne. The English translation of the phrase is "Cézanne Exhibition". |
-| 22 | [vol.3](http://twitter.com/search?q=vol.3) | N/A |
-| 23 | [KINGレイナ](http://twitter.com/search?q=KING%e3%83%ac%e3%82%a4%e3%83%8a) | N/A |
-| 24 | [ウエルシア](http://twitter.com/search?q=%e3%82%a6%e3%82%a8%e3%83%ab%e3%82%b7%e3%82%a2) | N/A |
-| 25 | [けつのつばさ](http://twitter.com/search?q=%e3%81%91%e3%81%a4%e3%81%ae%e3%81%a4%e3%81%b0%e3%81%95) | N/A |
-| 26 | [ジャック兄さん](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e5%85%84%e3%81%95%e3%82%93) | N/A |
-| 27 | [ウルトラ5つの誓い](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a95%e3%81%a4%e3%81%ae%e8%aa%93%e3%81%84) | N/A |
-| 28 | [ガーシー容疑者](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc%e5%ae%b9%e7%96%91%e8%80%85) | N/A |
-| 29 | [アリエス杯](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%a8%e3%82%b9%e6%9d%af) | N/A |
+| 1 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 2 | [ウルトラマン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
+| 3 | [団時朗さん](http://twitter.com/search?q=%e5%9b%a3%e6%99%82%e6%9c%97%e3%81%95%e3%82%93) | N/A |
+| 4 | [ミカルゲ](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%83%ab%e3%82%b2) | N/A |
+| 5 | [セルフカット廃止](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%95%e3%82%ab%e3%83%83%e3%83%88%e5%bb%83%e6%ad%a2) | N/A |
+| 6 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
+| 7 | [家宅捜索](http://twitter.com/search?q=%e5%ae%b6%e5%ae%85%e6%8d%9c%e7%b4%a2) | N/A |
+| 8 | [看護師国家試験合格](http://twitter.com/search?q=%e7%9c%8b%e8%ad%b7%e5%b8%ab%e5%9b%bd%e5%ae%b6%e8%a9%a6%e9%a8%93%e5%90%88%e6%a0%bc) | N/A |
+| 9 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 10 | [#ドズル社オリジナルマウスパッド](http://twitter.com/search?q=%23%e3%83%89%e3%82%ba%e3%83%ab%e7%a4%be%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e3%83%9e%e3%82%a6%e3%82%b9%e3%83%91%e3%83%83%e3%83%89) | N/A |
+| 11 | [カバソン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%82%bd%e3%83%b3) | N/A |
+| 12 | [ハピナスレイド](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8a%e3%82%b9%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 13 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 14 | [けつのつばさ](http://twitter.com/search?q=%e3%81%91%e3%81%a4%e3%81%ae%e3%81%a4%e3%81%b0%e3%81%95) | N/A |
+| 15 | [ブルロ展](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad%e5%b1%95) | ブルロ展 is an exhibition of the works of French artist Paul Cézanne. The English translation of the phrase is "Cézanne Exhibition". |
+| 16 | [相互カット](http://twitter.com/search?q=%e7%9b%b8%e4%ba%92%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 17 | [抹茶らてまきあ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%82%89%e3%81%a6%e3%81%be%e3%81%8d%e3%81%82) | N/A |
+| 18 | [#グリユニ感想](http://twitter.com/search?q=%23%e3%82%b0%e3%83%aa%e3%83%a6%e3%83%8b%e6%84%9f%e6%83%b3) | N/A |
+| 19 | [ウルトラの星](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%81%ae%e6%98%9f) | N/A |
+| 20 | [カバーソング](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
+| 21 | [ピーニャ](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%83%8b%e3%83%a3) | N/A |
+| 22 | [#あなたを惑星女子化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e6%83%91%e6%98%9f%e5%a5%b3%e5%ad%90%e5%8c%96) | N/A |
+| 23 | [国試合格](http://twitter.com/search?q=%e5%9b%bd%e8%a9%a6%e5%90%88%e6%a0%bc) | N/A |
+| 24 | [SSRチケ](http://twitter.com/search?q=SSR%e3%83%81%e3%82%b1) | SSRチケ is short for Super Super Rare Ticket, which is a type of ticket used in the Japanese mobile game Love Live! School Idol Festival. It is used to obtain special cards that are more powerful than regular cards. In English, it can be translated as Super Super Rare Ticket. |
+| 25 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 26 | [グレムリン](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%a0%e3%83%aa%e3%83%b3) | N/A |
+| 27 | [ガーシー容疑者](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc%e5%ae%b9%e7%96%91%e8%80%85) | N/A |
+| 28 | [vol.3](http://twitter.com/search?q=vol.3) | N/A |
+| 29 | [不安発生](http://twitter.com/search?q=%e4%b8%8d%e5%ae%89%e7%99%ba%e7%94%9f) | N/A |
 | 30 | [因果応報](http://twitter.com/search?q=%e5%9b%a0%e6%9e%9c%e5%bf%9c%e5%a0%b1) | N/A |
-| 31 | [氷見高校](http://twitter.com/search?q=%e6%b0%b7%e8%a6%8b%e9%ab%98%e6%a0%a1) | N/A |
-| 32 | [山梨学院](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e5%ad%a6%e9%99%a2) | N/A |
-| 33 | [プレミアムシート](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
-| 34 | [スマホリング](http://twitter.com/search?q=%e3%82%b9%e3%83%9e%e3%83%9b%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
+| 31 | [ウエルシア](http://twitter.com/search?q=%e3%82%a6%e3%82%a8%e3%83%ab%e3%82%b7%e3%82%a2) | N/A |
+| 32 | [脚部不安](http://twitter.com/search?q=%e8%84%9a%e9%83%a8%e4%b8%8d%e5%ae%89) | N/A |
+| 33 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 34 | [中村貴浩](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e8%b2%b4%e6%b5%a9) | N/A |
 | 35 | [予約予定](http://twitter.com/search?q=%e4%ba%88%e7%b4%84%e4%ba%88%e5%ae%9a) | N/A |
-| 36 | [高市氏罷免](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e6%b0%8f%e7%bd%b7%e5%85%8d) | N/A |
-| 37 | [山口達也](http://twitter.com/search?q=%e5%b1%b1%e5%8f%a3%e9%81%94%e4%b9%9f) | N/A |
-| 38 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 39 | [家宅捜査](http://twitter.com/search?q=%e5%ae%b6%e5%ae%85%e6%8d%9c%e6%9f%bb) | N/A |
-| 40 | [ホルホル系](http://twitter.com/search?q=%e3%83%9b%e3%83%ab%e3%83%9b%e3%83%ab%e7%b3%bb) | N/A |
-| 41 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
-| 42 | [セブチのペンミ](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%81%e3%81%ae%e3%83%9a%e3%83%b3%e3%83%9f) | N/A |
-| 43 | [必勝しゃもじ](http://twitter.com/search?q=%e5%bf%85%e5%8b%9d%e3%81%97%e3%82%83%e3%82%82%e3%81%98) | N/A |
-| 44 | [ドラッグストア最大手](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%83%e3%82%b0%e3%82%b9%e3%83%88%e3%82%a2%e6%9c%80%e5%a4%a7%e6%89%8b) | N/A |
-| 45 | [チャットGPT使い答辞](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%83%e3%83%88GPT%e4%bd%bf%e3%81%84%e7%ad%94%e8%be%9e) | N/A |
-| 46 | [ミカルゲ](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%83%ab%e3%82%b2) | N/A |
-| 47 | [確定チケ](http://twitter.com/search?q=%e7%a2%ba%e5%ae%9a%e3%83%81%e3%82%b1) | N/A |
-| 48 | [ユニクロ](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%82%af%e3%83%ad) | ユニクロ is a Japanese clothing brand that specializes in casual wear. The name is a combination of the words "uniform" and "clothing". In English, it means "Uniqlo". |
+| 36 | [昨年末悪化](http://twitter.com/search?q=%e6%98%a8%e5%b9%b4%e6%9c%ab%e6%82%aa%e5%8c%96) | N/A |
+| 37 | [恋の謎解き成功](http://twitter.com/search?q=%e6%81%8b%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 38 | [肺がん診断](http://twitter.com/search?q=%e8%82%ba%e3%81%8c%e3%82%93%e8%a8%ba%e6%96%ad) | N/A |
+| 39 | [相互シャッフル](http://twitter.com/search?q=%e7%9b%b8%e4%ba%92%e3%82%b7%e3%83%a3%e3%83%83%e3%83%95%e3%83%ab) | N/A |
+| 40 | [アリエス杯](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%a8%e3%82%b9%e6%9d%af) | N/A |
+| 41 | [ホルホル系](http://twitter.com/search?q=%e3%83%9b%e3%83%ab%e3%83%9b%e3%83%ab%e7%b3%bb) | N/A |
+| 42 | [高市氏罷免](http://twitter.com/search?q=%e9%ab%98%e5%b8%82%e6%b0%8f%e7%bd%b7%e5%85%8d) | N/A |
+| 43 | [隠しトラック](http://twitter.com/search?q=%e9%9a%a0%e3%81%97%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) | N/A |
+| 44 | [フュージョンエネ](http://twitter.com/search?q=%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a8%e3%83%8d) | N/A |
+| 45 | [家宅捜査](http://twitter.com/search?q=%e5%ae%b6%e5%ae%85%e6%8d%9c%e6%9f%bb) | N/A |
+| 46 | [KINGレイナ](http://twitter.com/search?q=KING%e3%83%ac%e3%82%a4%e3%83%8a) | N/A |
+| 47 | [ウルトラ5つの誓い](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a95%e3%81%a4%e3%81%ae%e8%aa%93%e3%81%84) | N/A |
+| 48 | [無事合格](http://twitter.com/search?q=%e7%84%a1%e4%ba%8b%e5%90%88%e6%a0%bc) | N/A |
 
 
 

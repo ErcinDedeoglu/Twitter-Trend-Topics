@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-24 05:17:56 UTC`
+📆 Last Updated: `2023-03-24 06:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,14 +21,14 @@ This is top 50 for Belgium
 | 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 7 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
-| 8 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
-| 9 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 10 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [european council](http://twitter.com/search?q=european+council) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
+| 8 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
+| 9 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 10 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 11 | [#WorldWaterDay](http://twitter.com/search?q=%23WorldWaterDay) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [european council](http://twitter.com/search?q=european+council) | N/A |
 | 15 | [natuurpunt](http://twitter.com/search?q=natuurpunt) | N/A |
 | 16 | [peter bossaert](http://twitter.com/search?q=peter+bossaert) | N/A |
 | 17 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
@@ -42,25 +42,25 @@ This is top 50 for Belgium
 | 25 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 26 | [kampenhout](http://twitter.com/search?q=kampenhout) | N/A |
 | 27 | [vandenbroucke](http://twitter.com/search?q=vandenbroucke) | N/A |
-| 28 | [borgerhout](http://twitter.com/search?q=borgerhout) | N/A |
+| 28 | [Borgerhout](http://twitter.com/search?q=Borgerhout) | N/A |
 | 29 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 30 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
-| 31 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 32 | [Inshallah](http://twitter.com/search?q=Inshallah) | N/A |
+| 30 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 31 | [Inshallah](http://twitter.com/search?q=Inshallah) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 33 | [Tenerife](http://twitter.com/search?q=Tenerife) | N/A |
 | 34 | [Moslims](http://twitter.com/search?q=Moslims) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 37 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 38 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 39 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 35 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 36 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 37 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 38 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 40 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 41 | [de lijn](http://twitter.com/search?q=de+lijn) | N/A |
 | 42 | [slaapwel](http://twitter.com/search?q=slaapwel) | N/A |
-| 43 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 45 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
-| 46 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 44 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
+| 45 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 46 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
 | 47 | [moge allah](http://twitter.com/search?q=moge+allah) | N/A |
 | 48 | [Amin](http://twitter.com/search?q=Amin) | N/A |
 | 49 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |

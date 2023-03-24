@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-24 05:17:27 UTC`
+📆 Last Updated: `2023-03-24 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Norway](</Norway>)
 | 8 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 9 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
 | 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 12 | [England](http://twitter.com/search?q=England) | N/A |
-| 13 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 14 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 15 | [norgesgruppen](http://twitter.com/search?q=norgesgruppen) | N/A |
-| 16 | [kjernen](http://twitter.com/search?q=kjernen) | N/A |
-| 17 | [vestre](http://twitter.com/search?q=vestre) | N/A |
-| 18 | [rbkk](http://twitter.com/search?q=rbkk) | N/A |
-| 19 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
-| 20 | [hovland](http://twitter.com/search?q=hovland) | N/A |
-| 21 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 23 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 24 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
-| 25 | [Haugen](http://twitter.com/search?q=Haugen) | N/A |
-| 26 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 27 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 28 | [gutta](http://twitter.com/search?q=gutta) | N/A |
-| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 30 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 31 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 32 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 33 | [norske](http://twitter.com/search?q=norske) | N/A |
-| 34 | [bredtveit](http://twitter.com/search?q=bredtveit) | N/A |
-| 35 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 36 | [kai eide](http://twitter.com/search?q=kai+eide) | N/A |
+| 11 | [England](http://twitter.com/search?q=England) | N/A |
+| 12 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 13 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 14 | [kjernen](http://twitter.com/search?q=kjernen) | N/A |
+| 15 | [vestre](http://twitter.com/search?q=vestre) | N/A |
+| 16 | [rbkk](http://twitter.com/search?q=rbkk) | N/A |
+| 17 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
+| 18 | [hovland](http://twitter.com/search?q=hovland) | N/A |
+| 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 20 | [Norgesgruppen](http://twitter.com/search?q=Norgesgruppen) | N/A |
+| 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 22 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 23 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
+| 24 | [Haugen](http://twitter.com/search?q=Haugen) | N/A |
+| 25 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 26 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 27 | [GUTTA](http://twitter.com/search?q=GUTTA) | N/A |
+| 28 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 29 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 30 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 31 | [norske](http://twitter.com/search?q=norske) | N/A |
+| 32 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 33 | [bredtveit](http://twitter.com/search?q=bredtveit) | N/A |
+| 34 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 35 | [kai eide](http://twitter.com/search?q=kai+eide) | N/A |
+| 36 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
 | 37 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 39 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 40 | [drammen](http://twitter.com/search?q=drammen) | N/A |
-| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 43 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
-| 44 | [narvik](http://twitter.com/search?q=narvik) | N/A |
-| 45 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 46 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
-| 47 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 48 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 49 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
+| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 41 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
+| 42 | [narvik](http://twitter.com/search?q=narvik) | N/A |
+| 43 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 44 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 45 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 47 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
+| 48 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 49 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 
 
 
