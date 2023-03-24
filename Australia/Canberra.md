@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-24 12:18:28 UTC`
+📆 Last Updated: `2023-03-24 13:19:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
 | 4 | [#AUSvECU](http://twitter.com/search?q=%23AUSvECU) | N/A |
 | 5 | [#NRLStormTigers](http://twitter.com/search?q=%23NRLStormTigers) | N/A |
-| 6 | [Staggs](http://twitter.com/search?q=Staggs) | N/A |
-| 7 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [Waverley](http://twitter.com/search?q=Waverley) | N/A |
 | 8 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 9 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
-| 10 | [Gawn](http://twitter.com/search?q=Gawn) | N/A |
-| 11 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 12 | [Waverley](http://twitter.com/search?q=Waverley) | N/A |
-| 13 | [Milford](http://twitter.com/search?q=Milford) | N/A |
-| 14 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 15 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 16 | [Garang Kuol](http://twitter.com/search?q=Garang+Kuol) | N/A |
-| 17 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 19 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 20 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 21 | [Suncorp](http://twitter.com/search?q=Suncorp) | N/A |
-| 22 | [Mabil](http://twitter.com/search?q=Mabil) | N/A |
-| 23 | [Tom Browne](http://twitter.com/search?q=Tom+Browne) | N/A |
-| 24 | [Capewell](http://twitter.com/search?q=Capewell) | N/A |
-| 25 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
-| 26 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
-| 27 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 28 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 29 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 30 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
-| 31 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 32 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
-| 33 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 34 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 35 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
-| 36 | [Harry Souttar](http://twitter.com/search?q=Harry+Souttar) | N/A |
-| 37 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 38 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
-| 39 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 40 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 41 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 42 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 43 | [Brayshaw](http://twitter.com/search?q=Brayshaw) | N/A |
-| 44 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 45 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 46 | [Grand Final](http://twitter.com/search?q=Grand+Final) | N/A |
-| 47 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
-| 48 | [Redcliffe](http://twitter.com/search?q=Redcliffe) | N/A |
+| 9 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 10 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 11 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 12 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 13 | [Gawn](http://twitter.com/search?q=Gawn) | N/A |
+| 14 | [Milford](http://twitter.com/search?q=Milford) | N/A |
+| 15 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 16 | [Staggs](http://twitter.com/search?q=Staggs) | N/A |
+| 17 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 18 | [Kuol](http://twitter.com/search?q=Kuol) | N/A |
+| 19 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 20 | [reece walsh](http://twitter.com/search?q=reece+walsh) | N/A |
+| 21 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
+| 22 | [Awer Mabil](http://twitter.com/search?q=Awer+Mabil) | N/A |
+| 23 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 24 | [luke brooks](http://twitter.com/search?q=luke+brooks) | N/A |
+| 25 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 26 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 27 | [Brayshaw](http://twitter.com/search?q=Brayshaw) | N/A |
+| 28 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 29 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 30 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
+| 31 | [Tom Browne](http://twitter.com/search?q=Tom+Browne) | N/A |
+| 32 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
+| 33 | [Cobbo](http://twitter.com/search?q=Cobbo) | N/A |
+| 34 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 35 | [Suncorp](http://twitter.com/search?q=Suncorp) | N/A |
+| 36 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 37 | [oliver](http://twitter.com/search?q=oliver) | N/A |
+| 38 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 39 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 40 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 41 | [Sirileo Miss](http://twitter.com/search?q=Sirileo+Miss) | N/A |
+| 42 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 43 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 44 | [Fox Footy](http://twitter.com/search?q=Fox+Footy) | N/A |
+| 45 | [Grand Final](http://twitter.com/search?q=Grand+Final) | N/A |
+| 46 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 47 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 48 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
 
 
 

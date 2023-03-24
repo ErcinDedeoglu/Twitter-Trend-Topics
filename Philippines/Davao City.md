@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-24 12:18:35 UTC`
+📆 Last Updated: `2023-03-24 13:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KitakitsBLACKPINK](http://twitter.com/search?q=%23KitakitsBLACKPINK) | N/A |
-| 2 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 3 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
-| 4 | [#BORNPINKMANILA_BULACAN](http://twitter.com/search?q=%23BORNPINKMANILA_BULACAN) | N/A |
-| 5 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 6 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 7 | [KAIA CHARICE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARICE+CONCEPT+TEASER) | N/A |
-| 8 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 9 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 10 | [Congratulations Kai](http://twitter.com/search?q=Congratulations+Kai) | N/A |
-| 11 | [SEHAM AS ASHLEY](http://twitter.com/search?q=SEHAM+AS+ASHLEY) | N/A |
-| 12 | [VXON SAM COMEBACK TEASER](http://twitter.com/search?q=VXON+SAM+COMEBACK+TEASER) | N/A |
-| 13 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
-| 14 | [JOSH CRUSHING ON MANDY](http://twitter.com/search?q=JOSH+CRUSHING+ON+MANDY) | N/A |
+| 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 3 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 4 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 5 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
+| 6 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 7 | [URBN QC](http://twitter.com/search?q=URBN+QC) | N/A |
+| 8 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 9 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 10 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
+| 11 | [KAIA CHARICE CONCEPT TEASER](http://twitter.com/search?q=KAIA+CHARICE+CONCEPT+TEASER) | N/A |
+| 12 | [CONGRATULATIONS KAI](http://twitter.com/search?q=CONGRATULATIONS+KAI) | N/A |
+| 13 | [SEHAM AS ASHLEY](http://twitter.com/search?q=SEHAM+AS+ASHLEY) | N/A |
+| 14 | [VXON SAM COMEBACK TEASER](http://twitter.com/search?q=VXON+SAM+COMEBACK+TEASER) | N/A |
 | 15 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 16 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
-| 17 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 18 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
-| 19 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 20 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 21 | [DavidLicauco BENCHMeet&Greet](http://twitter.com/search?q=DavidLicauco+BENCHMeet%26Greet) | N/A |
-| 22 | [BOBBY COMEBACK STAGE](http://twitter.com/search?q=BOBBY+COMEBACK+STAGE) | N/A |
-| 23 | [GEKOYonFastTalk KOKOY ANGEL](http://twitter.com/search?q=GEKOYonFastTalk+KOKOY+ANGEL) | N/A |
-| 24 | [BinSan](http://twitter.com/search?q=BinSan) | N/A |
-| 25 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 27 | [KD Estrada](http://twitter.com/search?q=KD+Estrada) | N/A |
-| 28 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 29 | [#HORI7ON_GoesToLaguna](http://twitter.com/search?q=%23HORI7ON_GoesToLaguna) | N/A |
-| 30 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 31 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
-| 32 | [#TeenClashEp2](http://twitter.com/search?q=%23TeenClashEp2) | N/A |
-| 33 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 16 | [JOSH CRUSHING ON MANDY](http://twitter.com/search?q=JOSH+CRUSHING+ON+MANDY) | N/A |
+| 17 | [ROOMantic26ETHER RALPHGAIL](http://twitter.com/search?q=ROOMantic26ETHER+RALPHGAIL) | N/A |
+| 18 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
+| 19 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 20 | [ICEZOE TumiTEENdingCLASH](http://twitter.com/search?q=ICEZOE+TumiTEENdingCLASH) | N/A |
+| 21 | [Hyunsuk](http://twitter.com/search?q=Hyunsuk) | N/A |
+| 22 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 23 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
+| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 25 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
+| 26 | [Crystal](http://twitter.com/search?q=Crystal) | N/A |
+| 27 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 28 | [DavidLicauco BENCHMeet&Greet](http://twitter.com/search?q=DavidLicauco+BENCHMeet%26Greet) | N/A |
+| 29 | [BOBBY COMEBACK STAGE](http://twitter.com/search?q=BOBBY+COMEBACK+STAGE) | N/A |
+| 30 | [BinSan](http://twitter.com/search?q=BinSan) | N/A |
+| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 32 | [KD Estrada](http://twitter.com/search?q=KD+Estrada) | N/A |
+| 33 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
 | 34 | [#JinnysKitchenEp5](http://twitter.com/search?q=%23JinnysKitchenEp5) | N/A |
-| 35 | [#KURSE](http://twitter.com/search?q=%23KURSE) | N/A |
-| 36 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
-| 37 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
-| 38 | [#VXON_SAM](http://twitter.com/search?q=%23VXON_SAM) | N/A |
-| 39 | [#5678byKAIA](http://twitter.com/search?q=%235678byKAIA) | N/A |
-| 40 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
-| 41 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
-| 42 | [#MCGILoveAbounds](http://twitter.com/search?q=%23MCGILoveAbounds) | N/A |
-| 43 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
-| 44 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
-| 45 | [#BOBBY_MusicBank](http://twitter.com/search?q=%23BOBBY_MusicBank) | N/A |
-| 46 | [#박민혁_하우_WannaBeLove](http://twitter.com/search?q=%23%eb%b0%95%eb%af%bc%ed%98%81_%ed%95%98%ec%9a%b0_WannaBeLove) | N/A |
-| 47 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 35 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
+| 36 | [#VoltesVLegacy](http://twitter.com/search?q=%23VoltesVLegacy) | N/A |
+| 37 | [#TeenClashEp2](http://twitter.com/search?q=%23TeenClashEp2) | N/A |
+| 38 | [#BINI_FeelGoodMallTour](http://twitter.com/search?q=%23BINI_FeelGoodMallTour) | N/A |
+| 39 | [#HORI7ON_GoesToLaguna](http://twitter.com/search?q=%23HORI7ON_GoesToLaguna) | N/A |
+| 40 | [#카이로버_뮤뱅1위축하해](http://twitter.com/search?q=%23%ec%b9%b4%ec%9d%b4%eb%a1%9c%eb%b2%84_%eb%ae%a4%eb%b1%851%ec%9c%84%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 41 | [#UrdujaTapangAtBilis](http://twitter.com/search?q=%23UrdujaTapangAtBilis) | N/A |
+| 42 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 43 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 44 | [#KURSE](http://twitter.com/search?q=%23KURSE) | N/A |
+| 45 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 46 | [#VXON_SAM](http://twitter.com/search?q=%23VXON_SAM) | N/A |
+| 47 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-24 12:18:14 UTC`
+📆 Last Updated: `2023-03-24 13:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 4 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 5 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 6 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 5 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 6 | [#Day2WordExposition](http://twitter.com/search?q=%23Day2WordExposition) | N/A |
 | 7 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
 | 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 9 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
-| 10 | [#Day2WordExposition](http://twitter.com/search?q=%23Day2WordExposition) | N/A |
-| 11 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 12 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 13 | [Sírio Libanês](http://twitter.com/search?q=S%c3%adrio+Liban%c3%aas) | N/A |
+| 9 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
+| 10 | [#anipoke](http://twitter.com/search?q=%23anipoke) | N/A |
+| 11 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
+| 12 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 13 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 14 | [Ash e Pikachu](http://twitter.com/search?q=Ash+e+Pikachu) | N/A |
-| 15 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
-| 16 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 17 | [demi lovato](http://twitter.com/search?q=demi+lovato) | N/A |
-| 18 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
-| 19 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 15 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
+| 16 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 17 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 18 | [Sírio Libanês](http://twitter.com/search?q=S%c3%adrio+Liban%c3%aas) | N/A |
+| 19 | [Heart Attack](http://twitter.com/search?q=Heart+Attack) | N/A |
 | 20 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 21 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 22 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
-| 23 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 24 | [Presidente Lula](http://twitter.com/search?q=Presidente+Lula) | N/A |
-| 25 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 26 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
-| 27 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 28 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
-| 29 | [Angelina Jolie](http://twitter.com/search?q=Angelina+Jolie) | N/A |
-| 30 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
-| 31 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
-| 32 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
-| 33 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 34 | [OCEAN BLVD OUT NOW](http://twitter.com/search?q=OCEAN+BLVD+OUT+NOW) | N/A |
-| 35 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
-| 36 | [Decência](http://twitter.com/search?q=Dec%c3%aancia) | N/A |
-| 37 | [Docshoe](http://twitter.com/search?q=Docshoe) | N/A |
-| 38 | [Privatiza](http://twitter.com/search?q=Privatiza) | N/A |
-| 39 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 40 | [Gal Gadot](http://twitter.com/search?q=Gal+Gadot) | N/A |
-| 41 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 42 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 43 | [Gabriela Hardt](http://twitter.com/search?q=Gabriela+Hardt) | N/A |
-| 44 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
-| 45 | [Branca de Neve](http://twitter.com/search?q=Branca+de+Neve) | N/A |
-| 46 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 47 | [Chuchu](http://twitter.com/search?q=Chuchu) | N/A |
-| 48 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 49 | [billy dunne](http://twitter.com/search?q=billy+dunne) | N/A |
-| 50 | [#KAI1stWin](http://twitter.com/search?q=%23KAI1stWin) | N/A |
+| 21 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 22 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 23 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
+| 24 | [Gratidão Deus](http://twitter.com/search?q=Gratid%c3%a3o+Deus) | N/A |
+| 25 | [Presidente Lula](http://twitter.com/search?q=Presidente+Lula) | N/A |
+| 26 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
+| 27 | [angelina jolie](http://twitter.com/search?q=angelina+jolie) | N/A |
+| 28 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 29 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
+| 30 | [Rio Branco](http://twitter.com/search?q=Rio+Branco) | N/A |
+| 31 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
+| 32 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 33 | [Chuchu](http://twitter.com/search?q=Chuchu) | N/A |
+| 34 | [Armação](http://twitter.com/search?q=Arma%c3%a7%c3%a3o) | N/A |
+| 35 | [Marreco](http://twitter.com/search?q=Marreco) | N/A |
+| 36 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
+| 37 | [Metrô](http://twitter.com/search?q=Metr%c3%b4) | N/A |
+| 38 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 39 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 40 | [Ocean Blvd](http://twitter.com/search?q=Ocean+Blvd) | N/A |
+| 41 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 42 | [gal gadot](http://twitter.com/search?q=gal+gadot) | N/A |
+| 43 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 44 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 45 | [Gabriela Hardt](http://twitter.com/search?q=Gabriela+Hardt) | N/A |
+| 46 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 47 | [Docshoe](http://twitter.com/search?q=Docshoe) | N/A |
+| 48 | [Molusco](http://twitter.com/search?q=Molusco) | N/A |
+| 49 | [privatiza](http://twitter.com/search?q=privatiza) | N/A |
+| 50 | [Decência](http://twitter.com/search?q=Dec%c3%aancia) | N/A |
 
 
 

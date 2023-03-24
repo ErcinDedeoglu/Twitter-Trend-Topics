@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-24 12:18:54 UTC`
+📆 Last Updated: `2023-03-24 13:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 2 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
-| 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 8 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 9 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 10 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 11 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
-| 12 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 2 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 3 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 7 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 8 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 10 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 11 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 12 | [6lack](http://twitter.com/search?q=6lack) | N/A |
 | 13 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 15 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 17 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 18 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 19 | [Cane](http://twitter.com/search?q=Cane) | N/A |
-| 20 | [Ash Ketchum](http://twitter.com/search?q=Ash+Ketchum) | N/A |
-| 21 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 22 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 23 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
-| 24 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 25 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 26 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 27 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
-| 28 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
-| 29 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 30 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 31 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
-| 32 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 33 | [Mike Hunt](http://twitter.com/search?q=Mike+Hunt) | N/A |
-| 34 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 35 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 36 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 37 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 39 | [Clippy](http://twitter.com/search?q=Clippy) | N/A |
-| 40 | [paris texas](http://twitter.com/search?q=paris+texas) | N/A |
-| 41 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 42 | [Angelina Jolie](http://twitter.com/search?q=Angelina+Jolie) | N/A |
-| 43 | [Strawther](http://twitter.com/search?q=Strawther) | N/A |
-| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 45 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 46 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 47 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
-| 48 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 14 | [#FlashbackFriday](http://twitter.com/search?q=%23FlashbackFriday) | N/A |
+| 15 | [Hailey Bieber](http://twitter.com/search?q=Hailey+Bieber) | N/A |
+| 16 | [Daily Quordle 424](http://twitter.com/search?q=Daily+Quordle+424) | N/A |
+| 17 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 18 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 19 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 20 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 21 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 22 | [Northern Lights](http://twitter.com/search?q=Northern+Lights) | N/A |
+| 23 | [Lane Johnson](http://twitter.com/search?q=Lane+Johnson) | Lane Johnson is an American football offensive tackle for the Philadelphia Eagles of the National Football League (NFL). He was drafted by the Eagles fourth overall in the 2013 NFL Draft. The name Lane Johnson literally means a “narrow road” or “path”. |
+| 24 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 25 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 26 | [Truely](http://twitter.com/search?q=Truely) | N/A |
+| 27 | [Haein](http://twitter.com/search?q=Haein) | N/A |
+| 28 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 29 | [Reassigned](http://twitter.com/search?q=Reassigned) | N/A |
+| 30 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
+| 31 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 32 | [Ash Ketchum](http://twitter.com/search?q=Ash+Ketchum) | N/A |
+| 33 | [Steve McQueen](http://twitter.com/search?q=Steve+McQueen) | N/A |
+| 34 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
+| 35 | [Cane](http://twitter.com/search?q=Cane) | N/A |
+| 36 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
+| 37 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
+| 38 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 39 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 40 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
+| 41 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 42 | [Rylo](http://twitter.com/search?q=Rylo) | N/A |
+| 43 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 44 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
+| 45 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
+| 46 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 47 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 48 | [Mike Hunt](http://twitter.com/search?q=Mike+Hunt) | N/A |
 
 
 

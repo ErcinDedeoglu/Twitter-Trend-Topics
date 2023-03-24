@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-24 12:18:25 UTC`
+📆 Last Updated: `2023-03-24 13:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 6 | [Elitserien](http://twitter.com/search?q=Elitserien) | N/A |
-| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 8 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 9 | [timashov](http://twitter.com/search?q=timashov) | N/A |
+| 7 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
+| 8 | [timashov](http://twitter.com/search?q=timashov) | N/A |
+| 9 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 10 | [#乌鲁木齐](http://twitter.com/search?q=%23%e4%b9%8c%e9%b2%81%e6%9c%a8%e9%bd%90) | N/A |
-| 11 | [Sara Skyttedal](http://twitter.com/search?q=Sara+Skyttedal) | N/A |
-| 12 | [#呼和浩特](http://twitter.com/search?q=%23%e5%91%bc%e5%92%8c%e6%b5%a9%e7%89%b9) | N/A |
-| 13 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 14 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 15 | [Bajens](http://twitter.com/search?q=Bajens) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 18 | [Craft](http://twitter.com/search?q=Craft) | N/A |
-| 19 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 20 | [Lider](http://twitter.com/search?q=Lider) | N/A |
-| 21 | [Konkurrensverket](http://twitter.com/search?q=Konkurrensverket) | N/A |
-| 22 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
-| 23 | [Hockeyallsvenskan](http://twitter.com/search?q=Hockeyallsvenskan) | N/A |
-| 24 | [Ove Molin](http://twitter.com/search?q=Ove+Molin) | N/A |
-| 25 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 26 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 27 | [westerholm](http://twitter.com/search?q=westerholm) | N/A |
-| 28 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
-| 29 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
-| 30 | [Korankravallerna](http://twitter.com/search?q=Korankravallerna) | N/A |
-| 31 | [folkhemsel](http://twitter.com/search?q=folkhemsel) | N/A |
-| 32 | [Moderat](http://twitter.com/search?q=Moderat) | N/A |
-| 33 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 34 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 35 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
-| 36 | [flashback](http://twitter.com/search?q=flashback) | N/A |
-| 37 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 38 | [Buya](http://twitter.com/search?q=Buya) | N/A |
-| 39 | [Polisen](http://twitter.com/search?q=Polisen) | N/A |
-| 40 | [Mats](http://twitter.com/search?q=Mats) | N/A |
-| 41 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 42 | [Nord](http://twitter.com/search?q=Nord) | N/A |
-| 43 | [Solna](http://twitter.com/search?q=Solna) | N/A |
-| 44 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 45 | [grattis malmö](http://twitter.com/search?q=grattis+malm%c3%b6) | N/A |
-| 46 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
-| 47 | [Orbán](http://twitter.com/search?q=Orb%c3%a1n) | N/A |
-| 48 | [Ringhals](http://twitter.com/search?q=Ringhals) | N/A |
-| 49 | [Strängnäs](http://twitter.com/search?q=Str%c3%a4ngn%c3%a4s) | N/A |
+| 11 | [#呼和浩特](http://twitter.com/search?q=%23%e5%91%bc%e5%92%8c%e6%b5%a9%e7%89%b9) | N/A |
+| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 13 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
+| 14 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Craft](http://twitter.com/search?q=Craft) | N/A |
+| 17 | [Sara Skyttedal](http://twitter.com/search?q=Sara+Skyttedal) | N/A |
+| 18 | [Ringhals 4](http://twitter.com/search?q=Ringhals+4) | N/A |
+| 19 | [Lider](http://twitter.com/search?q=Lider) | N/A |
+| 20 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
+| 21 | [Hockeyallsvenskan](http://twitter.com/search?q=Hockeyallsvenskan) | N/A |
+| 22 | [Ove Molin](http://twitter.com/search?q=Ove+Molin) | N/A |
+| 23 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 24 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 25 | [westerholm](http://twitter.com/search?q=westerholm) | N/A |
+| 26 | [ludvig nilsson](http://twitter.com/search?q=ludvig+nilsson) | N/A |
+| 27 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 28 | [Konkurrensverket](http://twitter.com/search?q=Konkurrensverket) | N/A |
+| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 30 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 31 | [korankravallerna](http://twitter.com/search?q=korankravallerna) | N/A |
+| 32 | [folkhemsel](http://twitter.com/search?q=folkhemsel) | N/A |
+| 33 | [SHL-lag](http://twitter.com/search?q=SHL-lag) | N/A |
+| 34 | [ölund](http://twitter.com/search?q=%c3%b6lund) | N/A |
+| 35 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 36 | [Buya](http://twitter.com/search?q=Buya) | N/A |
+| 37 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 38 | [Moderat](http://twitter.com/search?q=Moderat) | N/A |
+| 39 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 40 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 41 | [Flashback](http://twitter.com/search?q=Flashback) | N/A |
+| 42 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 43 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 44 | [coop](http://twitter.com/search?q=coop) | N/A |
+| 45 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
+| 46 | [Mats](http://twitter.com/search?q=Mats) | N/A |
+| 47 | [grattis malmö](http://twitter.com/search?q=grattis+malm%c3%b6) | N/A |
+| 48 | [David](http://twitter.com/search?q=David) | N/A |
+| 49 | [Orbán](http://twitter.com/search?q=Orb%c3%a1n) | N/A |
 
 
 
