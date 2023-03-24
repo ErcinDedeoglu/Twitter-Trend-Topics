@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-24 19:17:55 UTC`
+📆 Last Updated: `2023-03-24 20:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AilelerPerişanGSB](http://twitter.com/search?q=AilelerPeri%c5%9fanGSB) | N/A |
-| 2 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
-| 3 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
-| 4 | [#HaftaSonuimzaya](http://twitter.com/search?q=%23HaftaSonuimzaya) | N/A |
-| 5 | [#MemuraZamYokmu](http://twitter.com/search?q=%23MemuraZamYokmu) | N/A |
-| 6 | [#MemuraSeyyanenZam](http://twitter.com/search?q=%23MemuraSeyyanenZam) | N/A |
-| 7 | [#SpinrazaNerede](http://twitter.com/search?q=%23SpinrazaNerede) | N/A |
-| 8 | [AfYoksa BizdeYokuz](http://twitter.com/search?q=AfYoksa+BizdeYokuz) | N/A |
-| 9 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 1 | [#HaftaSonuimzaya](http://twitter.com/search?q=%23HaftaSonuimzaya) | N/A |
+| 2 | [AilelerPerişanGSB](http://twitter.com/search?q=AilelerPeri%c5%9fanGSB) | N/A |
+| 3 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 4 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 5 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
+| 6 | [Özerklik](http://twitter.com/search?q=%c3%96zerklik) | N/A |
+| 7 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 8 | [#MemuraZamYokmu](http://twitter.com/search?q=%23MemuraZamYokmu) | N/A |
+| 9 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
 | 10 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 11 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 12 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 13 | [Akitavax](http://twitter.com/search?q=Akitavax) | N/A |
-| 14 | [Hayat Şirine Gülsün](http://twitter.com/search?q=Hayat+%c5%9eirine+G%c3%bcls%c3%bcn) | N/A |
-| 15 | [TaşeronKadroyu Destekleyecek](http://twitter.com/search?q=Ta%c5%9feronKadroyu+Destekleyecek) | N/A |
-| 16 | [Malatyanın Kahramanı](http://twitter.com/search?q=Malatyan%c4%b1n+Kahraman%c4%b1) | N/A |
-| 17 | [Boya Bizim İşimiz](http://twitter.com/search?q=Boya+Bizim+%c4%b0%c5%9fimiz) | N/A |
-| 18 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 19 | [Tekİsteğimiz AyrımsızAf](http://twitter.com/search?q=Tek%c4%b0ste%c4%9fimiz+Ayr%c4%b1ms%c4%b1zAf) | N/A |
-| 20 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
-| 21 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
-| 22 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 23 | [Özerklik](http://twitter.com/search?q=%c3%96zerklik) | N/A |
-| 24 | [Muhafaza](http://twitter.com/search?q=Muhafaza) | N/A |
-| 25 | [CbASMye10BinDyt](http://twitter.com/search?q=CbASMye10BinDyt) | N/A |
-| 26 | [Suna](http://twitter.com/search?q=Suna) | N/A |
-| 27 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 28 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
-| 29 | [Zina](http://twitter.com/search?q=Zina) | N/A |
-| 30 | [Motley](http://twitter.com/search?q=Motley) | N/A |
-| 31 | [ZİLLET KARANLIK YOLDA](http://twitter.com/search?q=Z%c4%b0LLET+KARANLIK+YOLDA) | N/A |
-| 32 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
-| 33 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
-| 34 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 35 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 36 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
-| 37 | [Yunus Emre](http://twitter.com/search?q=Yunus+Emre) | N/A |
-| 38 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
-| 39 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
-| 40 | [Lahmacun](http://twitter.com/search?q=Lahmacun) | N/A |
-| 41 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
-| 42 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
-| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 44 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
-| 45 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
-| 46 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
-| 47 | [Siyasette 24](http://twitter.com/search?q=Siyasette+24) | N/A |
-| 48 | [Titanik](http://twitter.com/search?q=Titanik) | N/A |
-| 49 | [Aybüke](http://twitter.com/search?q=Ayb%c3%bcke) | N/A |
-| 50 | [Dönek](http://twitter.com/search?q=D%c3%b6nek) | N/A |
+| 11 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 12 | [Hayat Şirine Gülsün](http://twitter.com/search?q=Hayat+%c5%9eirine+G%c3%bcls%c3%bcn) | N/A |
+| 13 | [Malatyanın Kahramanı](http://twitter.com/search?q=Malatyan%c4%b1n+Kahraman%c4%b1) | N/A |
+| 14 | [TaşeronKadroyu Destekleyecek](http://twitter.com/search?q=Ta%c5%9feronKadroyu+Destekleyecek) | N/A |
+| 15 | [AfYoksa BizdeYokuz](http://twitter.com/search?q=AfYoksa+BizdeYokuz) | N/A |
+| 16 | [Boya Bizim İşimiz](http://twitter.com/search?q=Boya+Bizim+%c4%b0%c5%9fimiz) | N/A |
+| 17 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
+| 18 | [Diploma](http://twitter.com/search?q=Diploma) | N/A |
+| 19 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 20 | [VedatBilgin TaşeronNoldu](http://twitter.com/search?q=VedatBilgin+Ta%c5%9feronNoldu) | VedatBilgin TaşeronNoldu is a Turkish phrase that translates to "Who is Vedat Bilgin?" It is a question asking for information about the person named Vedat Bilgin. |
+| 21 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 22 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 23 | [Tekİsteğimiz AyrımsızAf](http://twitter.com/search?q=Tek%c4%b0ste%c4%9fimiz+Ayr%c4%b1ms%c4%b1zAf) | N/A |
+| 24 | [CBSağlık YönetiminiGÖR](http://twitter.com/search?q=CBSa%c4%9fl%c4%b1k+Y%c3%b6netiminiG%c3%96R) | N/A |
+| 25 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 26 | [Kıvılcım](http://twitter.com/search?q=K%c4%b1v%c4%b1lc%c4%b1m) | N/A |
+| 27 | [Zina](http://twitter.com/search?q=Zina) | N/A |
+| 28 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 29 | [Suna](http://twitter.com/search?q=Suna) | N/A |
+| 30 | [CbASMye10BinDyt](http://twitter.com/search?q=CbASMye10BinDyt) | N/A |
+| 31 | [Muhafaza](http://twitter.com/search?q=Muhafaza) | N/A |
+| 32 | [SANDIKTAN BALKONA](http://twitter.com/search?q=SANDIKTAN+BALKONA) | N/A |
+| 33 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 34 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
+| 35 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
+| 36 | [Zoruna](http://twitter.com/search?q=Zoruna) | N/A |
+| 37 | [ZİLLET KARANLIK YOLDA](http://twitter.com/search?q=Z%c4%b0LLET+KARANLIK+YOLDA) | N/A |
+| 38 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 39 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 40 | [Yunus Emre](http://twitter.com/search?q=Yunus+Emre) | N/A |
+| 41 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 42 | [Titanik](http://twitter.com/search?q=Titanik) | N/A |
+| 43 | [Muhsin Başkan](http://twitter.com/search?q=Muhsin+Ba%c5%9fkan) | N/A |
+| 44 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
+| 45 | [Lahmacun](http://twitter.com/search?q=Lahmacun) | N/A |
+| 46 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
+| 47 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
+| 48 | [Kutsal](http://twitter.com/search?q=Kutsal) | N/A |
+| 49 | [Tolga](http://twitter.com/search?q=Tolga) | N/A |
+| 50 | [Siyasal İslam](http://twitter.com/search?q=Siyasal+%c4%b0slam) | N/A |
 
 
 

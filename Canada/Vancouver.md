@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-24 19:16:51 UTC`
+📆 Last Updated: `2023-03-24 20:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 3 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 5 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
-| 6 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 7 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 10 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 11 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 12 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 13 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 14 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 15 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 4 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 5 | [Sean Farrell](http://twitter.com/search?q=Sean+Farrell) | N/A |
+| 6 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 7 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 8 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 10 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 11 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 12 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 13 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 14 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 15 | [Funko](http://twitter.com/search?q=Funko) | N/A |
 | 16 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 21 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [London](http://twitter.com/search?q=London) | N/A |
-| 24 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 27 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 30 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 31 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 32 | [Motel 6](http://twitter.com/search?q=Motel+6) | N/A |
-| 33 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 35 | [Bev Oda](http://twitter.com/search?q=Bev+Oda) | N/A |
-| 36 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 37 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 38 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 39 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 40 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 41 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
-| 42 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 46 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 47 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 48 | [Denis Shapovalov](http://twitter.com/search?q=Denis+Shapovalov) | N/A |
-| 49 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 50 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 17 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 18 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 19 | [Sleepy Joe](http://twitter.com/search?q=Sleepy+Joe) | N/A |
+| 20 | [Michael Spavor](http://twitter.com/search?q=Michael+Spavor) | N/A |
+| 21 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 22 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 23 | [Michael Kovrig](http://twitter.com/search?q=Michael+Kovrig) | N/A |
+| 24 | [Mandarin](http://twitter.com/search?q=Mandarin) | N/A |
+| 25 | [Brandon](http://twitter.com/search?q=Brandon) | N/A |
+| 26 | [Canada and the US](http://twitter.com/search?q=Canada+and+the+US) | N/A |
+| 27 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 28 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
+| 29 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 30 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 31 | [The PMO](http://twitter.com/search?q=The+PMO) | N/A |
+| 32 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 33 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 34 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
+| 35 | [PM Trudeau](http://twitter.com/search?q=PM+Trudeau) | N/A |
+| 36 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 37 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 38 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 39 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 40 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 41 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 42 | [PSPP](http://twitter.com/search?q=PSPP) | N/A |
+| 43 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
+| 44 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 45 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 46 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 47 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 48 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 49 | [#nlwx](http://twitter.com/search?q=%23nlwx) | N/A |
+| 50 | [#hapc23](http://twitter.com/search?q=%23hapc23) | N/A |
 
 
 

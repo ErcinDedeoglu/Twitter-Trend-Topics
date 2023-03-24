@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-24 19:16:50 UTC`
+📆 Last Updated: `2023-03-24 20:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 3 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 4 | [#NationalPuppyDay](http://twitter.com/search?q=%23NationalPuppyDay) | N/A |
-| 5 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
-| 6 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 7 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 10 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 11 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 12 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 13 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 14 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 15 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 16 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 17 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 20 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
-| 23 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
-| 24 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 29 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
-| 30 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 31 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 32 | [Motel 6](http://twitter.com/search?q=Motel+6) | N/A |
-| 33 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 35 | [Bev Oda](http://twitter.com/search?q=Bev+Oda) | N/A |
-| 36 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 37 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 38 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 39 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 40 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
-| 41 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 42 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
-| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 44 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 46 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 47 | [Denis Shapovalov](http://twitter.com/search?q=Denis+Shapovalov) | N/A |
-| 48 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 49 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 50 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 1 | [#ONBudget2023](http://twitter.com/search?q=%23ONBudget2023) | N/A |
+| 2 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 6 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 7 | [Sean Farrell](http://twitter.com/search?q=Sean+Farrell) | N/A |
+| 8 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 9 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 12 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 13 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 14 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 15 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [Funko](http://twitter.com/search?q=Funko) | N/A |
+| 18 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 19 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 20 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 21 | [Sleepy Joe](http://twitter.com/search?q=Sleepy+Joe) | N/A |
+| 22 | [Michael Spavor](http://twitter.com/search?q=Michael+Spavor) | N/A |
+| 23 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 24 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 25 | [Michael Kovrig](http://twitter.com/search?q=Michael+Kovrig) | N/A |
+| 26 | [Mandarin](http://twitter.com/search?q=Mandarin) | N/A |
+| 27 | [Brandon](http://twitter.com/search?q=Brandon) | N/A |
+| 28 | [Canada and the US](http://twitter.com/search?q=Canada+and+the+US) | N/A |
+| 29 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
+| 30 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 31 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 32 | [The PMO](http://twitter.com/search?q=The+PMO) | N/A |
+| 33 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 34 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 35 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
+| 36 | [PM Trudeau](http://twitter.com/search?q=PM+Trudeau) | N/A |
+| 37 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 38 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 40 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 41 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 42 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 43 | [PSPP](http://twitter.com/search?q=PSPP) | N/A |
+| 44 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
+| 45 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 46 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 47 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 48 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 49 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
+| 50 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 
 
 

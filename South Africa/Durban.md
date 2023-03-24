@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-24 19:17:23 UTC`
+📆 Last Updated: `2023-03-24 20:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 2 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 3 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 2 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 3 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
 | 4 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
-| 5 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 6 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 7 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
-| 8 | [#capitec](http://twitter.com/search?q=%23capitec) | N/A |
-| 9 | [#AFCON2023Qualifiers](http://twitter.com/search?q=%23AFCON2023Qualifiers) | N/A |
-| 10 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 11 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 12 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 13 | [Congratulations Thabang](http://twitter.com/search?q=Congratulations+Thabang) | "Congratulations Thabang" is a phrase used to congratulate someone named Thabang on an accomplishment or achievement. It is a way of expressing admiration and support for their success. |
-| 14 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 15 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 5 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
+| 6 | [#capitec](http://twitter.com/search?q=%23capitec) | N/A |
+| 7 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 8 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 9 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
+| 10 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 11 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 12 | [#AFCON2023Qualifiers](http://twitter.com/search?q=%23AFCON2023Qualifiers) | N/A |
+| 13 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 14 | [Congratulations Thabang](http://twitter.com/search?q=Congratulations+Thabang) | "Congratulations Thabang" is a phrase used to congratulate someone named Thabang on an accomplishment or achievement. It is a way of expressing admiration and support for their success. |
+| 15 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
 | 16 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 17 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
-| 18 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 19 | [#UmkhokhaTheCurse](http://twitter.com/search?q=%23UmkhokhaTheCurse) | N/A |
-| 20 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 21 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 22 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
-| 23 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
-| 24 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 25 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
-| 26 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 27 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 28 | [Bunch](http://twitter.com/search?q=Bunch) | N/A |
-| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 30 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 31 | [Orlando Stadium](http://twitter.com/search?q=Orlando+Stadium) | N/A |
-| 32 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 17 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 18 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 19 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 20 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
+| 21 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 22 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 23 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 24 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 25 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
+| 26 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 27 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
+| 28 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
+| 29 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
+| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 31 | [Bunch](http://twitter.com/search?q=Bunch) | N/A |
+| 32 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 | 33 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 34 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 35 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 36 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
-| 37 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
-| 38 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 39 | [President Putin](http://twitter.com/search?q=President+Putin) | N/A |
-| 40 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 41 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 42 | [#PhandaPushaPlay](http://twitter.com/search?q=%23PhandaPushaPlay) | N/A |
-| 43 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
-| 44 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
-| 45 | [#SETERemix](http://twitter.com/search?q=%23SETERemix) | N/A |
-| 46 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 47 | [#WorldTBDay2023](http://twitter.com/search?q=%23WorldTBDay2023) | N/A |
+| 34 | [Orlando Stadium](http://twitter.com/search?q=Orlando+Stadium) | N/A |
+| 35 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 36 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 37 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 38 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 39 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 40 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
+| 41 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
+| 42 | [President Putin](http://twitter.com/search?q=President+Putin) | N/A |
+| 43 | [#UmkhokhaTheCurse](http://twitter.com/search?q=%23UmkhokhaTheCurse) | N/A |
+| 44 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
+| 45 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
+| 46 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
 
 
 

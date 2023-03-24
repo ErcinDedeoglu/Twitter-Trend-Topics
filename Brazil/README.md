@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-24 19:17:47 UTC`
+📆 Last Updated: `2023-03-24 20:19:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 2 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 4 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 5 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 6 | [#ANAVITÓRIANoMultishow](http://twitter.com/search?q=%23ANAVIT%c3%93RIANoMultishow) | N/A |
-| 7 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 8 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 9 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 10 | [Processar](http://twitter.com/search?q=Processar) | N/A |
-| 11 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 12 | [Denir](http://twitter.com/search?q=Denir) | N/A |
-| 13 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 14 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 15 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 16 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 17 | [Brance](http://twitter.com/search?q=Brance) | N/A |
-| 18 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 3 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 4 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 5 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 6 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 7 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 8 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 9 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
+| 10 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 11 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 12 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 13 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 14 | [Brance](http://twitter.com/search?q=Brance) | N/A |
+| 15 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 16 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
+| 17 | [#anavitorianomultishow](http://twitter.com/search?q=%23anavitorianomultishow) | N/A |
+| 18 | [Processar](http://twitter.com/search?q=Processar) | N/A |
 | 19 | [Hauz](http://twitter.com/search?q=Hauz) | N/A |
-| 20 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 20 | [mother mother](http://twitter.com/search?q=mother+mother) | N/A |
 | 21 | [Modest Mouse](http://twitter.com/search?q=Modest+Mouse) | N/A |
-| 22 | [suki](http://twitter.com/search?q=suki) | N/A |
-| 23 | [hadid](http://twitter.com/search?q=hadid) | N/A |
-| 24 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 25 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 26 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
-| 27 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 28 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 29 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 30 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
-| 31 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
+| 22 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 23 | [Denir](http://twitter.com/search?q=Denir) | N/A |
+| 24 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 25 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 26 | [Prendam](http://twitter.com/search?q=Prendam) | N/A |
+| 27 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 28 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
+| 29 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 30 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
+| 31 | [suki](http://twitter.com/search?q=suki) | N/A |
 | 32 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
 | 33 | [Trigo](http://twitter.com/search?q=Trigo) | N/A |
-| 34 | [Escrota](http://twitter.com/search?q=Escrota) | N/A |
-| 35 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
-| 36 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
-| 37 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 38 | [Didico](http://twitter.com/search?q=Didico) | N/A |
-| 39 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 40 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 41 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 42 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 43 | [Alien Superstar](http://twitter.com/search?q=Alien+Superstar) | N/A |
-| 44 | [Racismo Reverso](http://twitter.com/search?q=Racismo+Reverso) | N/A |
-| 45 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
-| 46 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 47 | [Imperador](http://twitter.com/search?q=Imperador) | N/A |
-| 48 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 49 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
-| 50 | [Parabéns Dilma](http://twitter.com/search?q=Parab%c3%a9ns+Dilma) | N/A |
+| 34 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 35 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
+| 36 | [Hadid](http://twitter.com/search?q=Hadid) | N/A |
+| 37 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 38 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
+| 39 | [Polônia](http://twitter.com/search?q=Pol%c3%b4nia) | N/A |
+| 40 | [Grêmio fut7](http://twitter.com/search?q=Gr%c3%aamio+fut7) | N/A |
+| 41 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
+| 42 | [Imperador](http://twitter.com/search?q=Imperador) | N/A |
+| 43 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 44 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 45 | [Escrota](http://twitter.com/search?q=Escrota) | N/A |
+| 46 | [Prerrogativas](http://twitter.com/search?q=Prerrogativas) | N/A |
+| 47 | [Didico](http://twitter.com/search?q=Didico) | N/A |
+| 48 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 49 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 50 | [Paty](http://twitter.com/search?q=Paty) | N/A |
 
 
 

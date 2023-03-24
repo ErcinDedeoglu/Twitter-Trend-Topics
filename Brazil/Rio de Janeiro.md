@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-24 19:17:02 UTC`
+📆 Last Updated: `2023-03-24 20:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 2 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 3 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 4 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 9 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 10 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 11 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 12 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 13 | [#ANAVITÓRIANoMultishow](http://twitter.com/search?q=%23ANAVIT%c3%93RIANoMultishow) | N/A |
-| 14 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 15 | [Processar](http://twitter.com/search?q=Processar) | N/A |
-| 16 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 17 | [Denir](http://twitter.com/search?q=Denir) | N/A |
-| 18 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 19 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 20 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 21 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 22 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 23 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 24 | [Brance](http://twitter.com/search?q=Brance) | N/A |
-| 25 | [suki](http://twitter.com/search?q=suki) | N/A |
-| 26 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 27 | [hadid](http://twitter.com/search?q=hadid) | N/A |
+| 1 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 3 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 4 | [Truce](http://twitter.com/search?q=Truce) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 7 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 8 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
+| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 10 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 11 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 12 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 13 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 14 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 15 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 16 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
+| 17 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 18 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 19 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 20 | [Brance](http://twitter.com/search?q=Brance) | N/A |
+| 21 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 22 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
+| 23 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 24 | [Modest Mouse](http://twitter.com/search?q=Modest+Mouse) | N/A |
+| 25 | [#anavitorianomultishow](http://twitter.com/search?q=%23anavitorianomultishow) | N/A |
+| 26 | [Processar](http://twitter.com/search?q=Processar) | N/A |
+| 27 | [Denir](http://twitter.com/search?q=Denir) | N/A |
 | 28 | [Hauz](http://twitter.com/search?q=Hauz) | N/A |
-| 29 | [Modest Mouse](http://twitter.com/search?q=Modest+Mouse) | N/A |
-| 30 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 31 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 32 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 33 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 34 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
-| 35 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 36 | [Escrota](http://twitter.com/search?q=Escrota) | N/A |
-| 37 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
-| 38 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 29 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 30 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
+| 31 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 32 | [mother mother](http://twitter.com/search?q=mother+mother) | N/A |
+| 33 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 34 | [Prendam](http://twitter.com/search?q=Prendam) | N/A |
+| 35 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 36 | [Trigo](http://twitter.com/search?q=Trigo) | N/A |
+| 37 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 38 | [suki](http://twitter.com/search?q=suki) | N/A |
 | 39 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
-| 40 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 41 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 42 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 43 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
-| 44 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 45 | [Didico](http://twitter.com/search?q=Didico) | N/A |
-| 46 | [Racismo Reverso](http://twitter.com/search?q=Racismo+Reverso) | N/A |
-| 47 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 48 | [Trigo](http://twitter.com/search?q=Trigo) | N/A |
-| 49 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
-| 50 | [Alien Superstar](http://twitter.com/search?q=Alien+Superstar) | N/A |
+| 40 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
+| 41 | [Hadid](http://twitter.com/search?q=Hadid) | N/A |
+| 42 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
+| 43 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
+| 44 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
+| 45 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 46 | [Imperador](http://twitter.com/search?q=Imperador) | N/A |
+| 47 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
+| 48 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 49 | [Grêmio fut7](http://twitter.com/search?q=Gr%c3%aamio+fut7) | N/A |
+| 50 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
 
 
 

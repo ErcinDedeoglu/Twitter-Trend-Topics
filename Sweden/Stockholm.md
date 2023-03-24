@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-24 19:17:12 UTC`
+📆 Last Updated: `2023-03-24 20:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 1 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
 | 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 3 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 4 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 3 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 4 | [#SWEBEL](http://twitter.com/search?q=%23SWEBEL) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 7 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 8 | [Kjell Jansson](http://twitter.com/search?q=Kjell+Jansson) | N/A |
-| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 10 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 11 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 12 | [Rosengård](http://twitter.com/search?q=Roseng%c3%a5rd) | N/A |
+| 6 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 7 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 8 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 9 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 11 | [Rosengård](http://twitter.com/search?q=Roseng%c3%a5rd) | N/A |
+| 12 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
 | 13 | [timashov](http://twitter.com/search?q=timashov) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [#乌鲁木齐](http://twitter.com/search?q=%23%e4%b9%8c%e9%b2%81%e6%9c%a8%e9%bd%90) | N/A |
-| 16 | [#呼和浩特](http://twitter.com/search?q=%23%e5%91%bc%e5%92%8c%e6%b5%a9%e7%89%b9) | N/A |
-| 17 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 18 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
-| 19 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 21 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 22 | [Sara Skyttedal](http://twitter.com/search?q=Sara+Skyttedal) | N/A |
-| 23 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 24 | [#ITAENG](http://twitter.com/search?q=%23ITAENG) | N/A |
+| 14 | [#乌鲁木齐](http://twitter.com/search?q=%23%e4%b9%8c%e9%b2%81%e6%9c%a8%e9%bd%90) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [#emkval](http://twitter.com/search?q=%23emkval) | N/A |
+| 17 | [#呼和浩特](http://twitter.com/search?q=%23%e5%91%bc%e5%92%8c%e6%b5%a9%e7%89%b9) | N/A |
+| 18 | [Sara Skyttedal](http://twitter.com/search?q=Sara+Skyttedal) | N/A |
+| 19 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 20 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 21 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 22 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 23 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
+| 24 | [Kjell Jansson](http://twitter.com/search?q=Kjell+Jansson) | N/A |
 | 25 | [Söderort](http://twitter.com/search?q=S%c3%b6derort) | N/A |
-| 26 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 27 | [Moderat](http://twitter.com/search?q=Moderat) | N/A |
+| 26 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 27 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
 | 28 | [Craft](http://twitter.com/search?q=Craft) | N/A |
 | 29 | [Cibus](http://twitter.com/search?q=Cibus) | N/A |
-| 30 | [Önskar](http://twitter.com/search?q=%c3%96nskar) | N/A |
-| 31 | [Konkurrensverket](http://twitter.com/search?q=Konkurrensverket) | N/A |
-| 32 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 33 | [Ölund](http://twitter.com/search?q=%c3%96lund) | N/A |
-| 34 | [Sverigemötet](http://twitter.com/search?q=Sverigem%c3%b6tet) | N/A |
-| 35 | [Elitserien](http://twitter.com/search?q=Elitserien) | N/A |
-| 36 | [Babben](http://twitter.com/search?q=Babben) | N/A |
-| 37 | [Flashback](http://twitter.com/search?q=Flashback) | N/A |
-| 38 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [Brå-rapporten](http://twitter.com/search?q=Br%c3%a5-rapporten) | N/A |
-| 41 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 42 | [Ringhals 4](http://twitter.com/search?q=Ringhals+4) | N/A |
-| 43 | [Hockeyallsvenskan](http://twitter.com/search?q=Hockeyallsvenskan) | N/A |
-| 44 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 45 | [shl-lag](http://twitter.com/search?q=shl-lag) | N/A |
-| 46 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 47 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 48 | [Ove Molin](http://twitter.com/search?q=Ove+Molin) | N/A |
-| 49 | [wernblom](http://twitter.com/search?q=wernblom) | N/A |
-| 50 | [Djurgårdare](http://twitter.com/search?q=Djurg%c3%a5rdare) | N/A |
+| 30 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 31 | [Önskar](http://twitter.com/search?q=%c3%96nskar) | N/A |
+| 32 | [konkurrensverket](http://twitter.com/search?q=konkurrensverket) | N/A |
+| 33 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 34 | [Kristoffer Olsson](http://twitter.com/search?q=Kristoffer+Olsson) | N/A |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [ölund](http://twitter.com/search?q=%c3%b6lund) | N/A |
+| 37 | [Sverigemötet](http://twitter.com/search?q=Sverigem%c3%b6tet) | N/A |
+| 38 | [Elitserien](http://twitter.com/search?q=Elitserien) | N/A |
+| 39 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 40 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 41 | [Babben](http://twitter.com/search?q=Babben) | N/A |
+| 42 | [Flashback](http://twitter.com/search?q=Flashback) | N/A |
+| 43 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 44 | [Moderat](http://twitter.com/search?q=Moderat) | N/A |
+| 45 | [Ringhals 4](http://twitter.com/search?q=Ringhals+4) | N/A |
+| 46 | [Heja Sverige](http://twitter.com/search?q=Heja+Sverige) | N/A |
+| 47 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 48 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 49 | [Ove Molin](http://twitter.com/search?q=Ove+Molin) | N/A |
+| 50 | [Piteå](http://twitter.com/search?q=Pite%c3%a5) | N/A |
 
 
 

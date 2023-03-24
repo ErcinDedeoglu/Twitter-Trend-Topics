@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-24 19:17:12 UTC`
+📆 Last Updated: `2023-03-24 20:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 3 | [#GalaxyAwesomeCube](http://twitter.com/search?q=%23GalaxyAwesomeCube) | N/A |
-| 4 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
-| 5 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 6 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 8 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 10 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 11 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 12 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
-| 13 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
-| 14 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 15 | [fOive](http://twitter.com/search?q=fOive) | N/A |
-| 16 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 17 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
-| 18 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
-| 19 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 20 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
-| 21 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 22 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 23 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 24 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
-| 25 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 27 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 28 | [#髙田真史帆](http://twitter.com/search?q=%23%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
-| 29 | [#PialaDuniaU20HarusSukses](http://twitter.com/search?q=%23PialaDuniaU20HarusSukses) | N/A |
-| 30 | [#행운이_가득할_시호의_스물세번째생일](http://twitter.com/search?q=%23%ed%96%89%ec%9a%b4%ec%9d%b4_%ea%b0%80%eb%93%9d%ed%95%a0_%ec%8b%9c%ed%98%b8%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88%ec%a7%b8%ec%83%9d%ec%9d%bc) | N/A |
-| 31 | [#HiGH_LOW](http://twitter.com/search?q=%23HiGH_LOW) | N/A |
-| 32 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 33 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 34 | [#中本悠太](http://twitter.com/search?q=%23%e4%b8%ad%e6%9c%ac%e6%82%a0%e5%a4%aa) | N/A |
-| 35 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 36 | [#aBossandaBabeEP4](http://twitter.com/search?q=%23aBossandaBabeEP4) | N/A |
-| 37 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
-| 38 | [#IndonesiaDisanksiFIFA](http://twitter.com/search?q=%23IndonesiaDisanksiFIFA) | N/A |
-| 39 | [#Oceany](http://twitter.com/search?q=%23Oceany) | N/A |
-| 40 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 41 | [#THEDREAMSHOW2_in_HONGKONG](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HONGKONG) | N/A |
-| 42 | [#TDS2inHONGKONG_DAY1](http://twitter.com/search?q=%23TDS2inHONGKONG_DAY1) | N/A |
-| 43 | [#JinnysKitchenEp5](http://twitter.com/search?q=%23JinnysKitchenEp5) | N/A |
-| 44 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 45 | [#ShopeeBigRamadanSale](http://twitter.com/search?q=%23ShopeeBigRamadanSale) | N/A |
+| 1 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
+| 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 4 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 5 | [ayam goreng satu bumbu](http://twitter.com/search?q=ayam+goreng+satu+bumbu) | N/A |
+| 6 | [#PialaDuniaU20HarusSukses](http://twitter.com/search?q=%23PialaDuniaU20HarusSukses) | N/A |
+| 7 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 8 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 9 | [royco](http://twitter.com/search?q=royco) | N/A |
+| 10 | [Oppo](http://twitter.com/search?q=Oppo) | N/A |
+| 11 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 12 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
+| 15 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 16 | [nightography](http://twitter.com/search?q=nightography) | N/A |
+| 17 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
+| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 19 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
+| 20 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 21 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 22 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 23 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 24 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
+| 25 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
+| 26 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
+| 27 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 29 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 30 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
+| 31 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 33 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 34 | [Olahraga](http://twitter.com/search?q=Olahraga) | N/A |
+| 35 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
+| 36 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
+| 37 | [Patung](http://twitter.com/search?q=Patung) | N/A |
+| 38 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 39 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 40 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 41 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
+| 42 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
+| 43 | [Rinov](http://twitter.com/search?q=Rinov) | N/A |
+| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 45 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 46 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
+| 47 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 48 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 49 | [Garang](http://twitter.com/search?q=Garang) | N/A |
 
 
 

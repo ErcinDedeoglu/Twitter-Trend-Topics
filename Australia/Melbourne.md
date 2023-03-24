@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-24 19:17:14 UTC`
+📆 Last Updated: `2023-03-24 20:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#afllionsdees](http://twitter.com/search?q=%23afllionsdees) | N/A |
 | 2 | [#NRLDolphinsBroncos](http://twitter.com/search?q=%23NRLDolphinsBroncos) | N/A |
 | 3 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 4 | [#ausvecu](http://twitter.com/search?q=%23ausvecu) | N/A |
+| 4 | [#AUSvECU](http://twitter.com/search?q=%23AUSvECU) | N/A |
 | 5 | [#aflbluescats](http://twitter.com/search?q=%23aflbluescats) | N/A |
 | 6 | [#NRLStormTigers](http://twitter.com/search?q=%23NRLStormTigers) | N/A |
 | 7 | [Lidia](http://twitter.com/search?q=Lidia) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Australia](</Australia>)
 | 11 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
 | 12 | [Pauline Hanson](http://twitter.com/search?q=Pauline+Hanson) | N/A |
 | 13 | [Milford](http://twitter.com/search?q=Milford) | N/A |
-| 14 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 15 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 16 | [mundine](http://twitter.com/search?q=mundine) | N/A |
+| 16 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 17 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 18 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
 | 19 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 20 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
 | 21 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
 | 22 | [staggs](http://twitter.com/search?q=staggs) | N/A |
 | 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 24 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 25 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 26 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
-| 27 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 28 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 29 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
-| 30 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 31 | [ken wyatt](http://twitter.com/search?q=ken+wyatt) | N/A |
-| 32 | [brayshaw](http://twitter.com/search?q=brayshaw) | N/A |
-| 33 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 34 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 35 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 37 | [lidiot](http://twitter.com/search?q=lidiot) | N/A |
-| 38 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
-| 39 | [Craven](http://twitter.com/search?q=Craven) | N/A |
-| 40 | [zorko](http://twitter.com/search?q=zorko) | N/A |
-| 41 | [Waverley](http://twitter.com/search?q=Waverley) | N/A |
-| 42 | [the smh](http://twitter.com/search?q=the+smh) | N/A |
-| 43 | [Awer Mabil](http://twitter.com/search?q=Awer+Mabil) | N/A |
-| 44 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 45 | [lang park](http://twitter.com/search?q=lang+park) | N/A |
-| 46 | [NIAA](http://twitter.com/search?q=NIAA) | N/A |
-| 47 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 48 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
+| 25 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 27 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
+| 28 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 29 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 31 | [brayshaw](http://twitter.com/search?q=brayshaw) | N/A |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 34 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 35 | [lidiot](http://twitter.com/search?q=lidiot) | N/A |
+| 36 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
+| 37 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 38 | [zorko](http://twitter.com/search?q=zorko) | N/A |
+| 39 | [the smh](http://twitter.com/search?q=the+smh) | N/A |
+| 40 | [Awer Mabil](http://twitter.com/search?q=Awer+Mabil) | N/A |
+| 41 | [lang park](http://twitter.com/search?q=lang+park) | N/A |
+| 42 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 43 | [niaa](http://twitter.com/search?q=niaa) | N/A |
+| 44 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 45 | [Crocodile](http://twitter.com/search?q=Crocodile) | N/A |
+| 46 | [greg craven](http://twitter.com/search?q=greg+craven) | N/A |
+| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 48 | [Waverley](http://twitter.com/search?q=Waverley) | N/A |
 | 49 | [Madge](http://twitter.com/search?q=Madge) | N/A |
-| 50 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 50 | [Garang Kuol](http://twitter.com/search?q=Garang+Kuol) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-03-24 19:17:44 UTC`
+📆 Last Updated: `2023-03-24 20:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ultra](http://twitter.com/search?q=Ultra) | N/A |
-| 2 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 3 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
+| 2 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 5 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 6 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 5 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 6 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 7 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 8 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 8 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
 | 9 | [Funko](http://twitter.com/search?q=Funko) | N/A |
 | 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 11 | [#EasyToEnjoySweepstakes](http://twitter.com/search?q=%23EasyToEnjoySweepstakes) | N/A |
-| 12 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 14 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
-| 15 | [Chark](http://twitter.com/search?q=Chark) | N/A |
-| 16 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
-| 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 18 | [Nelson Agholor](http://twitter.com/search?q=Nelson+Agholor) | N/A |
-| 19 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 20 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 21 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 22 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
-| 23 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 25 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 26 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 27 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 28 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 29 | [Welcome to Carolina](http://twitter.com/search?q=Welcome+to+Carolina) | N/A |
-| 30 | [Hunter Hollan](http://twitter.com/search?q=Hunter+Hollan) | N/A |
-| 31 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 32 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 33 | [Terrell Edmunds](http://twitter.com/search?q=Terrell+Edmunds) | N/A |
-| 34 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 35 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 36 | [Poki](http://twitter.com/search?q=Poki) | N/A |
-| 37 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 38 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 39 | [SCARING THE HOES](http://twitter.com/search?q=SCARING+THE+HOES) | N/A |
-| 40 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 41 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 42 | [Magazine Dreams](http://twitter.com/search?q=Magazine+Dreams) | N/A |
-| 43 | [Bozo](http://twitter.com/search?q=Bozo) | N/A |
-| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 45 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 46 | [DOA in the Senate](http://twitter.com/search?q=DOA+in+the+Senate) | N/A |
-| 47 | [Dead Hard](http://twitter.com/search?q=Dead+Hard) | N/A |
-| 48 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 49 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 11 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 12 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 13 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 14 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 15 | [Mark Meadows](http://twitter.com/search?q=Mark+Meadows) | N/A |
+| 16 | [Will Levis](http://twitter.com/search?q=Will+Levis) | N/A |
+| 17 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 19 | [Chark](http://twitter.com/search?q=Chark) | N/A |
+| 20 | [Parents Bill of Rights](http://twitter.com/search?q=Parents+Bill+of+Rights) | N/A |
+| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 22 | [Apollokage](http://twitter.com/search?q=Apollokage) | N/A |
+| 23 | [Keston](http://twitter.com/search?q=Keston) | N/A |
+| 24 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
+| 25 | [Mandatory Minicamp](http://twitter.com/search?q=Mandatory+Minicamp) | N/A |
+| 26 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 27 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 28 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 29 | [Voit](http://twitter.com/search?q=Voit) | N/A |
+| 30 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
+| 31 | [Poki](http://twitter.com/search?q=Poki) | N/A |
+| 32 | [Brady Neal](http://twitter.com/search?q=Brady+Neal) | N/A |
+| 33 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
+| 34 | [Hagen Smith](http://twitter.com/search?q=Hagen+Smith) | N/A |
+| 35 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 36 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 37 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
+| 38 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 39 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
+| 40 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
+| 41 | [Powdered](http://twitter.com/search?q=Powdered) | N/A |
+| 42 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 43 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 44 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 45 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 46 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 47 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 48 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 49 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
 
 
 

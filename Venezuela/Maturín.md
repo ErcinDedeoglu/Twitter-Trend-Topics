@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-03-24 19:17:04 UTC`
+📆 Last Updated: `2023-03-24 20:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#24Mar](http://twitter.com/search?q=%2324Mar) | N/A |
-| 2 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 2 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
 | 3 | [#UnidosContraLaCorrupción](http://twitter.com/search?q=%23UnidosContraLaCorrupci%c3%b3n) | N/A |
-| 4 | [#NiCorrupciónNiPrivatización](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiPrivatizaci%c3%b3n) | N/A |
-| 5 | [Irapa](http://twitter.com/search?q=Irapa) | N/A |
-| 6 | [Sucre](http://twitter.com/search?q=Sucre) | N/A |
-| 7 | [Anderson Espinoza](http://twitter.com/search?q=Anderson+Espinoza) | N/A |
-| 8 | [Monómeros](http://twitter.com/search?q=Mon%c3%b3meros) | N/A |
-| 9 | [César Hernández](http://twitter.com/search?q=C%c3%a9sar+Hern%c3%a1ndez) | N/A |
-| 10 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 12 | [Carlos Enrique Gómez Rodríguez](http://twitter.com/search?q=Carlos+Enrique+G%c3%b3mez+Rodr%c3%adguez) | N/A |
-| 13 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
-| 14 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
-| 15 | [José Gregorio Monagas](http://twitter.com/search?q=Jos%c3%a9+Gregorio+Monagas) | N/A |
-| 16 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 17 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 18 | [Baroja](http://twitter.com/search?q=Baroja) | N/A |
-| 19 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 20 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 21 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 22 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 23 | [Guanabana](http://twitter.com/search?q=Guanabana) | N/A |
-| 24 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
-| 25 | [Samuel Pérez](http://twitter.com/search?q=Samuel+P%c3%a9rez) | N/A |
-| 26 | [Remigio Ceballos](http://twitter.com/search?q=Remigio+Ceballos) | N/A |
-| 27 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 28 | [Josef](http://twitter.com/search?q=Josef) | Josef is a German and Czech male given name, derived from the Hebrew name Yosef, meaning "God will increase". In English, it is usually translated as Joseph. |
-| 29 | [Tejerias](http://twitter.com/search?q=Tejerias) | N/A |
-| 30 | [Cardenales](http://twitter.com/search?q=Cardenales) | N/A |
-| 31 | [Vinotinto](http://twitter.com/search?q=Vinotinto) | N/A |
+| 4 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 5 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 6 | [Salomón](http://twitter.com/search?q=Salom%c3%b3n) | N/A |
+| 7 | [#TelevenEsVinotinto](http://twitter.com/search?q=%23TelevenEsVinotinto) | N/A |
+| 8 | [#NiCorrupciónNiPrivatización](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiPrivatizaci%c3%b3n) | N/A |
+| 9 | [Arabia Saudita](http://twitter.com/search?q=Arabia+Saudita) | N/A |
+| 10 | [Monómeros](http://twitter.com/search?q=Mon%c3%b3meros) | N/A |
+| 11 | [Irapa](http://twitter.com/search?q=Irapa) | N/A |
+| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 13 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 14 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
+| 15 | [Henry Altuve](http://twitter.com/search?q=Henry+Altuve) | N/A |
+| 16 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 17 | [César Hernández](http://twitter.com/search?q=C%c3%a9sar+Hern%c3%a1ndez) | N/A |
+| 18 | [Sucre](http://twitter.com/search?q=Sucre) | N/A |
+| 19 | [José Gregorio Monagas](http://twitter.com/search?q=Jos%c3%a9+Gregorio+Monagas) | N/A |
+| 20 | [Bocha](http://twitter.com/search?q=Bocha) | N/A |
+| 21 | [Carlos Enrique Gómez Rodríguez](http://twitter.com/search?q=Carlos+Enrique+G%c3%b3mez+Rodr%c3%adguez) | N/A |
+| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 23 | [Baroja](http://twitter.com/search?q=Baroja) | N/A |
+| 24 | [El Vito](http://twitter.com/search?q=El+Vito) | N/A |
+| 25 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 26 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 27 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 28 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 29 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 30 | [Remigio Ceballos](http://twitter.com/search?q=Remigio+Ceballos) | N/A |
+| 31 | [Tejerias](http://twitter.com/search?q=Tejerias) | N/A |
 | 32 | [Día Mundial de la Tuberculosis](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Tuberculosis) | N/A |
-| 33 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 35 | [Arabia Saudí](http://twitter.com/search?q=Arabia+Saud%c3%ad) | N/A |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [Apascacio Mata](http://twitter.com/search?q=Apascacio+Mata) | N/A |
-| 38 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 39 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
-| 40 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 41 | [Mercantil](http://twitter.com/search?q=Mercantil) | N/A |
-| 42 | [Leones](http://twitter.com/search?q=Leones) | N/A |
+| 33 | [Marina Baura](http://twitter.com/search?q=Marina+Baura) | N/A |
+| 34 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 36 | [Apascacio Mata](http://twitter.com/search?q=Apascacio+Mata) | N/A |
+| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 38 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Guanabana](http://twitter.com/search?q=Guanabana) | N/A |
+| 41 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
+| 42 | [Jovito Villalba](http://twitter.com/search?q=Jovito+Villalba) | N/A |
 | 43 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 44 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 45 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 46 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 47 | [Arcangel](http://twitter.com/search?q=Arcangel) | N/A |
-| 48 | [José Antonio Abreu](http://twitter.com/search?q=Jos%c3%a9+Antonio+Abreu) | N/A |
-| 49 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
-| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 44 | [Víctor José López](http://twitter.com/search?q=V%c3%adctor+Jos%c3%a9+L%c3%b3pez) | N/A |
+| 45 | [Cardenales](http://twitter.com/search?q=Cardenales) | N/A |
+| 46 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 47 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 48 | [Mercantil](http://twitter.com/search?q=Mercantil) | N/A |
+| 49 | [José Antonio Abreu](http://twitter.com/search?q=Jos%c3%a9+Antonio+Abreu) | N/A |
+| 50 | [Samuel Pérez](http://twitter.com/search?q=Samuel+P%c3%a9rez) | N/A |
 
 
 
