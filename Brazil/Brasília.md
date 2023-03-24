@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-24 16:17:49 UTC`
+📆 Last Updated: `2023-03-24 17:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 3 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 5 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 6 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 7 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 8 | [justine](http://twitter.com/search?q=justine) | N/A |
-| 9 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 10 | [ASSISTA ESCAPE NO YOUTUBE](http://twitter.com/search?q=ASSISTA+ESCAPE+NO+YOUTUBE) | N/A |
-| 11 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 12 | [TOVE LO NO LOLLA BR COM BUD](http://twitter.com/search?q=TOVE+LO+NO+LOLLA+BR+COM+BUD) | N/A |
-| 13 | [RACISMO REVERSO NÃO EXISTE](http://twitter.com/search?q=RACISMO+REVERSO+N%c3%83O+EXISTE) | N/A |
-| 14 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 15 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 16 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 17 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 18 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 19 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 20 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 21 | [Arena Barueri](http://twitter.com/search?q=Arena+Barueri) | N/A |
-| 22 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 23 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
-| 24 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
-| 25 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
-| 26 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 28 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 29 | [HAPPY MASHIHO DAY](http://twitter.com/search?q=HAPPY+MASHIHO+DAY) | N/A |
-| 30 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
-| 31 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 32 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 33 | [Rejeição](http://twitter.com/search?q=Rejei%c3%a7%c3%a3o) | N/A |
-| 34 | [essa larissa](http://twitter.com/search?q=essa+larissa) | N/A |
-| 35 | [batedor](http://twitter.com/search?q=batedor) | N/A |
-| 36 | [Cry Baby](http://twitter.com/search?q=Cry+Baby) | N/A |
-| 37 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 38 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
-| 39 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
-| 40 | [Libero](http://twitter.com/search?q=Libero) | N/A |
-| 41 | [Raí Ramos](http://twitter.com/search?q=Ra%c3%ad+Ramos) | N/A |
-| 42 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
-| 43 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 44 | [Identificação](http://twitter.com/search?q=Identifica%c3%a7%c3%a3o) | N/A |
-| 45 | [ELIMINADA](http://twitter.com/search?q=ELIMINADA) | N/A |
-| 46 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 47 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 48 | [Truce](http://twitter.com/search?q=Truce) | N/A |
-| 49 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
-| 50 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 3 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 4 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 5 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 6 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 8 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 9 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 10 | [TOVE LO NO LOLLA BR COM BUD](http://twitter.com/search?q=TOVE+LO+NO+LOLLA+BR+COM+BUD) | N/A |
+| 11 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 12 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 13 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 14 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 15 | [ASSISTA ESCAPE NO YOUTUBE](http://twitter.com/search?q=ASSISTA+ESCAPE+NO+YOUTUBE) | N/A |
+| 16 | [hadid](http://twitter.com/search?q=hadid) | N/A |
+| 17 | [RACISMO REVERSO NÃO EXISTE](http://twitter.com/search?q=RACISMO+REVERSO+N%c3%83O+EXISTE) | N/A |
+| 18 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 19 | [Balmain](http://twitter.com/search?q=Balmain) | N/A |
+| 20 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 21 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 22 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
+| 23 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 24 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 25 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 26 | [Olivier](http://twitter.com/search?q=Olivier) | N/A |
+| 27 | [Dilmãe](http://twitter.com/search?q=Dilm%c3%a3e) | N/A |
+| 28 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 29 | [Arena Barueri](http://twitter.com/search?q=Arena+Barueri) | N/A |
+| 30 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 31 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 32 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
+| 33 | [HAPPY MASHIHO DAY](http://twitter.com/search?q=HAPPY+MASHIHO+DAY) | N/A |
+| 34 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 35 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
+| 36 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 37 | [Crybaby](http://twitter.com/search?q=Crybaby) | N/A |
+| 38 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 39 | [Rejeição](http://twitter.com/search?q=Rejei%c3%a7%c3%a3o) | N/A |
+| 40 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 41 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
+| 42 | [Identificação](http://twitter.com/search?q=Identifica%c3%a7%c3%a3o) | N/A |
+| 43 | [Didico](http://twitter.com/search?q=Didico) | N/A |
+| 44 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 45 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 46 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 47 | [batedor](http://twitter.com/search?q=batedor) | N/A |
+| 48 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 49 | [Rio Branco](http://twitter.com/search?q=Rio+Branco) | N/A |
+| 50 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-24 16:18:19 UTC`
+📆 Last Updated: `2023-03-24 17:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
-| 2 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 3 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 4 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
-| 5 | [#BHStyleIcons](http://twitter.com/search?q=%23BHStyleIcons) | N/A |
-| 6 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 7 | [Goyal Aluminiums](http://twitter.com/search?q=Goyal+Aluminiums) | N/A |
-| 8 | [GET WELL SOON AKKI](http://twitter.com/search?q=GET+WELL+SOON+AKKI) | N/A |
-| 9 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [ONE MONTH TO VARUN'S BDAY](http://twitter.com/search?q=ONE+MONTH+TO+VARUN%27S+BDAY) | N/A |
-| 12 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 13 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 14 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 15 | [Rate PW Star1](http://twitter.com/search?q=Rate+PW+Star1) | N/A |
-| 16 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
-| 17 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 18 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 19 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 20 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 21 | [पाक पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
-| 22 | [CHEMICAL REACTIONS BY BELLA](http://twitter.com/search?q=CHEMICAL+REACTIONS+BY+BELLA) | N/A |
-| 23 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 24 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 25 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
-| 26 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 27 | [Quran Sharif](http://twitter.com/search?q=Quran+Sharif) | N/A |
-| 28 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 29 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 30 | [Prophet Muhammad's God](http://twitter.com/search?q=Prophet+Muhammad%27s+God) | N/A |
-| 31 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 32 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 33 | [Ecclestone](http://twitter.com/search?q=Ecclestone) | N/A |
-| 34 | [REALITY SHOW STAR ANKIT](http://twitter.com/search?q=REALITY+SHOW+STAR+ANKIT) | N/A |
-| 35 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 36 | [पूर्ण ज्ञान](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
+| 1 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 2 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 3 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 4 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 5 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
+| 6 | [#MIvUPW](http://twitter.com/search?q=%23MIvUPW) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
+| 9 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 10 | [Shelley N](http://twitter.com/search?q=Shelley+N) | N/A |
+| 11 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 12 | [Goyal Aluminiums](http://twitter.com/search?q=Goyal+Aluminiums) | N/A |
+| 13 | [Kiran Navgire](http://twitter.com/search?q=Kiran+Navgire) | N/A |
+| 14 | [Sushant Big Loss 2Society](http://twitter.com/search?q=Sushant+Big+Loss+2Society) | N/A |
+| 15 | [GET WELL SOON AKKI](http://twitter.com/search?q=GET+WELL+SOON+AKKI) | N/A |
+| 16 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 17 | [अल्लाह कबीर](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 18 | [ONE MONTH TO VARUN'S BDAY](http://twitter.com/search?q=ONE+MONTH+TO+VARUN%27S+BDAY) | N/A |
+| 19 | [Rate PW Star1](http://twitter.com/search?q=Rate+PW+Star1) | N/A |
+| 20 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 21 | [Hat-trick](http://twitter.com/search?q=Hat-trick) | A hat-trick is a term used in sports, particularly association football and cricket, to describe when a player achieves three successes in a single game or match. It can refer to goals scored by one player, wickets taken by a bowler, or other achievements. The term originates from cricket, where it was traditionally awarded for a bowler taking three wickets with consecutive deliveries. |
+| 22 | [Healy](http://twitter.com/search?q=Healy) | N/A |
+| 23 | [पाक पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
+| 24 | [MPTR HITS 1M](http://twitter.com/search?q=MPTR+HITS+1M) | N/A |
+| 25 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 26 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 27 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
+| 28 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 29 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 30 | [UP Warriorz](http://twitter.com/search?q=UP+Warriorz) | N/A |
+| 31 | [CHEMICAL REACTIONS BY BELLA](http://twitter.com/search?q=CHEMICAL+REACTIONS+BY+BELLA) | N/A |
+| 32 | [नबी मुहम्मद](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 33 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 34 | [ज्ञान दाता अल्लाह](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 35 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 36 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
 | 37 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 38 | [HARSHALI RULING ITV](http://twitter.com/search?q=HARSHALI+RULING+ITV) | N/A |
-| 39 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
-| 40 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
-| 41 | [Satlok Ashram Youtube Channel](http://twitter.com/search?q=Satlok+Ashram+Youtube+Channel) | N/A |
-| 42 | [कश्मीरी पंडित](http://twitter.com/search?q=%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a5%80+%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4) | N/A |
-| 43 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 44 | [कांग्रेस पार्टी](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 45 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
-| 46 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 47 | [काल ब्रह्म](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%b9%e0%a5%8d%e0%a4%ae) | N/A |
-| 48 | [FOREVER WITH TEJRAN](http://twitter.com/search?q=FOREVER+WITH+TEJRAN) | N/A |
-| 49 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 38 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
+| 39 | [Sophie Ecclestone](http://twitter.com/search?q=Sophie+Ecclestone) | N/A |
+| 40 | [Quran Sharif](http://twitter.com/search?q=Quran+Sharif) | N/A |
+| 41 | [भारतीय लोकतंत्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 42 | [kerr](http://twitter.com/search?q=kerr) | N/A |
+| 43 | [REALITY SHOW STAR ANKIT](http://twitter.com/search?q=REALITY+SHOW+STAR+ANKIT) | N/A |
+| 44 | [Priyanka Gandhi](http://twitter.com/search?q=Priyanka+Gandhi) | N/A |
+| 45 | [Prophet Muhammad's God](http://twitter.com/search?q=Prophet+Muhammad%27s+God) | N/A |
+| 46 | [पूर्ण ज्ञान](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
+| 47 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 48 | [Chand](http://twitter.com/search?q=Chand) | N/A |
+| 49 | [पूर्ण प्रभु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81) | N/A |
 
 
 

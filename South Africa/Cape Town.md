@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-24 16:18:14 UTC`
+📆 Last Updated: `2023-03-24 17:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 2 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
-| 3 | [#HDJ2023](http://twitter.com/search?q=%23HDJ2023) | N/A |
-| 4 | [#PhandaPushaPlay](http://twitter.com/search?q=%23PhandaPushaPlay) | N/A |
-| 5 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 6 | [#SETERemix](http://twitter.com/search?q=%23SETERemix) | N/A |
-| 7 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 10 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
-| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 12 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 14 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 16 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
-| 19 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [Morgan Mammila](http://twitter.com/search?q=Morgan+Mammila) | N/A |
-| 22 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 23 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 24 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
-| 25 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
-| 26 | [swallows fc](http://twitter.com/search?q=swallows+fc) | N/A |
-| 27 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
-| 28 | [Orlando Stadium](http://twitter.com/search?q=Orlando+Stadium) | N/A |
-| 29 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 31 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 32 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 36 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 37 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 38 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 39 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 40 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 42 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 43 | [JUICY JAY IN NAIJA](http://twitter.com/search?q=JUICY+JAY+IN+NAIJA) | N/A |
-| 44 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 45 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 46 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 47 | [Congratulations George](http://twitter.com/search?q=Congratulations+George) | N/A |
-| 48 | [Mrs Kgomo](http://twitter.com/search?q=Mrs+Kgomo) | N/A |
-| 49 | [Lori Harvey](http://twitter.com/search?q=Lori+Harvey) | Lori Harvey is the name of an American model and media personality. She is the stepdaughter of comedian and television host Steve Harvey, and the daughter of Marjorie Harvey. |
-| 50 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 1 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 2 | [#absasmallbizfriday](http://twitter.com/search?q=%23absasmallbizfriday) | N/A |
+| 3 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 4 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
+| 5 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
+| 6 | [#HDJ2023](http://twitter.com/search?q=%23HDJ2023) | N/A |
+| 7 | [#PhandaPushaPlay](http://twitter.com/search?q=%23PhandaPushaPlay) | N/A |
+| 8 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 9 | [#SETERemix](http://twitter.com/search?q=%23SETERemix) | N/A |
+| 10 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 13 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
+| 14 | [Luke Le Roux](http://twitter.com/search?q=Luke+Le+Roux) | N/A |
+| 15 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
+| 16 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 18 | [Themba Zwane](http://twitter.com/search?q=Themba+Zwane) | N/A |
+| 19 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 20 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 21 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 22 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 25 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 27 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 28 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
+| 29 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
+| 30 | [Orlando Stadium](http://twitter.com/search?q=Orlando+Stadium) | N/A |
+| 31 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
+| 32 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 33 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 34 | [Trusted the Lord](http://twitter.com/search?q=Trusted+the+Lord) | N/A |
+| 35 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 36 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
+| 37 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 38 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
+| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 40 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 41 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 44 | [Mrs Kgomo](http://twitter.com/search?q=Mrs+Kgomo) | N/A |
+| 45 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 46 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 47 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
+| 48 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
+| 49 | [Mr Langa](http://twitter.com/search?q=Mr+Langa) | N/A |
+| 50 | [Edgars](http://twitter.com/search?q=Edgars) | N/A |
 
 
 

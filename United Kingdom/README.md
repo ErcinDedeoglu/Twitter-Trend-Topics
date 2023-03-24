@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-24 16:18:42 UTC`
+📆 Last Updated: `2023-03-24 17:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 2 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
-| 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 4 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 5 | [#SingersAndGeographicalPlaces](http://twitter.com/search?q=%23SingersAndGeographicalPlaces) | N/A |
-| 6 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 9 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 10 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
-| 11 | [Happy Birthday Lord Sugar](http://twitter.com/search?q=Happy+Birthday+Lord+Sugar) | N/A |
-| 12 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 13 | [Year 5](http://twitter.com/search?q=Year+5) | N/A |
-| 14 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 15 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
+| 1 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 3 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
+| 4 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 5 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 6 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 7 | [#SingersAndGeographicalPlaces](http://twitter.com/search?q=%23SingersAndGeographicalPlaces) | N/A |
+| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 9 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 10 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 11 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 12 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
+| 13 | [Chough](http://twitter.com/search?q=Chough) | N/A |
+| 14 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 15 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
 | 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 17 | [Jake Humphrey](http://twitter.com/search?q=Jake+Humphrey) | N/A |
-| 18 | [Patrick Schick](http://twitter.com/search?q=Patrick+Schick) | N/A |
-| 19 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
-| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 21 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
-| 22 | [Bunny Shaw](http://twitter.com/search?q=Bunny+Shaw) | N/A |
-| 23 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 24 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
-| 25 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
-| 26 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 27 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 28 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 30 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 31 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 33 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 17 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
+| 18 | [Happy Birthday Lord Sugar](http://twitter.com/search?q=Happy+Birthday+Lord+Sugar) | N/A |
+| 19 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
+| 20 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 21 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
+| 24 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 25 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 26 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 27 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 28 | [bunny shaw](http://twitter.com/search?q=bunny+shaw) | N/A |
+| 29 | [Patrick Schick](http://twitter.com/search?q=Patrick+Schick) | N/A |
+| 30 | [Thomas Tuchel](http://twitter.com/search?q=Thomas+Tuchel) | N/A |
+| 31 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 32 | [BBC Singers](http://twitter.com/search?q=BBC+Singers) | N/A |
+| 33 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
 | 34 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 35 | [Jake Humphrey](http://twitter.com/search?q=Jake+Humphrey) | N/A |
+| 36 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
 | 37 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 38 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 39 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 40 | [On Wednesday](http://twitter.com/search?q=On+Wednesday) | N/A |
-| 41 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
-| 42 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 44 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 45 | [Danny Brown](http://twitter.com/search?q=Danny+Brown) | N/A |
-| 46 | [Talk TV](http://twitter.com/search?q=Talk+TV) | N/A |
-| 47 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 48 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
-| 49 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 50 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 39 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 40 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 41 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
+| 42 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 43 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 44 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 45 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 46 | [Mad Nads](http://twitter.com/search?q=Mad+Nads) | N/A |
+| 47 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 48 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 50 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
 
 
 

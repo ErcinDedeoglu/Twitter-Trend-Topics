@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hiroshima
 
-📆 Last Updated: `2023-03-24 16:18:04 UTC`
+📆 Last Updated: `2023-03-24 17:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Japan](</Japan>)
 | 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 4 | [#タモリ倶楽部](http://twitter.com/search?q=%23%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
 | 5 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 6 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
-| 7 | [まっしー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
+| 6 | [まっしー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
+| 7 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
 | 8 | [タイプワイルド](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%97%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | タイプワイルド is a Japanese manga series written and illustrated by Toshihiro Ono. It follows the story of a group of teenagers who are chosen to become the new guardians of the world, using their special powers to protect it from evil forces. The title translates to "Type Wild" in English, referring to the characters' wild and unpredictable nature. |
-| 9 | [男闘呼組](http://twitter.com/search?q=%e7%94%b7%e9%97%98%e5%91%bc%e7%b5%84) | N/A |
-| 10 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
+| 9 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
+| 10 | [男闘呼組](http://twitter.com/search?q=%e7%94%b7%e9%97%98%e5%91%bc%e7%b5%84) | N/A |
 | 11 | [デビュー5周年](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc5%e5%91%a8%e5%b9%b4) | N/A |
 | 12 | [スキズ5周年](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%82%ba5%e5%91%a8%e5%b9%b4) | N/A |
-| 13 | [ピカチュウ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 14 | [第428回](http://twitter.com/search?q=%e7%ac%ac428%e5%9b%9e) | N/A |
+| 13 | [第428回](http://twitter.com/search?q=%e7%ac%ac428%e5%9b%9e) | N/A |
+| 14 | [ピカチュウ](http://twitter.com/search?q=%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
 | 15 | [スターレイル](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%ac%e3%82%a4%e3%83%ab) | N/A |
-| 16 | [サッカー](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc) | N/A |
-| 17 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 18 | [ピーターラビット](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%83%a9%e3%83%93%e3%83%83%e3%83%88) | N/A |
-| 19 | [舘様誕生日](http://twitter.com/search?q=%e8%88%98%e6%a7%98%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 20 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
-| 21 | [アナスイ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b9%e3%82%a4) | N/A |
-| 22 | [ピジョット](http://twitter.com/search?q=%e3%83%94%e3%82%b8%e3%83%a7%e3%83%83%e3%83%88) | N/A |
+| 16 | [舘様誕生日](http://twitter.com/search?q=%e8%88%98%e6%a7%98%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 17 | [ネッシー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%82%b7%e3%83%bc) | N/A |
+| 18 | [グリッドマンユニバース](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3%e3%83%a6%e3%83%8b%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 19 | [舘様30歳](http://twitter.com/search?q=%e8%88%98%e6%a7%9830%e6%ad%b3) | N/A |
+| 20 | [アナスイ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b9%e3%82%a4) | N/A |
+| 21 | [イベコレ缶バッジ](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%82%b3%e3%83%ac%e7%bc%b6%e3%83%90%e3%83%83%e3%82%b8) | N/A |
+| 22 | [バースデー動画](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc%e5%8b%95%e7%94%bb) | N/A |
 | 23 | [夢ノ咲卒業ライブ](http://twitter.com/search?q=%e5%a4%a2%e3%83%8e%e5%92%b2%e5%8d%92%e6%a5%ad%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 24 | [舘様30歳](http://twitter.com/search?q=%e8%88%98%e6%a7%9830%e6%ad%b3) | N/A |
-| 25 | [イベコレ缶バッジ](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%82%b3%e3%83%ac%e7%bc%b6%e3%83%90%e3%83%83%e3%82%b8) | N/A |
-| 26 | [かおちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | かおちゃん is a term of endearment used in Japan to refer to an older woman, usually one who is close to the speaker. It can be translated as "Auntie" or "Granny". |
+| 24 | [ピーターラビット](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%83%a9%e3%83%93%e3%83%83%e3%83%88) | N/A |
+| 25 | [サトシ引退](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e5%bc%95%e9%80%80) | N/A |
+| 26 | [メイド・イン・ヘブン](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%89%e3%83%bb%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%98%e3%83%96%e3%83%b3) | N/A |
 | 27 | [ゲルテナ展](http://twitter.com/search?q=%e3%82%b2%e3%83%ab%e3%83%86%e3%83%8a%e5%b1%95) | N/A |
-| 28 | [メイド・イン・ヘブン](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%89%e3%83%bb%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%98%e3%83%96%e3%83%b3) | N/A |
-| 29 | [バースデー動画](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc%e5%8b%95%e7%94%bb) | N/A |
-| 30 | [ロケット団](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | ロケット団 (Rocket-dan) is a Japanese comedy duo consisting of comedians Hitoshi Matsumoto and Masatoshi Hamada. The duo has been active since 1983 and is known for their absurdist and surreal humor. In English, the name translates to "The Rocket Team". |
-| 31 | [伊東純也](http://twitter.com/search?q=%e4%bc%8a%e6%9d%b1%e7%b4%94%e4%b9%9f) | N/A |
-| 32 | [サトシ引退](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e5%bc%95%e9%80%80) | N/A |
-| 33 | [バルベルデ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%99%e3%83%ab%e3%83%87) | N/A |
-| 34 | [サラダ・ヴァイキング](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e3%83%bb%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 35 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
-| 36 | [パン茶宿直](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e8%8c%b6%e5%ae%bf%e7%9b%b4) | N/A |
-| 37 | [直央くん](http://twitter.com/search?q=%e7%9b%b4%e5%a4%ae%e3%81%8f%e3%82%93) | N/A |
-| 38 | [宮舘くん](http://twitter.com/search?q=%e5%ae%ae%e8%88%98%e3%81%8f%e3%82%93) | N/A |
-| 39 | [ウルグアイ](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%82%b0%e3%82%a2%e3%82%a4) | N/A |
-| 40 | [アカシア](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%b7%e3%82%a2) | N/A |
-| 41 | [テニフェス](http://twitter.com/search?q=%e3%83%86%e3%83%8b%e3%83%95%e3%82%a7%e3%82%b9) | テニフェス (TeniFesu) is a Japanese portmanteau of the words "tennis" and "festival". It is an annual event held in Japan that celebrates the sport of tennis. The event includes activities such as tennis tournaments, exhibitions, and clinics. |
-| 42 | [遅延パーク](http://twitter.com/search?q=%e9%81%85%e5%bb%b6%e3%83%91%e3%83%bc%e3%82%af) | N/A |
-| 43 | [サトシの旅](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e3%81%ae%e6%97%85) | N/A |
-| 44 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 45 | [shojiさん](http://twitter.com/search?q=shoji%e3%81%95%e3%82%93) | N/A |
-| 46 | [セトリ落ち](http://twitter.com/search?q=%e3%82%bb%e3%83%88%e3%83%aa%e8%90%bd%e3%81%a1) | N/A |
-| 47 | [冒険の記憶](http://twitter.com/search?q=%e5%86%92%e9%99%ba%e3%81%ae%e8%a8%98%e6%86%b6) | N/A |
-| 48 | [セクシーロイヤル](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab) | N/A |
+| 28 | [ピジョット](http://twitter.com/search?q=%e3%83%94%e3%82%b8%e3%83%a7%e3%83%83%e3%83%88) | N/A |
+| 29 | [サラダ・ヴァイキング](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e3%83%bb%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 30 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
+| 31 | [レンと次元](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%a8%e6%ac%a1%e5%85%83) | N/A |
+| 32 | [ロケット団](http://twitter.com/search?q=%e3%83%ad%e3%82%b1%e3%83%83%e3%83%88%e5%9b%a3) | ロケット団 (Rocket-dan) is a Japanese comedy duo consisting of comedians Hitoshi Matsumoto and Masatoshi Hamada. The duo has been active since 1983 and is known for their absurdist and surreal humor. In English, the name translates to "The Rocket Team". |
+| 33 | [遅延パーク](http://twitter.com/search?q=%e9%81%85%e5%bb%b6%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 34 | [フェンファン](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 35 | [アカシア](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%82%b7%e3%82%a2) | N/A |
+| 36 | [かおちゃん](http://twitter.com/search?q=%e3%81%8b%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | かおちゃん is a term of endearment used in Japan to refer to an older woman, usually one who is close to the speaker. It can be translated as "Auntie" or "Granny". |
+| 37 | [宮舘くん](http://twitter.com/search?q=%e5%ae%ae%e8%88%98%e3%81%8f%e3%82%93) | N/A |
+| 38 | [パン茶宿直](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e8%8c%b6%e5%ae%bf%e7%9b%b4) | N/A |
+| 39 | [アバッキオ](http://twitter.com/search?q=%e3%82%a2%e3%83%90%e3%83%83%e3%82%ad%e3%82%aa) | N/A |
+| 40 | [直央くん](http://twitter.com/search?q=%e7%9b%b4%e5%a4%ae%e3%81%8f%e3%82%93) | N/A |
+| 41 | [着せ恋11巻](http://twitter.com/search?q=%e7%9d%80%e3%81%9b%e6%81%8b11%e5%b7%bb) | N/A |
+| 42 | [宣誓廃止](http://twitter.com/search?q=%e5%ae%a3%e8%aa%93%e5%bb%83%e6%ad%a2) | N/A |
+| 43 | [shojiさん](http://twitter.com/search?q=shoji%e3%81%95%e3%82%93) | N/A |
+| 44 | [セクシーロイヤル](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab) | N/A |
+| 45 | [テニフェス](http://twitter.com/search?q=%e3%83%86%e3%83%8b%e3%83%95%e3%82%a7%e3%82%b9) | テニフェス (TeniFesu) is a Japanese portmanteau of the words "tennis" and "festival". It is an annual event held in Japan that celebrates the sport of tennis. The event includes activities such as tennis tournaments, exhibitions, and clinics. |
+| 46 | [伊東純也](http://twitter.com/search?q=%e4%bc%8a%e6%9d%b1%e7%b4%94%e4%b9%9f) | N/A |
+| 47 | [決勝トーナメント進出](http://twitter.com/search?q=%e6%b1%ba%e5%8b%9d%e3%83%88%e3%83%bc%e3%83%8a%e3%83%a1%e3%83%b3%e3%83%88%e9%80%b2%e5%87%ba) | N/A |
+| 48 | [バルベルデ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%83%99%e3%83%ab%e3%83%87) | N/A |
 
 
 

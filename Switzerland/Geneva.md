@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-24 16:18:00 UTC`
+📆 Last Updated: `2023-03-24 17:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DeutscheBank](http://twitter.com/search?q=%23DeutscheBank) | N/A |
-| 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 3 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 3 | [#EndTB](http://twitter.com/search?q=%23EndTB) | N/A |
 | 4 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 5 | [#EndTB](http://twitter.com/search?q=%23EndTB) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
 | 7 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 9 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 12 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 13 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 14 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 15 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 16 | [Valérie Dittli](http://twitter.com/search?q=Val%c3%a9rie+Dittli) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 19 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 15 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
+| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 17 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 18 | [Valérie Dittli](http://twitter.com/search?q=Val%c3%a9rie+Dittli) | N/A |
+| 19 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 20 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 21 | [Amin](http://twitter.com/search?q=Amin) | N/A |
 | 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 23 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 24 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 25 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 26 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 29 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 30 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 31 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 32 | [kontext](http://twitter.com/search?q=kontext) | N/A |
+| 23 | [Welle](http://twitter.com/search?q=Welle) | N/A |
+| 24 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 25 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 26 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 27 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 28 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 29 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 30 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 31 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 32 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 33 | [Versailles](http://twitter.com/search?q=Versailles) | N/A |
-| 34 | [Welle](http://twitter.com/search?q=Welle) | N/A |
+| 34 | [Russes](http://twitter.com/search?q=Russes) | N/A |
 | 35 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
-| 36 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 37 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 38 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 39 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 40 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
-| 41 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 44 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 45 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 46 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
-| 47 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 48 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 49 | [Historiker](http://twitter.com/search?q=Historiker) | N/A |
+| 36 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 37 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 38 | [Eigenverantwortung](http://twitter.com/search?q=Eigenverantwortung) | N/A |
+| 39 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 41 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 42 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 43 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
+| 44 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
+| 45 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 46 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 47 | [Historiker](http://twitter.com/search?q=Historiker) | N/A |
+| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 49 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 
 
 
