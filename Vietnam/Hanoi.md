@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-25 17:19:42 UTC`
+📆 Last Updated: `2023-03-25 18:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,34 +30,39 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 15 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 16 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 17 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
 | 18 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 20 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 21 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
-| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 23 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 24 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 25 | [đồng nai](http://twitter.com/search?q=%c4%91%e1%bb%93ng+nai) | N/A |
-| 26 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 27 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
-| 28 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 29 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 30 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 31 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 32 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 33 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 34 | [England](http://twitter.com/search?q=England) | N/A |
-| 35 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 36 | [Vâng](http://twitter.com/search?q=V%c3%a2ng) | N/A |
-| 37 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 38 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 39 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 40 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 41 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 42 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
-| 43 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 19 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 20 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 21 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 23 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
+| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 25 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 26 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 27 | [England](http://twitter.com/search?q=England) | N/A |
+| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 29 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
+| 30 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 31 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 32 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 33 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 34 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 35 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 36 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 37 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 38 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 39 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
+| 40 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 41 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 42 | [Vâng](http://twitter.com/search?q=V%c3%a2ng) | N/A |
+| 43 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 44 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 45 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 47 | [Nứng](http://twitter.com/search?q=N%e1%bb%a9ng) | N/A |
+| 48 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
 
 
 

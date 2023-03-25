@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-25 17:19:19 UTC`
+📆 Last Updated: `2023-03-25 18:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,47 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 2 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 3 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 4 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 5 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 6 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 7 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 8 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
-| 9 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
+| 1 | [Rebeca Jones](http://twitter.com/search?q=Rebeca+Jones) | N/A |
+| 2 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 3 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 4 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 5 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 6 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 7 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
+| 8 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
+| 9 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
 | 10 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
-| 11 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
-| 12 | [López Tarso](http://twitter.com/search?q=L%c3%b3pez+Tarso) | N/A |
-| 13 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 14 | [#ÚLTIMAHORA](http://twitter.com/search?q=%23%c3%9aLTIMAHORA) | N/A |
-| 15 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 16 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 17 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
-| 18 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
-| 19 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
+| 11 | [López Tarso](http://twitter.com/search?q=L%c3%b3pez+Tarso) | N/A |
+| 12 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
+| 13 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 14 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
+| 15 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 16 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 17 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 18 | [#ÚLTIMAHORA](http://twitter.com/search?q=%23%c3%9aLTIMAHORA) | N/A |
+| 19 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
 | 20 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 21 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 22 | [Ay Drake](http://twitter.com/search?q=Ay+Drake) | N/A |
-| 23 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
-| 24 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 25 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
-| 26 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 27 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 28 | [Otro López](http://twitter.com/search?q=Otro+L%c3%b3pez) | N/A |
-| 29 | [Salganse de Twitter](http://twitter.com/search?q=Salganse+de+Twitter) | N/A |
-| 30 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 31 | [Apocalipsis](http://twitter.com/search?q=Apocalipsis) | N/A |
-| 32 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 33 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 34 | [#amigodetodoslosniños](http://twitter.com/search?q=%23amigodetodoslosni%c3%b1os) | N/A |
-| 35 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
-| 36 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 37 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 38 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
-| 39 | [#Únete](http://twitter.com/search?q=%23%c3%9anete) | N/A |
+| 21 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 22 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 23 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
+| 24 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
+| 25 | [Elsa Aguirre](http://twitter.com/search?q=Elsa+Aguirre) | N/A |
+| 26 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
+| 27 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
+| 28 | [Ay Drake](http://twitter.com/search?q=Ay+Drake) | N/A |
+| 29 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 30 | [Duvalin](http://twitter.com/search?q=Duvalin) | N/A |
+| 31 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 32 | [Inmortal](http://twitter.com/search?q=Inmortal) | N/A |
+| 33 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 34 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 35 | [Salganse de Twitter](http://twitter.com/search?q=Salganse+de+Twitter) | N/A |
+| 36 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
+| 37 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
+| 38 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 39 | [#amigodetodoslosniños](http://twitter.com/search?q=%23amigodetodoslosni%c3%b1os) | N/A |
+| 40 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 41 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
 
 
 

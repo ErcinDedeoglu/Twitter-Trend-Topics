@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-25 17:19:28 UTC`
+📆 Last Updated: `2023-03-25 18:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [France](</France>)
 | 3 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 4 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
 | 5 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
-| 6 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 6 | [Areola](http://twitter.com/search?q=Areola) | N/A |
 | 7 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
-| 8 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 9 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
-| 10 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
-| 11 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 12 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
+| 8 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 9 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
+| 10 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 11 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 12 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 13 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 14 | [Castres](http://twitter.com/search?q=Castres) | N/A |
-| 15 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 16 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 17 | [EELV](http://twitter.com/search?q=EELV) | N/A |
-| 18 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
-| 19 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 20 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 21 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
-| 22 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 23 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
-| 24 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 25 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
-| 26 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
-| 27 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 28 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 29 | [Chouette](http://twitter.com/search?q=Chouette) | N/A |
-| 30 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
-| 31 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 32 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 33 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 34 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
-| 35 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 36 | [#ASMCAB](http://twitter.com/search?q=%23ASMCAB) | N/A |
+| 14 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
+| 15 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 16 | [Arménie](http://twitter.com/search?q=Arm%c3%a9nie) | N/A |
+| 17 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 18 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 19 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 20 | [Castres](http://twitter.com/search?q=Castres) | N/A |
+| 21 | [Brive](http://twitter.com/search?q=Brive) | N/A |
+| 22 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 23 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
+| 24 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
+| 25 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
+| 26 | [Landes](http://twitter.com/search?q=Landes) | N/A |
+| 27 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 28 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
+| 29 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
+| 30 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 31 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
+| 32 | [Chouette](http://twitter.com/search?q=Chouette) | N/A |
+| 33 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 34 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 35 | [#ASMCAB](http://twitter.com/search?q=%23ASMCAB) | N/A |
+| 36 | [#ABSP](http://twitter.com/search?q=%23ABSP) | N/A |
 | 37 | [#LOURCT](http://twitter.com/search?q=%23LOURCT) | N/A |
-| 38 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
+| 38 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
 | 39 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 40 | [#ABSP](http://twitter.com/search?q=%23ABSP) | N/A |
-| 41 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 42 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
-| 43 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
-| 44 | [#EMCRD23](http://twitter.com/search?q=%23EMCRD23) | N/A |
-| 45 | [#PortugeseGP](http://twitter.com/search?q=%23PortugeseGP) | N/A |
+| 40 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 41 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
+| 42 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 43 | [#DeuxSevres](http://twitter.com/search?q=%23DeuxSevres) | N/A |
+| 44 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
+| 45 | [#gendarmes](http://twitter.com/search?q=%23gendarmes) | N/A |
 | 46 | [#CongresHorizons](http://twitter.com/search?q=%23CongresHorizons) | N/A |
-| 47 | [#OLEAG](http://twitter.com/search?q=%23OLEAG) | N/A |
+| 47 | [#EMCRD23](http://twitter.com/search?q=%23EMCRD23) | N/A |
 
 
 

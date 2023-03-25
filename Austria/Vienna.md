@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-25 17:19:26 UTC`
+📆 Last Updated: `2023-03-25 18:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [Babler](http://twitter.com/search?q=Babler) | N/A |
 | 2 | [#AUTAZE](http://twitter.com/search?q=%23AUTAZE) | N/A |
-| 3 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 4 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 3 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 4 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 5 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
 | 6 | [grosz](http://twitter.com/search?q=grosz) | N/A |
 | 7 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 8 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 9 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 11 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
-| 12 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 13 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 14 | [Robert Menasse](http://twitter.com/search?q=Robert+Menasse) | N/A |
+| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 9 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 10 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
+| 11 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 12 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 13 | [Robert Menasse](http://twitter.com/search?q=Robert+Menasse) | N/A |
+| 14 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
 | 15 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 16 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 18 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 19 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 20 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
-| 21 | [Sellner](http://twitter.com/search?q=Sellner) | N/A |
-| 22 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 23 | [Lobbyisten](http://twitter.com/search?q=Lobbyisten) | N/A |
-| 24 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 25 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 16 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 17 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 18 | [Bewerbungen](http://twitter.com/search?q=Bewerbungen) | N/A |
+| 19 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 20 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
+| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 23 | [Sellner](http://twitter.com/search?q=Sellner) | N/A |
+| 24 | [Lobbyisten](http://twitter.com/search?q=Lobbyisten) | N/A |
+| 25 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
 | 26 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 | 27 | [rosemarie](http://twitter.com/search?q=rosemarie) | N/A |
-| 28 | [Berater](http://twitter.com/search?q=Berater) | N/A |
-| 29 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 30 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 31 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
-| 32 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 33 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 34 | [Meinst](http://twitter.com/search?q=Meinst) | N/A |
-| 35 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 36 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 37 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 38 | [Nachfolger](http://twitter.com/search?q=Nachfolger) | N/A |
-| 39 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 40 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 41 | [Farce](http://twitter.com/search?q=Farce) | N/A |
-| 42 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
-| 43 | [Rendi-Wagner](http://twitter.com/search?q=Rendi-Wagner) | N/A |
-| 44 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
-| 45 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 46 | [Magen](http://twitter.com/search?q=Magen) | N/A |
-| 47 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
-| 48 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
-| 49 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 50 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 29 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 30 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 31 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 32 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
+| 33 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
+| 34 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
+| 35 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
+| 36 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
+| 37 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 38 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 39 | [Nachfolger](http://twitter.com/search?q=Nachfolger) | N/A |
+| 40 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 41 | [Meinst](http://twitter.com/search?q=Meinst) | N/A |
+| 42 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
+| 43 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
+| 44 | [Rendi-Wagner](http://twitter.com/search?q=Rendi-Wagner) | N/A |
+| 45 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 46 | [Gehalt](http://twitter.com/search?q=Gehalt) | N/A |
+| 47 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 48 | [Magen](http://twitter.com/search?q=Magen) | N/A |
+| 49 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 50 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
 
 
 

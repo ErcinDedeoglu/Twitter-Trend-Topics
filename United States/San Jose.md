@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-25 17:20:01 UTC`
+📆 Last Updated: `2023-03-25 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
 | 2 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
-| 3 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 4 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 5 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 6 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 7 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 10 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 11 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 3 | [#SMH2023](http://twitter.com/search?q=%23SMH2023) | N/A |
+| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 5 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 6 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 7 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 8 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
 | 12 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
-| 13 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 14 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 17 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 18 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 19 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 20 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 22 | [Severino](http://twitter.com/search?q=Severino) | N/A |
-| 23 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
-| 24 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 25 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 26 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 27 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 28 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 29 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 30 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 31 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 32 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 33 | [Stolen Valor](http://twitter.com/search?q=Stolen+Valor) | N/A |
-| 34 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 35 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 37 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
-| 38 | [Tyler Reddick](http://twitter.com/search?q=Tyler+Reddick) | N/A |
-| 39 | [Otherside](http://twitter.com/search?q=Otherside) | N/A |
-| 40 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 41 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 42 | [2nd Trip](http://twitter.com/search?q=2nd+Trip) | N/A |
-| 43 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 44 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
-| 45 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
-| 46 | [Dubai World Cup](http://twitter.com/search?q=Dubai+World+Cup) | N/A |
-| 47 | [Pekka Rinne](http://twitter.com/search?q=Pekka+Rinne) | N/A |
-| 48 | [Taylor Hawkins](http://twitter.com/search?q=Taylor+Hawkins) | N/A |
-| 49 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 13 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 14 | [#RWBYSpoilers](http://twitter.com/search?q=%23RWBYSpoilers) | N/A |
+| 15 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 16 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 17 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 18 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 19 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
+| 20 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 21 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 22 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 23 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 25 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 26 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 27 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 28 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
+| 29 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
+| 30 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 31 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 32 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 33 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 34 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
+| 35 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 36 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 37 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
+| 38 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 39 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 40 | [Severino](http://twitter.com/search?q=Severino) | N/A |
+| 41 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 42 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 43 | [Pomu](http://twitter.com/search?q=Pomu) | N/A |
+| 44 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 45 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 46 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
+| 47 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
+| 48 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 49 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
 
 
 

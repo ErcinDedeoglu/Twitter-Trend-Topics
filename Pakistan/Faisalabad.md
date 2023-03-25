@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-03-25 17:19:49 UTC`
+📆 Last Updated: `2023-03-25 18:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#چلو_چلو_مینار_پاکستان_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d9%85%db%8c%d9%86%d8%a7%d8%b1_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%86%d9%84%d9%88) | N/A |
-| 2 | [#حقیقی_آزادی_جلسہ](http://twitter.com/search?q=%23%d8%ad%d9%82%db%8c%d9%82%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%ac%d9%84%d8%b3%db%81) | N/A |
-| 3 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
-| 4 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
-| 5 | [#بیگم_زدہ_جج](http://twitter.com/search?q=%23%d8%a8%db%8c%da%af%d9%85_%d8%b2%d8%af%db%81_%d8%ac%d8%ac) | N/A |
+| 2 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
+| 3 | [#حقیقی_آزادی_جلسہ](http://twitter.com/search?q=%23%d8%ad%d9%82%db%8c%d9%82%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%ac%d9%84%d8%b3%db%81) | N/A |
+| 4 | [#LahoreRejectsFitna](http://twitter.com/search?q=%23LahoreRejectsFitna) | N/A |
+| 5 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
 | 6 | [IHSANULLAH](http://twitter.com/search?q=IHSANULLAH) | N/A |
-| 7 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 8 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 9 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 7 | [Wahab Riaz](http://twitter.com/search?q=Wahab+Riaz) | Wahab Riaz is a Pakistani cricketer who plays for the Pakistan national cricket team. His name is derived from the Arabic word "wahab", which means "giver". The name Riaz is derived from the Persian word "riaz", which means "honor". |
+| 8 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 9 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
 | 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 12 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 13 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 14 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 15 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 16 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
-| 17 | [Babar and Rizwan](http://twitter.com/search?q=Babar+and+Rizwan) | N/A |
-| 18 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 19 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 11 | [Jummah Mubarak](http://twitter.com/search?q=Jummah+Mubarak) | N/A |
+| 12 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 15 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 16 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 17 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
+| 18 | [Babar and Rizwan](http://twitter.com/search?q=Babar+and+Rizwan) | N/A |
+| 19 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
 | 20 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 21 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 23 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 24 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 25 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
-| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 27 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 28 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 29 | [Beware](http://twitter.com/search?q=Beware) | N/A |
-| 30 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 31 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
-| 34 | [Itna](http://twitter.com/search?q=Itna) | N/A |
-| 35 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
-| 36 | [Indian Army](http://twitter.com/search?q=Indian+Army) | N/A |
-| 37 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 38 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 39 | [Nopes](http://twitter.com/search?q=Nopes) | N/A |
-| 40 | [Translation](http://twitter.com/search?q=Translation) | N/A |
-| 41 | [Tough](http://twitter.com/search?q=Tough) | N/A |
-| 42 | [Bravo](http://twitter.com/search?q=Bravo) | N/A |
-| 43 | [Kaptaan](http://twitter.com/search?q=Kaptaan) | N/A |
-| 44 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
-| 45 | [Beshaq](http://twitter.com/search?q=Beshaq) | N/A |
-| 46 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
-| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 48 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 49 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 50 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 21 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 22 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
+| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 24 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 25 | [sehri](http://twitter.com/search?q=sehri) | N/A |
+| 26 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 27 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
+| 28 | [M for Maryam](http://twitter.com/search?q=M+for+Maryam) | N/A |
+| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 30 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
+| 31 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 32 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 33 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 34 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 35 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 36 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 37 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
+| 38 | [Mjhe](http://twitter.com/search?q=Mjhe) | N/A |
+| 39 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |
+| 40 | [Itni](http://twitter.com/search?q=Itni) | N/A |
+| 41 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 42 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 43 | [Cats](http://twitter.com/search?q=Cats) | N/A |
+| 44 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
+| 45 | [Wese](http://twitter.com/search?q=Wese) | N/A |
+| 46 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
+| 47 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 48 | [Mention](http://twitter.com/search?q=Mention) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 50 | [Ahan](http://twitter.com/search?q=Ahan) | N/A |
 
 
 

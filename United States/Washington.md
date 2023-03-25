@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-03-25 17:20:01 UTC`
+📆 Last Updated: `2023-03-25 18:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 | 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 5 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 6 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 7 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 8 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
-| 9 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 10 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 11 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 6 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
+| 7 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 8 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 9 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 10 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 11 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
 | 12 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 13 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 14 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 15 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 16 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 17 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 18 | [Severino](http://twitter.com/search?q=Severino) | N/A |
-| 19 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
-| 20 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 21 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 22 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 23 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 24 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 25 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 26 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 27 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 28 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 29 | [Stolen Valor](http://twitter.com/search?q=Stolen+Valor) | N/A |
-| 30 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 31 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 32 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 33 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
-| 34 | [Tyler Reddick](http://twitter.com/search?q=Tyler+Reddick) | N/A |
-| 35 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 36 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 37 | [2nd Trip](http://twitter.com/search?q=2nd+Trip) | N/A |
-| 38 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 39 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
-| 40 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
-| 41 | [Dubai World Cup](http://twitter.com/search?q=Dubai+World+Cup) | N/A |
-| 42 | [Pekka Rinne](http://twitter.com/search?q=Pekka+Rinne) | N/A |
-| 43 | [Taylor Hawkins](http://twitter.com/search?q=Taylor+Hawkins) | N/A |
-| 44 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 45 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 46 | [RSBN](http://twitter.com/search?q=RSBN) | N/A |
-| 47 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 48 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
-| 49 | [Greek Independence Day](http://twitter.com/search?q=Greek+Independence+Day) | N/A |
-| 50 | [Duck Hunt](http://twitter.com/search?q=Duck+Hunt) | N/A |
+| 13 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 14 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
+| 15 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 16 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 17 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 18 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 20 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 21 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 22 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
+| 23 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 24 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
+| 25 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 26 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 27 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 28 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 29 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
+| 30 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 31 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
+| 32 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 33 | [Severino](http://twitter.com/search?q=Severino) | N/A |
+| 34 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 35 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 36 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 37 | [Pomu](http://twitter.com/search?q=Pomu) | N/A |
+| 38 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 39 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 40 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 41 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
+| 42 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
+| 43 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 44 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 45 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
+| 46 | [Stolen Valor](http://twitter.com/search?q=Stolen+Valor) | N/A |
+| 47 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 48 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
+| 49 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 50 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
 
 
 

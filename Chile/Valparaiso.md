@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-25 17:19:21 UTC`
+📆 Last Updated: `2023-03-25 18:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Chile](</Chile>)
 | 2 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
 | 3 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
 | 4 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 5 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 6 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 7 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
-| 8 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
-| 9 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 12 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 13 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 14 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
-| 15 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 16 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
-| 17 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
-| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 19 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
-| 20 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 21 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 22 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 23 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 24 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 25 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
-| 26 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 27 | [shakira tower](http://twitter.com/search?q=shakira+tower) | N/A |
-| 28 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
-| 29 | [Weona](http://twitter.com/search?q=Weona) | N/A |
-| 30 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 5 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 6 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 7 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 8 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
+| 9 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
+| 10 | [#REsguardarLaVida](http://twitter.com/search?q=%23REsguardarLaVida) | N/A |
+| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 12 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
+| 13 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 14 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 15 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 16 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
+| 17 | [Mark González](http://twitter.com/search?q=Mark+Gonz%c3%a1lez) | N/A |
+| 18 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
+| 19 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
+| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 21 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
+| 22 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
+| 23 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 24 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 25 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
+| 26 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 27 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 30 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 31 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 32 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
-| 33 | [10 Lucas](http://twitter.com/search?q=10+Lucas) | N/A |
-| 34 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 35 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
-| 36 | [Covarrubias](http://twitter.com/search?q=Covarrubias) | N/A |
-| 37 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 38 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 39 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
-| 40 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 41 | [Colmed](http://twitter.com/search?q=Colmed) | N/A |
-| 42 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
-| 43 | [Poduje](http://twitter.com/search?q=Poduje) | N/A |
-| 44 | [Lactantes](http://twitter.com/search?q=Lactantes) | N/A |
-| 45 | [Marcelo Ríos](http://twitter.com/search?q=Marcelo+R%c3%ados) | N/A |
-| 46 | [Paula Pavic](http://twitter.com/search?q=Paula+Pavic) | N/A |
-| 47 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
-| 48 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 32 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 33 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 34 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
+| 35 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
+| 36 | [Poduje](http://twitter.com/search?q=Poduje) | N/A |
+| 37 | [Colmed](http://twitter.com/search?q=Colmed) | N/A |
+| 38 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 39 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
+| 40 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
+| 41 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
+| 42 | [LACTANTES](http://twitter.com/search?q=LACTANTES) | N/A |
+| 43 | [Marcelo Ríos](http://twitter.com/search?q=Marcelo+R%c3%ados) | N/A |
+| 44 | [Paula Pavic](http://twitter.com/search?q=Paula+Pavic) | N/A |
+| 45 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 46 | [Covarrubias](http://twitter.com/search?q=Covarrubias) | N/A |
+| 47 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 48 | [Ringo](http://twitter.com/search?q=Ringo) | N/A |
 
 
 

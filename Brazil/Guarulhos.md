@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-25 17:19:25 UTC`
+📆 Last Updated: `2023-03-25 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 3 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 4 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 5 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
-| 6 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 7 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 8 | [DRIZZIES COM BUD NO LOLLA BR](http://twitter.com/search?q=DRIZZIES+COM+BUD+NO+LOLLA+BR) | N/A |
-| 9 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 10 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
-| 11 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 12 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 13 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
-| 14 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
-| 15 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 16 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
-| 17 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 18 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 2 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
+| 3 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 4 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 5 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 6 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 7 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 8 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 9 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 10 | [#LudmillaNoMultishow](http://twitter.com/search?q=%23LudmillaNoMultishow) | N/A |
+| 11 | [#PittyNoCanalBIS](http://twitter.com/search?q=%23PittyNoCanalBIS) | N/A |
+| 12 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 13 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
+| 14 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 15 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
+| 16 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 17 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 18 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
 | 19 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
-| 20 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 21 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 23 | [Gilsons](http://twitter.com/search?q=Gilsons) | N/A |
-| 24 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 25 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
-| 26 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
-| 27 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 28 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 29 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 30 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 31 | [Jogos Vorazes](http://twitter.com/search?q=Jogos+Vorazes) | N/A |
-| 32 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
-| 33 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
-| 34 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 35 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 36 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 37 | [Pássaros](http://twitter.com/search?q=P%c3%a1ssaros) | N/A |
-| 38 | [Lust for Life](http://twitter.com/search?q=Lust+for+Life) | N/A |
-| 39 | [Serpentes](http://twitter.com/search?q=Serpentes) | N/A |
-| 40 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 41 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
-| 42 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 43 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 44 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 45 | [Future Days](http://twitter.com/search?q=Future+Days) | N/A |
-| 46 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 47 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 48 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 49 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
-| 50 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 21 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
+| 22 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
+| 23 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
+| 24 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 25 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
+| 26 | [MELHORAS LULA](http://twitter.com/search?q=MELHORAS+LULA) | N/A |
+| 27 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 28 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
+| 29 | [Fórmula E](http://twitter.com/search?q=F%c3%b3rmula+E) | N/A |
+| 30 | [Swain](http://twitter.com/search?q=Swain) | N/A |
+| 31 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
+| 32 | [Lust For Life](http://twitter.com/search?q=Lust+For+Life) | N/A |
+| 33 | [Harley](http://twitter.com/search?q=Harley) | N/A |
+| 34 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 35 | [Dynkas](http://twitter.com/search?q=Dynkas) | N/A |
+| 36 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
+| 37 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 38 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 39 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 40 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
+| 41 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 42 | [Armênia x Turquia](http://twitter.com/search?q=Arm%c3%aania+x+Turquia) | N/A |
+| 43 | [Drip](http://twitter.com/search?q=Drip) | N/A |
+| 44 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
+| 45 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 46 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 47 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 48 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 49 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 50 | [Titi](http://twitter.com/search?q=Titi) | N/A |
 
 
 

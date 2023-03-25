@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-25 17:19:43 UTC`
+📆 Last Updated: `2023-03-25 18:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 2 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 3 | [#BritishCouncilArtShowcase](http://twitter.com/search?q=%23BritishCouncilArtShowcase) | N/A |
 | 4 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 5 | [#GoldenPennyPasta](http://twitter.com/search?q=%23GoldenPennyPasta) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [London](http://twitter.com/search?q=London) | N/A |
-| 8 | [#MunchItTaskDay](http://twitter.com/search?q=%23MunchItTaskDay) | N/A |
+| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 6 | [London](http://twitter.com/search?q=London) | N/A |
+| 7 | [#MunchItTaskDay](http://twitter.com/search?q=%23MunchItTaskDay) | N/A |
+| 8 | [#fcmb1k](http://twitter.com/search?q=%23fcmb1k) | N/A |
 | 9 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 10 | [#fcmb1k](http://twitter.com/search?q=%23fcmb1k) | N/A |
-| 11 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
-| 12 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 13 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 10 | [#BetNowOnMSport](http://twitter.com/search?q=%23BetNowOnMSport) | N/A |
+| 11 | [Kenneth Okonkwo](http://twitter.com/search?q=Kenneth+Okonkwo) | Kenneth Okonkwo is a Nigerian name, derived from the Igbo language. It is composed of two elements: Kenneth, which means “handsome” or “good-looking”, and Okonkwo, which means “brave” or “valiant”. Together, the name Kenneth Okonkwo can be translated to mean “handsome and brave”. |
+| 12 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 13 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
 | 14 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
-| 15 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 17 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 18 | [SPECIMEN](http://twitter.com/search?q=SPECIMEN) | N/A |
-| 19 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 20 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 21 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 22 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 23 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
-| 24 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 25 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 15 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 16 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 18 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 19 | [SPECIMEN](http://twitter.com/search?q=SPECIMEN) | N/A |
+| 20 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 21 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 22 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 23 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 24 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 25 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
 | 26 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 27 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
-| 28 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 27 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 28 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
 | 29 | [ajebo you go know](http://twitter.com/search?q=ajebo+you+go+know) | N/A |
-| 30 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
-| 33 | [Ndidi](http://twitter.com/search?q=Ndidi) | N/A |
-| 34 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 35 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 36 | [Igbo Muslim](http://twitter.com/search?q=Igbo+Muslim) | N/A |
-| 37 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
-| 38 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 39 | [Rohr](http://twitter.com/search?q=Rohr) | N/A |
-| 40 | [EEDC](http://twitter.com/search?q=EEDC) | N/A |
-| 41 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 30 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 31 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
+| 32 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 33 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
+| 34 | [Ndidi](http://twitter.com/search?q=Ndidi) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [Rohr](http://twitter.com/search?q=Rohr) | N/A |
+| 38 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 39 | [Mr Governor](http://twitter.com/search?q=Mr+Governor) | N/A |
+| 40 | [Niyola](http://twitter.com/search?q=Niyola) | N/A |
+| 41 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
 | 42 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 43 | [Pastor P](http://twitter.com/search?q=Pastor+P) | N/A |
-| 44 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 45 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 46 | [PHYNA X RIXARI SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+SALES) | N/A |
-| 47 | [lookman](http://twitter.com/search?q=lookman) | N/A |
-| 48 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 49 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 50 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 43 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 44 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 45 | [PHYNA X RIXARI SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+SALES) | N/A |
+| 46 | [EEDC](http://twitter.com/search?q=EEDC) | N/A |
+| 47 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 48 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 49 | [Pastor P](http://twitter.com/search?q=Pastor+P) | N/A |
+| 50 | [House 2](http://twitter.com/search?q=House+2) | N/A |
 
 
 

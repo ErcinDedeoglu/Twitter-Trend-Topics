@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-25 17:19:24 UTC`
+📆 Last Updated: `2023-03-25 18:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 2 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 3 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 4 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 5 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
-| 6 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 7 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 8 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
-| 9 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
-| 10 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 11 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
-| 12 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 13 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 14 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
-| 15 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
-| 16 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 17 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 19 | [Gilsons](http://twitter.com/search?q=Gilsons) | N/A |
-| 20 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 21 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
-| 22 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
-| 23 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 24 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 25 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 26 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 27 | [Jogos Vorazes](http://twitter.com/search?q=Jogos+Vorazes) | N/A |
-| 28 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
-| 29 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
-| 30 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 31 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 32 | [Lust for Life](http://twitter.com/search?q=Lust+for+Life) | N/A |
+| 3 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 4 | [#PittyNoCanalBIS](http://twitter.com/search?q=%23PittyNoCanalBIS) | N/A |
+| 5 | [#LudmillaNoMultishow](http://twitter.com/search?q=%23LudmillaNoMultishow) | N/A |
+| 6 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 7 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 8 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
+| 9 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
+| 10 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
+| 11 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 12 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 13 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 14 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 15 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
+| 16 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 17 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
+| 18 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
+| 19 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
+| 20 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
+| 21 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
+| 22 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 23 | [MELHORAS LULA](http://twitter.com/search?q=MELHORAS+LULA) | N/A |
+| 24 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 25 | [Fórmula E](http://twitter.com/search?q=F%c3%b3rmula+E) | N/A |
+| 26 | [Swain](http://twitter.com/search?q=Swain) | N/A |
+| 27 | [Lust For Life](http://twitter.com/search?q=Lust+For+Life) | N/A |
+| 28 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
+| 29 | [Harley](http://twitter.com/search?q=Harley) | N/A |
+| 30 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 31 | [Dynkas](http://twitter.com/search?q=Dynkas) | N/A |
+| 32 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
 | 33 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 34 | [Pássaros](http://twitter.com/search?q=P%c3%a1ssaros) | N/A |
-| 35 | [Serpentes](http://twitter.com/search?q=Serpentes) | N/A |
-| 36 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 37 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
-| 38 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 39 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 40 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 41 | [Future Days](http://twitter.com/search?q=Future+Days) | N/A |
-| 42 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 43 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 44 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 45 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
-| 46 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
-| 47 | [ELES JUNTINHOS](http://twitter.com/search?q=ELES+JUNTINHOS) | N/A |
-| 48 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 49 | [Meu ot7](http://twitter.com/search?q=Meu+ot7) | N/A |
-| 50 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 34 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 35 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
+| 36 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 37 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 38 | [Armênia x Turquia](http://twitter.com/search?q=Arm%c3%aania+x+Turquia) | N/A |
+| 39 | [Drip](http://twitter.com/search?q=Drip) | N/A |
+| 40 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
+| 41 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 42 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 43 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 44 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 45 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 46 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 47 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
+| 48 | [Jogos Vorazes](http://twitter.com/search?q=Jogos+Vorazes) | N/A |
+| 49 | [Future Days](http://twitter.com/search?q=Future+Days) | N/A |
+| 50 | [Chemtrails](http://twitter.com/search?q=Chemtrails) | N/A |
 
 
 
