@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-25 01:44:07 UTC`
+📆 Last Updated: `2023-03-25 02:32:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 2 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 2 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 3 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 4 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 5 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 6 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 4 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 5 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 6 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
 | 7 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
-| 8 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
-| 9 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 10 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
-| 11 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
-| 12 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 13 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 14 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 15 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
-| 16 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 17 | [your power](http://twitter.com/search?q=your+power) | N/A |
+| 8 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 9 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
+| 10 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 11 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 12 | [Big Preto Brasil](http://twitter.com/search?q=Big+Preto+Brasil) | N/A |
+| 13 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
+| 14 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 15 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 16 | [everything i wanted](http://twitter.com/search?q=everything+i+wanted) | N/A |
+| 17 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
 | 18 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 19 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 20 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
-| 21 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 22 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 23 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 24 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 25 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
-| 26 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 27 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
-| 28 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 29 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
-| 30 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
-| 31 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 32 | [#LulaNaChina](http://twitter.com/search?q=%23LulaNaChina) | N/A |
-| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 34 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 35 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 36 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 37 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
-| 38 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 39 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 40 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 41 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
-| 42 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 43 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 44 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 45 | [Dragon Ball Evolution](http://twitter.com/search?q=Dragon+Ball+Evolution) | N/A |
-| 46 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 47 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 48 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
-| 49 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
-| 50 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
+| 19 | [Bad Guy](http://twitter.com/search?q=Bad+Guy) | N/A |
+| 20 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
+| 21 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 22 | [QUE SHOW](http://twitter.com/search?q=QUE+SHOW) | N/A |
+| 23 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 24 | [YOU MADE ME HATE THIS CITY](http://twitter.com/search?q=YOU+MADE+ME+HATE+THIS+CITY) | N/A |
+| 25 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 26 | [your power](http://twitter.com/search?q=your+power) | N/A |
+| 27 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 28 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 29 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 30 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 31 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 32 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 33 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 34 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 35 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
+| 36 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
+| 37 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
+| 38 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 39 | [MY FUTURE](http://twitter.com/search?q=MY+FUTURE) | N/A |
+| 40 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 41 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 42 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 43 | [O Lil](http://twitter.com/search?q=O+Lil) | N/A |
+| 44 | [Velhote](http://twitter.com/search?q=Velhote) | N/A |
+| 45 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 46 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
+| 47 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 48 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 49 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 50 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
 
 
 

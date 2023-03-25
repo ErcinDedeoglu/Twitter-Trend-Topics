@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-25 01:44:47 UTC`
+📆 Last Updated: `2023-03-25 02:32:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 | 3 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 4 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
-| 5 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 6 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
-| 7 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 8 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
-| 9 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 10 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 11 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 12 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
-| 13 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
-| 14 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 15 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 16 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 17 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 18 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 19 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 20 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 21 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 22 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 23 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 24 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 25 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 26 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 27 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 28 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 29 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
-| 30 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 31 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 32 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
-| 33 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
-| 34 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 35 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 36 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 37 | [FanDuel](http://twitter.com/search?q=FanDuel) | N/A |
-| 38 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 39 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
-| 40 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 41 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 42 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 43 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 44 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
-| 45 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 46 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 47 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 48 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
-| 49 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 50 | [All the 1](http://twitter.com/search?q=All+the+1) | N/A |
+| 4 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 5 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 6 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 7 | [Tuch](http://twitter.com/search?q=Tuch) | N/A |
+| 8 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 9 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
+| 10 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
+| 11 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 12 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 13 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 14 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 15 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 16 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 17 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 18 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 19 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 20 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 21 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 22 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 23 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 24 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 25 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 26 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 27 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 28 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 29 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 30 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 31 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 32 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 33 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 34 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 35 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 36 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 37 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 38 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 39 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 40 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 41 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 42 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
+| 43 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 44 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 45 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 46 | [FanDuel](http://twitter.com/search?q=FanDuel) | N/A |
+| 47 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 48 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 49 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
+| 50 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
 
 
 

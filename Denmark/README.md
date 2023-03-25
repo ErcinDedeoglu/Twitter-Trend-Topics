@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-25 01:44:53 UTC`
+📆 Last Updated: `2023-03-25 02:32:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,17 +43,17 @@ This is top 50 for Denmark
 | 26 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 27 | [danskerne](http://twitter.com/search?q=danskerne) | N/A |
 | 28 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 31 | [bendtner](http://twitter.com/search?q=bendtner) | N/A |
-| 32 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 33 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 34 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 36 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
-| 37 | [League](http://twitter.com/search?q=League) | N/A |
+| 29 | [League](http://twitter.com/search?q=League) | N/A |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 32 | [bendtner](http://twitter.com/search?q=bendtner) | N/A |
+| 33 | [Parken](http://twitter.com/search?q=Parken) | N/A |
+| 34 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 35 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 36 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 37 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
 | 38 | [venstre](http://twitter.com/search?q=venstre) | N/A |
-| 39 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 40 | [alex vanopslagh](http://twitter.com/search?q=alex+vanopslagh) | N/A |
 | 41 | [skat](http://twitter.com/search?q=skat) | N/A |
 | 42 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |

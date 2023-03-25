@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-25 01:44:10 UTC`
+📆 Last Updated: `2023-03-25 02:32:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Poland](</Poland>)
 | 14 | [Szymański](http://twitter.com/search?q=Szyma%c5%84ski) | N/A |
 | 15 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
 | 16 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 18 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
-| 19 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 17 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
+| 18 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 19 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 20 | [Michniewicza](http://twitter.com/search?q=Michniewicza) | N/A |
 | 21 | [Cash](http://twitter.com/search?q=Cash) | N/A |
 | 22 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
 | 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 24 | [Linettego](http://twitter.com/search?q=Linettego) | N/A |
 | 25 | [Zieliński](http://twitter.com/search?q=Zieli%c5%84ski) | N/A |
-| 26 | [Ulmów](http://twitter.com/search?q=Ulm%c3%b3w) | N/A |
+| 26 | [ulmów](http://twitter.com/search?q=ulm%c3%b3w) | N/A |
 | 27 | [narodowy dzień pamięci polaków](http://twitter.com/search?q=narodowy+dzie%c5%84+pami%c4%99ci+polak%c3%b3w) | N/A |
 | 28 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
 | 29 | [Karbownik](http://twitter.com/search?q=Karbownik) | N/A |
 | 30 | [Szczęsny](http://twitter.com/search?q=Szcz%c4%99sny) | N/A |
 | 31 | [Wyspy Owcze](http://twitter.com/search?q=Wyspy+Owcze) | N/A |
-| 32 | [Skóraś](http://twitter.com/search?q=Sk%c3%b3ra%c5%9b) | N/A |
-| 33 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 32 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 33 | [Skóraś](http://twitter.com/search?q=Sk%c3%b3ra%c5%9b) | N/A |
 | 34 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
 | 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 36 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 37 | [Szymon](http://twitter.com/search?q=Szymon) | N/A |
-| 38 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 39 | [Gołoty](http://twitter.com/search?q=Go%c5%82oty) | N/A |
-| 40 | [Krychowiaka](http://twitter.com/search?q=Krychowiaka) | N/A |
-| 41 | [Finlandią](http://twitter.com/search?q=Finlandi%c4%85) | N/A |
-| 42 | [Sousy](http://twitter.com/search?q=Sousy) | N/A |
-| 43 | [Nagelsmanna](http://twitter.com/search?q=Nagelsmanna) | N/A |
-| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 45 | [Wyspami Owczymi](http://twitter.com/search?q=Wyspami+Owczymi) | N/A |
-| 46 | [Argentyną](http://twitter.com/search?q=Argentyn%c4%85) | N/A |
-| 47 | [Reprezentacja Polski](http://twitter.com/search?q=Reprezentacja+Polski) | N/A |
-| 48 | [Santosowi](http://twitter.com/search?q=Santosowi) | N/A |
-| 49 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 50 | [Jurasek](http://twitter.com/search?q=Jurasek) | N/A |
+| 36 | [Szymon](http://twitter.com/search?q=Szymon) | N/A |
+| 37 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 38 | [Gołoty](http://twitter.com/search?q=Go%c5%82oty) | N/A |
+| 39 | [Krychowiaka](http://twitter.com/search?q=Krychowiaka) | N/A |
+| 40 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 41 | [nagelsmanna](http://twitter.com/search?q=nagelsmanna) | N/A |
+| 42 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 44 | [Argentyną](http://twitter.com/search?q=Argentyn%c4%85) | N/A |
+| 45 | [Reprezentacja Polski](http://twitter.com/search?q=Reprezentacja+Polski) | N/A |
+| 46 | [Santosowi](http://twitter.com/search?q=Santosowi) | N/A |
+| 47 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 48 | [jurasek](http://twitter.com/search?q=jurasek) | N/A |
+| 49 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 50 | [markowej](http://twitter.com/search?q=markowej) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-25 01:44:08 UTC`
+📆 Last Updated: `2023-03-25 02:32:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 2 | [alisa](http://twitter.com/search?q=alisa) | N/A |
-| 3 | [mother mother](http://twitter.com/search?q=mother+mother) | N/A |
-| 4 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
-| 5 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 6 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 7 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 8 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 9 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 10 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
-| 11 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 12 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 13 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 1 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 2 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 3 | [alisa](http://twitter.com/search?q=alisa) | N/A |
+| 4 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 5 | [Diablo IV](http://twitter.com/search?q=Diablo+IV) | N/A |
+| 6 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 7 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
+| 8 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 9 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 10 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 11 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 12 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 13 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
 | 14 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
-| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 17 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 18 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 19 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
-| 20 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
-| 21 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
-| 22 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 23 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
-| 24 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
-| 25 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 26 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 27 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 28 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
-| 29 | [your power](http://twitter.com/search?q=your+power) | N/A |
-| 30 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 31 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 32 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 15 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 16 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 19 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 20 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 21 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 22 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 23 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
+| 24 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 25 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
+| 26 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 27 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 28 | [Big Preto Brasil](http://twitter.com/search?q=Big+Preto+Brasil) | N/A |
+| 29 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
+| 30 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 31 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 32 | [everything i wanted](http://twitter.com/search?q=everything+i+wanted) | N/A |
 | 33 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
-| 34 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 35 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 36 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 37 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 38 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
-| 39 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 40 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
-| 41 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
-| 42 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 43 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
-| 44 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 45 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 46 | [#LulaNaChina](http://twitter.com/search?q=%23LulaNaChina) | N/A |
-| 47 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 48 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 49 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 50 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
+| 34 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 35 | [Bad Guy](http://twitter.com/search?q=Bad+Guy) | N/A |
+| 36 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
+| 37 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 38 | [QUE SHOW](http://twitter.com/search?q=QUE+SHOW) | N/A |
+| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 40 | [YOU MADE ME HATE THIS CITY](http://twitter.com/search?q=YOU+MADE+ME+HATE+THIS+CITY) | N/A |
+| 41 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 42 | [your power](http://twitter.com/search?q=your+power) | N/A |
+| 43 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 44 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 45 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 46 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 47 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 48 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 50 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
 
 
 

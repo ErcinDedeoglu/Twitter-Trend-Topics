@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johannesburg
 
-📆 Last Updated: `2023-03-25 01:44:31 UTC`
+📆 Last Updated: `2023-03-25 02:32:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,26 +19,26 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
 | 3 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
 | 4 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 5 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
-| 6 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 5 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 6 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
 | 7 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
 | 8 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 9 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 10 | [#urchannelo](http://twitter.com/search?q=%23urchannelo) | N/A |
-| 11 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 12 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
-| 13 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
+| 9 | [#urchannelo](http://twitter.com/search?q=%23urchannelo) | N/A |
+| 10 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 11 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 12 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
+| 13 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
 | 14 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
 | 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 16 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
-| 17 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 18 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 17 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 18 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
 | 19 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 20 | [tom motsepe](http://twitter.com/search?q=tom+motsepe) | N/A |
-| 21 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 21 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
 | 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 24 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 23 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 24 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
 | 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 26 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
 | 27 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
@@ -46,11 +46,11 @@ This is top 50 for [South Africa](</South Africa>)
 | 29 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 31 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 32 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 33 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 34 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 35 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 32 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 33 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 34 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 35 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 36 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 37 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [South Africa](</South Africa>)
 | 43 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
 | 44 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 45 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 46 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
-| 47 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 48 | [gcinile](http://twitter.com/search?q=gcinile) | N/A |
-| 49 | [Trusted the Lord](http://twitter.com/search?q=Trusted+the+Lord) | N/A |
-| 50 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
+| 46 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 47 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
+| 48 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 49 | [gcinile](http://twitter.com/search?q=gcinile) | N/A |
+| 50 | [Trusted the Lord](http://twitter.com/search?q=Trusted+the+Lord) | N/A |
 
 
 

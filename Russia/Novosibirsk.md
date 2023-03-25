@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-03-25 01:44:35 UTC`
+📆 Last Updated: `2023-03-25 02:32:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,34 +25,34 @@ This is top 50 for [Russia](</Russia>)
 | 8 | [Сталина](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
 | 9 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 10 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 11 | [италии](http://twitter.com/search?q=%d0%b8%d1%82%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
-| 12 | [отличный](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
-| 13 | [Макрон](http://twitter.com/search?q=%d0%9c%d0%b0%d0%ba%d1%80%d0%be%d0%bd) | N/A |
-| 14 | [извините](http://twitter.com/search?q=%d0%b8%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 15 | [америка](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0) | N/A |
-| 16 | [наверное](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 18 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
-| 19 | [русские](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
-| 20 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
-| 21 | [Причем](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
-| 22 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 23 | [Ирана](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd%d0%b0) | N/A |
+| 11 | [отличный](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9) | N/A |
+| 12 | [Макрон](http://twitter.com/search?q=%d0%9c%d0%b0%d0%ba%d1%80%d0%be%d0%bd) | N/A |
+| 13 | [извините](http://twitter.com/search?q=%d0%b8%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
+| 14 | [америка](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0) | N/A |
+| 15 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 16 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 17 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
+| 18 | [русские](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
+| 19 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
+| 20 | [Причем](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
+| 21 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
+| 22 | [Италии](http://twitter.com/search?q=%d0%98%d1%82%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
+| 23 | [ирана](http://twitter.com/search?q=%d0%b8%d1%80%d0%b0%d0%bd%d0%b0) | N/A |
 | 24 | [поняла](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb%d0%b0) | N/A |
 | 25 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 26 | [Сложно](http://twitter.com/search?q=%d0%a1%d0%bb%d0%be%d0%b6%d0%bd%d0%be) | N/A |
 | 27 | [однозначно](http://twitter.com/search?q=%d0%be%d0%b4%d0%bd%d0%be%d0%b7%d0%bd%d0%b0%d1%87%d0%bd%d0%be) | N/A |
-| 28 | [В Питере](http://twitter.com/search?q=%d0%92+%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 28 | [в питере](http://twitter.com/search?q=%d0%b2+%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
 | 29 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
 | 30 | [САМЫЕ](http://twitter.com/search?q=%d0%a1%d0%90%d0%9c%d0%ab%d0%95) | N/A |
 | 31 | [Господь](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d1%8c) | N/A |
-| 32 | [Обнимаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 32 | [обнимаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 33 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 34 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 35 | [европа](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
-| 36 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 36 | [грузии](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 37 | [история](http://twitter.com/search?q=%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f) | N/A |
-| 38 | [Дети](http://twitter.com/search?q=%d0%94%d0%b5%d1%82%d0%b8) | N/A |
+| 38 | [дети](http://twitter.com/search?q=%d0%b4%d0%b5%d1%82%d0%b8) | N/A |
 | 39 | [боюсь](http://twitter.com/search?q=%d0%b1%d0%be%d1%8e%d1%81%d1%8c) | N/A |
 | 40 | [минутка омских](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%83%d1%82%d0%ba%d0%b0+%d0%be%d0%bc%d1%81%d0%ba%d0%b8%d1%85) | N/A |
 | 41 | [неплохо](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bf%d0%bb%d0%be%d1%85%d0%be) | N/A |

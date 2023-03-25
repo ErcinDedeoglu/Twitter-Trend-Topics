@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-25 01:44:11 UTC`
+📆 Last Updated: `2023-03-25 02:32:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,40 @@ This is top 50 for [France](</France>)
 | 4 | [#FrancePaysBas](http://twitter.com/search?q=%23FrancePaysBas) | N/A |
 | 5 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
 | 6 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 7 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 8 | [#FRAPBS](http://twitter.com/search?q=%23FRAPBS) | N/A |
-| 9 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 10 | [#Taratata](http://twitter.com/search?q=%23Taratata) | N/A |
-| 11 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
-| 12 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 7 | [#FRAPBS](http://twitter.com/search?q=%23FRAPBS) | N/A |
+| 8 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 9 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 10 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
+| 11 | [#Taratata](http://twitter.com/search?q=%23Taratata) | N/A |
+| 12 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 13 | [#FRAPAY](http://twitter.com/search?q=%23FRAPAY) | N/A |
 | 14 | [L'équipe de France](http://twitter.com/search?q=L%27%c3%a9quipe+de+France) | N/A |
 | 15 | [Your Name](http://twitter.com/search?q=Your+Name) | N/A |
-| 16 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
-| 17 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 18 | [Konaté](http://twitter.com/search?q=Konat%c3%a9) | N/A |
-| 19 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 20 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 21 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
-| 22 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
-| 23 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 24 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 25 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 26 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 16 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
+| 17 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 18 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 19 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 20 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
+| 21 | [Randal](http://twitter.com/search?q=Randal) | N/A |
+| 22 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 23 | [Bleus](http://twitter.com/search?q=Bleus) | N/A |
+| 24 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 25 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
+| 26 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
 | 27 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 28 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
-| 29 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
-| 30 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
-| 31 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 32 | [Hannibal](http://twitter.com/search?q=Hannibal) | N/A |
-| 33 | [Kanté](http://twitter.com/search?q=Kant%c3%a9) | N/A |
-| 34 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 35 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 36 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 37 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 38 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 39 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
-| 40 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 41 | [Ignoble](http://twitter.com/search?q=Ignoble) | N/A |
-| 42 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 43 | [Poutou](http://twitter.com/search?q=Poutou) | N/A |
-| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 45 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
-| 46 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 47 | [#FRAHOL](http://twitter.com/search?q=%23FRAHOL) | N/A |
-| 48 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 49 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 50 | [#Dussopt](http://twitter.com/search?q=%23Dussopt) | N/A |
+| 28 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 29 | [Kyks](http://twitter.com/search?q=Kyks) | N/A |
+| 30 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 31 | [Kyky](http://twitter.com/search?q=Kyky) | N/A |
+| 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 33 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 34 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 35 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 36 | [Grizou](http://twitter.com/search?q=Grizou) | N/A |
+| 37 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 38 | [#FRAHOL](http://twitter.com/search?q=%23FRAHOL) | N/A |
+| 39 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 40 | [#Dussopt](http://twitter.com/search?q=%23Dussopt) | N/A |
 
 
 
