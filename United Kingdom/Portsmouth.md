@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-25 12:17:17 UTC`
+📆 Last Updated: `2023-03-25 13:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASongOrMovieForAnythingBlue](http://twitter.com/search?q=%23ASongOrMovieForAnythingBlue) | N/A |
+| 1 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
 | 2 | [#BBCSaturdayLive](http://twitter.com/search?q=%23BBCSaturdayLive) | N/A |
-| 3 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 4 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 5 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 6 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 9 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
-| 10 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
-| 11 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 12 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 14 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 15 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 16 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 17 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 18 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
-| 19 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 20 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 21 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 22 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
-| 23 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 24 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 25 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 26 | [Dubai World Cup](http://twitter.com/search?q=Dubai+World+Cup) | N/A |
-| 27 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 28 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 29 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 30 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 31 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 32 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
-| 33 | [Violent](http://twitter.com/search?q=Violent) | N/A |
-| 34 | [Violence](http://twitter.com/search?q=Violence) | N/A |
-| 35 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 36 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 37 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 38 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 39 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 40 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 41 | [Simpsons](http://twitter.com/search?q=Simpsons) | N/A |
-| 42 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 43 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
-| 44 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 45 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 46 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
-| 47 | [#IStandWithPosieParker](http://twitter.com/search?q=%23IStandWithPosieParker) | N/A |
-| 48 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 49 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 3 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 4 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 5 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 6 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 7 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 8 | [Somerset](http://twitter.com/search?q=Somerset) | N/A |
+| 9 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
+| 10 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 11 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 12 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 13 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 14 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 15 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 16 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 17 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
+| 18 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
+| 19 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 20 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 21 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 22 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 23 | [Nelson Piquet](http://twitter.com/search?q=Nelson+Piquet) | N/A |
+| 24 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 26 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 27 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 28 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 29 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
+| 30 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 31 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
+| 32 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 33 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 34 | [Dubai World Cup](http://twitter.com/search?q=Dubai+World+Cup) | N/A |
+| 35 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 36 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 37 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 38 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 39 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 40 | [Violence](http://twitter.com/search?q=Violence) | N/A |
+| 41 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 42 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 43 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 44 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 45 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 46 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 47 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 48 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 49 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
 
 
 

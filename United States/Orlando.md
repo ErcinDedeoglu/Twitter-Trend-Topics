@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-25 12:18:01 UTC`
+📆 Last Updated: `2023-03-25 13:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 2 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 3 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 4 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 5 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
-| 6 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 8 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 10 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 11 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 12 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 13 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 14 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 15 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 17 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
-| 18 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 19 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 20 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 21 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 22 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 23 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 24 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 25 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 26 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 27 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 28 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 31 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 32 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 34 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 35 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 36 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 37 | [Limited](http://twitter.com/search?q=Limited) | N/A |
-| 38 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 39 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 40 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 41 | [Orwellian](http://twitter.com/search?q=Orwellian) | N/A |
-| 42 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 43 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 44 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 45 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 46 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 1 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 2 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 3 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 4 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 5 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 6 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 7 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 8 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 9 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 10 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 11 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 12 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 14 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 15 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 17 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 18 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 19 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 20 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 21 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 22 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
+| 23 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 24 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 25 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 26 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 27 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 28 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 29 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 30 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 31 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 32 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 33 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
+| 34 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 35 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 36 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 37 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 38 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
+| 39 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 40 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 41 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
+| 42 | [Limited](http://twitter.com/search?q=Limited) | N/A |
+| 43 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 44 | [Orwellian](http://twitter.com/search?q=Orwellian) | N/A |
+| 45 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 46 | [Jeffries](http://twitter.com/search?q=Jeffries) | Jeffries is a surname of English origin. It is derived from the given name Geoffrey, which is derived from the Old French name Jeoffroi, meaning "peaceful gift". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-25 12:17:31 UTC`
+📆 Last Updated: `2023-03-25 13:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
 | 4 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
 | 5 | [#ItaliaInghilterra](http://twitter.com/search?q=%23ItaliaInghilterra) | N/A |
-| 6 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 7 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 8 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 6 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 7 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 9 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 10 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
 | 11 | [David di Michelangelo](http://twitter.com/search?q=David+di+Michelangelo) | N/A |
 | 12 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
 | 13 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 14 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 15 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
+| 14 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 16 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
+| 17 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
 | 18 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 19 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
-| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 20 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
+| 21 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
 | 22 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 23 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
-| 24 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 25 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 26 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 27 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
-| 28 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 29 | [Virna](http://twitter.com/search?q=Virna) | N/A |
-| 30 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
-| 31 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 32 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 24 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 25 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 26 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
+| 27 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 28 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 29 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 30 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 31 | [Virna](http://twitter.com/search?q=Virna) | N/A |
+| 32 | [Storia](http://twitter.com/search?q=Storia) | N/A |
 | 33 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 34 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 35 | [Storia](http://twitter.com/search?q=Storia) | N/A |
-| 36 | [karius](http://twitter.com/search?q=karius) | N/A |
-| 37 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 38 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 39 | [Conad](http://twitter.com/search?q=Conad) | N/A |
-| 40 | [ramon](http://twitter.com/search?q=ramon) | N/A |
-| 41 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 34 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 35 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 36 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 37 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 38 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
+| 39 | [Aubameyang](http://twitter.com/search?q=Aubameyang) | N/A |
+| 40 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 41 | [Tasso](http://twitter.com/search?q=Tasso) | N/A |
 | 42 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 43 | [Gasparri](http://twitter.com/search?q=Gasparri) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 44 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 45 | [Tasso](http://twitter.com/search?q=Tasso) | N/A |
-| 46 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
-| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 49 | [Grazie Peppe](http://twitter.com/search?q=Grazie+Peppe) | N/A |
-| 50 | [ron de santis](http://twitter.com/search?q=ron+de+santis) | N/A |
+| 45 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 46 | [Ziliani](http://twitter.com/search?q=Ziliani) | N/A |
+| 47 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 48 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 49 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 50 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
 
 
 

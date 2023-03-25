@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-25 12:17:59 UTC`
+📆 Last Updated: `2023-03-25 13:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,47 @@ This is top 50 for [United States](</United States>)
 | 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 7 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 8 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 9 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 10 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 11 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 12 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 13 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 14 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
-| 15 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 16 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 17 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 18 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 19 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 21 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 22 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 23 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 24 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 25 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 26 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
-| 27 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 28 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 29 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 30 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 31 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 32 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 33 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 34 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 35 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 36 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 9 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 13 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 14 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 15 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 16 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 17 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 18 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 19 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 20 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 22 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 23 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 24 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 25 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 26 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 27 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 28 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 29 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 30 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
+| 31 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 32 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 33 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 34 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 35 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 36 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
 | 37 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 38 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 39 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 40 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 41 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 42 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 43 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 44 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 45 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 46 | [Limited](http://twitter.com/search?q=Limited) | N/A |
-| 47 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 48 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 49 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 50 | [Orwellian](http://twitter.com/search?q=Orwellian) | N/A |
+| 38 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 39 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 40 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 41 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
+| 42 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 43 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 44 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 45 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 46 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
+| 47 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 48 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 49 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
 
 
 

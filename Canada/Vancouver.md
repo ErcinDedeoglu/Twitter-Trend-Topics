@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-25 12:17:15 UTC`
+📆 Last Updated: `2023-03-25 13:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 6 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 7 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 8 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 7 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 8 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
+| 9 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
 | 10 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 11 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 11 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
 | 12 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 13 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 14 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 15 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Eric Staal](http://twitter.com/search?q=Eric+Staal) | N/A |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 13 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 15 | [#AuroraBorealis](http://twitter.com/search?q=%23AuroraBorealis) | N/A |
+| 16 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 19 | [staal](http://twitter.com/search?q=staal) | N/A |
 | 20 | [cheech](http://twitter.com/search?q=cheech) | N/A |
-| 21 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
+| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 23 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 25 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 26 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 27 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 28 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 29 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 30 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 31 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 24 | [London](http://twitter.com/search?q=London) | N/A |
+| 25 | [Fait](http://twitter.com/search?q=Fait) | N/A |
+| 26 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 27 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 28 | [john garrett](http://twitter.com/search?q=john+garrett) | N/A |
+| 29 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 30 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
+| 31 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 32 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 33 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 34 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 36 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 37 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 38 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 41 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 42 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 43 | [mike hoffman](http://twitter.com/search?q=mike+hoffman) | N/A |
-| 44 | [Althia](http://twitter.com/search?q=Althia) | N/A |
-| 45 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 46 | [chinada](http://twitter.com/search?q=chinada) | N/A |
-| 47 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 49 | [Zach Hyman](http://twitter.com/search?q=Zach+Hyman) | N/A |
-| 50 | [Zellers](http://twitter.com/search?q=Zellers) | N/A |
+| 33 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 34 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 35 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 36 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 37 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 38 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 39 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 40 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 41 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 42 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 43 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 44 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
+| 45 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 46 | [Most Canadians](http://twitter.com/search?q=Most+Canadians) | N/A |
+| 47 | [Althia](http://twitter.com/search?q=Althia) | N/A |
+| 48 | [Zach Hyman](http://twitter.com/search?q=Zach+Hyman) | N/A |
+| 49 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 50 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
 
 
 

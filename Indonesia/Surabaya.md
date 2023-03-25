@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-25 12:17:35 UTC`
+📆 Last Updated: `2023-03-25 13:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 2 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 3 | [#THRKaget15M](http://twitter.com/search?q=%23THRKaget15M) | N/A |
-| 4 | [#PotonganPasti40RB](http://twitter.com/search?q=%23PotonganPasti40RB) | N/A |
-| 5 | [#CheckOutdiShopee](http://twitter.com/search?q=%23CheckOutdiShopee) | N/A |
-| 6 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
-| 7 | [#BerkahGerobakPerindo](http://twitter.com/search?q=%23BerkahGerobakPerindo) | N/A |
-| 8 | [chef arnold](http://twitter.com/search?q=chef+arnold) | N/A |
-| 9 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 10 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 1 | [#hariinibelanjadishopee](http://twitter.com/search?q=%23hariinibelanjadishopee) | N/A |
+| 2 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 3 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 4 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 5 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 6 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
+| 7 | [Chef Arnold](http://twitter.com/search?q=Chef+Arnold) | N/A |
+| 8 | [#BerkahGerobakPerindo](http://twitter.com/search?q=%23BerkahGerobakPerindo) | N/A |
+| 9 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 10 | [Coki](http://twitter.com/search?q=Coki) | N/A |
 | 11 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 12 | [Coki](http://twitter.com/search?q=Coki) | N/A |
-| 13 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
-| 14 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 15 | [Gratis Ongkir Super Dahsyat](http://twitter.com/search?q=Gratis+Ongkir+Super+Dahsyat) | N/A |
-| 16 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 17 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 18 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 19 | [Tall](http://twitter.com/search?q=Tall) | N/A |
-| 20 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 21 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 12 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 13 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
+| 14 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 15 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 16 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 17 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 18 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
+| 19 | [PUTUSIN](http://twitter.com/search?q=PUTUSIN) | N/A |
+| 20 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 21 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
 | 22 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 23 | [Grup C](http://twitter.com/search?q=Grup+C) | N/A |
+| 23 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 24 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
 | 25 | [Selamat Berbuka Puasa](http://twitter.com/search?q=Selamat+Berbuka+Puasa) | N/A |
-| 26 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 26 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
 | 27 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 28 | [Flash Sale Akbar Rp1](http://twitter.com/search?q=Flash+Sale+Akbar+Rp1) | N/A |
-| 29 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
-| 30 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 31 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 32 | [Take A Chance](http://twitter.com/search?q=Take+A+Chance) | N/A |
+| 28 | [Pak Ganjar](http://twitter.com/search?q=Pak+Ganjar) | N/A |
+| 29 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 30 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 31 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 32 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
 | 33 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 34 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 35 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 36 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 37 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
-| 38 | [Pak Ganjar](http://twitter.com/search?q=Pak+Ganjar) | N/A |
-| 39 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
-| 40 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 41 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
-| 42 | [#BeRiTenangBiarMenang](http://twitter.com/search?q=%23BeRiTenangBiarMenang) | N/A |
-| 43 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
-| 44 | [#LengkapiRamadan](http://twitter.com/search?q=%23LengkapiRamadan) | N/A |
-| 45 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
-| 46 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 47 | [#Koboversary](http://twitter.com/search?q=%23Koboversary) | N/A |
-| 48 | [#BrightLovesBonchon](http://twitter.com/search?q=%23BrightLovesBonchon) | N/A |
-| 49 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 34 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 35 | [#BeRiTenangBiarMenang](http://twitter.com/search?q=%23BeRiTenangBiarMenang) | N/A |
+| 36 | [#Koboversary](http://twitter.com/search?q=%23Koboversary) | N/A |
+| 37 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
+| 38 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 39 | [#LengkapiRamadan](http://twitter.com/search?q=%23LengkapiRamadan) | N/A |
+| 40 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
+| 41 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 42 | [#ACT_SWEET_MIRAGE](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE) | N/A |
+| 43 | [#TebakanMandiri](http://twitter.com/search?q=%23TebakanMandiri) | N/A |
+| 44 | [#BrightLovesBonchon](http://twitter.com/search?q=%23BrightLovesBonchon) | N/A |
+| 45 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 46 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 47 | [#WangYibo_WeiboNight2022](http://twitter.com/search?q=%23WangYibo_WeiboNight2022) | N/A |
+| 48 | [#KAI2ndWin](http://twitter.com/search?q=%23KAI2ndWin) | N/A |
+| 49 | [#Dilireba](http://twitter.com/search?q=%23Dilireba) | N/A |
 | 50 | [#Rover2ndWin](http://twitter.com/search?q=%23Rover2ndWin) | N/A |
 
 

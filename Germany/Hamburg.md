@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-25 12:17:30 UTC`
+📆 Last Updated: `2023-03-25 13:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 8 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 10 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 11 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 12 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 13 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 14 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 15 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 16 | [Konstellation](http://twitter.com/search?q=Konstellation) | N/A |
-| 17 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 9 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 11 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 12 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 13 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 14 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 15 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 16 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 17 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
 | 18 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 19 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 21 | [hausrecht](http://twitter.com/search?q=hausrecht) | N/A |
-| 22 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 23 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 19 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 20 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 21 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
+| 22 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 23 | [krümeltee](http://twitter.com/search?q=kr%c3%bcmeltee) | N/A |
 | 24 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 25 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 26 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 29 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 30 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 31 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 32 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 33 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 34 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 35 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 25 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 26 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 27 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 28 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
+| 29 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 31 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 32 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 33 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 34 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 35 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
 | 36 | [Satellitenbilder](http://twitter.com/search?q=Satellitenbilder) | N/A |
-| 37 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 38 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 39 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 40 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 41 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 42 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 43 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
-| 44 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
-| 45 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 46 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
-| 47 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
-| 48 | [Planwirtschaft](http://twitter.com/search?q=Planwirtschaft) | N/A |
-| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 50 | [Frühstückstisch](http://twitter.com/search?q=Fr%c3%bchst%c3%bcckstisch) | N/A |
+| 37 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 38 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 39 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 40 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 41 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 42 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
+| 43 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 44 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 45 | [Konstellation](http://twitter.com/search?q=Konstellation) | N/A |
+| 46 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 47 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
+| 48 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 49 | [Planwirtschaft](http://twitter.com/search?q=Planwirtschaft) | N/A |
+| 50 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
 
 
 

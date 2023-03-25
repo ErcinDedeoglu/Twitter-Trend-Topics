@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-25 12:18:07 UTC`
+📆 Last Updated: `2023-03-25 13:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Germany
 | 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 8 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
 | 11 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 12 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 13 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 14 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 15 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 16 | [Konstellation](http://twitter.com/search?q=Konstellation) | N/A |
-| 17 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 18 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 19 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 21 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 22 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 23 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 24 | [dänemark](http://twitter.com/search?q=d%c3%a4nemark) | N/A |
-| 25 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 28 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 12 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 13 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 14 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 15 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 16 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 17 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 19 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 20 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
+| 21 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
+| 22 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 23 | [krümeltee](http://twitter.com/search?q=kr%c3%bcmeltee) | N/A |
+| 24 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 25 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 26 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
+| 27 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 28 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
 | 29 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 30 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 31 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 32 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 33 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 34 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 35 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 31 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 32 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 33 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 34 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 35 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
 | 36 | [Satellitenbilder](http://twitter.com/search?q=Satellitenbilder) | N/A |
-| 37 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
-| 38 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 39 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 40 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 41 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 42 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 43 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 44 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
-| 45 | [Planwirtschaft](http://twitter.com/search?q=Planwirtschaft) | N/A |
-| 46 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 47 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
-| 48 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 49 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
-| 50 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 37 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 38 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 39 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 40 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
+| 41 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 42 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 43 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 44 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 45 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 46 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
+| 47 | [Saublöd](http://twitter.com/search?q=Saubl%c3%b6d) | N/A |
+| 48 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 49 | [Planwirtschaft](http://twitter.com/search?q=Planwirtschaft) | N/A |
+| 50 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
 
 
 

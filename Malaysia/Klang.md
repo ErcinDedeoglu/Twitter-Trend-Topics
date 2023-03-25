@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-25 12:17:41 UTC`
+📆 Last Updated: `2023-03-25 13:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 4 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
 | 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 6 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 7 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
 | 8 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 9 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 10 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 11 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 12 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 13 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 15 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 16 | [OTMS](http://twitter.com/search?q=OTMS) | N/A |
-| 17 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 18 | [MAHIRO](http://twitter.com/search?q=MAHIRO) | N/A |
-| 19 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 20 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 21 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 22 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 23 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 24 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
-| 25 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 29 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 30 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 31 | [Expert](http://twitter.com/search?q=Expert) | N/A |
-| 32 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 33 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
-| 34 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 35 | [Puspakom](http://twitter.com/search?q=Puspakom) | N/A |
-| 36 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 37 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 38 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 39 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 40 | [Choi Hyunsuk](http://twitter.com/search?q=Choi+Hyunsuk) | N/A |
-| 41 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 42 | [Hanteo](http://twitter.com/search?q=Hanteo) | N/A |
-| 43 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 44 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 45 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 46 | [KIM KAI](http://twitter.com/search?q=KIM+KAI) | N/A |
-| 47 | [Ceddy](http://twitter.com/search?q=Ceddy) | N/A |
-| 48 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 49 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 9 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 11 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 13 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 14 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 15 | [OTMS](http://twitter.com/search?q=OTMS) | N/A |
+| 16 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 17 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 18 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 19 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 21 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
+| 22 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 25 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 26 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 27 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 28 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 29 | [JENNIE](http://twitter.com/search?q=JENNIE) | N/A |
+| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 31 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 32 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 33 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 34 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 35 | [Expert](http://twitter.com/search?q=Expert) | N/A |
+| 36 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 37 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 38 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 40 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 41 | [Choi Hyunsuk](http://twitter.com/search?q=Choi+Hyunsuk) | N/A |
+| 42 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 43 | [Hanteo](http://twitter.com/search?q=Hanteo) | N/A |
+| 44 | [Puspakom](http://twitter.com/search?q=Puspakom) | N/A |
+| 45 | [Letter](http://twitter.com/search?q=Letter) | N/A |
+| 46 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 47 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 48 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 49 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
 
 
 
