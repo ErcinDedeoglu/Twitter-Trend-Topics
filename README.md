@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-25 21:16:32 UTC`
+📆 Last Updated: `2023-03-25 22:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [#فوازير_غازي_الذيابي2](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a2) | N/A |
-| 3 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 4 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 5 | [#GERPER](http://twitter.com/search?q=%23GERPER) | N/A |
-| 6 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
-| 7 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 8 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
-| 9 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 10 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
-| 11 | [ウシュバテソーロ](http://twitter.com/search?q=%e3%82%a6%e3%82%b7%e3%83%a5%e3%83%90%e3%83%86%e3%82%bd%e3%83%bc%e3%83%ad) | ウシュバテソーロ is a type of traditional dance from the Kumaon region of India. It is performed by men and women in colorful costumes and involves clapping, singing, and dancing. The name translates to "dance of joy" in English. |
-| 12 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 13 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 14 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 15 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 16 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 17 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 18 | [Rolan](http://twitter.com/search?q=Rolan) | N/A |
-| 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 20 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
-| 21 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 22 | [Ruidiaz](http://twitter.com/search?q=Ruidiaz) | N/A |
-| 23 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 24 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 25 | [Lapadula](http://twitter.com/search?q=Lapadula) | N/A |
-| 26 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 27 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 28 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 29 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 30 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
-| 31 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 32 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 33 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 34 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
-| 35 | [Gallese](http://twitter.com/search?q=Gallese) | N/A |
-| 36 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
-| 37 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 38 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 39 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 40 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 41 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 42 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 43 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 44 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 45 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 46 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 47 | [Arezo](http://twitter.com/search?q=Arezo) | Arezo is a Persian name that means "wish" or "desire". It is often used as a female given name. |
-| 48 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
-| 49 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 50 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 1 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 2 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 3 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 4 | [#فوازير_غازي_الذيابي2](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a2) | N/A |
+| 5 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 6 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 7 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 8 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 9 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 10 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
+| 11 | [#GERPER](http://twitter.com/search?q=%23GERPER) | N/A |
+| 12 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 13 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 14 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 15 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 16 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 17 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 18 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 19 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 20 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
+| 21 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 22 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 23 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 24 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 25 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 26 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 28 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 29 | [ウシュバテソーロ](http://twitter.com/search?q=%e3%82%a6%e3%82%b7%e3%83%a5%e3%83%90%e3%83%86%e3%82%bd%e3%83%bc%e3%83%ad) | ウシュバテソーロ is a type of traditional dance from the Kumaon region of India. It is performed by men and women in colorful costumes and involves clapping, singing, and dancing. The name translates to "dance of joy" in English. |
+| 30 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 32 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 33 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 34 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 35 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 36 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 37 | [Lapadula](http://twitter.com/search?q=Lapadula) | N/A |
+| 38 | [Ruidiaz](http://twitter.com/search?q=Ruidiaz) | N/A |
+| 39 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 40 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 41 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
+| 42 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 43 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
+| 44 | [Rolan](http://twitter.com/search?q=Rolan) | N/A |
+| 45 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 46 | [Mansilla](http://twitter.com/search?q=Mansilla) | N/A |
+| 47 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
+| 48 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 49 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 50 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
 
 
 

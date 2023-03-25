@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-25 21:16:38 UTC`
+📆 Last Updated: `2023-03-25 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 3 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
-| 6 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
-| 7 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 3 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 4 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 6 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
+| 7 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
 | 8 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 9 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 10 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 11 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
-| 12 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 13 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
-| 14 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
-| 15 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 16 | [#GiveChecoWings](http://twitter.com/search?q=%23GiveChecoWings) | N/A |
-| 17 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 18 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 19 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 9 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 10 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
+| 11 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
+| 12 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 13 | [#Catafixia](http://twitter.com/search?q=%23Catafixia) | N/A |
+| 14 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 15 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 16 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
+| 17 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 18 | [#GiveChecoWings](http://twitter.com/search?q=%23GiveChecoWings) | N/A |
+| 19 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
 | 20 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
-| 21 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 22 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
+| 21 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 22 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
 | 23 | [Elsa Aguirre](http://twitter.com/search?q=Elsa+Aguirre) | N/A |
-| 24 | [Chabelito](http://twitter.com/search?q=Chabelito) | N/A |
-| 25 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
-| 26 | [Ilegal](http://twitter.com/search?q=Ilegal) | N/A |
-| 27 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
-| 28 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 29 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 30 | [Rebeca Jones](http://twitter.com/search?q=Rebeca+Jones) | N/A |
-| 31 | [El 25](http://twitter.com/search?q=El+25) | N/A |
-| 32 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 33 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 34 | [Ay Drake](http://twitter.com/search?q=Ay+Drake) | N/A |
-| 35 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 36 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 37 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
-| 38 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
-| 39 | [#amigodetodoslosniños](http://twitter.com/search?q=%23amigodetodoslosni%c3%b1os) | N/A |
-| 40 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 41 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 42 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
+| 24 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
+| 25 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 26 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 27 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 28 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 29 | [Ilegal](http://twitter.com/search?q=Ilegal) | N/A |
+| 30 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 31 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
+| 32 | [Rebeca Jones](http://twitter.com/search?q=Rebeca+Jones) | N/A |
+| 33 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
+| 34 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
+| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 36 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 37 | [El 25](http://twitter.com/search?q=El+25) | N/A |
+| 38 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 39 | [Plan C](http://twitter.com/search?q=Plan+C) | N/A |
+| 40 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 41 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
+| 42 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
+| 43 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 44 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
+| 45 | [#amigodetodoslosniños](http://twitter.com/search?q=%23amigodetodoslosni%c3%b1os) | N/A |
+| 46 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 47 | [#VotoMasivoPorMorena2023Y2024](http://twitter.com/search?q=%23VotoMasivoPorMorena2023Y2024) | N/A |
 
 
 

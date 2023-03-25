@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-25 21:16:46 UTC`
+📆 Last Updated: `2023-03-25 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
 | 2 | [#UBBSR](http://twitter.com/search?q=%23UBBSR) | N/A |
-| 3 | [#SmackDownAB](http://twitter.com/search?q=%23SmackDownAB) | N/A |
-| 4 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
-| 5 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 6 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
-| 7 | [Norvège](http://twitter.com/search?q=Norv%c3%a8ge) | N/A |
-| 8 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 9 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
-| 10 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
-| 11 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 12 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 13 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
-| 14 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
-| 15 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
-| 16 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
-| 17 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 3 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 4 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 5 | [Louza](http://twitter.com/search?q=Louza) | N/A |
+| 6 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
+| 7 | [Arryadia](http://twitter.com/search?q=Arryadia) | N/A |
+| 8 | [Amel](http://twitter.com/search?q=Amel) | N/A |
+| 9 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
+| 10 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 11 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
+| 12 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 13 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 14 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
+| 15 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
+| 16 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 17 | [Areola](http://twitter.com/search?q=Areola) | N/A |
 | 18 | [Arménie](http://twitter.com/search?q=Arm%c3%a9nie) | N/A |
-| 19 | [EELV](http://twitter.com/search?q=EELV) | N/A |
-| 20 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
-| 21 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 22 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
-| 23 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
-| 24 | [Gluto](http://twitter.com/search?q=Gluto) | N/A |
-| 25 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
-| 26 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 27 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 28 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 29 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 30 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 31 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 32 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 33 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 34 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
-| 35 | [Gégé](http://twitter.com/search?q=G%c3%a9g%c3%a9) | N/A |
-| 36 | [#SaintSoline](http://twitter.com/search?q=%23SaintSoline) | N/A |
-| 37 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
-| 38 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
-| 39 | [#LMDLA](http://twitter.com/search?q=%23LMDLA) | N/A |
-| 40 | [#Manif25mars](http://twitter.com/search?q=%23Manif25mars) | N/A |
-| 41 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 42 | [#Sidaction2023](http://twitter.com/search?q=%23Sidaction2023) | N/A |
-| 43 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
-| 44 | [#BravM](http://twitter.com/search?q=%23BravM) | N/A |
-| 45 | [#BetclicELITE](http://twitter.com/search?q=%23BetclicELITE) | N/A |
-| 46 | [#ASMCAB](http://twitter.com/search?q=%23ASMCAB) | N/A |
-| 47 | [#LOURCT](http://twitter.com/search?q=%23LOURCT) | N/A |
-| 48 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 19 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 21 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
+| 22 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 23 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
+| 24 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
+| 25 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 26 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
+| 27 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
+| 28 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 29 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
+| 30 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 31 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 32 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
+| 33 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 34 | [Landes](http://twitter.com/search?q=Landes) | N/A |
+| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 38 | [#MARBRE](http://twitter.com/search?q=%23MARBRE) | N/A |
+| 39 | [#SmackDownAB](http://twitter.com/search?q=%23SmackDownAB) | N/A |
+| 40 | [#SaintSoline](http://twitter.com/search?q=%23SaintSoline) | N/A |
+| 41 | [#Cabrelspace](http://twitter.com/search?q=%23Cabrelspace) | N/A |
+| 42 | [#ESPNOR](http://twitter.com/search?q=%23ESPNOR) | N/A |
+| 43 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
+| 44 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
+| 45 | [#LMDLA](http://twitter.com/search?q=%23LMDLA) | N/A |
+| 46 | [#Sidaction2023](http://twitter.com/search?q=%23Sidaction2023) | N/A |
+| 47 | [#BravM](http://twitter.com/search?q=%23BravM) | N/A |
+| 48 | [#Manif25mars](http://twitter.com/search?q=%23Manif25mars) | N/A |
 
 
 

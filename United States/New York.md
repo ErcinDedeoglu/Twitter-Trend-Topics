@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-25 21:17:16 UTC`
+📆 Last Updated: `2023-03-25 22:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmazinDay](http://twitter.com/search?q=%23AmazinDay) | N/A |
-| 2 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 3 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 4 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 5 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 6 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 7 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 8 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 9 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 10 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 11 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 12 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 13 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 14 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 15 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 16 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 17 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 19 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 20 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
-| 21 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 22 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 23 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 24 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
-| 25 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 26 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 27 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 28 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
-| 29 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 30 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 31 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
-| 32 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 33 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 34 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 35 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 36 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
-| 37 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 38 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
-| 39 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 40 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 41 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 42 | [Uncle Ted](http://twitter.com/search?q=Uncle+Ted) | N/A |
-| 43 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 44 | [Ed Henry](http://twitter.com/search?q=Ed+Henry) | N/A |
-| 45 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 46 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
-| 47 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 48 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 49 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 1 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
+| 2 | [#AmazinDay](http://twitter.com/search?q=%23AmazinDay) | N/A |
+| 3 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 4 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 5 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 6 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 7 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 8 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 9 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 10 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
+| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 12 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 13 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 14 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 15 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 16 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
+| 17 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 18 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 20 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 21 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
+| 22 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 23 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 24 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 25 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 26 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 27 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 28 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 30 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 31 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 32 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 33 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 35 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 36 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 37 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
+| 38 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
+| 39 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 41 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 42 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 43 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 44 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 45 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 46 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 47 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
+| 48 | [Aaliyah Edwards](http://twitter.com/search?q=Aaliyah+Edwards) | N/A |
+| 49 | [Nova Southeastern](http://twitter.com/search?q=Nova+Southeastern) | N/A |
+| 50 | [Dom Dolla](http://twitter.com/search?q=Dom+Dolla) | N/A |
 
 
 

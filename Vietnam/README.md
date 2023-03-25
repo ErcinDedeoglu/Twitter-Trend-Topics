@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-25 21:17:27 UTC`
+📆 Last Updated: `2023-03-25 22:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
-| 2 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
+| 2 | [wb night with xiao zhan](http://twitter.com/search?q=wb+night+with+xiao+zhan) | N/A |
 | 3 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
 | 4 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 5 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
-| 6 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
+| 5 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
+| 6 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
 | 7 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
 | 8 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
 | 9 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Vietnam
 | 15 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 16 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 17 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 18 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 18 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 20 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 21 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
@@ -40,26 +40,29 @@ This is top 50 for Vietnam
 | 23 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 24 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
 | 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 26 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
-| 27 | [England](http://twitter.com/search?q=England) | N/A |
-| 28 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 29 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 31 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 32 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
-| 33 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 34 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 26 | [England](http://twitter.com/search?q=England) | N/A |
+| 27 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 28 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 29 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
+| 32 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [trove](http://twitter.com/search?q=trove) | N/A |
 | 35 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 36 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 37 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 37 | [xinh](http://twitter.com/search?q=xinh) | N/A |
 | 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 | 39 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 40 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 43 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 45 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
+| 41 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 42 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
+| 45 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 46 | [#ฟรีนเบคFanBoomD1](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD1) | N/A |
+| 47 | [#WangYibo_WeiboNight2022](http://twitter.com/search?q=%23WangYibo_WeiboNight2022) | N/A |
+| 48 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 
 
 

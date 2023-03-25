@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-25 21:17:17 UTC`
+📆 Last Updated: `2023-03-25 22:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 2 | [#FueledByPhilly](http://twitter.com/search?q=%23FueledByPhilly) | N/A |
-| 3 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 4 | [#PaxEast](http://twitter.com/search?q=%23PaxEast) | N/A |
-| 5 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 6 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 7 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 1 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
+| 2 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 3 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 4 | [#FueledByPhilly](http://twitter.com/search?q=%23FueledByPhilly) | N/A |
+| 5 | [#PaxEast](http://twitter.com/search?q=%23PaxEast) | N/A |
+| 6 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 7 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
 | 8 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 9 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 10 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 11 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 12 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 13 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 14 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
-| 15 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 16 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 17 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 18 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 19 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 20 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 21 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 22 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 23 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
-| 24 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
-| 25 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 27 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 28 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 29 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
-| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 31 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
-| 32 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 33 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 34 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 35 | [Uncle Ted](http://twitter.com/search?q=Uncle+Ted) | N/A |
-| 36 | [Ed Henry](http://twitter.com/search?q=Ed+Henry) | N/A |
-| 37 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 38 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 39 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 40 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
-| 41 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 42 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 43 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 44 | [COTA](http://twitter.com/search?q=COTA) | N/A |
-| 45 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
-| 46 | [Tolvanen](http://twitter.com/search?q=Tolvanen) | N/A |
-| 47 | [Meryl](http://twitter.com/search?q=Meryl) | Meryl is a female given name of French origin, derived from the name Mary. It is a combination of Mary and the suffix -el, meaning "beloved". |
-| 48 | [50 Tyson](http://twitter.com/search?q=50+Tyson) | N/A |
-| 49 | [Atlantic Division](http://twitter.com/search?q=Atlantic+Division) | N/A |
+| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 10 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 11 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
+| 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 13 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 14 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 15 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 16 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
+| 17 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 18 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 19 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 20 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 21 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 22 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 23 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 25 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 26 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 27 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 28 | [Halak](http://twitter.com/search?q=Halak) | N/A |
+| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 30 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 31 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 32 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
+| 33 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
+| 34 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 35 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 36 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 37 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 38 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
+| 39 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 40 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 41 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 42 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
+| 43 | [Aaliyah Edwards](http://twitter.com/search?q=Aaliyah+Edwards) | N/A |
+| 44 | [Nova Southeastern](http://twitter.com/search?q=Nova+Southeastern) | N/A |
+| 45 | [Dom Dolla](http://twitter.com/search?q=Dom+Dolla) | N/A |
+| 46 | [She's a Lady](http://twitter.com/search?q=She%27s+a+Lady) | N/A |
+| 47 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 48 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 49 | [Herzog](http://twitter.com/search?q=Herzog) | N/A |
 
 
 

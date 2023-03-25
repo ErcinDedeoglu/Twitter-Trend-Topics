@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-25 21:16:33 UTC`
+📆 Last Updated: `2023-03-25 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PFLNewcastle](http://twitter.com/search?q=%23PFLNewcastle) | N/A |
-| 2 | [#ENGFRA](http://twitter.com/search?q=%23ENGFRA) | N/A |
-| 3 | [#SARvHAR](http://twitter.com/search?q=%23SARvHAR) | N/A |
-| 4 | [#YoungLions](http://twitter.com/search?q=%23YoungLions) | N/A |
-| 5 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 6 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 7 | [Hartlepool](http://twitter.com/search?q=Hartlepool) | N/A |
-| 8 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 10 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 11 | [Evans](http://twitter.com/search?q=Evans) | N/A |
-| 12 | [Peterborough](http://twitter.com/search?q=Peterborough) | N/A |
-| 13 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 14 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 15 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 16 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 17 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 18 | [Swindon](http://twitter.com/search?q=Swindon) | N/A |
-| 19 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 20 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 21 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
-| 22 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 23 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 24 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 25 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 26 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 27 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 28 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 29 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 31 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 32 | [James Brown](http://twitter.com/search?q=James+Brown) | James Brown is the stage name of the late American singer, songwriter, and musician. He was known as the "Godfather of Soul" and was a major influence on funk, soul, and rhythm and blues music. His style of music was characterized by its strong beats, syncopated rhythms, and his signature raspy vocals. |
-| 33 | [East 17](http://twitter.com/search?q=East+17) | N/A |
-| 34 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 35 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 36 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 37 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 38 | [Neco](http://twitter.com/search?q=Neco) | N/A |
-| 39 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 40 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 41 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 42 | [Callum Simpson](http://twitter.com/search?q=Callum+Simpson) | N/A |
-| 43 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 44 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
-| 45 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 46 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 47 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 48 | [Sarah Hunter](http://twitter.com/search?q=Sarah+Hunter) | N/A |
-| 49 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 1 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 2 | [#HeaneyFlatley2](http://twitter.com/search?q=%23HeaneyFlatley2) | N/A |
+| 3 | [#antanddec](http://twitter.com/search?q=%23antanddec) | N/A |
+| 4 | [Sarah Hunter](http://twitter.com/search?q=Sarah+Hunter) | N/A |
+| 5 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 6 | [#RedRoses](http://twitter.com/search?q=%23RedRoses) | N/A |
+| 7 | [#FormulaE](http://twitter.com/search?q=%23FormulaE) | N/A |
+| 8 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 9 | [Orient](http://twitter.com/search?q=Orient) | N/A |
+| 10 | [Posh](http://twitter.com/search?q=Posh) | N/A |
+| 11 | [Hartlepool](http://twitter.com/search?q=Hartlepool) | N/A |
+| 12 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 13 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 14 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 15 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 16 | [Pompey](http://twitter.com/search?q=Pompey) | N/A |
+| 17 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 18 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 19 | [North London](http://twitter.com/search?q=North+London) | North London is an informal term used to refer to the northern part of the city of London, England. It is generally taken to include the areas within the London Boroughs of Camden, Islington, Hackney, Haringey and Enfield. |
+| 20 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 21 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 22 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
+| 23 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 24 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
+| 25 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
+| 26 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 27 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 28 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 29 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 30 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 31 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 32 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 33 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
+| 34 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 35 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 36 | [Rob Page](http://twitter.com/search?q=Rob+Page) | N/A |
+| 37 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 38 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 39 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
+| 40 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
+| 41 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 42 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 43 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
+| 44 | [James Brown](http://twitter.com/search?q=James+Brown) | James Brown is the stage name of the late American singer, songwriter, and musician. He was known as the "Godfather of Soul" and was a major influence on funk, soul, and rhythm and blues music. His style of music was characterized by its strong beats, syncopated rhythms, and his signature raspy vocals. |
+| 45 | [Neco](http://twitter.com/search?q=Neco) | N/A |
+| 46 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 47 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 48 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 49 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
 
 
 

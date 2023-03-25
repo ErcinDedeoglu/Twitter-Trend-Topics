@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-25 21:16:42 UTC`
+📆 Last Updated: `2023-03-25 22:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 2 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 3 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 1 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 2 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 3 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
 | 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 5 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 6 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 7 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 8 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 9 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
-| 10 | [#WallowsNoMultishow](http://twitter.com/search?q=%23WallowsNoMultishow) | N/A |
-| 11 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
-| 12 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 13 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
-| 14 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 15 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 16 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 17 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
-| 18 | [#YungBludNoMultishow](http://twitter.com/search?q=%23YungBludNoMultishow) | N/A |
-| 19 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 20 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 21 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 22 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 23 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 24 | [Dona Cila](http://twitter.com/search?q=Dona+Cila) | N/A |
-| 25 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
-| 26 | [Maria Gadu](http://twitter.com/search?q=Maria+Gadu) | N/A |
-| 27 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 28 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 29 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 30 | [João Pedro](http://twitter.com/search?q=Jo%c3%a3o+Pedro) | N/A |
-| 31 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 32 | [Thacigol](http://twitter.com/search?q=Thacigol) | N/A |
-| 33 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 34 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 35 | [Carrossel](http://twitter.com/search?q=Carrossel) | N/A |
-| 36 | [Caíque](http://twitter.com/search?q=Ca%c3%adque) | N/A |
-| 37 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 38 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 39 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
-| 40 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
-| 41 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
-| 42 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 43 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 44 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 45 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
-| 46 | [Piracicaba](http://twitter.com/search?q=Piracicaba) | N/A |
-| 47 | [Essa Aline](http://twitter.com/search?q=Essa+Aline) | N/A |
-| 48 | [Romildo](http://twitter.com/search?q=Romildo) | N/A |
-| 49 | [Canoas](http://twitter.com/search?q=Canoas) | N/A |
-| 50 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 5 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 6 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 7 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 8 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 9 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 10 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 11 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 12 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 13 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 14 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 15 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 16 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
+| 17 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
+| 18 | [#BrasilNaBand](http://twitter.com/search?q=%23BrasilNaBand) | N/A |
+| 19 | [#The1975NoMultishow](http://twitter.com/search?q=%23The1975NoMultishow) | N/A |
+| 20 | [#WallowsNoMultishow](http://twitter.com/search?q=%23WallowsNoMultishow) | N/A |
+| 21 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 22 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 23 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 24 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 25 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 26 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
+| 27 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 28 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
+| 29 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 30 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
+| 31 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 32 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 33 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 34 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 35 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 36 | [Canal GB](http://twitter.com/search?q=Canal+GB) | N/A |
+| 37 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 38 | [Erechim](http://twitter.com/search?q=Erechim) | N/A |
+| 39 | [Caíque](http://twitter.com/search?q=Ca%c3%adque) | N/A |
+| 40 | [Dona Cila](http://twitter.com/search?q=Dona+Cila) | N/A |
+| 41 | [Maria Gadu](http://twitter.com/search?q=Maria+Gadu) | N/A |
+| 42 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
+| 43 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 44 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 45 | [João Pedro](http://twitter.com/search?q=Jo%c3%a3o+Pedro) | N/A |
+| 46 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 47 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
+| 48 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 49 | [Carrossel](http://twitter.com/search?q=Carrossel) | N/A |
+| 50 | [yungblud](http://twitter.com/search?q=yungblud) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-25 21:17:20 UTC`
+📆 Last Updated: `2023-03-25 22:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Canada
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 3 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 2 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 3 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 5 | [Walker Duehr](http://twitter.com/search?q=Walker+Duehr) | N/A |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 9 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
-| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 12 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 13 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 14 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 15 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 16 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 17 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 18 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 19 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 9 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 10 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 11 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 12 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
+| 13 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 14 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 15 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 16 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 17 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 18 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 19 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 23 | [London](http://twitter.com/search?q=London) | N/A |
-| 24 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 25 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 26 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
-| 27 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 28 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 29 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 30 | [Mikael Backlund](http://twitter.com/search?q=Mikael+Backlund) | N/A |
-| 31 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 32 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 33 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 34 | [Trustee Kaplan-Myrth](http://twitter.com/search?q=Trustee+Kaplan-Myrth) | N/A |
-| 35 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 36 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 37 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 38 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 21 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 22 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 23 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 24 | [London](http://twitter.com/search?q=London) | N/A |
+| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 26 | [Felix Auger](http://twitter.com/search?q=Felix+Auger) | N/A |
+| 27 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
+| 28 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 29 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 30 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 32 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 33 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 34 | [Mikael Backlund](http://twitter.com/search?q=Mikael+Backlund) | N/A |
+| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 36 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 37 | [Stornoway](http://twitter.com/search?q=Stornoway) | N/A |
+| 38 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 40 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
 | 41 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 43 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
-| 44 | [Stornoway](http://twitter.com/search?q=Stornoway) | N/A |
-| 45 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 46 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 47 | [Althia](http://twitter.com/search?q=Althia) | N/A |
-| 48 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 49 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 50 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 42 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 44 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 45 | [Bully Ray](http://twitter.com/search?q=Bully+Ray) | N/A |
+| 46 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
+| 47 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 48 | [Josh Lawrence](http://twitter.com/search?q=Josh+Lawrence) | N/A |
+| 49 | [Jordan Dumais](http://twitter.com/search?q=Jordan+Dumais) | N/A |
+| 50 | [Althia](http://twitter.com/search?q=Althia) | N/A |
 
 
 
