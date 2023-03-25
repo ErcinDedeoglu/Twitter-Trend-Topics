@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-24 23:18:56 UTC`
+📆 Last Updated: `2023-03-25 00:27:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 2 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 3 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 4 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 6 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 7 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 8 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 9 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 10 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 1 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 2 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 3 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 4 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 5 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 6 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 9 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
+| 10 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
 | 11 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 12 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 13 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 14 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 15 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 16 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 17 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
-| 18 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 19 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 20 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
-| 21 | [#TresVezesAna040](http://twitter.com/search?q=%23TresVezesAna040) | N/A |
-| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 23 | [#MonarkREDPILL](http://twitter.com/search?q=%23MonarkREDPILL) | N/A |
-| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 25 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
-| 26 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
-| 27 | [#CNNArena](http://twitter.com/search?q=%23CNNArena) | N/A |
-| 28 | [#ADona074](http://twitter.com/search?q=%23ADona074) | N/A |
-| 29 | [#LulaNaChina](http://twitter.com/search?q=%23LulaNaChina) | N/A |
-| 30 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 31 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 32 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 33 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 34 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 35 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 36 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
-| 37 | [Polônia](http://twitter.com/search?q=Pol%c3%b4nia) | N/A |
-| 38 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 39 | [Os Cavaleiros](http://twitter.com/search?q=Os+Cavaleiros) | N/A |
-| 40 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 41 | [Paulo Pimenta](http://twitter.com/search?q=Paulo+Pimenta) | N/A |
-| 42 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 43 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 44 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
-| 45 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
-| 46 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 47 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
-| 48 | [Hot Milk](http://twitter.com/search?q=Hot+Milk) | N/A |
-| 49 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
-| 50 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 12 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 13 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 14 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 15 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 16 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 17 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 18 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 19 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 20 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 21 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 22 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
+| 23 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
+| 24 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 25 | [#MonarkREDPILL](http://twitter.com/search?q=%23MonarkREDPILL) | N/A |
+| 26 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 27 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 28 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
+| 29 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
+| 30 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 31 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 32 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 33 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
+| 34 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
+| 35 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 36 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 37 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
+| 38 | [O Começo](http://twitter.com/search?q=O+Come%c3%a7o) | N/A |
+| 39 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 40 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 41 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 42 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
+| 43 | [Grey's Anatomy](http://twitter.com/search?q=Grey%27s+Anatomy) | N/A |
+| 44 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 45 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 46 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 47 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
+| 48 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
+| 49 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
+| 50 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
 
 
 

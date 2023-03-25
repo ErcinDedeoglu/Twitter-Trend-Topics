@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-24 23:19:31 UTC`
+📆 Last Updated: `2023-03-25 00:28:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
-| 2 | [#GoCanes](http://twitter.com/search?q=%23GoCanes) | N/A |
-| 3 | [Alvin](http://twitter.com/search?q=Alvin) | N/A |
-| 4 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 5 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 6 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
-| 7 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 8 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 9 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 11 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 13 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 14 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 16 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 19 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 20 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 23 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 24 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 25 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 26 | [Pili](http://twitter.com/search?q=Pili) | N/A |
-| 27 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 28 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 29 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 30 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 31 | [LaDazhia Williams](http://twitter.com/search?q=LaDazhia+Williams) | N/A |
-| 32 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 33 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 34 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 35 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
-| 36 | [Dollander](http://twitter.com/search?q=Dollander) | N/A |
-| 37 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 38 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 39 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 40 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 42 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
-| 43 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 44 | [5000 Taliban](http://twitter.com/search?q=5000+Taliban) | N/A |
-| 45 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 46 | [Muteace](http://twitter.com/search?q=Muteace) | Muteace is a Japanese term that literally translates to "silence". It is used to describe a situation in which people remain silent or do not speak out, often due to fear or social pressure. |
-| 47 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
-| 48 | [Training Day](http://twitter.com/search?q=Training+Day) | N/A |
-| 49 | [Reese Witherspoon](http://twitter.com/search?q=Reese+Witherspoon) | N/A |
+| 1 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 2 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 3 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 4 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
+| 5 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 6 | [Alvin](http://twitter.com/search?q=Alvin) | N/A |
+| 7 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 8 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 10 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 11 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 12 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 13 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 14 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 15 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 16 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 17 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 18 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 19 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 20 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 21 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 23 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 24 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 25 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 26 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 27 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 28 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 29 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 30 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 31 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 32 | [Ludwig Kaiser](http://twitter.com/search?q=Ludwig+Kaiser) | N/A |
+| 33 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 34 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 35 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 36 | [2real](http://twitter.com/search?q=2real) | N/A |
+| 37 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 38 | [Zach Parise](http://twitter.com/search?q=Zach+Parise) | N/A |
+| 39 | [Frida Formann](http://twitter.com/search?q=Frida+Formann) | N/A |
+| 40 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 41 | [Bediako](http://twitter.com/search?q=Bediako) | N/A |
+| 42 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
+| 43 | [Jenna Johnson](http://twitter.com/search?q=Jenna+Johnson) | N/A |
+| 44 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 45 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 46 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 47 | [Zane Gonzalez](http://twitter.com/search?q=Zane+Gonzalez) | N/A |
+| 48 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 49 | [Lemonis](http://twitter.com/search?q=Lemonis) | N/A |
 
 
 

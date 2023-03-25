@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-24 23:18:56 UTC`
+📆 Last Updated: `2023-03-25 00:27:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 2 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 3 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 4 | [alisa](http://twitter.com/search?q=alisa) | N/A |
-| 5 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 6 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 1 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
+| 2 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
+| 3 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
+| 4 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 5 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 6 | [Banco](http://twitter.com/search?q=Banco) | N/A |
 | 7 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 8 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 9 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
-| 10 | [suki](http://twitter.com/search?q=suki) | N/A |
-| 11 | [#HonkaiStarRail](http://twitter.com/search?q=%23HonkaiStarRail) | N/A |
-| 12 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 13 | [Truce](http://twitter.com/search?q=Truce) | N/A |
-| 14 | [Mentiu](http://twitter.com/search?q=Mentiu) | N/A |
-| 15 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 16 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 17 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 18 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 20 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 21 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 22 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 23 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 24 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 8 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 9 | [alisa](http://twitter.com/search?q=alisa) | N/A |
+| 10 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 11 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
+| 12 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 13 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 14 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 15 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 16 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 17 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 18 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 19 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 20 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 22 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 23 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
+| 24 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
 | 25 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 26 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 27 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 28 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 29 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 30 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 31 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
-| 32 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 34 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
-| 35 | [#TresVezesAna040](http://twitter.com/search?q=%23TresVezesAna040) | N/A |
-| 36 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 37 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 38 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
-| 39 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
-| 40 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 41 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 43 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 44 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 45 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 46 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
-| 47 | [Polônia](http://twitter.com/search?q=Pol%c3%b4nia) | N/A |
-| 48 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 49 | [Os Cavaleiros](http://twitter.com/search?q=Os+Cavaleiros) | N/A |
-| 50 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
+| 26 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 27 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 28 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 29 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 30 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 31 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 32 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 33 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 34 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 35 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 36 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
+| 37 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
+| 38 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 39 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 40 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 41 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
+| 42 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
+| 43 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 44 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 45 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
+| 46 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
+| 47 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 48 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 49 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
+| 50 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
 
 
 

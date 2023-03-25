@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-24 23:19:39 UTC`
+📆 Last Updated: `2023-03-25 00:28:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [ポケモン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3) | N/A |
 | 2 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 3 | [タイプワイルド](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%97%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | タイプワイルド is a Japanese manga series written and illustrated by Toshihiro Ono. It follows the story of a group of teenagers who are chosen to become the new guardians of the world, using their special powers to protect it from evil forces. The title translates to "Type Wild" in English, referring to the characters' wild and unpredictable nature. |
-| 4 | [裸の少年](http://twitter.com/search?q=%e8%a3%b8%e3%81%ae%e5%b0%91%e5%b9%b4) | N/A |
-| 5 | [#宮舘涼太誕生祭2023](http://twitter.com/search?q=%23%e5%ae%ae%e8%88%98%e6%b6%bc%e5%a4%aa%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 6 | [#サタプラ](http://twitter.com/search?q=%23%e3%82%b5%e3%82%bf%e3%83%97%e3%83%a9) | N/A |
-| 7 | [#旅サラダ](http://twitter.com/search?q=%23%e6%97%85%e3%82%b5%e3%83%a9%e3%83%80) | #旅サラダ is a hashtag used on social media in Japan to refer to a type of salad made with ingredients that are easy to take on a trip. The literal translation of #旅サラダ is "Travel Salad". |
-| 8 | [#京ちゃんメール](http://twitter.com/search?q=%23%e4%ba%ac%e3%81%a1%e3%82%83%e3%82%93%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
-| 9 | [#未来の意味](http://twitter.com/search?q=%23%e6%9c%aa%e6%9d%a5%e3%81%ae%e6%84%8f%e5%91%b3) | N/A |
-| 10 | [雨の土曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e5%9c%9f%e6%9b%9c%e6%97%a5) | N/A |
-| 11 | [土曜出勤](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
-| 12 | [ズムサタ](http://twitter.com/search?q=%e3%82%ba%e3%83%a0%e3%82%b5%e3%82%bf) | N/A |
-| 13 | [サマステ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%b9%e3%83%86) | サマステ is short for サマーステージ, which means "summer stage" in English. It is a term used to refer to outdoor concerts and festivals that take place during the summer months. |
-| 14 | [第428回](http://twitter.com/search?q=%e7%ac%ac428%e5%9b%9e) | N/A |
-| 15 | [アニメジャパン](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | アニメジャパン is a Japanese animation and manga magazine published by Tokuma Shoten. The magazine covers topics related to anime, manga, and other aspects of Japanese pop culture. In English, the phrase translates to "Anime Japan". |
-| 16 | [自愛の日](http://twitter.com/search?q=%e8%87%aa%e6%84%9b%e3%81%ae%e6%97%a5) | N/A |
-| 17 | [空き家税](http://twitter.com/search?q=%e7%a9%ba%e3%81%8d%e5%ae%b6%e7%a8%8e) | N/A |
-| 18 | [ボーカル王](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%82%ab%e3%83%ab%e7%8e%8b) | N/A |
-| 19 | [サラダ・ヴァイキング](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e3%83%bb%e3%83%b4%e3%82%a1%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 20 | [デビュー5周年](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc5%e5%91%a8%e5%b9%b4) | N/A |
-| 21 | [雨天のため中止](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e3%81%ae%e3%81%9f%e3%82%81%e4%b8%ad%e6%ad%a2) | N/A |
-| 22 | [AnimeJapan](http://twitter.com/search?q=AnimeJapan) | AnimeJapan is an annual event held in Tokyo, Japan that celebrates Japanese animation (anime) and manga. It is the largest anime event in the world, featuring a variety of activities such as screenings, stage events, exhibitions, and more. The name AnimeJapan is a combination of the words "anime" and "Japan," reflecting its focus on Japanese animation. |
-| 23 | [やよい軒高槻店](http://twitter.com/search?q=%e3%82%84%e3%82%88%e3%81%84%e8%bb%92%e9%ab%98%e6%a7%bb%e5%ba%97) | N/A |
-| 24 | [笑顔表情筋の日](http://twitter.com/search?q=%e7%ac%91%e9%a1%94%e8%a1%a8%e6%83%85%e7%ad%8b%e3%81%ae%e6%97%a5) | N/A |
-| 25 | [ミチルくん](http://twitter.com/search?q=%e3%83%9f%e3%83%81%e3%83%ab%e3%81%8f%e3%82%93) | N/A |
-| 26 | [ディアブロ4](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%a2%e3%83%96%e3%83%ad4) | N/A |
-| 27 | [流通センター](http://twitter.com/search?q=%e6%b5%81%e9%80%9a%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 28 | [ハイパーゲーム大会](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0%e5%a4%a7%e4%bc%9a) | N/A |
-| 29 | [はだしょリニューアル](http://twitter.com/search?q=%e3%81%af%e3%81%a0%e3%81%97%e3%82%87%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab) | N/A |
-| 30 | [舘様誕生日](http://twitter.com/search?q=%e8%88%98%e6%a7%98%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 31 | [Wordle 644](http://twitter.com/search?q=Wordle+644) | N/A |
-| 32 | [第35話](http://twitter.com/search?q=%e7%ac%ac35%e8%a9%b1) | N/A |
-| 33 | [スキズ5周年](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%82%ba5%e5%91%a8%e5%b9%b4) | N/A |
-| 34 | [売却・賃貸](http://twitter.com/search?q=%e5%a3%b2%e5%8d%b4%e3%83%bb%e8%b3%83%e8%b2%b8) | N/A |
-| 35 | [まっしー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
-| 36 | [雨の週末](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e9%80%b1%e6%9c%ab) | N/A |
-| 37 | [セクシーロイヤル](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab) | N/A |
-| 38 | [芋ぴっぴ](http://twitter.com/search?q=%e8%8a%8b%e3%81%b4%e3%81%a3%e3%81%b4) | N/A |
-| 39 | [シューくん](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
-| 40 | [フランス](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9) | N/A |
-| 41 | [着せ替え人形](http://twitter.com/search?q=%e7%9d%80%e3%81%9b%e6%9b%bf%e3%81%88%e4%ba%ba%e5%bd%a2) | N/A |
-| 42 | [雨天中止](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e4%b8%ad%e6%ad%a2) | N/A |
-| 43 | [着せ恋11巻](http://twitter.com/search?q=%e7%9d%80%e3%81%9b%e6%81%8b11%e5%b7%bb) | N/A |
-| 44 | [ギャオス](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%82%aa%e3%82%b9) | N/A |
-| 45 | [あんステ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%83%86) | あんステ (Ansute) is a Japanese portmanteau of the words "Anime" and "Music Station". It is a popular Japanese music program that features anime songs and music videos. The program is broadcast on the Tokyo MX television network. |
-| 46 | [サトシ引退](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e5%bc%95%e9%80%80) | N/A |
-| 47 | [グリーズマン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%9e%e3%83%b3) | N/A |
-| 48 | [適用方針](http://twitter.com/search?q=%e9%81%a9%e7%94%a8%e6%96%b9%e9%87%9d) | N/A |
-| 49 | [水着クラリス](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%82%af%e3%83%a9%e3%83%aa%e3%82%b9) | N/A |
+| 3 | [#サタプラ](http://twitter.com/search?q=%23%e3%82%b5%e3%82%bf%e3%83%97%e3%83%a9) | N/A |
+| 4 | [#旅サラダ](http://twitter.com/search?q=%23%e6%97%85%e3%82%b5%e3%83%a9%e3%83%80) | #旅サラダ is a hashtag used on social media in Japan to refer to a type of salad made with ingredients that are easy to take on a trip. The literal translation of #旅サラダ is "Travel Salad". |
+| 5 | [裸の少年](http://twitter.com/search?q=%e8%a3%b8%e3%81%ae%e5%b0%91%e5%b9%b4) | N/A |
+| 6 | [野沢雅子](http://twitter.com/search?q=%e9%87%8e%e6%b2%a2%e9%9b%85%e5%ad%90) | N/A |
+| 7 | [#宮舘涼太誕生祭2023](http://twitter.com/search?q=%23%e5%ae%ae%e8%88%98%e6%b6%bc%e5%a4%aa%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 8 | [#ジェネスタ](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%8d%e3%82%b9%e3%82%bf) | #ジェネスタ is a hashtag used on social media in Japan. It translates to "Generation S" and is used to refer to people born between the mid-1980s and mid-1990s. It is often used to discuss topics related to this generation, such as lifestyle, fashion, and culture. |
+| 9 | [アニメジャパン](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | アニメジャパン is a Japanese animation and manga magazine published by Tokuma Shoten. The magazine covers topics related to anime, manga, and other aspects of Japanese pop culture. In English, the phrase translates to "Anime Japan". |
+| 10 | [#土曜はナニする](http://twitter.com/search?q=%23%e5%9c%9f%e6%9b%9c%e3%81%af%e3%83%8a%e3%83%8b%e3%81%99%e3%82%8b) | "#土曜はナニする" is a hashtag in Japanese that translates to "What are you doing on Saturdays?". It is used to ask people what they are doing on Saturdays. |
+| 11 | [やよい軒高槻店](http://twitter.com/search?q=%e3%82%84%e3%82%88%e3%81%84%e8%bb%92%e9%ab%98%e6%a7%bb%e5%ba%97) | N/A |
+| 12 | [雨の土曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e5%9c%9f%e6%9b%9c%e6%97%a5) | N/A |
+| 13 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
+| 14 | [野沢さん](http://twitter.com/search?q=%e9%87%8e%e6%b2%a2%e3%81%95%e3%82%93) | 野沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr./Ms. Nozawa" or "Respected Nozawa". |
+| 15 | [富と豊かさ](http://twitter.com/search?q=%e5%af%8c%e3%81%a8%e8%b1%8a%e3%81%8b%e3%81%95) | N/A |
+| 16 | [AnimeJapan](http://twitter.com/search?q=AnimeJapan) | AnimeJapan is an annual event held in Tokyo, Japan that celebrates Japanese animation (anime) and manga. It is the largest anime event in the world, featuring a variety of activities such as screenings, stage events, exhibitions, and more. The name AnimeJapan is a combination of the words "anime" and "Japan," reflecting its focus on Japanese animation. |
+| 17 | [土曜出勤](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
+| 18 | [フンドーキン](http://twitter.com/search?q=%e3%83%95%e3%83%b3%e3%83%89%e3%83%bc%e3%82%ad%e3%83%b3) | N/A |
+| 19 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
+| 20 | [サマステ](http://twitter.com/search?q=%e3%82%b5%e3%83%9e%e3%82%b9%e3%83%86) | サマステ is short for サマーステージ, which means "summer stage" in English. It is a term used to refer to outdoor concerts and festivals that take place during the summer months. |
+| 21 | [幸運の土日](http://twitter.com/search?q=%e5%b9%b8%e9%81%8b%e3%81%ae%e5%9c%9f%e6%97%a5) | N/A |
+| 22 | [空き家税](http://twitter.com/search?q=%e7%a9%ba%e3%81%8d%e5%ae%b6%e7%a8%8e) | N/A |
+| 23 | [グルマン博士](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%9e%e3%83%b3%e5%8d%9a%e5%a3%ab) | N/A |
+| 24 | [エワ即売会](http://twitter.com/search?q=%e3%82%a8%e3%83%af%e5%8d%b3%e5%a3%b2%e4%bc%9a) | N/A |
+| 25 | [チュチュパイセン](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%81%e3%83%a5%e3%83%91%e3%82%a4%e3%82%bb%e3%83%b3) | N/A |
+| 26 | [ハイパーゲーム大会](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0%e5%a4%a7%e4%bc%9a) | N/A |
+| 27 | [クラーク](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af) | N/A |
+| 28 | [第428回](http://twitter.com/search?q=%e7%ac%ac428%e5%9b%9e) | N/A |
+| 29 | [電気記念日](http://twitter.com/search?q=%e9%9b%bb%e6%b0%97%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 30 | [流通センター](http://twitter.com/search?q=%e6%b5%81%e9%80%9a%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 31 | [エックス](http://twitter.com/search?q=%e3%82%a8%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 32 | [マルサンアイ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%a4) | N/A |
+| 33 | [日本の指導力必要](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e6%8c%87%e5%b0%8e%e5%8a%9b%e5%bf%85%e8%a6%81) | N/A |
+| 34 | [能見さん](http://twitter.com/search?q=%e8%83%bd%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
+| 35 | [ボーカル王](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%82%ab%e3%83%ab%e7%8e%8b) | N/A |
+| 36 | [チュチュ先輩](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%81%e3%83%a5%e5%85%88%e8%bc%a9) | N/A |
+| 37 | [鳥谷さん](http://twitter.com/search?q=%e9%b3%a5%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
+| 38 | [ポリドール](http://twitter.com/search?q=%e3%83%9d%e3%83%aa%e3%83%89%e3%83%bc%e3%83%ab) | N/A |
+| 39 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 40 | [自愛の日](http://twitter.com/search?q=%e8%87%aa%e6%84%9b%e3%81%ae%e6%97%a5) | N/A |
+| 41 | [ズムサタ](http://twitter.com/search?q=%e3%82%ba%e3%83%a0%e3%82%b5%e3%82%bf) | N/A |
+| 42 | [雨天のため中止](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e3%81%ae%e3%81%9f%e3%82%81%e4%b8%ad%e6%ad%a2) | N/A |
+| 43 | [デヴィ夫人](http://twitter.com/search?q=%e3%83%87%e3%83%b4%e3%82%a3%e5%a4%ab%e4%ba%ba) | デヴィ夫人 is a Japanese title meaning "Lady Devey". It is used to refer to the wife of a nobleman or other high-ranking person. |
+| 44 | [ドラジュエルド](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab%e3%83%89) | N/A |
+| 45 | [不良馬場](http://twitter.com/search?q=%e4%b8%8d%e8%89%af%e9%a6%ac%e5%a0%b4) | N/A |
+| 46 | [専用列車内](http://twitter.com/search?q=%e5%b0%82%e7%94%a8%e5%88%97%e8%bb%8a%e5%86%85) | N/A |
+| 47 | [ライカくん](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%ab%e3%81%8f%e3%82%93) | N/A |
+| 48 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-24 23:18:57 UTC`
+📆 Last Updated: `2023-03-25 00:27:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
-| 2 | [#AUTAZE](http://twitter.com/search?q=%23AUTAZE) | N/A |
-| 3 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 4 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 1 | [#AUTAZE](http://twitter.com/search?q=%23AUTAZE) | N/A |
+| 2 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 3 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 4 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 5 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
 | 6 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 9 | [#spoe](http://twitter.com/search?q=%23spoe) | N/A |
+| 7 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 8 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 10 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 11 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 12 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Austria](</Austria>)
 | 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 30 | [Gemeinden](http://twitter.com/search?q=Gemeinden) | N/A |
 | 31 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 32 | [Angelobung](http://twitter.com/search?q=Angelobung) | N/A |
-| 33 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
-| 34 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 35 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 36 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 37 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
-| 38 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 39 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 40 | [Dynamik](http://twitter.com/search?q=Dynamik) | N/A |
+| 32 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
+| 33 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 34 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 35 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 36 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 37 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 38 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 39 | [Dynamik](http://twitter.com/search?q=Dynamik) | N/A |
+| 40 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
 | 41 | [Schauspiel](http://twitter.com/search?q=Schauspiel) | N/A |
 | 42 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 43 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 44 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
-| 45 | [Berater](http://twitter.com/search?q=Berater) | N/A |
-| 46 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 47 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
-| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 50 | [Kasperltheater](http://twitter.com/search?q=Kasperltheater) | N/A |
+| 44 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 45 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 46 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 47 | [Berater](http://twitter.com/search?q=Berater) | N/A |
+| 48 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 49 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
+| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

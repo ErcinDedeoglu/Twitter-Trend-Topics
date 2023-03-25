@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-24 23:18:48 UTC`
+📆 Last Updated: `2023-03-25 00:27:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 2 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 3 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 4 | [#NSL2023](http://twitter.com/search?q=%23NSL2023) | N/A |
-| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 6 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 7 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 8 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 9 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
-| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 11 | [#WomensFootballWeekend](http://twitter.com/search?q=%23WomensFootballWeekend) | N/A |
-| 12 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
-| 13 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 15 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 16 | [Bevan French](http://twitter.com/search?q=Bevan+French) | N/A |
-| 17 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 18 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 20 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 21 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 22 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 23 | [One For Arthur](http://twitter.com/search?q=One+For+Arthur) | N/A |
-| 24 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 25 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 26 | [Gloucester](http://twitter.com/search?q=Gloucester) | N/A |
-| 27 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 28 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 29 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
-| 30 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 31 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 33 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 34 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 35 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
-| 36 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 37 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 38 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
-| 39 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 40 | [Mark Littlewood](http://twitter.com/search?q=Mark+Littlewood) | N/A |
-| 41 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
-| 42 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 43 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 44 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 45 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 46 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
-| 47 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 48 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 49 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 2 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 3 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 5 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 6 | [Owen](http://twitter.com/search?q=Owen) | N/A |
+| 7 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 8 | [#LetWomenSpeakAuckland](http://twitter.com/search?q=%23LetWomenSpeakAuckland) | N/A |
+| 9 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 12 | [#ArthurCrighton](http://twitter.com/search?q=%23ArthurCrighton) | N/A |
+| 13 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 14 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 18 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 19 | [Bevan French](http://twitter.com/search?q=Bevan+French) | N/A |
+| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 22 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 23 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 24 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 25 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 26 | [Lords](http://twitter.com/search?q=Lords) | N/A |
+| 27 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 28 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 29 | [One For Arthur](http://twitter.com/search?q=One+For+Arthur) | N/A |
+| 30 | [Steelers](http://twitter.com/search?q=Steelers) | Steelers is the nickname of the professional American football team based in Pittsburgh, Pennsylvania. The team competes in the National Football League (NFL) as a member club of the American Football Conference (AFC) North division. |
+| 31 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 32 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 33 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
+| 34 | [Gloucester](http://twitter.com/search?q=Gloucester) | N/A |
+| 35 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 36 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 37 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 38 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 39 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 40 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 41 | [Arbroath](http://twitter.com/search?q=Arbroath) | N/A |
+| 42 | [Mark Littlewood](http://twitter.com/search?q=Mark+Littlewood) | N/A |
+| 43 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 44 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 45 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 46 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 47 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 48 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 49 | [Plant](http://twitter.com/search?q=Plant) | N/A |
 
 
 

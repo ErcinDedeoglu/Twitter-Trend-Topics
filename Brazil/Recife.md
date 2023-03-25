@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-24 23:18:55 UTC`
+📆 Last Updated: `2023-03-25 00:27:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 2 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 3 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 4 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 5 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 7 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 8 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 9 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 10 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 11 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 12 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 13 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 14 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 15 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 16 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 17 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 18 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
-| 19 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 20 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
-| 21 | [#TresVezesAna040](http://twitter.com/search?q=%23TresVezesAna040) | N/A |
-| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 23 | [#MonarkREDPILL](http://twitter.com/search?q=%23MonarkREDPILL) | N/A |
-| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 25 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
-| 26 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
-| 27 | [#CNNArena](http://twitter.com/search?q=%23CNNArena) | N/A |
-| 28 | [#ADona074](http://twitter.com/search?q=%23ADona074) | N/A |
-| 29 | [#LulaNaChina](http://twitter.com/search?q=%23LulaNaChina) | N/A |
-| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 31 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 33 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 34 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 35 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 36 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
-| 37 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 38 | [Polônia](http://twitter.com/search?q=Pol%c3%b4nia) | N/A |
-| 39 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 40 | [Os Cavaleiros](http://twitter.com/search?q=Os+Cavaleiros) | N/A |
-| 41 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 42 | [Paulo Pimenta](http://twitter.com/search?q=Paulo+Pimenta) | N/A |
-| 43 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 44 | [Marcius Melhem](http://twitter.com/search?q=Marcius+Melhem) | N/A |
-| 45 | [Gab Ferreira](http://twitter.com/search?q=Gab+Ferreira) | N/A |
-| 46 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 47 | [Intercept](http://twitter.com/search?q=Intercept) | N/A |
-| 48 | [Hot Milk](http://twitter.com/search?q=Hot+Milk) | N/A |
-| 49 | [Pedro Barros](http://twitter.com/search?q=Pedro+Barros) | N/A |
-| 50 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 1 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 2 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 3 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 4 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 5 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 6 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 7 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 9 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 10 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
+| 11 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 12 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
+| 13 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 14 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 15 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 16 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 17 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 18 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 19 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 20 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 22 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 23 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
+| 24 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
+| 25 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 26 | [#MonarkREDPILL](http://twitter.com/search?q=%23MonarkREDPILL) | N/A |
+| 27 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 28 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 29 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
+| 30 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
+| 31 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 32 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 33 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 34 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 35 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
+| 36 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
+| 37 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 38 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
+| 39 | [O Começo](http://twitter.com/search?q=O+Come%c3%a7o) | N/A |
+| 40 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 41 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 42 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 43 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
+| 44 | [Grey's Anatomy](http://twitter.com/search?q=Grey%27s+Anatomy) | N/A |
+| 45 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 46 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 47 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 48 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
+| 49 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
+| 50 | [CADEIA NELE](http://twitter.com/search?q=CADEIA+NELE) | N/A |
 
 
 

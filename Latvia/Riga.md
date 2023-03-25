@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-24 23:19:03 UTC`
+📆 Last Updated: `2023-03-25 00:27:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,40 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
-| 2 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 3 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 4 | [#ЕВРО2024](http://twitter.com/search?q=%23%d0%95%d0%92%d0%a0%d0%9e2024) | N/A |
-| 5 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 6 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
-| 7 | [zemes](http://twitter.com/search?q=zemes) | N/A |
-| 8 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
+| 2 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
+| 3 | [#ЕВРО2024](http://twitter.com/search?q=%23%d0%95%d0%92%d0%a0%d0%9e2024) | N/A |
+| 4 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
+| 5 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
+| 6 | [zemes](http://twitter.com/search?q=zemes) | N/A |
+| 7 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
+| 8 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
 | 9 | [prieks](http://twitter.com/search?q=prieks) | N/A |
 | 10 | [Starp](http://twitter.com/search?q=Starp) | N/A |
 | 11 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
 | 12 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 13 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 14 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 15 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | N/A |
-| 16 | [Laba](http://twitter.com/search?q=Laba) | N/A |
-| 17 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
-| 18 | [katru](http://twitter.com/search?q=katru) | N/A |
-| 19 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
-| 20 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 21 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 22 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 23 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
-| 24 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
-| 25 | [Ķīnu](http://twitter.com/search?q=%c4%b6%c4%abnu) | N/A |
-| 26 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 27 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 28 | [sibīriju](http://twitter.com/search?q=sib%c4%abriju) | N/A |
-| 29 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 30 | [Ventspilī](http://twitter.com/search?q=Ventspil%c4%ab) | N/A |
-| 31 | [CSDD](http://twitter.com/search?q=CSDD) | N/A |
-| 32 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
-| 33 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 34 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 35 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 14 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | N/A |
+| 15 | [Laba](http://twitter.com/search?q=Laba) | N/A |
+| 16 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
+| 17 | [katru](http://twitter.com/search?q=katru) | N/A |
+| 18 | [nekad](http://twitter.com/search?q=nekad) | N/A |
+| 19 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 20 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 21 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
+| 22 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
+| 23 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 24 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
+| 25 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 27 | [sibīriju](http://twitter.com/search?q=sib%c4%abriju) | N/A |
+| 28 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 29 | [Ventspilī](http://twitter.com/search?q=Ventspil%c4%ab) | N/A |
+| 30 | [csdd](http://twitter.com/search?q=csdd) | N/A |
+| 31 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 32 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 33 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 34 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 35 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
 | 36 | [Lego](http://twitter.com/search?q=Lego) | N/A |
 | 37 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 38 | [#Ukraina](http://twitter.com/search?q=%23Ukraina) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 42 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
 | 43 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 44 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
-| 45 | [JELGAVĀ](http://twitter.com/search?q=JELGAV%c4%80) | N/A |
+| 45 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
 | 46 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
 | 47 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 48 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 49 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 50 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 48 | [Piedod](http://twitter.com/search?q=Piedod) | N/A |
+| 49 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 50 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
 
 
 

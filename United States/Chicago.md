@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-24 23:19:25 UTC`
+📆 Last Updated: `2023-03-25 00:28:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 2 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 3 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 4 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 5 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 6 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 7 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 8 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 9 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 10 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 11 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 12 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 13 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 14 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 15 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 18 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 19 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 20 | [#ReasonsImTooBusy](http://twitter.com/search?q=%23ReasonsImTooBusy) | N/A |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [#diablo4openbeta](http://twitter.com/search?q=%23diablo4openbeta) | N/A |
-| 23 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 24 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 25 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 27 | [#GwynethPaltrowtrial](http://twitter.com/search?q=%23GwynethPaltrowtrial) | N/A |
-| 28 | [Pili](http://twitter.com/search?q=Pili) | N/A |
-| 29 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 30 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 31 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 32 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 33 | [LaDazhia Williams](http://twitter.com/search?q=LaDazhia+Williams) | N/A |
-| 34 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 35 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 36 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
-| 37 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 38 | [Dollander](http://twitter.com/search?q=Dollander) | N/A |
-| 39 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 40 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 41 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 42 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 43 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 44 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
-| 45 | [Larry Johnson](http://twitter.com/search?q=Larry+Johnson) | N/A |
-| 46 | [5000 Taliban](http://twitter.com/search?q=5000+Taliban) | N/A |
-| 47 | [Sanderson](http://twitter.com/search?q=Sanderson) | N/A |
-| 48 | [Muteace](http://twitter.com/search?q=Muteace) | Muteace is a Japanese term that literally translates to "silence". It is used to describe a situation in which people remain silent or do not speak out, often due to fear or social pressure. |
-| 49 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
-| 50 | [Training Day](http://twitter.com/search?q=Training+Day) | N/A |
+| 2 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 3 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 4 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 7 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 8 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 9 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 10 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 11 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 12 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 13 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 14 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
+| 15 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
+| 16 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 17 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 18 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 19 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 20 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 21 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 22 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 23 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 24 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 25 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 26 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 28 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 29 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 30 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 31 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 32 | [Ludwig Kaiser](http://twitter.com/search?q=Ludwig+Kaiser) | N/A |
+| 33 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 34 | [#Sacrifice](http://twitter.com/search?q=%23Sacrifice) | N/A |
+| 35 | [2real](http://twitter.com/search?q=2real) | N/A |
+| 36 | [Zach Parise](http://twitter.com/search?q=Zach+Parise) | N/A |
+| 37 | [Frida Formann](http://twitter.com/search?q=Frida+Formann) | N/A |
+| 38 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 39 | [Bediako](http://twitter.com/search?q=Bediako) | N/A |
+| 40 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
+| 41 | [Jenna Johnson](http://twitter.com/search?q=Jenna+Johnson) | N/A |
+| 42 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 44 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 45 | [Zane Gonzalez](http://twitter.com/search?q=Zane+Gonzalez) | N/A |
+| 46 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 47 | [Lemonis](http://twitter.com/search?q=Lemonis) | N/A |
+| 48 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 49 | [Robbie Gould](http://twitter.com/search?q=Robbie+Gould) | Robbie Gould is the name of an American football placekicker who currently plays for the San Francisco 49ers of the National Football League (NFL). He is known for his accuracy and consistency, having made over 85% of his field goal attempts throughout his career. |
+| 50 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
 
 
 

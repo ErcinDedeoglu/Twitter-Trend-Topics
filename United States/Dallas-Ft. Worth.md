@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-24 23:19:25 UTC`
+📆 Last Updated: `2023-03-25 00:28:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,48 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 2 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 3 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 4 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 5 | [COTA](http://twitter.com/search?q=COTA) | N/A |
-| 6 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 7 | [$ZAHO](http://twitter.com/search?q=%24ZAHO) | N/A |
-| 8 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 9 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 10 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 11 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 12 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 13 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 14 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 15 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 16 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 17 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 18 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 20 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 21 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 22 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 23 | [#ReasonsImTooBusy](http://twitter.com/search?q=%23ReasonsImTooBusy) | N/A |
-| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 25 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 27 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 3 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 4 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 7 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 8 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 9 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 10 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 11 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 12 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 13 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 14 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 15 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 19 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 20 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
+| 21 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 22 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 23 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 25 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 26 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 27 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
 | 28 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 29 | [Pili](http://twitter.com/search?q=Pili) | N/A |
-| 30 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 31 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 32 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 33 | [Meadows](http://twitter.com/search?q=Meadows) | N/A |
-| 34 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 35 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 36 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
-| 37 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
-| 38 | [Dollander](http://twitter.com/search?q=Dollander) | N/A |
-| 39 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 40 | [Funko](http://twitter.com/search?q=Funko) | N/A |
-| 41 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 42 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 43 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 44 | [Hiura](http://twitter.com/search?q=Hiura) | N/A |
+| 29 | [Ludwig Kaiser](http://twitter.com/search?q=Ludwig+Kaiser) | N/A |
+| 30 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 31 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 32 | [2real](http://twitter.com/search?q=2real) | N/A |
+| 33 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 34 | [Zach Parise](http://twitter.com/search?q=Zach+Parise) | N/A |
+| 35 | [Frida Formann](http://twitter.com/search?q=Frida+Formann) | N/A |
+| 36 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
+| 37 | [Bediako](http://twitter.com/search?q=Bediako) | N/A |
+| 38 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
+| 39 | [Jenna Johnson](http://twitter.com/search?q=Jenna+Johnson) | N/A |
+| 40 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 41 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 42 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 43 | [Zane Gonzalez](http://twitter.com/search?q=Zane+Gonzalez) | N/A |
+| 44 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
 
 
 
