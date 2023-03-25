@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-03-25 03:17:16 UTC`
+📆 Last Updated: `2023-03-25 04:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 3 | [#SVGala4](http://twitter.com/search?q=%23SVGala4) | N/A |
 | 4 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
-| 5 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 6 | [Andrea Guasch](http://twitter.com/search?q=Andrea+Guasch) | N/A |
-| 7 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 8 | [#TuCaraMeSuena](http://twitter.com/search?q=%23TuCaraMeSuena) | N/A |
-| 9 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [ana mena](http://twitter.com/search?q=ana+mena) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 14 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 15 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 16 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 17 | [Myke](http://twitter.com/search?q=Myke) | N/A |
-| 18 | [TDAH](http://twitter.com/search?q=TDAH) | N/A |
-| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 20 | [Jadel](http://twitter.com/search?q=Jadel) | N/A |
-| 21 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
-| 22 | [Airef](http://twitter.com/search?q=Airef) | N/A |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Merche](http://twitter.com/search?q=Merche) | N/A |
-| 25 | [Josie](http://twitter.com/search?q=Josie) | N/A |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 28 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 29 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 30 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 31 | [van aert](http://twitter.com/search?q=van+aert) | N/A |
-| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 33 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 34 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
-| 35 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
-| 36 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 37 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 38 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 39 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 40 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [Edgar Álvaro](http://twitter.com/search?q=Edgar+%c3%81lvaro) | N/A |
-| 43 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 44 | [Pol Espargaró](http://twitter.com/search?q=Pol+Espargar%c3%b3) | N/A |
-| 45 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 46 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
-| 47 | [Susi Caramelo](http://twitter.com/search?q=Susi+Caramelo) | N/A |
-| 48 | [Slomo](http://twitter.com/search?q=Slomo) | N/A |
-| 49 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 50 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 5 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 6 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
+| 9 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
+| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 13 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 14 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 15 | [Myke](http://twitter.com/search?q=Myke) | N/A |
+| 16 | [TDAH](http://twitter.com/search?q=TDAH) | N/A |
+| 17 | [Andrea Guasch](http://twitter.com/search?q=Andrea+Guasch) | N/A |
+| 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 19 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
+| 20 | [Airef](http://twitter.com/search?q=Airef) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 24 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
+| 25 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 26 | [van aert](http://twitter.com/search?q=van+aert) | N/A |
+| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 28 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 30 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
+| 31 | [Josie](http://twitter.com/search?q=Josie) | N/A |
+| 32 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
+| 33 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
+| 34 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 35 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 36 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 37 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 38 | [edgar álvaro](http://twitter.com/search?q=edgar+%c3%a1lvaro) | N/A |
+| 39 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 40 | [Jadel](http://twitter.com/search?q=Jadel) | N/A |
+| 41 | [Pol Espargaró](http://twitter.com/search?q=Pol+Espargar%c3%b3) | N/A |
+| 42 | [Villanueva de Viver](http://twitter.com/search?q=Villanueva+de+Viver) | N/A |
+| 43 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 44 | [Susi Caramelo](http://twitter.com/search?q=Susi+Caramelo) | N/A |
+| 45 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 46 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Villano](http://twitter.com/search?q=Villano) | N/A |
+| 49 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
+| 50 | [Kylie Jenner](http://twitter.com/search?q=Kylie+Jenner) | N/A |
 
 
 

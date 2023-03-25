@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-25 03:17:00 UTC`
+📆 Last Updated: `2023-03-25 04:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 2 | [Owen](http://twitter.com/search?q=Owen) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [#LetWomenSpeakAuckland](http://twitter.com/search?q=%23LetWomenSpeakAuckland) | N/A |
-| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 6 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 7 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 8 | [Posie](http://twitter.com/search?q=Posie) | N/A |
-| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 10 | [#Gogglebox](http://twitter.com/search?q=%23Gogglebox) | N/A |
-| 11 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 13 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 14 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 15 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 16 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 17 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 19 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 20 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 21 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 22 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 23 | [Dolly Parton](http://twitter.com/search?q=Dolly+Parton) | N/A |
-| 24 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 25 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 26 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 27 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 28 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 29 | [RE4 Remake](http://twitter.com/search?q=RE4+Remake) | N/A |
-| 30 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 31 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 32 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
-| 33 | [#CW151](http://twitter.com/search?q=%23CW151) | N/A |
-| 34 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
-| 35 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 36 | [#ResidentEvil4](http://twitter.com/search?q=%23ResidentEvil4) | N/A |
-| 37 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
+| 3 | [#ItaEng](http://twitter.com/search?q=%23ItaEng) | N/A |
+| 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 5 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [#CurrysResidentEvil4](http://twitter.com/search?q=%23CurrysResidentEvil4) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 10 | [England](http://twitter.com/search?q=England) | N/A |
+| 11 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 14 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 15 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 17 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 18 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 19 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 20 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 21 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 22 | [southgate](http://twitter.com/search?q=southgate) | N/A |
+| 23 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 27 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 29 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
+| 32 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 33 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 34 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 35 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 36 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
+| 37 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 38 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 39 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 40 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 41 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 42 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
+| 43 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
+| 44 | [Top Gear](http://twitter.com/search?q=Top+Gear) | N/A |
+| 45 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 46 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 47 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 48 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 49 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
 
 
 

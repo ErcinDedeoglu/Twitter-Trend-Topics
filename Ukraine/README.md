@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-25 03:17:55 UTC`
+📆 Last Updated: `2023-03-25 04:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for Ukraine
 | 6 | [омон](http://twitter.com/search?q=%d0%be%d0%bc%d0%be%d0%bd) | N/A |
 | 7 | [Sumy](http://twitter.com/search?q=Sumy) | N/A |
 | 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 9 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
+| 9 | [Армении](http://twitter.com/search?q=%d0%90%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
 | 10 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 11 | [General Staff](http://twitter.com/search?q=General+Staff) | N/A |
+| 11 | [general staff](http://twitter.com/search?q=general+staff) | N/A |
 | 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 13 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 14 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
@@ -33,13 +33,13 @@ This is top 50 for Ukraine
 | 16 | [nova kakhovka](http://twitter.com/search?q=nova+kakhovka) | N/A |
 | 17 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 19 | [Медведева](http://twitter.com/search?q=%d0%9c%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2%d0%b0) | N/A |
+| 19 | [медведева](http://twitter.com/search?q=%d0%bc%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2%d0%b0) | N/A |
 | 20 | [f*ck nft](http://twitter.com/search?q=f*ck+nft) | N/A |
 | 21 | [f*ck crypto](http://twitter.com/search?q=f*ck+crypto) | N/A |
 | 22 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
 | 23 | [рашисты](http://twitter.com/search?q=%d1%80%d0%b0%d1%88%d0%b8%d1%81%d1%82%d1%8b) | N/A |
 | 24 | [дайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 25 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 25 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
 | 26 | [хаха](http://twitter.com/search?q=%d1%85%d0%b0%d1%85%d0%b0) | N/A |
 | 27 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 28 | [пздц](http://twitter.com/search?q=%d0%bf%d0%b7%d0%b4%d1%86) | N/A |
@@ -51,13 +51,13 @@ This is top 50 for Ukraine
 | 34 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 36 | [нічо](http://twitter.com/search?q=%d0%bd%d1%96%d1%87%d0%be) | N/A |
-| 37 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 38 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 39 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 40 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 42 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 43 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
+| 37 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 38 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 39 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 40 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 41 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 42 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
+| 43 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 44 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
 | 45 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 46 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |

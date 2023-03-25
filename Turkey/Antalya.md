@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-03-25 03:17:38 UTC`
+📆 Last Updated: `2023-03-25 04:19:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,39 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [BoluyaYolculuk Var](http://twitter.com/search?q=BoluyaYolculuk+Var) | N/A |
 | 2 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 3 | [#25Mart2009](http://twitter.com/search?q=%2325Mart2009) | N/A |
-| 4 | [#StajyerKararlı](http://twitter.com/search?q=%23StajyerKararl%c4%b1) | N/A |
-| 5 | [Kahvaltı](http://twitter.com/search?q=Kahvalt%c4%b1) | N/A |
-| 6 | [#Kizilcikserbeti](http://twitter.com/search?q=%23Kizilcikserbeti) | N/A |
-| 7 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
-| 8 | [#DiplomaNerede](http://twitter.com/search?q=%23DiplomaNerede) | N/A |
-| 9 | [Jahrein Şahan](http://twitter.com/search?q=Jahrein+%c5%9eahan) | N/A |
-| 10 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 11 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
-| 12 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
-| 13 | [Koca Reis](http://twitter.com/search?q=Koca+Reis) | N/A |
-| 14 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
-| 15 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 16 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 17 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
-| 18 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 19 | [Zina](http://twitter.com/search?q=Zina) | N/A |
-| 20 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
-| 21 | [Marmara](http://twitter.com/search?q=Marmara) | N/A |
-| 22 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 23 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 24 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 25 | [Enver](http://twitter.com/search?q=Enver) | N/A |
-| 26 | [Özerklik](http://twitter.com/search?q=%c3%96zerklik) | N/A |
-| 27 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
-| 28 | [#HaftaSonuimzaya](http://twitter.com/search?q=%23HaftaSonuimzaya) | N/A |
-| 29 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 30 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 31 | [#ÜlkedeBizimÜlküde](http://twitter.com/search?q=%23%c3%9clkedeBizim%c3%9clk%c3%bcde) | N/A |
-| 32 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 33 | [#ÇözümErkanTrükten](http://twitter.com/search?q=%23%c3%87%c3%b6z%c3%bcmErkanTr%c3%bckten) | N/A |
-| 34 | [#MilletinGücüSandıkta](http://twitter.com/search?q=%23MilletinG%c3%bcc%c3%bcSand%c4%b1kta) | N/A |
-| 35 | [#MemuraSeyyanenZam](http://twitter.com/search?q=%23MemuraSeyyanenZam) | N/A |
+| 3 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 4 | [#25Mart2009](http://twitter.com/search?q=%2325Mart2009) | N/A |
+| 5 | [#imzaverSinanOGANa](http://twitter.com/search?q=%23imzaverSinanOGANa) | N/A |
+| 6 | [#7500AKPyibitirecek](http://twitter.com/search?q=%237500AKPyibitirecek) | N/A |
+| 7 | [ailelerperişangsb](http://twitter.com/search?q=ailelerperi%c5%9fangsb) | N/A |
+| 8 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
+| 9 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
+| 10 | [efe subaşı](http://twitter.com/search?q=efe+suba%c5%9f%c4%b1) | N/A |
+| 11 | [Fatih Erbakan](http://twitter.com/search?q=Fatih+Erbakan) | N/A |
+| 12 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
+| 13 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
+| 14 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 15 | [Jahrein Şahan](http://twitter.com/search?q=Jahrein+%c5%9eahan) | N/A |
+| 16 | [şartsıztayin şart](http://twitter.com/search?q=%c5%9farts%c4%b1ztayin+%c5%9fart) | N/A |
+| 17 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 18 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 19 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 20 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
+| 21 | [hayat şirine gülsün](http://twitter.com/search?q=hayat+%c5%9firine+g%c3%bcls%c3%bcn) | N/A |
+| 22 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
+| 23 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
+| 24 | [Kahvaltı](http://twitter.com/search?q=Kahvalt%c4%b1) | N/A |
+| 25 | [Erdoğan Hatay](http://twitter.com/search?q=Erdo%c4%9fan+Hatay) | N/A |
+| 26 | [AfYoksa BizdeYokuz](http://twitter.com/search?q=AfYoksa+BizdeYokuz) | N/A |
+| 27 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 28 | [$selcuk](http://twitter.com/search?q=%24selcuk) | N/A |
+| 29 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 30 | [boya bizim işimiz](http://twitter.com/search?q=boya+bizim+i%c5%9fimiz) | N/A |
+| 31 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 32 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
+| 33 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 34 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 35 | [Koca Reis](http://twitter.com/search?q=Koca+Reis) | N/A |
+| 36 | [Özerklik](http://twitter.com/search?q=%c3%96zerklik) | N/A |
+| 37 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
+| 38 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
+| 39 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
+| 40 | [akitavax](http://twitter.com/search?q=akitavax) | N/A |
+| 41 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
+| 42 | [Aziz Allah](http://twitter.com/search?q=Aziz+Allah) | N/A |
+| 43 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 44 | [taşeronkadroyu destekleyecek](http://twitter.com/search?q=ta%c5%9feronkadroyu+destekleyecek) | N/A |
+| 45 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
+| 46 | [Omurga](http://twitter.com/search?q=Omurga) | N/A |
+| 47 | [Mekanın](http://twitter.com/search?q=Mekan%c4%b1n) | N/A |
+| 48 | [Ruhun Şad](http://twitter.com/search?q=Ruhun+%c5%9ead) | N/A |
+| 49 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 50 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
 
 
 

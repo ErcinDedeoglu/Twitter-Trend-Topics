@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-25 03:17:36 UTC`
+📆 Last Updated: `2023-03-25 04:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 2 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 3 | [#भारत_के_संत](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%82%e0%a4%a4) | N/A |
-| 4 | [#MSGBhandara](http://twitter.com/search?q=%23MSGBhandara) | N/A |
-| 5 | [Need Of The Hour](http://twitter.com/search?q=Need+Of+The+Hour) | N/A |
-| 6 | [Wake Up Hindu](http://twitter.com/search?q=Wake+Up+Hindu) | N/A |
-| 7 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 9 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
-| 10 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 11 | [SSR Case LongDrawn Out](http://twitter.com/search?q=SSR+Case+LongDrawn+Out) | N/A |
-| 12 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
-| 13 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [चतुर्थ स्वरूप](http://twitter.com/search?q=%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 15 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 16 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
-| 17 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 18 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 19 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 20 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 21 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 22 | [Varuna](http://twitter.com/search?q=Varuna) | N/A |
-| 23 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 24 | [गणेश शंकर विद्यार्थी](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a5%80) | N/A |
-| 25 | [ICONIC 13 YRS OF GASHMEER](http://twitter.com/search?q=ICONIC+13+YRS+OF+GASHMEER) | N/A |
+| 1 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 2 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
+| 3 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 4 | [#भारत_के_संत](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%82%e0%a4%a4) | N/A |
+| 5 | [#MSGBhandara](http://twitter.com/search?q=%23MSGBhandara) | N/A |
+| 6 | [Need Of The Hour](http://twitter.com/search?q=Need+Of+The+Hour) | N/A |
+| 7 | [Wake Up Hindu](http://twitter.com/search?q=Wake+Up+Hindu) | N/A |
+| 8 | [#MessageOfAllah_On_Ramadan](http://twitter.com/search?q=%23MessageOfAllah_On_Ramadan) | N/A |
+| 9 | [#BlackDayForIndianDemocracy](http://twitter.com/search?q=%23BlackDayForIndianDemocracy) | N/A |
+| 10 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 11 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 12 | [SSR Case LongDrawn Out](http://twitter.com/search?q=SSR+Case+LongDrawn+Out) | N/A |
+| 13 | [AYESHA AS SAI HITS 800](http://twitter.com/search?q=AYESHA+AS+SAI+HITS+800) | N/A |
+| 14 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 15 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 16 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 17 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
+| 18 | [गणेश शंकर विद्यार्थी](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a5%80) | N/A |
+| 19 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
+| 20 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 21 | [चतुर्थ स्वरूप](http://twitter.com/search?q=%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 22 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 23 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 24 | [ICONIC 13 YRS OF GASHMEER](http://twitter.com/search?q=ICONIC+13+YRS+OF+GASHMEER) | N/A |
+| 25 | [TU ZAKHM HAI S2 ON MXPLAYER](http://twitter.com/search?q=TU+ZAKHM+HAI+S2+ON+MXPLAYER) | N/A |
 | 26 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 27 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 28 | [TU ZAKHM HAI S2 ON MXPLAYER](http://twitter.com/search?q=TU+ZAKHM+HAI+S2+ON+MXPLAYER) | N/A |
-| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 30 | [Sirsa](http://twitter.com/search?q=Sirsa) | N/A |
-| 31 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 32 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 33 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
-| 34 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 35 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 36 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
+| 27 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 28 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 29 | [Varuna](http://twitter.com/search?q=Varuna) | N/A |
+| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 31 | [सूरत कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 32 | [ताहिर हुसैन](http://twitter.com/search?q=%e0%a4%a4%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%b0+%e0%a4%b9%e0%a5%81%e0%a4%b8%e0%a5%88%e0%a4%a8) | N/A |
+| 33 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 34 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
+| 35 | [भगत सिंह](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%a4+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 36 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
 | 37 | [Surpanakha](http://twitter.com/search?q=Surpanakha) | N/A |
-| 38 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 39 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 38 | [Sirsa](http://twitter.com/search?q=Sirsa) | N/A |
+| 39 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
 | 40 | [Surat](http://twitter.com/search?q=Surat) | N/A |
-| 41 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 42 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
-| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 44 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 45 | [$zaho](http://twitter.com/search?q=%24zaho) | N/A |
-| 46 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 41 | [टाटा बाय](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%9f%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%af) | N/A |
+| 42 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 43 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 44 | [$zaho](http://twitter.com/search?q=%24zaho) | N/A |
+| 45 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 47 | [one month to varun's bday](http://twitter.com/search?q=one+month+to+varun%27s+bday) | N/A |
-| 48 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 49 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 50 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 48 | [रमज़ान मुबारक](http://twitter.com/search?q=%e0%a4%b0%e0%a4%ae%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a5%81%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 49 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 50 | [मोदी समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 
 
 

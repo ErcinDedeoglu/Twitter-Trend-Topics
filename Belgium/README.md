@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-25 03:17:48 UTC`
+📆 Last Updated: `2023-03-25 04:19:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Belgium
 | 8 | [Faes](http://twitter.com/search?q=Faes) | N/A |
 | 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 10 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 11 | [#EUCO](http://twitter.com/search?q=%23EUCO) | N/A |
+| 11 | [#euco](http://twitter.com/search?q=%23euco) | N/A |
 | 12 | [lavia](http://twitter.com/search?q=lavia) | N/A |
 | 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
@@ -33,12 +33,12 @@ This is top 50 for Belgium
 | 16 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
 | 17 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
 | 18 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
-| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 20 | [#deafspraakopvrijdag](http://twitter.com/search?q=%23deafspraakopvrijdag) | N/A |
-| 21 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
-| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 24 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
+| 19 | [#deafspraakopvrijdag](http://twitter.com/search?q=%23deafspraakopvrijdag) | N/A |
+| 20 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 22 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
+| 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 24 | [witsel](http://twitter.com/search?q=witsel) | N/A |
 | 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 26 | [Suède](http://twitter.com/search?q=Su%c3%a8de) | N/A |
 | 27 | [Legoland](http://twitter.com/search?q=Legoland) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Belgium
 | 32 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
 | 33 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 | 34 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
-| 35 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 35 | [delhaize](http://twitter.com/search?q=delhaize) | N/A |
 | 36 | [Ronde](http://twitter.com/search?q=Ronde) | N/A |
 | 37 | [Theate](http://twitter.com/search?q=Theate) | N/A |
 | 38 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
 | 39 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 40 | [Gilles De Bilde](http://twitter.com/search?q=Gilles+De+Bilde) | N/A |
+| 40 | [gilles de bilde](http://twitter.com/search?q=gilles+de+bilde) | N/A |
 | 41 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
 | 42 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 43 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
-| 44 | [Taaienberg](http://twitter.com/search?q=Taaienberg) | N/A |
-| 45 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 46 | [Neerpede](http://twitter.com/search?q=Neerpede) | N/A |
-| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 48 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 49 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 50 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 43 | [taaienberg](http://twitter.com/search?q=taaienberg) | N/A |
+| 44 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 45 | [Neerpede](http://twitter.com/search?q=Neerpede) | N/A |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 48 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 49 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 50 | [Castagne](http://twitter.com/search?q=Castagne) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-03-25 03:17:19 UTC`
+📆 Last Updated: `2023-03-25 04:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 2 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 2 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
 | 3 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 4 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 5 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 4 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 5 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
 | 6 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
 | 7 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 8 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
 | 9 | [Royco](http://twitter.com/search?q=Royco) | N/A |
-| 10 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 10 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
 | 11 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 12 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
-| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 14 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 15 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
-| 18 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 13 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
+| 14 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
+| 17 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 18 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
 | 19 | [OPPO](http://twitter.com/search?q=OPPO) | N/A |
 | 20 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 21 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 22 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 21 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 23 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 24 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 25 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
+| 24 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
+| 25 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
 | 26 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 27 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
-| 28 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
-| 29 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
-| 30 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
-| 31 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
+| 27 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 28 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
+| 29 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
+| 30 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
+| 31 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
 | 32 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 33 | [DNYL](http://twitter.com/search?q=DNYL) | N/A |
+| 33 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
 | 34 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
-| 35 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 35 | [Flash Sale Akbar Rp1](http://twitter.com/search?q=Flash+Sale+Akbar+Rp1) | N/A |
 | 36 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
 | 37 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 38 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
-| 39 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 40 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 41 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 42 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
-| 43 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
-| 44 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 45 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 46 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
-| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 48 | [Flash Sale Akbar Rp1](http://twitter.com/search?q=Flash+Sale+Akbar+Rp1) | N/A |
-| 49 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 38 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 39 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
+| 40 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
+| 41 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
+| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 43 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
+| 44 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
+| 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 46 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 47 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
+| 48 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
+| 49 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

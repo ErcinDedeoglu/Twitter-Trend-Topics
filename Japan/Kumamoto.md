@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-03-25 03:17:22 UTC`
+📆 Last Updated: `2023-03-25 04:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,52 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [中村倫也](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e5%80%ab%e4%b9%9f) | 中村倫也 is a Japanese name. It is composed of two characters: 中 (naka) meaning "middle" or "inside", and 村 (mura) meaning "village". The last name 倫也 (Tadashi) means "righteousness". In English, the name would be translated as "Tadashi Nakamura". |
-| 2 | [アニメジャパン](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | アニメジャパン is a Japanese animation and manga magazine published by Tokuma Shoten. The magazine covers topics related to anime, manga, and other aspects of Japanese pop culture. In English, the phrase translates to "Anime Japan". |
-| 3 | [野沢雅子](http://twitter.com/search?q=%e9%87%8e%e6%b2%a2%e9%9b%85%e5%ad%90) | N/A |
-| 4 | [ムーアの法則](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%a2%e3%81%ae%e6%b3%95%e5%89%87) | N/A |
-| 5 | [#リコラジ](http://twitter.com/search?q=%23%e3%83%aa%e3%82%b3%e3%83%a9%e3%82%b8) | N/A |
-| 6 | [#AJ2023](http://twitter.com/search?q=%23AJ2023) | N/A |
-| 7 | [#キャスターな会](http://twitter.com/search?q=%23%e3%82%ad%e3%83%a3%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%aa%e4%bc%9a) | #キャスターな会 is a hashtag used on Twitter in Japan to refer to a gathering of people who are interested in becoming professional casters (or commentators) for live streaming events. In English, it translates to "Caster Meeting". |
-| 8 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
-| 9 | [#アイマスはアニメに本気](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9%e3%81%af%e3%82%a2%e3%83%8b%e3%83%a1%e3%81%ab%e6%9c%ac%e6%b0%97) | N/A |
-| 10 | [アイマスク](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9%e3%82%af) | N/A |
-| 11 | [#いただきハイジャンプ](http://twitter.com/search?q=%23%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e3%83%8f%e3%82%a4%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
-| 12 | [裸の少年](http://twitter.com/search?q=%e8%a3%b8%e3%81%ae%e5%b0%91%e5%b9%b4) | N/A |
-| 13 | [野沢さん](http://twitter.com/search?q=%e9%87%8e%e6%b2%a2%e3%81%95%e3%82%93) | 野沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr./Ms. Nozawa" or "Respected Nozawa". |
-| 14 | [沖縄尚学](http://twitter.com/search?q=%e6%b2%96%e7%b8%84%e5%b0%9a%e5%ad%a6) | N/A |
-| 15 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
-| 16 | [ハイパーゲーム大会](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0%e5%a4%a7%e4%bc%9a) | N/A |
-| 17 | [クラーク](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af) | N/A |
-| 18 | [ぴあアリーナ](http://twitter.com/search?q=%e3%81%b4%e3%81%82%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%8a) | N/A |
-| 19 | [不良馬場](http://twitter.com/search?q=%e4%b8%8d%e8%89%af%e9%a6%ac%e5%a0%b4) | N/A |
-| 20 | [雨の土曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e5%9c%9f%e6%9b%9c%e6%97%a5) | N/A |
-| 21 | [やよい軒高槻店](http://twitter.com/search?q=%e3%82%84%e3%82%88%e3%81%84%e8%bb%92%e9%ab%98%e6%a7%bb%e5%ba%97) | N/A |
-| 22 | [ゴードン・ムーア](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%89%e3%83%b3%e3%83%bb%e3%83%a0%e3%83%bc%e3%82%a2) | N/A |
-| 23 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
-| 24 | [チュチュパイセン](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%81%e3%83%a5%e3%83%91%e3%82%a4%e3%82%bb%e3%83%b3) | N/A |
-| 25 | [HELLOWEEN](http://twitter.com/search?q=HELLOWEEN) | N/A |
-| 26 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 27 | [水卜アナ](http://twitter.com/search?q=%e6%b0%b4%e5%8d%9c%e3%82%a2%e3%83%8a) | N/A |
-| 28 | [パジャマパーティー](http://twitter.com/search?q=%e3%83%91%e3%82%b8%e3%83%a3%e3%83%9e%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 29 | [ハルオーブ](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%82%aa%e3%83%bc%e3%83%96) | N/A |
-| 30 | [チュチュ先輩](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%81%e3%83%a5%e5%85%88%e8%bc%a9) | N/A |
-| 31 | [ハムソヒ](http://twitter.com/search?q=%e3%83%8f%e3%83%a0%e3%82%bd%e3%83%92) | N/A |
-| 32 | [モトリー](http://twitter.com/search?q=%e3%83%a2%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
-| 33 | [ラスエボ](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%82%a8%e3%83%9c) | N/A |
-| 34 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
-| 35 | [あんステ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%83%86) | あんステ (Ansute) is a Japanese portmanteau of the words "Anime" and "Music Station". It is a popular Japanese music program that features anime songs and music videos. The program is broadcast on the Tokyo MX television network. |
-| 36 | [中山3R](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b13R) | 中山3R is a Japanese term which stands for Reduce, Reuse, and Recycle. It is a philosophy of environmental protection that encourages people to reduce their consumption of resources, reuse items whenever possible, and recycle materials that cannot be reused. |
-| 37 | [タイトルホルダー](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc) | タイトルホルダー is a Japanese term that refers to a placeholder title. It is used when the actual title of something is not yet known, or when the title has not been decided. In English, it can be translated as "placeholder title". |
-| 38 | [富と豊かさ](http://twitter.com/search?q=%e5%af%8c%e3%81%a8%e8%b1%8a%e3%81%8b%e3%81%95) | N/A |
-| 39 | [アスクビクターモア](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%82%af%e3%83%93%e3%82%af%e3%82%bf%e3%83%bc%e3%83%a2%e3%82%a2) | N/A |
-| 40 | [マイネルグロン](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8d%e3%83%ab%e3%82%b0%e3%83%ad%e3%83%b3) | N/A |
-| 41 | [流通センター](http://twitter.com/search?q=%e6%b5%81%e9%80%9a%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 42 | [ミオミオ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%9f%e3%82%aa) | ミオミオ is an onomatopoeia in Japanese that is used to describe the sound of something small and light, such as a tiny bell or a light tapping sound. In English, it could be translated as "ting-a-ling" or "tinkle". |
-| 43 | [幸運の土日](http://twitter.com/search?q=%e5%b9%b8%e9%81%8b%e3%81%ae%e5%9c%9f%e6%97%a5) | N/A |
-| 44 | [アクリルフィギュア](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2) | N/A |
-| 45 | [高松商業](http://twitter.com/search?q=%e9%ab%98%e6%9d%be%e5%95%86%e6%a5%ad) | N/A |
-| 46 | [ジュンフシナ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%95%e3%82%b7%e3%83%8a) | N/A |
-| 47 | [ダニエル太郎](http://twitter.com/search?q=%e3%83%80%e3%83%8b%e3%82%a8%e3%83%ab%e5%a4%aa%e9%83%8e) | N/A |
-| 48 | [下園さん](http://twitter.com/search?q=%e4%b8%8b%e5%9c%92%e3%81%95%e3%82%93) | N/A |
-| 49 | [ビッグサイト](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 2 | [子安さん](http://twitter.com/search?q=%e5%ad%90%e5%ae%89%e3%81%95%e3%82%93) | N/A |
+| 3 | [彩りと安心](http://twitter.com/search?q=%e5%bd%a9%e3%82%8a%e3%81%a8%e5%ae%89%e5%bf%83) | N/A |
+| 4 | [中村さん](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e3%81%95%e3%82%93) | N/A |
+| 5 | [#黒ずくめの謀略参戦](http://twitter.com/search?q=%23%e9%bb%92%e3%81%9a%e3%81%8f%e3%82%81%e3%81%ae%e8%ac%80%e7%95%a5%e5%8f%82%e6%88%a6) | N/A |
+| 6 | [#キャスターな会](http://twitter.com/search?q=%23%e3%82%ad%e3%83%a3%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%aa%e4%bc%9a) | #キャスターな会 is a hashtag used on Twitter in Japan to refer to a gathering of people who are interested in becoming professional casters (or commentators) for live streaming events. In English, it translates to "Caster Meeting". |
+| 7 | [水卜さん](http://twitter.com/search?q=%e6%b0%b4%e5%8d%9c%e3%81%95%e3%82%93) | N/A |
+| 8 | [電撃結婚](http://twitter.com/search?q=%e9%9b%bb%e6%92%83%e7%b5%90%e5%a9%9a) | N/A |
+| 9 | [推しの結婚](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e7%b5%90%e5%a9%9a) | 推しの結婚 is a term used in Japan to refer to the marriage of a celebrity or public figure that someone is a fan of. It literally translates to "marriage of one's favorite". |
+| 10 | [結婚発表](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e7%99%ba%e8%a1%a8) | 結婚発表 is a Japanese phrase meaning "announcement of marriage". It is used to refer to the formal announcement of an engagement or marriage. |
+| 11 | [ビッグカップル](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%82%ab%e3%83%83%e3%83%97%e3%83%ab) | N/A |
+| 12 | [アニメジャパン](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | アニメジャパン is a Japanese animation and manga magazine published by Tokuma Shoten. The magazine covers topics related to anime, manga, and other aspects of Japanese pop culture. In English, the phrase translates to "Anime Japan". |
+| 13 | [ムーアの法則](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%82%a2%e3%81%ae%e6%b3%95%e5%89%87) | N/A |
+| 14 | [#MU2023](http://twitter.com/search?q=%23MU2023) | N/A |
+| 15 | [野沢雅子](http://twitter.com/search?q=%e9%87%8e%e6%b2%a2%e9%9b%85%e5%ad%90) | N/A |
+| 16 | [結婚報告](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e5%a0%b1%e5%91%8a) | 結婚報告 is a Japanese phrase that translates to "wedding announcement". It is used to inform family and friends of an upcoming wedding. |
+| 17 | [こやすさん](http://twitter.com/search?q=%e3%81%93%e3%82%84%e3%81%99%e3%81%95%e3%82%93) | N/A |
+| 18 | [#AJ2023](http://twitter.com/search?q=%23AJ2023) | N/A |
+| 19 | [#アイマスはアニメに本気](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9%e3%81%af%e3%82%a2%e3%83%8b%e3%83%a1%e3%81%ab%e6%9c%ac%e6%b0%97) | N/A |
+| 20 | [日テレNEWS](http://twitter.com/search?q=%e6%97%a5%e3%83%86%e3%83%acNEWS) | N/A |
+| 21 | [中村くん](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 22 | [まっしー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
+| 23 | [ハイパーゲーム大会](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0%e5%a4%a7%e4%bc%9a) | N/A |
+| 24 | [伏黒甚爾](http://twitter.com/search?q=%e4%bc%8f%e9%bb%92%e7%94%9a%e7%88%be) | N/A |
+| 25 | [櫻井さん](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e3%81%95%e3%82%93) | 櫻井さん is a Japanese honorific used to refer to someone with the surname Sakurai. It is similar to the English honorific "Mr. Sakurai". |
+| 26 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
+| 27 | [月曜日のZIP](http://twitter.com/search?q=%e6%9c%88%e6%9b%9c%e6%97%a5%e3%81%aeZIP) | N/A |
+| 28 | [アイマスク](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%9e%e3%82%b9%e3%82%af) | N/A |
+| 29 | [芸能人の結婚](http://twitter.com/search?q=%e8%8a%b8%e8%83%bd%e4%ba%ba%e3%81%ae%e7%b5%90%e5%a9%9a) | N/A |
+| 30 | [美食探偵](http://twitter.com/search?q=%e7%be%8e%e9%a3%9f%e6%8e%a2%e5%81%b5) | N/A |
+| 31 | [不良馬場](http://twitter.com/search?q=%e4%b8%8d%e8%89%af%e9%a6%ac%e5%a0%b4) | N/A |
+| 32 | [ねんどろいど](http://twitter.com/search?q=%e3%81%ad%e3%82%93%e3%81%a9%e3%82%8d%e3%81%84%e3%81%a9) | N/A |
+| 33 | [前中国大使の離任面会](http://twitter.com/search?q=%e5%89%8d%e4%b8%ad%e5%9b%bd%e5%a4%a7%e4%bd%bf%e3%81%ae%e9%9b%a2%e4%bb%bb%e9%9d%a2%e4%bc%9a) | N/A |
+| 34 | [レーベンスティール](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%83%99%e3%83%b3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%ab) | N/A |
+| 35 | [ゴードン・ムーア](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%89%e3%83%b3%e3%83%bb%e3%83%a0%e3%83%bc%e3%82%a2) | N/A |
+| 36 | [キスキス](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%82%ad%e3%82%b9) | N/A |
+| 37 | [野沢さん](http://twitter.com/search?q=%e9%87%8e%e6%b2%a2%e3%81%95%e3%82%93) | 野沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr./Ms. Nozawa" or "Respected Nozawa". |
+| 38 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
+| 39 | [#AnimeJapan](http://twitter.com/search?q=%23AnimeJapan) | N/A |
+| 40 | [#宮舘とPARTYTIME](http://twitter.com/search?q=%23%e5%ae%ae%e8%88%98%e3%81%a8PARTYTIME) | N/A |
+| 41 | [#因の者オフ会](http://twitter.com/search?q=%23%e5%9b%a0%e3%81%ae%e8%80%85%e3%82%aa%e3%83%95%e4%bc%9a) | N/A |
+| 42 | [#リコラジ](http://twitter.com/search?q=%23%e3%83%aa%e3%82%b3%e3%83%a9%e3%82%b8) | N/A |
+| 43 | [#いただきハイジャンプ](http://twitter.com/search?q=%23%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e3%83%8f%e3%82%a4%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
+| 44 | [#四回目のひな誕祭](http://twitter.com/search?q=%23%e5%9b%9b%e5%9b%9e%e7%9b%ae%e3%81%ae%e3%81%b2%e3%81%aa%e8%aa%95%e7%a5%ad) | N/A |
+| 45 | [#呪術廻戦](http://twitter.com/search?q=%23%e5%91%aa%e8%a1%93%e5%bb%bb%e6%88%a6) | N/A |
+| 46 | [#chaki954](http://twitter.com/search?q=%23chaki954) | N/A |
+| 47 | [#王様のブランチ](http://twitter.com/search?q=%23%e7%8e%8b%e6%a7%98%e3%81%ae%e3%83%96%e3%83%a9%e3%83%b3%e3%83%81) | "#王様のブランチ" is a hashtag used on social media in Japan. It translates to "King's Brunch" and is used to refer to a meal that includes luxurious and extravagant dishes. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-25 03:17:11 UTC`
+📆 Last Updated: `2023-03-25 04:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
-| 3 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 4 | [#Blockrockinbeats](http://twitter.com/search?q=%23Blockrockinbeats) | N/A |
-| 5 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
+| 1 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
+| 2 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
+| 3 | [#Blockrockinbeats](http://twitter.com/search?q=%23Blockrockinbeats) | N/A |
+| 4 | [#overlapontour](http://twitter.com/search?q=%23overlapontour) | N/A |
+| 5 | [#LP23](http://twitter.com/search?q=%23LP23) | N/A |
 | 6 | [graham dwyer](http://twitter.com/search?q=graham+dwyer) | N/A |
 | 7 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 8 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
+| 8 | [daffodil day](http://twitter.com/search?q=daffodil+day) | N/A |
 | 9 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
 | 10 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
 | 11 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 14 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 15 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
 | 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 17 | [Irish Cancer Society](http://twitter.com/search?q=Irish+Cancer+Society) | N/A |
+| 17 | [irish cancer society](http://twitter.com/search?q=irish+cancer+society) | N/A |
 | 18 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
 | 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 20 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
@@ -50,17 +50,17 @@ This is top 50 for [Ireland](</Ireland>)
 | 33 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
 | 34 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
 | 35 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 36 | [Harps](http://twitter.com/search?q=Harps) | N/A |
+| 36 | [harps](http://twitter.com/search?q=harps) | N/A |
 | 37 | [baby john](http://twitter.com/search?q=baby+john) | N/A |
 | 38 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 40 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 41 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 42 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 43 | [markets field](http://twitter.com/search?q=markets+field) | N/A |
-| 44 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
-| 45 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 46 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
+| 39 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 40 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 41 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 42 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 43 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 44 | [markets field](http://twitter.com/search?q=markets+field) | N/A |
+| 45 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 46 | [galway united](http://twitter.com/search?q=galway+united) | N/A |
 | 47 | [Yellowjackets](http://twitter.com/search?q=Yellowjackets) | N/A |
 | 48 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 49 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |

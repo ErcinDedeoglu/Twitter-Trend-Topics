@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-25 03:17:34 UTC`
+📆 Last Updated: `2023-03-25 04:19:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 22 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 | 23 | [Jalsa](http://twitter.com/search?q=Jalsa) | N/A |
 | 24 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 25 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
-| 26 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 27 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
-| 28 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
-| 29 | [ABDULLAH SHAFIQUE](http://twitter.com/search?q=ABDULLAH+SHAFIQUE) | N/A |
-| 30 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 31 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 32 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 33 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 35 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 36 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
-| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 38 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 39 | [Talat](http://twitter.com/search?q=Talat) | N/A |
-| 40 | [Inshallah](http://twitter.com/search?q=Inshallah) | N/A |
-| 41 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 42 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 43 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
-| 44 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 25 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
+| 26 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
+| 27 | [ABDULLAH SHAFIQUE](http://twitter.com/search?q=ABDULLAH+SHAFIQUE) | N/A |
+| 28 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 29 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
+| 30 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 31 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 32 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 35 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 37 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 38 | [Inshallah](http://twitter.com/search?q=Inshallah) | N/A |
+| 39 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 40 | [Delete](http://twitter.com/search?q=Delete) | Delete is an action that removes something from a computer or other electronic device. It is used to remove files, folders, programs, and other data from a computer's hard drive or other storage device. When something is deleted, it cannot be recovered unless it has been backed up beforehand. |
+| 41 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 42 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
+| 43 | [Correction](http://twitter.com/search?q=Correction) | N/A |
+| 44 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
 | 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 46 | [Correction](http://twitter.com/search?q=Correction) | N/A |
-| 47 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
-| 48 | [Atleast](http://twitter.com/search?q=Atleast) | N/A |
-| 49 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 50 | [Neend](http://twitter.com/search?q=Neend) | N/A |
+| 46 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 47 | [London](http://twitter.com/search?q=London) | N/A |
+| 48 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 49 | [Indians](http://twitter.com/search?q=Indians) | N/A |
+| 50 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
 
 
 

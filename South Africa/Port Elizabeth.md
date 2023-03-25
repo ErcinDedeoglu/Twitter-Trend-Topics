@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-25 03:17:30 UTC`
+📆 Last Updated: `2023-03-25 04:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [bafana bafana](http://twitter.com/search?q=bafana+bafana) | N/A |
+| 1 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 | 2 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
 | 3 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
 | 4 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
@@ -27,42 +27,42 @@ This is top 50 for [South Africa](</South Africa>)
 | 10 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
 | 11 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
 | 12 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 13 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 15 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 16 | [mailula](http://twitter.com/search?q=mailula) | N/A |
-| 17 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 18 | [tom motsepe](http://twitter.com/search?q=tom+motsepe) | N/A |
-| 19 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 20 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
-| 21 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
-| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 24 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 25 | [le roux](http://twitter.com/search?q=le+roux) | N/A |
+| 16 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 17 | [tom motsepe](http://twitter.com/search?q=tom+motsepe) | N/A |
+| 18 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 19 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
+| 20 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
+| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 22 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 23 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 24 | [le roux](http://twitter.com/search?q=le+roux) | N/A |
+| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 26 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
 | 27 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
 | 28 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 32 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 33 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 37 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 39 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
-| 40 | [Helman](http://twitter.com/search?q=Helman) | N/A |
-| 41 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 42 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 43 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
-| 44 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 45 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 46 | [gcinile](http://twitter.com/search?q=gcinile) | N/A |
-| 47 | [Trusted the Lord](http://twitter.com/search?q=Trusted+the+Lord) | N/A |
-| 48 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
+| 29 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 33 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 37 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 38 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 40 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
+| 41 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 42 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
+| 43 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 44 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
+| 45 | [Helman](http://twitter.com/search?q=Helman) | N/A |
+| 46 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
+| 47 | [gcinile](http://twitter.com/search?q=gcinile) | N/A |
+| 48 | [Trusted the Lord](http://twitter.com/search?q=Trusted+the+Lord) | N/A |
 
 
 

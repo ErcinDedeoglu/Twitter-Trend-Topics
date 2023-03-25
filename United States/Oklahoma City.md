@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-25 03:17:44 UTC`
+📆 Last Updated: `2023-03-25 04:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 8 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 9 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 10 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 11 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 12 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 13 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 14 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 15 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 16 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 17 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 18 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 19 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 20 | [Winona](http://twitter.com/search?q=Winona) | N/A |
-| 21 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 22 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 23 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 24 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 25 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
-| 26 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 29 | [Timmy Allen](http://twitter.com/search?q=Timmy+Allen) | N/A |
-| 30 | [Disu](http://twitter.com/search?q=Disu) | N/A |
-| 31 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 32 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 33 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 34 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
-| 35 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
-| 36 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 37 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 38 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 39 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 40 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
-| 41 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 42 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 43 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 44 | [Mattress Mack](http://twitter.com/search?q=Mattress+Mack) | Mattress Mack is the nickname of Jim McIngvale, an American businessman and philanthropist from Houston, Texas. He is the owner of Gallery Furniture, a furniture store chain in the Houston area. He is known for his philanthropic efforts and his unique marketing campaigns, such as offering customers free mattresses if they purchase furniture from his store. |
-| 45 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 47 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 48 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 49 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 2 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 3 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 4 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 9 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 12 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 13 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 14 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 15 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 17 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 18 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 23 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 24 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 25 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 26 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 27 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 28 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 29 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 30 | [Winona](http://twitter.com/search?q=Winona) | N/A |
+| 31 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 32 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
+| 33 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 34 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 35 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 36 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 37 | [Disu](http://twitter.com/search?q=Disu) | N/A |
+| 38 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 39 | [TIMMY ALLEN](http://twitter.com/search?q=TIMMY+ALLEN) | N/A |
+| 40 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 41 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 42 | [Tyrese Hunter](http://twitter.com/search?q=Tyrese+Hunter) | N/A |
+| 43 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 44 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
+| 45 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 46 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
+| 47 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 48 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 49 | [Nunge](http://twitter.com/search?q=Nunge) | N/A |
 
 
 

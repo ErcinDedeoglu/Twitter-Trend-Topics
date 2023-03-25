@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-25 03:17:14 UTC`
+📆 Last Updated: `2023-03-25 04:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
 | 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 8 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 9 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 10 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 8 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 9 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 10 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 11 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
 | 12 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
 | 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 14 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 14 | [knossi](http://twitter.com/search?q=knossi) | N/A |
 | 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 16 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
 | 17 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
 | 18 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
 | 19 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 20 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 23 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
 | 24 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
 | 25 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 26 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 27 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 28 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 29 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
-| 30 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 31 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 32 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 33 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 34 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
-| 35 | [elfe](http://twitter.com/search?q=elfe) | N/A |
-| 36 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 37 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 38 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 39 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 40 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 41 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 42 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 26 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 27 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
+| 28 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
+| 29 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 30 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
+| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 32 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
+| 33 | [elfe](http://twitter.com/search?q=elfe) | N/A |
+| 34 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 37 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 38 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 39 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 41 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 43 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
 | 44 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
 | 45 | [warteschlange](http://twitter.com/search?q=warteschlange) | N/A |
 | 46 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 47 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
-| 48 | [strafunmündigkeit](http://twitter.com/search?q=strafunm%c3%bcndigkeit) | N/A |
-| 49 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 47 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 48 | [abfindung](http://twitter.com/search?q=abfindung) | N/A |
+| 49 | [Claim Your $FTM](http://twitter.com/search?q=Claim+Your+%24FTM) | N/A |
 
 
 

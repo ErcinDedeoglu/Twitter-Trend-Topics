@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-25 03:17:37 UTC`
+📆 Last Updated: `2023-03-25 04:19:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,34 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
-| 2 | [BoluyaYolculuk Var](http://twitter.com/search?q=BoluyaYolculuk+Var) | N/A |
-| 3 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 4 | [#25Mart2009](http://twitter.com/search?q=%2325Mart2009) | N/A |
-| 5 | [#StajyerKararlı](http://twitter.com/search?q=%23StajyerKararl%c4%b1) | N/A |
+| 1 | [BoluyaYolculuk Var](http://twitter.com/search?q=BoluyaYolculuk+Var) | N/A |
+| 2 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 3 | [#25Mart2009](http://twitter.com/search?q=%2325Mart2009) | N/A |
+| 4 | [#DiplomaNerede](http://twitter.com/search?q=%23DiplomaNerede) | N/A |
+| 5 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
 | 6 | [Kahvaltı](http://twitter.com/search?q=Kahvalt%c4%b1) | N/A |
-| 7 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
-| 8 | [Jahrein Şahan](http://twitter.com/search?q=Jahrein+%c5%9eahan) | N/A |
-| 9 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 10 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 7 | [Jahrein Şahan](http://twitter.com/search?q=Jahrein+%c5%9eahan) | N/A |
+| 8 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 9 | [Koca Reis](http://twitter.com/search?q=Koca+Reis) | N/A |
+| 10 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
 | 11 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
-| 12 | [Koca Reis](http://twitter.com/search?q=Koca+Reis) | N/A |
-| 13 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
-| 14 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 15 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 16 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
-| 17 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 18 | [Zina](http://twitter.com/search?q=Zina) | N/A |
+| 12 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
+| 13 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 14 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 15 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
+| 16 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 17 | [Zina](http://twitter.com/search?q=Zina) | N/A |
+| 18 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
 | 19 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
-| 20 | [Marmara](http://twitter.com/search?q=Marmara) | N/A |
-| 21 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 22 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 23 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 24 | [Enver](http://twitter.com/search?q=Enver) | N/A |
-| 25 | [Özerklik](http://twitter.com/search?q=%c3%96zerklik) | N/A |
-| 26 | [#Kizilcikserbeti](http://twitter.com/search?q=%23Kizilcikserbeti) | N/A |
-| 27 | [#DiplomaNerede](http://twitter.com/search?q=%23DiplomaNerede) | N/A |
-| 28 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
-| 29 | [#HaftaSonuimzaya](http://twitter.com/search?q=%23HaftaSonuimzaya) | N/A |
-| 30 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 31 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
-| 32 | [#ÜlkedeBizimÜlküde](http://twitter.com/search?q=%23%c3%9clkedeBizim%c3%9clk%c3%bcde) | N/A |
-| 33 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 34 | [#ÇözümErkanTrükten](http://twitter.com/search?q=%23%c3%87%c3%b6z%c3%bcmErkanTr%c3%bckten) | N/A |
-| 35 | [#MilletinGücüSandıkta](http://twitter.com/search?q=%23MilletinG%c3%bcc%c3%bcSand%c4%b1kta) | N/A |
-| 36 | [#MemuraSeyyanenZam](http://twitter.com/search?q=%23MemuraSeyyanenZam) | N/A |
+| 20 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 21 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
+| 22 | [#StajyerKararlı](http://twitter.com/search?q=%23StajyerKararl%c4%b1) | N/A |
+| 23 | [#Kizilcikserbeti](http://twitter.com/search?q=%23Kizilcikserbeti) | N/A |
+| 24 | [#Nursema](http://twitter.com/search?q=%23Nursema) | N/A |
+| 25 | [#HaftaSonuimzaya](http://twitter.com/search?q=%23HaftaSonuimzaya) | N/A |
+| 26 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
+| 27 | [#ÜlkedeBizimÜlküde](http://twitter.com/search?q=%23%c3%9clkedeBizim%c3%9clk%c3%bcde) | N/A |
+| 28 | [#MilletinGücüSandıkta](http://twitter.com/search?q=%23MilletinG%c3%bcc%c3%bcSand%c4%b1kta) | N/A |
 
 
 
