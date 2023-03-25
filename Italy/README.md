@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-25 15:19:06 UTC`
+📆 Last Updated: `2023-03-25 16:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Italy
 | 1 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
 | 2 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
 | 3 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
-| 4 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
+| 4 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
 | 5 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
-| 6 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 7 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 8 | [Marini](http://twitter.com/search?q=Marini) | N/A |
-| 9 | [David di Michelangelo](http://twitter.com/search?q=David+di+Michelangelo) | N/A |
-| 10 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 13 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 14 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 16 | [Irma Testa](http://twitter.com/search?q=Irma+Testa) | N/A |
-| 17 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
+| 6 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 7 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 8 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 9 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
+| 10 | [Marini](http://twitter.com/search?q=Marini) | N/A |
+| 11 | [david di michelangelo](http://twitter.com/search?q=david+di+michelangelo) | N/A |
+| 12 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 13 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [pio e amedeo](http://twitter.com/search?q=pio+e+amedeo) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
 | 18 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 20 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
-| 21 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
-| 22 | [Zuleyha](http://twitter.com/search?q=Zuleyha) | N/A |
-| 23 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
-| 24 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
-| 25 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
-| 26 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 27 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 28 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
-| 29 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 30 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 31 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 32 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 33 | [ridge](http://twitter.com/search?q=ridge) | N/A |
-| 34 | [Mujgan](http://twitter.com/search?q=Mujgan) | N/A |
-| 35 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 36 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 37 | [Yilmaz](http://twitter.com/search?q=Yilmaz) | N/A |
-| 38 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 39 | [Bocca](http://twitter.com/search?q=Bocca) | N/A |
-| 40 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 41 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 42 | [Storia](http://twitter.com/search?q=Storia) | N/A |
-| 43 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
-| 44 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 45 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 46 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 47 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 48 | [Enea](http://twitter.com/search?q=Enea) | N/A |
-| 49 | [virna](http://twitter.com/search?q=virna) | N/A |
-| 50 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 19 | [sembrant](http://twitter.com/search?q=sembrant) | N/A |
+| 20 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 21 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 23 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
+| 24 | [Zuleyha](http://twitter.com/search?q=Zuleyha) | N/A |
+| 25 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 26 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
+| 27 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 28 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 29 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 30 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 31 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
+| 32 | [Tipi](http://twitter.com/search?q=Tipi) | N/A |
+| 33 | [Bocca](http://twitter.com/search?q=Bocca) | N/A |
+| 34 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 35 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 36 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
+| 37 | [Mujgan](http://twitter.com/search?q=Mujgan) | N/A |
+| 38 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 39 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 41 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 42 | [yilmaz](http://twitter.com/search?q=yilmaz) | N/A |
+| 43 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 44 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 45 | [Storia](http://twitter.com/search?q=Storia) | N/A |
+| 46 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 47 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 48 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 49 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 50 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
 
 
 

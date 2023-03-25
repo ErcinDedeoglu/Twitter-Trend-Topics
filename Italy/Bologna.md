@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-25 15:18:17 UTC`
+📆 Last Updated: `2023-03-25 16:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
-| 2 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
-| 3 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 4 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
-| 5 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
+| 2 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 3 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
+| 4 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 5 | [Enea](http://twitter.com/search?q=Enea) | N/A |
 | 6 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 7 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 8 | [David di Michelangelo](http://twitter.com/search?q=David+di+Michelangelo) | N/A |
-| 9 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 12 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 13 | [Marini](http://twitter.com/search?q=Marini) | N/A |
-| 14 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 16 | [Irma Testa](http://twitter.com/search?q=Irma+Testa) | N/A |
-| 17 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 18 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 20 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
-| 21 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
-| 22 | [Zuleyha](http://twitter.com/search?q=Zuleyha) | N/A |
-| 23 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
-| 24 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
-| 25 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 26 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 27 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
-| 28 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 29 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 30 | [ridge](http://twitter.com/search?q=ridge) | N/A |
-| 31 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 32 | [Mujgan](http://twitter.com/search?q=Mujgan) | N/A |
-| 33 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 34 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 35 | [Yilmaz](http://twitter.com/search?q=Yilmaz) | N/A |
-| 36 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
-| 37 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 38 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 39 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 40 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 41 | [Storia](http://twitter.com/search?q=Storia) | N/A |
-| 42 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 43 | [formigli](http://twitter.com/search?q=formigli) | N/A |
-| 44 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 45 | [Bocca](http://twitter.com/search?q=Bocca) | N/A |
-| 46 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 47 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 48 | [virna](http://twitter.com/search?q=virna) | N/A |
-| 49 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
-| 50 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 7 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 8 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
+| 9 | [Marini](http://twitter.com/search?q=Marini) | N/A |
+| 10 | [david di michelangelo](http://twitter.com/search?q=david+di+michelangelo) | N/A |
+| 11 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 14 | [pio e amedeo](http://twitter.com/search?q=pio+e+amedeo) | N/A |
+| 15 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 16 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 17 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 18 | [sembrant](http://twitter.com/search?q=sembrant) | N/A |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 22 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
+| 23 | [Zuleyha](http://twitter.com/search?q=Zuleyha) | N/A |
+| 24 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 25 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
+| 26 | [il 25](http://twitter.com/search?q=il+25) | N/A |
+| 27 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 28 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 29 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 30 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 31 | [Bocca](http://twitter.com/search?q=Bocca) | N/A |
+| 32 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 33 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 34 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
+| 35 | [Tipi](http://twitter.com/search?q=Tipi) | N/A |
+| 36 | [Mujgan](http://twitter.com/search?q=Mujgan) | N/A |
+| 37 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 38 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 40 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 41 | [yilmaz](http://twitter.com/search?q=yilmaz) | N/A |
+| 42 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 43 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 44 | [Storia](http://twitter.com/search?q=Storia) | N/A |
+| 45 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 46 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 47 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 48 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 49 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-25 15:18:20 UTC`
+📆 Last Updated: `2023-03-25 16:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,52 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 2 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 3 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 4 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 5 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 6 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 7 | [#25MLaSaludNoSeVende](http://twitter.com/search?q=%2325MLaSaludNoSeVende) | N/A |
-| 8 | [#SanidadPública](http://twitter.com/search?q=%23SanidadP%c3%bablica) | N/A |
-| 9 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 10 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
-| 11 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 12 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 13 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
-| 14 | [Recordad](http://twitter.com/search?q=Recordad) | N/A |
-| 15 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 16 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 17 | [Hoy 25](http://twitter.com/search?q=Hoy+25) | N/A |
-| 18 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 19 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 20 | [Tolkien](http://twitter.com/search?q=Tolkien) | N/A |
-| 21 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
-| 22 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 23 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
-| 24 | [pantomima full](http://twitter.com/search?q=pantomima+full) | N/A |
-| 25 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 26 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
-| 27 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 28 | [Portimao](http://twitter.com/search?q=Portimao) | N/A |
-| 29 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 30 | [Escrivá](http://twitter.com/search?q=Escriv%c3%a1) | N/A |
-| 31 | [#PROmarketingDAY](http://twitter.com/search?q=%23PROmarketingDAY) | N/A |
-| 32 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 33 | [#cambiodehora](http://twitter.com/search?q=%23cambiodehora) | N/A |
-| 34 | [#APOYOROCIO25M](http://twitter.com/search?q=%23APOYOROCIO25M) | N/A |
-| 35 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 36 | [#N1CanalFiesta12](http://twitter.com/search?q=%23N1CanalFiesta12) | N/A |
-| 37 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
-| 38 | [#YoMeRebelo25M](http://twitter.com/search?q=%23YoMeRebelo25M) | N/A |
-| 39 | [#EASinOficina23](http://twitter.com/search?q=%23EASinOficina23) | N/A |
-| 40 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 41 | [#25deMarzo](http://twitter.com/search?q=%2325deMarzo) | N/A |
-| 42 | [#innobi23](http://twitter.com/search?q=%23innobi23) | N/A |
-| 43 | [#Audiencias](http://twitter.com/search?q=%23Audiencias) | N/A |
+| 2 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 3 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
+| 4 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 5 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 6 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 7 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 8 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
+| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 10 | [#pucherazo](http://twitter.com/search?q=%23pucherazo) | N/A |
+| 11 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
+| 12 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 13 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 14 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 15 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 16 | [Bagnaia](http://twitter.com/search?q=Bagnaia) | N/A |
+| 17 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 18 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 19 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 20 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
+| 21 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 22 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 23 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
+| 24 | [Recordad](http://twitter.com/search?q=Recordad) | N/A |
+| 25 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 26 | [Portimao](http://twitter.com/search?q=Portimao) | N/A |
+| 27 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 28 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 29 | [Tolkien](http://twitter.com/search?q=Tolkien) | N/A |
+| 30 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
+| 31 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 32 | [Pantomima Full](http://twitter.com/search?q=Pantomima+Full) | N/A |
+| 33 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
+| 34 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
+| 35 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 36 | [#VoltaCatalunya102](http://twitter.com/search?q=%23VoltaCatalunya102) | N/A |
+| 37 | [#PROmarketingDAY](http://twitter.com/search?q=%23PROmarketingDAY) | N/A |
+| 38 | [#25MLaSaludNoSeVende](http://twitter.com/search?q=%2325MLaSaludNoSeVende) | N/A |
+| 39 | [#SanidadPública](http://twitter.com/search?q=%23SanidadP%c3%bablica) | N/A |
+| 40 | [#apoyorocio25m](http://twitter.com/search?q=%23apoyorocio25m) | N/A |
+| 41 | [#EASinOficina23](http://twitter.com/search?q=%23EASinOficina23) | N/A |
+| 42 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 43 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 44 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 45 | [#YoMeRebelo25M](http://twitter.com/search?q=%23YoMeRebelo25M) | N/A |
+| 46 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
+| 47 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
 
 
 

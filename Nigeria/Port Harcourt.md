@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-25 15:18:35 UTC`
+📆 Last Updated: `2023-03-25 16:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoldenPennyPasta](http://twitter.com/search?q=%23GoldenPennyPasta) | N/A |
-| 2 | [#MunchItTaskDay](http://twitter.com/search?q=%23MunchItTaskDay) | N/A |
-| 3 | [#BetNowOnMSport](http://twitter.com/search?q=%23BetNowOnMSport) | N/A |
-| 4 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
-| 5 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 6 | [Igbo Muslim](http://twitter.com/search?q=Igbo+Muslim) | N/A |
-| 7 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 8 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
-| 9 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 10 | [Sunday Igboho](http://twitter.com/search?q=Sunday+Igboho) | N/A |
-| 11 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 12 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 13 | [Orlu](http://twitter.com/search?q=Orlu) | N/A |
-| 14 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 15 | [Owerri](http://twitter.com/search?q=Owerri) | N/A |
-| 16 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 17 | [PHYNA X RIXARI SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+SALES) | N/A |
-| 18 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 19 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 20 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 21 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 22 | [House 2](http://twitter.com/search?q=House+2) | N/A |
-| 23 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 24 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 25 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
-| 26 | [Awka](http://twitter.com/search?q=Awka) | N/A |
-| 27 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
-| 28 | [Sam Amadi](http://twitter.com/search?q=Sam+Amadi) | N/A |
-| 29 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
-| 30 | [Dipo](http://twitter.com/search?q=Dipo) | N/A |
-| 31 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 32 | [EEDC](http://twitter.com/search?q=EEDC) | N/A |
-| 33 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 34 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
-| 35 | [Fireboy](http://twitter.com/search?q=Fireboy) | N/A |
-| 36 | [#FCMB1K](http://twitter.com/search?q=%23FCMB1K) | N/A |
-| 37 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 38 | [#Usepayday](http://twitter.com/search?q=%23Usepayday) | N/A |
-| 39 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 40 | [#March25thWorldOlanikesDay](http://twitter.com/search?q=%23March25thWorldOlanikesDay) | N/A |
-| 41 | [#ImpactAcademywithKumuyi](http://twitter.com/search?q=%23ImpactAcademywithKumuyi) | N/A |
-| 42 | [#WetandDryLagos](http://twitter.com/search?q=%23WetandDryLagos) | N/A |
-| 43 | [#HappyBirthdayOla](http://twitter.com/search?q=%23HappyBirthdayOla) | N/A |
-| 44 | [#gckincameroon](http://twitter.com/search?q=%23gckincameroon) | N/A |
+| 1 | [#BritishCouncilArtShowcase](http://twitter.com/search?q=%23BritishCouncilArtShowcase) | N/A |
+| 2 | [#GoldenPennyPasta](http://twitter.com/search?q=%23GoldenPennyPasta) | N/A |
+| 3 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 4 | [#BetNowOnMSport](http://twitter.com/search?q=%23BetNowOnMSport) | N/A |
+| 5 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
+| 6 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [London](http://twitter.com/search?q=London) | N/A |
+| 9 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
+| 10 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 11 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 12 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 13 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 16 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 17 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 18 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 19 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 20 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 21 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 22 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 23 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 24 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 25 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 26 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
+| 27 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
+| 28 | [ajebo you go know](http://twitter.com/search?q=ajebo+you+go+know) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 31 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 32 | [Ndidi](http://twitter.com/search?q=Ndidi) | N/A |
+| 33 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 34 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 35 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 36 | [Igbo Muslim](http://twitter.com/search?q=Igbo+Muslim) | N/A |
+| 37 | [Rohr](http://twitter.com/search?q=Rohr) | N/A |
+| 38 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 39 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 40 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 41 | [Team Crunch](http://twitter.com/search?q=Team+Crunch) | N/A |
+| 42 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 43 | [EEDC](http://twitter.com/search?q=EEDC) | N/A |
+| 44 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 45 | [Humphrey Anumudu](http://twitter.com/search?q=Humphrey+Anumudu) | N/A |
+| 46 | [lookman](http://twitter.com/search?q=lookman) | N/A |
+| 47 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 48 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
 
 
 

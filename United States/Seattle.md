@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-25 15:19:00 UTC`
+📆 Last Updated: `2023-03-25 16:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
 | 2 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
 | 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 6 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 7 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 4 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 6 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 7 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
 | 8 | [#RWBYV9Spoilers](http://twitter.com/search?q=%23RWBYV9Spoilers) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 10 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 11 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 12 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 13 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 14 | [Luis Severino](http://twitter.com/search?q=Luis+Severino) | N/A |
-| 15 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 16 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 17 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 18 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 19 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 20 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 21 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 22 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 23 | [Sibelius](http://twitter.com/search?q=Sibelius) | N/A |
-| 24 | [Annunciation](http://twitter.com/search?q=Annunciation) | N/A |
-| 25 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 26 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 27 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 28 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 29 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
-| 30 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 31 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 32 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 33 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
-| 34 | [Donk](http://twitter.com/search?q=Donk) | N/A |
-| 35 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 36 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
-| 37 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 38 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
-| 39 | [Timothy McVeigh](http://twitter.com/search?q=Timothy+McVeigh) | N/A |
-| 40 | [Joplin](http://twitter.com/search?q=Joplin) | N/A |
-| 41 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 42 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 43 | [Mars in Cancer](http://twitter.com/search?q=Mars+in+Cancer) | N/A |
-| 44 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 45 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 46 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 47 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 48 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 49 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 10 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
+| 11 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 12 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 13 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 14 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 15 | [Luis Severino](http://twitter.com/search?q=Luis+Severino) | N/A |
+| 16 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 17 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 18 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 19 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 20 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 21 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 23 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
+| 24 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 25 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 26 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 27 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 28 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
+| 29 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 31 | [The Yankees](http://twitter.com/search?q=The+Yankees) | N/A |
+| 32 | [Gentry](http://twitter.com/search?q=Gentry) | N/A |
+| 33 | [Sibelius](http://twitter.com/search?q=Sibelius) | N/A |
+| 34 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 35 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 36 | [Otherside](http://twitter.com/search?q=Otherside) | N/A |
+| 37 | [2nd Trip](http://twitter.com/search?q=2nd+Trip) | N/A |
+| 38 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 39 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
+| 40 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 41 | [Annunciation](http://twitter.com/search?q=Annunciation) | N/A |
+| 42 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 43 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 44 | [Tyler Reddick](http://twitter.com/search?q=Tyler+Reddick) | N/A |
+| 45 | [Montas](http://twitter.com/search?q=Montas) | N/A |
+| 46 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 47 | [RSBN](http://twitter.com/search?q=RSBN) | N/A |
+| 48 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
+| 49 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-03-25 15:18:39 UTC`
+📆 Last Updated: `2023-03-25 16:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Jordan](</Jordan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [٣ رمضان](http://twitter.com/search?q=%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 2 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 3 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 4 | [الطواري المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
-| 5 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 6 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
-| 7 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 8 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 9 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 10 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 11 | [علي الاسواق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%a7%d9%82) | N/A |
-| 12 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 2 | [عدم الاستقرار الجوي](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 3 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 4 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 5 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 6 | [الطواري المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
+| 7 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 8 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 9 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 10 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 11 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 12 | [علي الاسواق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%a7%d9%82) | N/A |
 | 13 | [لحقوق الانسان](http://twitter.com/search?q=%d9%84%d8%ad%d9%82%d9%88%d9%82+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86) | N/A |
-| 14 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 15 | [دير الزور](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d9%88%d8%b1) | N/A |
+| 14 | [دير الزور](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b2%d9%88%d8%b1) | N/A |
+| 15 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 16 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 17 | [علي السحور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%ad%d9%88%d8%b1) | N/A |
-| 18 | [#مدار_الساعه](http://twitter.com/search?q=%23%d9%85%d8%af%d8%a7%d8%b1_%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
-| 19 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 20 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 21 | [المسجد الأقصى](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
-| 22 | [الموسم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 23 | [هولندا](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7) | N/A |
-| 24 | [برنامج رامز](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
-| 25 | [لإيران](http://twitter.com/search?q=%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 26 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
-| 27 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
-| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 29 | [برنامج سين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b3%d9%8a%d9%86) | N/A |
-| 30 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 31 | [التمر الهندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a) | N/A |
-| 32 | [سناب](http://twitter.com/search?q=%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
-| 33 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 34 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
-| 35 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 36 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 37 | [سلمي حايك](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d9%8a+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
-| 38 | [علي الرسايل الخاصه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 39 | [الاذان الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 40 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 41 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 42 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 43 | [الاعمال الدراميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 44 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 45 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 46 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 47 | [البرامج المنوعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b9%d9%87) | N/A |
-| 48 | [تمر هندي](http://twitter.com/search?q=%d8%aa%d9%85%d8%b1+%d9%87%d9%86%d8%af%d9%8a) | N/A |
-| 49 | [امير ابو خديجه](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d8%a8%d9%88+%d8%ae%d8%af%d9%8a%d8%ac%d9%87) | N/A |
-| 50 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 17 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 18 | [علي السحور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%ad%d9%88%d8%b1) | N/A |
+| 19 | [#مدار_الساعه](http://twitter.com/search?q=%23%d9%85%d8%af%d8%a7%d8%b1_%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
+| 20 | [ايطاليا](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 21 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 22 | [المسجد الأقصى](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
+| 23 | [الموسم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 24 | [هولندا](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7) | N/A |
+| 25 | [برنامج رامز](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
+| 26 | [لإيران](http://twitter.com/search?q=%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 27 | [بايرن ميونيخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae) | N/A |
+| 28 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
+| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 30 | [برنامج سين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%b3%d9%8a%d9%86) | N/A |
+| 31 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 32 | [التمر الهندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a) | N/A |
+| 33 | [سناب](http://twitter.com/search?q=%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
+| 34 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 35 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
+| 36 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 37 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 38 | [الفصل الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 39 | [سلمي حايك](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d9%8a+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
+| 40 | [علي الرسايل الخاصه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 41 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 42 | [الاذان الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 43 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 44 | [الجزء الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a1+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 45 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 46 | [الاعمال الدراميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 47 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 49 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
+| 50 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
 
 
 

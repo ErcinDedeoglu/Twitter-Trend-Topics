@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-25 15:19:08 UTC`
+📆 Last Updated: `2023-03-25 16:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 3 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 4 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 5 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 6 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 7 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 8 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 10 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 11 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 12 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 13 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 14 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
-| 15 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 16 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 17 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 18 | [turco](http://twitter.com/search?q=turco) | N/A |
-| 19 | [El 25](http://twitter.com/search?q=El+25) | N/A |
-| 20 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 21 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 22 | [Verdes](http://twitter.com/search?q=Verdes) | N/A |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 25 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 26 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 27 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 28 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 29 | [Jaime Sabines](http://twitter.com/search?q=Jaime+Sabines) | N/A |
-| 30 | [Cotsco](http://twitter.com/search?q=Cotsco) | N/A |
-| 31 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 32 | [Morena](http://twitter.com/search?q=Morena) | N/A |
-| 33 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 34 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 35 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
-| 36 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
-| 37 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 38 | [cambios de luna](http://twitter.com/search?q=cambios+de+luna) | N/A |
-| 39 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
-| 40 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 41 | [Día Mundial de la Tuberculosis](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Tuberculosis) | N/A |
-| 42 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 43 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 44 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 45 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 46 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 47 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 49 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 50 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 2 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 3 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 4 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
+| 5 | [#ÚLTIMAHORA](http://twitter.com/search?q=%23%c3%9aLTIMAHORA) | N/A |
+| 6 | [López Tarso](http://twitter.com/search?q=L%c3%b3pez+Tarso) | N/A |
+| 7 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
+| 8 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
+| 9 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
+| 10 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 11 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 12 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 13 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
+| 14 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
+| 15 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 16 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
+| 17 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
+| 18 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 19 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 20 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 21 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 22 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
+| 23 | [Salganse de Twitter](http://twitter.com/search?q=Salganse+de+Twitter) | N/A |
+| 24 | [El 25](http://twitter.com/search?q=El+25) | N/A |
+| 25 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 26 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 27 | [Apocalipsis](http://twitter.com/search?q=Apocalipsis) | N/A |
+| 28 | [Verdes](http://twitter.com/search?q=Verdes) | N/A |
+| 29 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 30 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 31 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 32 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 33 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 34 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 35 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 36 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 37 | [Zedillo](http://twitter.com/search?q=Zedillo) | N/A |
+| 38 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 39 | [José Ramón](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n) | N/A |
+| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 41 | [Tsuru](http://twitter.com/search?q=Tsuru) | N/A |
+| 42 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 43 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
+| 44 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 45 | [#ULTIMOMINUTO](http://twitter.com/search?q=%23ULTIMOMINUTO) | N/A |
+| 46 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
+| 47 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 48 | [#MorenaDestruyeAMexico](http://twitter.com/search?q=%23MorenaDestruyeAMexico) | N/A |
+| 49 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 50 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
 
 
 

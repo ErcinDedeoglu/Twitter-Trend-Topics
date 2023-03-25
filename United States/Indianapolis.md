@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-25 15:18:54 UTC`
+📆 Last Updated: `2023-03-25 16:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 2 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 3 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 4 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 5 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 6 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 7 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 8 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 2 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 3 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 5 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 6 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 7 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 | 10 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 11 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 11 | [#RWBYV9Spoilers](http://twitter.com/search?q=%23RWBYV9Spoilers) | N/A |
 | 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 13 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 14 | [#RWBYV9Spoilers](http://twitter.com/search?q=%23RWBYV9Spoilers) | N/A |
+| 13 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
+| 14 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 16 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 17 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 18 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 19 | [Severino](http://twitter.com/search?q=Severino) | N/A |
-| 20 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 21 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 22 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 16 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 17 | [Luis Severino](http://twitter.com/search?q=Luis+Severino) | N/A |
+| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 19 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 20 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 21 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 22 | [vmin](http://twitter.com/search?q=vmin) | N/A |
 | 23 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 24 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 25 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 26 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 27 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 28 | [Sibelius](http://twitter.com/search?q=Sibelius) | N/A |
-| 29 | [Annunciation](http://twitter.com/search?q=Annunciation) | N/A |
-| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 31 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 32 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 33 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 34 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
-| 35 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 36 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 37 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 38 | [Donk](http://twitter.com/search?q=Donk) | N/A |
-| 39 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
-| 40 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
-| 41 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 42 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 43 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
-| 44 | [Timothy McVeigh](http://twitter.com/search?q=Timothy+McVeigh) | N/A |
-| 45 | [Joplin](http://twitter.com/search?q=Joplin) | N/A |
-| 46 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 47 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 24 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 25 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 26 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
+| 27 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 28 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 29 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 30 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 31 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
+| 32 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 34 | [The Yankees](http://twitter.com/search?q=The+Yankees) | N/A |
+| 35 | [Gentry](http://twitter.com/search?q=Gentry) | N/A |
+| 36 | [Sibelius](http://twitter.com/search?q=Sibelius) | N/A |
+| 37 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 38 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 39 | [Otherside](http://twitter.com/search?q=Otherside) | N/A |
+| 40 | [2nd Trip](http://twitter.com/search?q=2nd+Trip) | N/A |
+| 41 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 42 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 43 | [Annunciation](http://twitter.com/search?q=Annunciation) | N/A |
+| 44 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 45 | [Montas](http://twitter.com/search?q=Montas) | N/A |
+| 46 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
 
 
 
