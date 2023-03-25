@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-25 08:16:55 UTC`
+📆 Last Updated: `2023-03-25 09:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,29 +41,29 @@ This is top 50 for [Chile](</Chile>)
 | 24 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
 | 25 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
 | 26 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 27 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 27 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
 | 28 | [shakira tower](http://twitter.com/search?q=shakira+tower) | N/A |
 | 29 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 30 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
-| 31 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
-| 32 | [Marcelo Ríos](http://twitter.com/search?q=Marcelo+R%c3%ados) | N/A |
-| 33 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
-| 34 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
-| 35 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
-| 36 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
-| 37 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
+| 31 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
+| 32 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
+| 33 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
+| 34 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
+| 35 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
+| 36 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
+| 37 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
 | 38 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 40 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 41 | [Colegio Médico](http://twitter.com/search?q=Colegio+M%c3%a9dico) | N/A |
-| 42 | [generación dorada](http://twitter.com/search?q=generaci%c3%b3n+dorada) | N/A |
-| 43 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 44 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
-| 45 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 46 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 47 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
-| 48 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
-| 49 | [Ferrada](http://twitter.com/search?q=Ferrada) | N/A |
+| 39 | [generación dorada](http://twitter.com/search?q=generaci%c3%b3n+dorada) | N/A |
+| 40 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 41 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
+| 42 | [santiago city](http://twitter.com/search?q=santiago+city) | N/A |
+| 43 | [Michelle Adam](http://twitter.com/search?q=Michelle+Adam) | N/A |
+| 44 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 45 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
+| 46 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
+| 47 | [Ferrada](http://twitter.com/search?q=Ferrada) | N/A |
+| 48 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
+| 49 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 
 
 

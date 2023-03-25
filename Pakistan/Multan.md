@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-25 08:17:22 UTC`
+📆 Last Updated: `2023-03-25 09:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 9 | [IHSANULLAH](http://twitter.com/search?q=IHSANULLAH) | N/A |
 | 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 12 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 14 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 15 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 16 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 17 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 19 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
-| 20 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 21 | [Tayyab](http://twitter.com/search?q=Tayyab) | N/A |
-| 22 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 23 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 24 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
-| 25 | [ABDULLAH SHAFIQUE](http://twitter.com/search?q=ABDULLAH+SHAFIQUE) | N/A |
-| 26 | [The ECP](http://twitter.com/search?q=The+ECP) | N/A |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 29 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 30 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
-| 31 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 32 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 33 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 34 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
-| 35 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 36 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 11 | [Babar and Rizwan](http://twitter.com/search?q=Babar+and+Rizwan) | N/A |
+| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 13 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 14 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 15 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 16 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 17 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 18 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
+| 19 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 20 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 21 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 23 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
+| 24 | [Tayyab](http://twitter.com/search?q=Tayyab) | N/A |
+| 25 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 26 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 27 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 28 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
+| 29 | [ABDULLAH SHAFIQUE](http://twitter.com/search?q=ABDULLAH+SHAFIQUE) | N/A |
+| 30 | [the ecp](http://twitter.com/search?q=the+ecp) | N/A |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 33 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 34 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 35 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
+| 36 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 37 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 38 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 39 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 40 | [Haqeeqi Azadi](http://twitter.com/search?q=Haqeeqi+Azadi) | N/A |
-| 41 | [Sindhis](http://twitter.com/search?q=Sindhis) | N/A |
-| 42 | [England](http://twitter.com/search?q=England) | N/A |
-| 43 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 44 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 45 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
-| 46 | [Sharif](http://twitter.com/search?q=Sharif) | N/A |
-| 47 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
-| 48 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 49 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 50 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 42 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 43 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
+| 46 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 47 | [President Alvi](http://twitter.com/search?q=President+Alvi) | N/A |
+| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 49 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 50 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
 
 
 

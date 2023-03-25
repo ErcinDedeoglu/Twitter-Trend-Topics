@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-25 08:17:31 UTC`
+📆 Last Updated: `2023-03-25 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 3 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 4 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 2 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 4 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
 | 5 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 6 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 7 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 8 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 9 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 10 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 11 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 12 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 13 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 14 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 15 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 16 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
-| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 18 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 20 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 21 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 22 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 23 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 24 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 25 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 26 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 27 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 29 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 30 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 31 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 32 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 33 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 34 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 35 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 36 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 6 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 7 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 8 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 9 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
+| 10 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 11 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 12 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
+| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 14 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 15 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 16 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 17 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 18 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 19 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 20 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 21 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 23 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 24 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
+| 25 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 26 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 27 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 28 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 29 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 31 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 32 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 33 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 34 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 35 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 37 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 38 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 39 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 40 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 41 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 42 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 43 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 44 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 45 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 46 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 47 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 48 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 49 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 38 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 39 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 40 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 41 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 42 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 43 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 44 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
+| 45 | [Troy brown](http://twitter.com/search?q=Troy+brown) | N/A |
+| 46 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 47 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 48 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 49 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
 
 
 

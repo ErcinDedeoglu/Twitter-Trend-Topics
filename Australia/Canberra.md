@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-25 08:17:09 UTC`
+📆 Last Updated: `2023-03-25 09:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,49 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLCrowsTigers](http://twitter.com/search?q=%23AFLCrowsTigers) | N/A |
-| 2 | [#AFLPiesPower](http://twitter.com/search?q=%23AFLPiesPower) | N/A |
-| 3 | [#NRLCowboysTitans](http://twitter.com/search?q=%23NRLCowboysTitans) | N/A |
-| 4 | [#NSWVotes2023](http://twitter.com/search?q=%23NSWVotes2023) | N/A |
-| 5 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 6 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
-| 7 | [Nathan Broad](http://twitter.com/search?q=Nathan+Broad) | N/A |
-| 8 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
-| 9 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
-| 10 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 1 | [#NSWvotes](http://twitter.com/search?q=%23NSWvotes) | N/A |
+| 2 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
+| 3 | [#AFLDogsSaints](http://twitter.com/search?q=%23AFLDogsSaints) | N/A |
+| 4 | [#AFLCrowsTigers](http://twitter.com/search?q=%23AFLCrowsTigers) | N/A |
+| 5 | [#AFLFreoNorth](http://twitter.com/search?q=%23AFLFreoNorth) | N/A |
+| 6 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
+| 7 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 8 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 9 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
+| 10 | [David Speers](http://twitter.com/search?q=David+Speers) | N/A |
 | 11 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 | 12 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 13 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 14 | [Nicks](http://twitter.com/search?q=Nicks) | N/A |
-| 15 | [Cascadian](http://twitter.com/search?q=Cascadian) | N/A |
-| 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 17 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
-| 18 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 19 | [Hinkley](http://twitter.com/search?q=Hinkley) | N/A |
-| 20 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 21 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 22 | [Max Gawn](http://twitter.com/search?q=Max+Gawn) | N/A |
-| 23 | [Joseph Suaalii](http://twitter.com/search?q=Joseph+Suaalii) | N/A |
-| 24 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 25 | [Homebush](http://twitter.com/search?q=Homebush) | N/A |
-| 26 | [Gina Rinehart](http://twitter.com/search?q=Gina+Rinehart) | N/A |
-| 27 | [Thorpe](http://twitter.com/search?q=Thorpe) | N/A |
-| 28 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 29 | [Fyfe](http://twitter.com/search?q=Fyfe) | N/A |
-| 30 | [Samson Ryan](http://twitter.com/search?q=Samson+Ryan) | N/A |
-| 31 | [What You Need](http://twitter.com/search?q=What+You+Need) | N/A |
-| 32 | [Paul Kelly](http://twitter.com/search?q=Paul+Kelly) | N/A |
-| 33 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 34 | [Rachele](http://twitter.com/search?q=Rachele) | N/A |
-| 35 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 36 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 37 | [milford](http://twitter.com/search?q=milford) | N/A |
-| 38 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
-| 39 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 40 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 41 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 42 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
-| 43 | [Stroke of Luck](http://twitter.com/search?q=Stroke+of+Luck) | N/A |
-| 44 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 45 | [Lane Cove](http://twitter.com/search?q=Lane+Cove) | N/A |
-| 46 | [Aaron Woods](http://twitter.com/search?q=Aaron+Woods) | N/A |
-| 47 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 13 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
+| 14 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 15 | [Samson Ryan](http://twitter.com/search?q=Samson+Ryan) | N/A |
+| 16 | [Broad](http://twitter.com/search?q=Broad) | N/A |
+| 17 | [Nicks](http://twitter.com/search?q=Nicks) | N/A |
+| 18 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 19 | [New South Wales](http://twitter.com/search?q=New+South+Wales) | N/A |
+| 20 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 21 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 22 | [Liberals](http://twitter.com/search?q=Liberals) | N/A |
+| 23 | [Cascadian](http://twitter.com/search?q=Cascadian) | N/A |
+| 24 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 25 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 26 | [Teals](http://twitter.com/search?q=Teals) | N/A |
+| 27 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
+| 28 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 29 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
+| 30 | [#NRLCowboysTitans](http://twitter.com/search?q=%23NRLCowboysTitans) | N/A |
+| 31 | [#NRLSouthsManly](http://twitter.com/search?q=%23NRLSouthsManly) | N/A |
+| 32 | [#nswpol](http://twitter.com/search?q=%23nswpol) | N/A |
+| 33 | [#gotiges](http://twitter.com/search?q=%23gotiges) | N/A |
+| 34 | [#nswelection](http://twitter.com/search?q=%23nswelection) | N/A |
+| 35 | [#THUvSWI](http://twitter.com/search?q=%23THUvSWI) | N/A |
+| 36 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 37 | [#foreverfreo](http://twitter.com/search?q=%23foreverfreo) | N/A |
+| 38 | [#FIRvLIG](http://twitter.com/search?q=%23FIRvLIG) | N/A |
+| 39 | [#AFLPiesPort](http://twitter.com/search?q=%23AFLPiesPort) | N/A |
+| 40 | [#sydneytrains](http://twitter.com/search?q=%23sydneytrains) | N/A |
+| 41 | [#LetWomenSpeakAuckland](http://twitter.com/search?q=%23LetWomenSpeakAuckland) | N/A |
+| 42 | [#Labor](http://twitter.com/search?q=%23Labor) | N/A |
+| 43 | [#DemocracySausage](http://twitter.com/search?q=%23DemocracySausage) | N/A |
 
 
 

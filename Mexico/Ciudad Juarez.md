@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-03-25 08:16:53 UTC`
+📆 Last Updated: `2023-03-25 09:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 2 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 3 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 4 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 5 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
-| 6 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 7 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
-| 8 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 9 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 10 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 12 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
-| 13 | [Bertha Alcalde](http://twitter.com/search?q=Bertha+Alcalde) | N/A |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 15 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 16 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 17 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
-| 18 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 19 | [Estado de Derecho](http://twitter.com/search?q=Estado+de+Derecho) | N/A |
-| 20 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 21 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 22 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 23 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 24 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 25 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 28 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 29 | [Zedillo](http://twitter.com/search?q=Zedillo) | N/A |
-| 30 | [#YoConfioEnLaCorte](http://twitter.com/search?q=%23YoConfioEnLaCorte) | N/A |
-| 31 | [#YodefiendoaINE](http://twitter.com/search?q=%23YodefiendoaINE) | N/A |
-| 32 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
-| 33 | [#YesungSoloLatam](http://twitter.com/search?q=%23YesungSoloLatam) | N/A |
-| 34 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
-| 35 | [#CloudDay](http://twitter.com/search?q=%23CloudDay) | N/A |
-| 36 | [#PinaEsLaNuevaGarciaLuna](http://twitter.com/search?q=%23PinaEsLaNuevaGarciaLuna) | N/A |
+| 1 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 2 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
+| 3 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 4 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 5 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 6 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 7 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 8 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 9 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 10 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 11 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 12 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 13 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 14 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 17 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
+| 18 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 19 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 20 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 21 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 22 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 23 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
+| 24 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 25 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 26 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
+| 27 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
+| 28 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 29 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 31 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 32 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 33 | [Cambios de Luna](http://twitter.com/search?q=Cambios+de+Luna) | N/A |
+| 34 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 35 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
+| 36 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 38 | [Juegos Olímpicos](http://twitter.com/search?q=Juegos+Ol%c3%admpicos) | N/A |
+| 39 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 40 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 41 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 42 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 45 | [Bertha Alcalde](http://twitter.com/search?q=Bertha+Alcalde) | N/A |
+| 46 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
+| 47 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 48 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
 
 
 

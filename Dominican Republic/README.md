@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-25 08:17:37 UTC`
+📆 Last Updated: `2023-03-25 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
+| 1 | [#rdcapitaldeiberoamérica](http://twitter.com/search?q=%23rdcapitaldeiberoam%c3%a9rica) | N/A |
 | 2 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
 | 3 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 4 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
 | 5 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 6 | [#queremospannocirco](http://twitter.com/search?q=%23queremospannocirco) | N/A |
-| 7 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
-| 10 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 6 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 7 | [#QueremosPannoCirco](http://twitter.com/search?q=%23QueremosPannoCirco) | N/A |
+| 8 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
+| 9 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 12 | [AILA](http://twitter.com/search?q=AILA) | N/A |
 | 13 | [dalisa](http://twitter.com/search?q=dalisa) | N/A |
 | 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for Dominican Republic
 | 16 | [Alomar](http://twitter.com/search?q=Alomar) | N/A |
 | 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 18 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 19 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 19 | [marino zapete](http://twitter.com/search?q=marino+zapete) | N/A |
 | 20 | [Consuelo](http://twitter.com/search?q=Consuelo) | N/A |
 | 21 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 22 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-25 08:17:37 UTC`
+📆 Last Updated: `2023-03-25 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guillermo Mendoza](http://twitter.com/search?q=Guillermo+Mendoza) | N/A |
+| 1 | [guillermo mendoza](http://twitter.com/search?q=guillermo+mendoza) | N/A |
 | 2 | [#latrixecdf](http://twitter.com/search?q=%23latrixecdf) | N/A |
 | 3 | [Teresa Nuques](http://twitter.com/search?q=Teresa+Nuques) | N/A |
 | 4 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
@@ -27,11 +27,11 @@ This is top 50 for Ecuador
 | 10 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 12 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
-| 13 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 14 | [Santa Rosa](http://twitter.com/search?q=Santa+Rosa) | N/A |
-| 15 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 13 | [Santa Rosa](http://twitter.com/search?q=Santa+Rosa) | N/A |
+| 14 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 15 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
 | 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [rómulo otero](http://twitter.com/search?q=r%c3%b3mulo+otero) | N/A |
+| 17 | [Rómulo Otero](http://twitter.com/search?q=R%c3%b3mulo+Otero) | N/A |
 | 18 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 19 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
 | 20 | [félix torres](http://twitter.com/search?q=f%c3%a9lix+torres) | N/A |
@@ -40,11 +40,11 @@ This is top 50 for Ecuador
 | 23 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 24 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 25 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 26 | [La Corte Constitucional](http://twitter.com/search?q=La+Corte+Constitucional) | N/A |
+| 26 | [la corte constitucional](http://twitter.com/search?q=la+corte+constitucional) | N/A |
 | 27 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 28 | [roditti](http://twitter.com/search?q=roditti) | N/A |
 | 29 | [Félix Sánchez](http://twitter.com/search?q=F%c3%a9lix+S%c3%a1nchez) | N/A |
-| 30 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 30 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
 | 31 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
 | 32 | [Venecos](http://twitter.com/search?q=Venecos) | N/A |
 | 33 | [Mabil](http://twitter.com/search?q=Mabil) | N/A |

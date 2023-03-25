@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-25 08:17:15 UTC`
+📆 Last Updated: `2023-03-25 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#Rover2ndWin](http://twitter.com/search?q=%23Rover2ndWin) | N/A |
 | 2 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 3 | [#KAI2ndWin](http://twitter.com/search?q=%23KAI2ndWin) | N/A |
-| 4 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 5 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 6 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
-| 7 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 8 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
-| 9 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
-| 10 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 11 | [BOBBY MUCORE COMEBACK](http://twitter.com/search?q=BOBBY+MUCORE+COMEBACK) | N/A |
-| 12 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
-| 13 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 14 | [KDays 200K ON SPOTIFY](http://twitter.com/search?q=KDays+200K+ON+SPOTIFY) | N/A |
-| 15 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 16 | [USTe](http://twitter.com/search?q=USTe) | N/A |
-| 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 18 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 19 | [FreenBecky Fan Benefit](http://twitter.com/search?q=FreenBecky+Fan+Benefit) | N/A |
-| 20 | [FRANCINE LovesNovoDental](http://twitter.com/search?q=FRANCINE+LovesNovoDental) | N/A |
-| 21 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
-| 22 | [Maji](http://twitter.com/search?q=Maji) | N/A |
-| 23 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 24 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 25 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 26 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 3 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 4 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
+| 5 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 6 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
+| 7 | [#KAI2ndWin](http://twitter.com/search?q=%23KAI2ndWin) | N/A |
+| 8 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 9 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
+| 10 | [PHILIPPINES LOVES JENNIE](http://twitter.com/search?q=PHILIPPINES+LOVES+JENNIE) | N/A |
+| 11 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 12 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
+| 13 | [BLUE HOUR](http://twitter.com/search?q=BLUE+HOUR) | N/A |
+| 14 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 15 | [BOBBY MUCORE COMEBACK](http://twitter.com/search?q=BOBBY+MUCORE+COMEBACK) | N/A |
+| 16 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 17 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
+| 18 | [KDays 200K ON SPOTIFY](http://twitter.com/search?q=KDays+200K+ON+SPOTIFY) | N/A |
+| 19 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 20 | [FreenBecky Fan Benefit](http://twitter.com/search?q=FreenBecky+Fan+Benefit) | N/A |
+| 21 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 22 | [FRANCINE LovesNovoDental](http://twitter.com/search?q=FRANCINE+LovesNovoDental) | N/A |
+| 23 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
+| 24 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 25 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 26 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
 | 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 28 | [VICEION 53rd MONTHSARY](http://twitter.com/search?q=VICEION+53rd+MONTHSARY) | N/A |
-| 29 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
-| 30 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 31 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 32 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 33 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 34 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
-| 35 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 36 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 37 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 38 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 39 | [Blinks](http://twitter.com/search?q=Blinks) | N/A |
-| 40 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 41 | [#ฟรีนเบคFanBoomD1](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD1) | N/A |
-| 42 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
-| 43 | [#BringHORI7ONtoVisayas](http://twitter.com/search?q=%23BringHORI7ONtoVisayas) | N/A |
-| 44 | [#HORI7ONinVisayas](http://twitter.com/search?q=%23HORI7ONinVisayas) | N/A |
-| 45 | [#BOBBY_MusicCore](http://twitter.com/search?q=%23BOBBY_MusicCore) | N/A |
-| 46 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
-| 47 | [#ProjectSINAGTALA](http://twitter.com/search?q=%23ProjectSINAGTALA) | N/A |
-| 48 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
-| 49 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
-| 50 | [#ShenYuexWeiboNight](http://twitter.com/search?q=%23ShenYuexWeiboNight) | N/A |
+| 29 | [USTe](http://twitter.com/search?q=USTe) | N/A |
+| 30 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 31 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
+| 32 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
+| 33 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 34 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 36 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 37 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 38 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
+| 39 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
+| 40 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 41 | [#BringHORI7ONtoVisayas](http://twitter.com/search?q=%23BringHORI7ONtoVisayas) | N/A |
+| 42 | [#HORI7ONinVisayas](http://twitter.com/search?q=%23HORI7ONinVisayas) | N/A |
+| 43 | [#ฟรีนเบคFanBoomD1](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD1) | N/A |
+| 44 | [#ACT_SWEET_MIRAGE](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE) | N/A |
+| 45 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
+| 46 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 47 | [#BOBBY_MusicCore](http://twitter.com/search?q=%23BOBBY_MusicCore) | N/A |
+| 48 | [#UnflinchingDLSU](http://twitter.com/search?q=%23UnflinchingDLSU) | N/A |
+| 49 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
+| 50 | [#ProjectSINAGTALA](http://twitter.com/search?q=%23ProjectSINAGTALA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-25 08:17:26 UTC`
+📆 Last Updated: `2023-03-25 09:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,35 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
 | 2 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 3 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
-| 4 | [#25Mart2009](http://twitter.com/search?q=%2325Mart2009) | N/A |
-| 5 | [G İ D İ Y O R L A R](http://twitter.com/search?q=G+%c4%b0+D+%c4%b0+Y+O+R+L+A+R) | N/A |
-| 6 | [ailelerperişangsb](http://twitter.com/search?q=ailelerperi%c5%9fangsb) | N/A |
-| 7 | [efe subaşı](http://twitter.com/search?q=efe+suba%c5%9f%c4%b1) | N/A |
-| 8 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 9 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 10 | [boluyayolculuk var](http://twitter.com/search?q=boluyayolculuk+var) | N/A |
-| 11 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 12 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 13 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 14 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 15 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 16 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
-| 17 | [YusufKerim AnnesiniBekliyor](http://twitter.com/search?q=YusufKerim+AnnesiniBekliyor) | N/A |
-| 18 | [şartsıztayin şart](http://twitter.com/search?q=%c5%9farts%c4%b1ztayin+%c5%9fart) | N/A |
-| 19 | [Müjdeli Haber](http://twitter.com/search?q=M%c3%bcjdeli+Haber) | N/A |
-| 20 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 21 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 22 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 23 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
-| 24 | [hayat şirine gülsün](http://twitter.com/search?q=hayat+%c5%9firine+g%c3%bcls%c3%bcn) | N/A |
-| 25 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
-| 26 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
-| 27 | [Jahrein Şahan](http://twitter.com/search?q=Jahrein+%c5%9eahan) | N/A |
-| 28 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
-| 29 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 30 | [Erdoğan Hatay](http://twitter.com/search?q=Erdo%c4%9fan+Hatay) | N/A |
-| 31 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
-| 32 | [Yavuz](http://twitter.com/search?q=Yavuz) | N/A |
-| 33 | [$selcuk](http://twitter.com/search?q=%24selcuk) | N/A |
-| 34 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 35 | [AfYoksa BizdeYokuz](http://twitter.com/search?q=AfYoksa+BizdeYokuz) | N/A |
-| 36 | [boya bizim işimiz](http://twitter.com/search?q=boya+bizim+i%c5%9fimiz) | N/A |
-| 37 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 38 | [Koca Reis](http://twitter.com/search?q=Koca+Reis) | N/A |
-| 39 | [Oyuncak](http://twitter.com/search?q=Oyuncak) | N/A |
-| 40 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 41 | [Babasının](http://twitter.com/search?q=Babas%c4%b1n%c4%b1n) | N/A |
-| 42 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 43 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 44 | [Kazanmanın](http://twitter.com/search?q=Kazanman%c4%b1n) | N/A |
-| 45 | [MilyonlarcaOy GenelAffa](http://twitter.com/search?q=MilyonlarcaOy+GenelAffa) | N/A |
-| 46 | [Özerklik](http://twitter.com/search?q=%c3%96zerklik) | N/A |
-| 47 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
-| 48 | [Kahramanmaraş'ın Ekinözü](http://twitter.com/search?q=Kahramanmara%c5%9f%27%c4%b1n+Ekin%c3%b6z%c3%bc) | N/A |
-| 49 | [KEMALE OY YOK](http://twitter.com/search?q=KEMALE+OY+YOK) | N/A |
+| 3 | [#SgkEYTyiBekletme](http://twitter.com/search?q=%23SgkEYTyiBekletme) | N/A |
+| 4 | [G İ D İ Y O R L A R](http://twitter.com/search?q=G+%c4%b0+D+%c4%b0+Y+O+R+L+A+R) | N/A |
+| 5 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
+| 6 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
+| 7 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 8 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
+| 9 | [Oyuncak](http://twitter.com/search?q=Oyuncak) | N/A |
+| 10 | [Mekanı Cennet](http://twitter.com/search?q=Mekan%c4%b1+Cennet) | N/A |
+| 11 | [Müjdeli Haber](http://twitter.com/search?q=M%c3%bcjdeli+Haber) | N/A |
+| 12 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 13 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
+| 14 | [Koca Reis](http://twitter.com/search?q=Koca+Reis) | N/A |
+| 15 | [Marmara](http://twitter.com/search?q=Marmara) | N/A |
+| 16 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
+| 17 | [Çelebi](http://twitter.com/search?q=%c3%87elebi) | N/A |
+| 18 | [#DiplomaNerede](http://twitter.com/search?q=%23DiplomaNerede) | N/A |
+| 19 | [#25Mart2009](http://twitter.com/search?q=%2325Mart2009) | N/A |
+| 20 | [#StajyerKararlı](http://twitter.com/search?q=%23StajyerKararl%c4%b1) | N/A |
+| 21 | [#6284edokunamazsınız](http://twitter.com/search?q=%236284edokunamazs%c4%b1n%c4%b1z) | N/A |
+| 22 | [#KISMİve5000eHakkınıVerin](http://twitter.com/search?q=%23KISM%c4%b0ve5000eHakk%c4%b1n%c4%b1Verin) | N/A |
+| 23 | [#YokSayılamaz](http://twitter.com/search?q=%23YokSay%c4%b1lamaz) | N/A |
+| 24 | [#benimisteğim](http://twitter.com/search?q=%23benimiste%c4%9fim) | N/A |
+| 25 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 26 | [#Yeşilİyileşme](http://twitter.com/search?q=%23Ye%c5%9fil%c4%b0yile%c5%9fme) | N/A |
+| 27 | [#DünyaSaati](http://twitter.com/search?q=%23D%c3%bcnyaSaati) | N/A |
+| 28 | [#TekAdamaBayBay](http://twitter.com/search?q=%23TekAdamaBayBay) | N/A |
+| 29 | [#RTEya2000Sonrası](http://twitter.com/search?q=%23RTEya2000Sonras%c4%b1) | N/A |
+| 30 | [#SinanOğanaİmzaVer](http://twitter.com/search?q=%23SinanO%c4%9fana%c4%b0mzaVer) | N/A |
+| 31 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
 
 
 

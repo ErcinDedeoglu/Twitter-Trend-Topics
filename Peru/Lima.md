@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-25 08:16:57 UTC`
+📆 Last Updated: `2023-03-25 09:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,30 +15,30 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 3 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 4 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 5 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 6 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 7 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 8 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
-| 9 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
-| 10 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 1 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 2 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
+| 3 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 5 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 6 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 8 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 9 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 10 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
 | 11 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
 | 12 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
 | 13 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 14 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
 | 15 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 16 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 17 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 18 | [los niños](http://twitter.com/search?q=los+ni%c3%b1os) | N/A |
+| 16 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 17 | [los niños](http://twitter.com/search?q=los+ni%c3%b1os) | N/A |
+| 18 | [Emanuel Herrera](http://twitter.com/search?q=Emanuel+Herrera) | N/A |
 | 19 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
 | 20 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 21 | [Sergio Tarache Parra](http://twitter.com/search?q=Sergio+Tarache+Parra) | N/A |
-| 22 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
-| 23 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
-| 24 | [Nancy Tolentino](http://twitter.com/search?q=Nancy+Tolentino) | N/A |
+| 21 | [sergio tarache parra](http://twitter.com/search?q=sergio+tarache+parra) | N/A |
+| 22 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
+| 23 | [Nancy Tolentino](http://twitter.com/search?q=Nancy+Tolentino) | N/A |
+| 24 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
 | 25 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
 | 26 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 27 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
@@ -49,13 +49,13 @@ This is top 50 for [Peru](</Peru>)
 | 32 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
 | 33 | [APRA](http://twitter.com/search?q=APRA) | N/A |
 | 34 | [Democracia Directa](http://twitter.com/search?q=Democracia+Directa) | N/A |
-| 35 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 36 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 37 | [don gil](http://twitter.com/search?q=don+gil) | N/A |
-| 38 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 39 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 40 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 41 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 35 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 36 | [don gil](http://twitter.com/search?q=don+gil) | N/A |
+| 37 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
+| 38 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 39 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 40 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 41 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
 | 42 | [Side by Side Tour](http://twitter.com/search?q=Side+by+Side+Tour) | N/A |
 | 43 | [Ancajima](http://twitter.com/search?q=Ancajima) | N/A |
 | 44 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
