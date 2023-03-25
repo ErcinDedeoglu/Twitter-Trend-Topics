@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-25 10:17:44 UTC`
+📆 Last Updated: `2023-03-25 11:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for Ecuador
 | 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 12 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
 | 13 | [Santa Rosa](http://twitter.com/search?q=Santa+Rosa) | N/A |
-| 14 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 15 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 14 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 15 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
 | 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 17 | [Rómulo Otero](http://twitter.com/search?q=R%c3%b3mulo+Otero) | N/A |
 | 18 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
@@ -60,7 +60,7 @@ This is top 50 for Ecuador
 | 43 | [marcela maldonado](http://twitter.com/search?q=marcela+maldonado) | N/A |
 | 44 | [rosa awananch](http://twitter.com/search?q=rosa+awananch) | N/A |
 | 45 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 46 | [Santita](http://twitter.com/search?q=Santita) | N/A |
+| 46 | [santita](http://twitter.com/search?q=santita) | N/A |
 | 47 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
 | 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |

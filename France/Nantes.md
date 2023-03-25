@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-25 10:17:08 UTC`
+📆 Last Updated: `2023-03-25 11:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [France](</France>)
 | 7 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
 | 8 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
 | 9 | [#FRAPBS](http://twitter.com/search?q=%23FRAPBS) | N/A |
-| 10 | [#ZECourse](http://twitter.com/search?q=%23ZECourse) | N/A |
+| 10 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
 | 11 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
 | 12 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
 | 13 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 14 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 15 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 16 | [Randal](http://twitter.com/search?q=Randal) | N/A |
+| 15 | [Randal](http://twitter.com/search?q=Randal) | N/A |
+| 16 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
 | 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 18 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
-| 19 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 21 | [L'équipe de France](http://twitter.com/search?q=L%27%c3%a9quipe+de+France) | N/A |
-| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 20 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
+| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [Pierre Hermé](http://twitter.com/search?q=Pierre+Herm%c3%a9) | N/A |
+| 23 | [L'équipe de France](http://twitter.com/search?q=L%27%c3%a9quipe+de+France) | N/A |
 | 24 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 25 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 26 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 27 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 28 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 29 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
-| 30 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 31 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 32 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 33 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 34 | [allez les bleus](http://twitter.com/search?q=allez+les+bleus) | N/A |
-| 35 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 36 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 37 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 26 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 27 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
+| 28 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 29 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 30 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 31 | [allez les bleus](http://twitter.com/search?q=allez+les+bleus) | N/A |
+| 32 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 33 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 34 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 35 | [konaté](http://twitter.com/search?q=konat%c3%a9) | N/A |
+| 36 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 37 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 38 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 39 | [Konaté](http://twitter.com/search?q=Konat%c3%a9) | N/A |
-| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 41 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 42 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 43 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
-| 44 | [Hypocrisie](http://twitter.com/search?q=Hypocrisie) | N/A |
-| 45 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 46 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
+| 39 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
+| 40 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 41 | [Hypocrisie](http://twitter.com/search?q=Hypocrisie) | N/A |
+| 42 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
+| 43 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 44 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 45 | [nerroh](http://twitter.com/search?q=nerroh) | N/A |
+| 46 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
 | 47 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 48 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 48 | [Manigold](http://twitter.com/search?q=Manigold) | N/A |
 | 49 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 50 | [nerroh](http://twitter.com/search?q=nerroh) | N/A |
+| 50 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
 
 
 

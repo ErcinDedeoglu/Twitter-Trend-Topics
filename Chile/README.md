@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-25 10:17:44 UTC`
+📆 Last Updated: `2023-03-25 11:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Chile
 | 8 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 9 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
 | 10 | [#alarucaconcoolbet](http://twitter.com/search?q=%23alarucaconcoolbet) | N/A |
-| 11 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
-| 12 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 13 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 14 | [copa chile](http://twitter.com/search?q=copa+chile) | N/A |
-| 15 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
-| 16 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 17 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 18 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 19 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 22 | [Vade](http://twitter.com/search?q=Vade) | N/A |
-| 23 | [conacem](http://twitter.com/search?q=conacem) | N/A |
-| 24 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 25 | [paula pavic](http://twitter.com/search?q=paula+pavic) | N/A |
-| 26 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 27 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 28 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
-| 29 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 30 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 31 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 32 | [shakira tower](http://twitter.com/search?q=shakira+tower) | N/A |
-| 33 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 11 | [#KingsLeaguePlayOff](http://twitter.com/search?q=%23KingsLeaguePlayOff) | N/A |
+| 12 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 13 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 14 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 15 | [marcianeke](http://twitter.com/search?q=marcianeke) | N/A |
+| 16 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 17 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 18 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
+| 19 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 20 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 21 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
+| 22 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 23 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 24 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
+| 25 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 26 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 27 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
+| 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 29 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 30 | [shakira tower](http://twitter.com/search?q=shakira+tower) | N/A |
+| 31 | [Paula Pavic](http://twitter.com/search?q=Paula+Pavic) | N/A |
+| 32 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 33 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
 | 34 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
-| 35 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
-| 36 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
-| 37 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
+| 35 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
+| 36 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
+| 37 | [julio césar](http://twitter.com/search?q=julio+c%c3%a9sar) | N/A |
 | 38 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
 | 39 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
 | 40 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
-| 41 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 42 | [psiquiatra](http://twitter.com/search?q=psiquiatra) | N/A |
-| 43 | [generación dorada](http://twitter.com/search?q=generaci%c3%b3n+dorada) | N/A |
-| 44 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 41 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
+| 42 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 43 | [Marcelo Ríos](http://twitter.com/search?q=Marcelo+R%c3%ados) | N/A |
+| 44 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
 | 45 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
 | 46 | [santiago city](http://twitter.com/search?q=santiago+city) | N/A |
 | 47 | [Michelle Adam](http://twitter.com/search?q=Michelle+Adam) | N/A |
 | 48 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 49 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
-| 50 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
+| 49 | [ferrada](http://twitter.com/search?q=ferrada) | N/A |
+| 50 | [Colegio Médico](http://twitter.com/search?q=Colegio+M%c3%a9dico) | N/A |
 
 
 

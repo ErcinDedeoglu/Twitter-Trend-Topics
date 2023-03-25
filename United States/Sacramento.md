@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-25 10:17:40 UTC`
+📆 Last Updated: `2023-03-25 11:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
 | 2 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
 | 3 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 5 | [#Lakers](http://twitter.com/search?q=%23Lakers) | N/A |
-| 6 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 7 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 8 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 9 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 11 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 12 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 15 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
+| 4 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 5 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 6 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 7 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
+| 8 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 10 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 11 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 12 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 13 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 14 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 15 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
 | 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 17 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 17 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
 | 18 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 20 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 19 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 21 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 22 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 22 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 23 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 25 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 26 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 27 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 28 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 30 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 31 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 32 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 33 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 34 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 35 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 37 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 38 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 39 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 40 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 41 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 43 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 44 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 24 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
+| 25 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 26 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 27 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 28 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 29 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 32 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 33 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 34 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 35 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 36 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 37 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 38 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 40 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 41 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 42 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 43 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 44 | [Ears](http://twitter.com/search?q=Ears) | N/A |
 | 45 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 46 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 47 | [Harri](http://twitter.com/search?q=Harri) | N/A |
-| 48 | [Druski](http://twitter.com/search?q=Druski) | N/A |
-| 49 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
-| 50 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 46 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 47 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 48 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 49 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 50 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
 
 
 
