@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-03-25 06:18:04 UTC`
+📆 Last Updated: `2023-03-25 07:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 2 | [#IndonesiaDiBanFIFA](http://twitter.com/search?q=%23IndonesiaDiBanFIFA) | N/A |
-| 3 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 4 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 1 | [#IndonesiaDiBanFIFA](http://twitter.com/search?q=%23IndonesiaDiBanFIFA) | N/A |
+| 2 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
+| 3 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 4 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
 | 5 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
 | 6 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
 | 7 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 8 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 9 | [Puck](http://twitter.com/search?q=Puck) | N/A |
-| 10 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 11 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
-| 12 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 13 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 14 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
-| 15 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 16 | [INI BENERAN](http://twitter.com/search?q=INI+BENERAN) | N/A |
-| 17 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
-| 18 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 8 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 9 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 10 | [Puck](http://twitter.com/search?q=Puck) | N/A |
+| 11 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 13 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 14 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 15 | [INI BENERAN](http://twitter.com/search?q=INI+BENERAN) | N/A |
+| 16 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 17 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 18 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 19 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
-| 20 | [Anis](http://twitter.com/search?q=Anis) | N/A |
-| 21 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 22 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 23 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
-| 24 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 25 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
-| 26 | [#RamahCariBerkah](http://twitter.com/search?q=%23RamahCariBerkah) | N/A |
-| 27 | [#RamadhanBersamaIndiHome](http://twitter.com/search?q=%23RamadhanBersamaIndiHome) | N/A |
-| 28 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 29 | [#GeminiFourthFMinPP](http://twitter.com/search?q=%23GeminiFourthFMinPP) | N/A |
-| 30 | [#お誕生日おめでとう_髙田真史帆](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86_%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
-| 31 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
-| 32 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
-| 33 | [#ACT_SWEET_MIRAGE](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE) | N/A |
-| 34 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 35 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 36 | [#행운이_가득할_시호의_스물세번째생일](http://twitter.com/search?q=%23%ed%96%89%ec%9a%b4%ec%9d%b4_%ea%b0%80%eb%93%9d%ed%95%a0_%ec%8b%9c%ed%98%b8%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88%ec%a7%b8%ec%83%9d%ec%9d%bc) | N/A |
-| 37 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 38 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 20 | [Geto](http://twitter.com/search?q=Geto) | N/A |
+| 21 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 22 | [Udin](http://twitter.com/search?q=Udin) | N/A |
+| 23 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 24 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 25 | [Batal](http://twitter.com/search?q=Batal) | N/A |
+| 26 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 27 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 28 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 29 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 30 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 31 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 32 | [#ACT_SWEET_MIRAGE](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE) | N/A |
+| 33 | [#GeminiFourthFMinPP](http://twitter.com/search?q=%23GeminiFourthFMinPP) | N/A |
+| 34 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
+| 35 | [#RamahCariBerkah](http://twitter.com/search?q=%23RamahCariBerkah) | N/A |
+| 36 | [#RamadhanBersamaIndiHome](http://twitter.com/search?q=%23RamadhanBersamaIndiHome) | N/A |
+| 37 | [#TXT_ASM_TOUR](http://twitter.com/search?q=%23TXT_ASM_TOUR) | N/A |
+| 38 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 39 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
+| 40 | [#お誕生日おめでとう_髙田真史帆](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86_%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 41 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 42 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
 
 
 

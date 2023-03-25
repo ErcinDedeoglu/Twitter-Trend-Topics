@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-25 06:17:53 UTC`
+📆 Last Updated: `2023-03-25 07:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,21 +25,21 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Irapa](http://twitter.com/search?q=Irapa) | N/A |
 | 9 | [#nicorrupciónniprivatización](http://twitter.com/search?q=%23nicorrupci%c3%b3nniprivatizaci%c3%b3n) | N/A |
 | 10 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
-| 11 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 12 | [césar hernández](http://twitter.com/search?q=c%c3%a9sar+hern%c3%a1ndez) | N/A |
+| 11 | [césar hernández](http://twitter.com/search?q=c%c3%a9sar+hern%c3%a1ndez) | N/A |
+| 12 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 13 | [Batista](http://twitter.com/search?q=Batista) | N/A |
 | 14 | [#televenesvinotinto](http://twitter.com/search?q=%23televenesvinotinto) | N/A |
 | 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 16 | [Henry Altuve](http://twitter.com/search?q=Henry+Altuve) | N/A |
-| 17 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
-| 18 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 19 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 20 | [Delio Amado León](http://twitter.com/search?q=Delio+Amado+Le%c3%b3n) | N/A |
+| 17 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
+| 18 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 19 | [Delio Amado León](http://twitter.com/search?q=Delio+Amado+Le%c3%b3n) | N/A |
+| 20 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
 | 21 | [El Vito](http://twitter.com/search?q=El+Vito) | N/A |
-| 22 | [José Gregorio Monagas](http://twitter.com/search?q=Jos%c3%a9+Gregorio+Monagas) | N/A |
+| 22 | [josé gregorio monagas](http://twitter.com/search?q=jos%c3%a9+gregorio+monagas) | N/A |
 | 23 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
-| 24 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 25 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 24 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 25 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
 | 26 | [anderson espinoza](http://twitter.com/search?q=anderson+espinoza) | N/A |
 | 27 | [Día Mundial de la Tuberculosis](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Tuberculosis) | N/A |
 | 28 | [Guanabana](http://twitter.com/search?q=Guanabana) | N/A |
@@ -50,20 +50,20 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 33 | [Cardenales](http://twitter.com/search?q=Cardenales) | N/A |
 | 34 | [Sucre](http://twitter.com/search?q=Sucre) | N/A |
 | 35 | [Baroja](http://twitter.com/search?q=Baroja) | N/A |
-| 36 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
-| 37 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 39 | [Armando Benedetti](http://twitter.com/search?q=Armando+Benedetti) | N/A |
+| 36 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 38 | [Armando Benedetti](http://twitter.com/search?q=Armando+Benedetti) | N/A |
+| 39 | [Carolina Herrera](http://twitter.com/search?q=Carolina+Herrera) | N/A |
 | 40 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 41 | [josé antonio abreu](http://twitter.com/search?q=jos%c3%a9+antonio+abreu) | N/A |
 | 42 | [Víctor José López](http://twitter.com/search?q=V%c3%adctor+Jos%c3%a9+L%c3%b3pez) | N/A |
 | 43 | [Koki](http://twitter.com/search?q=Koki) | N/A |
 | 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 45 | [Maduro y Petro](http://twitter.com/search?q=Maduro+y+Petro) | N/A |
-| 46 | [Tejerias](http://twitter.com/search?q=Tejerias) | N/A |
-| 47 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 48 | [Venezuela y Colombia](http://twitter.com/search?q=Venezuela+y+Colombia) | N/A |
-| 49 | [Pedro León Zapata](http://twitter.com/search?q=Pedro+Le%c3%b3n+Zapata) | N/A |
+| 46 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 47 | [Pedro León Zapata](http://twitter.com/search?q=Pedro+Le%c3%b3n+Zapata) | N/A |
+| 48 | [Senamecf](http://twitter.com/search?q=Senamecf) | N/A |
+| 49 | [pedro cunill grau](http://twitter.com/search?q=pedro+cunill+grau) | N/A |
 
 
 

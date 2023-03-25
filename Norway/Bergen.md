@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-25 06:18:02 UTC`
+📆 Last Updated: `2023-03-25 07:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Norway](</Norway>)
 | 9 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 14 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 15 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
-| 16 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Statkraft](http://twitter.com/search?q=Statkraft) | N/A |
-| 19 | [nytt](http://twitter.com/search?q=nytt) | N/A |
-| 20 | [norske](http://twitter.com/search?q=norske) | N/A |
-| 21 | [definitivt](http://twitter.com/search?q=definitivt) | N/A |
-| 22 | [#borzoiinu](http://twitter.com/search?q=%23borzoiinu) | N/A |
-| 23 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
-| 24 | [Comet](http://twitter.com/search?q=Comet) | N/A |
-| 25 | [Kaski](http://twitter.com/search?q=Kaski) | N/A |
-| 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 27 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 15 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 16 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
+| 17 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 19 | [Statkraft](http://twitter.com/search?q=Statkraft) | N/A |
+| 20 | [nytt](http://twitter.com/search?q=nytt) | N/A |
+| 21 | [norske](http://twitter.com/search?q=norske) | N/A |
+| 22 | [definitivt](http://twitter.com/search?q=definitivt) | N/A |
+| 23 | [#borzoiinu](http://twitter.com/search?q=%23borzoiinu) | N/A |
+| 24 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
+| 25 | [Comet](http://twitter.com/search?q=Comet) | N/A |
+| 26 | [Kaski](http://twitter.com/search?q=Kaski) | N/A |
+| 27 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 28 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 29 | [høyres](http://twitter.com/search?q=h%c3%b8yres) | N/A |
-| 30 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
-| 31 | [BOOTH](http://twitter.com/search?q=BOOTH) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
-| 34 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 35 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
-| 36 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 37 | [Mihawk](http://twitter.com/search?q=Mihawk) | N/A |
-| 38 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
-| 39 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 40 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 29 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
+| 30 | [BOOTH](http://twitter.com/search?q=BOOTH) | N/A |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
+| 33 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 34 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
+| 35 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 36 | [Mihawk](http://twitter.com/search?q=Mihawk) | N/A |
+| 37 | [#IStandWithAmberHeard](http://twitter.com/search?q=%23IStandWithAmberHeard) | N/A |
+| 38 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 39 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
+| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 41 | [Høyres](http://twitter.com/search?q=H%c3%b8yres) | N/A |
 | 42 | [bedre](http://twitter.com/search?q=bedre) | N/A |
 | 43 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 45 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
 | 46 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 47 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 48 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 48 | [Vestre](http://twitter.com/search?q=Vestre) | N/A |
 
 
 

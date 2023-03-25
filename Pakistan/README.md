@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-25 06:18:35 UTC`
+📆 Last Updated: `2023-03-25 07:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Pakistan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
-| 2 | [#چلو_چلو_مینار_پاکستان_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d9%85%db%8c%d9%86%d8%a7%d8%b1_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%86%d9%84%d9%88) | N/A |
-| 3 | [#بیگم_زدہ_جج](http://twitter.com/search?q=%23%d8%a8%db%8c%da%af%d9%85_%d8%b2%d8%af%db%81_%d8%ac%d8%ac) | N/A |
+| 2 | [#بیگم_زدہ_جج](http://twitter.com/search?q=%23%d8%a8%db%8c%da%af%d9%85_%d8%b2%d8%af%db%81_%d8%ac%d8%ac) | N/A |
+| 3 | [#چلو_چلو_مینار_پاکستان_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d9%85%db%8c%d9%86%d8%a7%d8%b1_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%86%d9%84%d9%88) | N/A |
 | 4 | [#ReleaseAzharMashwani](http://twitter.com/search?q=%23ReleaseAzharMashwani) | N/A |
 | 5 | [#حقیقی_آزادی_جلسہ](http://twitter.com/search?q=%23%d8%ad%d9%82%db%8c%d9%82%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%ac%d9%84%d8%b3%db%81) | N/A |
 | 6 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for Pakistan
 | 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 9 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
 | 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 11 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 12 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 11 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 12 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 14 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
 | 15 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 16 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 17 | [SAIM AYUB](http://twitter.com/search?q=SAIM+AYUB) | N/A |
+| 16 | [SAIM AYUB](http://twitter.com/search?q=SAIM+AYUB) | N/A |
+| 17 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 | 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 19 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
-| 20 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
-| 21 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 22 | [tayyab](http://twitter.com/search?q=tayyab) | N/A |
-| 23 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 24 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 25 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 26 | [ABDULLAH SHAFIQUE](http://twitter.com/search?q=ABDULLAH+SHAFIQUE) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
-| 29 | [The ECP](http://twitter.com/search?q=The+ECP) | N/A |
-| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 31 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 32 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 20 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 21 | [Tayyab](http://twitter.com/search?q=Tayyab) | N/A |
+| 22 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 23 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 24 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 25 | [ABDULLAH SHAFIQUE](http://twitter.com/search?q=ABDULLAH+SHAFIQUE) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Chief Justice Umar Ata Bandial](http://twitter.com/search?q=Chief+Justice+Umar+Ata+Bandial) | N/A |
+| 28 | [The ECP](http://twitter.com/search?q=The+ECP) | N/A |
+| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 30 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 31 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 32 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
 | 33 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 34 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 34 | [Talat](http://twitter.com/search?q=Talat) | N/A |
 | 35 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 36 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 36 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
 | 37 | [Delete](http://twitter.com/search?q=Delete) | Delete is an action that removes something from a computer or other electronic device. It is used to remove files, folders, programs, and other data from a computer's hard drive or other storage device. When something is deleted, it cannot be recovered unless it has been backed up beforehand. |
-| 38 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
-| 41 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 42 | [President Alvi](http://twitter.com/search?q=President+Alvi) | N/A |
-| 43 | [London](http://twitter.com/search?q=London) | N/A |
-| 44 | [Stake](http://twitter.com/search?q=Stake) | N/A |
-| 45 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 46 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 47 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 48 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 49 | [Valid](http://twitter.com/search?q=Valid) | N/A |
-| 50 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 38 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 43 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 44 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 45 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
+| 46 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 48 | [Stake](http://twitter.com/search?q=Stake) | N/A |
+| 49 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 50 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 
