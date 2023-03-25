@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-25 11:17:22 UTC`
+📆 Last Updated: `2023-03-25 12:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TCMSEstreno](http://twitter.com/search?q=%23TCMSEstreno) | N/A |
-| 2 | [#AgropopularLaGarcipollera](http://twitter.com/search?q=%23AgropopularLaGarcipollera) | N/A |
-| 3 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [#KingsLeaguePlayoff](http://twitter.com/search?q=%23KingsLeaguePlayoff) | N/A |
-| 6 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 7 | [#SVGala4](http://twitter.com/search?q=%23SVGala4) | N/A |
-| 8 | [Somport](http://twitter.com/search?q=Somport) | N/A |
-| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 10 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
-| 13 | [TDAH](http://twitter.com/search?q=TDAH) | N/A |
-| 14 | [Airef](http://twitter.com/search?q=Airef) | N/A |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 17 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 18 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 19 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 20 | [Andrea Guasch](http://twitter.com/search?q=Andrea+Guasch) | N/A |
-| 21 | [Ramsés](http://twitter.com/search?q=Rams%c3%a9s) | N/A |
-| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 23 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 24 | [myke](http://twitter.com/search?q=myke) | N/A |
-| 25 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 26 | [Mañueco](http://twitter.com/search?q=Ma%c3%b1ueco) | N/A |
-| 27 | [Josie](http://twitter.com/search?q=Josie) | N/A |
-| 28 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 29 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 30 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 31 | [Lc 1](http://twitter.com/search?q=Lc+1) | N/A |
-| 32 | [adri contreras](http://twitter.com/search?q=adri+contreras) | N/A |
-| 33 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 34 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 35 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
-| 36 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
-| 37 | [Hoy 25](http://twitter.com/search?q=Hoy+25) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Pantomima](http://twitter.com/search?q=Pantomima) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 42 | [Escrivá](http://twitter.com/search?q=Escriv%c3%a1) | N/A |
-| 43 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
-| 44 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 45 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
-| 46 | [Encarnación](http://twitter.com/search?q=Encarnaci%c3%b3n) | N/A |
-| 47 | [Pol Espargaró](http://twitter.com/search?q=Pol+Espargar%c3%b3) | N/A |
-| 48 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 49 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 50 | [Kylie Jenner](http://twitter.com/search?q=Kylie+Jenner) | N/A |
+| 1 | [Marc Márquez](http://twitter.com/search?q=Marc+M%c3%a1rquez) | N/A |
+| 2 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 3 | [#N1CanalFiesta12](http://twitter.com/search?q=%23N1CanalFiesta12) | N/A |
+| 4 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 5 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 6 | [#25MLaSaludNoSeVende](http://twitter.com/search?q=%2325MLaSaludNoSeVende) | N/A |
+| 7 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 8 | [#PROmarketingDAY](http://twitter.com/search?q=%23PROmarketingDAY) | N/A |
+| 9 | [Culos](http://twitter.com/search?q=Culos) | N/A |
+| 10 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
+| 11 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 12 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 13 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 14 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 15 | [Lc 1](http://twitter.com/search?q=Lc+1) | N/A |
+| 16 | [Aznar](http://twitter.com/search?q=Aznar) | N/A |
+| 17 | [Encarnación](http://twitter.com/search?q=Encarnaci%c3%b3n) | N/A |
+| 18 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
+| 19 | [El 25](http://twitter.com/search?q=El+25) | N/A |
+| 20 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 21 | [Pantomima Full](http://twitter.com/search?q=Pantomima+Full) | N/A |
+| 22 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 23 | [Escrivá](http://twitter.com/search?q=Escriv%c3%a1) | N/A |
+| 24 | [Portimao](http://twitter.com/search?q=Portimao) | N/A |
+| 25 | [Aduriz](http://twitter.com/search?q=Aduriz) | N/A |
+| 26 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 27 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 28 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
+| 29 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 30 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 31 | [Alsina](http://twitter.com/search?q=Alsina) | N/A |
+| 32 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 33 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 34 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 35 | [#SanidadPublica](http://twitter.com/search?q=%23SanidadPublica) | N/A |
+| 36 | [#APOYOROCIO25M](http://twitter.com/search?q=%23APOYOROCIO25M) | N/A |
+| 37 | [#EASinOficina23](http://twitter.com/search?q=%23EASinOficina23) | N/A |
+| 38 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 39 | [#YoMeRebelo25M](http://twitter.com/search?q=%23YoMeRebelo25M) | N/A |
+| 40 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
+| 41 | [#25deMarzo](http://twitter.com/search?q=%2325deMarzo) | N/A |
+| 42 | [#Audiencias](http://twitter.com/search?q=%23Audiencias) | N/A |
+| 43 | [#innobi23](http://twitter.com/search?q=%23innobi23) | N/A |
+| 44 | [#CofradiasMLG](http://twitter.com/search?q=%23CofradiasMLG) | N/A |
 
 
 

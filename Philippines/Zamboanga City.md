@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-25 11:17:36 UTC`
+📆 Last Updated: `2023-03-25 12:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 2 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
-| 3 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 4 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 5 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 6 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
+| 2 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 3 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 4 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 5 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
+| 6 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
 | 7 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
-| 8 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 9 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 10 | [Jazareno](http://twitter.com/search?q=Jazareno) | N/A |
-| 11 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
-| 12 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 13 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 14 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 15 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
-| 16 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 17 | [Jardio](http://twitter.com/search?q=Jardio) | N/A |
-| 18 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 19 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 21 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 22 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 23 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 25 | [VXON C13 COMEBACK TEASER](http://twitter.com/search?q=VXON+C13+COMEBACK+TEASER) | N/A |
-| 26 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 27 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
-| 28 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
-| 29 | [coach rdj](http://twitter.com/search?q=coach+rdj) | N/A |
-| 30 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 31 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
-| 32 | [NO RULES](http://twitter.com/search?q=NO+RULES) | N/A |
-| 33 | [BLUE HOUR](http://twitter.com/search?q=BLUE+HOUR) | N/A |
-| 34 | [BOBBY MUCORE COMEBACK](http://twitter.com/search?q=BOBBY+MUCORE+COMEBACK) | N/A |
-| 35 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 36 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 37 | [XIAO ZHAN](http://twitter.com/search?q=XIAO+ZHAN) | N/A |
-| 38 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 39 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
-| 40 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 41 | [kdays 200k on spotify](http://twitter.com/search?q=kdays+200k+on+spotify) | N/A |
-| 42 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 43 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 44 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 45 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 46 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 47 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 48 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 49 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 8 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 9 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 10 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
+| 11 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 12 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 13 | [OUR SUMMER](http://twitter.com/search?q=OUR+SUMMER) | N/A |
+| 14 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 15 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
+| 16 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 17 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 18 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 19 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 21 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 22 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 23 | [BGYO TOMORROW AT AYALAFELIZ](http://twitter.com/search?q=BGYO+TOMORROW+AT+AYALAFELIZ) | N/A |
+| 24 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 25 | [Jardio](http://twitter.com/search?q=Jardio) | N/A |
+| 26 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 27 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
+| 28 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 29 | [Coach Karl](http://twitter.com/search?q=Coach+Karl) | N/A |
+| 30 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
+| 31 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
+| 32 | [VXON C13 COMEBACK TEASER](http://twitter.com/search?q=VXON+C13+COMEBACK+TEASER) | N/A |
+| 33 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 34 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 35 | [Coach RDJ](http://twitter.com/search?q=Coach+RDJ) | N/A |
+| 36 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 37 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
+| 38 | [MALIGAYANG PAGDATING TENLEE](http://twitter.com/search?q=MALIGAYANG+PAGDATING+TENLEE) | N/A |
+| 39 | [NO RULES](http://twitter.com/search?q=NO+RULES) | N/A |
+| 40 | [Jolens](http://twitter.com/search?q=Jolens) | N/A |
+| 41 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
+| 42 | [BLUE HOUR](http://twitter.com/search?q=BLUE+HOUR) | N/A |
+| 43 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 44 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
+| 45 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 46 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 47 | [xiao zhan](http://twitter.com/search?q=xiao+zhan) | N/A |
+| 48 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 49 | [BOBBY MUCORE COMEBACK](http://twitter.com/search?q=BOBBY+MUCORE+COMEBACK) | N/A |
 
 
 

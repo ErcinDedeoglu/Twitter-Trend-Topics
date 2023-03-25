@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-25 11:17:56 UTC`
+📆 Last Updated: `2023-03-25 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
 | 2 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 3 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 4 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 5 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 6 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 7 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 8 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 9 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 10 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 11 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 12 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 13 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 14 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 15 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 5 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 8 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 9 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
+| 10 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 11 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 13 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 14 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 15 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 16 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 17 | [#Wordle644](http://twitter.com/search?q=%23Wordle644) | N/A |
-| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 19 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
-| 20 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 21 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 22 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 23 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 24 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 25 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 26 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 27 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 28 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 29 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 30 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 31 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 32 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 33 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 34 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 35 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 36 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 37 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 38 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 39 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 40 | [rolling stone](http://twitter.com/search?q=rolling+stone) | N/A |
-| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 42 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 43 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 44 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 45 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 46 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 47 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 48 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 49 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 17 | [#MCRTOKYO](http://twitter.com/search?q=%23MCRTOKYO) | N/A |
+| 18 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 19 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 20 | [Waka](http://twitter.com/search?q=Waka) | N/A |
+| 21 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 22 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 23 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 24 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 25 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 26 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 27 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 28 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 29 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 30 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 31 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 32 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 33 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 34 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 35 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 36 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 37 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 38 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 39 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 40 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 41 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 42 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 43 | [Limited](http://twitter.com/search?q=Limited) | N/A |
+| 44 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 45 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 46 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 47 | [Orwellian](http://twitter.com/search?q=Orwellian) | N/A |
+| 48 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 49 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
 
 
 

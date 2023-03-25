@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-03-25 11:17:58 UTC`
+📆 Last Updated: `2023-03-25 12:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 1 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
 | 2 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 3 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 3 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
 | 4 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 5 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 6 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 5 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 6 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
 | 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 8 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 10 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 11 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 12 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 14 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 8 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 10 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 11 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 12 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 13 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 14 | [Waka](http://twitter.com/search?q=Waka) | N/A |
 | 15 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 16 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 17 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 18 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 20 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 21 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 23 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 24 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 25 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 26 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 29 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 30 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 31 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 32 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 33 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 34 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 35 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 36 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 37 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 38 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 39 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 40 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 41 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 42 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 43 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 44 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
-| 45 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 17 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 18 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 19 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 20 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 21 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 22 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 23 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 24 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 25 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 26 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 27 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 28 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 29 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 32 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 34 | [Ears](http://twitter.com/search?q=Ears) | N/A |
+| 35 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 36 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 37 | [Limited](http://twitter.com/search?q=Limited) | N/A |
+| 38 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 39 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 40 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
+| 41 | [Orwellian](http://twitter.com/search?q=Orwellian) | N/A |
+| 42 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 43 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 44 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 45 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
 | 46 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
-| 47 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 48 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 47 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 48 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-25 11:17:28 UTC`
+📆 Last Updated: `2023-03-25 12:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sydneytrains](http://twitter.com/search?q=%23sydneytrains) | N/A |
-| 2 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 3 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 1 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 2 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 3 | [#AFLFreoNorth](http://twitter.com/search?q=%23AFLFreoNorth) | N/A |
 | 4 | [#NSWVotes2023](http://twitter.com/search?q=%23NSWVotes2023) | N/A |
 | 5 | [#nswelection](http://twitter.com/search?q=%23nswelection) | N/A |
-| 6 | [#AFLFreoNorth](http://twitter.com/search?q=%23AFLFreoNorth) | N/A |
+| 6 | [Labor](http://twitter.com/search?q=Labor) | N/A |
 | 7 | [#AFLDogsSaints](http://twitter.com/search?q=%23AFLDogsSaints) | N/A |
-| 8 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 9 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
-| 10 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
-| 11 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
-| 12 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 13 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 14 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
-| 15 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
-| 16 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 17 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 18 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 19 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
-| 20 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 21 | [Penny Sharpe](http://twitter.com/search?q=Penny+Sharpe) | N/A |
-| 22 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
-| 23 | [Stuart Ayres](http://twitter.com/search?q=Stuart+Ayres) | N/A |
-| 24 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 25 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 26 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
-| 27 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
-| 28 | [Darcy](http://twitter.com/search?q=Darcy) | N/A |
-| 29 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
-| 30 | [Coalition](http://twitter.com/search?q=Coalition) | N/A |
-| 31 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 32 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 33 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 34 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 35 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 36 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 37 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
-| 38 | [South Coast](http://twitter.com/search?q=South+Coast) | N/A |
-| 39 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
-| 40 | [Epping](http://twitter.com/search?q=Epping) | N/A |
+| 8 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
+| 9 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
+| 10 | [#NRLSouthsManly](http://twitter.com/search?q=%23NRLSouthsManly) | N/A |
+| 11 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 12 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
+| 13 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 14 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 15 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 16 | [Dominic Perrottet](http://twitter.com/search?q=Dominic+Perrottet) | N/A |
+| 17 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
+| 18 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
+| 19 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
+| 20 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
+| 21 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 22 | [Roos](http://twitter.com/search?q=Roos) | N/A |
+| 23 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
+| 24 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 25 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 26 | [Penny Sharpe](http://twitter.com/search?q=Penny+Sharpe) | N/A |
+| 27 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 28 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 29 | [Darcy](http://twitter.com/search?q=Darcy) | N/A |
+| 30 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
+| 31 | [Stuart Ayres](http://twitter.com/search?q=Stuart+Ayres) | N/A |
+| 32 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 33 | [Fremantle](http://twitter.com/search?q=Fremantle) | N/A |
+| 34 | [Coalition](http://twitter.com/search?q=Coalition) | N/A |
+| 35 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 36 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 37 | [Bevan](http://twitter.com/search?q=Bevan) | N/A |
+| 38 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 39 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 40 | [Federal](http://twitter.com/search?q=Federal) | N/A |
 | 41 | [New South Wales](http://twitter.com/search?q=New+South+Wales) | N/A |
-| 42 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 43 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 42 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 43 | [John Sattler](http://twitter.com/search?q=John+Sattler) | N/A |
 | 44 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 45 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 46 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 47 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 48 | [Hopper](http://twitter.com/search?q=Hopper) | N/A |
-| 49 | [Western Sydney](http://twitter.com/search?q=Western+Sydney) | N/A |
-| 50 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 45 | [Epping](http://twitter.com/search?q=Epping) | N/A |
+| 46 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 47 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 48 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
+| 49 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
+| 50 | [Gina](http://twitter.com/search?q=Gina) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-25 11:18:05 UTC`
+📆 Last Updated: `2023-03-25 12:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Israel
 | 3 | [#פושעי_ההפיכה_לדין](http://twitter.com/search?q=%23%d7%a4%d7%95%d7%a9%d7%a2%d7%99_%d7%94%d7%94%d7%a4%d7%99%d7%9b%d7%94_%d7%9c%d7%93%d7%99%d7%9f) | N/A |
 | 4 | [הסכם ניגוד](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%a0%d7%99%d7%92%d7%95%d7%93) | N/A |
 | 5 | [הסדר ניגוד](http://twitter.com/search?q=%d7%94%d7%a1%d7%93%d7%a8+%d7%a0%d7%99%d7%92%d7%95%d7%93) | N/A |
-| 6 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
-| 7 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 8 | [מארק לוין](http://twitter.com/search?q=%d7%9e%d7%90%d7%a8%d7%a7+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 9 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
-| 10 | [עוד אישה](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%90%d7%99%d7%a9%d7%94) | N/A |
-| 11 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
-| 12 | [שטיח אדום](http://twitter.com/search?q=%d7%a9%d7%98%d7%99%d7%97+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 13 | [עמוס ידלין](http://twitter.com/search?q=%d7%a2%d7%9e%d7%95%d7%a1+%d7%99%d7%93%d7%9c%d7%99%d7%9f) | N/A |
-| 14 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 15 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
-| 16 | [ראש הממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 17 | [bnei brak](http://twitter.com/search?q=bnei+brak) | N/A |
-| 18 | [שעון קיץ](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%a7%d7%99%d7%a5) | N/A |
-| 19 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
-| 20 | [אייל ברקוביץ](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%91%d7%a8%d7%a7%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 6 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 7 | [מארק לוין](http://twitter.com/search?q=%d7%9e%d7%90%d7%a8%d7%a7+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 8 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
+| 9 | [עוד אישה](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%90%d7%99%d7%a9%d7%94) | N/A |
+| 10 | [עמוס ידלין](http://twitter.com/search?q=%d7%a2%d7%9e%d7%95%d7%a1+%d7%99%d7%93%d7%9c%d7%99%d7%9f) | N/A |
+| 11 | [אור עקיבא](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%a2%d7%a7%d7%99%d7%91%d7%90) | N/A |
+| 12 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
+| 13 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 14 | [אבי בל](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%91%d7%9c) | N/A |
+| 15 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 16 | [bnei brak](http://twitter.com/search?q=bnei+brak) | N/A |
+| 17 | [שעון קיץ](http://twitter.com/search?q=%d7%a9%d7%a2%d7%95%d7%9f+%d7%a7%d7%99%d7%a5) | N/A |
+| 18 | [אייל ברקוביץ](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%91%d7%a8%d7%a7%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 19 | [שטיח אדום](http://twitter.com/search?q=%d7%a9%d7%98%d7%99%d7%97+%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 20 | [גלי בהרב](http://twitter.com/search?q=%d7%92%d7%9c%d7%99+%d7%91%d7%94%d7%a8%d7%91) | N/A |
 | 21 | [נאום נתניהו](http://twitter.com/search?q=%d7%a0%d7%90%d7%95%d7%9d+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 22 | [אבי בל](http://twitter.com/search?q=%d7%90%d7%91%d7%99+%d7%91%d7%9c) | N/A |
-| 23 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
-| 24 | [הרב שך](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%a9%d7%9a) | N/A |
-| 25 | [שישי ערב](http://twitter.com/search?q=%d7%a9%d7%99%d7%a9%d7%99+%d7%a2%d7%a8%d7%91) | N/A |
-| 26 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 27 | [מנחם קליין](http://twitter.com/search?q=%d7%9e%d7%a0%d7%97%d7%9d+%d7%a7%d7%9c%d7%99%d7%99%d7%9f) | N/A |
-| 28 | [ש נעים](http://twitter.com/search?q=%d7%a9+%d7%a0%d7%a2%d7%99%d7%9d) | N/A |
-| 29 | [הפרת אמונים](http://twitter.com/search?q=%d7%94%d7%a4%d7%a8%d7%aa+%d7%90%d7%9e%d7%95%d7%a0%d7%99%d7%9d) | N/A |
-| 30 | [מ בריטניה](http://twitter.com/search?q=%d7%9e+%d7%91%d7%a8%d7%99%d7%98%d7%a0%d7%99%d7%94) | N/A |
-| 31 | [אנשים אחים](http://twitter.com/search?q=%d7%90%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%97%d7%99%d7%9d) | N/A |
-| 32 | [שבת של שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
-| 33 | [לו מדינה](http://twitter.com/search?q=%d7%9c%d7%95+%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 34 | [ישי גרין](http://twitter.com/search?q=%d7%99%d7%a9%d7%99+%d7%92%d7%a8%d7%99%d7%9f) | N/A |
-| 35 | [של תל אביב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
-| 36 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 37 | [עונג שבת](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%92+%d7%a9%d7%91%d7%aa) | N/A |
-| 38 | [של דיקטטורה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%99%d7%a7%d7%98%d7%98%d7%95%d7%a8%d7%94) | N/A |
-| 39 | [גלית גוטמן](http://twitter.com/search?q=%d7%92%d7%9c%d7%99%d7%aa+%d7%92%d7%95%d7%98%d7%9e%d7%9f) | N/A |
-| 40 | [נתניהו מוביל](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%9e%d7%95%d7%91%d7%99%d7%9c) | N/A |
-| 41 | [גלעד שרון](http://twitter.com/search?q=%d7%92%d7%9c%d7%a2%d7%93+%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
-| 42 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 43 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 44 | [של כת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9b%d7%aa) | N/A |
-| 45 | [של סער](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%a8) | N/A |
-| 46 | [בן גוריון](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%95%d7%a8%d7%99%d7%95%d7%9f) | N/A |
-| 47 | [שלו עם](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95+%d7%a2%d7%9d) | N/A |
-| 48 | [נלסון מנדלה](http://twitter.com/search?q=%d7%a0%d7%9c%d7%a1%d7%95%d7%9f+%d7%9e%d7%a0%d7%93%d7%9c%d7%94) | N/A |
-| 49 | [יואב גלנט](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
-| 50 | [ערב שבת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a9%d7%91%d7%aa) | N/A |
+| 22 | [בני ברק](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%91%d7%a8%d7%a7) | N/A |
+| 23 | [מ בריטניה](http://twitter.com/search?q=%d7%9e+%d7%91%d7%a8%d7%99%d7%98%d7%a0%d7%99%d7%94) | N/A |
+| 24 | [שישי ערב](http://twitter.com/search?q=%d7%a9%d7%99%d7%a9%d7%99+%d7%a2%d7%a8%d7%91) | N/A |
+| 25 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 26 | [מנחם קליין](http://twitter.com/search?q=%d7%9e%d7%a0%d7%97%d7%9d+%d7%a7%d7%9c%d7%99%d7%99%d7%9f) | N/A |
+| 27 | [הפרת אמונים](http://twitter.com/search?q=%d7%94%d7%a4%d7%a8%d7%aa+%d7%90%d7%9e%d7%95%d7%a0%d7%99%d7%9d) | N/A |
+| 28 | [בן גוריון](http://twitter.com/search?q=%d7%91%d7%9f+%d7%92%d7%95%d7%a8%d7%99%d7%95%d7%9f) | N/A |
+| 29 | [של כת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9b%d7%aa) | N/A |
+| 30 | [שבת של שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95%d7%9d) | N/A |
+| 31 | [לו מדינה](http://twitter.com/search?q=%d7%9c%d7%95+%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 32 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 33 | [ישי גרין](http://twitter.com/search?q=%d7%99%d7%a9%d7%99+%d7%92%d7%a8%d7%99%d7%9f) | N/A |
+| 34 | [של דיקטטורה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%93%d7%99%d7%a7%d7%98%d7%98%d7%95%d7%a8%d7%94) | N/A |
+| 35 | [אנשים אחים](http://twitter.com/search?q=%d7%90%d7%a0%d7%a9%d7%99%d7%9d+%d7%90%d7%97%d7%99%d7%9d) | N/A |
+| 36 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
+| 37 | [גלית גוטמן](http://twitter.com/search?q=%d7%92%d7%9c%d7%99%d7%aa+%d7%92%d7%95%d7%98%d7%9e%d7%9f) | N/A |
+| 38 | [נתניהו מוביל](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%9e%d7%95%d7%91%d7%99%d7%9c) | N/A |
+| 39 | [של ברקו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%a7%d7%95) | N/A |
+| 40 | [גלעד שרון](http://twitter.com/search?q=%d7%92%d7%9c%d7%a2%d7%93+%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
+| 41 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 42 | [מינוי של](http://twitter.com/search?q=%d7%9e%d7%99%d7%a0%d7%95%d7%99+%d7%a9%d7%9c) | N/A |
+| 43 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 44 | [נלסון מנדלה](http://twitter.com/search?q=%d7%a0%d7%9c%d7%a1%d7%95%d7%9f+%d7%9e%d7%a0%d7%93%d7%9c%d7%94) | N/A |
+| 45 | [יואב גלנט](http://twitter.com/search?q=%d7%99%d7%95%d7%90%d7%91+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 46 | [ערב שבת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a9%d7%91%d7%aa) | N/A |
+| 47 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
+| 48 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
+| 49 | [של סער](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%a2%d7%a8) | N/A |
+| 50 | [עד דמעות](http://twitter.com/search?q=%d7%a2%d7%93+%d7%93%d7%9e%d7%a2%d7%95%d7%aa) | N/A |
 
 
 

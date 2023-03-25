@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-25 11:17:34 UTC`
+📆 Last Updated: `2023-03-25 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AllOfThoseVoicesPH](http://twitter.com/search?q=%23AllOfThoseVoicesPH) | N/A |
-| 2 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 3 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
-| 4 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 5 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 6 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 7 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
-| 8 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
-| 9 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 10 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 11 | [Jazareno](http://twitter.com/search?q=Jazareno) | N/A |
-| 12 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
-| 13 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 14 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 15 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 16 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
-| 17 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 18 | [Jardio](http://twitter.com/search?q=Jardio) | N/A |
-| 19 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 20 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 22 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 23 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 24 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [VXON C13 COMEBACK TEASER](http://twitter.com/search?q=VXON+C13+COMEBACK+TEASER) | N/A |
-| 27 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 28 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
-| 29 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
-| 30 | [coach rdj](http://twitter.com/search?q=coach+rdj) | N/A |
-| 31 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
-| 32 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
-| 33 | [NO RULES](http://twitter.com/search?q=NO+RULES) | N/A |
-| 34 | [BLUE HOUR](http://twitter.com/search?q=BLUE+HOUR) | N/A |
-| 35 | [BOBBY MUCORE COMEBACK](http://twitter.com/search?q=BOBBY+MUCORE+COMEBACK) | N/A |
-| 36 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 37 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 38 | [XIAO ZHAN](http://twitter.com/search?q=XIAO+ZHAN) | N/A |
-| 39 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 40 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
-| 41 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 42 | [kdays 200k on spotify](http://twitter.com/search?q=kdays+200k+on+spotify) | N/A |
-| 43 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 44 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 45 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 46 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 47 | [ANG INIT](http://twitter.com/search?q=ANG+INIT) | N/A |
-| 48 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 49 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 50 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 2 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 3 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 4 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
+| 5 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
+| 6 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
+| 7 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
+| 8 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 9 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 10 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
+| 11 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 12 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 13 | [OUR SUMMER](http://twitter.com/search?q=OUR+SUMMER) | N/A |
+| 14 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 15 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
+| 16 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
+| 17 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 18 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 19 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 20 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 21 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 24 | [BGYO TOMORROW AT AYALAFELIZ](http://twitter.com/search?q=BGYO+TOMORROW+AT+AYALAFELIZ) | N/A |
+| 25 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 26 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 27 | [Jardio](http://twitter.com/search?q=Jardio) | N/A |
+| 28 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
+| 29 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 30 | [Coach Karl](http://twitter.com/search?q=Coach+Karl) | N/A |
+| 31 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
+| 32 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
+| 33 | [VXON C13 COMEBACK TEASER](http://twitter.com/search?q=VXON+C13+COMEBACK+TEASER) | N/A |
+| 34 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 35 | [Fifi](http://twitter.com/search?q=Fifi) | N/A |
+| 36 | [Coach RDJ](http://twitter.com/search?q=Coach+RDJ) | N/A |
+| 37 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 38 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
+| 39 | [MALIGAYANG PAGDATING TENLEE](http://twitter.com/search?q=MALIGAYANG+PAGDATING+TENLEE) | N/A |
+| 40 | [NO RULES](http://twitter.com/search?q=NO+RULES) | N/A |
+| 41 | [Jolens](http://twitter.com/search?q=Jolens) | N/A |
+| 42 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
+| 43 | [BLUE HOUR](http://twitter.com/search?q=BLUE+HOUR) | N/A |
+| 44 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 45 | [Set 1](http://twitter.com/search?q=Set+1) | N/A |
+| 46 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 47 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 48 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
+| 49 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 50 | [BOBBY MUCORE COMEBACK](http://twitter.com/search?q=BOBBY+MUCORE+COMEBACK) | N/A |
 
 
 

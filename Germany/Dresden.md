@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-25 11:17:19 UTC`
+📆 Last Updated: `2023-03-25 12:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
 | 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 3 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 3 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 4 | [#Tuchel](http://twitter.com/search?q=%23Tuchel) | N/A |
+| 5 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 6 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 7 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 9 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 10 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
 | 11 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 12 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 13 | [Satellitenbilder](http://twitter.com/search?q=Satellitenbilder) | N/A |
-| 14 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 15 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 12 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 13 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 14 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 15 | [Konstellation](http://twitter.com/search?q=Konstellation) | N/A |
 | 16 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 17 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 19 | [hausrecht](http://twitter.com/search?q=hausrecht) | N/A |
-| 20 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
-| 21 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 18 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 19 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 20 | [hausrecht](http://twitter.com/search?q=hausrecht) | N/A |
+| 21 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 22 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
 | 23 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 24 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 25 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 26 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 27 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 28 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 29 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
-| 30 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 31 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 32 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 33 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 34 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 35 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 36 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 37 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
-| 38 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 39 | [Russe](http://twitter.com/search?q=Russe) | N/A |
-| 40 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 41 | [Porschefahrer](http://twitter.com/search?q=Porschefahrer) | N/A |
-| 42 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 43 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 44 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 24 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 25 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 28 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 29 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 30 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 31 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 32 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 33 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 34 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 35 | [Satellitenbilder](http://twitter.com/search?q=Satellitenbilder) | N/A |
+| 36 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 37 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 38 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 39 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 40 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 41 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 42 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
+| 43 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
+| 44 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
 | 45 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
-| 46 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 47 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
-| 48 | [Dänen](http://twitter.com/search?q=D%c3%a4nen) | N/A |
+| 46 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
+| 47 | [Planwirtschaft](http://twitter.com/search?q=Planwirtschaft) | N/A |
+| 48 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 49 | [Frühstückstisch](http://twitter.com/search?q=Fr%c3%bchst%c3%bcckstisch) | N/A |
 
 
