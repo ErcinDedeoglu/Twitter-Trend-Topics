@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-25 20:16:20 UTC`
+📆 Last Updated: `2023-03-25 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FormulaE](http://twitter.com/search?q=%23FormulaE) | N/A |
-| 2 | [#SARvHAR](http://twitter.com/search?q=%23SARvHAR) | N/A |
-| 3 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
-| 4 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 5 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
-| 6 | [#tufc](http://twitter.com/search?q=%23tufc) | N/A |
-| 7 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 8 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 9 | [Sarries](http://twitter.com/search?q=Sarries) | N/A |
-| 10 | [#groundhopping](http://twitter.com/search?q=%23groundhopping) | N/A |
-| 11 | [Northampton](http://twitter.com/search?q=Northampton) | N/A |
-| 12 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 1 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 2 | [#HeaneyFlatley2](http://twitter.com/search?q=%23HeaneyFlatley2) | N/A |
+| 3 | [#ENGFRA](http://twitter.com/search?q=%23ENGFRA) | N/A |
+| 4 | [#SARvHAR](http://twitter.com/search?q=%23SARvHAR) | N/A |
+| 5 | [#YoungLions](http://twitter.com/search?q=%23YoungLions) | N/A |
+| 6 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 7 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 8 | [#ntfc](http://twitter.com/search?q=%23ntfc) | N/A |
+| 9 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 10 | [Hartlepool](http://twitter.com/search?q=Hartlepool) | N/A |
+| 11 | [Quins](http://twitter.com/search?q=Quins) | N/A |
+| 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 13 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 14 | [Evans](http://twitter.com/search?q=Evans) | N/A |
 | 15 | [Peterborough](http://twitter.com/search?q=Peterborough) | N/A |
 | 16 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 17 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
-| 18 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 17 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
+| 18 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 19 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [#WomensFootballWeekend](http://twitter.com/search?q=%23WomensFootballWeekend) | N/A |
-| 23 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 24 | [Swindon](http://twitter.com/search?q=Swindon) | N/A |
-| 25 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 26 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 27 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 28 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 29 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 30 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 31 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 34 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
-| 35 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 36 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 37 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 20 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 21 | [Swindon](http://twitter.com/search?q=Swindon) | N/A |
+| 22 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 23 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
+| 24 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 25 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 28 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
+| 29 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 30 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 31 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
+| 32 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 33 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 34 | [James Brown](http://twitter.com/search?q=James+Brown) | James Brown is the stage name of the late American singer, songwriter, and musician. He was known as the "Godfather of Soul" and was a major influence on funk, soul, and rhythm and blues music. His style of music was characterized by its strong beats, syncopated rhythms, and his signature raspy vocals. |
+| 35 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 36 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 37 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
 | 38 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 39 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 40 | [Kwasi Kwarteng](http://twitter.com/search?q=Kwasi+Kwarteng) | N/A |
-| 41 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 42 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
-| 43 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 39 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 40 | [Neco](http://twitter.com/search?q=Neco) | N/A |
+| 41 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 42 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 43 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
 | 44 | [Callum Simpson](http://twitter.com/search?q=Callum+Simpson) | N/A |
-| 45 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 46 | [Sarah Hunter](http://twitter.com/search?q=Sarah+Hunter) | N/A |
-| 47 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 48 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 49 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 50 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 45 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 46 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
+| 47 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 48 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 49 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 50 | [Sarah Hunter](http://twitter.com/search?q=Sarah+Hunter) | N/A |
 
 
 

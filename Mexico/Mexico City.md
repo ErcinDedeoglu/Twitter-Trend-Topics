@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-25 20:16:22 UTC`
+📆 Last Updated: `2023-03-25 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,46 +19,45 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 3 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
 | 4 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 5 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
-| 6 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
-| 7 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 6 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
+| 7 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
 | 8 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
 | 9 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 10 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 11 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
-| 12 | [#Catafixia](http://twitter.com/search?q=%23Catafixia) | N/A |
+| 10 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 11 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 12 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
 | 13 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 14 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 14 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
 | 15 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
-| 16 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 17 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 18 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
+| 16 | [#GiveChecoWings](http://twitter.com/search?q=%23GiveChecoWings) | N/A |
+| 17 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 18 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
 | 19 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 20 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 21 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 22 | [Chabelito](http://twitter.com/search?q=Chabelito) | N/A |
-| 23 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
+| 20 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 21 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
+| 22 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
+| 23 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
 | 24 | [Elsa Aguirre](http://twitter.com/search?q=Elsa+Aguirre) | N/A |
-| 25 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 26 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 27 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 28 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 29 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
-| 30 | [Duvalin](http://twitter.com/search?q=Duvalin) | N/A |
+| 25 | [Chabelito](http://twitter.com/search?q=Chabelito) | N/A |
+| 26 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
+| 27 | [Ilegal](http://twitter.com/search?q=Ilegal) | N/A |
+| 28 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
+| 29 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 30 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
 | 31 | [Rebeca Jones](http://twitter.com/search?q=Rebeca+Jones) | N/A |
-| 32 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 33 | [Ilegal](http://twitter.com/search?q=Ilegal) | N/A |
-| 34 | [El 25](http://twitter.com/search?q=El+25) | N/A |
-| 35 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 36 | [Ay Drake](http://twitter.com/search?q=Ay+Drake) | N/A |
-| 37 | [#GiveChecoWings](http://twitter.com/search?q=%23GiveChecoWings) | N/A |
-| 38 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 39 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
-| 40 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
-| 41 | [#amigodetodoslosniños](http://twitter.com/search?q=%23amigodetodoslosni%c3%b1os) | N/A |
-| 42 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 43 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 44 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
+| 32 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 33 | [El 25](http://twitter.com/search?q=El+25) | N/A |
+| 34 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 35 | [Ay Drake](http://twitter.com/search?q=Ay+Drake) | N/A |
+| 36 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
+| 37 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 38 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
+| 39 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
+| 40 | [#amigodetodoslosniños](http://twitter.com/search?q=%23amigodetodoslosni%c3%b1os) | N/A |
+| 41 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 42 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 43 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
 
 
 

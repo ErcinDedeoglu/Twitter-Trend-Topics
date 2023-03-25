@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-25 20:16:25 UTC`
+📆 Last Updated: `2023-03-25 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 1 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
 | 5 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
-| 6 | [#ViveChevrolet](http://twitter.com/search?q=%23ViveChevrolet) | N/A |
+| 6 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
 | 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 8 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
-| 9 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
-| 10 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 11 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 12 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 13 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
-| 14 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 16 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 9 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 10 | [#ViveChevrolet](http://twitter.com/search?q=%23ViveChevrolet) | N/A |
+| 11 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
+| 12 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 13 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 14 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
+| 15 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 17 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 18 | [Monomeros](http://twitter.com/search?q=Monomeros) | N/A |
-| 19 | [LGBTIQ](http://twitter.com/search?q=LGBTIQ) | N/A |
+| 18 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 19 | [Monomeros](http://twitter.com/search?q=Monomeros) | N/A |
 | 20 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 21 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 22 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 23 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 24 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 25 | [Egan Bernal](http://twitter.com/search?q=Egan+Bernal) | N/A |
-| 26 | [Jerry Rivera](http://twitter.com/search?q=Jerry+Rivera) | N/A |
-| 27 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 28 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 29 | [Mario Hernández](http://twitter.com/search?q=Mario+Hern%c3%a1ndez) | N/A |
-| 30 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 31 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 32 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 33 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
-| 34 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 35 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 36 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 37 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 38 | [Devuelva](http://twitter.com/search?q=Devuelva) | N/A |
-| 39 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 40 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 41 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
-| 42 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 43 | [El Papa](http://twitter.com/search?q=El+Papa) | N/A |
-| 44 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 45 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
-| 46 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 47 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
-| 48 | [Director de la Policía](http://twitter.com/search?q=Director+de+la+Polic%c3%ada) | N/A |
-| 49 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 21 | [LGBTI](http://twitter.com/search?q=LGBTI) | N/A |
+| 22 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 23 | [Egan Bernal](http://twitter.com/search?q=Egan+Bernal) | N/A |
+| 24 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 25 | [Jerry Rivera](http://twitter.com/search?q=Jerry+Rivera) | N/A |
+| 26 | [Mario Hernández](http://twitter.com/search?q=Mario+Hern%c3%a1ndez) | N/A |
+| 27 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 28 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 29 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 30 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 31 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 32 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 33 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 34 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 35 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 36 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
+| 37 | [Devuelva](http://twitter.com/search?q=Devuelva) | N/A |
+| 38 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
+| 39 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 40 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 41 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 42 | [Palogrande](http://twitter.com/search?q=Palogrande) | N/A |
+| 43 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 44 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 45 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 46 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 47 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 48 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 49 | [Inpec](http://twitter.com/search?q=Inpec) | N/A |
 
 
 

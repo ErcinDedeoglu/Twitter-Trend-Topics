@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-25 20:17:05 UTC`
+📆 Last Updated: `2023-03-25 21:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
-| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 1 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
+| 2 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
+| 3 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 | 4 | [Cult](http://twitter.com/search?q=Cult) | N/A |
-| 5 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 6 | [#SMH2023](http://twitter.com/search?q=%23SMH2023) | N/A |
+| 5 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 7 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
 | 8 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
 | 9 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 10 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 11 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 12 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 13 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 14 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 15 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 16 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 17 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 18 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 12 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 13 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 14 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 15 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 16 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 17 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 18 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
 | 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 20 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 22 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 23 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 24 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 25 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
-| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 27 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 28 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 29 | [Atlantic Division](http://twitter.com/search?q=Atlantic+Division) | N/A |
-| 30 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 31 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 32 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 20 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 21 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 22 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 23 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 26 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 27 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 28 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 29 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 30 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
+| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 32 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 33 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 35 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
-| 36 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 37 | [COTA](http://twitter.com/search?q=COTA) | N/A |
-| 38 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 39 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 40 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
-| 41 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 34 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 35 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
+| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 37 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
+| 38 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 39 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 40 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 41 | [Uncle Ted](http://twitter.com/search?q=Uncle+Ted) | N/A |
 | 42 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 43 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
-| 44 | [Tolvy](http://twitter.com/search?q=Tolvy) | N/A |
-| 45 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 46 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
-| 47 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 48 | [Deer Lakes](http://twitter.com/search?q=Deer+Lakes) | N/A |
-| 49 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 50 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
+| 43 | [Ed Henry](http://twitter.com/search?q=Ed+Henry) | N/A |
+| 44 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 45 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
+| 46 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 47 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 48 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 49 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
 
 
 

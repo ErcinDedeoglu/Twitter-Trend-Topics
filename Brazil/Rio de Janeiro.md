@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-25 20:16:27 UTC`
+📆 Last Updated: `2023-03-25 21:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Charlie Brown](http://twitter.com/search?q=Charlie+Brown) | N/A |
-| 2 | [#ColdplayRio](http://twitter.com/search?q=%23ColdplayRio) | N/A |
-| 3 | [Nilton Santos](http://twitter.com/search?q=Nilton+Santos) | N/A |
-| 4 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 5 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 6 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 7 | [#LudmillaNoMultishow](http://twitter.com/search?q=%23LudmillaNoMultishow) | N/A |
-| 8 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 9 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 10 | [#YungBludNoMultishow](http://twitter.com/search?q=%23YungBludNoMultishow) | N/A |
-| 11 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 12 | [#WallowsNoMultishow](http://twitter.com/search?q=%23WallowsNoMultishow) | N/A |
-| 13 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 14 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 15 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 16 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
-| 17 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 18 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
-| 19 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
-| 20 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 21 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
-| 22 | [Carrossel](http://twitter.com/search?q=Carrossel) | N/A |
-| 23 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
-| 24 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
-| 25 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
-| 26 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
-| 27 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 28 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
-| 29 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 30 | [Romildo](http://twitter.com/search?q=Romildo) | N/A |
-| 31 | [Piracicaba](http://twitter.com/search?q=Piracicaba) | N/A |
-| 32 | [MELHORAS LULA](http://twitter.com/search?q=MELHORAS+LULA) | N/A |
-| 33 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 34 | [Gilsons](http://twitter.com/search?q=Gilsons) | N/A |
-| 35 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
-| 36 | [Boal](http://twitter.com/search?q=Boal) | N/A |
-| 37 | [Wizer](http://twitter.com/search?q=Wizer) | N/A |
-| 38 | [Vamos Grêmio](http://twitter.com/search?q=Vamos+Gr%c3%aamio) | N/A |
-| 39 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
-| 40 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 41 | [Ponte Preta](http://twitter.com/search?q=Ponte+Preta) | N/A |
-| 42 | [Chiquititas](http://twitter.com/search?q=Chiquititas) | Chiquititas is a popular Argentine children's television series that aired from 1995 to 2006. The title translates to "Little Girls" in English. It follows the story of a group of orphans living in a fictional orphanage called "Casa de Chiquititas". The show follows the lives of the orphans as they face various challenges and adventures. |
-| 43 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 44 | [Essa Aline](http://twitter.com/search?q=Essa+Aline) | N/A |
-| 45 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
-| 46 | [Empoderamento](http://twitter.com/search?q=Empoderamento) | N/A |
-| 47 | [Pain Gaming](http://twitter.com/search?q=Pain+Gaming) | N/A |
-| 48 | [Zeri](http://twitter.com/search?q=Zeri) | N/A |
-| 49 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 50 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 2 | [Nilton Santos](http://twitter.com/search?q=Nilton+Santos) | N/A |
+| 3 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 4 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 5 | [#MelevaATL](http://twitter.com/search?q=%23MelevaATL) | N/A |
+| 6 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
+| 7 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 8 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 9 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 10 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 11 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 12 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 13 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 14 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 15 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 16 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 17 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 18 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 19 | [#WallowsNoMultishow](http://twitter.com/search?q=%23WallowsNoMultishow) | N/A |
+| 20 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 21 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 22 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
+| 23 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 24 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 25 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 26 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 27 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 28 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 29 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 30 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 31 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 32 | [Dona Cila](http://twitter.com/search?q=Dona+Cila) | N/A |
+| 33 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 34 | [Maria Gadu](http://twitter.com/search?q=Maria+Gadu) | N/A |
+| 35 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 36 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 37 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 38 | [João Pedro](http://twitter.com/search?q=Jo%c3%a3o+Pedro) | N/A |
+| 39 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 40 | [Thacigol](http://twitter.com/search?q=Thacigol) | N/A |
+| 41 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 42 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 43 | [Carrossel](http://twitter.com/search?q=Carrossel) | N/A |
+| 44 | [Caíque](http://twitter.com/search?q=Ca%c3%adque) | N/A |
+| 45 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 46 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 47 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
+| 48 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
+| 49 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
+| 50 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
 
 
 

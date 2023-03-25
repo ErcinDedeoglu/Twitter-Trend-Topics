@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-25 20:17:00 UTC`
+📆 Last Updated: `2023-03-25 21:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 2 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 2 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
 | 3 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 4 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 7 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 8 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 10 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 11 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 12 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
-| 13 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 15 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 16 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 17 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 18 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 19 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 20 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
-| 21 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 22 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 23 | [Atlantic Division](http://twitter.com/search?q=Atlantic+Division) | N/A |
-| 24 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 25 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 26 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 27 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 28 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 29 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
-| 30 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 31 | [COTA](http://twitter.com/search?q=COTA) | N/A |
-| 32 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 33 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 34 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
-| 35 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
-| 36 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 37 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
-| 38 | [Tolvy](http://twitter.com/search?q=Tolvy) | N/A |
-| 39 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
-| 40 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 41 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 42 | [Deer Lakes](http://twitter.com/search?q=Deer+Lakes) | N/A |
-| 43 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 44 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 45 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 46 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 47 | [Andrew Cuomo](http://twitter.com/search?q=Andrew+Cuomo) | N/A |
-| 48 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 5 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 6 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 7 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 8 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 9 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 10 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 12 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 13 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 14 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 15 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 16 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 17 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
+| 18 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 19 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 20 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 21 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 22 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
+| 23 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 24 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 26 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 28 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
+| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 30 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
+| 31 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 32 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 33 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 34 | [Uncle Ted](http://twitter.com/search?q=Uncle+Ted) | N/A |
+| 35 | [Ed Henry](http://twitter.com/search?q=Ed+Henry) | N/A |
+| 36 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 37 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 38 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 39 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
+| 40 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 41 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 42 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 43 | [COTA](http://twitter.com/search?q=COTA) | N/A |
+| 44 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
+| 45 | [Tolvanen](http://twitter.com/search?q=Tolvanen) | N/A |
+| 46 | [Meryl](http://twitter.com/search?q=Meryl) | Meryl is a female given name of French origin, derived from the name Mary. It is a combination of Mary and the suffix -el, meaning "beloved". |
+| 47 | [50 Tyson](http://twitter.com/search?q=50+Tyson) | N/A |
+| 48 | [Atlantic Division](http://twitter.com/search?q=Atlantic+Division) | N/A |
 
 
 

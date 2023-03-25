@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-25 20:16:34 UTC`
+📆 Last Updated: `2023-03-25 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
-| 2 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
-| 3 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
-| 4 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 5 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 6 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 7 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 10 | [Enea](http://twitter.com/search?q=Enea) | N/A |
-| 11 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 14 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 16 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 17 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 18 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
-| 19 | [Lehecka](http://twitter.com/search?q=Lehecka) | N/A |
-| 20 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 21 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 22 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
-| 23 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
-| 24 | [ANTIFASCISTI](http://twitter.com/search?q=ANTIFASCISTI) | N/A |
-| 25 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
-| 26 | [Tipi](http://twitter.com/search?q=Tipi) | N/A |
-| 27 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
-| 28 | [Marini](http://twitter.com/search?q=Marini) | N/A |
-| 29 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 31 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 33 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 34 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 35 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 37 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
-| 38 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 39 | [Bibbiano](http://twitter.com/search?q=Bibbiano) | N/A |
-| 40 | [Sembrant](http://twitter.com/search?q=Sembrant) | N/A |
-| 41 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 42 | [Partigiani](http://twitter.com/search?q=Partigiani) | N/A |
-| 43 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 44 | [Irma Testa](http://twitter.com/search?q=Irma+Testa) | N/A |
-| 45 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 46 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
-| 47 | [Storia](http://twitter.com/search?q=Storia) | N/A |
-| 48 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 49 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 2 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 3 | [#IlCantanteMascherato](http://twitter.com/search?q=%23IlCantanteMascherato) | N/A |
+| 4 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 5 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 6 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
+| 7 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 8 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 9 | [Elena e Simone](http://twitter.com/search?q=Elena+e+Simone) | N/A |
+| 10 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 11 | [MA SEI IMBALSAMATO](http://twitter.com/search?q=MA+SEI+IMBALSAMATO) | N/A |
+| 12 | [Sissi](http://twitter.com/search?q=Sissi) | N/A |
+| 13 | [NOI SIAMO DOLCI NEL SALE](http://twitter.com/search?q=NOI+SIAMO+DOLCI+NEL+SALE) | N/A |
+| 14 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 15 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 16 | [Calcutta](http://twitter.com/search?q=Calcutta) | N/A |
+| 17 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 18 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 19 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 20 | [La Celentano](http://twitter.com/search?q=La+Celentano) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 23 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 24 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 25 | [Michele Bravi](http://twitter.com/search?q=Michele+Bravi) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 28 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 29 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 30 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
+| 31 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 32 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 33 | [Acquario](http://twitter.com/search?q=Acquario) | N/A |
+| 34 | [Emanuel Lo](http://twitter.com/search?q=Emanuel+Lo) | N/A |
+| 35 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 36 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 37 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 38 | [Lorella](http://twitter.com/search?q=Lorella) | N/A |
+| 39 | [Mandalo](http://twitter.com/search?q=Mandalo) | N/A |
+| 40 | [Tipi](http://twitter.com/search?q=Tipi) | N/A |
+| 41 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
+| 42 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 43 | [ANTIFASCISTI](http://twitter.com/search?q=ANTIFASCISTI) | N/A |
+| 44 | [Marini](http://twitter.com/search?q=Marini) | N/A |
+| 45 | [Baglioni](http://twitter.com/search?q=Baglioni) | N/A |
+| 46 | [Prinz](http://twitter.com/search?q=Prinz) | N/A |
+| 47 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
+| 48 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 49 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-25 20:16:58 UTC`
+📆 Last Updated: `2023-03-25 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MarylandDay](http://twitter.com/search?q=%23MarylandDay) | N/A |
-| 2 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 3 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 2 | [#MarylandDay](http://twitter.com/search?q=%23MarylandDay) | N/A |
+| 3 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 4 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
 | 5 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 6 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 9 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 10 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 11 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 12 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 13 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 14 | [#NHLBruins](http://twitter.com/search?q=%23NHLBruins) | N/A |
-| 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 16 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 17 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 6 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 7 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 8 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 9 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 10 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 11 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 12 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 14 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 15 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 16 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 17 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
 | 18 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 19 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 20 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 21 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
-| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 23 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 24 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 25 | [Atlantic Division](http://twitter.com/search?q=Atlantic+Division) | N/A |
-| 26 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 27 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 28 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 29 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 31 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
-| 32 | [COTA](http://twitter.com/search?q=COTA) | N/A |
-| 33 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 34 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 35 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 36 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
-| 37 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
-| 38 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 39 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
-| 40 | [Tolvy](http://twitter.com/search?q=Tolvy) | N/A |
-| 41 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 42 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 43 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
-| 44 | [Deer Lakes](http://twitter.com/search?q=Deer+Lakes) | N/A |
-| 45 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 46 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
-| 47 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 48 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 49 | [Andrew Cuomo](http://twitter.com/search?q=Andrew+Cuomo) | N/A |
+| 19 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
+| 20 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 21 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 22 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 23 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 24 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 25 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
+| 26 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 28 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 29 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 30 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
+| 31 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 32 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
+| 33 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 34 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 35 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 36 | [Uncle Ted](http://twitter.com/search?q=Uncle+Ted) | N/A |
+| 37 | [Ed Henry](http://twitter.com/search?q=Ed+Henry) | N/A |
+| 38 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 39 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 40 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 41 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
+| 42 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 43 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 44 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 45 | [COTA](http://twitter.com/search?q=COTA) | N/A |
+| 46 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
+| 47 | [Tolvanen](http://twitter.com/search?q=Tolvanen) | N/A |
+| 48 | [Meryl](http://twitter.com/search?q=Meryl) | Meryl is a female given name of French origin, derived from the name Mary. It is a combination of Mary and the suffix -el, meaning "beloved". |
+| 49 | [50 Tyson](http://twitter.com/search?q=50+Tyson) | N/A |
 
 
 

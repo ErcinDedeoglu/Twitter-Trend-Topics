@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-25 20:16:18 UTC`
+📆 Last Updated: `2023-03-25 21:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 | 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 | 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 7 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 8 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
 | 9 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
 | 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
 | 11 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 12 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 12 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
 | 13 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 14 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 15 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 16 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 17 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 21 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 22 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 23 | [London](http://twitter.com/search?q=London) | N/A |
-| 24 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 25 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 26 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 27 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 28 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 29 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 30 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 31 | [Trustee Kaplan-Myrth](http://twitter.com/search?q=Trustee+Kaplan-Myrth) | N/A |
-| 32 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 33 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 34 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 35 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 36 | [Staal](http://twitter.com/search?q=Staal) | N/A |
-| 37 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 39 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
-| 40 | [Bully Ray](http://twitter.com/search?q=Bully+Ray) | N/A |
-| 41 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 42 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 43 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
-| 44 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
-| 45 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
-| 46 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 14 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 15 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 16 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 17 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 18 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 20 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 21 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 22 | [London](http://twitter.com/search?q=London) | N/A |
+| 23 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 24 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 26 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 27 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 28 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 29 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
+| 30 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 31 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 32 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 33 | [Trustee Kaplan-Myrth](http://twitter.com/search?q=Trustee+Kaplan-Myrth) | N/A |
+| 34 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 35 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 37 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
+| 38 | [Mikael Backlund](http://twitter.com/search?q=Mikael+Backlund) | N/A |
+| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 40 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 41 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 43 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
+| 44 | [Stornoway](http://twitter.com/search?q=Stornoway) | N/A |
+| 45 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 46 | [Staal](http://twitter.com/search?q=Staal) | N/A |
 | 47 | [Althia](http://twitter.com/search?q=Althia) | N/A |
 | 48 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 49 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 50 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 49 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 50 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
 
 
 
