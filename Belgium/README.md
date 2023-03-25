@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-25 04:19:47 UTC`
+📆 Last Updated: `2023-03-25 05:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Belgium
 | 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 16 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
 | 17 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
-| 18 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
-| 19 | [#deafspraakopvrijdag](http://twitter.com/search?q=%23deafspraakopvrijdag) | N/A |
-| 20 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 18 | [big rom](http://twitter.com/search?q=big+rom) | N/A |
+| 19 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 20 | [#E3SaxoBankClassic](http://twitter.com/search?q=%23E3SaxoBankClassic) | N/A |
 | 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 22 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
 | 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 24 | [witsel](http://twitter.com/search?q=witsel) | N/A |
-| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 26 | [Suède](http://twitter.com/search?q=Su%c3%a8de) | N/A |
-| 27 | [Legoland](http://twitter.com/search?q=Legoland) | N/A |
-| 28 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 29 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 30 | [RTNC](http://twitter.com/search?q=RTNC) | N/A |
+| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 25 | [suède](http://twitter.com/search?q=su%c3%a8de) | N/A |
+| 26 | [Legoland](http://twitter.com/search?q=Legoland) | N/A |
+| 27 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 28 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 29 | [rtnc](http://twitter.com/search?q=rtnc) | N/A |
+| 30 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
 | 31 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
 | 32 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
 | 33 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 | 34 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
-| 35 | [delhaize](http://twitter.com/search?q=delhaize) | N/A |
-| 36 | [Ronde](http://twitter.com/search?q=Ronde) | N/A |
-| 37 | [Theate](http://twitter.com/search?q=Theate) | N/A |
-| 38 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
-| 39 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 40 | [gilles de bilde](http://twitter.com/search?q=gilles+de+bilde) | N/A |
-| 41 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 42 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 43 | [taaienberg](http://twitter.com/search?q=taaienberg) | N/A |
-| 44 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 45 | [Neerpede](http://twitter.com/search?q=Neerpede) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 48 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 35 | [Ronde](http://twitter.com/search?q=Ronde) | N/A |
+| 36 | [Theate](http://twitter.com/search?q=Theate) | N/A |
+| 37 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 38 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 39 | [gilles de bilde](http://twitter.com/search?q=gilles+de+bilde) | N/A |
+| 40 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 41 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 42 | [taaienberg](http://twitter.com/search?q=taaienberg) | N/A |
+| 43 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 44 | [Neerpede](http://twitter.com/search?q=Neerpede) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 47 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 48 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
 | 49 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 50 | [Castagne](http://twitter.com/search?q=Castagne) | N/A |
+| 50 | [castagne](http://twitter.com/search?q=castagne) | N/A |
 
 
 

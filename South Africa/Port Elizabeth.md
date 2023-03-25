@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-25 04:19:28 UTC`
+📆 Last Updated: `2023-03-25 05:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
 | 4 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
 | 5 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 6 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
-| 7 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
-| 8 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 9 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 7 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 8 | [Percy Tau](http://twitter.com/search?q=Percy+Tau) | N/A |
+| 9 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
 | 10 | [prime video za](http://twitter.com/search?q=prime+video+za) | N/A |
-| 11 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
+| 11 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
 | 12 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 13 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [6lack](http://twitter.com/search?q=6lack) | N/A |
-| 16 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 17 | [tom motsepe](http://twitter.com/search?q=tom+motsepe) | N/A |
-| 18 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 19 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
-| 20 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
-| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 22 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 23 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 24 | [le roux](http://twitter.com/search?q=le+roux) | N/A |
-| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 26 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 27 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 28 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 29 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 37 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 38 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
-| 41 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 42 | [Ivy Park](http://twitter.com/search?q=Ivy+Park) | N/A |
-| 43 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 44 | [Xulu](http://twitter.com/search?q=Xulu) | N/A |
-| 45 | [Helman](http://twitter.com/search?q=Helman) | N/A |
-| 46 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
-| 47 | [gcinile](http://twitter.com/search?q=gcinile) | N/A |
-| 48 | [Trusted the Lord](http://twitter.com/search?q=Trusted+the+Lord) | N/A |
+| 13 | [Hlongwane](http://twitter.com/search?q=Hlongwane) | N/A |
+| 14 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 16 | [6lack](http://twitter.com/search?q=6lack) | N/A |
+| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 18 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 19 | [tom motsepe](http://twitter.com/search?q=tom+motsepe) | N/A |
+| 20 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 21 | [lyle foster](http://twitter.com/search?q=lyle+foster) | N/A |
+| 22 | [DRAG KHOSI TO VICTORY](http://twitter.com/search?q=DRAG+KHOSI+TO+VICTORY) | N/A |
+| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 24 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 25 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
+| 26 | [BANKABLE THABANG](http://twitter.com/search?q=BANKABLE+THABANG) | N/A |
+| 27 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
+| 28 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 29 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 30 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 32 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
+| 33 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 36 | [Le Roux](http://twitter.com/search?q=Le+Roux) | N/A |
+| 37 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 38 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 40 | [congratulations thabang](http://twitter.com/search?q=congratulations+thabang) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 43 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 44 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 45 | [Uebert Angel](http://twitter.com/search?q=Uebert+Angel) | N/A |
+| 46 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 47 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 48 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
 
 
 

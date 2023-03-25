@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-25 04:19:18 UTC`
+📆 Last Updated: `2023-03-25 05:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 2 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 3 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 4 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
-| 5 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 6 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 7 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 8 | [Ayam Goreng Satu Bumbu](http://twitter.com/search?q=Ayam+Goreng+Satu+Bumbu) | N/A |
-| 9 | [Royco](http://twitter.com/search?q=Royco) | N/A |
-| 10 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
-| 11 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 1 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 2 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 3 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 4 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
+| 5 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 6 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
+| 7 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 8 | [Puck](http://twitter.com/search?q=Puck) | N/A |
+| 9 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 10 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 11 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 12 | [INI BENERAN](http://twitter.com/search?q=INI+BENERAN) | N/A |
 | 13 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
-| 14 | [katarsis final episode](http://twitter.com/search?q=katarsis+final+episode) | N/A |
-| 15 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
-| 18 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
-| 19 | [OPPO](http://twitter.com/search?q=OPPO) | N/A |
-| 20 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
-| 21 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
-| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 23 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 24 | [CHANBAEK JAYA JAYA JAYA](http://twitter.com/search?q=CHANBAEK+JAYA+JAYA+JAYA) | N/A |
-| 25 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 26 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 27 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 28 | [menteri terbaik jokowi](http://twitter.com/search?q=menteri+terbaik+jokowi) | N/A |
-| 29 | [siapa pergi dia mati](http://twitter.com/search?q=siapa+pergi+dia+mati) | N/A |
-| 30 | [Nightography](http://twitter.com/search?q=Nightography) | N/A |
-| 31 | [HYUNSUK BLACK HAIR](http://twitter.com/search?q=HYUNSUK+BLACK+HAIR) | N/A |
-| 32 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 33 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 34 | [Sri Asih](http://twitter.com/search?q=Sri+Asih) | N/A |
-| 35 | [Flash Sale Akbar Rp1](http://twitter.com/search?q=Flash+Sale+Akbar+Rp1) | N/A |
-| 36 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 37 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 38 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 39 | [CONGRATULATIONS RM](http://twitter.com/search?q=CONGRATULATIONS+RM) | N/A |
-| 40 | [Keramat 2](http://twitter.com/search?q=Keramat+2) | N/A |
-| 41 | [jumat curhat](http://twitter.com/search?q=jumat+curhat) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Syifa](http://twitter.com/search?q=Syifa) | N/A |
-| 44 | [Dkriuk](http://twitter.com/search?q=Dkriuk) | N/A |
-| 45 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 47 | [TikTok CEO](http://twitter.com/search?q=TikTok+CEO) | N/A |
-| 48 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
-| 49 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 50 | [INI BENERAN](http://twitter.com/search?q=INI+BENERAN) | N/A |
+| 14 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 15 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 16 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 17 | [Anis](http://twitter.com/search?q=Anis) | N/A |
+| 18 | [1,2 M](http://twitter.com/search?q=1%2c2+M) | N/A |
+| 19 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 20 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 21 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 22 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
+| 23 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
+| 24 | [#IndonesiaDiBanFIFA](http://twitter.com/search?q=%23IndonesiaDiBanFIFA) | N/A |
+| 25 | [#RamadhanBersamaIndiHome](http://twitter.com/search?q=%23RamadhanBersamaIndiHome) | N/A |
+| 26 | [#RamahCariBerkah](http://twitter.com/search?q=%23RamahCariBerkah) | N/A |
+| 27 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 28 | [#GeminiFourthFMinPP](http://twitter.com/search?q=%23GeminiFourthFMinPP) | N/A |
+| 29 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
+| 30 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
+| 31 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
+| 32 | [#ACT_SWEET_MIRAGE](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE) | N/A |
+| 33 | [#お誕生日おめでとう_髙田真史帆](http://twitter.com/search?q=%23%e3%81%8a%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86_%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 34 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 35 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 36 | [#행운이_가득할_시호의_스물세번째생일](http://twitter.com/search?q=%23%ed%96%89%ec%9a%b4%ec%9d%b4_%ea%b0%80%eb%93%9d%ed%95%a0_%ec%8b%9c%ed%98%b8%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%84%b8%eb%b2%88%ec%a7%b8%ec%83%9d%ec%9d%bc) | N/A |
+| 37 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 38 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
 
 
 

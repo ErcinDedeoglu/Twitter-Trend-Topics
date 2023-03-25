@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-25 04:19:10 UTC`
+📆 Last Updated: `2023-03-25 05:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
+| 1 | [#leivsto](http://twitter.com/search?q=%23leivsto) | N/A |
 | 2 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
 | 3 | [#Blockrockinbeats](http://twitter.com/search?q=%23Blockrockinbeats) | N/A |
 | 4 | [graham dwyer](http://twitter.com/search?q=graham+dwyer) | N/A |
@@ -27,10 +27,10 @@ This is top 50 for [Ireland](</Ireland>)
 | 10 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
 | 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 13 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [irish cancer society](http://twitter.com/search?q=irish+cancer+society) | N/A |
-| 16 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [irish cancer society](http://twitter.com/search?q=irish+cancer+society) | N/A |
+| 15 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
+| 16 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
 | 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 18 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
 | 19 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |

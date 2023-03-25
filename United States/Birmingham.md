@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-25 04:19:38 UTC`
+📆 Last Updated: `2023-03-25 05:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Roll Tide](http://twitter.com/search?q=Roll+Tide) | N/A |
 | 2 | [Sweet 16](http://twitter.com/search?q=Sweet+16) | N/A |
-| 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 5 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 10 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 12 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 13 | [#mswx](http://twitter.com/search?q=%23mswx) | N/A |
-| 14 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 15 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 16 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 17 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 18 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 19 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 20 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 21 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 22 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 25 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 26 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 27 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 28 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 29 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
-| 30 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 31 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 32 | [Winona](http://twitter.com/search?q=Winona) | N/A |
-| 33 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 34 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 35 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 36 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 37 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 38 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 39 | [Disu](http://twitter.com/search?q=Disu) | N/A |
-| 40 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 41 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
-| 42 | [TIMMY ALLEN](http://twitter.com/search?q=TIMMY+ALLEN) | N/A |
-| 43 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 44 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 45 | [Tyrese Hunter](http://twitter.com/search?q=Tyrese+Hunter) | N/A |
-| 46 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
-| 47 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
-| 48 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 49 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 50 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 3 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 4 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 5 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 6 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 7 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 8 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 9 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 10 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 11 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 12 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 13 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 14 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 15 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 16 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 17 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 18 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 20 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 21 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 24 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 25 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 26 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 27 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 28 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 29 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 30 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 31 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 32 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 33 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 34 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 35 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 36 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 37 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 38 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 39 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 40 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 41 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 42 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 43 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 44 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 45 | [Disu](http://twitter.com/search?q=Disu) | N/A |
+| 46 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 47 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
+| 48 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 49 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 50 | [Winona](http://twitter.com/search?q=Winona) | N/A |
 
 
 

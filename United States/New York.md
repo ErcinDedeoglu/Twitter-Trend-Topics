@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-25 04:19:43 UTC`
+📆 Last Updated: `2023-03-25 05:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 2 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 3 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 2 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 4 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
 | 5 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 6 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 7 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 8 | [FanDuel](http://twitter.com/search?q=FanDuel) | N/A |
-| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 10 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 11 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 12 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 13 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 14 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 16 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 17 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 18 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 19 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 20 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 21 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 22 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 23 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 24 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 25 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 26 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 27 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 28 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 31 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 32 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 33 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 34 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 35 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 36 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 37 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
-| 38 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 39 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 40 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 41 | [Winona](http://twitter.com/search?q=Winona) | N/A |
-| 42 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 43 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 44 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 45 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 46 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 47 | [Disu](http://twitter.com/search?q=Disu) | N/A |
-| 48 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 49 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 50 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 6 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 7 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
+| 8 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 9 | [FanDuel](http://twitter.com/search?q=FanDuel) | N/A |
+| 10 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 11 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 12 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 13 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 14 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 15 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 16 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 17 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 18 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 19 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 20 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 21 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 22 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 23 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 24 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 26 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 27 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 29 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 30 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 31 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 32 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 33 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 34 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 36 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 37 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 38 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 39 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 40 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 41 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 42 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 43 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 44 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 45 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 46 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 47 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 48 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 49 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 50 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
 
 
 

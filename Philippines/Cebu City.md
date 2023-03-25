@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-25 04:19:25 UTC`
+📆 Last Updated: `2023-03-25 05:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FELIP_COMPLEXLive](http://twitter.com/search?q=%23FELIP_COMPLEXLive) | N/A |
-| 2 | [#COMPLEXFriday](http://twitter.com/search?q=%23COMPLEXFriday) | N/A |
-| 3 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
-| 4 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 5 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 6 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
-| 7 | [KDays 200K ON SPOTIFY](http://twitter.com/search?q=KDays+200K+ON+SPOTIFY) | N/A |
-| 8 | [#DIFFUSIONinMNL_Giveaway](http://twitter.com/search?q=%23DIFFUSIONinMNL_Giveaway) | N/A |
-| 9 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 10 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 11 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
-| 12 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
-| 13 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 14 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 16 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 17 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 18 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 19 | [Happy 25th](http://twitter.com/search?q=Happy+25th) | N/A |
-| 20 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 21 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 22 | [Ingat](http://twitter.com/search?q=Ingat) | N/A |
-| 23 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 24 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 25 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
-| 26 | [#UnflinchingDLSU](http://twitter.com/search?q=%23UnflinchingDLSU) | N/A |
-| 27 | [#BNYComfySummer](http://twitter.com/search?q=%23BNYComfySummer) | N/A |
-| 28 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 29 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
-| 30 | [#STREAM_Rockwithyou](http://twitter.com/search?q=%23STREAM_Rockwithyou) | N/A |
-| 31 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 32 | [#BOYCOTTEBxAPTxGMA745](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA745) | N/A |
-| 33 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
-| 34 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 35 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 36 | [#LazadaPH](http://twitter.com/search?q=%23LazadaPH) | N/A |
-| 37 | [#ROSÉ](http://twitter.com/search?q=%23ROS%c3%89) | N/A |
-| 38 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
-| 39 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 40 | [#髙田真史帆](http://twitter.com/search?q=%23%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 2 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 3 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 4 | [KDays 200K ON SPOTIFY](http://twitter.com/search?q=KDays+200K+ON+SPOTIFY) | N/A |
+| 5 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
+| 6 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 8 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
+| 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 10 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 11 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 12 | [VICEION 53rd MONTHSARY](http://twitter.com/search?q=VICEION+53rd+MONTHSARY) | N/A |
+| 13 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 14 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
+| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 16 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 17 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 18 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 19 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 20 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 21 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
+| 22 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 24 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 25 | [Happy 25th](http://twitter.com/search?q=Happy+25th) | N/A |
+| 26 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
+| 27 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
+| 28 | [MOONBIN](http://twitter.com/search?q=MOONBIN) | N/A |
+| 29 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
+| 30 | [Ingat](http://twitter.com/search?q=Ingat) | N/A |
+| 31 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
+| 32 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 33 | [#DIFFUSIONinMNL_Giveaway](http://twitter.com/search?q=%23DIFFUSIONinMNL_Giveaway) | N/A |
+| 34 | [#UnflinchingDLSU](http://twitter.com/search?q=%23UnflinchingDLSU) | N/A |
+| 35 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
+| 36 | [#IonPerez](http://twitter.com/search?q=%23IonPerez) | N/A |
+| 37 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 38 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 39 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
+| 40 | [#BNYComfySummer](http://twitter.com/search?q=%23BNYComfySummer) | N/A |
+| 41 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
+| 42 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
+| 43 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
+| 44 | [#STREAM_Rockwithyou](http://twitter.com/search?q=%23STREAM_Rockwithyou) | N/A |
+| 45 | [#BOYCOTTEBxAPTxGMA745](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA745) | N/A |
+| 46 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
+| 47 | [#LazadaPH](http://twitter.com/search?q=%23LazadaPH) | N/A |
+| 48 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 49 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 50 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
 
 
 

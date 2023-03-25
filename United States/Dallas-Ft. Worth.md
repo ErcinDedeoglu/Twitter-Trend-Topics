@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-25 04:19:40 UTC`
+📆 Last Updated: `2023-03-25 05:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
 | 2 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
 | 3 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 4 | [U of H](http://twitter.com/search?q=U+of+H) | N/A |
+| 4 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
 | 5 | [Bi-District Champs](http://twitter.com/search?q=Bi-District+Champs) | N/A |
-| 6 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
-| 7 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 8 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
-| 9 | [Lady Raiders](http://twitter.com/search?q=Lady+Raiders) | N/A |
-| 10 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
-| 11 | [Cougars](http://twitter.com/search?q=Cougars) | N/A |
-| 12 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 13 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 14 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 6 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
+| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 8 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
+| 9 | [Cougars](http://twitter.com/search?q=Cougars) | N/A |
+| 10 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 11 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
+| 12 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 13 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 14 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 15 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 16 | [#TXHSSoccer](http://twitter.com/search?q=%23TXHSSoccer) | N/A |
-| 17 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 16 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 17 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 18 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
 | 19 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 20 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 20 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 | 21 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 23 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 24 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 25 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 26 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 27 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 28 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 29 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 30 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 31 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 32 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 33 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 34 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 37 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 38 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 39 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
-| 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 41 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 42 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 43 | [Winona](http://twitter.com/search?q=Winona) | N/A |
-| 44 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 45 | [Smithville](http://twitter.com/search?q=Smithville) | N/A |
-| 46 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 47 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 48 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 49 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 50 | [Disu](http://twitter.com/search?q=Disu) | N/A |
+| 23 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 24 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 25 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 26 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 27 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 28 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 29 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 30 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 31 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 32 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 33 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 34 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 35 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 36 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 37 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 38 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 39 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 40 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 41 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 42 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 43 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 44 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 45 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 48 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 49 | [Kunkel](http://twitter.com/search?q=Kunkel) | N/A |
+| 50 | [Toji](http://twitter.com/search?q=Toji) | N/A |
 
 
 

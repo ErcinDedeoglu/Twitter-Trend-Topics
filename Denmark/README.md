@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-25 04:19:48 UTC`
+📆 Last Updated: `2023-03-25 05:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,11 +36,11 @@ This is top 50 for Denmark
 | 19 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 21 | [minksagen](http://twitter.com/search?q=minksagen) | N/A |
-| 22 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
-| 23 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 24 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 25 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 26 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 22 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 24 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 25 | [hjulmand](http://twitter.com/search?q=hjulmand) | N/A |
+| 26 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
 | 27 | [Ramadan Mubarak](http://twitter.com/search?q=Ramadan+Mubarak) | N/A |
 | 28 | [danskerne](http://twitter.com/search?q=danskerne) | N/A |
 | 29 | [Michael](http://twitter.com/search?q=Michael) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Denmark
 | 32 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 33 | [bendtner](http://twitter.com/search?q=bendtner) | N/A |
 | 34 | [parken](http://twitter.com/search?q=parken) | N/A |
-| 35 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 35 | [ungarn](http://twitter.com/search?q=ungarn) | N/A |
 | 36 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
 | 37 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 38 | [højesteret](http://twitter.com/search?q=h%c3%b8jesteret) | N/A |
-| 39 | [venstre](http://twitter.com/search?q=venstre) | N/A |
-| 40 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 41 | [alex vanopslagh](http://twitter.com/search?q=alex+vanopslagh) | N/A |
-| 42 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 43 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 44 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 45 | [Corner](http://twitter.com/search?q=Corner) | N/A |
-| 46 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 47 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 48 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 49 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 50 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 40 | [alex vanopslagh](http://twitter.com/search?q=alex+vanopslagh) | N/A |
+| 41 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 42 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 43 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 44 | [Corner](http://twitter.com/search?q=Corner) | N/A |
+| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 47 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 48 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 49 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 50 | [seriøst](http://twitter.com/search?q=seri%c3%b8st) | N/A |
 
 
 
