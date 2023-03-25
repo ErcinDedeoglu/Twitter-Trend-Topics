@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-25 19:16:32 UTC`
+📆 Last Updated: `2023-03-25 20:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
-| 2 | [#LISA](http://twitter.com/search?q=%23LISA) | N/A |
-| 3 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 4 | [#KATHreignsAt27](http://twitter.com/search?q=%23KATHreignsAt27) | N/A |
-| 5 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 6 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 7 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 8 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 9 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 10 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 11 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 12 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 13 | [Arisse](http://twitter.com/search?q=Arisse) | N/A |
-| 14 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
-| 15 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 16 | [WAYV BOUNCES BACK TO ARANETA](http://twitter.com/search?q=WAYV+BOUNCES+BACK+TO+ARANETA) | N/A |
-| 17 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
-| 18 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 19 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
-| 20 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 21 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
-| 22 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 23 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
-| 24 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 25 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 26 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 27 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 28 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
-| 29 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 30 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
-| 31 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 32 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
-| 33 | [#BLACKPINK_WORLDTOUR](http://twitter.com/search?q=%23BLACKPINK_WORLDTOUR) | N/A |
-| 34 | [#PHANTOMingin_Ka_Akin_Ka](http://twitter.com/search?q=%23PHANTOMingin_Ka_Akin_Ka) | N/A |
-| 35 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 36 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
-| 37 | [#MEetJISOOatPHArena](http://twitter.com/search?q=%23MEetJISOOatPHArena) | N/A |
-| 38 | [#KAIAComeback](http://twitter.com/search?q=%23KAIAComeback) | N/A |
-| 39 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
+| 1 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 4 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 5 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
+| 6 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 7 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
+| 8 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
+| 9 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
+| 10 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 11 | [PHILIPPINES LOVES JENNIE](http://twitter.com/search?q=PHILIPPINES+LOVES+JENNIE) | N/A |
+| 12 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
+| 13 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
+| 14 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 15 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 16 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 18 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 19 | [Canino](http://twitter.com/search?q=Canino) | N/A |
+| 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 21 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
+| 22 | [kdays 200k on spotify](http://twitter.com/search?q=kdays+200k+on+spotify) | N/A |
+| 23 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
+| 24 | [luxeslim alexa billboard](http://twitter.com/search?q=luxeslim+alexa+billboard) | N/A |
+| 25 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 26 | [VISAYAS IS WAITING FOR HORI7ON](http://twitter.com/search?q=VISAYAS+IS+WAITING+FOR+HORI7ON) | N/A |
+| 27 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
+| 28 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
+| 29 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 30 | [Ice Cream](http://twitter.com/search?q=Ice+Cream) | N/A |
+| 31 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 32 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 33 | [BGYO TOMORROW AT AYALAFELIZ](http://twitter.com/search?q=BGYO+TOMORROW+AT+AYALAFELIZ) | N/A |
+| 34 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 35 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 36 | [jardio](http://twitter.com/search?q=jardio) | N/A |
+| 37 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 38 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
+| 39 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 40 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
+| 41 | [URBN QC](http://twitter.com/search?q=URBN+QC) | N/A |
+| 42 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
+| 43 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 44 | [Jazareno](http://twitter.com/search?q=Jazareno) | N/A |
+| 45 | [WAYV BOUNCES BACK TO ARANETA](http://twitter.com/search?q=WAYV+BOUNCES+BACK+TO+ARANETA) | N/A |
+| 46 | [OUR SUMMER](http://twitter.com/search?q=OUR+SUMMER) | N/A |
+| 47 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 48 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
+| 49 | [zacham chosen barkada](http://twitter.com/search?q=zacham+chosen+barkada) | N/A |
+| 50 | [MY TANNIES](http://twitter.com/search?q=MY+TANNIES) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-25 19:16:58 UTC`
+📆 Last Updated: `2023-03-25 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#omokanagabriel1xbet](http://twitter.com/search?q=%23omokanagabriel1xbet) | N/A |
-| 2 | [#AbidjanHealingService](http://twitter.com/search?q=%23AbidjanHealingService) | N/A |
-| 3 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 4 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
+| 1 | [#AbidjanHealingService](http://twitter.com/search?q=%23AbidjanHealingService) | N/A |
+| 2 | [#omokanagabriel1xbet](http://twitter.com/search?q=%23omokanagabriel1xbet) | N/A |
+| 3 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
+| 4 | [#Day2WordExposition](http://twitter.com/search?q=%23Day2WordExposition) | N/A |
 | 5 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 6 | [#Day2WordExposition](http://twitter.com/search?q=%23Day2WordExposition) | N/A |
-| 7 | [#kabugala23](http://twitter.com/search?q=%23kabugala23) | N/A |
+| 6 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 7 | [#OneLove](http://twitter.com/search?q=%23OneLove) | N/A |
 | 8 | [The DCI](http://twitter.com/search?q=The+DCI) | N/A |
-| 9 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 10 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
-| 11 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 16 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
-| 17 | [Kinoti](http://twitter.com/search?q=Kinoti) | N/A |
-| 18 | [Kisii](http://twitter.com/search?q=Kisii) | N/A |
-| 19 | [EPRA](http://twitter.com/search?q=EPRA) | N/A |
+| 9 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
+| 10 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 13 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
+| 14 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 15 | [Kinoti](http://twitter.com/search?q=Kinoti) | N/A |
+| 16 | [Kisii](http://twitter.com/search?q=Kisii) | N/A |
+| 17 | [EPRA](http://twitter.com/search?q=EPRA) | N/A |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
 | 20 | [form 34a](http://twitter.com/search?q=form+34a) | N/A |
 | 21 | [England](http://twitter.com/search?q=England) | N/A |
-| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 23 | [Koffi](http://twitter.com/search?q=Koffi) | N/A |
-| 24 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 25 | [pinky ghelani](http://twitter.com/search?q=pinky+ghelani) | N/A |
-| 26 | [Nonini](http://twitter.com/search?q=Nonini) | N/A |
-| 27 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 28 | [Apology](http://twitter.com/search?q=Apology) | N/A |
+| 22 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 23 | [pinky ghelani](http://twitter.com/search?q=pinky+ghelani) | N/A |
+| 24 | [Nonini](http://twitter.com/search?q=Nonini) | N/A |
+| 25 | [Amerix](http://twitter.com/search?q=Amerix) | N/A |
+| 26 | [Fally](http://twitter.com/search?q=Fally) | N/A |
+| 27 | [Apology](http://twitter.com/search?q=Apology) | N/A |
+| 28 | [Koffi](http://twitter.com/search?q=Koffi) | N/A |
 | 29 | [almond estate company](http://twitter.com/search?q=almond+estate+company) | N/A |
 | 30 | [Kagame](http://twitter.com/search?q=Kagame) | N/A |
-| 31 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 32 | [twende baraka gardens](http://twitter.com/search?q=twende+baraka+gardens) | N/A |
-| 33 | [Amerix](http://twitter.com/search?q=Amerix) | N/A |
-| 34 | [Hotel Rwanda](http://twitter.com/search?q=Hotel+Rwanda) | N/A |
-| 35 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 36 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 38 | [Nuru Okanga](http://twitter.com/search?q=Nuru+Okanga) | N/A |
-| 39 | [roysambu](http://twitter.com/search?q=roysambu) | N/A |
-| 40 | [Oparanya](http://twitter.com/search?q=Oparanya) | N/A |
-| 41 | [paper 2](http://twitter.com/search?q=paper+2) | N/A |
-| 42 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 43 | [Ksh 500](http://twitter.com/search?q=Ksh+500) | N/A |
-| 44 | [Ruaka](http://twitter.com/search?q=Ruaka) | N/A |
-| 45 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 46 | [Senegal](http://twitter.com/search?q=Senegal) | N/A |
-| 47 | [the blood of jesus](http://twitter.com/search?q=the+blood+of+jesus) | N/A |
-| 48 | [mku environmental club](http://twitter.com/search?q=mku+environmental+club) | N/A |
-| 49 | [Simba Arati](http://twitter.com/search?q=Simba+Arati) | N/A |
-| 50 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 31 | [twende baraka gardens](http://twitter.com/search?q=twende+baraka+gardens) | N/A |
+| 32 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 33 | [Ksh 500](http://twitter.com/search?q=Ksh+500) | N/A |
+| 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 35 | [Nuru Okanga](http://twitter.com/search?q=Nuru+Okanga) | N/A |
+| 36 | [roysambu](http://twitter.com/search?q=roysambu) | N/A |
+| 37 | [Oparanya](http://twitter.com/search?q=Oparanya) | N/A |
+| 38 | [Paper 2](http://twitter.com/search?q=Paper+2) | N/A |
+| 39 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 40 | [Ruaka](http://twitter.com/search?q=Ruaka) | N/A |
+| 41 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 42 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 43 | [Senegal](http://twitter.com/search?q=Senegal) | N/A |
+| 44 | [the blood of jesus](http://twitter.com/search?q=the+blood+of+jesus) | N/A |
+| 45 | [mku environmental club](http://twitter.com/search?q=mku+environmental+club) | N/A |
+| 46 | [Ruto's CASs](http://twitter.com/search?q=Ruto%27s+CASs) | N/A |
+| 47 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 48 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
+| 49 | [Cripples](http://twitter.com/search?q=Cripples) | N/A |
+| 50 | [Luos](http://twitter.com/search?q=Luos) | N/A |
 
 
 

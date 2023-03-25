@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-25 19:16:40 UTC`
+📆 Last Updated: `2023-03-25 20:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Minar e Pakistan](http://twitter.com/search?q=Minar+e+Pakistan) | N/A |
 | 7 | [M for Maryam](http://twitter.com/search?q=M+for+Maryam) | N/A |
 | 8 | [Wahab Riaz](http://twitter.com/search?q=Wahab+Riaz) | Wahab Riaz is a Pakistani cricketer who plays for the Pakistan national cricket team. His name is derived from the Arabic word "wahab", which means "giver". The name Riaz is derived from the Persian word "riaz", which means "honor". |
-| 9 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 10 | [G for Garage](http://twitter.com/search?q=G+for+Garage) | N/A |
-| 11 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 12 | [Jummah Mubarak](http://twitter.com/search?q=Jummah+Mubarak) | N/A |
-| 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 14 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 9 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 10 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 12 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 15 | [G for Garage](http://twitter.com/search?q=G+for+Garage) | N/A |
 | 16 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 17 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 18 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 19 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 18 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 19 | [F for F](http://twitter.com/search?q=F+for+F) | N/A |
 | 20 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 21 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 22 | [babar & rizwan](http://twitter.com/search?q=babar+%26+rizwan) | N/A |
+| 21 | [babar & rizwan](http://twitter.com/search?q=babar+%26+rizwan) | N/A |
+| 22 | [Azadi](http://twitter.com/search?q=Azadi) | N/A |
 | 23 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
 | 24 | [IHSANULLAH](http://twitter.com/search?q=IHSANULLAH) | N/A |
-| 25 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 26 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
+| 25 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 26 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
 | 27 | [Babar and Rizwan](http://twitter.com/search?q=Babar+and+Rizwan) | N/A |
 | 28 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 29 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 29 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
 | 30 | [vmin](http://twitter.com/search?q=vmin) | N/A |
 | 31 | [abdullah shafique](http://twitter.com/search?q=abdullah+shafique) | N/A |
 | 32 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 33 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 34 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 35 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 36 | [Massive](http://twitter.com/search?q=Massive) | N/A |
+| 33 | [Massive](http://twitter.com/search?q=Massive) | N/A |
+| 34 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 35 | [PTCL](http://twitter.com/search?q=PTCL) | N/A |
+| 36 | [Hina](http://twitter.com/search?q=Hina) | N/A |
 | 37 | [Goosebumps](http://twitter.com/search?q=Goosebumps) | N/A |
-| 38 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 39 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
-| 41 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
-| 42 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 43 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
-| 44 | [Baji](http://twitter.com/search?q=Baji) | N/A |
-| 45 | [Mjhe](http://twitter.com/search?q=Mjhe) | N/A |
-| 46 | [Indeed Allah](http://twitter.com/search?q=Indeed+Allah) | N/A |
-| 47 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
-| 48 | [Cats](http://twitter.com/search?q=Cats) | N/A |
-| 49 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
-| 50 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 38 | [Madam](http://twitter.com/search?q=Madam) | N/A |
+| 39 | [Mohsin Naqvi](http://twitter.com/search?q=Mohsin+Naqvi) | N/A |
+| 40 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
+| 41 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 42 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
+| 43 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
+| 44 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
+| 45 | [Baji](http://twitter.com/search?q=Baji) | N/A |
+| 46 | [Impressive](http://twitter.com/search?q=Impressive) | N/A |
+| 47 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 48 | [London](http://twitter.com/search?q=London) | N/A |
+| 49 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 50 | [Mjhe](http://twitter.com/search?q=Mjhe) | N/A |
 
 
 

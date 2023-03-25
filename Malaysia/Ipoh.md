@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-25 19:16:32 UTC`
+📆 Last Updated: `2023-03-25 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 2 | [#SwissOpen2023](http://twitter.com/search?q=%23SwissOpen2023) | N/A |
-| 3 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 4 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
+| 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 3 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
+| 4 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 7 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
@@ -34,21 +34,21 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 17 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 19 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 20 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 21 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 22 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 23 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
-| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 25 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 26 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 27 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 29 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 30 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
-| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 32 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 33 | [MELT](http://twitter.com/search?q=MELT) | N/A |
-| 34 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 20 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 21 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 22 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
+| 23 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 24 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 25 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
+| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 28 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 30 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 31 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 32 | [MELT](http://twitter.com/search?q=MELT) | N/A |
+| 33 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 34 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
 | 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 36 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
 | 37 | [Expert](http://twitter.com/search?q=Expert) | N/A |
@@ -56,14 +56,14 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 39 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
 | 40 | [Yong](http://twitter.com/search?q=Yong) | N/A |
 | 41 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 42 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 43 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 44 | [puspakom](http://twitter.com/search?q=puspakom) | N/A |
-| 45 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 42 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 43 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 45 | [puspakom](http://twitter.com/search?q=puspakom) | N/A |
 | 46 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
 | 47 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 48 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 49 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 49 | [Karen](http://twitter.com/search?q=Karen) | N/A |
 
 
 

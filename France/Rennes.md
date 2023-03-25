@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-25 19:16:20 UTC`
+📆 Last Updated: `2023-03-25 20:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
-| 2 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
-| 3 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
-| 4 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
+| 2 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
+| 3 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
+| 4 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
 | 5 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 6 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
-| 7 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
-| 8 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 9 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 10 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
-| 11 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 6 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 7 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 8 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
+| 9 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 10 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 11 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
 | 12 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
-| 13 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
-| 14 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 15 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
-| 16 | [Arménie](http://twitter.com/search?q=Arm%c3%a9nie) | N/A |
-| 17 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 18 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 19 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 20 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 21 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 22 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 23 | [Castres](http://twitter.com/search?q=Castres) | N/A |
-| 24 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
-| 25 | [Brive](http://twitter.com/search?q=Brive) | N/A |
-| 26 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 27 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 28 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
-| 29 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 30 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
-| 31 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
-| 32 | [Gégé](http://twitter.com/search?q=G%c3%a9g%c3%a9) | N/A |
-| 33 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 34 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 35 | [#ASMCAB](http://twitter.com/search?q=%23ASMCAB) | N/A |
-| 36 | [#ABSP](http://twitter.com/search?q=%23ABSP) | N/A |
-| 37 | [#LOURCT](http://twitter.com/search?q=%23LOURCT) | N/A |
-| 38 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 14 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 15 | [Arménie](http://twitter.com/search?q=Arm%c3%a9nie) | N/A |
+| 16 | [EELV](http://twitter.com/search?q=EELV) | N/A |
+| 17 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
+| 18 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 19 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 20 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 21 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 22 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
+| 23 | [Gluto](http://twitter.com/search?q=Gluto) | N/A |
+| 24 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 25 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 26 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 27 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
+| 28 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 29 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
+| 30 | [Landes](http://twitter.com/search?q=Landes) | N/A |
+| 31 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
+| 32 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 33 | [Gégé](http://twitter.com/search?q=G%c3%a9g%c3%a9) | N/A |
+| 34 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
+| 35 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 36 | [#LMDLA](http://twitter.com/search?q=%23LMDLA) | N/A |
+| 37 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 38 | [#UBBSR](http://twitter.com/search?q=%23UBBSR) | N/A |
 | 39 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
-| 40 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
-| 41 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
-| 42 | [#DeuxSevres](http://twitter.com/search?q=%23DeuxSevres) | N/A |
-| 43 | [#gendarmes](http://twitter.com/search?q=%23gendarmes) | N/A |
-| 44 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
-| 45 | [#CongresHorizons](http://twitter.com/search?q=%23CongresHorizons) | N/A |
-| 46 | [#Manif25mars](http://twitter.com/search?q=%23Manif25mars) | N/A |
-| 47 | [#EELV](http://twitter.com/search?q=%23EELV) | N/A |
+| 40 | [#Manif25mars](http://twitter.com/search?q=%23Manif25mars) | N/A |
+| 41 | [#ASMCAB](http://twitter.com/search?q=%23ASMCAB) | N/A |
+| 42 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 43 | [#LOURCT](http://twitter.com/search?q=%23LOURCT) | N/A |
+| 44 | [#ABSP](http://twitter.com/search?q=%23ABSP) | N/A |
+| 45 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
+| 46 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 47 | [#DeuxSevres](http://twitter.com/search?q=%23DeuxSevres) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-25 19:16:49 UTC`
+📆 Last Updated: `2023-03-25 20:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
-| 2 | [#SMH2023](http://twitter.com/search?q=%23SMH2023) | N/A |
-| 3 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 5 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 6 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 7 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 8 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 11 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
-| 12 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 13 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 14 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 15 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 16 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 17 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 18 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 19 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
-| 20 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 2 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 3 | [Cult](http://twitter.com/search?q=Cult) | N/A |
+| 4 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 5 | [#SMH2023](http://twitter.com/search?q=%23SMH2023) | N/A |
+| 6 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 7 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 8 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 9 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 11 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 12 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 13 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 14 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
+| 15 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 16 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 17 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 19 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 20 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
 | 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 23 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 24 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 25 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 26 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 27 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 28 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 29 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
-| 30 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 31 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 32 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 22 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 23 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 24 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
+| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 26 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 27 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 28 | [Atlantic Division](http://twitter.com/search?q=Atlantic+Division) | N/A |
+| 29 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 30 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 31 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 32 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
 | 33 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 34 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 35 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
-| 36 | [Jamar Cain](http://twitter.com/search?q=Jamar+Cain) | N/A |
-| 37 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 38 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
-| 39 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 40 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
-| 41 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 42 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 43 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 44 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 45 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 46 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 47 | [Meryl](http://twitter.com/search?q=Meryl) | Meryl is a female given name of French origin, derived from the name Mary. It is a combination of Mary and the suffix -el, meaning "beloved". |
-| 48 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 49 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
+| 34 | [Carter Hart](http://twitter.com/search?q=Carter+Hart) | N/A |
+| 35 | [COTA](http://twitter.com/search?q=COTA) | N/A |
+| 36 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 37 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 38 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 39 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 40 | [Ty Floyd](http://twitter.com/search?q=Ty+Floyd) | N/A |
+| 41 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 42 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
+| 43 | [Tolvy](http://twitter.com/search?q=Tolvy) | N/A |
+| 44 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 45 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
+| 46 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 47 | [Deer Lakes](http://twitter.com/search?q=Deer+Lakes) | N/A |
+| 48 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 49 | [Sea Dragons](http://twitter.com/search?q=Sea+Dragons) | N/A |
 
 
 

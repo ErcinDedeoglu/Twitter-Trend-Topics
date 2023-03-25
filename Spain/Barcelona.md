@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-25 19:16:23 UTC`
+📆 Last Updated: `2023-03-25 20:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 2 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 3 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 4 | [#LeoTolkien](http://twitter.com/search?q=%23LeoTolkien) | N/A |
-| 5 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
-| 6 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 7 | [Athenea](http://twitter.com/search?q=Athenea) | N/A |
-| 8 | [#AlavesTenerife](http://twitter.com/search?q=%23AlavesTenerife) | N/A |
-| 9 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 10 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 11 | [Olmo](http://twitter.com/search?q=Olmo) | N/A |
-| 12 | [#pucherazo](http://twitter.com/search?q=%23pucherazo) | N/A |
-| 13 | [Yoyas](http://twitter.com/search?q=Yoyas) | N/A |
-| 14 | [Misha](http://twitter.com/search?q=Misha) | N/A |
-| 15 | [Nacho y Carvajal](http://twitter.com/search?q=Nacho+y+Carvajal) | N/A |
-| 16 | [Toril](http://twitter.com/search?q=Toril) | N/A |
-| 17 | [#ForzaBreo](http://twitter.com/search?q=%23ForzaBreo) | N/A |
-| 18 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
-| 19 | [Weir](http://twitter.com/search?q=Weir) | N/A |
-| 20 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 21 | [Geyse](http://twitter.com/search?q=Geyse) | Geyse is a Spanish word that means "to give". |
-| 22 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 23 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 24 | [Johan Cruyff](http://twitter.com/search?q=Johan+Cruyff) | N/A |
-| 25 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 26 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 27 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 28 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 29 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 30 | [Córdoba](http://twitter.com/search?q=C%c3%b3rdoba) | N/A |
-| 31 | [El Sardinero](http://twitter.com/search?q=El+Sardinero) | N/A |
-| 32 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 33 | [Recordad](http://twitter.com/search?q=Recordad) | N/A |
-| 34 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
-| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 36 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 37 | [Culos](http://twitter.com/search?q=Culos) | N/A |
-| 38 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 39 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 40 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
-| 41 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 42 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
-| 43 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 44 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 45 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 46 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 47 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 48 | [Pantomima Full](http://twitter.com/search?q=Pantomima+Full) | N/A |
-| 49 | [Portimao](http://twitter.com/search?q=Portimao) | N/A |
-| 50 | [SEPE](http://twitter.com/search?q=SEPE) | N/A |
+| 2 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 3 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
+| 4 | [#EspanaNoruega](http://twitter.com/search?q=%23EspanaNoruega) | N/A |
+| 5 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 6 | [Athenea](http://twitter.com/search?q=Athenea) | N/A |
+| 7 | [#BCNEurovision](http://twitter.com/search?q=%23BCNEurovision) | N/A |
+| 8 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 9 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 10 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 11 | [#LeoTolkien](http://twitter.com/search?q=%23LeoTolkien) | N/A |
+| 12 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 13 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 14 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 15 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 16 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 17 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 18 | [Juan Carlos Rivero](http://twitter.com/search?q=Juan+Carlos+Rivero) | Juan Carlos Rivero is a Spanish name. It is composed of two given names, Juan and Carlos, and the surname Rivero. In English, it would translate to John Charles Rivero. |
+| 19 | [#AlavesTenerife](http://twitter.com/search?q=%23AlavesTenerife) | N/A |
+| 20 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 21 | [Toril](http://twitter.com/search?q=Toril) | N/A |
+| 22 | [Levante](http://twitter.com/search?q=Levante) | Levante is a Spanish word that means "to rise" or "to lift up." It is often used to refer to the rising of the sun, or to describe a person who is determined and motivated to achieve their goals. In English, it can be translated as "rise up," "lift up," or "get up." |
+| 23 | [Nacho y Carvajal](http://twitter.com/search?q=Nacho+y+Carvajal) | N/A |
+| 24 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 25 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 26 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
+| 27 | [Mapi](http://twitter.com/search?q=Mapi) | N/A |
+| 28 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
+| 29 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 30 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 31 | [Yoyas](http://twitter.com/search?q=Yoyas) | N/A |
+| 32 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 33 | [Keira](http://twitter.com/search?q=Keira) | N/A |
+| 34 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 35 | [Geyse](http://twitter.com/search?q=Geyse) | Geyse is a Spanish word that means "to give". |
+| 36 | [Weir](http://twitter.com/search?q=Weir) | N/A |
+| 37 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 38 | [El Arcángel](http://twitter.com/search?q=El+Arc%c3%a1ngel) | N/A |
+| 39 | [Mendizorroza](http://twitter.com/search?q=Mendizorroza) | N/A |
+| 40 | [Johan Cruyff](http://twitter.com/search?q=Johan+Cruyff) | N/A |
+| 41 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 42 | [Pombo](http://twitter.com/search?q=Pombo) | N/A |
+| 43 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 44 | [Córdoba](http://twitter.com/search?q=C%c3%b3rdoba) | N/A |
+| 45 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 46 | [Recordad](http://twitter.com/search?q=Recordad) | N/A |
+| 47 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 48 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 49 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
+| 50 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 
 
 
