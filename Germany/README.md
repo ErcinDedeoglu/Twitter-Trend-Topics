@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-25 14:18:02 UTC`
+📆 Last Updated: `2023-03-25 15:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Germany
 | 5 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 6 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 7 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 8 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 9 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 8 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 9 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
 | 10 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 12 | [Garbe Transport](http://twitter.com/search?q=Garbe+Transport) | N/A |
-| 13 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 15 | [efuels](http://twitter.com/search?q=efuels) | N/A |
-| 16 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 17 | [Handgranaten](http://twitter.com/search?q=Handgranaten) | N/A |
-| 18 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 19 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 20 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 21 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 22 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 11 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 12 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 15 | [Handgranaten](http://twitter.com/search?q=Handgranaten) | N/A |
+| 16 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 17 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 18 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 19 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
+| 20 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
+| 21 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 22 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
 | 23 | [Sally](http://twitter.com/search?q=Sally) | N/A |
 | 24 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
 | 25 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 26 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 27 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 29 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 30 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 31 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 32 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 33 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 34 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
-| 35 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 36 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 37 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 38 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 39 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 40 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
-| 41 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 42 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 43 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 44 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 45 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
-| 46 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
-| 47 | [Saublöd](http://twitter.com/search?q=Saubl%c3%b6d) | N/A |
-| 48 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
-| 49 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 50 | [Leistungskurve](http://twitter.com/search?q=Leistungskurve) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 28 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 29 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
+| 30 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
+| 31 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 32 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
+| 33 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 34 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 35 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 36 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 37 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 38 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 39 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 40 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 41 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 42 | [bademeister](http://twitter.com/search?q=bademeister) | N/A |
+| 43 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 44 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 45 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 46 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 47 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 48 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 49 | [Schlafmodus](http://twitter.com/search?q=Schlafmodus) | N/A |
+| 50 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 
 
 

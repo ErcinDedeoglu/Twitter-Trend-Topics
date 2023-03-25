@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-25 14:17:49 UTC`
+📆 Last Updated: `2023-03-25 15:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 2 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 5 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 8 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 5 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 6 | [#RWBYV9Spoilers](http://twitter.com/search?q=%23RWBYV9Spoilers) | N/A |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 8 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
 | 10 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 11 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 12 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 13 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 14 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 11 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 12 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 13 | [Luis Severino](http://twitter.com/search?q=Luis+Severino) | N/A |
+| 14 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
 | 15 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 16 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 17 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 18 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 19 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 20 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 21 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 16 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 17 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 18 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 19 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 20 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 21 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 22 | [Sibelius](http://twitter.com/search?q=Sibelius) | N/A |
 | 23 | [Annunciation](http://twitter.com/search?q=Annunciation) | N/A |
-| 24 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 25 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 26 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 27 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 29 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
-| 30 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
-| 31 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 32 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 33 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 34 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 35 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
-| 36 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 37 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 38 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
-| 39 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 40 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
-| 41 | [Druski](http://twitter.com/search?q=Druski) | N/A |
-| 42 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
-| 43 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
-| 44 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 45 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 46 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 47 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
-| 48 | [Limited](http://twitter.com/search?q=Limited) | N/A |
+| 24 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 25 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 26 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 27 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 28 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
+| 29 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 30 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 31 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 32 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
+| 33 | [Donk](http://twitter.com/search?q=Donk) | N/A |
+| 34 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 35 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
+| 36 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 37 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
+| 38 | [Timothy McVeigh](http://twitter.com/search?q=Timothy+McVeigh) | N/A |
+| 39 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 40 | [Joplin](http://twitter.com/search?q=Joplin) | N/A |
+| 41 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 42 | [Mars in Cancer](http://twitter.com/search?q=Mars+in+Cancer) | N/A |
+| 43 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 44 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 45 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 46 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 47 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 48 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 49 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 50 | [Limited](http://twitter.com/search?q=Limited) | N/A |
 
 
 

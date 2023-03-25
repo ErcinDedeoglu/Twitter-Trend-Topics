@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-25 14:17:16 UTC`
+📆 Last Updated: `2023-03-25 15:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
-| 2 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
+| 2 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
 | 3 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 4 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 4 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
 | 5 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 6 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
-| 7 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
-| 8 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
-| 9 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
-| 10 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
-| 11 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 12 | [Pirate](http://twitter.com/search?q=Pirate) | N/A |
-| 13 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 6 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
+| 7 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 8 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 9 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 10 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 11 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
+| 12 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 13 | [Pirate](http://twitter.com/search?q=Pirate) | N/A |
 | 14 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
-| 15 | [pierre hermé](http://twitter.com/search?q=pierre+herm%c3%a9) | N/A |
-| 16 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
-| 17 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
-| 18 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 19 | [Le Brésil](http://twitter.com/search?q=Le+Br%c3%a9sil) | N/A |
-| 20 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 15 | [Castres](http://twitter.com/search?q=Castres) | N/A |
+| 16 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
+| 17 | [Pierre Hermé](http://twitter.com/search?q=Pierre+Herm%c3%a9) | N/A |
+| 18 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 19 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
+| 20 | [Le Brésil](http://twitter.com/search?q=Le+Br%c3%a9sil) | N/A |
 | 21 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 22 | [EELV](http://twitter.com/search?q=EELV) | N/A |
-| 23 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
+| 22 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 23 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
 | 24 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
-| 25 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 26 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 27 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 28 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 30 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 31 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 32 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 33 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
-| 34 | [Aurore](http://twitter.com/search?q=Aurore) | N/A |
-| 35 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
-| 36 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
-| 37 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
-| 38 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 39 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
-| 40 | [#ZECourse](http://twitter.com/search?q=%23ZECourse) | N/A |
-| 41 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
-| 42 | [#DarmaninDemission](http://twitter.com/search?q=%23DarmaninDemission) | N/A |
-| 43 | [#BravM](http://twitter.com/search?q=%23BravM) | N/A |
-| 44 | [#gendarmes](http://twitter.com/search?q=%23gendarmes) | N/A |
-| 45 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 46 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 47 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 48 | [#ChangementDheure](http://twitter.com/search?q=%23ChangementDheure) | N/A |
-| 49 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
+| 25 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 26 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 27 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 28 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 29 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
+| 30 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
+| 31 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 32 | [#EMCRD23](http://twitter.com/search?q=%23EMCRD23) | N/A |
+| 33 | [#CongresHorizons](http://twitter.com/search?q=%23CongresHorizons) | N/A |
+| 34 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
+| 35 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 36 | [#gendarmes](http://twitter.com/search?q=%23gendarmes) | N/A |
+| 37 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 38 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 39 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 40 | [#Villeurbanne](http://twitter.com/search?q=%23Villeurbanne) | N/A |
+| 41 | [#DarmaninDemission](http://twitter.com/search?q=%23DarmaninDemission) | N/A |
+| 42 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
+| 43 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
+| 44 | [#Gendarmerie](http://twitter.com/search?q=%23Gendarmerie) | N/A |
+| 45 | [#ZECourse](http://twitter.com/search?q=%23ZECourse) | N/A |
+| 46 | [#EELV](http://twitter.com/search?q=%23EELV) | N/A |
+| 47 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
+| 48 | [#BRAV_M](http://twitter.com/search?q=%23BRAV_M) | N/A |
 
 
 

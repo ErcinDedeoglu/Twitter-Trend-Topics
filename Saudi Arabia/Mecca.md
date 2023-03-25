@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-25 14:17:38 UTC`
+📆 Last Updated: `2023-03-25 15:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
-| 2 | [#رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
-| 3 | [#مكافاه_مصرف_الراجحي](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 4 | [#السعوديه_فنزويلا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d9%81%d9%86%d8%b2%d9%88%d9%8a%d9%84%d8%a7) | N/A |
-| 5 | [#استقبال_ولي_العهد_للمواطنين](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7%d9%84_%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d9%84%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
-| 6 | [#مسابقه_طرق_الرياض3](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b63) | N/A |
-| 7 | [مطار الملك](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | مطار الملك (King Khalid International Airport) is an airport located 35 kilometers north of Riyadh, the capital of Saudi Arabia. It is the largest airport in the country and serves as a hub for Saudia, Flynas, and Saudi Arabian Airlines. In English, it translates to King Khalid International Airport. |
-| 8 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 9 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 10 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 11 | [سعد بن معاذ](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
-| 12 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
-| 13 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
-| 14 | [باسم ربك](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%b1%d8%a8%d9%83) | N/A |
-| 15 | [الملايكه المترددات](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%8a%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%af%d8%af%d8%a7%d8%aa) | N/A |
-| 16 | [سلمان الدولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 17 | [عثمان بن عفان رضي](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86+%d8%b1%d8%b6%d9%8a) | N/A |
-| 18 | [غراهام بيل](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%8a%d9%84) | N/A |
-| 19 | [علم المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 20 | [السوال الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 21 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 22 | [فهد بن جلوي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a8%d9%86+%d8%ac%d9%84%d9%88%d9%8a) | N/A |
-| 23 | [ناصر القصبي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%82%d8%b5%d8%a8%d9%8a) | N/A |
-| 24 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 25 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 26 | [هاري بوتر](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
-| 27 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
-| 28 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 29 | [كوكب الزهره](http://twitter.com/search?q=%d9%83%d9%88%d9%83%d8%a8+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d9%87) | N/A |
-| 30 | [سان مارتن](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86+%d9%85%d8%a7%d8%b1%d8%aa%d9%86) | N/A |
-| 31 | [خمس سور](http://twitter.com/search?q=%d8%ae%d9%85%d8%b3+%d8%b3%d9%88%d8%b1) | N/A |
-| 32 | [السيارات الفاخره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
-| 33 | [اللهجه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d8%ac%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 34 | [التوكيلات العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%83%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 35 | [عبدالعزيز وبندر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d9%88%d8%a8%d9%86%d8%af%d8%b1) | N/A |
-| 36 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 37 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 38 | [المعرفه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 39 | [رونالدينهو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 40 | [CR-23](http://twitter.com/search?q=CR-23) | N/A |
-| 41 | [علي الفطور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
-| 42 | [شاي كرك](http://twitter.com/search?q=%d8%b4%d8%a7%d9%8a+%d9%83%d8%b1%d9%83) | N/A |
-| 43 | [ميدان نجران](http://twitter.com/search?q=%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
-| 44 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
-| 45 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 47 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 48 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 49 | [غير الضروريه](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [مودي الصوت](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%8a+%d8%a7%d9%84%d8%b5%d9%88%d8%aa) | N/A |
+| 1 | [#عتق_رقبه_خالد_الحويطي1](http://twitter.com/search?q=%23%d8%b9%d8%aa%d9%82_%d8%b1%d9%82%d8%a8%d9%87_%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b7%d9%8a1) | N/A |
+| 2 | [#رفع_هاشتاق_ترند_θ55ちち899θ3](http://twitter.com/search?q=%23%d8%b1%d9%81%d8%b9_%d9%87%d8%a7%d8%b4%d8%aa%d8%a7%d9%82_%d8%aa%d8%b1%d9%86%d8%af_%ce%b855%e3%81%a1%e3%81%a1899%ce%b83) | N/A |
+| 3 | [سعد بن معاذ](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
+| 4 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
+| 5 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
+| 6 | [٣ رمضان](http://twitter.com/search?q=%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 7 | [#برنامج_فضايي3](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d9%81%d8%b6%d8%a7%d9%8a%d9%8a3) | N/A |
+| 8 | [#رمضان٢٠٢٣](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%a2%d9%a0%d9%a2%d9%a3) | N/A |
+| 9 | [#رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
+| 10 | [غراهام بيل](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a7%d9%87%d8%a7%d9%85+%d8%a8%d9%8a%d9%84) | N/A |
+| 11 | [هاري بوتر](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d8%a8%d9%88%d8%aa%d8%b1) | N/A |
+| 12 | [باسم ربك](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d8%b1%d8%a8%d9%83) | N/A |
+| 13 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 14 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 15 | [CR-23](http://twitter.com/search?q=CR-23) | N/A |
+| 16 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 17 | [مطار الملك](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | مطار الملك (King Khalid International Airport) is an airport located 35 kilometers north of Riyadh, the capital of Saudi Arabia. It is the largest airport in the country and serves as a hub for Saudia, Flynas, and Saudi Arabian Airlines. In English, it translates to King Khalid International Airport. |
+| 18 | [رمضان الجاي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 19 | [احمد الشقيري](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d8%b1%d9%8a) | احمد الشقيري is the name of a famous Iraqi poet and writer. In English, it translates to "Ahmed Al-Shaqiri". |
+| 20 | [سلمان الدولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 21 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
+| 22 | [الملايكه المترددات](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%8a%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%af%d8%af%d8%a7%d8%aa) | N/A |
+| 23 | [برا البيت](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d8%a8%d9%8a%d8%aa) | N/A |
+| 24 | [علي الاذان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
+| 25 | [الفطره السليمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b7%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85%d9%87) | N/A |
+| 26 | [هانت باقي](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d8%aa+%d8%a8%d8%a7%d9%82%d9%8a) | N/A |
+| 27 | [#ولي_العهد_الامير_محمد_بن_سلمان](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1_%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 28 | [#ساعه_الارض](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 29 | [#تبوك](http://twitter.com/search?q=%23%d8%aa%d8%a8%d9%88%d9%83) | N/A |
+| 30 | [#اسواق_العثيم](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%88%d8%a7%d9%82_%d8%a7%d9%84%d8%b9%d8%ab%d9%8a%d9%85) | N/A |
+| 31 | [#موسم_رمضان](http://twitter.com/search?q=%23%d9%85%d9%88%d8%b3%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 32 | [#مسابقه_يحي_رياني](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d9%8a%d8%ad%d9%8a_%d8%b1%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
+| 33 | [#الانضباط_المدرسي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 34 | [#فوازير4_ابوعمر6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b14_%d8%a7%d8%a8%d9%88%d8%b9%d9%85%d8%b16) | N/A |
+| 35 | [#مسابقه_المربع_نت3](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa3) | N/A |
+| 36 | [#مسابقه_طرق_الرياض3](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b63) | N/A |
+| 37 | [#سوال_اليوم](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 38 | [#جايز_انت_الفايز](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%8a%d8%b2_%d8%a7%d9%86%d8%aa_%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2) | N/A |
+| 39 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 40 | [#مسابقه_ورتله_ترتيلا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d9%88%d8%b1%d8%aa%d9%84%d9%87_%d8%aa%d8%b1%d8%aa%d9%8a%d9%84%d8%a7) | N/A |
+| 41 | [#مسك_الختام3](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%83_%d8%a7%d9%84%d8%ae%d8%aa%d8%a7%d9%853) | N/A |
+| 42 | [#ميسي_مطلب_الاتحاديين](http://twitter.com/search?q=%23%d9%85%d9%8a%d8%b3%d9%8a_%d9%85%d8%b7%d9%84%d8%a8_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d9%8a%d9%86) | N/A |
+| 43 | [#دعاء](http://twitter.com/search?q=%23%d8%af%d8%b9%d8%a7%d8%a1) | N/A |
+| 44 | [#المضمر_في_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b6%d9%85%d8%b1_%d9%81%d9%8a_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 45 | [#موسسه_العنود](http://twitter.com/search?q=%23%d9%85%d9%88%d8%b3%d8%b3%d9%87_%d8%a7%d9%84%d8%b9%d9%86%d9%88%d8%af) | N/A |
+| 46 | [#مسابقه_معالم_التدبر](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d9%85%d8%b9%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%aa%d8%af%d8%a8%d8%b1) | N/A |
+| 47 | [#فوازير_رمضان_للصغار](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%84%d9%84%d8%b5%d8%ba%d8%a7%d8%b1) | N/A |
+| 48 | [#هدايا_الفجر_الرمضانيه](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%a7%d9%84%d9%81%d8%ac%d8%b1_%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 49 | [#اذاعه_القران_الكريم](http://twitter.com/search?q=%23%d8%a7%d8%b0%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86_%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-25 14:17:19 UTC`
+📆 Last Updated: `2023-03-25 15:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#25marzo](http://twitter.com/search?q=%2325marzo) | N/A |
 | 2 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
-| 3 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
-| 4 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
-| 5 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 3 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
+| 4 | [#FelicissimaSera](http://twitter.com/search?q=%23FelicissimaSera) | N/A |
+| 5 | [#donnamania](http://twitter.com/search?q=%23donnamania) | N/A |
 | 6 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
-| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 8 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 9 | [David di Michelangelo](http://twitter.com/search?q=David+di+Michelangelo) | N/A |
-| 10 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
-| 11 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 12 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 13 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 14 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 15 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 7 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 8 | [David di Michelangelo](http://twitter.com/search?q=David+di+Michelangelo) | N/A |
+| 9 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 11 | [Pio e Amedeo](http://twitter.com/search?q=Pio+e+Amedeo) | N/A |
+| 12 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 13 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 14 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 15 | [Irma Testa](http://twitter.com/search?q=Irma+Testa) | N/A |
 | 16 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 17 | [Loretta](http://twitter.com/search?q=Loretta) | N/A |
+| 17 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
 | 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 19 | [Pino Insegno](http://twitter.com/search?q=Pino+Insegno) | N/A |
 | 20 | [Antifascisti](http://twitter.com/search?q=Antifascisti) | N/A |
-| 21 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
-| 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 23 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 25 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 26 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
-| 27 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
-| 28 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 29 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 30 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
-| 31 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 32 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 21 | [Goggi](http://twitter.com/search?q=Goggi) | N/A |
+| 22 | [Il 25](http://twitter.com/search?q=Il+25) | N/A |
+| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 24 | [Zuleyha](http://twitter.com/search?q=Zuleyha) | N/A |
+| 25 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 26 | [Salerno](http://twitter.com/search?q=Salerno) | N/A |
+| 27 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 28 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 29 | [ridge](http://twitter.com/search?q=ridge) | N/A |
+| 30 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 31 | [Mujgan](http://twitter.com/search?q=Mujgan) | N/A |
+| 32 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
 | 33 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 34 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 35 | [Storia](http://twitter.com/search?q=Storia) | N/A |
-| 36 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 37 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 38 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 39 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 40 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 41 | [Virna](http://twitter.com/search?q=Virna) | N/A |
-| 42 | [Aubameyang](http://twitter.com/search?q=Aubameyang) | N/A |
-| 43 | [Tasso](http://twitter.com/search?q=Tasso) | N/A |
-| 44 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
-| 45 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 48 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 49 | [Conad](http://twitter.com/search?q=Conad) | N/A |
-| 50 | [Giraudo](http://twitter.com/search?q=Giraudo) | N/A |
+| 34 | [Yilmaz](http://twitter.com/search?q=Yilmaz) | N/A |
+| 35 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 36 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 37 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 38 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 39 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 40 | [Storia](http://twitter.com/search?q=Storia) | N/A |
+| 41 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 42 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 43 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 44 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 45 | [virna](http://twitter.com/search?q=virna) | N/A |
+| 46 | [Orsolini](http://twitter.com/search?q=Orsolini) | N/A |
+| 47 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
+| 50 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 
 
 

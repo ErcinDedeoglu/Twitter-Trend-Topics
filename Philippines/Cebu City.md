@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-25 14:17:32 UTC`
+📆 Last Updated: `2023-03-25 15:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DonBelle](http://twitter.com/search?q=%23DonBelle) | N/A |
-| 2 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 3 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
-| 4 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 5 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 6 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
-| 7 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 8 | [#AlamatCanSeeYourVoice](http://twitter.com/search?q=%23AlamatCanSeeYourVoice) | N/A |
-| 9 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
-| 10 | [BANGTAN](http://twitter.com/search?q=BANGTAN) | N/A |
-| 11 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 12 | [BGYO TOMORROW AT AYALAFELIZ](http://twitter.com/search?q=BGYO+TOMORROW+AT+AYALAFELIZ) | N/A |
+| 2 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 3 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 4 | [XIUMIN](http://twitter.com/search?q=XIUMIN) | N/A |
+| 5 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 6 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 7 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
+| 8 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 9 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
+| 10 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 11 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 12 | [bangtan](http://twitter.com/search?q=bangtan) | N/A |
 | 13 | [MY TANNIES](http://twitter.com/search?q=MY+TANNIES) | N/A |
-| 14 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 15 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
-| 16 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
-| 17 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 18 | [OUR SUMMER](http://twitter.com/search?q=OUR+SUMMER) | N/A |
+| 14 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 15 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
+| 16 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 17 | [BGYO TOMORROW AT AYALAFELIZ](http://twitter.com/search?q=BGYO+TOMORROW+AT+AYALAFELIZ) | N/A |
+| 18 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
 | 19 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
-| 20 | [JIN HYUNG](http://twitter.com/search?q=JIN+HYUNG) | N/A |
+| 20 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
 | 21 | [SEENGER](http://twitter.com/search?q=SEENGER) | N/A |
-| 22 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 23 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
-| 24 | [MY LOVES](http://twitter.com/search?q=MY+LOVES) | N/A |
-| 25 | [Jazareno](http://twitter.com/search?q=Jazareno) | N/A |
-| 26 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
-| 27 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 28 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
-| 29 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 30 | [CEOALDEN PhilEsportsAwards](http://twitter.com/search?q=CEOALDEN+PhilEsportsAwards) | N/A |
-| 31 | [Kuma](http://twitter.com/search?q=Kuma) | N/A |
-| 32 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 33 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 34 | [Jardio](http://twitter.com/search?q=Jardio) | N/A |
-| 35 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 36 | [alinsug](http://twitter.com/search?q=alinsug) | N/A |
-| 37 | [Coach Karl](http://twitter.com/search?q=Coach+Karl) | N/A |
-| 38 | [MY HEART](http://twitter.com/search?q=MY+HEART) | N/A |
-| 39 | [ZACHAM CHOSEN BARKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+BARKADA) | N/A |
-| 40 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
-| 41 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
-| 42 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 43 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 44 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
-| 45 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 22 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 23 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
+| 24 | [CEOALDEN PhilEsportsAwards](http://twitter.com/search?q=CEOALDEN+PhilEsportsAwards) | N/A |
+| 25 | [MY LOVES](http://twitter.com/search?q=MY+LOVES) | N/A |
+| 26 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 27 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 28 | [Kuma](http://twitter.com/search?q=Kuma) | N/A |
+| 29 | [OUR SUMMER](http://twitter.com/search?q=OUR+SUMMER) | N/A |
+| 30 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 31 | [canino](http://twitter.com/search?q=canino) | N/A |
+| 32 | [MY HEART](http://twitter.com/search?q=MY+HEART) | N/A |
+| 33 | [zacham chosen barkada](http://twitter.com/search?q=zacham+chosen+barkada) | N/A |
+| 34 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 35 | [DLSU](http://twitter.com/search?q=DLSU) | N/A |
+| 36 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
+| 37 | [VXON C13 COMEBACK TEASER](http://twitter.com/search?q=VXON+C13+COMEBACK+TEASER) | N/A |
+| 38 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 40 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 41 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 42 | [La Salle](http://twitter.com/search?q=La+Salle) | N/A |
+| 43 | [I'M CRYING](http://twitter.com/search?q=I%27M+CRYING) | N/A |
+| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 45 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 46 | [CRDJ](http://twitter.com/search?q=CRDJ) | N/A |
-| 47 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 48 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 49 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 50 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 47 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
+| 48 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 49 | [Jolens](http://twitter.com/search?q=Jolens) | N/A |
+| 50 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
 
 
 

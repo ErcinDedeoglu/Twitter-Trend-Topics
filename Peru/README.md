@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-25 14:18:05 UTC`
+📆 Last Updated: `2023-03-25 15:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 2 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 3 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 5 | [#WangYibo_WeiboNight2022](http://twitter.com/search?q=%23WangYibo_WeiboNight2022) | N/A |
-| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 7 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 8 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 9 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 10 | [Ester 10](http://twitter.com/search?q=Ester+10) | N/A |
-| 11 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
-| 12 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
-| 13 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
-| 14 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 15 | [emanuel herrera](http://twitter.com/search?q=emanuel+herrera) | N/A |
-| 16 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 17 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 19 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 20 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
-| 21 | [Los Niños](http://twitter.com/search?q=Los+Ni%c3%b1os) | N/A |
-| 22 | [URRUTI](http://twitter.com/search?q=URRUTI) | N/A |
-| 23 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 24 | [face is coming](http://twitter.com/search?q=face+is+coming) | N/A |
-| 25 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
-| 26 | [Sergio Tarache Parra](http://twitter.com/search?q=Sergio+Tarache+Parra) | N/A |
-| 27 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 29 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
-| 30 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
-| 31 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 32 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
-| 33 | [Nancy Tolentino](http://twitter.com/search?q=Nancy+Tolentino) | N/A |
-| 34 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
-| 35 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 36 | [Don Gil](http://twitter.com/search?q=Don+Gil) | Don Gil is a Spanish phrase meaning "Mr. Gil". It is often used as a nickname for someone named Gil, or as a term of endearment for someone close to the speaker. |
-| 37 | [Soncco](http://twitter.com/search?q=Soncco) | N/A |
-| 38 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 39 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 40 | [side by side tour](http://twitter.com/search?q=side+by+side+tour) | N/A |
-| 41 | [APRA](http://twitter.com/search?q=APRA) | N/A |
-| 42 | [Ancajima](http://twitter.com/search?q=Ancajima) | N/A |
-| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 45 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 46 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 47 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 48 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 1 | [Kimberly García](http://twitter.com/search?q=Kimberly+Garc%c3%ada) | N/A |
+| 2 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 3 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 5 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 6 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
+| 7 | [Eslovaquia](http://twitter.com/search?q=Eslovaquia) | N/A |
+| 8 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 9 | [Ester 10](http://twitter.com/search?q=Ester+10) | N/A |
+| 10 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 11 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 12 | [Luciana León](http://twitter.com/search?q=Luciana+Le%c3%b3n) | N/A |
+| 13 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 14 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
+| 15 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 16 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
+| 17 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 18 | [Emanuel Herrera](http://twitter.com/search?q=Emanuel+Herrera) | N/A |
+| 19 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 21 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
+| 22 | [Los Niños](http://twitter.com/search?q=Los+Ni%c3%b1os) | N/A |
+| 23 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 24 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 25 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 26 | [URRUTI](http://twitter.com/search?q=URRUTI) | N/A |
+| 27 | [face is coming](http://twitter.com/search?q=face+is+coming) | N/A |
+| 28 | [sergio tarache parra](http://twitter.com/search?q=sergio+tarache+parra) | N/A |
+| 29 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 30 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 31 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
+| 32 | [José Arriola](http://twitter.com/search?q=Jos%c3%a9+Arriola) | N/A |
+| 33 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
+| 34 | [Jean](http://twitter.com/search?q=Jean) | N/A |
+| 35 | [nancy tolentino](http://twitter.com/search?q=nancy+tolentino) | N/A |
+| 36 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 37 | [APRA](http://twitter.com/search?q=APRA) | N/A |
+| 38 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
+| 39 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 40 | [Don Gil](http://twitter.com/search?q=Don+Gil) | Don Gil is a Spanish phrase meaning "Mr. Gil". It is often used as a nickname for someone named Gil, or as a term of endearment for someone close to the speaker. |
+| 41 | [Soncco](http://twitter.com/search?q=Soncco) | N/A |
+| 42 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 43 | [side by side tour](http://twitter.com/search?q=side+by+side+tour) | N/A |
+| 44 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 45 | [gahela](http://twitter.com/search?q=gahela) | N/A |
+| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 47 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 48 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
 | 49 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 50 | [plaza dos de mayo](http://twitter.com/search?q=plaza+dos+de+mayo) | N/A |
+| 50 | [Acción Popular](http://twitter.com/search?q=Acci%c3%b3n+Popular) | N/A |
 
 
 

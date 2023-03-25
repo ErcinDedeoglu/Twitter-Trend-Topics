@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-25 14:17:24 UTC`
+📆 Last Updated: `2023-03-25 15:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
-| 2 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 3 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
-| 4 | [#ExcellencexMarkFord](http://twitter.com/search?q=%23ExcellencexMarkFord) | N/A |
-| 5 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 6 | [Chef Arnold](http://twitter.com/search?q=Chef+Arnold) | N/A |
-| 7 | [Lilipaly](http://twitter.com/search?q=Lilipaly) | N/A |
-| 8 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 9 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 10 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 11 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 12 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 1 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 2 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 3 | [HAPPY BIRTHDAY XIUMIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+XIUMIN) | N/A |
+| 4 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 5 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 6 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 7 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 8 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 9 | [Apri](http://twitter.com/search?q=Apri) | N/A |
+| 10 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 11 | [Lilipaly](http://twitter.com/search?q=Lilipaly) | N/A |
+| 12 | [KANGEN OT7](http://twitter.com/search?q=KANGEN+OT7) | N/A |
 | 13 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 14 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 15 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
-| 16 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
-| 17 | [KANGEN BANGET](http://twitter.com/search?q=KANGEN+BANGET) | N/A |
-| 18 | [Coki](http://twitter.com/search?q=Coki) | N/A |
-| 19 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 20 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 21 | [Tall](http://twitter.com/search?q=Tall) | N/A |
-| 22 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
-| 23 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
-| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 25 | [PUTUSIN](http://twitter.com/search?q=PUTUSIN) | N/A |
-| 26 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
-| 27 | [Pekanbaru](http://twitter.com/search?q=Pekanbaru) | N/A |
-| 28 | [Selamat Berbuka Puasa](http://twitter.com/search?q=Selamat+Berbuka+Puasa) | N/A |
-| 29 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 31 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 32 | [Berkah Ramadhan](http://twitter.com/search?q=Berkah+Ramadhan) | N/A |
-| 33 | [Pak Ganjar](http://twitter.com/search?q=Pak+Ganjar) | N/A |
-| 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 35 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 36 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 37 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 38 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
-| 39 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 40 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
-| 41 | [#BeRiTenangBiarMenang](http://twitter.com/search?q=%23BeRiTenangBiarMenang) | N/A |
-| 42 | [#Koboversary](http://twitter.com/search?q=%23Koboversary) | N/A |
-| 43 | [#BiroJomblo](http://twitter.com/search?q=%23BiroJomblo) | N/A |
-| 44 | [#BerkahGerobakPerindo](http://twitter.com/search?q=%23BerkahGerobakPerindo) | N/A |
-| 45 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 46 | [#Dilireba](http://twitter.com/search?q=%23Dilireba) | N/A |
-| 47 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 48 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 14 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
+| 15 | [chef arnold](http://twitter.com/search?q=chef+arnold) | N/A |
+| 16 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 17 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 18 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 19 | [Murid](http://twitter.com/search?q=Murid) | N/A |
+| 20 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 21 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
+| 22 | [SOUND CHECK FESTIVAL WITH BTOB](http://twitter.com/search?q=SOUND+CHECK+FESTIVAL+WITH+BTOB) | N/A |
+| 23 | [KANGEN BANGET](http://twitter.com/search?q=KANGEN+BANGET) | N/A |
+| 24 | [INDOMY LIKE CRAZY](http://twitter.com/search?q=INDOMY+LIKE+CRAZY) | N/A |
+| 25 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 26 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 27 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
+| 28 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
+| 29 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 30 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
+| 31 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 32 | [Coki](http://twitter.com/search?q=Coki) | N/A |
+| 33 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 34 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 35 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 36 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
+| 37 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 38 | [Pekanbaru](http://twitter.com/search?q=Pekanbaru) | N/A |
+| 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 40 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 41 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 42 | [Berkah Ramadhan](http://twitter.com/search?q=Berkah+Ramadhan) | N/A |
+| 43 | [Berbukalah](http://twitter.com/search?q=Berbukalah) | N/A |
+| 44 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 45 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
+| 46 | [#ExcellencexMarkFord](http://twitter.com/search?q=%23ExcellencexMarkFord) | N/A |
+| 47 | [#BTOBinThailand](http://twitter.com/search?q=%23BTOBinThailand) | N/A |
+| 48 | [#Koboversary](http://twitter.com/search?q=%23Koboversary) | N/A |
 
 
 

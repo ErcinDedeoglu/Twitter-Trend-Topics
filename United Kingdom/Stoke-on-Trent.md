@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-25 14:17:00 UTC`
+📆 Last Updated: `2023-03-25 15:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
-| 2 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
-| 3 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 4 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 5 | [#rugbyleague](http://twitter.com/search?q=%23rugbyleague) | N/A |
-| 6 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 7 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 8 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 9 | [Somerset](http://twitter.com/search?q=Somerset) | N/A |
-| 10 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 11 | [#SLLeeCat](http://twitter.com/search?q=%23SLLeeCat) | N/A |
-| 12 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 13 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 14 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 15 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 16 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 17 | [Size 9](http://twitter.com/search?q=Size+9) | N/A |
-| 18 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 19 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 20 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
-| 21 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 22 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
-| 23 | [Lewis Ferguson](http://twitter.com/search?q=Lewis+Ferguson) | N/A |
-| 24 | [Angus Gunn](http://twitter.com/search?q=Angus+Gunn) | N/A |
+| 1 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 2 | [Somerset](http://twitter.com/search?q=Somerset) | N/A |
+| 3 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
+| 4 | [#SLLeeCat](http://twitter.com/search?q=%23SLLeeCat) | N/A |
+| 5 | [#SCOCYP](http://twitter.com/search?q=%23SCOCYP) | N/A |
+| 6 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
+| 7 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 8 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 9 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 10 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 11 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 12 | [#bbcaq](http://twitter.com/search?q=%23bbcaq) | N/A |
+| 13 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
+| 14 | [Size 9](http://twitter.com/search?q=Size+9) | N/A |
+| 15 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 16 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
+| 17 | [STARTING XI](http://twitter.com/search?q=STARTING+XI) | N/A |
+| 18 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
+| 19 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 20 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 21 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 22 | [Angus Gunn](http://twitter.com/search?q=Angus+Gunn) | N/A |
+| 23 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
+| 24 | [lewis ferguson](http://twitter.com/search?q=lewis+ferguson) | N/A |
 | 25 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 26 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
-| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 28 | [Llantwit Major](http://twitter.com/search?q=Llantwit+Major) | N/A |
-| 29 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 30 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 31 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 32 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
-| 33 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 34 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 35 | [Nelson Piquet](http://twitter.com/search?q=Nelson+Piquet) | N/A |
-| 36 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 37 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 26 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 27 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
+| 28 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 29 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 30 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 31 | [Llantwit Major](http://twitter.com/search?q=Llantwit+Major) | N/A |
+| 32 | [nelson piquet](http://twitter.com/search?q=nelson+piquet) | N/A |
+| 33 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 34 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
+| 35 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 36 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
+| 37 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
 | 38 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 39 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 40 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 41 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 42 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 43 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 39 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 40 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 41 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 42 | [Dragons](http://twitter.com/search?q=Dragons) | N/A |
+| 43 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
 | 44 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 45 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 46 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 47 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 48 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 49 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 45 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
+| 46 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 47 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 48 | [game on](http://twitter.com/search?q=game+on) | N/A |
+| 49 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
 
 
 
