@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-25 22:16:46 UTC`
+📆 Last Updated: `2023-03-25 23:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
 | 4 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 5 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 9 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 10 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 11 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
-| 12 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 13 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 14 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 15 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 10 | [Walker Duehr](http://twitter.com/search?q=Walker+Duehr) | N/A |
+| 11 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 12 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
+| 13 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 14 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 15 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
 | 16 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 17 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 18 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 19 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
 | 20 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
 | 21 | [London](http://twitter.com/search?q=London) | N/A |
 | 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 23 | [Felix Auger](http://twitter.com/search?q=Felix+Auger) | N/A |
-| 24 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
-| 25 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 26 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 27 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 29 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 30 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 31 | [Mikael Backlund](http://twitter.com/search?q=Mikael+Backlund) | N/A |
-| 32 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 33 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 34 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 35 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 36 | [Stornoway](http://twitter.com/search?q=Stornoway) | N/A |
-| 37 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 38 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 39 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 41 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
-| 42 | [Bully Ray](http://twitter.com/search?q=Bully+Ray) | N/A |
+| 23 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 24 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 25 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 26 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 28 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 29 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 32 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 33 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 35 | [Stornoway](http://twitter.com/search?q=Stornoway) | N/A |
+| 36 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
+| 37 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 38 | [Scheifele](http://twitter.com/search?q=Scheifele) | N/A |
+| 39 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 41 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 42 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 43 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
 | 44 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 45 | [Josh Lawrence](http://twitter.com/search?q=Josh+Lawrence) | N/A |
-| 46 | [Althia](http://twitter.com/search?q=Althia) | N/A |
-| 47 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 48 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 49 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 45 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 46 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 47 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 48 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 49 | [Chicoutimi](http://twitter.com/search?q=Chicoutimi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-25 22:17:38 UTC`
+📆 Last Updated: `2023-03-25 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,48 @@ This is top 50 for Germany
 | 3 | [Schiedsrichterin](http://twitter.com/search?q=Schiedsrichterin) | N/A |
 | 4 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
 | 5 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 6 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 7 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 8 | [#verstehensiespass](http://twitter.com/search?q=%23verstehensiespass) | N/A |
+| 6 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 7 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 8 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
 | 9 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 10 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 11 | [Marius Wolf](http://twitter.com/search?q=Marius+Wolf) | N/A |
-| 12 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 13 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 14 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
-| 15 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 17 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
+| 10 | [#verstehensiespass](http://twitter.com/search?q=%23verstehensiespass) | N/A |
+| 11 | [#maxxwwe](http://twitter.com/search?q=%23maxxwwe) | N/A |
+| 12 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 13 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 14 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 15 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
+| 16 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 17 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 18 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 19 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 20 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 21 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 22 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 23 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 19 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
+| 20 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 21 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 22 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 23 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 24 | [LKW Fahrer](http://twitter.com/search?q=LKW+Fahrer) | N/A |
 | 25 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 26 | [#Berlin2030](http://twitter.com/search?q=%23Berlin2030) | N/A |
+| 26 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
 | 27 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
 | 28 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 29 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 30 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 31 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 32 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 33 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 34 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
-| 35 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 36 | [Straßenverkehr](http://twitter.com/search?q=Stra%c3%9fenverkehr) | N/A |
-| 37 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
-| 38 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 39 | [Frage der Zeit](http://twitter.com/search?q=Frage+der+Zeit) | N/A |
-| 40 | [Folter](http://twitter.com/search?q=Folter) | N/A |
-| 41 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
-| 42 | [#FCBWOB](http://twitter.com/search?q=%23FCBWOB) | N/A |
-| 43 | [#Sommerzeit](http://twitter.com/search?q=%23Sommerzeit) | N/A |
-| 44 | [#Rundfunkbeitrag](http://twitter.com/search?q=%23Rundfunkbeitrag) | N/A |
-| 45 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 46 | [#FDPrausausderRegierung](http://twitter.com/search?q=%23FDPrausausderRegierung) | N/A |
+| 29 | [Klimaterroristen](http://twitter.com/search?q=Klimaterroristen) | N/A |
+| 30 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 31 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 32 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 33 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 34 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 35 | [Strand](http://twitter.com/search?q=Strand) | N/A |
+| 36 | [Bettwäsche](http://twitter.com/search?q=Bettw%c3%a4sche) | N/A |
+| 37 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 38 | [Straßenverkehr](http://twitter.com/search?q=Stra%c3%9fenverkehr) | N/A |
+| 39 | [Tempelhofer Feld](http://twitter.com/search?q=Tempelhofer+Feld) | N/A |
+| 40 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 41 | [Frage der Zeit](http://twitter.com/search?q=Frage+der+Zeit) | N/A |
+| 42 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
+| 43 | [#Berlin2030](http://twitter.com/search?q=%23Berlin2030) | N/A |
+| 44 | [#FCBWOB](http://twitter.com/search?q=%23FCBWOB) | N/A |
+| 45 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 46 | [#Rundfunkbeitrag](http://twitter.com/search?q=%23Rundfunkbeitrag) | N/A |
+| 47 | [#FDPrausausderRegierung](http://twitter.com/search?q=%23FDPrausausderRegierung) | N/A |
 
 
 

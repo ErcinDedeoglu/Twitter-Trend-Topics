@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-25 22:17:36 UTC`
+📆 Last Updated: `2023-03-25 23:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 2 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 3 | [Marley](http://twitter.com/search?q=Marley) | N/A |
-| 4 | [niki](http://twitter.com/search?q=niki) | N/A |
-| 5 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 6 | [Olimpo](http://twitter.com/search?q=Olimpo) | N/A |
-| 7 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 8 | [Tristán](http://twitter.com/search?q=Trist%c3%a1n) | N/A |
-| 9 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
-| 10 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 11 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
-| 12 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 13 | [El Marquesado](http://twitter.com/search?q=El+Marquesado) | N/A |
-| 14 | [Mar del Plata](http://twitter.com/search?q=Mar+del+Plata) | N/A |
-| 15 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 16 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 17 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 18 | [Grondona](http://twitter.com/search?q=Grondona) | N/A |
-| 19 | [Mirtha](http://twitter.com/search?q=Mirtha) | N/A |
-| 20 | [Forlán](http://twitter.com/search?q=Forl%c3%a1n) | N/A |
-| 21 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 22 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 23 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 24 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
-| 25 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 26 | [El Papa](http://twitter.com/search?q=El+Papa) | N/A |
-| 27 | [Bilardo](http://twitter.com/search?q=Bilardo) | N/A |
-| 28 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 29 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
-| 30 | [#TCenToay](http://twitter.com/search?q=%23TCenToay) | N/A |
-| 31 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 32 | [Anses](http://twitter.com/search?q=Anses) | N/A |
-| 33 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 34 | [Rodolfo Walsh](http://twitter.com/search?q=Rodolfo+Walsh) | N/A |
-| 35 | [Cris Morena](http://twitter.com/search?q=Cris+Morena) | N/A |
-| 36 | [Felices 120](http://twitter.com/search?q=Felices+120) | N/A |
-| 37 | [#ConLosChicosNO](http://twitter.com/search?q=%23ConLosChicosNO) | N/A |
-| 38 | [Dady](http://twitter.com/search?q=Dady) | N/A |
+| 1 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
+| 2 | [Olimpo](http://twitter.com/search?q=Olimpo) | N/A |
+| 3 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 4 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 5 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 6 | [Centurión](http://twitter.com/search?q=Centuri%c3%b3n) | Centurión is a Spanish word meaning "centurion," which is a military rank in the Roman army. It was the highest rank in the infantry and was typically held by experienced officers who commanded a century (a unit of 100 soldiers). |
+| 7 | [Valentini](http://twitter.com/search?q=Valentini) | Valentini is a surname of Italian origin. It is derived from the given name Valentino, which is derived from the Latin word valens, meaning "strong" or "vigorous". |
+| 8 | [Gusa](http://twitter.com/search?q=Gusa) | N/A |
+| 9 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 10 | [Weigandt](http://twitter.com/search?q=Weigandt) | N/A |
+| 11 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 12 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 13 | [Bricco](http://twitter.com/search?q=Bricco) | N/A |
+| 14 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
+| 15 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
+| 16 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 17 | [#TequeremosSpreen](http://twitter.com/search?q=%23TequeremosSpreen) | N/A |
+| 18 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 19 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 20 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 21 | [Closs](http://twitter.com/search?q=Closs) | N/A |
+| 22 | [Tristán](http://twitter.com/search?q=Trist%c3%a1n) | N/A |
+| 23 | [#JuegaFerro](http://twitter.com/search?q=%23JuegaFerro) | N/A |
+| 24 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 25 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 26 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 28 | [El Marquesado](http://twitter.com/search?q=El+Marquesado) | N/A |
+| 29 | [Maidana](http://twitter.com/search?q=Maidana) | Maidana is a Spanish surname derived from the Latin word "magdana", meaning "woman of Magdala". It is also a place name in Argentina, where it is derived from the indigenous language of the region. In English, Maidana can be translated to mean "woman of Magdala". |
+| 30 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 31 | [Mar del Plata](http://twitter.com/search?q=Mar+del+Plata) | N/A |
+| 32 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 33 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 34 | [Grondona](http://twitter.com/search?q=Grondona) | N/A |
+| 35 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 36 | [U de Chile](http://twitter.com/search?q=U+de+Chile) | N/A |
+| 37 | [Bilardo](http://twitter.com/search?q=Bilardo) | N/A |
+| 38 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
+| 39 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 40 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 41 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 42 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 43 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 44 | [Raverta](http://twitter.com/search?q=Raverta) | N/A |
+| 45 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 46 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 47 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 48 | [Mirtha](http://twitter.com/search?q=Mirtha) | N/A |
+| 49 | [Forlán](http://twitter.com/search?q=Forl%c3%a1n) | N/A |
+| 50 | [Toay](http://twitter.com/search?q=Toay) | N/A |
 
 
 

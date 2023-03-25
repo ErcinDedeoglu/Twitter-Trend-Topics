@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-25 22:16:57 UTC`
+📆 Last Updated: `2023-03-25 23:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 2 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 3 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 4 | [ferrin](http://twitter.com/search?q=ferrin) | N/A |
-| 5 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 6 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 7 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
-| 8 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 9 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 10 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 11 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 12 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 13 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 14 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
-| 15 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 16 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 17 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 18 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 19 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
-| 20 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 21 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
-| 22 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 23 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 24 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
-| 25 | [#BrasilNaBand](http://twitter.com/search?q=%23BrasilNaBand) | N/A |
+| 1 | [Caio Alexandre](http://twitter.com/search?q=Caio+Alexandre) | N/A |
+| 2 | [ferrin](http://twitter.com/search?q=ferrin) | N/A |
+| 3 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 4 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
+| 5 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
+| 6 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
+| 7 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 8 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 9 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 10 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 11 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 12 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 13 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 14 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
+| 15 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 16 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 17 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 18 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 19 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 20 | [#BrasilNaBand](http://twitter.com/search?q=%23BrasilNaBand) | N/A |
+| 21 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 22 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 23 | [#SelecaoBrasileiraNaESPN](http://twitter.com/search?q=%23SelecaoBrasileiraNaESPN) | N/A |
+| 24 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 25 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
 | 26 | [#The1975NoMultishow](http://twitter.com/search?q=%23The1975NoMultishow) | N/A |
-| 27 | [#WallowsNoMultishow](http://twitter.com/search?q=%23WallowsNoMultishow) | N/A |
-| 28 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 29 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
-| 30 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 31 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
-| 32 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 33 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
-| 34 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 35 | [Jane's Addiction](http://twitter.com/search?q=Jane%27s+Addiction) | N/A |
-| 36 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
-| 37 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 38 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 39 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 40 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 41 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 42 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 43 | [Canal GB](http://twitter.com/search?q=Canal+GB) | N/A |
-| 44 | [Erechim](http://twitter.com/search?q=Erechim) | N/A |
-| 45 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 46 | [Caíque](http://twitter.com/search?q=Ca%c3%adque) | N/A |
-| 47 | [Dona Cila](http://twitter.com/search?q=Dona+Cila) | N/A |
-| 48 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
-| 49 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 50 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 27 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 28 | [matty](http://twitter.com/search?q=matty) | N/A |
+| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 30 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 31 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 32 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 33 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 34 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 35 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 36 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 38 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 39 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 40 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 41 | [#MARBRA](http://twitter.com/search?q=%23MARBRA) | N/A |
+| 42 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 43 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 44 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
+| 45 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 46 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 47 | [Casagrande](http://twitter.com/search?q=Casagrande) | Casagrande is a Spanish surname meaning "big house". It is derived from the words casa (house) and grande (big). |
+| 48 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 49 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 50 | [Alex Telles](http://twitter.com/search?q=Alex+Telles) | N/A |
 
 
 

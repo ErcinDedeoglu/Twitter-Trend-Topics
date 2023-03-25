@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-25 22:17:01 UTC`
+📆 Last Updated: `2023-03-25 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 2 | [#UBBSR](http://twitter.com/search?q=%23UBBSR) | N/A |
-| 3 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 4 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 5 | [Louza](http://twitter.com/search?q=Louza) | N/A |
-| 6 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
-| 7 | [Arryadia](http://twitter.com/search?q=Arryadia) | N/A |
-| 8 | [Amel](http://twitter.com/search?q=Amel) | N/A |
-| 9 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
-| 10 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 11 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
-| 12 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 13 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 14 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
-| 15 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
-| 16 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
-| 17 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 18 | [Arménie](http://twitter.com/search?q=Arm%c3%a9nie) | N/A |
-| 19 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
-| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 21 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
-| 22 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
-| 23 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
-| 24 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
-| 25 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
-| 26 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
-| 27 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
-| 28 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 29 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
-| 30 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
-| 31 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 32 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 33 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 34 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 37 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 38 | [#MARBRE](http://twitter.com/search?q=%23MARBRE) | N/A |
-| 39 | [#SmackDownAB](http://twitter.com/search?q=%23SmackDownAB) | N/A |
-| 40 | [#SaintSoline](http://twitter.com/search?q=%23SaintSoline) | N/A |
+| 2 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 3 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 4 | [#MARBRA](http://twitter.com/search?q=%23MARBRA) | N/A |
+| 5 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 6 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 7 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 8 | [Bounou](http://twitter.com/search?q=Bounou) | N/A |
+| 9 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
+| 10 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 11 | [El Khanouss](http://twitter.com/search?q=El+Khanouss) | N/A |
+| 12 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 13 | [Arryadia](http://twitter.com/search?q=Arryadia) | N/A |
+| 14 | [Louza](http://twitter.com/search?q=Louza) | N/A |
+| 15 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
+| 16 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 17 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 18 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 19 | [Amel](http://twitter.com/search?q=Amel) | N/A |
+| 20 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
+| 21 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
+| 22 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
+| 23 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 24 | [La Rochelle](http://twitter.com/search?q=La+Rochelle) | N/A |
+| 25 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
+| 26 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 27 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 28 | [Gérald](http://twitter.com/search?q=G%c3%a9rald) | N/A |
+| 29 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
+| 30 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
+| 31 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 32 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 33 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
+| 34 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 35 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 36 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
+| 37 | [#UBBSR](http://twitter.com/search?q=%23UBBSR) | N/A |
+| 38 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 39 | [#sainte_soline](http://twitter.com/search?q=%23sainte_soline) | N/A |
+| 40 | [#SmackDownAB](http://twitter.com/search?q=%23SmackDownAB) | N/A |
 | 41 | [#Cabrelspace](http://twitter.com/search?q=%23Cabrelspace) | N/A |
-| 42 | [#ESPNOR](http://twitter.com/search?q=%23ESPNOR) | N/A |
-| 43 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
-| 44 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
-| 45 | [#LMDLA](http://twitter.com/search?q=%23LMDLA) | N/A |
-| 46 | [#Sidaction2023](http://twitter.com/search?q=%23Sidaction2023) | N/A |
+| 42 | [#les50ansdudisco](http://twitter.com/search?q=%23les50ansdudisco) | N/A |
+| 43 | [#ESPNOR](http://twitter.com/search?q=%23ESPNOR) | N/A |
+| 44 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
+| 45 | [#FievreSR](http://twitter.com/search?q=%23FievreSR) | N/A |
+| 46 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
 | 47 | [#BravM](http://twitter.com/search?q=%23BravM) | N/A |
-| 48 | [#Manif25mars](http://twitter.com/search?q=%23Manif25mars) | N/A |
+| 48 | [#Sidaction2023](http://twitter.com/search?q=%23Sidaction2023) | N/A |
 
 
 

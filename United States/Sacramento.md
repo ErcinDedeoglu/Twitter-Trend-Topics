@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-25 22:17:34 UTC`
+📆 Last Updated: `2023-03-25 23:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
-| 2 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 3 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
-| 4 | [Cult](http://twitter.com/search?q=Cult) | N/A |
-| 5 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 6 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
+| 1 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
+| 2 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 3 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 4 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 5 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 6 | [Cult](http://twitter.com/search?q=Cult) | N/A |
 | 7 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 8 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 9 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 10 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 8 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 9 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 10 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
 | 11 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 12 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 13 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
-| 14 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 15 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 16 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 17 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 18 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
-| 19 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
-| 20 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 21 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
-| 22 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 23 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 24 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 25 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
-| 26 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 28 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 29 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 30 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 31 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 32 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 33 | [Zane Smith](http://twitter.com/search?q=Zane+Smith) | N/A |
-| 34 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 12 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 13 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 14 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 15 | [Alex Perez](http://twitter.com/search?q=Alex+Perez) | N/A |
+| 16 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
+| 17 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
+| 18 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
+| 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 20 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
+| 21 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
+| 22 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 23 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
+| 24 | [Steven Peterson](http://twitter.com/search?q=Steven+Peterson) | N/A |
+| 25 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
+| 26 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 27 | [Efra](http://twitter.com/search?q=Efra) | N/A |
+| 28 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
+| 29 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
+| 30 | [Lucas Alexander](http://twitter.com/search?q=Lucas+Alexander) | N/A |
+| 31 | [Sills](http://twitter.com/search?q=Sills) | N/A |
+| 32 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 33 | [Sheldon Creed](http://twitter.com/search?q=Sheldon+Creed) | N/A |
+| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 35 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
-| 36 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
-| 37 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 38 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 39 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 40 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 41 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 42 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 43 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 44 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 45 | [West Liberty](http://twitter.com/search?q=West+Liberty) | N/A |
-| 46 | [Aaliyah Edwards](http://twitter.com/search?q=Aaliyah+Edwards) | N/A |
-| 47 | [Nova Southeastern](http://twitter.com/search?q=Nova+Southeastern) | N/A |
-| 48 | [Dom Dolla](http://twitter.com/search?q=Dom+Dolla) | N/A |
-| 49 | [She's a Lady](http://twitter.com/search?q=She%27s+a+Lady) | N/A |
+| 36 | [RSBN](http://twitter.com/search?q=RSBN) | N/A |
+| 37 | [Dorka](http://twitter.com/search?q=Dorka) | N/A |
+| 38 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 39 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 40 | [Kape](http://twitter.com/search?q=Kape) | N/A |
+| 41 | [Kingsbarns](http://twitter.com/search?q=Kingsbarns) | N/A |
+| 42 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 43 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 44 | [Allmendinger](http://twitter.com/search?q=Allmendinger) | N/A |
+| 45 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 46 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 47 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 48 | [Lizotte](http://twitter.com/search?q=Lizotte) | N/A |
+| 49 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
 
 
 

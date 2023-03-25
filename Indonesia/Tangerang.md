@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-25 22:17:08 UTC`
+📆 Last Updated: `2023-03-25 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,38 +31,38 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 14 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
 | 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 16 | [chef arnold](http://twitter.com/search?q=chef+arnold) | N/A |
-| 17 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 18 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 19 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 20 | [Paket Rahmat](http://twitter.com/search?q=Paket+Rahmat) | N/A |
-| 21 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 22 | [Royco](http://twitter.com/search?q=Royco) | N/A |
-| 23 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 24 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 17 | [Paket Rahmat](http://twitter.com/search?q=Paket+Rahmat) | N/A |
+| 18 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 19 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 20 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 21 | [Klitih](http://twitter.com/search?q=Klitih) | N/A |
+| 22 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 23 | [Royco](http://twitter.com/search?q=Royco) | N/A |
+| 24 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
 | 25 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
 | 26 | [chanbaek jaya jaya jaya](http://twitter.com/search?q=chanbaek+jaya+jaya+jaya) | N/A |
 | 27 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
 | 28 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
 | 29 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 30 | [Kangen ot7](http://twitter.com/search?q=Kangen+ot7) | N/A |
-| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 32 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 33 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
-| 34 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 35 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 36 | [Coki](http://twitter.com/search?q=Coki) | N/A |
-| 37 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 38 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
-| 39 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 40 | [Viggo](http://twitter.com/search?q=Viggo) | N/A |
-| 41 | [Apri](http://twitter.com/search?q=Apri) | N/A |
+| 30 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
+| 31 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 33 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 34 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 35 | [Kangen ot7](http://twitter.com/search?q=Kangen+ot7) | N/A |
+| 36 | [Subuhan](http://twitter.com/search?q=Subuhan) | N/A |
+| 37 | [Anis Matta](http://twitter.com/search?q=Anis+Matta) | N/A |
+| 38 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 39 | [Coki](http://twitter.com/search?q=Coki) | N/A |
+| 40 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 41 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
 | 42 | [Lilipaly](http://twitter.com/search?q=Lilipaly) | N/A |
-| 43 | [Ziva](http://twitter.com/search?q=Ziva) | N/A |
-| 44 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 45 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
-| 46 | [ksad dudung ar](http://twitter.com/search?q=ksad+dudung+ar) | N/A |
-| 47 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
-| 48 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 43 | [Apri](http://twitter.com/search?q=Apri) | N/A |
+| 44 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
+| 45 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 46 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 47 | [ksad dudung ar](http://twitter.com/search?q=ksad+dudung+ar) | N/A |
+| 48 | [Danang](http://twitter.com/search?q=Danang) | N/A |
 | 49 | [Bunda Maria](http://twitter.com/search?q=Bunda+Maria) | N/A |
 
 

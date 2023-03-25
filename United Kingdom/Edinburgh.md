@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-03-25 22:16:48 UTC`
+📆 Last Updated: `2023-03-25 23:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 2 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 3 | [#BigNightOfMusicals](http://twitter.com/search?q=%23BigNightOfMusicals) | N/A |
-| 4 | [#CROWAL](http://twitter.com/search?q=%23CROWAL) | N/A |
-| 5 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
-| 6 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 7 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 8 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 10 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 11 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
-| 12 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
-| 13 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 14 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 15 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 16 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 17 | [Rob Page](http://twitter.com/search?q=Rob+Page) | N/A |
-| 18 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 19 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 20 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
-| 21 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 22 | [East 17](http://twitter.com/search?q=East+17) | N/A |
-| 23 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 24 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
-| 25 | [James Brown](http://twitter.com/search?q=James+Brown) | James Brown is the stage name of the late American singer, songwriter, and musician. He was known as the "Godfather of Soul" and was a major influence on funk, soul, and rhythm and blues music. His style of music was characterized by its strong beats, syncopated rhythms, and his signature raspy vocals. |
-| 26 | [Neco](http://twitter.com/search?q=Neco) | N/A |
-| 27 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 28 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 29 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 30 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 31 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 32 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 33 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 34 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 35 | [Callum Simpson](http://twitter.com/search?q=Callum+Simpson) | N/A |
-| 36 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 37 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
-| 38 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
-| 39 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 40 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 41 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
-| 42 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
-| 43 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 44 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 45 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 2 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 3 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 4 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
+| 5 | [#BigNightOfMusicals](http://twitter.com/search?q=%23BigNightOfMusicals) | N/A |
+| 6 | [#CROWAL](http://twitter.com/search?q=%23CROWAL) | N/A |
+| 7 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
+| 8 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 9 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 10 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 12 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
+| 13 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 14 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 15 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 16 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 17 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
+| 18 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 19 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
+| 20 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 21 | [Rob Page](http://twitter.com/search?q=Rob+Page) | N/A |
+| 22 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
+| 23 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 24 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 26 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 27 | [Frazer Clarke](http://twitter.com/search?q=Frazer+Clarke) | N/A |
+| 28 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 29 | [Ben Shalom](http://twitter.com/search?q=Ben+Shalom) | N/A |
+| 30 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 31 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 32 | [On My Own](http://twitter.com/search?q=On+My+Own) | N/A |
+| 33 | [RIP Nick](http://twitter.com/search?q=RIP+Nick) | N/A |
+| 34 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
+| 35 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 36 | [James Brown](http://twitter.com/search?q=James+Brown) | James Brown is the stage name of the late American singer, songwriter, and musician. He was known as the "Godfather of Soul" and was a major influence on funk, soul, and rhythm and blues music. His style of music was characterized by its strong beats, syncopated rhythms, and his signature raspy vocals. |
+| 37 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 38 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 39 | [Neco](http://twitter.com/search?q=Neco) | N/A |
+| 40 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 41 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
+| 42 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 43 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 44 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 45 | [Bangor](http://twitter.com/search?q=Bangor) | N/A |
 | 46 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
-| 47 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 48 | [France U21](http://twitter.com/search?q=France+U21) | N/A |
+| 47 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
+| 48 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
 
 
 
