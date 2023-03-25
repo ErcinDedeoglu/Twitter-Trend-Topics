@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-25 16:17:42 UTC`
+📆 Last Updated: `2023-03-25 17:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 2 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 1 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
+| 2 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
 | 3 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 4 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 5 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 4 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
+| 5 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 6 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 7 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 8 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 9 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 10 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 11 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 11 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 12 | [yixing](http://twitter.com/search?q=yixing) | N/A |
 | 13 | [kairoverwin](http://twitter.com/search?q=kairoverwin) | N/A |
-| 14 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 14 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 15 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 16 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 17 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 16 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 18 | [OTMS](http://twitter.com/search?q=OTMS) | N/A |
 | 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 21 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 22 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 23 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
+| 20 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 21 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 22 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 23 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
 | 24 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
 | 25 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 26 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 27 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 28 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 29 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 30 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 31 | [OngTeo](http://twitter.com/search?q=OngTeo) | N/A |
-| 32 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
-| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 36 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 37 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 38 | [MELT](http://twitter.com/search?q=MELT) | N/A |
-| 39 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
-| 40 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 41 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 42 | [Expert](http://twitter.com/search?q=Expert) | N/A |
-| 43 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 44 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 45 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 46 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 47 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 48 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 49 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 50 | [puspakom](http://twitter.com/search?q=puspakom) | N/A |
+| 26 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 27 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 29 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 30 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 31 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 32 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 34 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 35 | [MELT](http://twitter.com/search?q=MELT) | N/A |
+| 36 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 39 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 41 | [Expert](http://twitter.com/search?q=Expert) | N/A |
+| 42 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 43 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 44 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
+| 45 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 46 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 47 | [puspakom](http://twitter.com/search?q=puspakom) | N/A |
+| 48 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 49 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 50 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 
 
 

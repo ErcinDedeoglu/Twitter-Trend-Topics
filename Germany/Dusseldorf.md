@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-03-25 16:17:30 UTC`
+📆 Last Updated: `2023-03-25 17:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
 | 7 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 9 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 10 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 11 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 12 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 9 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 11 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 12 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 13 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
 | 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 15 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 16 | [Fahrer](http://twitter.com/search?q=Fahrer) | N/A |
-| 17 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 19 | [Garbe Transport](http://twitter.com/search?q=Garbe+Transport) | N/A |
+| 15 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 16 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 17 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 18 | [Fahrer](http://twitter.com/search?q=Fahrer) | N/A |
+| 19 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
 | 20 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 21 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 22 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 21 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 22 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
 | 23 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 24 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 25 | [Handgranate](http://twitter.com/search?q=Handgranate) | N/A |
-| 26 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 27 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 28 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 29 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 32 | [lisa eckhart](http://twitter.com/search?q=lisa+eckhart) | N/A |
-| 33 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 24 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
+| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 27 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 28 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 29 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 30 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 31 | [Handgranate](http://twitter.com/search?q=Handgranate) | N/A |
+| 32 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 33 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
 | 34 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 35 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 36 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 37 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 38 | [entlassung](http://twitter.com/search?q=entlassung) | N/A |
-| 39 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 40 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 41 | [bademeister](http://twitter.com/search?q=bademeister) | N/A |
-| 42 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 43 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 44 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 45 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 46 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 47 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
-| 48 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 49 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 35 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
+| 36 | [entlassung](http://twitter.com/search?q=entlassung) | N/A |
+| 37 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 38 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 39 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
+| 40 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 41 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 42 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 43 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 44 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 45 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 46 | [Gleichstrom](http://twitter.com/search?q=Gleichstrom) | N/A |
+| 47 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 48 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 49 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
 
 
 

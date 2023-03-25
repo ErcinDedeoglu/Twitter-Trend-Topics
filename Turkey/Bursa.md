@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-25 16:17:53 UTC`
+📆 Last Updated: `2023-03-25 17:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pdrmagdurek10BİNhaktir](http://twitter.com/search?q=%23pdrmagdurek10B%c4%b0Nhaktir) | N/A |
+| 1 | [TayiniMüjdeleGSB](http://twitter.com/search?q=TayiniM%c3%bcjdeleGSB) | N/A |
 | 2 | [#SinanOGANa100Binimza](http://twitter.com/search?q=%23SinanOGANa100Binimza) | N/A |
-| 3 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
-| 4 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 5 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 6 | [Perinçeke Yüzbinİmza](http://twitter.com/search?q=Perin%c3%a7eke+Y%c3%bczbin%c4%b0mza) | N/A |
-| 7 | [Muharrem İnce 100](http://twitter.com/search?q=Muharrem+%c4%b0nce+100) | N/A |
+| 3 | [#pdrmagdurek10BİNhaktir](http://twitter.com/search?q=%23pdrmagdurek10B%c4%b0Nhaktir) | N/A |
+| 4 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
+| 5 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
+| 6 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
+| 7 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
 | 8 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 9 | [#SgkEYTyiBekletme](http://twitter.com/search?q=%23SgkEYTyiBekletme) | N/A |
-| 10 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 11 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 12 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 13 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 14 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 15 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 16 | [G İ D İ Y O R L A R](http://twitter.com/search?q=G+%c4%b0+D+%c4%b0+Y+O+R+L+A+R) | N/A |
-| 17 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 18 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 19 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
-| 20 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
-| 21 | [Elleri](http://twitter.com/search?q=Elleri) | N/A |
-| 22 | [İsmail Ertekin](http://twitter.com/search?q=%c4%b0smail+Ertekin) | N/A |
-| 23 | [Burak Elmas](http://twitter.com/search?q=Burak+Elmas) | N/A |
-| 24 | [Madımak](http://twitter.com/search?q=Mad%c4%b1mak) | N/A |
-| 25 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
-| 26 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
-| 27 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
-| 28 | [İlim Yayma Vakfı 52](http://twitter.com/search?q=%c4%b0lim+Yayma+Vakf%c4%b1+52) | N/A |
-| 29 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
-| 30 | [Oruçlu](http://twitter.com/search?q=Oru%c3%a7lu) | N/A |
-| 31 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
-| 32 | [Kaftancıoğlu](http://twitter.com/search?q=Kaftanc%c4%b1o%c4%9flu) | N/A |
-| 33 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 34 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
-| 35 | [Askere](http://twitter.com/search?q=Askere) | N/A |
-| 36 | [Defne](http://twitter.com/search?q=Defne) | N/A |
-| 37 | [AK Parti 28](http://twitter.com/search?q=AK+Parti+28) | N/A |
-| 38 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 39 | [Jandarma](http://twitter.com/search?q=Jandarma) | N/A |
-| 40 | [Yılın](http://twitter.com/search?q=Y%c4%b1l%c4%b1n) | N/A |
-| 41 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
-| 42 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
-| 43 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 44 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 45 | [Mekanın Cennet](http://twitter.com/search?q=Mekan%c4%b1n+Cennet) | N/A |
-| 46 | [Marmara](http://twitter.com/search?q=Marmara) | N/A |
-| 47 | [Üniversite](http://twitter.com/search?q=%c3%9cniversite) | N/A |
-| 48 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 9 | [#ARMvTUR](http://twitter.com/search?q=%23ARMvTUR) | N/A |
+| 10 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 11 | [İstiklal Marşımızı](http://twitter.com/search?q=%c4%b0stiklal+Mar%c5%9f%c4%b1m%c4%b1z%c4%b1) | N/A |
+| 12 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 13 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 14 | [Perinçeke Yüzbinİmza](http://twitter.com/search?q=Perin%c3%a7eke+Y%c3%bczbin%c4%b0mza) | N/A |
+| 15 | [Muharrem İnce 100](http://twitter.com/search?q=Muharrem+%c4%b0nce+100) | N/A |
+| 16 | [Denkliğe Çözümİstiyoruz](http://twitter.com/search?q=Denkli%c4%9fe+%c3%87%c3%b6z%c3%bcm%c4%b0stiyoruz) | N/A |
+| 17 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 18 | [Başarılar Türkiyem](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+T%c3%bcrkiyem) | N/A |
+| 19 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 20 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 21 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 22 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 23 | [Haydi Türkiyem](http://twitter.com/search?q=Haydi+T%c3%bcrkiyem) | N/A |
+| 24 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
+| 25 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 26 | [Orkun](http://twitter.com/search?q=Orkun) | N/A |
+| 27 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
+| 28 | [Elleri](http://twitter.com/search?q=Elleri) | N/A |
+| 29 | [Merih](http://twitter.com/search?q=Merih) | N/A |
+| 30 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 31 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
+| 32 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
+| 33 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
+| 34 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
+| 35 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 36 | [Madımak](http://twitter.com/search?q=Mad%c4%b1mak) | N/A |
+| 37 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
+| 38 | [G İ D İ Y O R L A R](http://twitter.com/search?q=G+%c4%b0+D+%c4%b0+Y+O+R+L+A+R) | N/A |
+| 39 | [Temel](http://twitter.com/search?q=Temel) | N/A |
+| 40 | [Gömlek](http://twitter.com/search?q=G%c3%b6mlek) | N/A |
+| 41 | [Sedef](http://twitter.com/search?q=Sedef) | N/A |
+| 42 | [İlim Yayma Vakfı 52](http://twitter.com/search?q=%c4%b0lim+Yayma+Vakf%c4%b1+52) | N/A |
+| 43 | [Burak Elmas](http://twitter.com/search?q=Burak+Elmas) | N/A |
+| 44 | [Oruçlu](http://twitter.com/search?q=Oru%c3%a7lu) | N/A |
+| 45 | [Jandarma](http://twitter.com/search?q=Jandarma) | N/A |
+| 46 | [Hastane](http://twitter.com/search?q=Hastane) | N/A |
+| 47 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
+| 48 | [Kaftancıoğlu](http://twitter.com/search?q=Kaftanc%c4%b1o%c4%9flu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-03-25 16:17:57 UTC`
+📆 Last Updated: `2023-03-25 17:19:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,45 @@ This is top 50 for [United States](</United States>)
 | 2 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
 | 3 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
 | 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 5 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 6 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 7 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 10 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 11 | [#RWBYV9Spoilers](http://twitter.com/search?q=%23RWBYV9Spoilers) | N/A |
-| 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 13 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
-| 14 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 5 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 6 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 9 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 10 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 11 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
+| 12 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 13 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 14 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 16 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 17 | [Luis Severino](http://twitter.com/search?q=Luis+Severino) | N/A |
-| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 19 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 20 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 21 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 22 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 23 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 24 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 25 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 26 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
+| 17 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 18 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 19 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 20 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 21 | [Severino](http://twitter.com/search?q=Severino) | N/A |
+| 22 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
+| 23 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
+| 24 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 25 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 26 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
 | 27 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 28 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 29 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 30 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 31 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
-| 32 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 34 | [The Yankees](http://twitter.com/search?q=The+Yankees) | N/A |
-| 35 | [Gentry](http://twitter.com/search?q=Gentry) | N/A |
-| 36 | [Sibelius](http://twitter.com/search?q=Sibelius) | N/A |
-| 37 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 38 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 39 | [Otherside](http://twitter.com/search?q=Otherside) | N/A |
+| 28 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 29 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 30 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 31 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 32 | [Stolen Valor](http://twitter.com/search?q=Stolen+Valor) | N/A |
+| 33 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 34 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 36 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
+| 37 | [Tyler Reddick](http://twitter.com/search?q=Tyler+Reddick) | N/A |
+| 38 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 39 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 40 | [2nd Trip](http://twitter.com/search?q=2nd+Trip) | N/A |
-| 41 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 42 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 43 | [Annunciation](http://twitter.com/search?q=Annunciation) | N/A |
-| 44 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 45 | [Montas](http://twitter.com/search?q=Montas) | N/A |
-| 46 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 41 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 42 | [Grace Linn](http://twitter.com/search?q=Grace+Linn) | N/A |
+| 43 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
 
 
 

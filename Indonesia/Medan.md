@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-25 16:17:36 UTC`
+📆 Last Updated: `2023-03-25 17:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
 | 2 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 3 | [HAPPY BIRTHDAY XIUMIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+XIUMIN) | N/A |
-| 4 | [#BincangAkhlak](http://twitter.com/search?q=%23BincangAkhlak) | N/A |
-| 5 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
+| 4 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
+| 5 | [#BincangAkhlak](http://twitter.com/search?q=%23BincangAkhlak) | N/A |
 | 6 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
 | 7 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 8 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 9 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 10 | [OLLIE](http://twitter.com/search?q=OLLIE) | N/A |
+| 8 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
+| 9 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 10 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
 | 11 | [KANGEN OT7](http://twitter.com/search?q=KANGEN+OT7) | N/A |
-| 12 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 14 | [Apri](http://twitter.com/search?q=Apri) | N/A |
-| 15 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
+| 12 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 13 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 14 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 15 | [Rizky Ridho](http://twitter.com/search?q=Rizky+Ridho) | N/A |
 | 16 | [Lilipaly](http://twitter.com/search?q=Lilipaly) | N/A |
-| 17 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 18 | [rizky ridho](http://twitter.com/search?q=rizky+ridho) | N/A |
-| 19 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
+| 17 | [Sprint Race](http://twitter.com/search?q=Sprint+Race) | N/A |
+| 18 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 19 | [Apri](http://twitter.com/search?q=Apri) | N/A |
 | 20 | [Beauty and the Beast](http://twitter.com/search?q=Beauty+and+the+Beast) | N/A |
-| 21 | [Fano](http://twitter.com/search?q=Fano) | N/A |
-| 22 | [chef arnold](http://twitter.com/search?q=chef+arnold) | N/A |
-| 23 | [MY TANNIES](http://twitter.com/search?q=MY+TANNIES) | N/A |
-| 24 | [Yakob Sayuri](http://twitter.com/search?q=Yakob+Sayuri) | N/A |
-| 25 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 21 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
+| 22 | [Fano](http://twitter.com/search?q=Fano) | N/A |
+| 23 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
+| 24 | [MY TANNIES](http://twitter.com/search?q=MY+TANNIES) | N/A |
+| 25 | [Yakob Sayuri](http://twitter.com/search?q=Yakob+Sayuri) | N/A |
 | 26 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 27 | [SOUND CHECK FESTIVAL WITH BTOB](http://twitter.com/search?q=SOUND+CHECK+FESTIVAL+WITH+BTOB) | N/A |
-| 28 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 29 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
-| 30 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 31 | [Murid](http://twitter.com/search?q=Murid) | N/A |
-| 32 | [INDOMY LIKE CRAZY](http://twitter.com/search?q=INDOMY+LIKE+CRAZY) | N/A |
-| 33 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 34 | [KANGEN BANGET](http://twitter.com/search?q=KANGEN+BANGET) | N/A |
-| 35 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 36 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
-| 37 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 38 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
-| 39 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 40 | [giselle](http://twitter.com/search?q=giselle) | N/A |
-| 41 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 42 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 43 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 44 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 45 | [Coki](http://twitter.com/search?q=Coki) | N/A |
-| 46 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 47 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 48 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 27 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
+| 28 | [Murid](http://twitter.com/search?q=Murid) | N/A |
+| 29 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 30 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 31 | [KANGEN BANGET](http://twitter.com/search?q=KANGEN+BANGET) | N/A |
+| 32 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 33 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
+| 34 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 35 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 36 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
+| 37 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 38 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 39 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 40 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 41 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 42 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 43 | [Perindo](http://twitter.com/search?q=Perindo) | N/A |
+| 44 | [Coki](http://twitter.com/search?q=Coki) | N/A |
+| 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 46 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 47 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 48 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
 
 
 

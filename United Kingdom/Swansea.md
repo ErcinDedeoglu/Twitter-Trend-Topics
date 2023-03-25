@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-25 16:17:20 UTC`
+📆 Last Updated: `2023-03-25 17:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 2 | [#SCOCYP](http://twitter.com/search?q=%23SCOCYP) | N/A |
-| 3 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 4 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 5 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
-| 6 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
-| 7 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 8 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 9 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
-| 10 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 11 | [Jesus Christ Superstar](http://twitter.com/search?q=Jesus+Christ+Superstar) | N/A |
-| 12 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 13 | [Equinox](http://twitter.com/search?q=Equinox) | N/A |
-| 14 | [Charlie Adam](http://twitter.com/search?q=Charlie+Adam) | N/A |
-| 15 | [Quins](http://twitter.com/search?q=Quins) | N/A |
-| 16 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
-| 17 | [Size 9](http://twitter.com/search?q=Size+9) | N/A |
-| 18 | [Michael Stewart](http://twitter.com/search?q=Michael+Stewart) | N/A |
-| 19 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 20 | [SECOND HALF](http://twitter.com/search?q=SECOND+HALF) | N/A |
-| 21 | [Blake Austin](http://twitter.com/search?q=Blake+Austin) | N/A |
-| 22 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 23 | [Stevie G](http://twitter.com/search?q=Stevie+G) | N/A |
-| 24 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
-| 25 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
-| 26 | [Saracens](http://twitter.com/search?q=Saracens) | N/A |
-| 27 | [Sarries](http://twitter.com/search?q=Sarries) | N/A |
-| 28 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 29 | [STARTING XI](http://twitter.com/search?q=STARTING+XI) | N/A |
-| 30 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 31 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 32 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
-| 33 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
-| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 35 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 36 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 37 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 38 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 1 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 2 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 3 | [#SARvHAR](http://twitter.com/search?q=%23SARvHAR) | N/A |
+| 4 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
+| 5 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 6 | [Equinox](http://twitter.com/search?q=Equinox) | N/A |
+| 7 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 8 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 9 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
+| 10 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
+| 11 | [Luke Pearce](http://twitter.com/search?q=Luke+Pearce) | N/A |
+| 12 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 13 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
+| 14 | [Stevie G](http://twitter.com/search?q=Stevie+G) | N/A |
+| 15 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 16 | [Jesus Christ Superstar](http://twitter.com/search?q=Jesus+Christ+Superstar) | N/A |
+| 17 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 18 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 19 | [Orient](http://twitter.com/search?q=Orient) | N/A |
+| 20 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 21 | [Charlie Adam](http://twitter.com/search?q=Charlie+Adam) | N/A |
+| 22 | [SECOND HALF](http://twitter.com/search?q=SECOND+HALF) | N/A |
+| 23 | [Sarries](http://twitter.com/search?q=Sarries) | N/A |
+| 24 | [Quins](http://twitter.com/search?q=Quins) | N/A |
+| 25 | [Saracens](http://twitter.com/search?q=Saracens) | N/A |
+| 26 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 27 | [Michael Stewart](http://twitter.com/search?q=Michael+Stewart) | N/A |
+| 28 | [Size 9](http://twitter.com/search?q=Size+9) | N/A |
+| 29 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
+| 30 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
+| 31 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 32 | [Blake Austin](http://twitter.com/search?q=Blake+Austin) | N/A |
+| 33 | [STARTING XI](http://twitter.com/search?q=STARTING+XI) | N/A |
+| 34 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
+| 35 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 36 | [North London](http://twitter.com/search?q=North+London) | North London is an informal term used to refer to the northern part of the city of London, England. It is generally taken to include the areas within the London Boroughs of Camden, Islington, Hackney, Haringey and Enfield. |
+| 37 | [Peterborough](http://twitter.com/search?q=Peterborough) | N/A |
+| 38 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
 | 39 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 40 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 41 | [Andy Robertson](http://twitter.com/search?q=Andy+Robertson) | N/A |
-| 42 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 43 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 44 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 40 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 41 | [McNally](http://twitter.com/search?q=McNally) | N/A |
+| 42 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 43 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
+| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 45 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
 
 
 

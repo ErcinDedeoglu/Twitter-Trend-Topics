@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-25 16:17:25 UTC`
+📆 Last Updated: `2023-03-25 17:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 2 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 1 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 2 | [Elias](http://twitter.com/search?q=Elias) | N/A |
 | 3 | [Mete](http://twitter.com/search?q=Mete) | N/A |
 | 4 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
 | 5 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 6 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 7 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 8 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
-| 9 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
-| 10 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 11 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 12 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 14 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 15 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 16 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
-| 17 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 18 | [Pássaros](http://twitter.com/search?q=P%c3%a1ssaros) | N/A |
-| 19 | [Serpentes](http://twitter.com/search?q=Serpentes) | N/A |
-| 20 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
-| 21 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 22 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 23 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
-| 24 | [Jogos Vorazes](http://twitter.com/search?q=Jogos+Vorazes) | N/A |
-| 25 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
-| 26 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 27 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 28 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
-| 29 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 30 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 31 | [Chipre](http://twitter.com/search?q=Chipre) | N/A |
-| 32 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 33 | [Future Days](http://twitter.com/search?q=Future+Days) | N/A |
-| 34 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
-| 35 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
-| 36 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 37 | [ELES JUNTINHOS](http://twitter.com/search?q=ELES+JUNTINHOS) | N/A |
-| 38 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 39 | [Coringa 2](http://twitter.com/search?q=Coringa+2) | N/A |
-| 40 | [Meu ot7](http://twitter.com/search?q=Meu+ot7) | N/A |
-| 41 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 42 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 43 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 44 | [Jefinho](http://twitter.com/search?q=Jefinho) | N/A |
-| 45 | [MEUS MENINOS](http://twitter.com/search?q=MEUS+MENINOS) | N/A |
-| 46 | [O Jin](http://twitter.com/search?q=O+Jin) | N/A |
-| 47 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 48 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 49 | [PT e PCC](http://twitter.com/search?q=PT+e+PCC) | N/A |
-| 50 | [Paulo Pimenta](http://twitter.com/search?q=Paulo+Pimenta) | N/A |
+| 6 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 7 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
+| 8 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
+| 9 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 10 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
+| 11 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 12 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
+| 13 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
+| 14 | [#HAPPYXIUMINDAY](http://twitter.com/search?q=%23HAPPYXIUMINDAY) | N/A |
+| 15 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 16 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 17 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 18 | [Gilsons](http://twitter.com/search?q=Gilsons) | N/A |
+| 19 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 20 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
+| 21 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
+| 22 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 23 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
+| 24 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 25 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 26 | [Jogos Vorazes](http://twitter.com/search?q=Jogos+Vorazes) | N/A |
+| 27 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
+| 28 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
+| 29 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 30 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 31 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 32 | [Lust for Life](http://twitter.com/search?q=Lust+for+Life) | N/A |
+| 33 | [Pássaros](http://twitter.com/search?q=P%c3%a1ssaros) | N/A |
+| 34 | [Serpentes](http://twitter.com/search?q=Serpentes) | N/A |
+| 35 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 36 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
+| 37 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 38 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
+| 39 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 40 | [Future Days](http://twitter.com/search?q=Future+Days) | N/A |
+| 41 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 42 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 43 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 44 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 45 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
+| 46 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 47 | [ELES JUNTINHOS](http://twitter.com/search?q=ELES+JUNTINHOS) | N/A |
+| 48 | [Meu ot7](http://twitter.com/search?q=Meu+ot7) | N/A |
+| 49 | [Robert Renan](http://twitter.com/search?q=Robert+Renan) | N/A |
+| 50 | [Chipre](http://twitter.com/search?q=Chipre) | N/A |
 
 
 

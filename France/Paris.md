@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-25 16:17:30 UTC`
+📆 Last Updated: `2023-03-25 17:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 2 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
-| 3 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
+| 1 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
+| 2 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 3 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
 | 4 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
 | 5 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 6 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 6 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
 | 7 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 8 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
-| 9 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
-| 10 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
-| 11 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 12 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
-| 13 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 14 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
-| 15 | [Castres](http://twitter.com/search?q=Castres) | N/A |
-| 16 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 17 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 18 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
-| 19 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
-| 20 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 8 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 9 | [#ASMCAB](http://twitter.com/search?q=%23ASMCAB) | N/A |
+| 10 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 11 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
+| 12 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 13 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 14 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 15 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 16 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
+| 17 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 18 | [Castres](http://twitter.com/search?q=Castres) | N/A |
+| 19 | [Rassemblement](http://twitter.com/search?q=Rassemblement) | N/A |
+| 20 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
 | 21 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 22 | [bergé](http://twitter.com/search?q=berg%c3%a9) | N/A |
-| 23 | [EELV](http://twitter.com/search?q=EELV) | N/A |
-| 24 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 25 | [Le Brésil](http://twitter.com/search?q=Le+Br%c3%a9sil) | N/A |
-| 26 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 27 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 28 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 29 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
-| 30 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 31 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 32 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
-| 33 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 34 | [#OLEAG](http://twitter.com/search?q=%23OLEAG) | N/A |
-| 35 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 36 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 37 | [#EMCRD23](http://twitter.com/search?q=%23EMCRD23) | N/A |
-| 38 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
-| 39 | [#CongresHorizons](http://twitter.com/search?q=%23CongresHorizons) | N/A |
-| 40 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
-| 41 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 42 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
-| 43 | [#Villeurbanne](http://twitter.com/search?q=%23Villeurbanne) | N/A |
-| 44 | [#gendarmes](http://twitter.com/search?q=%23gendarmes) | N/A |
-| 45 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
-| 46 | [#Top14](http://twitter.com/search?q=%23Top14) | N/A |
-| 47 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
-| 48 | [#Gendarmerie](http://twitter.com/search?q=%23Gendarmerie) | N/A |
-| 49 | [#ZECourse](http://twitter.com/search?q=%23ZECourse) | N/A |
-| 50 | [#DarmaninDemission](http://twitter.com/search?q=%23DarmaninDemission) | N/A |
+| 22 | [EELV](http://twitter.com/search?q=EELV) | N/A |
+| 23 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 24 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 25 | [Landes](http://twitter.com/search?q=Landes) | N/A |
+| 26 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
+| 27 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 28 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
+| 29 | [Manifestation](http://twitter.com/search?q=Manifestation) | N/A |
+| 30 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 31 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
+| 32 | [Chouette](http://twitter.com/search?q=Chouette) | N/A |
+| 33 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
+| 34 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 35 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 36 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 37 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 38 | [#LOURCT](http://twitter.com/search?q=%23LOURCT) | N/A |
+| 39 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
+| 40 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 41 | [#ABSP](http://twitter.com/search?q=%23ABSP) | N/A |
+| 42 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 43 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 44 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
+| 45 | [#EMCRD23](http://twitter.com/search?q=%23EMCRD23) | N/A |
+| 46 | [#PortugeseGP](http://twitter.com/search?q=%23PortugeseGP) | N/A |
+| 47 | [#CongresHorizons](http://twitter.com/search?q=%23CongresHorizons) | N/A |
+| 48 | [#OLEAG](http://twitter.com/search?q=%23OLEAG) | N/A |
+| 49 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 50 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-25 16:17:30 UTC`
+📆 Last Updated: `2023-03-25 17:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
-| 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 3 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 4 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
-| 5 | [#Tuchel](http://twitter.com/search?q=%23Tuchel) | N/A |
-| 6 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 7 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 9 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 10 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 11 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 12 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 13 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 14 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 15 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 16 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 17 | [Fahrer](http://twitter.com/search?q=Fahrer) | N/A |
-| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 19 | [Garbe Transport](http://twitter.com/search?q=Garbe+Transport) | N/A |
-| 20 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 21 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 22 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 23 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 24 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 25 | [Handgranate](http://twitter.com/search?q=Handgranate) | N/A |
-| 26 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 27 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 28 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 29 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 31 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 32 | [lisa eckhart](http://twitter.com/search?q=lisa+eckhart) | N/A |
-| 33 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 34 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 35 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 36 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 37 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 38 | [entlassung](http://twitter.com/search?q=entlassung) | N/A |
-| 39 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 40 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
-| 41 | [bademeister](http://twitter.com/search?q=bademeister) | N/A |
-| 42 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
-| 43 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 44 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 45 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 46 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 47 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 48 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 49 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
+| 1 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 2 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 3 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 4 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 5 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 6 | [#FCBWOB](http://twitter.com/search?q=%23FCBWOB) | N/A |
+| 7 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 8 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 9 | [LKW Fahrer](http://twitter.com/search?q=LKW+Fahrer) | N/A |
+| 10 | [#Zeitumstellung](http://twitter.com/search?q=%23Zeitumstellung) | N/A |
+| 11 | [#Rundfunkbeitrag](http://twitter.com/search?q=%23Rundfunkbeitrag) | N/A |
+| 12 | [#SGDBAY](http://twitter.com/search?q=%23SGDBAY) | N/A |
+| 13 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 14 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 15 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 16 | [Folter](http://twitter.com/search?q=Folter) | N/A |
+| 17 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 18 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 19 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 20 | [Regenbogen](http://twitter.com/search?q=Regenbogen) | N/A |
+| 21 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 22 | [Wirkungsgrad](http://twitter.com/search?q=Wirkungsgrad) | N/A |
+| 23 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 24 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
+| 25 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 26 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
+| 27 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 28 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
+| 29 | [#LetztenGeneration](http://twitter.com/search?q=%23LetztenGeneration) | N/A |
+| 30 | [#Berlin2030](http://twitter.com/search?q=%23Berlin2030) | N/A |
+| 31 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 32 | [#b2503](http://twitter.com/search?q=%23b2503) | N/A |
+| 33 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
+| 34 | [#Sommerzeit](http://twitter.com/search?q=%23Sommerzeit) | N/A |
+| 35 | [#Salihamidzic](http://twitter.com/search?q=%23Salihamidzic) | N/A |
+| 36 | [#NordStream](http://twitter.com/search?q=%23NordStream) | N/A |
+| 37 | [#Selbstbestimmungsgesetz](http://twitter.com/search?q=%23Selbstbestimmungsgesetz) | N/A |
+| 38 | [#FDPrausausderRegierung](http://twitter.com/search?q=%23FDPrausausderRegierung) | N/A |
+| 39 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
+| 40 | [#Kahn](http://twitter.com/search?q=%23Kahn) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-25 16:18:04 UTC`
+📆 Last Updated: `2023-03-25 17:20:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Colombia
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 2 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
-| 5 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 6 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
-| 7 | [#70000Millones](http://twitter.com/search?q=%2370000Millones) | N/A |
-| 8 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
-| 9 | [Quórum](http://twitter.com/search?q=Qu%c3%b3rum) | N/A |
-| 10 | [#FelizSábado](http://twitter.com/search?q=%23FelizS%c3%a1bado) | N/A |
-| 11 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 12 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
-| 13 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 4 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
+| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 6 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
+| 7 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
+| 8 | [#70000Millones](http://twitter.com/search?q=%2370000Millones) | N/A |
+| 9 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 10 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
+| 11 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 12 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 15 | [Juan Fernando Quintero](http://twitter.com/search?q=Juan+Fernando+Quintero) | N/A |
-| 16 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 17 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 18 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
-| 19 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 20 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 21 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 22 | [Luther King](http://twitter.com/search?q=Luther+King) | N/A |
-| 23 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 24 | [Monómeros](http://twitter.com/search?q=Mon%c3%b3meros) | N/A |
-| 25 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 26 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 27 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
+| 16 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 17 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
+| 18 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 19 | [Monomeros](http://twitter.com/search?q=Monomeros) | N/A |
+| 20 | [Timochenko](http://twitter.com/search?q=Timochenko) | N/A |
+| 21 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 22 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 23 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 24 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 25 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 27 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
 | 28 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 29 | [Timochenko](http://twitter.com/search?q=Timochenko) | N/A |
-| 30 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 31 | [Devuelva](http://twitter.com/search?q=Devuelva) | N/A |
-| 32 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 33 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 34 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
-| 35 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 36 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 37 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
-| 38 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
-| 39 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 41 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 29 | [Jerry Rivera](http://twitter.com/search?q=Jerry+Rivera) | N/A |
+| 30 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 31 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 32 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 33 | [Corea](http://twitter.com/search?q=Corea) | N/A |
+| 34 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
+| 35 | [Eider Arévalo](http://twitter.com/search?q=Eider+Ar%c3%a9valo) | N/A |
+| 36 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
+| 37 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 38 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 39 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
+| 40 | [Devuelva](http://twitter.com/search?q=Devuelva) | N/A |
+| 41 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 42 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
-| 43 | [Vuelta a Cataluña](http://twitter.com/search?q=Vuelta+a+Catalu%c3%b1a) | N/A |
-| 44 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 45 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 46 | [Quédese](http://twitter.com/search?q=Qu%c3%a9dese) | N/A |
-| 47 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 48 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 49 | [Inpec](http://twitter.com/search?q=Inpec) | N/A |
-| 50 | [politiquera](http://twitter.com/search?q=politiquera) | N/A |
+| 43 | [Mario Hernández](http://twitter.com/search?q=Mario+Hern%c3%a1ndez) | N/A |
+| 44 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 45 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 46 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 47 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 48 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 49 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 50 | [Inpec](http://twitter.com/search?q=Inpec) | N/A |
 
 
 
